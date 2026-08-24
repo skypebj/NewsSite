@@ -1,8 +1,12 @@
 {
   "date": "20260824",
-  "total": 10,
+  "total": 24,
   "sources": {
     "bbc": {
+      "status": "ok",
+      "entries": 10
+    },
+    "fox": {
       "status": "ok",
       "entries": 0
     },
@@ -22,10 +26,6 @@
       "status": "ok",
       "entries": 0
     },
-    "fox": {
-      "status": "ok",
-      "entries": 0
-    },
     "apnews": {
       "status": "ok",
       "entries": 0
@@ -33,78 +33,182 @@
   },
   "entries": [
     {
-      "title": "King of Norway's health has worsened, palace says",
-      "link": "",
-      "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-      "published": "",
-      "title_zh": "王宫称挪威国王健康状况恶化",
-      "summary_zh": "挪威国王哈拉尔因血液细菌感染仍在医院接受抗生素治疗。"
-    },
-    {
-      "title": "France links sharp rise in drownings to heatwaves",
-      "link": "",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "published": "",
-      "title_zh": "法国将溺水人数急剧上升与热浪联系起来",
-      "summary_zh": "一位政府部长表示，人们一直冒险跳入水中，自 6 月 19 日以来已有 301 人死亡。"
-    },
-    {
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "published": "",
-      "title_zh": "特朗普挥舞绿旗在华盛顿街头开始印地赛车比赛",
-      "summary_zh": "总统在比赛前在赛道上绕了一圈，这是整个夏天纪念该国 250 岁生日活动的高潮。"
-    },
-    {
-      "title": "Salah scores first two Trabzonspor goals",
-      "link": "",
-      "summary": "Mohamed Salah scores twice on his first Turkish Super Lig start for Trabzonspor - and almost has a hat-trick - as they beat Istanbul Basaksehir.",
-      "published": "",
-      "title_zh": "萨拉赫为特拉布宗体育队前两粒进球",
-      "summary_zh": "穆罕默德·萨拉赫在特拉布宗体育队首次在土耳其超级联赛首发中梅开二度，并且差点上演帽子戏法，帮助球队击败伊斯坦布尔巴萨克谢希尔。"
-    },
-    {
-      "title": "Enes Kanter Freedom speaks out on WNBA ejection, reveals new details",
+      "title": "McMahon puts schools on notice over teachers accused of sexual misconduct",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 公开谈论 WNBA 被驱逐的事情，并透露了新细节"
+      "title_zh": "麦克马洪就教师被指控性行为不端向学校发出警告"
     },
     {
-      "title": "The 'revolution' taking the food industry by storm may cost up $55B per year",
+      "title": "Trump's New Jersey home could hold key to GOP, Dems election victory",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "席卷食品行业的“革命”每年可能花费 55B 美元"
+      "title_zh": "特朗普在新泽西州的家可能是共和党和民主党选举胜利的关键"
     },
     {
-      "title": "Once dubbed 'World's Sexiest Athlete,' she's back and making summer count",
+      "title": "Mom blasts Lindsay Clancy rally as hundreds back mother accused of killing her kids",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "曾经被称为“世界上最性感的运动员”的她回来了，让夏天变得有意义"
+      "title_zh": "妈妈抨击林赛·克兰西集会，数百人支持被指控杀害孩子的母亲"
     },
     {
-      "title": "Iran’s rial currency hits new record low as US prepares to announce more sanctions",
-      "link": "https://apnews.com/article/iran-rial-currency-bessent-trade-august-24-2026-e367634d8853c8fa4a341132cd577f31",
+      "title": "Thune-aligned groups unleash historic war chest to defend Senate majority",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国准备宣布更多制裁，伊朗里亚尔汇率创历史新低"
+      "title_zh": "图恩联盟团体释放历史性的战争资金来捍卫参议院多数席位"
     },
     {
-      "title": "European leaders join Zelenskyy in Kyiv for Ukraine’s Independence Day as Russian invasion pushes on",
-      "link": "https://apnews.com/article/russia-ukraine-war-independence-burnham-f9db9e721a230e5881405603a423785c",
+      "title": "Common medication tied to troubling risk for men’s eyesight",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着俄罗斯入侵的推进，欧洲领导人与泽连斯基一起在基辅庆祝乌克兰独立日"
+      "title_zh": "与男性视力问题相关的常见药物"
     },
     {
-      "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan",
-      "link": "https://apnews.com/article/pakistan-world-cricketers-appeal-imran-khan-health-ef31563b0a9122c6752c09b9b6b73782",
+      "title": "9/11 is becoming history. My generation must make sure America never forgets",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "世界各地的板球队长再次呼吁伊姆兰·汗接受治疗"
+      "title_zh": "9/11 正在成为历史。我这一代人必须确保美国永远不会忘记"
+    },
+    {
+      "title": "Financial influencer reveals what America's everyday millionaires have in common",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "金融影响者揭示了美国日常百万富翁的共同点"
+    },
+    {
+      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "link": "",
+      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "published": "",
+      "title_zh": "“我一半的生意将会消失”——加拿大和美国的公司担心贸易战",
+      "summary_zh": "随着针锋相对的进口税不断提高，两国企业主都在应对不确定性和担忧。"
+    },
+    {
+      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "link": "",
+      "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+      "published": "",
+      "title_zh": "山火逼近内华达州里诺市 近 9 万人被告知撤离",
+      "summary_zh": "官员称，火势已烧毁约 10,500 英亩，且完全没有得到控制。"
+    },
+    {
+      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+      "link": "",
+      "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
+      "published": "",
+      "title_zh": "“吓死了”：随着野火蔓延，数千人撤离内华达州的房屋",
+      "summary_zh": "随着野火在里诺郊区蔓延，美国各州数万人已被警告撤离。"
+    },
+    {
+      "title": "Burnham in Ukraine to hand over UK blueprints to make long-range missiles",
+      "link": "",
+      "summary": "Andy Burnham's first foreign visit as UK PM comes a week after Russia warned of \"consequences\" over Kyiv using British-made drones.",
+      "published": "",
+      "title_zh": "乌克兰的伯纳姆将移交英国制造远程导弹的蓝图",
+      "summary_zh": "安迪·伯纳姆作为英国首相首次出访一周前，俄罗斯就使用英国制造的无人机对基辅造成的“后果”发出警告。"
+    },
+    {
+      "title": "The formidable challenges facing new Tata boss",
+      "link": "",
+      "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+      "published": "",
+      "title_zh": "塔塔新任老板面临的艰巨挑战",
+      "summary_zh": "印度企业界最令人垂涎​​的最高职位正在空缺。但为塔塔之子寻找新的领导者并不是一件容易的事。"
+    },
+    {
+      "title": "Maradona's 'Hand of God' ball sells for $3.3m in US auction",
+      "link": "",
+      "summary": "It is the football with which the star scored an infamous goal in a 1986 World Cup win against England.",
+      "published": "",
+      "title_zh": "马拉多纳的“上帝之手”球在美国拍卖会上以 330 万美元的价格售出",
+      "summary_zh": "这位球星在 1986 年世界杯战胜英格兰队的比赛中攻入了臭名昭著的进球。"
+    },
+    {
+      "title": "Esports World Cup ends with surprise win for China-based team",
+      "link": "",
+      "summary": "AG.AL claim the overall title and $7m (£5.1m) top prize at the third Esports World Cup in Paris.",
+      "published": "",
+      "title_zh": "电子竞技世界杯中国队意外获胜落下帷幕",
+      "summary_zh": "AG.AL 在巴黎举行的第三届电子竞技世界杯上夺得总冠军和 700 万美元（510 万英镑）的最高奖金。"
+    },
+    {
+      "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+      "link": "",
+      "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.",
+      "published": "",
+      "title_zh": "伊劳拉得到了缓解，但利物浦在战平纽卡斯尔后还有很多工作要做",
+      "summary_zh": "多米尼克·索博斯莱（Dominik Szoboszlai）在伤停补时阶段的点球在安多尼·伊劳拉（Andoni Iraola）时代开始时挽救了一分，但利物浦在低于标准杆的表现后需要改进。"
+    },
+    {
+      "title": "Gordon makes two assists on debut as Barcelona thrash Elche",
+      "link": "",
+      "summary": "Raphinha scores twice and Anthony Gordon provides two assists on his debut as La Liga champions Barcelona open their campaign with a 5-0 win at Elche.",
+      "published": "",
+      "title_zh": "戈登首秀送出两次助攻，巴萨大胜埃尔切",
+      "summary_zh": "拉芬哈梅开二度，安东尼戈登在他的处子秀中送出两次助攻，西甲冠军巴塞罗那以5-0战胜埃尔切，开启了他们的赛季。"
+    },
+    {
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "link": "",
+      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+      "published": "",
+      "title_zh": "马拉多纳的“上帝之手”球售价 250 万英镑",
+      "summary_zh": "1986 年世界杯四分之一决赛战胜英格兰队时，迭戈·马拉多纳 (Diego Maradona) 攻入著名的“上帝之手”进球时所用的足球正在拍卖。"
+    },
+    {
+      "title": "Republicans wrestle with data center backlash as Trump promotes the benefits",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-data-center-backlash-trump-rcna592410",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着特朗普宣传数据中心的好处，共和党人正在努力应对数据中心的强烈反对"
+    },
+    {
+      "title": "House Democrats demand Trump admin provide full accounting of Iran war costs",
+      "link": "https://www.nbcnews.com/politics/national-security/house-democrats-demand-trump-administration-provide-full-accounting-ir-rcna593788",
+      "summary": "",
+      "published": "",
+      "title_zh": "众议院民主党人要求特朗普政府提供伊朗战争成本的完整核算"
+    },
+    {
+      "title": "Candidates turn to Grandma and Grandpa to make their case",
+      "link": "https://www.nbcnews.com/politics/2026-election/candidates-turn-grandma-grandpa-make-case-rcna592861",
+      "summary": "",
+      "published": "",
+      "title_zh": "候选人向爷爷奶奶求助"
+    },
+    {
+      "title": "Why nuclear energy is making a global comeback",
+      "link": "https://www.nbcnews.com/world/russia/nuclear-energy-making-global-comeback-cfr-rcna594077",
+      "summary": "",
+      "published": "",
+      "title_zh": "核能为何在全球卷土重来"
+    },
+    {
+      "title": "World shares decline and oil prices slip ahead of sanctions announcement",
+      "link": "https://apnews.com/article/stocks-markets-futures-bonds-oil-8ab800029c559c5e751058ac1a8ef932",
+      "summary": "",
+      "published": "",
+      "title_zh": "在宣布制裁之前，世界股市下跌，油价下跌"
+    },
+    {
+      "title": "Indonesia intensifies aerial firefighting as forest fires scorch multiple provinces",
+      "link": "https://apnews.com/article/indonesia-kalimantan-sumatra-peatland-forest-fires-68c55926aa3f2615e57cd59f2449f802",
+      "summary": "",
+      "published": "",
+      "title_zh": "森林大火烧毁多个省份 印尼加强空中灭火"
+    },
+    {
+      "title": "Hungarian air force Gripen jet crashes, pilot ejects safely, prime minister says",
+      "link": "https://apnews.com/article/hungary-fighter-jet-crash-pilot-safe-2c426cb2ed8b85726c36971c84f23416",
+      "summary": "",
+      "published": "",
+      "title_zh": "匈牙利总理表示，匈牙利空军鹰狮战斗机坠毁，飞行员安全弹射"
     }
   ]
 }
