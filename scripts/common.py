@@ -26,10 +26,15 @@ def get_date_str():
     return datetime.now().strftime('%Y%m%d')
 
 def hash_text(text):
+    """安全哈希，处理 None 和空字符串"""
+    if text is None:
+        text = ''
     return hashlib.md5(text.encode('utf-8')).hexdigest()
 
 def translate_text(text, src='en', dest='zh-cn'):
-    """使用googletrans翻译，失败时返回原文"""
+    """使用 googletrans 翻译，失败时返回原文"""
+    if not text or not isinstance(text, str):
+        return text
     try:
         from googletrans import Translator
         translator = Translator()
