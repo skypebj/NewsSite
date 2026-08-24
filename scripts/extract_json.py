@@ -1,10 +1,11 @@
 import os
 import json
-from datetime import datetime
+import re
+from datetime import datetime, timedelta  # 统一在顶部导入
 from bs4 import BeautifulSoup
 from common import URLS, get_date_str, hash_text, translate_text, load_state, save_state
 
-# 提取器（仅列出 BBC 和 Fox，其他可扩展）
+# 提取器（仅列出 BBC 和 Fox）
 def extract_bbc(html):
     soup = BeautifulSoup(html, 'lxml')
     articles = soup.select('div[data-testid="card-text-wrapper"]')
@@ -64,14 +65,12 @@ def extract_generic(html):
 EXTRACTORS = {
     'bbc': extract_bbc,
     'fox': extract_fox,
-    # 其他网站可添加映射，默认使用 generic
 }
 
 def main():
     state = load_state()
     date_str = get_date_str()
     seen_hashes = set(state.get('seen_hashes', []))
-    new_hashes = []
     all_entries = []
     site_stats = {}
 
@@ -79,7 +78,6 @@ def main():
     json_dir = 'docs/json'
     os.makedirs(json_dir, exist_ok=True)
 
-    # 获取当天所有 HTML 文件（按网站）
     for filename in os.listdir(html_dir):
         if not filename.endswith('.html'):
             continue
@@ -98,20 +96,15 @@ def main():
             site_stats[site] = {'status': 'fail', 'entries': 0, 'error': str(e)}
             continue
 
-        # 去重
         unique_entries = []
         for entry in entries:
-            # 确保 identifier 为非空字符串
             identifier = entry.get('link') or entry.get('title') or ''
             if not identifier:
-                # 如果连标题都没有，跳过
                 continue
             h = hash_text(identifier)
             if h in seen_hashes:
                 continue
             seen_hashes.add(h)
-            new_hashes.append(h)
-            # 翻译（标题和摘要）
             if entry.get('title'):
                 entry['title_zh'] = translate_text(entry['title'])
             if entry.get('summary'):
@@ -121,11 +114,9 @@ def main():
         all_entries.extend(unique_entries)
         site_stats[site] = {'status': 'ok', 'entries': len(unique_entries)}
 
-    # 更新状态
     state['last_run'] = datetime.now().isoformat()
     state['last_date'] = date_str
     state['seen_hashes'] = list(seen_hashes)
-    # 更新连续失败计数
     for site in URLS.keys():
         if site in site_stats and site_stats[site]['status'] == 'ok':
             state['failure_count'][site] = 0
@@ -133,7 +124,6 @@ def main():
             state['failure_count'][site] = state['failure_count'].get(site, 0) + 1
     save_state(state)
 
-    # 保存今日 JSON（全量）
     if all_entries:
         today_json = {
             'date': date_str,
@@ -146,33 +136,24 @@ def main():
             json.dump(today_json, f, ensure_ascii=False, indent=2)
         print(f"✅ 今日数据保存至 {json_path}")
 
-        # 更新 latest.json
         latest_path = 'docs/latest.json'
         with open(latest_path, 'w', encoding='utf-8') as f:
             json.dump(today_json, f, ensure_ascii=False, indent=2)
         print(f"✅ 最新数据更新至 {latest_path}")
 
-        # 生成发布频率统计（按小时，从 published 提取）
         freq = {}
         for entry in all_entries:
             pub = entry.get('published', '')
-            # 尝试提取小时（简化：若包含数字+hour/min，则粗略处理，否则用当前小时）
-            import re
             hour_match = re.search(r'(\d+)\s*(hour|hr|h|分钟|minute|min)', pub, re.I)
             if hour_match:
                 num = int(hour_match.group(1))
-                # 如果是分钟，忽略；如果是小时，计算当前时间减去小时数
                 if 'min' in hour_match.group(2).lower():
-                    # 忽略分钟
                     pass
                 else:
-                    # 简单处理：用当前时间减去小时数
-                    from datetime import datetime, timedelta
                     now = datetime.now()
                     target_hour = (now - timedelta(hours=num)).strftime('%H')
                     freq[target_hour] = freq.get(target_hour, 0) + 1
             else:
-                # 默认使用当前小时
                 current_hour = datetime.now().strftime('%H')
                 freq[current_hour] = freq.get(current_hour, 0) + 1
         freq_path = 'docs/freq.json'
@@ -182,7 +163,6 @@ def main():
     else:
         print("⚠️ 没有提取到任何新闻条目")
 
-    # 生成健康状态 JSON
     health = {
         'last_run': state['last_run'],
         'last_date': state['last_date'],
