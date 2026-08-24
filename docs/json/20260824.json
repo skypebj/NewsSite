@@ -1,6 +1,6 @@
 {
   "date": "20260824",
-  "total": 30,
+  "total": 25,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "fox": {
       "status": "ok",
-      "entries": 13
+      "entries": 0
     },
     "cnn": {
       "status": "ok",
@@ -20,7 +20,7 @@
     },
     "nbcnews": {
       "status": "ok",
-      "entries": 0
+      "entries": 1
     },
     "nytimes": {
       "status": "ok",
@@ -33,224 +33,186 @@
   },
   "entries": [
     {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "link": "",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "published": "",
-      "title_zh": "美国财政部长称伊朗面临“有史以来最大规模的金融攻势”",
-      "summary_zh": "斯科特·贝森特表示，美国将切断与伊朗的所有经济联系，任何与伊朗进行经济合作的国家也将被孤立。"
-    },
-    {
-      "title": "Tens of thousands urged to evacuate as wildfire approaches Reno, Nevada",
-      "link": "",
-      "summary": "The blaze, which officials say was caused by people, was first reported on Saturday morning and Nevada's governor has declared a state of emergency.",
-      "published": "",
-      "title_zh": "野火逼近内华达州里诺 数万人被敦促撤离",
-      "summary_zh": "官员称火灾是人为造成的，火灾于周六上午首次报道，内华达州州长已宣布进入紧急状态。"
-    },
-    {
-      "title": "Afghan woman, 18, tries to persuade Taliban governor to support her divorce",
-      "link": "",
-      "summary": "An 18-year-old woman who accuses her husband of abuse asks a regional governor to support a request to end her marriage.",
-      "published": "",
-      "title_zh": "阿富汗18岁女子试图说服塔利班州长支持她离婚",
-      "summary_zh": "一名 18 岁女性指控丈夫虐待她，请求州长支持结束婚姻的请求。"
-    },
-    {
-      "title": "'Half my business will be gone': Firms in Canada and US fear trade war",
-      "link": "",
-      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "published": "",
-      "title_zh": "“我一半的生意将会消失”：加拿大和美国的公司担心贸易战",
-      "summary_zh": "随着针锋相对的进口税不断提高，两国企业主都在应对不确定性和担忧。"
-    },
-    {
-      "title": "Toddler with sun allergy can play in daylight thanks to UV window film",
-      "link": "",
-      "summary": "Two-year-old Mollie Murray from Scotland has a rare genetic disorder that makes her extremely sensitive to ultraviolet light",
-      "published": "",
-      "title_zh": "有了紫外线窗膜，对阳光过敏的幼儿可以在日光下玩耍",
-      "summary_zh": "来自苏格兰的两岁莫莉·默里患有一种罕见的遗传性疾病，这使得她对紫外线极其敏感"
-    },
-    {
-      "title": "Twelve arrested in connection with UK crash that killed two police officers",
-      "link": "",
-      "summary": "PCs Tom Clough and Matthew Blades died after a car, driving the wrong way on the A66, collided with theirs. Police say the investigation has \"significant links to serious and organised criminal activity\".",
-      "published": "",
-      "title_zh": "十二人因英国车祸导致两名警察死亡而被捕",
-      "summary_zh": "电脑汤姆·克拉夫 (Tom Clough) 和马修·布莱兹 (Matthew Blades) 在 A66 公路上逆向行驶的汽车与他们的车相撞后身亡。警方表示，调查“与严重且有组织的犯罪活动存在重大联系”。"
-    },
-    {
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "link": "",
-      "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-      "published": "",
-      "title_zh": "四人因涉嫌在肯尼亚中毒大象而被捕",
-      "summary_zh": "一项调查正在调查死亡是否是由喷洒在番茄作物上的杀虫剂造成的。"
-    },
-    {
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "link": "",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "published": "",
-      "title_zh": "新西兰将出台16岁以下青少年社交媒体禁令法案",
-      "summary_zh": "政府的提议面临议员们的反对，他们认为禁令不会起作用。"
-    },
-    {
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "link": "",
-      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-      "published": "",
-      "title_zh": "前板球队长敦促为伊姆兰·汗提供“适当的医疗护理”",
-      "summary_zh": "前船长表示，巴基斯坦遵守法院下令的医疗评估是“基本的礼貌”。"
-    },
-    {
-      "title": "Alonso 'always thinking' but Arbeloa becoming boss 'a surprise' - Benitez",
-      "link": "",
-      "summary": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
-      "published": "",
-      "title_zh": "贝尼特斯：阿隆索“一直在思考”，但阿韦洛亚成为主帅“令人惊讶”",
-      "summary_zh": "前利物浦主教练拉斐尔·贝尼特斯谈及他的前球员哈维·阿隆索和阿尔瓦罗·阿贝洛亚，他们将在周一富勒姆主场迎战切尔西时以主教练身份对战。"
-    },
-    {
-      "title": "Lindsay Clancy trial resumes with testy cross examination of expert",
-      "link": "https://www.nbcnews.com/news/crime-courts/live-blog/lindsay-clancy-trial-rcna594029",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西审判继续进行，专家进行了激烈的盘问"
-    },
-    {
-      "title": "Mothers who experienced postpartum psychosis speak out amid Lindsay Clancy trial",
-      "link": "https://www.nbcnews.com/health/womens-health/mothers-postpartum-psychosis-lindsay-clancy-rcna591756",
-      "summary": "",
-      "published": "",
-      "title_zh": "经历过产后精神病的母亲在林赛·克兰西审判中发声"
-    },
-    {
-      "title": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50%",
-      "link": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-autos-metals-rcna594108",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普回击卡尼，威胁将汽车、卡车和金属关税提高至50%"
-    },
-    {
-      "title": "Send in your questions on AI and robotics for Janis Mackey Frayer",
-      "link": "https://www.nbcnews.com/world/china/send-questions-ai-robotics-janis-mackey-frayer-rcna593744",
-      "summary": "",
-      "published": "",
-      "title_zh": "向 Janis Mackey Frayer 发送有关人工智能和机器人技术的问题"
-    },
-    {
-      "title": "Enes Kanter Freedom altercation sparks reaction from Indiana Fever head coach",
+      "title": "Source confirms details of Bessent's ‘Economic D-Day’ against Iran",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃内斯·坎特的自由争吵引发了印第安纳热队主教练的反应"
+      "title_zh": "消息来源证实了贝森特针对伊朗的“经济诺曼底登陆”的细节"
     },
     {
-      "title": "Trump's green flag on a patriotic weekend sends the left spiraling out of control",
+      "title": "Lindsay Clancy's attorney gets the prosecution's key witness to make unexpected admission",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在爱国周末举起绿旗，导致左派失控"
+      "title_zh": "林赛·克兰西的律师让检方关键证人出人意料地承认"
     },
     {
-      "title": "Birth tourism scam draws sweeping crackdown as visa revocations climb",
+      "title": "Washington Post ordered to reinstate columnist axed after Charlie Kirk's death",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着签证被撤销人数的增加，生育旅游骗局受到严厉打击"
+      "title_zh": "《华盛顿邮报》下令恢复查理·柯克去世后被解雇的专栏作家"
     },
     {
-      "title": "Karmelo Anthony’s push for different judge comes back to bite in murder case",
+      "title": "Alaska’s same-name Senate fight somehow gets stranger as a third namesake picks a side",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡梅洛·安东尼在谋杀案中要求更换法官的努力再次受到影响"
+      "title_zh": "随着第三位同名参议员选择一方，阿拉斯加的同名参议院之争不知何故变得奇怪"
     },
     {
-      "title": "Bessent issues chilling warning to Iranian allies: 'Tehran stands alone'",
+      "title": "WATCH LIVE:VP Vance speaks in Maine as midterm fight heats up",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贝森特向伊朗盟友发出令人心寒的警告：“德黑兰孤立无援”"
+      "title_zh": "观看直播：副总统万斯在缅因州发表讲话，中期选举白热化"
     },
     {
-      "title": "Trump turns up pressure on Canada with new 50% tariffs on key industries",
+      "title": "Quarterbacks put on notice as coaching staff makes a stunning preseason roster decision",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普对加拿大施加新的50%关税"
+      "title_zh": "Quarterbacks put on notice as coaching staff makes a stunning preseason roster decision"
     },
     {
-      "title": "Lindsay Clancy's attorney goes after prosecution psychiatrist's qualifications",
+      "title": "Ex-deputy convicted of killing Sonya Massey dies in prison while serving 20 years",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西的律师追查检方精神病医生的资格"
+      "title_zh": "因杀害索尼娅·马西 (Sonya Massey) 被定罪的前副警长在监狱服刑 20 年后去世"
     },
     {
-      "title": "TUNE IN:Exclusive interview with Michigan Senate nom El-Sayed on 'Primetime' tonight",
+      "title": "Pro golfer caps off big tournament win by announcing massive move with girlfriend",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "收看：今晚“黄金时段”对密歇根州参议院提名人埃尔-赛义德的独家采访"
+      "title_zh": "职业高尔夫球手宣布与女友进行重大举动，赢得重大赛事胜利"
     },
     {
-      "title": "Top-ranked golfer played through big tournament with 'pretty painful' children's disease",
+      "title": "Popular beer brand to cut 220 jobs as production shifts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "顶级高尔夫球手带着“相当痛苦”的儿童疾病参加了大型锦标赛"
+      "title_zh": "Popular beer brand to cut 220 jobs as production shifts"
     },
     {
-      "title": "Joe Manchin says how Alexandria Ocasio-Cortez would be as US president",
+      "title": "Country music superstar goes viral for the best reason possible during concert",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔·曼钦表示亚历山大·奥卡西奥-科尔特斯将如何担任美国总统"
+      "title_zh": "乡村音乐巨星在音乐会期间以最好的理由走红"
     },
     {
-      "title": "NYC slapped with lawsuit over mayor's government grocery store plans",
+      "title": "Watch the exclusive interview with Enes Kanter Freedom tonight on ‘The Ingraham Angle’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约市对市长政府杂货店计划提起诉讼"
+      "title_zh": "今晚观看“英格拉汉姆角度”节目对埃内斯·坎特·自由的独家专访"
     },
     {
-      "title": "'Harry Potter' star felt 'embarrassed' turning to OnlyFans to support 4 kids",
+      "title": "Ontario’s premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
+      "link": "https://apnews.com/article/canada-trade-trump-ontario-53c4f83c8365c14b372b314396ae8179",
+      "summary": "",
+      "published": "",
+      "title_zh": "安大略省省长：随着贸易困境恶化，加拿大应准备好削减电力和关键矿产"
+    },
+    {
+      "title": "Firefighters are trying to stop a fast-moving Nevada wildfire from spreading to homes in Reno",
+      "link": "https://apnews.com/article/hawk-fire-reno-nevada-evacuations-b572e2a15fe6a263231e04ea932cf6c8",
+      "summary": "",
+      "published": "",
+      "title_zh": "Firefighters are trying to stop a fast-moving Nevada wildfire from spreading to homes in Reno"
+    },
+    {
+      "title": "Deportees who refused to exit a US flight in Liberia are sent to Equatorial Guinea",
+      "link": "https://apnews.com/article/deportations-migrants-trump-liberia-equatorial-guinea-7ad8054e3a544882801e434c9b457483",
+      "summary": "",
+      "published": "",
+      "title_zh": "拒绝离开利比里亚美国航班的被驱逐者被送往赤道几内亚"
+    },
+    {
+      "title": "Denmark’s prime minister blasts unsolicited beauty advice from plastic surgeon on Instagram",
+      "link": "https://apnews.com/article/denmark-prime-minister-mette-frederiksen-body-shaming-bbf3d735afa5355f440c66c205457afe",
+      "summary": "",
+      "published": "",
+      "title_zh": "丹麦首相在 Instagram 上抨击整形外科医生主动提供的美容建议"
+    },
+    {
+      "title": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts",
+      "link": "https://apnews.com/article/washington-post-karen-attiah-black-media-fired-4a8baf98ba45959a2a8120e9981d0643",
+      "summary": "",
+      "published": "",
+      "title_zh": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts"
+    },
+    {
+      "title": "Former world snooker champion Graeme Dott convicted of sexually abusing 2 small children",
+      "link": "https://apnews.com/article/graeme-dott-snooker-champion-child-abuse-scotland-6b05f5d43bbdd864f55a33cb2c778c7a",
+      "summary": "",
+      "published": "",
+      "title_zh": "前斯诺克世界冠军格雷姆·多特因性虐待两名儿童被判有罪"
+    },
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "link": "",
-      "summary": "",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "published": "",
-      "title_zh": "《哈利·波特》明星转向 OnlyFans 来支持 4 个孩子，感到“尴尬”"
+      "title_zh": "英国首相伯纳姆誓言支持乌克兰，尽管俄罗斯发出“无耻的威胁”",
+      "summary_zh": "此前，莫斯科就乌克兰使用英国无人机的报道发出“后果”警告。"
     },
     {
-      "title": "RNC calls Florida's new leftist candidate 'unfit' over election overhaul push",
+      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
       "link": "",
-      "summary": "",
+      "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
       "published": "",
-      "title_zh": "共和党全国委员会称佛罗里达州新左翼候选人“不适合”推动选举改革"
+      "title_zh": "英国提供的导弹可能会帮助乌克兰 - 但它们并不是泽连斯基最需要的",
+      "summary_zh": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles."
     },
     {
-      "title": "Third time the charm? Democrat Christina Bohannan tries again in pivotal US House race in Iowa",
-      "link": "https://apnews.com/article/iowa-congress-bohannan-miller-meeks-1st-district-c57a850173a060beb7a35138d585ac46",
-      "summary": "",
+      "title": "World's oceans hit highest temperature on record as El Niño grows",
+      "link": "",
+      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
       "published": "",
-      "title_zh": "第三次魅力？民主党人克里斯蒂娜·博汉南在爱荷华州的关键美国众议院竞选中再次尝试"
+      "title_zh": "随着厄尔尼诺现象的加剧，世界海洋达到有记录以来的最高温度",
+      "summary_zh": "欧洲哥白尼气候变化服务机构的萨曼莎·伯吉斯博士表示，这一记录“是海洋压力日益增大的又一个明显信号”。"
     },
     {
-      "title": "Why the bond market is flexing its muscles, and why everyone needs to care",
-      "link": "https://apnews.com/article/bond-market-yields-treasury-mortgages-savings-b62bedeb7a8b7d5479e25a560b52176c",
-      "summary": "",
+      "title": "Prince Harry steps down from African wildlife charity board",
+      "link": "",
+      "summary": "Last year the organisation African Parks  admitted human rights abuses were committed by its rangers in Congo-Brazzaville.",
       "published": "",
-      "title_zh": "为什么债券市场正在大展拳脚，为什么每个人都需要关心"
+      "title_zh": "哈里王子辞去非洲野生动物慈善委员会职务",
+      "summary_zh": "去年，非洲公园组织承认其护林员在刚果-布拉柴维尔犯下侵犯人权行为。"
     },
     {
-      "title": "Prince Harry to leave board of African Parks conservation nonprofit",
-      "link": "https://apnews.com/article/prince-harry-african-parks-conservation-54b1e7e83be96e682a848b483b2ad3d6",
+      "title": "'101-year-old great-grandmother' arrested for selling cannabis in Nigeria",
+      "link": "",
+      "summary": "Esther Ogunmabo is accused of selling \"retail sachets\" of a strain of cannabis known as skunk.",
+      "published": "",
+      "title_zh": "“101岁曾祖母”因在尼日利亚出售大麻被捕",
+      "summary_zh": "Esther Ogunmabo 被指控销售一种被称为臭鼬的大麻品种的“零售袋”。"
+    },
+    {
+      "title": "England drop Carse after nightclub incident",
+      "link": "",
+      "summary": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by police.",
+      "published": "",
+      "title_zh": "夜总会事件后英格兰队放弃了卡尔塞",
+      "summary_zh": "佩斯投球手布莱登·卡尔斯在一次导致他被警察戴上手铐的事件后被从英格兰队参加第二次对阵巴基斯坦的测试队中除名。"
+    },
+    {
+      "title": "Does Elliott have a Liverpool future after latest omission?",
+      "link": "",
+      "summary": "Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.",
+      "published": "",
+      "title_zh": "在最近的遗漏之后，埃利奥特还有利物浦的未来吗？",
+      "summary_zh": "哈维·埃利奥特（Harvey Elliott）在英超赛季首周末缺席纽卡斯尔的比赛阵容后，他在利物浦的位置似乎不确定。"
+    },
+    {
+      "title": "Chinese robots can do backflips and run fast. But can they do your chores?",
+      "link": "https://www.nbcnews.com/world/asia/china-robots-humanoid-games-unitree-us-ban-rcna593069",
       "summary": "",
       "published": "",
-      "title_zh": "哈里王子将离开非洲公园保护非营利组织董事会"
+      "title_zh": "中国机器人可以后空翻，跑得快。但他们能做你的家务吗？"
     }
   ]
 }
