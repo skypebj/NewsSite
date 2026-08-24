@@ -1,6 +1,6 @@
 {
   "date": "20260824",
-  "total": 25,
+  "total": 27,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -20,7 +20,7 @@
     },
     "nbcnews": {
       "status": "ok",
-      "entries": 1
+      "entries": 0
     },
     "nytimes": {
       "status": "ok",
@@ -33,186 +33,197 @@
   },
   "entries": [
     {
-      "title": "Source confirms details of Bessent's ‘Economic D-Day’ against Iran",
+      "title": "Nevada wildfire expected to burn for 48 hours and may spread further, officials say",
+      "link": "",
+      "summary": "The blaze, which officials say was caused by people, was first reported on Saturday morning and Nevada's governor has declared a state of emergency.",
+      "published": "",
+      "title_zh": "官员称内华达州山火预计将燃烧48小时并可能进一步蔓延",
+      "summary_zh": "官员称火灾是人为造成的，火灾于周六上午首次报道，内华达州州长已宣布进入紧急状态。"
+    },
+    {
+      "title": "Victims describe 'house of terror' abuse by mother, grandmother and stepfather",
+      "link": "",
+      "summary": "Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.",
+      "published": "",
+      "title_zh": "受害者描述母亲、祖母和继父的“恐怖之屋”虐待行为",
+      "summary_zh": "雪莉·弗里曼、朱莉娅·斯蒂芬和大卫·麦科尔的受害者遭到殴打、饥饿和心理折磨。"
+    },
+    {
+      "title": "London Zoo animals hop on scales for weigh-in",
+      "link": "",
+      "summary": "Kiwi the Capybara is among animals getting their annual health check while data is gathered and shared.",
+      "published": "",
+      "title_zh": "伦敦动物园的动物们跳上秤称重",
+      "summary_zh": "几维水豚是每年进行健康检查的动物之一，同时收集和共享数据。"
+    },
+    {
+      "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
+      "link": "",
+      "summary": "An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.",
+      "published": "",
+      "title_zh": "阿尔瓦雷斯在夏季最激烈的转会斗争中陷入阿森纳的困境",
+      "summary_zh": "分析朱利安·阿尔瓦雷斯在 9 月 1 日转会窗口关闭后的未来，以及阿根廷人从马德里竞技转会阿森纳的机会。"
+    },
+    {
+      "title": "Bessent details crushing 'Economic D-Day' sanctions targeting 5 of Iran's 'most vital lifelines'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "消息来源证实了贝森特针对伊朗的“经济诺曼底登陆”的细节"
+      "title_zh": "Bessent详细介绍了针对伊朗5条“最重要生命线”的“经济诺曼底登陆”制裁"
     },
     {
-      "title": "Lindsay Clancy's attorney gets the prosecution's key witness to make unexpected admission",
+      "title": "Hayden Panettiere's mom reveals the ultimatum she gave her daughter before she died",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西的律师让检方关键证人出人意料地承认"
+      "title_zh": "海顿·潘妮蒂尔的妈妈透露了她去世前给女儿的最后通牒"
     },
     {
-      "title": "Washington Post ordered to reinstate columnist axed after Charlie Kirk's death",
+      "title": "Ex-deputy who killed Sonya Massey after her 911 call dies in prison months into term",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《华盛顿邮报》下令恢复查理·柯克去世后被解雇的专栏作家"
+      "title_zh": "拨打 911 电话后杀死索尼娅·马西的前警官在服刑几个月后在监狱中去世"
     },
     {
-      "title": "Alaska’s same-name Senate fight somehow gets stranger as a third namesake picks a side",
+      "title": "John Cusack backs Mark Ruffalo after Paramount's 'appalling' antisemitism charge",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着第三位同名参议员选择一方，阿拉斯加的同名参议院之争不知何故变得奇怪"
+      "title_zh": "派拉蒙提出“令人震惊的”反犹太主义指控后，约翰·库萨克支持马克·鲁法洛"
     },
     {
-      "title": "WATCH LIVE:VP Vance speaks in Maine as midterm fight heats up",
+      "title": "QBs put on notice as coaching staff makes a stunning preseason roster decision",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：副总统万斯在缅因州发表讲话，中期选举白热化"
+      "title_zh": "QBs put on notice as coaching staff makes a stunning preseason roster decision"
     },
     {
-      "title": "Quarterbacks put on notice as coaching staff makes a stunning preseason roster decision",
+      "title": "Husband returns to home where wife was slain as neighbors notice strange routine",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Quarterbacks put on notice as coaching staff makes a stunning preseason roster decision"
+      "title_zh": "丈夫回到妻子被杀的家，邻居注意到奇怪的惯例"
     },
     {
-      "title": "Ex-deputy convicted of killing Sonya Massey dies in prison while serving 20 years",
+      "title": "LA ICE director reveals officers followed home, harassed as police fail to help in sanctuary city",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "因杀害索尼娅·马西 (Sonya Massey) 被定罪的前副警长在监狱服刑 20 年后去世"
+      "title_zh": "洛杉矶 ICE 局长透露，由于警方未能在庇护城提供帮助，警察被跟踪回家并受到骚扰"
     },
     {
-      "title": "Pro golfer caps off big tournament win by announcing massive move with girlfriend",
+      "title": "Lindsay Clancy’s limited  psychiatric history takes center stage in prosecution testimony",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "职业高尔夫球手宣布与女友进行重大举动，赢得重大赛事胜利"
+      "title_zh": "林赛·克兰西有限的精神病史成为检方证词的中心议题"
     },
     {
-      "title": "Popular beer brand to cut 220 jobs as production shifts",
+      "title": "Re-election-minded Republicans break with White House over grocery price move",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Popular beer brand to cut 220 jobs as production shifts"
+      "title_zh": "有意连任的共和党人因杂货价格变动与白宫决裂"
     },
     {
-      "title": "Country music superstar goes viral for the best reason possible during concert",
+      "title": "Joe Manchin predicts what Alexandria Ocasio-Cortez would be like as US president",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村音乐巨星在音乐会期间以最好的理由走红"
+      "title_zh": "乔·曼钦预测亚历山大·奥卡西奥-科尔特斯担任美国总统会是什么样子"
     },
     {
-      "title": "Watch the exclusive interview with Enes Kanter Freedom tonight on ‘The Ingraham Angle’",
+      "title": "Royce White predicts Enes Kanter Freedom gets banned by WNBA after court side clash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "今晚观看“英格拉汉姆角度”节目对埃内斯·坎特·自由的独家专访"
+      "title_zh": "罗伊斯·怀特 (Royce White) 预测埃内斯·坎特 (Enes Kanter Freedom) 在场边冲突后将被 WNBA 禁赛"
     },
     {
-      "title": "Ontario’s premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
-      "link": "https://apnews.com/article/canada-trade-trump-ontario-53c4f83c8365c14b372b314396ae8179",
+      "title": "GOP moderate breaks openly with Trump on tariffs ahead of a key midterm fight",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "安大略省省长：随着贸易困境恶化，加拿大应准备好削减电力和关键矿产"
+      "title_zh": "在关键的中期斗争之前，共和党温和派在关税问题上与特朗普公开决裂"
     },
     {
-      "title": "Firefighters are trying to stop a fast-moving Nevada wildfire from spreading to homes in Reno",
-      "link": "https://apnews.com/article/hawk-fire-reno-nevada-evacuations-b572e2a15fe6a263231e04ea932cf6c8",
+      "title": "Socialists ignite backlash over kids push in red state: ‘Next generation of comrades’",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Firefighters are trying to stop a fast-moving Nevada wildfire from spreading to homes in Reno"
+      "title_zh": "社会主义者激起了对孩子们在红色州推动的强烈反对：“下一代同志”"
     },
     {
-      "title": "Deportees who refused to exit a US flight in Liberia are sent to Equatorial Guinea",
-      "link": "https://apnews.com/article/deportations-migrants-trump-liberia-equatorial-guinea-7ad8054e3a544882801e434c9b457483",
+      "title": "Scrubs-wearing barefoot carjacker allegedly punches produce driver in wild ambush",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拒绝离开利比里亚美国航班的被驱逐者被送往赤道几内亚"
+      "title_zh": "据称，身穿工作服、赤脚的劫车犯在野外伏击中殴打农产品司机"
     },
     {
-      "title": "Denmark’s prime minister blasts unsolicited beauty advice from plastic surgeon on Instagram",
-      "link": "https://apnews.com/article/denmark-prime-minister-mette-frederiksen-body-shaming-bbf3d735afa5355f440c66c205457afe",
+      "title": "Vance gives shoutout to ‘our very independent friend, Susan Collins’",
+      "link": "https://apnews.com/live/trump-economy-news-updates-08-24-2026#000001a0-346b-dbea-a1a6-f6efce800000",
       "summary": "",
       "published": "",
-      "title_zh": "丹麦首相在 Instagram 上抨击整形外科医生主动提供的美容建议"
+      "title_zh": "万斯赞扬“我们非常独立的朋友苏珊·柯林斯”"
     },
     {
-      "title": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts",
-      "link": "https://apnews.com/article/washington-post-karen-attiah-black-media-fired-4a8baf98ba45959a2a8120e9981d0643",
+      "title": "Economists don’t expect reopening the US to Mexican cattle imports to reduce high beef prices",
+      "link": "https://apnews.com/article/screwworm-beef-prices-cattle-trump-border-mexico-399cebbea159ae51a8eaa2e13eb1ef14",
       "summary": "",
       "published": "",
-      "title_zh": "Washington Post ordered to reinstate Black opinion writer fired after Charlie Kirk posts"
+      "title_zh": "经济学家预计美国重新开放墨西哥牛肉进口不会降低高牛肉价格"
     },
     {
-      "title": "Former world snooker champion Graeme Dott convicted of sexually abusing 2 small children",
-      "link": "https://apnews.com/article/graeme-dott-snooker-champion-child-abuse-scotland-6b05f5d43bbdd864f55a33cb2c778c7a",
+      "title": "The world inches toward catastrophic climate events: ‘Bigger shocks are on the way’",
+      "link": "https://apnews.com/article/climate-change-disaster-big-one-threat-5b062254250a759483c94376d32ae478",
       "summary": "",
       "published": "",
-      "title_zh": "前斯诺克世界冠军格雷姆·多特因性虐待两名儿童被判有罪"
+      "title_zh": "The world inches toward catastrophic climate events: ‘Bigger shocks are on the way’"
     },
     {
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "link": "",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "published": "",
-      "title_zh": "英国首相伯纳姆誓言支持乌克兰，尽管俄罗斯发出“无耻的威胁”",
-      "summary_zh": "此前，莫斯科就乌克兰使用英国无人机的报道发出“后果”警告。"
-    },
-    {
-      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
-      "link": "",
-      "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
-      "published": "",
-      "title_zh": "英国提供的导弹可能会帮助乌克兰 - 但它们并不是泽连斯基最需要的",
-      "summary_zh": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles."
-    },
-    {
-      "title": "World's oceans hit highest temperature on record as El Niño grows",
-      "link": "",
-      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
-      "published": "",
-      "title_zh": "随着厄尔尼诺现象的加剧，世界海洋达到有记录以来的最高温度",
-      "summary_zh": "欧洲哥白尼气候变化服务机构的萨曼莎·伯吉斯博士表示，这一记录“是海洋压力日益增大的又一个明显信号”。"
-    },
-    {
-      "title": "Prince Harry steps down from African wildlife charity board",
-      "link": "",
-      "summary": "Last year the organisation African Parks  admitted human rights abuses were committed by its rangers in Congo-Brazzaville.",
-      "published": "",
-      "title_zh": "哈里王子辞去非洲野生动物慈善委员会职务",
-      "summary_zh": "去年，非洲公园组织承认其护林员在刚果-布拉柴维尔犯下侵犯人权行为。"
-    },
-    {
-      "title": "'101-year-old great-grandmother' arrested for selling cannabis in Nigeria",
-      "link": "",
-      "summary": "Esther Ogunmabo is accused of selling \"retail sachets\" of a strain of cannabis known as skunk.",
-      "published": "",
-      "title_zh": "“101岁曾祖母”因在尼日利亚出售大麻被捕",
-      "summary_zh": "Esther Ogunmabo 被指控销售一种被称为臭鼬的大麻品种的“零售袋”。"
-    },
-    {
-      "title": "England drop Carse after nightclub incident",
-      "link": "",
-      "summary": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by police.",
-      "published": "",
-      "title_zh": "夜总会事件后英格兰队放弃了卡尔塞",
-      "summary_zh": "佩斯投球手布莱登·卡尔斯在一次导致他被警察戴上手铐的事件后被从英格兰队参加第二次对阵巴基斯坦的测试队中除名。"
-    },
-    {
-      "title": "Does Elliott have a Liverpool future after latest omission?",
-      "link": "",
-      "summary": "Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.",
-      "published": "",
-      "title_zh": "在最近的遗漏之后，埃利奥特还有利物浦的未来吗？",
-      "summary_zh": "哈维·埃利奥特（Harvey Elliott）在英超赛季首周末缺席纽卡斯尔的比赛阵容后，他在利物浦的位置似乎不确定。"
-    },
-    {
-      "title": "Chinese robots can do backflips and run fast. But can they do your chores?",
-      "link": "https://www.nbcnews.com/world/asia/china-robots-humanoid-games-unitree-us-ban-rcna593069",
+      "title": "Britain tells TikTok and other platforms to remove videos glorifying dangerous driving after deaths",
+      "link": "https://apnews.com/article/britain-tiktok-videos-dangerous-driving-deaths-f7f32062f2093046ce71fd0703896d66",
       "summary": "",
       "published": "",
-      "title_zh": "中国机器人可以后空翻，跑得快。但他们能做你的家务吗？"
+      "title_zh": "英国要求 TikTok 和其他平台删除美化死亡后危险驾驶的视频"
+    },
+    {
+      "title": "Gang coalition unleashes violent new attack on farming community in Haiti",
+      "link": "https://apnews.com/article/haiti-gang-attack-kenscoff-viv-ansanm-485903ee45cd5ffc1b5270b268ba31e3",
+      "summary": "",
+      "published": "",
+      "title_zh": "Gang coalition unleashes violent new attack on farming community in Haiti"
+    },
+    {
+      "title": "US Postal Service issues new rule for mail ballots, but its impact on the midterms is uncertain",
+      "link": "https://apnews.com/article/postal-service-midterms-trump-mail-voting-b4b9ef095b4d6bceab18adbb34814640",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国邮政局发布邮寄选票新规则，但对中期选举的影响尚不确定"
+    },
+    {
+      "title": "Bessent threatens new Iran sanctions, says Trump asking world leaders to cooperate",
+      "link": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
+      "summary": "",
+      "published": "",
+      "title_zh": "Bessent threatens new Iran sanctions, says Trump asking world leaders to cooperate"
+    },
+    {
+      "title": "As Ukraine’s allies gather for big anniversary, one key backer is absent",
+      "link": "https://www.nbcnews.com/world/europe/ukraine-independence-usa-missing-anniversary-russia-war-rcna594075",
+      "summary": "",
+      "published": "",
+      "title_zh": "乌克兰盟友齐聚庆祝重要周年纪念日，但一位关键支持者缺席"
+    },
+    {
+      "title": "Breaking the cycle",
+      "link": "https://www.nbcnews.com/world/italy/italy-como-bicycle-e-bike-ban-mayor-hit-accident-rcna593701",
+      "summary": "",
+      "published": "",
+      "title_zh": "打破循环"
     }
   ]
 }
