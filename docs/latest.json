@@ -1,616 +1,110 @@
 {
   "date": "20260824",
-  "total": 80,
+  "total": 10,
   "sources": {
     "bbc": {
-      "status": "ok",
-      "entries": 20
-    },
-    "theguardian": {
       "status": "ok",
       "entries": 0
     },
     "cnn": {
       "status": "ok",
-      "entries": 2
+      "entries": 0
     },
-    "nytimes": {
+    "theguardian": {
       "status": "ok",
-      "entries": 4
+      "entries": 0
     },
     "nbcnews": {
       "status": "ok",
-      "entries": 14
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
     },
     "fox": {
       "status": "ok",
-      "entries": 20
+      "entries": 0
     },
     "apnews": {
       "status": "ok",
-      "entries": 20
+      "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "title": "King of Norway's health has worsened, palace says",
       "link": "",
-      "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
       "published": "",
-      "title_zh": "离婚、智能手机和控制——BBC 见证塔利班如何治理阿富汗",
-      "summary_zh": "塔利班卷土重来五年后，英国广播公司 (BBC) 追踪该组织重塑国家的高层人物。"
+      "title_zh": "王宫称挪威国王健康状况恶化",
+      "summary_zh": "挪威国王哈拉尔因血液细菌感染仍在医院接受抗生素治疗。"
     },
     {
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "title": "France links sharp rise in drownings to heatwaves",
       "link": "",
-      "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
       "published": "",
-      "title_zh": "中国调查使用甲醛保鲜卷心菜",
-      "summary_zh": "中国是世界上最大的卷心菜生产国，禁止使用致癌物来保存食物。"
+      "title_zh": "法国将溺水人数急剧上升与热浪联系起来",
+      "summary_zh": "一位政府部长表示，人们一直冒险跳入水中，自 6 月 19 日以来已有 301 人死亡。"
     },
     {
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
       "link": "",
-      "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "published": "",
-      "title_zh": "澳大利亚鲨鱼袭击受害者感谢“第二次生命机会”",
-      "summary_zh": "莉亚·斯图尔特 (Leah Stewart) 六月被鲨鱼咬伤，手臂和腿部多处咬伤。"
+      "title_zh": "特朗普挥舞绿旗在华盛顿街头开始印地赛车比赛",
+      "summary_zh": "总统在比赛前在赛道上绕了一圈，这是整个夏天纪念该国 250 岁生日活动的高潮。"
     },
     {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "title": "Salah scores first two Trabzonspor goals",
       "link": "",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "summary": "Mohamed Salah scores twice on his first Turkish Super Lig start for Trabzonspor - and almost has a hat-trick - as they beat Istanbul Basaksehir.",
       "published": "",
-      "title_zh": "特朗普称加拿大希望在贸易谈判破裂后获得成为美国国家的“好处”",
-      "summary_zh": "加拿大总理表示，他“不情愿”地宣布报复性关税，并指责美国发动贸易战。"
+      "title_zh": "萨拉赫为特拉布宗体育队前两粒进球",
+      "summary_zh": "穆罕默德·萨拉赫在特拉布宗体育队首次在土耳其超级联赛首发中梅开二度，并且差点上演帽子戏法，帮助球队击败伊斯坦布尔巴萨克谢希尔。"
     },
     {
-      "title": "Rumours swirled after a Vietnamese teen was run over - then came a stunning admission",
-      "link": "",
-      "summary": "Confirmation of the circumstances around Do Ngoc Phuong Thuy's death have only spurred more questions.",
-      "published": "",
-      "title_zh": "一名越南青少年被碾压后，谣言四起，随后他的承认令人震惊",
-      "summary_zh": "Do Ngoc Phuong Thuy 死亡情况的确认只会引发更多问题。"
-    },
-    {
-      "title": "Frustration builds in Indiana town struggling without power for 12 days",
-      "link": "",
-      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "published": "",
-      "title_zh": "印第安纳州小镇连续 12 天断电，陷入沮丧之中",
-      "summary_zh": "在加里镇，三分之一的居民生活在贫困之中，人们说他们一直生活在“生存模式”中。"
-    },
-    {
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "link": "",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "published": "",
-      "title_zh": "因隐藏门把手，近300万辆特斯拉在中国被召回",
-      "summary_zh": "受此次召回影响的其他品牌包括中国汽车制造商小鹏汽车、小米和吉利。"
-    },
-    {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "published": "",
-      "title_zh": "卡尼退出特朗普协议后面临严峻考验",
-      "summary_zh": "加拿大总理将不得不放弃他的赌博，即放弃与白宫的谈判将承担后果。"
-    },
-    {
-      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-      "link": "",
-      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
-      "published": "",
-      "title_zh": "“安静，安静，安静！”- 是什么促使特朗普关闭记者？",
-      "summary_zh": "当美国总统再次侮辱记者时，BBC 审视了他不愿回答的问题。"
-    },
-    {
-      "title": "Fear and fallout three months on from Northern Ireland's race riots",
-      "link": "",
-      "summary": "Northern Ireland saw consecutive nights of violence following a knife attack - but how are victims faring now?",
-      "published": "",
-      "title_zh": "北爱尔兰种族骚乱三个月后的恐惧和余波",
-      "summary_zh": "北爱尔兰在持刀袭击后连续数晚发生暴力事件 - 但受害者现在情况如何？"
-    },
-    {
-      "title": "Robot boxing, football and sprinting at World Humanoid Games",
-      "link": "",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "published": "",
-      "title_zh": "世界人形运动会上的机器人拳击、足球和短跑",
-      "summary_zh": "为期五天的第二届比赛于周六在中国北京拉开帷幕。"
-    },
-    {
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "link": "",
-      "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
-      "published": "",
-      "title_zh": "一名牧羊人幸运得到的 200 美元金块是否引发了肯尼亚西部的淘金热？",
-      "summary_zh": "探矿者来到西波科特县，希望一克贵金属能够改变他们的生活。"
-    },
-    {
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "link": "",
-      "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-      "published": "",
-      "title_zh": "特朗普移动推销“美国制造”手机 - 但细节不断变化",
-      "summary_zh": "BBC verify 追踪 Trump Mobile T1 手机的设计、规格、制造和发布日期的变化。"
-    },
-    {
-      "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
-      "link": "",
-      "summary": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
-      "published": "",
-      "title_zh": "TikTok 上“戴帽子的猫”病毒式传播，引发有趣的假视频，但也引发了真正的恐惧",
-      "summary_zh": "这些社交媒体帖子促使爱尔兰和英国警方发表声明称这些图像是假的。"
-    },
-    {
-      "title": "Why UK students are being paid to play video games",
-      "link": "",
-      "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
-      "published": "",
-      "title_zh": "为什么英国学生花钱玩电子游戏",
-      "summary_zh": "罗汉普顿大学每年为学生提供 2,000 英镑的资助，让他们在学习的同时玩电子竞技。"
-    },
-    {
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "link": "",
-      "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
-      "published": "",
-      "title_zh": "警方称，17岁女孩在瑞典持剑袭击中丧生",
-      "summary_zh": "两名 12 岁和 17 岁的男孩也受伤，一名 18 岁的嫌疑人已被拘留。"
-    },
-    {
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "link": "",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "published": "",
-      "title_zh": "泰国南部发生数十起协同纵火袭击",
-      "summary_zh": "没有任何组织声称对这些袭击负责，军方称这些袭击“旨在制造骚乱”。"
-    },
-    {
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "link": "",
-      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-      "published": "",
-      "title_zh": "刚果民主共和国与“M23”叛军就和平谈判路线图达成一致",
-      "summary_zh": "代表们在瑞士会面，制定解决冲突的后续步骤。"
-    },
-    {
-      "title": "'I didn't speak the Queen's English': Why people in the UK worry about their accents",
-      "link": "",
-      "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
-      "published": "",
-      "title_zh": "“我不会说女王英语”：为什么英国人担心自己的口音",
-      "summary_zh": "一项关于对口音态度的调查表明，所谓的“口音偏见”仍然是许多工作场所的一个问题。"
-    },
-    {
-      "title": "Uefa chief Ceferin rules out Fifa presidency bid",
-      "link": "",
-      "summary": "Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in March.",
-      "published": "",
-      "title_zh": "欧足联主席塞费林排除竞逐国际足联主席的可能性",
-      "summary_zh": "欧足联主席亚历山大·塞费林排除了自己接替詹尼·因凡蒂诺的竞争，但预计候选人将在三月份挑战国际足联主席的领导权。"
-    },
-    {
-      "title": "Streaming now on All Access",
-      "link": "https://www.cnn.com/watch",
-      "summary": "",
-      "published": "",
-      "title_zh": "现已在 All Access 上播放"
-    },
-    {
-      "title": "CNN Underscored",
-      "link": "https://www.cnn.com/cnn-underscored",
-      "summary": "",
-      "published": "",
-      "title_zh": "CNN 强调"
-    },
-    {
-      "title": "Opinion",
-      "link": "https://www.nytimes.com/section/opinion",
-      "summary": "",
-      "published": "",
-      "title_zh": "观点"
-    },
-    {
-      "title": "The AthleticSports coverage",
-      "link": "https://www.nytimes.com/athletic/",
-      "summary": "",
-      "published": "",
-      "title_zh": "体育报道"
-    },
-    {
-      "title": "CookingRecipes and guides",
-      "link": "https://cooking.nytimes.com/",
-      "summary": "",
-      "published": "",
-      "title_zh": "烹饪食谱和指南"
-    },
-    {
-      "title": "WirecutterProduct recommendations",
-      "link": "https://www.nytimes.com/wirecutter/",
-      "summary": "",
-      "published": "",
-      "title_zh": "线切割机产品推荐"
-    },
-    {
-      "title": "Lindsay Clancy killed her children. The jury will answer a more complicated question.",
-      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-murder-trial-what-to-know-rcna593473",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西杀死了她的孩子。陪审团将回答一个更复杂的问题。"
-    },
-    {
-      "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
-      "link": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
-      "summary": "",
-      "published": "",
-      "title_zh": "律师称，因枪杀索尼娅·马西而被定罪的前副警官肖恩·格雷森去世"
-    },
-    {
-      "title": "Father of sailor aboard USS Lincoln detained by immigration authorities, family says",
-      "link": "https://www.nbcnews.com/news/us-news/father-sailor-uss-abraham-lincoln-detained-immigration-family-says-rcna593961",
-      "summary": "",
-      "published": "",
-      "title_zh": "家人称，林肯号航空母舰水手的父亲被移民当局拘留"
-    },
-    {
-      "title": "Human-caused wildfire forcing thousands to evacuate near Reno, Nevada",
-      "link": "https://www.nbcnews.com/weather/wildfires/wildfire-approaches-reno-thousands-evacuate-rcna593996",
-      "summary": "",
-      "published": "",
-      "title_zh": "人为引发的野火迫使内华达州里诺附近数千人撤离"
-    },
-    {
-      "title": "Kyle Kirkwood wins IndyCar race in D.C. celebrating U.S. 250th birthday",
-      "link": "https://www.nbcnews.com/politics/trump-administration/kyle-kirkwood-wins-indycar-race-downtown-dc-us-250th-birthday-rcna593532",
-      "summary": "",
-      "published": "",
-      "title_zh": "凯尔·柯克伍德 (Kyle Kirkwood) 在华盛顿举行的印地赛车比赛中获胜，庆祝美国 250 岁生日"
-    },
-    {
-      "title": "Dan Sullivan endorses Dan Sullivan to beat Dan Sullivan in perplexing Alaska Senate race",
-      "link": "https://www.nbcnews.com/politics/2026-election/dan-sullivan-endorses-dan-sullivan-beat-dan-sullivan-perplexing-alaska-rcna594063",
-      "summary": "",
-      "published": "",
-      "title_zh": "丹·沙利文支持丹·沙利文在令人费解的阿拉斯加参议员竞选中击败丹·沙利文"
-    },
-    {
-      "title": "History of abuse",
-      "link": "https://www.nbcnews.com/news/us-news/hayden-panettieres-death-puts-renewed-scrutiny-abusive-ex-boyfriend-rcna593601",
-      "summary": "",
-      "published": "",
-      "title_zh": "虐待史"
-    },
-    {
-      "title": "Political aftershock",
-      "link": "https://www.nbcnews.com/world/latin-america/colombia-de-la-espriella-earthquake-reflects-political-divide-rcna593809",
-      "summary": "",
-      "published": "",
-      "title_zh": "政治余震"
-    },
-    {
-      "title": "A ‘whitewash’",
-      "link": "https://www.nbcnews.com/world/israel/hind-rajab-killing-gaza-israel-military-investigation-mother-justice-rcna593554",
-      "summary": "",
-      "published": "",
-      "title_zh": "一次“洗白”"
-    },
-    {
-      "title": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say",
-      "link": "https://www.nbcnews.com/world/africa/landslide-landfill-capital-guinea-kills-30-people-rcna594074",
-      "summary": "",
-      "published": "",
-      "title_zh": "官员称几内亚首都垃圾填埋场发生山体滑坡，造成30人死亡"
-    },
-    {
-      "title": "Enes Kanter Freedom ejected from WNBA game, was confronted by Sky’s Natasha Cloud",
-      "link": "https://www.nbcnews.com/sports/wnba/enes-kanter-freedom-ejected-wnba-game-natasha-cloud-rcna594073",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 从 WNBA 比赛中被逐出，与天空电视台的娜塔莎·克劳德 (Natasha Cloud) 对峙"
-    },
-    {
-      "title": "China abruptly postpones ambitious Chang’e-7 lunar mission launch",
-      "link": "https://www.nbcnews.com/world/asia/china-abruptly-postpones-ambitious-change-7-lunar-mission-launch-rcna594067",
-      "summary": "",
-      "published": "",
-      "title_zh": "中国突然推迟雄心勃勃的嫦娥七号探月任务发射"
-    },
-    {
-      "title": "5 people and multiple animals killed on rural Oregon property, with suspect found dead",
-      "link": "https://www.nbcnews.com/news/us-news/suspect-quintuple-homicide-rural-property-portland-found-dead-rcna594055",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄勒冈州农村地区造成 5 人和多只动物死亡，嫌疑人被发现死亡"
-    },
-    {
-      "title": "French tourist dies in Death Valley heat after vehicle gets stuck in mud",
-      "link": "https://www.nbcnews.com/news/us-news/french-tourist-dies-death-valley-heat-rcna594043",
-      "summary": "",
-      "published": "",
-      "title_zh": "法国游客在死亡谷高温中车辆陷入泥土中死亡"
-    },
-    {
-      "title": "Enes Kanter Freedom ejected from WNBA game after heated confrontation with player",
+      "title": "Enes Kanter Freedom speaks out on WNBA ejection, reveals new details",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃内斯·坎特·弗里德姆 (Enes Kanter Freedom) 在与球员发生激烈冲突后被逐出 WNBA 比赛"
+      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 公开谈论 WNBA 被驱逐的事情，并透露了新细节"
     },
     {
-      "title": "At least 30 killed after massive waste pile collapses; search for survivors ongoing",
+      "title": "The 'revolution' taking the food industry by storm may cost up $55B per year",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大量垃圾堆倒塌，造成至少30人死亡；幸存者搜寻工作正在进行中"
+      "title_zh": "席卷食品行业的“革命”每年可能花费 55B 美元"
     },
     {
-      "title": "Long-lost attraction from the swinging '60s has fans dreaming of its big return",
+      "title": "Once dubbed 'World's Sexiest Athlete,' she's back and making summer count",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "摇摆不定的 60 年代久违的吸引力让粉丝们梦想着它的重磅回归"
+      "title_zh": "曾经被称为“世界上最性感的运动员”的她回来了，让夏天变得有意义"
     },
     {
-      "title": "'Office' actor praises Dem candidate's faith as 'achingly close to Jesus' Christianity'",
-      "link": "",
+      "title": "Iran’s rial currency hits new record low as US prepares to announce more sanctions",
+      "link": "https://apnews.com/article/iran-rial-currency-bessent-trade-august-24-2026-e367634d8853c8fa4a341132cd577f31",
       "summary": "",
       "published": "",
-      "title_zh": "《办公室》演员称赞民主党候选人的信仰“非常接近耶稣的基督教”"
+      "title_zh": "美国准备宣布更多制裁，伊朗里亚尔汇率创历史新低"
     },
     {
-      "title": "Mom of four hid a racy double life for years until everything came crashing down",
-      "link": "",
+      "title": "European leaders join Zelenskyy in Kyiv for Ukraine’s Independence Day as Russian invasion pushes on",
+      "link": "https://apnews.com/article/russia-ukraine-war-independence-burnham-f9db9e721a230e5881405603a423785c",
       "summary": "",
       "published": "",
-      "title_zh": "四个孩子的妈妈多年来一直隐藏着活泼的双重生活，直到一切都崩溃了"
+      "title_zh": "随着俄罗斯入侵的推进，欧洲领导人与泽连斯基一起在基辅庆祝乌克兰独立日"
     },
     {
-      "title": "Tree trimmer dies after co-worker's hydraulic grapple prank goes horribly wrong",
-      "link": "",
+      "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan",
+      "link": "https://apnews.com/article/pakistan-world-cricketers-appeal-imran-khan-health-ef31563b0a9122c6752c09b9b6b73782",
       "summary": "",
       "published": "",
-      "title_zh": "同事的液压抓斗恶作剧出了严重问题后，树木修剪机死亡"
-    },
-    {
-      "title": "American couple learns the hard way about a rule tourists often overlook",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国夫妇经历了惨痛的教训才明白了游客经常忽视的规则"
-    },
-    {
-      "title": "College grad reportedly dies in Six Flags roller coaster incident as family sues theme park",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "据报道，大学毕业生在六旗过山车事件中死亡，家人起诉主题公园"
-    },
-    {
-      "title": "Harrison Butker's 69-yard kick raises ugly questions about the NFL's rule changes",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "哈里森·巴特克 (Harrison Butker) 的 69 码踢球引发了有关 NFL 规则变化的丑陋问题"
-    },
-    {
-      "title": "Powerful country on the other side of the world quietly shaping Trump's trade fight",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "世界另一端的强国正在悄然影响特朗普的贸易战"
-    },
-    {
-      "title": "Top GOP senator sounds warning as Trump prepares to tighten screws on Iran",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普准备收紧对伊朗的制裁，共和党高级参议员发出警告"
-    },
-    {
-      "title": "Kim Zolciak denies sexual battery charge against her teen son, cites passed polygraph",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "金·佐尔恰克（Kim Zolciak）否认对她十几岁的儿子进行性殴打指控，并援引通过测谎仪"
-    },
-    {
-      "title": "American IndyCar driver holds off the field to win the Freedom 250 Grand Prix",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国印地赛车车手力克赛场赢得 Freedom 250 大奖赛"
-    },
-    {
-      "title": "Common erectile dysfunction medication tied to troubling risk for men’s eyesight",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "常见的勃起功能障碍药物与男性视力问题相关"
-    },
-    {
-      "title": "Dramatic bodycam footage shows Tennessee police save baby, Florida carjacker caught",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "戏剧性的随身摄像机镜头显示田纳西州警察拯救婴儿，佛罗里达州劫车者被捕"
-    },
-    {
-      "title": "Dad dives into ocean to save child from rip current and pays devastating price",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "爸爸潜入大海救孩子脱离离岸流，却付出了惨痛的代价"
-    },
-    {
-      "title": "8-year-old girl dies from suspected brain-eating amoeba one day after birthday",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "8岁女孩生日后一天疑似食脑阿米巴原虫死亡"
-    },
-    {
-      "title": "Robot smashes Usain Bolt's legendary sprint mark then slams into a wall",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "机器人冲破尤塞恩·博尔特的传奇冲刺记号，然后撞到墙上"
-    },
-    {
-      "title": "NFL star suffers apparent injury, unable to put any pressure on leg in brutal scene",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "NFL球星明显受伤，在残酷场景中无法对腿部施加任何压力"
-    },
-    {
-      "title": "Suspect in deaths of 5 found dead as sheriff describes extraordinarily complex scene",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "警长描述极其复杂的场景，导致 5 人死亡的嫌疑人被发现死亡"
-    },
-    {
-      "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
-      "link": "https://apnews.com/article/canada-carney-trump-tariffs-economic-coercion-trade-a180ac85a70bbfb512ea59c224cb6c31",
-      "summary": "",
-      "published": "",
-      "title_zh": "卡尼对经济胁迫发出警告。现在特朗普正在考验加拿大总理"
-    },
-    {
-      "title": "US and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-      "link": "https://apnews.com/article/canada-us-trade-tariffs-trump-857ef76b20a766e370d70176135b678e",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着谈判破裂和指责蔓延，美国和加拿大因新关税而陷入更深的贸易战"
-    },
-    {
-      "title": "What to know about Trump’s tariffs on Canada",
-      "link": "https://apnews.com/article/trump-tariffs-canada-us-trade-war-293908564c7a381ea58a61db6e9a8517",
-      "summary": "",
-      "published": "",
-      "title_zh": "关于特朗普对加拿大征收关税的了解"
-    },
-    {
-      "title": "Iran’s president defends a memorandum with the US as the best way out of a stalled war",
-      "link": "https://apnews.com/article/middle-east-iran-israel-west-bank-august-23-2026-a3fff9eba47a5510060e8014b82d794f",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗总统捍卫与美国的备忘录是摆脱僵局的最佳途径"
-    },
-    {
-      "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump’s position",
-      "link": "https://apnews.com/article/israel-syria-golan-heights-tom-barrack-39328b1c38cb00e2cd545745a375741d",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国特使澄清其关于戈兰高地的言论与特朗普的立场相矛盾"
-    },
-    {
-      "title": "Uganda and Burundi military officials visit Israel to discuss Gaza troop deployment",
-      "link": "https://apnews.com/article/gaza-uganda-burundi-stabilization-force-israel-17b0ce84e2dd7e8800ff1bf2dee803c5",
-      "summary": "",
-      "published": "",
-      "title_zh": "乌干达和布隆迪军方官员访问以色列讨论加沙部队部署"
-    },
-    {
-      "title": "Watch: Israelis join anti-government protest in Tel Aviv with elections months away",
-      "link": "https://apnews.com/video/israelis-join-anti-government-protest-in-tel-aviv-with-elections-months-away-2b963f9b4eb74ba0aacf84d588da7095",
-      "summary": "",
-      "published": "",
-      "title_zh": "观看：距离选举还有几个月，以色列人加入特拉维夫的反政府抗议活动"
-    },
-    {
-      "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate",
-      "link": "https://apnews.com/article/hawk-fire-reno-nevada-evacuations-aae2f4b77e2d4aa5678b365a2ee377e6",
-      "summary": "",
-      "published": "",
-      "title_zh": "风向变化中快速蔓延的野火威胁内华达州里诺市，迫使数千人撤离"
-    },
-    {
-      "title": "Indonesian police arrest 72 people suspected of starting forest fires",
-      "link": "https://apnews.com/article/indonesia-malaysia-forest-peatland-fires-haze-28e8ce3543e18336db989a67e45c5e6e",
-      "summary": "",
-      "published": "",
-      "title_zh": "印尼警方逮捕72名涉嫌引发森林火灾的人"
-    },
-    {
-      "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII",
-      "link": "https://apnews.com/article/europe-wildfires-climate-bombs-world-war-5390dcf3c92c41ec44c2b0a4d9d80157",
-      "summary": "",
-      "published": "",
-      "title_zh": "野火暴露并引爆了第一次世界大战和第二次世界大战中埋藏的炸弹和地雷"
-    },
-    {
-      "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-      "link": "https://apnews.com/article/uss-lincoln-soldier-immigrant-detention-trump-8697cd00f0b3099a0c03932e40f674db",
-      "summary": "",
-      "published": "",
-      "title_zh": "他正在等待儿子从林肯号航空母舰归来。然后边境巡逻队逮捕了他。"
-    },
-    {
-      "title": "Jared Kushner meets with Democratic leader Jeffries with House control at stake in November",
-      "link": "https://apnews.com/article/jeffries-kushner-trump-congress-midterms-democrats-58d74003d07ef8bb150677c0040bf9ab",
-      "summary": "",
-      "published": "",
-      "title_zh": "贾里德·库什纳 (Jared Kushner) 于 11 月会见民主党领袖杰弗里斯 (Jeffries)，众议院控制权岌岌可危"
-    },
-    {
-      "title": "Pete Buttigieg returns to South Carolina as he weighs another White House run",
-      "link": "https://apnews.com/article/buttigieg-black-voters-south-carolina-2028-president-53f9ff5a74cd5e1cdaa677fc95e58a39",
-      "summary": "",
-      "published": "",
-      "title_zh": "皮特·布蒂吉格返回南卡罗来纳州，考虑再次竞选白宫"
-    },
-    {
-      "title": "Inside Trump’s remake of the White House Rose Garden",
-      "link": "https://apnews.com/article/trump-rose-garden-historical-statues-founders-sculptures-0fe922ef11337b4937adf3ac505e9b5b",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普翻修的白宫玫瑰园内部"
-    },
-    {
-      "title": "Enes Kanter Freedom ejected from Fever-Sky game after he was confronted by Sky’s Cloud",
-      "link": "https://apnews.com/article/sky-enes-kanter-natasha-cloud-8bf4dc50c06a01c402c1c4dc75f313eb",
-      "summary": "",
-      "published": "",
-      "title_zh": "Enes Kanter Freedom 在与 Sky 的 Cloud 对抗后被逐出 Fever-Sky 比赛"
-    },
-    {
-      "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-      "link": "https://apnews.com/article/china-ai-jobs-unemployment-youth-a44bfac3488adba00d641a3ce0fab702",
-      "summary": "",
-      "published": "",
-      "title_zh": "中国的工人在适应人工智能对就业日益增长的影响时担心被取代"
-    },
-    {
-      "title": "Sean Grayson, former Illinois deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-      "link": "https://apnews.com/article/sonia-massey-illinois-sean-grayson-police-1e2e2adb38dadb03c48c4ca944234830",
-      "summary": "",
-      "published": "",
-      "title_zh": "律师称，因杀害索尼娅·马西而被定罪的伊利诺伊州前副议员肖恩·格雷森在监狱中去世"
-    },
-    {
-      "title": "Zelenskyy details rift with Ukraine’s dismissed Defense Minister Fedorov",
-      "link": "https://apnews.com/article/russia-ukraine-war-zelenskyy-fedorov-15d84a5a1f52e376ffdf98082cdf9712",
-      "summary": "",
-      "published": "",
-      "title_zh": "泽连斯基详述与被解雇的乌克兰国防部长费多罗夫的分歧"
-    },
-    {
-      "title": "New Zealand’s prime minister proposes banning children from using social media",
-      "link": "https://apnews.com/article/new-zealand-social-media-ban-under-16-e6a4f600a60ee41d27bbb4232b5df705",
-      "summary": "",
-      "published": "",
-      "title_zh": "新西兰总理提议禁止儿童使用社交媒体"
-    },
-    {
-      "title": "Latest news",
-      "link": "https://apnews.com/hub/latest-news",
-      "summary": "",
-      "published": "",
-      "title_zh": "最新消息"
+      "title_zh": "世界各地的板球队长再次呼吁伊姆兰·汗接受治疗"
     }
   ]
 }

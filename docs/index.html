@@ -50,7 +50,7 @@
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
     <div class="container">
         <h1>📸 新闻监控面板</h1>
-        <div class="info">最后更新: 2026-08-24 07:07:20</div>
+        <div class="info">最后更新: 2026-08-24 08:46:59</div>
 
         <!-- 健康状态 -->
         <div class="section">
@@ -60,7 +60,13 @@
                 <div class="health-item">
                     <div><strong>BBC</strong></div>
                     <div class="status ok">✅ 成功</div>
-                    <div>条目: 20</div>
+                    <div>条目: 0</div>
+                </div>
+        
+                <div class="health-item">
+                    <div><strong>CNN</strong></div>
+                    <div class="status ok">✅ 成功</div>
+                    <div>条目: 0</div>
                 </div>
         
                 <div class="health-item">
@@ -70,33 +76,27 @@
                 </div>
         
                 <div class="health-item">
-                    <div><strong>CNN</strong></div>
+                    <div><strong>NBCNEWS</strong></div>
                     <div class="status ok">✅ 成功</div>
-                    <div>条目: 2</div>
+                    <div>条目: 0</div>
                 </div>
         
                 <div class="health-item">
                     <div><strong>NYTIMES</strong></div>
                     <div class="status ok">✅ 成功</div>
-                    <div>条目: 4</div>
-                </div>
-        
-                <div class="health-item">
-                    <div><strong>NBCNEWS</strong></div>
-                    <div class="status ok">✅ 成功</div>
-                    <div>条目: 14</div>
+                    <div>条目: 0</div>
                 </div>
         
                 <div class="health-item">
                     <div><strong>FOX</strong></div>
                     <div class="status ok">✅ 成功</div>
-                    <div>条目: 20</div>
+                    <div>条目: 0</div>
                 </div>
         
                 <div class="health-item">
                     <div><strong>APNEWS</strong></div>
                     <div class="status ok">✅ 成功</div>
-                    <div>条目: 20</div>
+                    <div>条目: 0</div>
                 </div>
         
             </div>
@@ -120,6 +120,21 @@
             </div>
             <div id="gallery" class="gallery">
     
+                <div class="card" data-date="20260824" data-time="084324" data-site="cnn">
+                    <img src="./screenshots/cnn_20260824_084324.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>CNN</strong> - 2026-08-24 08:43:24</div>
+                </div>
+            
+                <div class="card" data-date="20260824" data-time="084324" data-site="bbc">
+                    <img src="./screenshots/bbc_20260824_084324.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>BBC</strong> - 2026-08-24 08:43:24</div>
+                </div>
+            
+                <div class="card" data-date="20260824" data-time="084324" data-site="reuters">
+                    <img src="./screenshots/reuters_20260824_084324.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-08-24 08:43:24</div>
+                </div>
+            
                 <div class="card" data-date="20260824" data-time="070435" data-site="bbc">
                     <img src="./screenshots/bbc_20260824_070435.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>BBC</strong> - 2026-08-24 07:04:35</div>
@@ -261,7 +276,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"07": 80};
+            const freqData = {"08": 10};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);
