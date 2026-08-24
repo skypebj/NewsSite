@@ -1,12 +1,16 @@
 {
   "date": "20260824",
-  "total": 27,
+  "total": 26,
   "sources": {
     "theguardian": {
       "status": "ok",
       "entries": 0
     },
     "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
       "status": "ok",
       "entries": 0
     },
@@ -25,205 +29,193 @@
     "nytimes": {
       "status": "ok",
       "entries": 0
-    },
-    "apnews": {
-      "status": "ok",
-      "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Nevada wildfire expected to burn for 48 hours and may spread further, officials say",
-      "link": "",
-      "summary": "The blaze, which officials say was caused by people, was first reported on Saturday morning and Nevada's governor has declared a state of emergency.",
-      "published": "",
-      "title_zh": "官员称内华达州山火预计将燃烧48小时并可能进一步蔓延",
-      "summary_zh": "官员称火灾是人为造成的，火灾于周六上午首次报道，内华达州州长已宣布进入紧急状态。"
-    },
-    {
-      "title": "Victims describe 'house of terror' abuse by mother, grandmother and stepfather",
-      "link": "",
-      "summary": "Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.",
-      "published": "",
-      "title_zh": "受害者描述母亲、祖母和继父的“恐怖之屋”虐待行为",
-      "summary_zh": "雪莉·弗里曼、朱莉娅·斯蒂芬和大卫·麦科尔的受害者遭到殴打、饥饿和心理折磨。"
-    },
-    {
-      "title": "London Zoo animals hop on scales for weigh-in",
-      "link": "",
-      "summary": "Kiwi the Capybara is among animals getting their annual health check while data is gathered and shared.",
-      "published": "",
-      "title_zh": "伦敦动物园的动物们跳上秤称重",
-      "summary_zh": "几维水豚是每年进行健康检查的动物之一，同时收集和共享数据。"
-    },
-    {
-      "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
-      "link": "",
-      "summary": "An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.",
-      "published": "",
-      "title_zh": "阿尔瓦雷斯在夏季最激烈的转会斗争中陷入阿森纳的困境",
-      "summary_zh": "分析朱利安·阿尔瓦雷斯在 9 月 1 日转会窗口关闭后的未来，以及阿根廷人从马德里竞技转会阿森纳的机会。"
-    },
-    {
-      "title": "Bessent details crushing 'Economic D-Day' sanctions targeting 5 of Iran's 'most vital lifelines'",
-      "link": "",
+      "title": "Darline Graham, Ralph Norman wrap up a whirlwind South Carolina Senate primary campaign",
+      "link": "https://apnews.com/article/south-carolina-darline-graham-ralph-norman-6b269e7a14ff7574e817cd86bd38a97a",
       "summary": "",
       "published": "",
-      "title_zh": "Bessent详细介绍了针对伊朗5条“最重要生命线”的“经济诺曼底登陆”制裁"
+      "title_zh": "达林·格雷厄姆和拉尔夫·诺曼结束了旋风般的南卡罗来纳州参议院初选"
     },
     {
-      "title": "Hayden Panettiere's mom reveals the ultimatum she gave her daughter before she died",
-      "link": "",
+      "title": "From honey to hockey sticks, Trump’s trade war with Canada hikes tariffs on a long list of goods",
+      "link": "https://apnews.com/article/trump-canada-trade-war-tariffs-3bf0ca9421116797fe20b91a9d097116",
       "summary": "",
       "published": "",
-      "title_zh": "海顿·潘妮蒂尔的妈妈透露了她去世前给女儿的最后通牒"
+      "title_zh": "从蜂蜜到曲棍球棒，特朗普与加拿大的贸易战对一长串商品提高了关税"
     },
     {
-      "title": "Ex-deputy who killed Sonya Massey after her 911 call dies in prison months into term",
-      "link": "",
+      "title": "8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater",
+      "link": "https://apnews.com/article/louisiana-brain-amoeba-lillian-smart-25acf0aad67cd7cd2197dfe2d624e18d",
       "summary": "",
       "published": "",
-      "title_zh": "拨打 911 电话后杀死索尼娅·马西的前警官在服刑几个月后在监狱中去世"
+      "title_zh": "路易斯安那州 8 岁女孩死于温暖淡水中罕见的食脑变形虫"
     },
     {
-      "title": "John Cusack backs Mark Ruffalo after Paramount's 'appalling' antisemitism charge",
-      "link": "",
+      "title": "Earth is simmering in its hottest water temps on record, and that’s bad for fish and us",
+      "link": "https://apnews.com/article/hottest-oceans-climate-change-el-nino-fisheries-9dd6ecf3b358a89d2b3a5468d69dbdbc",
       "summary": "",
       "published": "",
-      "title_zh": "派拉蒙提出“令人震惊的”反犹太主义指控后，约翰·库萨克支持马克·鲁法洛"
+      "title_zh": "地球正处于有记录以来最热的水温中，这对鱼类和我们都不利"
     },
     {
-      "title": "QBs put on notice as coaching staff makes a stunning preseason roster decision",
-      "link": "",
+      "title": "3-year college degrees grow more popular in the US, saving time and cash. But critics aren’t sold",
+      "link": "https://apnews.com/article/three-year-college-degree-ab4f336a8b4d3abd97980133a84a4007",
       "summary": "",
       "published": "",
-      "title_zh": "QBs put on notice as coaching staff makes a stunning preseason roster decision"
+      "title_zh": "三年制大学学位在美国越来越受欢迎，可以节省时间和金钱。但批评者并不买账"
     },
     {
-      "title": "Husband returns to home where wife was slain as neighbors notice strange routine",
-      "link": "",
+      "title": "A psychologist at Lindsay Clancy’s murder trial says she has bipolar disorder",
+      "link": "https://apnews.com/article/lindsay-clancy-murder-trial-mental-health-50bc0cd6e8bfb5d15cfbcdf9907ca1b2",
       "summary": "",
       "published": "",
-      "title_zh": "丈夫回到妻子被杀的家，邻居注意到奇怪的惯例"
+      "title_zh": "林赛·克兰西谋杀案审判中的一名心理学家称她患有双相情感障碍"
     },
     {
-      "title": "LA ICE director reveals officers followed home, harassed as police fail to help in sanctuary city",
-      "link": "",
+      "title": "California Supreme Court hears arguments over sheriff’s seizure of ballots",
+      "link": "https://apnews.com/article/sheriff-seized-ballots-california-supreme-court-85f3e248e2a09fd171331780ef1d7612",
       "summary": "",
       "published": "",
-      "title_zh": "洛杉矶 ICE 局长透露，由于警方未能在庇护城提供帮助，警察被跟踪回家并受到骚扰"
+      "title_zh": "加州最高法院听取有关警长扣押选票的争论"
     },
     {
-      "title": "Lindsay Clancy’s limited  psychiatric history takes center stage in prosecution testimony",
+      "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
       "link": "",
+      "summary": "Ontario Premier Doug Ford lists the ways Canada could hurt the US economy - and uses blunt language to taunt the US president.",
+      "published": "",
+      "title_zh": "观看：道格·福特就加拿大关税向特朗普直言不讳的警告",
+      "summary_zh": "安大略省省长道格·福特列出了加拿大可能损害美国经济的方式，并用直白的语言嘲笑美国总统。"
+    },
+    {
+      "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+      "link": "",
+      "summary": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
+      "published": "",
+      "title_zh": "慈善？演戏？科茨沃尔德？哈里和梅根的英国生活会是什么样子？",
+      "summary_zh": "这对夫妇即将返回英国，而他们在这里的重点也逐渐变得清晰起来。"
+    },
+    {
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "link": "",
+      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+      "published": "",
+      "title_zh": "英国的风暴阴影导弹会改变乌克兰的游戏规则吗？",
+      "summary_zh": "记者乔·因伍德详细分析了可能对俄罗斯-乌克兰战争产生影响的武器技术。"
+    },
+    {
+      "title": "Penn State’s alleged cocaine ring made national news. Here’s how it’s playing out on campus.",
+      "link": "https://www.nbcnews.com/news/us-news/penn-state-cocaine-drug-ring-reaction-rcna594002",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西有限的精神病史成为检方证词的中心议题"
+      "title_zh": "宾夕法尼亚州立大学涉嫌可卡因团伙成为全国新闻。这是校园里的情况。"
     },
     {
-      "title": "Re-election-minded Republicans break with White House over grocery price move",
-      "link": "",
+      "title": "Trump, the ‘fertilization president,’ promised to make IVF free. What happened?",
+      "link": "https://www.nbcnews.com/health/health-news/trump-promised-ivf-free-what-happened-rcna593007",
       "summary": "",
       "published": "",
-      "title_zh": "有意连任的共和党人因杂货价格变动与白宫决裂"
+      "title_zh": "“受精总统”特朗普承诺让试管受精免费。发生了什么？"
     },
     {
-      "title": "Joe Manchin predicts what Alexandria Ocasio-Cortez would be like as US president",
-      "link": "",
+      "title": "Robots can outrun humans, but can they plug in a cable?",
+      "link": "https://www.nbcnews.com/tech/tech-news/robots-can-outrun-humans-can-plug-cable-rcna593978",
       "summary": "",
       "published": "",
-      "title_zh": "乔·曼钦预测亚历山大·奥卡西奥-科尔特斯担任美国总统会是什么样子"
+      "title_zh": "机器人可以跑得比人类快，但它们能插上电缆吗？"
     },
     {
-      "title": "Royce White predicts Enes Kanter Freedom gets banned by WNBA after court side clash",
-      "link": "",
+      "title": "California attorney general cancels talks with Paramount, accuses company of leaks",
+      "link": "https://www.nbcnews.com/business/media/paramount-warner-bros-merger-california-attorney-general-cancels-talks-rcna594160",
       "summary": "",
       "published": "",
-      "title_zh": "罗伊斯·怀特 (Royce White) 预测埃内斯·坎特 (Enes Kanter Freedom) 在场边冲突后将被 WNBA 禁赛"
+      "title_zh": "加州总检察长取消与派拉蒙的谈判，指责该公司泄密"
     },
     {
-      "title": "GOP moderate breaks openly with Trump on tariffs ahead of a key midterm fight",
+      "title": "Huge number of illegal immigrants arrested in massive capital region sweep",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在关键的中期斗争之前，共和党温和派在关税问题上与特朗普公开决裂"
+      "title_zh": "首都地区大规模扫荡逮捕大量非法移民"
     },
     {
-      "title": "Socialists ignite backlash over kids push in red state: ‘Next generation of comrades’",
+      "title": "Terrorists target luxury retreats at beach and safari destination as US issues warning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "社会主义者激起了对孩子们在红色州推动的强烈反对：“下一代同志”"
+      "title_zh": "美国发出警告，恐怖分子瞄准海滩和野生动物目的地的豪华度假胜地"
     },
     {
-      "title": "Scrubs-wearing barefoot carjacker allegedly punches produce driver in wild ambush",
+      "title": "Husband returns to home where wife was slain as neighbors notice new routine",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据称，身穿工作服、赤脚的劫车犯在野外伏击中殴打农产品司机"
+      "title_zh": "丈夫回到妻子被杀的家，邻居注意到新的生活习惯"
     },
     {
-      "title": "Vance gives shoutout to ‘our very independent friend, Susan Collins’",
-      "link": "https://apnews.com/live/trump-economy-news-updates-08-24-2026#000001a0-346b-dbea-a1a6-f6efce800000",
+      "title": "Alleged Empire State Building climbing couple turns court exit into another spectacle",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "万斯赞扬“我们非常独立的朋友苏珊·柯林斯”"
+      "title_zh": "据称攀登帝国大厦的夫妇将法庭出口变成了另一场奇观"
     },
     {
-      "title": "Economists don’t expect reopening the US to Mexican cattle imports to reduce high beef prices",
-      "link": "https://apnews.com/article/screwworm-beef-prices-cattle-trump-border-mexico-399cebbea159ae51a8eaa2e13eb1ef14",
+      "title": "Murder charge hits fire chief after investigators unlock wife's hidden folder",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "经济学家预计美国重新开放墨西哥牛肉进口不会降低高牛肉价格"
+      "title_zh": "调查人员解开妻子的隐藏文件夹后，消防队长被指控谋杀"
     },
     {
-      "title": "The world inches toward catastrophic climate events: ‘Bigger shocks are on the way’",
-      "link": "https://apnews.com/article/climate-change-disaster-big-one-threat-5b062254250a759483c94376d32ae478",
+      "title": "Trump's move to lower grocery bills sparks revolt from vulnerable Republicans",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "The world inches toward catastrophic climate events: ‘Bigger shocks are on the way’"
+      "title_zh": "特朗普降低杂货账单的举动引发了脆弱的共和党人的反抗"
     },
     {
-      "title": "Britain tells TikTok and other platforms to remove videos glorifying dangerous driving after deaths",
-      "link": "https://apnews.com/article/britain-tiktok-videos-dangerous-driving-deaths-f7f32062f2093046ce71fd0703896d66",
+      "title": "Sophie Cunningham makes more noise off the court and hits a major milestone",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "英国要求 TikTok 和其他平台删除美化死亡后危险驾驶的视频"
+      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 在场外发出更大的声响并达到了一个重要的里程碑"
     },
     {
-      "title": "Gang coalition unleashes violent new attack on farming community in Haiti",
-      "link": "https://apnews.com/article/haiti-gang-attack-kenscoff-viv-ansanm-485903ee45cd5ffc1b5270b268ba31e3",
+      "title": "Lindsay Clancy moves for a mistrial over religious 'mortal sin' question, judge denies it",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Gang coalition unleashes violent new attack on farming community in Haiti"
+      "title_zh": "林赛·克兰西就宗教“大罪”问题提出无效审判，法官否认"
     },
     {
-      "title": "US Postal Service issues new rule for mail ballots, but its impact on the midterms is uncertain",
-      "link": "https://apnews.com/article/postal-service-midterms-trump-mail-voting-b4b9ef095b4d6bceab18adbb34814640",
+      "title": "Fox News announces Emily Compagno will become new co-host of 'The Five'",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国邮政局发布邮寄选票新规则，但对中期选举的影响尚不确定"
+      "title_zh": "福克斯新闻宣布艾米丽·孔帕尼奥将成为“五人组”的新联合主持人"
     },
     {
-      "title": "Bessent threatens new Iran sanctions, says Trump asking world leaders to cooperate",
-      "link": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
+      "title": "Melissa Gilbert asks for reform after death of three young actresses in a year",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Bessent threatens new Iran sanctions, says Trump asking world leaders to cooperate"
+      "title_zh": "一年内三名年轻女演员去世后，梅丽莎吉尔伯特要求改革"
     },
     {
-      "title": "As Ukraine’s allies gather for big anniversary, one key backer is absent",
-      "link": "https://www.nbcnews.com/world/europe/ukraine-independence-usa-missing-anniversary-russia-war-rcna594075",
+      "title": "49ers CEO arrested on prostitution-related charges, possible discipline looms",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乌克兰盟友齐聚庆祝重要周年纪念日，但一位关键支持者缺席"
+      "title_zh": "49人队首席执行官因卖淫相关指控被捕，可能面临纪律处分"
     },
     {
-      "title": "Breaking the cycle",
-      "link": "https://www.nbcnews.com/world/italy/italy-como-bicycle-e-bike-ban-mayor-hit-accident-rcna593701",
+      "title": "Popular energy-boosting supplements may help cancer cells survive chemotherapy",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "打破循环"
+      "title_zh": "流行的能量补充品可能有助于癌细胞在化疗中存活"
     }
   ]
 }
