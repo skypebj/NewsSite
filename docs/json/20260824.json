@@ -1,20 +1,20 @@
 {
   "date": "20260824",
-  "total": 24,
+  "total": 34,
   "sources": {
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
     "bbc": {
       "status": "ok",
-      "entries": 10
+      "entries": 9
     },
     "fox": {
       "status": "ok",
       "entries": 0
     },
     "cnn": {
-      "status": "ok",
-      "entries": 0
-    },
-    "theguardian": {
       "status": "ok",
       "entries": 0
     },
@@ -33,182 +33,251 @@
   },
   "entries": [
     {
-      "title": "McMahon puts schools on notice over teachers accused of sexual misconduct",
+      "title": "Former NBA star speaks out on WNBA ejection, reveals new details",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "麦克马洪就教师被指控性行为不端向学校发出警告"
+      "title_zh": "前 NBA 球星就 WNBA 被驱逐一事发表讲话，透露新细节"
     },
     {
-      "title": "Trump's New Jersey home could hold key to GOP, Dems election victory",
+      "title": "Far-left House candidate's past felony arrest revealed amid high-stakes election",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在新泽西州的家可能是共和党和民主党选举胜利的关键"
+      "title_zh": "极左众议院候选人过去因重罪被捕在高风险选举中曝光"
     },
     {
-      "title": "Mom blasts Lindsay Clancy rally as hundreds back mother accused of killing her kids",
+      "title": "‘Economic D-Day’ on Iran puts trading partners in crosshairs as Tehran threatens retaliation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "妈妈抨击林赛·克兰西集会，数百人支持被指控杀害孩子的母亲"
+      "title_zh": "伊朗“经济诺曼底登陆”让贸易伙伴成为焦点，德黑兰威胁进行报复"
     },
     {
-      "title": "Thune-aligned groups unleash historic war chest to defend Senate majority",
+      "title": "Andrew rejects King Charles’ olive branch as ex-royal's exile fears deepen: experts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "图恩联盟团体释放历史性的战争资金来捍卫参议院多数席位"
+      "title_zh": "安德鲁拒绝查尔斯国王的橄榄枝，因为前王室流亡恐惧加深：专家"
     },
     {
-      "title": "Common medication tied to troubling risk for men’s eyesight",
+      "title": "Having kids has become partisan and the birth gap data backs it up, researchers say",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "与男性视力问题相关的常见药物"
+      "title_zh": "研究人员表示，生孩子已成为一种党派之争，出生差距数据也证明了这一点"
     },
     {
-      "title": "9/11 is becoming history. My generation must make sure America never forgets",
+      "title": "Mom calls out what is 'almost never' mentioned in coverage of Lindsay Clancy trial",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "9/11 正在成为历史。我这一代人必须确保美国永远不会忘记"
+      "title_zh": "妈妈指出林赛·克兰西审判报道中“几乎从未”提到过的事情"
     },
     {
-      "title": "Financial influencer reveals what America's everyday millionaires have in common",
+      "title": "Fever coach urges press don't 'give it any gas' as transgender firestorm rages",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "金融影响者揭示了美国日常百万富翁的共同点"
+      "title_zh": "发烧教练敦促媒体不要在变性风暴肆虐之际“给它加油”"
     },
     {
-      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+      "title": "Thousands affected as canine brand pulls products over possible hazard",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于犬类品牌因可能存在危险而下架产品，数千人受到影响"
+    },
+    {
+      "title": "US announces elimination of 'narco-terrorists' in deadly attack against vessel",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国宣布消灭袭击船只的“毒品恐怖分子”"
+    },
+    {
+      "title": "Telltale clue points to possible purpose of ancient building near the Colosseum",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "线索表明罗马斗兽场附近古建筑的可能用途"
+    },
+    {
+      "title": "‘Coach’ and ‘Donna Reed Show’ star Shelley Fabares dies at 82 after brief illness",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《教练》和《唐娜·里德秀》明星雪莱·法巴雷斯因短暂患病去世，享年 82 岁"
+    },
+    {
+      "title": "Iran threatens response ahead of US sanctions announcement",
+      "link": "https://apnews.com/article/middle-east-iran-israel-syria-august-24-2026-4c37df8a725b49eae2ab1672b4ae4201",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗威胁在美国宣布制裁前做出回应"
+    },
+    {
+      "title": "Border Patrol arrests father of sailor on USS Lincoln, and more news",
+      "link": "https://apnews.com/newsletter/morning-wire/august-24-2026",
+      "summary": "",
+      "published": "",
+      "title_zh": "边境巡逻队逮捕了林肯号航空母舰水手的父亲以及更多新闻"
+    },
+    {
+      "title": "Canada’s prime minister promises retaliatory tariffs as negotiations with the US falter",
+      "link": "https://apnews.com/live/trump-economy-news-updates-08-24-2026",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于与美国的谈判陷入困境，加拿大总理承诺征收报复性关税"
+    },
+    {
+      "title": "Trump waves the green flag to start the IndyCar race as drivers zoom through Washington’s streets",
+      "link": "https://apnews.com/article/trump-indycar-america-250-fe6d60c0be3a82c63d44d7aa1703a671",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普挥舞绿旗开始印地赛车比赛，车手们在华盛顿的街道上疾驰"
+    },
+    {
+      "title": "Preservationists are working to extend the life of a rare Revolutionary War ‘witness tree’",
+      "link": "https://apnews.com/article/south-carolina-revolutionary-war-tree-a49205ca277957e5c2836f820ae50ea0",
+      "summary": "",
+      "published": "",
+      "title_zh": "保护主义者正在努力延长罕见的革命战争“见证树”的寿命"
+    },
+    {
+      "title": "What to know about the first week of a trial in the 1996 killing of Tupac Shakur",
+      "link": "https://apnews.com/article/tupac-shakur-murder-trial-4f0260f89d0b55647844d30559c309d3",
+      "summary": "",
+      "published": "",
+      "title_zh": "关于 1996 年图帕克·沙库尔 (Tupac Shakur) 被杀案审判第一周需要了解哪些内容"
+    },
+    {
+      "title": "Former commissioner Tim Finchem donates $13 million as PGA Tour reshapes its charity strategy",
+      "link": "https://apnews.com/article/pga-tour-charity-finchem-lucas-glover-nfl-c8394afa7fa38ff619b54c7ad5f5ee36",
+      "summary": "",
+      "published": "",
+      "title_zh": "前专员蒂姆·芬臣 (Tim Finchem) 捐赠 1300 万美元，美巡赛重塑慈善战略"
+    },
+    {
+      "title": "US strikes another boat in eastern Pacific, killing two, Pentagon says",
+      "link": "https://apnews.com/article/trump-bombing-drug-cartels-9043dbd19265a3b4a801973376d53960",
+      "summary": "",
+      "published": "",
+      "title_zh": "五角大楼称，美国在东太平洋袭击了另一艘船，造成两人死亡"
+    },
+    {
+      "title": "Trump pivots to North Korea amid Iran war struggles",
+      "link": "https://www.nbcnews.com/world/asia/trump-seeking-new-summit-emboldened-kim-jong-un-iran-war-struggles-rcna593690",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在伊朗战争斗争中转向朝鲜"
+    },
+    {
+      "title": "Inside a scam compound where trafficked Indians target Americans",
+      "link": "https://www.nbcnews.com/world/asia/myanmar-scam-compounds-pig-butchering-indian-americans-rcna591676",
+      "summary": "",
+      "published": "",
+      "title_zh": "在一个骗局内，被贩运的印度人以美国人为目标"
+    },
+    {
+      "title": "Human-caused wildfire forces thousands to evacuate near Reno, Nevada",
+      "link": "https://www.nbcnews.com/news/us-news/fast-moving-wildfire-shifting-winds-threatens-reno-nevada-forcing-thou-rcna594079",
+      "summary": "",
+      "published": "",
+      "title_zh": "人为引发的野火迫使内华达州里诺附近数千人撤离"
+    },
+    {
+      "title": "Michigan mass shooter’s violence had frightened close ones for years. Then came a killing spree.",
+      "link": "https://www.nbcnews.com/news/us-news/chad-hickman-michigan-shooter-profile-rcna593891",
+      "summary": "",
+      "published": "",
+      "title_zh": "密歇根州大规模枪击案凶手的暴力行为多年来一直让亲人感到恐惧。接下来就是一场疯狂的杀戮。"
+    },
+    {
+      "title": "20 years after Pluto lost its status as a planet, the debate rages on",
+      "link": "https://www.nbcnews.com/science/space/pluto-dwarf-planet-20-years-rcna593156",
+      "summary": "",
+      "published": "",
+      "title_zh": "冥王星失去行星地位 20 年后，争论仍在继续"
+    },
+    {
+      "title": "Near-total lunar eclipse is coming up with the Americas in prime position",
+      "link": "https://www.nbcnews.com/news/us-news/total-lunar-eclipse-coming-americas-prime-position-rcna593894",
+      "summary": "",
+      "published": "",
+      "title_zh": "接近月全食即将来临，美洲处于首要位置"
+    },
+    {
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
       "link": "",
       "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
       "published": "",
-      "title_zh": "“我一半的生意将会消失”——加拿大和美国的公司担心贸易战",
+      "title_zh": "“我一半的生意将会消失”——加拿大和美国公司担心贸易战",
       "summary_zh": "随着针锋相对的进口税不断提高，两国企业主都在应对不确定性和担忧。"
     },
     {
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "title": "Frustration builds in US city struggling without power for 12 days",
       "link": "",
-      "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
       "published": "",
-      "title_zh": "山火逼近内华达州里诺市 近 9 万人被告知撤离",
-      "summary_zh": "官员称，火势已烧毁约 10,500 英亩，且完全没有得到控制。"
+      "title_zh": "美国城市连续 12 天断电，陷入沮丧",
+      "summary_zh": "在加里镇，三分之一的居民生活在贫困之中，人们说他们一直生活在“生存模式”中。"
     },
     {
-      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+      "title": "Burnham says UK will keep supporting Ukraine despite 'outrageous threats' from Russia",
       "link": "",
-      "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
+      "summary": "The prime minister is handing over blueprints so Kyiv can build its own long-range missiles - Moscow says the UK is \"participating in this war\".",
       "published": "",
-      "title_zh": "“吓死了”：随着野火蔓延，数千人撤离内华达州的房屋",
-      "summary_zh": "随着野火在里诺郊区蔓延，美国各州数万人已被警告撤离。"
+      "title_zh": "伯纳姆表示，尽管俄罗斯发出“无耻的威胁”，英国仍将继续支持乌克兰",
+      "summary_zh": "首相正在移交蓝图，以便基辅能够建造自己的远程导弹 - 莫斯科表示英国正在“参与这场战争”。"
     },
     {
-      "title": "Burnham in Ukraine to hand over UK blueprints to make long-range missiles",
+      "title": "Kanter Freedom ejected from WNBA game over player row",
       "link": "",
-      "summary": "Andy Burnham's first foreign visit as UK PM comes a week after Russia warned of \"consequences\" over Kyiv using British-made drones.",
+      "summary": "Former NBA player Enes Kanter Freedom is ejected from the Women's NBA match between the Chicago Sky and Indiana Fever after becoming involved in a verbal altercation with Sky guard Natasha Cloud.",
       "published": "",
-      "title_zh": "乌克兰的伯纳姆将移交英国制造远程导弹的蓝图",
-      "summary_zh": "安迪·伯纳姆作为英国首相首次出访一周前，俄罗斯就使用英国制造的无人机对基辅造成的“后果”发出警告。"
+      "title_zh": "坎特·弗里德因球员争吵被逐出 WNBA 比赛",
+      "summary_zh": "前 NBA 球员埃内斯·坎特·自由 (Enes Kanter Freedom) 在与天空队后卫娜塔莎·克劳德 (Natasha Cloud) 发生口角后被驱逐出芝加哥天空队 (Chicago Sky) 与印第安纳狂热队 (Indiana Fever) 之间的女子 NBA 比赛。"
     },
     {
-      "title": "The formidable challenges facing new Tata boss",
+      "title": "'Alcohol ruled my life – now my eyes are open'",
       "link": "",
-      "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
+      "summary": "Daniel Norrish volunteers for FoodCycle, a charity that turns surplus food into free community meals.",
       "published": "",
-      "title_zh": "塔塔新任老板面临的艰巨挑战",
-      "summary_zh": "印度企业界最令人垂涎​​的最高职位正在空缺。但为塔塔之子寻找新的领导者并不是一件容易的事。"
+      "title_zh": "“酒精统治了我的生活——现在我睁开了眼睛”",
+      "summary_zh": "丹尼尔·诺里什 (Daniel Norrish) 是 FoodCycle 的志愿者，该慈善机构将多余的食物转化为免费的社区餐食。"
     },
     {
-      "title": "Maradona's 'Hand of God' ball sells for $3.3m in US auction",
+      "title": "What do locals think of IndyCar in Washington DC?",
       "link": "",
-      "summary": "It is the football with which the star scored an infamous goal in a 1986 World Cup win against England.",
+      "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
       "published": "",
-      "title_zh": "马拉多纳的“上帝之手”球在美国拍卖会上以 330 万美元的价格售出",
-      "summary_zh": "这位球星在 1986 年世界杯战胜英格兰队的比赛中攻入了臭名昭著的进球。"
+      "title_zh": "当地人对华盛顿特区的印地赛车有何看法？",
+      "summary_zh": "美国总统唐纳德·特朗普是周日聚集在华盛顿特区街道上观看比赛的数百人之一。"
     },
     {
-      "title": "Esports World Cup ends with surprise win for China-based team",
+      "title": "Guinea rubbish landfill collapse kills 31",
       "link": "",
-      "summary": "AG.AL claim the overall title and $7m (£5.1m) top prize at the third Esports World Cup in Paris.",
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
       "published": "",
-      "title_zh": "电子竞技世界杯中国队意外获胜落下帷幕",
-      "summary_zh": "AG.AL 在巴黎举行的第三届电子竞技世界杯上夺得总冠军和 700 万美元（510 万英镑）的最高奖金。"
+      "title_zh": "几内亚垃圾填埋场倒塌造成31人死亡",
+      "summary_zh": "政府表示，首都一处主要垃圾场的一堆垃圾掩埋了几栋房屋。"
     },
     {
-      "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
       "link": "",
-      "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.",
+      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
       "published": "",
-      "title_zh": "伊劳拉得到了缓解，但利物浦在战平纽卡斯尔后还有很多工作要做",
-      "summary_zh": "多米尼克·索博斯莱（Dominik Szoboszlai）在伤停补时阶段的点球在安多尼·伊劳拉（Andoni Iraola）时代开始时挽救了一分，但利物浦在低于标准杆的表现后需要改进。"
+      "title_zh": "Shein 的目标是在股市首次亮相时估值接近 270 亿美元",
+      "summary_zh": "这家快时尚巨头的股票将于 9 月 1 日在香港开始交易。"
     },
     {
-      "title": "Gordon makes two assists on debut as Barcelona thrash Elche",
+      "title": "Zambia courts sealed off as election petition deadline looms",
       "link": "",
-      "summary": "Raphinha scores twice and Anthony Gordon provides two assists on his debut as La Liga champions Barcelona open their campaign with a 5-0 win at Elche.",
+      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
       "published": "",
-      "title_zh": "戈登首秀送出两次助攻，巴萨大胜埃尔切",
-      "summary_zh": "拉芬哈梅开二度，安东尼戈登在他的处子秀中送出两次助攻，西甲冠军巴塞罗那以5-0战胜埃尔切，开启了他们的赛季。"
-    },
-    {
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "link": "",
-      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-      "published": "",
-      "title_zh": "马拉多纳的“上帝之手”球售价 250 万英镑",
-      "summary_zh": "1986 年世界杯四分之一决赛战胜英格兰队时，迭戈·马拉多纳 (Diego Maradona) 攻入著名的“上帝之手”进球时所用的足球正在拍卖。"
-    },
-    {
-      "title": "Republicans wrestle with data center backlash as Trump promotes the benefits",
-      "link": "https://www.nbcnews.com/politics/2026-election/republicans-data-center-backlash-trump-rcna592410",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着特朗普宣传数据中心的好处，共和党人正在努力应对数据中心的强烈反对"
-    },
-    {
-      "title": "House Democrats demand Trump admin provide full accounting of Iran war costs",
-      "link": "https://www.nbcnews.com/politics/national-security/house-democrats-demand-trump-administration-provide-full-accounting-ir-rcna593788",
-      "summary": "",
-      "published": "",
-      "title_zh": "众议院民主党人要求特朗普政府提供伊朗战争成本的完整核算"
-    },
-    {
-      "title": "Candidates turn to Grandma and Grandpa to make their case",
-      "link": "https://www.nbcnews.com/politics/2026-election/candidates-turn-grandma-grandpa-make-case-rcna592861",
-      "summary": "",
-      "published": "",
-      "title_zh": "候选人向爷爷奶奶求助"
-    },
-    {
-      "title": "Why nuclear energy is making a global comeback",
-      "link": "https://www.nbcnews.com/world/russia/nuclear-energy-making-global-comeback-cfr-rcna594077",
-      "summary": "",
-      "published": "",
-      "title_zh": "核能为何在全球卷土重来"
-    },
-    {
-      "title": "World shares decline and oil prices slip ahead of sanctions announcement",
-      "link": "https://apnews.com/article/stocks-markets-futures-bonds-oil-8ab800029c559c5e751058ac1a8ef932",
-      "summary": "",
-      "published": "",
-      "title_zh": "在宣布制裁之前，世界股市下跌，油价下跌"
-    },
-    {
-      "title": "Indonesia intensifies aerial firefighting as forest fires scorch multiple provinces",
-      "link": "https://apnews.com/article/indonesia-kalimantan-sumatra-peatland-forest-fires-68c55926aa3f2615e57cd59f2449f802",
-      "summary": "",
-      "published": "",
-      "title_zh": "森林大火烧毁多个省份 印尼加强空中灭火"
-    },
-    {
-      "title": "Hungarian air force Gripen jet crashes, pilot ejects safely, prime minister says",
-      "link": "https://apnews.com/article/hungary-fighter-jet-crash-pilot-safe-2c426cb2ed8b85726c36971c84f23416",
-      "summary": "",
-      "published": "",
-      "title_zh": "匈牙利总理表示，匈牙利空军鹰狮战斗机坠毁，飞行员安全弹射"
+      "title_zh": "赞比亚法院因选举请愿截止日期临近而被关闭",
+      "summary_zh": "哈凯恩德·希奇莱马总统第二次就职典礼的准备工作似乎仍在继续。"
     }
   ]
 }

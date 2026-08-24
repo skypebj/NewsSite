@@ -50,7 +50,7 @@
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
     <div class="container">
         <h1>📸 新闻监控面板</h1>
-        <div class="info">最后更新: 2026-08-24 10:37:35</div>
+        <div class="info">最后更新: 2026-08-24 12:43:59</div>
 
         <!-- 健康状态 -->
         <div class="section">
@@ -58,9 +58,15 @@
             <div class="health-grid">
 
                 <div class="health-item">
+                    <div><strong>THEGUARDIAN</strong></div>
+                    <div class="status ok">✅ 成功</div>
+                    <div>条目: 0</div>
+                </div>
+        
+                <div class="health-item">
                     <div><strong>BBC</strong></div>
                     <div class="status ok">✅ 成功</div>
-                    <div>条目: 10</div>
+                    <div>条目: 9</div>
                 </div>
         
                 <div class="health-item">
@@ -71,12 +77,6 @@
         
                 <div class="health-item">
                     <div><strong>CNN</strong></div>
-                    <div class="status ok">✅ 成功</div>
-                    <div>条目: 0</div>
-                </div>
-        
-                <div class="health-item">
-                    <div><strong>THEGUARDIAN</strong></div>
                     <div class="status ok">✅ 成功</div>
                     <div>条目: 0</div>
                 </div>
@@ -120,6 +120,31 @@
             </div>
             <div id="gallery" class="gallery">
     
+                <div class="card" data-date="20260824" data-time="124125" data-site="nbcnews">
+                    <img src="./screenshots/nbcnews_20260824_124125.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NBCNEWS</strong> - 2026-08-24 12:41:25</div>
+                </div>
+            
+                <div class="card" data-date="20260824" data-time="124125" data-site="reuters">
+                    <img src="./screenshots/reuters_20260824_124125.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-08-24 12:41:25</div>
+                </div>
+            
+                <div class="card" data-date="20260824" data-time="124125" data-site="nytimes">
+                    <img src="./screenshots/nytimes_20260824_124125.png" alt="nytimes 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NYTIMES</strong> - 2026-08-24 12:41:25</div>
+                </div>
+            
+                <div class="card" data-date="20260824" data-time="124125" data-site="bbc">
+                    <img src="./screenshots/bbc_20260824_124125.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>BBC</strong> - 2026-08-24 12:41:25</div>
+                </div>
+            
+                <div class="card" data-date="20260824" data-time="124125" data-site="theguardian">
+                    <img src="./screenshots/theguardian_20260824_124125.png" alt="theguardian 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>THEGUARDIAN</strong> - 2026-08-24 12:41:25</div>
+                </div>
+            
                 <div class="card" data-date="20260824" data-time="103420" data-site="cnn">
                     <img src="./screenshots/cnn_20260824_103420.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>CNN</strong> - 2026-08-24 10:34:20</div>
@@ -296,7 +321,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"10": 24};
+            const freqData = {"12": 34};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);
