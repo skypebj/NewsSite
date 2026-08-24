@@ -1,8 +1,12 @@
 {
   "date": "20260824",
-  "total": 26,
+  "total": 20,
   "sources": {
     "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
       "status": "ok",
       "entries": 0
     },
@@ -11,10 +15,6 @@
       "entries": 0
     },
     "apnews": {
-      "status": "ok",
-      "entries": 0
-    },
-    "fox": {
       "status": "ok",
       "entries": 0
     },
@@ -33,189 +33,150 @@
   },
   "entries": [
     {
-      "title": "Darline Graham, Ralph Norman wrap up a whirlwind South Carolina Senate primary campaign",
-      "link": "https://apnews.com/article/south-carolina-darline-graham-ralph-norman-6b269e7a14ff7574e817cd86bd38a97a",
-      "summary": "",
-      "published": "",
-      "title_zh": "达林·格雷厄姆和拉尔夫·诺曼结束了旋风般的南卡罗来纳州参议院初选"
-    },
-    {
-      "title": "From honey to hockey sticks, Trump’s trade war with Canada hikes tariffs on a long list of goods",
-      "link": "https://apnews.com/article/trump-canada-trade-war-tariffs-3bf0ca9421116797fe20b91a9d097116",
-      "summary": "",
-      "published": "",
-      "title_zh": "从蜂蜜到曲棍球棒，特朗普与加拿大的贸易战对一长串商品提高了关税"
-    },
-    {
-      "title": "8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater",
-      "link": "https://apnews.com/article/louisiana-brain-amoeba-lillian-smart-25acf0aad67cd7cd2197dfe2d624e18d",
-      "summary": "",
-      "published": "",
-      "title_zh": "路易斯安那州 8 岁女孩死于温暖淡水中罕见的食脑变形虫"
-    },
-    {
-      "title": "Earth is simmering in its hottest water temps on record, and that’s bad for fish and us",
-      "link": "https://apnews.com/article/hottest-oceans-climate-change-el-nino-fisheries-9dd6ecf3b358a89d2b3a5468d69dbdbc",
-      "summary": "",
-      "published": "",
-      "title_zh": "地球正处于有记录以来最热的水温中，这对鱼类和我们都不利"
-    },
-    {
-      "title": "3-year college degrees grow more popular in the US, saving time and cash. But critics aren’t sold",
-      "link": "https://apnews.com/article/three-year-college-degree-ab4f336a8b4d3abd97980133a84a4007",
-      "summary": "",
-      "published": "",
-      "title_zh": "三年制大学学位在美国越来越受欢迎，可以节省时间和金钱。但批评者并不买账"
-    },
-    {
-      "title": "A psychologist at Lindsay Clancy’s murder trial says she has bipolar disorder",
-      "link": "https://apnews.com/article/lindsay-clancy-murder-trial-mental-health-50bc0cd6e8bfb5d15cfbcdf9907ca1b2",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西谋杀案审判中的一名心理学家称她患有双相情感障碍"
-    },
-    {
-      "title": "California Supreme Court hears arguments over sheriff’s seizure of ballots",
-      "link": "https://apnews.com/article/sheriff-seized-ballots-california-supreme-court-85f3e248e2a09fd171331780ef1d7612",
-      "summary": "",
-      "published": "",
-      "title_zh": "加州最高法院听取有关警长扣押选票的争论"
-    },
-    {
-      "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
-      "link": "",
-      "summary": "Ontario Premier Doug Ford lists the ways Canada could hurt the US economy - and uses blunt language to taunt the US president.",
-      "published": "",
-      "title_zh": "观看：道格·福特就加拿大关税向特朗普直言不讳的警告",
-      "summary_zh": "安大略省省长道格·福特列出了加拿大可能损害美国经济的方式，并用直白的语言嘲笑美国总统。"
-    },
-    {
-      "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-      "link": "",
-      "summary": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
-      "published": "",
-      "title_zh": "慈善？演戏？科茨沃尔德？哈里和梅根的英国生活会是什么样子？",
-      "summary_zh": "这对夫妇即将返回英国，而他们在这里的重点也逐渐变得清晰起来。"
-    },
-    {
-      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-      "link": "",
-      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
-      "published": "",
-      "title_zh": "英国的风暴阴影导弹会改变乌克兰的游戏规则吗？",
-      "summary_zh": "记者乔·因伍德详细分析了可能对俄罗斯-乌克兰战争产生影响的武器技术。"
-    },
-    {
-      "title": "Penn State’s alleged cocaine ring made national news. Here’s how it’s playing out on campus.",
-      "link": "https://www.nbcnews.com/news/us-news/penn-state-cocaine-drug-ring-reaction-rcna594002",
-      "summary": "",
-      "published": "",
-      "title_zh": "宾夕法尼亚州立大学涉嫌可卡因团伙成为全国新闻。这是校园里的情况。"
-    },
-    {
-      "title": "Trump, the ‘fertilization president,’ promised to make IVF free. What happened?",
-      "link": "https://www.nbcnews.com/health/health-news/trump-promised-ivf-free-what-happened-rcna593007",
-      "summary": "",
-      "published": "",
-      "title_zh": "“受精总统”特朗普承诺让试管受精免费。发生了什么？"
-    },
-    {
-      "title": "Robots can outrun humans, but can they plug in a cable?",
-      "link": "https://www.nbcnews.com/tech/tech-news/robots-can-outrun-humans-can-plug-cable-rcna593978",
-      "summary": "",
-      "published": "",
-      "title_zh": "机器人可以跑得比人类快，但它们能插上电缆吗？"
-    },
-    {
-      "title": "California attorney general cancels talks with Paramount, accuses company of leaks",
-      "link": "https://www.nbcnews.com/business/media/paramount-warner-bros-merger-california-attorney-general-cancels-talks-rcna594160",
-      "summary": "",
-      "published": "",
-      "title_zh": "加州总检察长取消与派拉蒙的谈判，指责该公司泄密"
-    },
-    {
-      "title": "Huge number of illegal immigrants arrested in massive capital region sweep",
+      "title": "Supreme Court hands Trump major mail-voting win months before midterms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "首都地区大规模扫荡逮捕大量非法移民"
+      "title_zh": "最高法院在中期选举前几个月让特朗普在邮寄投票中获胜"
     },
     {
-      "title": "Terrorists target luxury retreats at beach and safari destination as US issues warning",
+      "title": "WNBA reportedly rules out two male draft hopefuls but won't define 'woman' on record",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国发出警告，恐怖分子瞄准海滩和野生动物目的地的豪华度假胜地"
+      "title_zh": "据报道，WNBA 排除了两名男性选秀候选人，但不会记录“女性”的定义"
     },
     {
-      "title": "Husband returns to home where wife was slain as neighbors notice new routine",
+      "title": "Schiff attack on Trump’s DC IndyCar race backfires after driver points out contradiction",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "丈夫回到妻子被杀的家，邻居注意到新的生活习惯"
+      "title_zh": "希夫对特朗普华盛顿印地赛车比赛的攻击在车手指出矛盾后适得其反"
     },
     {
-      "title": "Alleged Empire State Building climbing couple turns court exit into another spectacle",
+      "title": "Night out ends in mystery after Southwest flight attendant dies in Hawaii hotel fall",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据称攀登帝国大厦的夫妇将法庭出口变成了另一场奇观"
+      "title_zh": "西南航空公司空姐在夏威夷酒店坠落身亡后，夜晚神秘结束"
     },
     {
-      "title": "Murder charge hits fire chief after investigators unlock wife's hidden folder",
+      "title": "US not ruling out resuming military action against Iran, Hegseth says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "调查人员解开妻子的隐藏文件夹后，消防队长被指控谋杀"
+      "title_zh": "赫格塞斯表示，美国不排除恢复对伊朗采取军事行动的可能性"
     },
     {
-      "title": "Trump's move to lower grocery bills sparks revolt from vulnerable Republicans",
+      "title": "Trump puts parents ‘back in charge’ with sweeping new school choice push",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普降低杂货账单的举动引发了脆弱的共和党人的反抗"
+      "title_zh": "特朗普让家长“重新掌控”全面的新择校计划"
     },
     {
-      "title": "Sophie Cunningham makes more noise off the court and hits a major milestone",
+      "title": "Missing spouse of slain Worcester officer discovered in woods with gun nearby",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 在场外发出更大的声响并达到了一个重要的里程碑"
+      "title_zh": "被杀伍斯特警官的失踪配偶在树林中被发现，附近有枪"
     },
     {
-      "title": "Lindsay Clancy moves for a mistrial over religious 'mortal sin' question, judge denies it",
+      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
       "link": "",
-      "summary": "",
+      "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
       "published": "",
-      "title_zh": "林赛·克兰西就宗教“大罪”问题提出无效审判，法官否认"
+      "title_zh": "基特·哈灵顿 (Kit Harington) 加盟 HBO 哈利波特系列剧，饰演吉德罗·洛哈特 (Gilderoy Lockhart)",
+      "summary_zh": "这个角色是哈灵顿继主演热门电影《权力的游戏》和金融剧《行业》之后第三次与 HBO 合作。"
     },
     {
-      "title": "Fox News announces Emily Compagno will become new co-host of 'The Five'",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
       "link": "",
-      "summary": "",
+      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
       "published": "",
-      "title_zh": "福克斯新闻宣布艾米丽·孔帕尼奥将成为“五人组”的新联合主持人"
+      "title_zh": "除了中国的人形机器人之外，一场更安静的机器革命正在展开",
+      "summary_zh": "中国工厂有超过 200 万台机器人在工作，而且规模正在迅速扩大。"
     },
     {
-      "title": "Melissa Gilbert asks for reform after death of three young actresses in a year",
+      "title": "'Absolutely ridiculous': Canadians react to new tariff tensions with the US",
       "link": "",
-      "summary": "",
+      "summary": "Many voiced frustration at the escalating trade war, warning it risks damaging the deep economic and cultural ties between the two neighbours.",
       "published": "",
-      "title_zh": "一年内三名年轻女演员去世后，梅丽莎吉尔伯特要求改革"
+      "title_zh": "“绝对荒谬”：加拿大人对与美国新的关税紧张局势的反应",
+      "summary_zh": "许多人对不断升级的贸易战表示失望，警告称这可能会损害两个邻国之间深厚的经济和文化联系。"
     },
     {
-      "title": "49ers CEO arrested on prostitution-related charges, possible discipline looms",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "link": "",
-      "summary": "",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "published": "",
-      "title_zh": "49人队首席执行官因卖淫相关指控被捕，可能面临纪律处分"
+      "title_zh": "杀害索尼娅·马西的凶手肖恩·格雷森在美国监狱去世",
+      "summary_zh": "这位前警察的罪行重新引发了有关美国警察暴行的争论，他正在接受癌症治疗。"
     },
     {
-      "title": "Popular energy-boosting supplements may help cancer cells survive chemotherapy",
+      "title": "Briton fighting for Russia killed in Ukraine",
       "link": "",
+      "summary": "Bradley Townsend left South Yorkshire in April, telling his family he was going to Romania.",
+      "published": "",
+      "title_zh": "为俄罗斯而战的英国人在乌克兰丧生",
+      "summary_zh": "布拉德利·汤森德于四月离开南约克郡，告诉家人他要去罗马尼亚。"
+    },
+    {
+      "title": "Man City agree deal for Palmeiras winger Allan",
+      "link": "",
+      "summary": "Manchester City agree to sign winger Allan Elias from Palmeiras in a deal worth up to £34.2m.",
+      "published": "",
+      "title_zh": "曼城同意帕尔梅拉斯边锋阿兰的交易",
+      "summary_zh": "曼城同意从帕尔梅拉斯签下边锋艾伦·埃利亚斯，交易价值高达 3420 万英镑。"
+    },
+    {
+      "title": "Supreme Court hands preliminary win to Trump on mail-in ballots executive order",
+      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120",
       "summary": "",
       "published": "",
-      "title_zh": "流行的能量补充品可能有助于癌细胞在化疗中存活"
+      "title_zh": "最高法院在邮寄选票行政命令中让特朗普初步获胜"
+    },
+    {
+      "title": "Trump moves toward levying new tariff on China for flooding market with cheap goods, AP sources say",
+      "link": "https://apnews.com/article/trump-china-xi-tariffs-manufacturing-3228ac85fefbddee31cbb9481ec42a2a",
+      "summary": "",
+      "published": "",
+      "title_zh": "美联社消息人士称，特朗普打算对中国征收新关税，因为廉价商品充斥市场"
+    },
+    {
+      "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+      "link": "https://apnews.com/article/trump-rubio-visas-revoke-e9c14fdfd0ada439d2b9d8694e678a46",
+      "summary": "",
+      "published": "",
+      "title_zh": "官员称，美国将实施历史上最大规模的签证撤销，针对多达20万名外国人"
+    },
+    {
+      "title": "El-Sayed distances himself from popular streamer’s comments on Israel and Jewish Americans",
+      "link": "https://apnews.com/article/elsayed-michigan-senate-hasan-piker-isreal-antisemitism-848cb6859ba019479d6da8024e720b0b",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃尔-赛义德与流行流媒体对以色列和犹太裔美国人的评论保持距离"
+    },
+    {
+      "title": "Photos of daily life in Tehran as Iran braces for new US sanctions",
+      "link": "https://apnews.com/photo-gallery/photos-daily-life-tehran-iran-braces-new-sanctions-f4d0853c816e4e14b846e92040020d81",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗准备迎接美国新制裁之际德黑兰的日常生活照片"
+    },
+    {
+      "title": "Feds may end Ohio manufacturing program after audit cites $20.9 million in misspending",
+      "link": "https://apnews.com/article/manufacturing-extension-partnership-ohio-federal-audit-20e52ffcb800eee3eb37e18099726d48",
+      "summary": "",
+      "published": "",
+      "title_zh": "审计指出支出不当 2090 万美元后，美联储可能终止俄亥俄州制造业计划"
+    },
+    {
+      "title": "Police find body of Massachusetts woman named a suspect in death of her police officer husband",
+      "link": "https://apnews.com/article/officer-killed-massachusetts-husband-wife-006117548f4d151c1878adb706cbd17a",
+      "summary": "",
+      "published": "",
+      "title_zh": "警方发现马萨诸塞州一名妇女的尸体，该妇女被认定为杀害其警官丈夫的嫌疑人"
     }
   ]
 }
