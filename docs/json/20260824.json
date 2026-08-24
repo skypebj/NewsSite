@@ -1,6 +1,6 @@
 {
   "date": "20260824",
-  "total": 34,
+  "total": 30,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -8,11 +8,11 @@
     },
     "bbc": {
       "status": "ok",
-      "entries": 9
+      "entries": 0
     },
     "fox": {
       "status": "ok",
-      "entries": 0
+      "entries": 13
     },
     "cnn": {
       "status": "ok",
@@ -33,251 +33,224 @@
   },
   "entries": [
     {
-      "title": "Former NBA star speaks out on WNBA ejection, reveals new details",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "link": "",
-      "summary": "",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "published": "",
-      "title_zh": "前 NBA 球星就 WNBA 被驱逐一事发表讲话，透露新细节"
+      "title_zh": "美国财政部长称伊朗面临“有史以来最大规模的金融攻势”",
+      "summary_zh": "斯科特·贝森特表示，美国将切断与伊朗的所有经济联系，任何与伊朗进行经济合作的国家也将被孤立。"
     },
     {
-      "title": "Far-left House candidate's past felony arrest revealed amid high-stakes election",
+      "title": "Tens of thousands urged to evacuate as wildfire approaches Reno, Nevada",
       "link": "",
-      "summary": "",
+      "summary": "The blaze, which officials say was caused by people, was first reported on Saturday morning and Nevada's governor has declared a state of emergency.",
       "published": "",
-      "title_zh": "极左众议院候选人过去因重罪被捕在高风险选举中曝光"
+      "title_zh": "野火逼近内华达州里诺 数万人被敦促撤离",
+      "summary_zh": "官员称火灾是人为造成的，火灾于周六上午首次报道，内华达州州长已宣布进入紧急状态。"
     },
     {
-      "title": "‘Economic D-Day’ on Iran puts trading partners in crosshairs as Tehran threatens retaliation",
+      "title": "Afghan woman, 18, tries to persuade Taliban governor to support her divorce",
       "link": "",
-      "summary": "",
+      "summary": "An 18-year-old woman who accuses her husband of abuse asks a regional governor to support a request to end her marriage.",
       "published": "",
-      "title_zh": "伊朗“经济诺曼底登陆”让贸易伙伴成为焦点，德黑兰威胁进行报复"
+      "title_zh": "阿富汗18岁女子试图说服塔利班州长支持她离婚",
+      "summary_zh": "一名 18 岁女性指控丈夫虐待她，请求州长支持结束婚姻的请求。"
     },
     {
-      "title": "Andrew rejects King Charles’ olive branch as ex-royal's exile fears deepen: experts",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "安德鲁拒绝查尔斯国王的橄榄枝，因为前王室流亡恐惧加深：专家"
-    },
-    {
-      "title": "Having kids has become partisan and the birth gap data backs it up, researchers say",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "研究人员表示，生孩子已成为一种党派之争，出生差距数据也证明了这一点"
-    },
-    {
-      "title": "Mom calls out what is 'almost never' mentioned in coverage of Lindsay Clancy trial",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "妈妈指出林赛·克兰西审判报道中“几乎从未”提到过的事情"
-    },
-    {
-      "title": "Fever coach urges press don't 'give it any gas' as transgender firestorm rages",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "发烧教练敦促媒体不要在变性风暴肆虐之际“给它加油”"
-    },
-    {
-      "title": "Thousands affected as canine brand pulls products over possible hazard",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "由于犬类品牌因可能存在危险而下架产品，数千人受到影响"
-    },
-    {
-      "title": "US announces elimination of 'narco-terrorists' in deadly attack against vessel",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国宣布消灭袭击船只的“毒品恐怖分子”"
-    },
-    {
-      "title": "Telltale clue points to possible purpose of ancient building near the Colosseum",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "线索表明罗马斗兽场附近古建筑的可能用途"
-    },
-    {
-      "title": "‘Coach’ and ‘Donna Reed Show’ star Shelley Fabares dies at 82 after brief illness",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "《教练》和《唐娜·里德秀》明星雪莱·法巴雷斯因短暂患病去世，享年 82 岁"
-    },
-    {
-      "title": "Iran threatens response ahead of US sanctions announcement",
-      "link": "https://apnews.com/article/middle-east-iran-israel-syria-august-24-2026-4c37df8a725b49eae2ab1672b4ae4201",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗威胁在美国宣布制裁前做出回应"
-    },
-    {
-      "title": "Border Patrol arrests father of sailor on USS Lincoln, and more news",
-      "link": "https://apnews.com/newsletter/morning-wire/august-24-2026",
-      "summary": "",
-      "published": "",
-      "title_zh": "边境巡逻队逮捕了林肯号航空母舰水手的父亲以及更多新闻"
-    },
-    {
-      "title": "Canada’s prime minister promises retaliatory tariffs as negotiations with the US falter",
-      "link": "https://apnews.com/live/trump-economy-news-updates-08-24-2026",
-      "summary": "",
-      "published": "",
-      "title_zh": "由于与美国的谈判陷入困境，加拿大总理承诺征收报复性关税"
-    },
-    {
-      "title": "Trump waves the green flag to start the IndyCar race as drivers zoom through Washington’s streets",
-      "link": "https://apnews.com/article/trump-indycar-america-250-fe6d60c0be3a82c63d44d7aa1703a671",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普挥舞绿旗开始印地赛车比赛，车手们在华盛顿的街道上疾驰"
-    },
-    {
-      "title": "Preservationists are working to extend the life of a rare Revolutionary War ‘witness tree’",
-      "link": "https://apnews.com/article/south-carolina-revolutionary-war-tree-a49205ca277957e5c2836f820ae50ea0",
-      "summary": "",
-      "published": "",
-      "title_zh": "保护主义者正在努力延长罕见的革命战争“见证树”的寿命"
-    },
-    {
-      "title": "What to know about the first week of a trial in the 1996 killing of Tupac Shakur",
-      "link": "https://apnews.com/article/tupac-shakur-murder-trial-4f0260f89d0b55647844d30559c309d3",
-      "summary": "",
-      "published": "",
-      "title_zh": "关于 1996 年图帕克·沙库尔 (Tupac Shakur) 被杀案审判第一周需要了解哪些内容"
-    },
-    {
-      "title": "Former commissioner Tim Finchem donates $13 million as PGA Tour reshapes its charity strategy",
-      "link": "https://apnews.com/article/pga-tour-charity-finchem-lucas-glover-nfl-c8394afa7fa38ff619b54c7ad5f5ee36",
-      "summary": "",
-      "published": "",
-      "title_zh": "前专员蒂姆·芬臣 (Tim Finchem) 捐赠 1300 万美元，美巡赛重塑慈善战略"
-    },
-    {
-      "title": "US strikes another boat in eastern Pacific, killing two, Pentagon says",
-      "link": "https://apnews.com/article/trump-bombing-drug-cartels-9043dbd19265a3b4a801973376d53960",
-      "summary": "",
-      "published": "",
-      "title_zh": "五角大楼称，美国在东太平洋袭击了另一艘船，造成两人死亡"
-    },
-    {
-      "title": "Trump pivots to North Korea amid Iran war struggles",
-      "link": "https://www.nbcnews.com/world/asia/trump-seeking-new-summit-emboldened-kim-jong-un-iran-war-struggles-rcna593690",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普在伊朗战争斗争中转向朝鲜"
-    },
-    {
-      "title": "Inside a scam compound where trafficked Indians target Americans",
-      "link": "https://www.nbcnews.com/world/asia/myanmar-scam-compounds-pig-butchering-indian-americans-rcna591676",
-      "summary": "",
-      "published": "",
-      "title_zh": "在一个骗局内，被贩运的印度人以美国人为目标"
-    },
-    {
-      "title": "Human-caused wildfire forces thousands to evacuate near Reno, Nevada",
-      "link": "https://www.nbcnews.com/news/us-news/fast-moving-wildfire-shifting-winds-threatens-reno-nevada-forcing-thou-rcna594079",
-      "summary": "",
-      "published": "",
-      "title_zh": "人为引发的野火迫使内华达州里诺附近数千人撤离"
-    },
-    {
-      "title": "Michigan mass shooter’s violence had frightened close ones for years. Then came a killing spree.",
-      "link": "https://www.nbcnews.com/news/us-news/chad-hickman-michigan-shooter-profile-rcna593891",
-      "summary": "",
-      "published": "",
-      "title_zh": "密歇根州大规模枪击案凶手的暴力行为多年来一直让亲人感到恐惧。接下来就是一场疯狂的杀戮。"
-    },
-    {
-      "title": "20 years after Pluto lost its status as a planet, the debate rages on",
-      "link": "https://www.nbcnews.com/science/space/pluto-dwarf-planet-20-years-rcna593156",
-      "summary": "",
-      "published": "",
-      "title_zh": "冥王星失去行星地位 20 年后，争论仍在继续"
-    },
-    {
-      "title": "Near-total lunar eclipse is coming up with the Americas in prime position",
-      "link": "https://www.nbcnews.com/news/us-news/total-lunar-eclipse-coming-americas-prime-position-rcna593894",
-      "summary": "",
-      "published": "",
-      "title_zh": "接近月全食即将来临，美洲处于首要位置"
-    },
-    {
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "title": "'Half my business will be gone': Firms in Canada and US fear trade war",
       "link": "",
       "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
       "published": "",
-      "title_zh": "“我一半的生意将会消失”——加拿大和美国公司担心贸易战",
+      "title_zh": "“我一半的生意将会消失”：加拿大和美国的公司担心贸易战",
       "summary_zh": "随着针锋相对的进口税不断提高，两国企业主都在应对不确定性和担忧。"
     },
     {
-      "title": "Frustration builds in US city struggling without power for 12 days",
+      "title": "Toddler with sun allergy can play in daylight thanks to UV window film",
       "link": "",
-      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "summary": "Two-year-old Mollie Murray from Scotland has a rare genetic disorder that makes her extremely sensitive to ultraviolet light",
       "published": "",
-      "title_zh": "美国城市连续 12 天断电，陷入沮丧",
-      "summary_zh": "在加里镇，三分之一的居民生活在贫困之中，人们说他们一直生活在“生存模式”中。"
+      "title_zh": "有了紫外线窗膜，对阳光过敏的幼儿可以在日光下玩耍",
+      "summary_zh": "来自苏格兰的两岁莫莉·默里患有一种罕见的遗传性疾病，这使得她对紫外线极其敏感"
     },
     {
-      "title": "Burnham says UK will keep supporting Ukraine despite 'outrageous threats' from Russia",
+      "title": "Twelve arrested in connection with UK crash that killed two police officers",
       "link": "",
-      "summary": "The prime minister is handing over blueprints so Kyiv can build its own long-range missiles - Moscow says the UK is \"participating in this war\".",
+      "summary": "PCs Tom Clough and Matthew Blades died after a car, driving the wrong way on the A66, collided with theirs. Police say the investigation has \"significant links to serious and organised criminal activity\".",
       "published": "",
-      "title_zh": "伯纳姆表示，尽管俄罗斯发出“无耻的威胁”，英国仍将继续支持乌克兰",
-      "summary_zh": "首相正在移交蓝图，以便基辅能够建造自己的远程导弹 - 莫斯科表示英国正在“参与这场战争”。"
+      "title_zh": "十二人因英国车祸导致两名警察死亡而被捕",
+      "summary_zh": "电脑汤姆·克拉夫 (Tom Clough) 和马修·布莱兹 (Matthew Blades) 在 A66 公路上逆向行驶的汽车与他们的车相撞后身亡。警方表示，调查“与严重且有组织的犯罪活动存在重大联系”。"
     },
     {
-      "title": "Kanter Freedom ejected from WNBA game over player row",
+      "title": "Four arrested over suspected poisoning of elephants in Kenya",
       "link": "",
-      "summary": "Former NBA player Enes Kanter Freedom is ejected from the Women's NBA match between the Chicago Sky and Indiana Fever after becoming involved in a verbal altercation with Sky guard Natasha Cloud.",
+      "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
       "published": "",
-      "title_zh": "坎特·弗里德因球员争吵被逐出 WNBA 比赛",
-      "summary_zh": "前 NBA 球员埃内斯·坎特·自由 (Enes Kanter Freedom) 在与天空队后卫娜塔莎·克劳德 (Natasha Cloud) 发生口角后被驱逐出芝加哥天空队 (Chicago Sky) 与印第安纳狂热队 (Indiana Fever) 之间的女子 NBA 比赛。"
+      "title_zh": "四人因涉嫌在肯尼亚中毒大象而被捕",
+      "summary_zh": "一项调查正在调查死亡是否是由喷洒在番茄作物上的杀虫剂造成的。"
     },
     {
-      "title": "'Alcohol ruled my life – now my eyes are open'",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
       "link": "",
-      "summary": "Daniel Norrish volunteers for FoodCycle, a charity that turns surplus food into free community meals.",
+      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
       "published": "",
-      "title_zh": "“酒精统治了我的生活——现在我睁开了眼睛”",
-      "summary_zh": "丹尼尔·诺里什 (Daniel Norrish) 是 FoodCycle 的志愿者，该慈善机构将多余的食物转化为免费的社区餐食。"
+      "title_zh": "新西兰将出台16岁以下青少年社交媒体禁令法案",
+      "summary_zh": "政府的提议面临议员们的反对，他们认为禁令不会起作用。"
     },
     {
-      "title": "What do locals think of IndyCar in Washington DC?",
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
       "link": "",
-      "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
+      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
       "published": "",
-      "title_zh": "当地人对华盛顿特区的印地赛车有何看法？",
-      "summary_zh": "美国总统唐纳德·特朗普是周日聚集在华盛顿特区街道上观看比赛的数百人之一。"
+      "title_zh": "前板球队长敦促为伊姆兰·汗提供“适当的医疗护理”",
+      "summary_zh": "前船长表示，巴基斯坦遵守法院下令的医疗评估是“基本的礼貌”。"
     },
     {
-      "title": "Guinea rubbish landfill collapse kills 31",
+      "title": "Alonso 'always thinking' but Arbeloa becoming boss 'a surprise' - Benitez",
       "link": "",
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "summary": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
       "published": "",
-      "title_zh": "几内亚垃圾填埋场倒塌造成31人死亡",
-      "summary_zh": "政府表示，首都一处主要垃圾场的一堆垃圾掩埋了几栋房屋。"
+      "title_zh": "贝尼特斯：阿隆索“一直在思考”，但阿韦洛亚成为主帅“令人惊讶”",
+      "summary_zh": "前利物浦主教练拉斐尔·贝尼特斯谈及他的前球员哈维·阿隆索和阿尔瓦罗·阿贝洛亚，他们将在周一富勒姆主场迎战切尔西时以主教练身份对战。"
     },
     {
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "link": "",
-      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "title": "Lindsay Clancy trial resumes with testy cross examination of expert",
+      "link": "https://www.nbcnews.com/news/crime-courts/live-blog/lindsay-clancy-trial-rcna594029",
+      "summary": "",
       "published": "",
-      "title_zh": "Shein 的目标是在股市首次亮相时估值接近 270 亿美元",
-      "summary_zh": "这家快时尚巨头的股票将于 9 月 1 日在香港开始交易。"
+      "title_zh": "林赛·克兰西审判继续进行，专家进行了激烈的盘问"
     },
     {
-      "title": "Zambia courts sealed off as election petition deadline looms",
-      "link": "",
-      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "title": "Mothers who experienced postpartum psychosis speak out amid Lindsay Clancy trial",
+      "link": "https://www.nbcnews.com/health/womens-health/mothers-postpartum-psychosis-lindsay-clancy-rcna591756",
+      "summary": "",
       "published": "",
-      "title_zh": "赞比亚法院因选举请愿截止日期临近而被关闭",
-      "summary_zh": "哈凯恩德·希奇莱马总统第二次就职典礼的准备工作似乎仍在继续。"
+      "title_zh": "经历过产后精神病的母亲在林赛·克兰西审判中发声"
+    },
+    {
+      "title": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50%",
+      "link": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-autos-metals-rcna594108",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普回击卡尼，威胁将汽车、卡车和金属关税提高至50%"
+    },
+    {
+      "title": "Send in your questions on AI and robotics for Janis Mackey Frayer",
+      "link": "https://www.nbcnews.com/world/china/send-questions-ai-robotics-janis-mackey-frayer-rcna593744",
+      "summary": "",
+      "published": "",
+      "title_zh": "向 Janis Mackey Frayer 发送有关人工智能和机器人技术的问题"
+    },
+    {
+      "title": "Enes Kanter Freedom altercation sparks reaction from Indiana Fever head coach",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃内斯·坎特的自由争吵引发了印第安纳热队主教练的反应"
+    },
+    {
+      "title": "Trump's green flag on a patriotic weekend sends the left spiraling out of control",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在爱国周末举起绿旗，导致左派失控"
+    },
+    {
+      "title": "Birth tourism scam draws sweeping crackdown as visa revocations climb",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着签证被撤销人数的增加，生育旅游骗局受到严厉打击"
+    },
+    {
+      "title": "Karmelo Anthony’s push for different judge comes back to bite in murder case",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "卡梅洛·安东尼在谋杀案中要求更换法官的努力再次受到影响"
+    },
+    {
+      "title": "Bessent issues chilling warning to Iranian allies: 'Tehran stands alone'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "贝森特向伊朗盟友发出令人心寒的警告：“德黑兰孤立无援”"
+    },
+    {
+      "title": "Trump turns up pressure on Canada with new 50% tariffs on key industries",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普对加拿大施加新的50%关税"
+    },
+    {
+      "title": "Lindsay Clancy's attorney goes after prosecution psychiatrist's qualifications",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西的律师追查检方精神病医生的资格"
+    },
+    {
+      "title": "TUNE IN:Exclusive interview with Michigan Senate nom El-Sayed on 'Primetime' tonight",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "收看：今晚“黄金时段”对密歇根州参议院提名人埃尔-赛义德的独家采访"
+    },
+    {
+      "title": "Top-ranked golfer played through big tournament with 'pretty painful' children's disease",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "顶级高尔夫球手带着“相当痛苦”的儿童疾病参加了大型锦标赛"
+    },
+    {
+      "title": "Joe Manchin says how Alexandria Ocasio-Cortez would be as US president",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乔·曼钦表示亚历山大·奥卡西奥-科尔特斯将如何担任美国总统"
+    },
+    {
+      "title": "NYC slapped with lawsuit over mayor's government grocery store plans",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "纽约市对市长政府杂货店计划提起诉讼"
+    },
+    {
+      "title": "'Harry Potter' star felt 'embarrassed' turning to OnlyFans to support 4 kids",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《哈利·波特》明星转向 OnlyFans 来支持 4 个孩子，感到“尴尬”"
+    },
+    {
+      "title": "RNC calls Florida's new leftist candidate 'unfit' over election overhaul push",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党全国委员会称佛罗里达州新左翼候选人“不适合”推动选举改革"
+    },
+    {
+      "title": "Third time the charm? Democrat Christina Bohannan tries again in pivotal US House race in Iowa",
+      "link": "https://apnews.com/article/iowa-congress-bohannan-miller-meeks-1st-district-c57a850173a060beb7a35138d585ac46",
+      "summary": "",
+      "published": "",
+      "title_zh": "第三次魅力？民主党人克里斯蒂娜·博汉南在爱荷华州的关键美国众议院竞选中再次尝试"
+    },
+    {
+      "title": "Why the bond market is flexing its muscles, and why everyone needs to care",
+      "link": "https://apnews.com/article/bond-market-yields-treasury-mortgages-savings-b62bedeb7a8b7d5479e25a560b52176c",
+      "summary": "",
+      "published": "",
+      "title_zh": "为什么债券市场正在大展拳脚，为什么每个人都需要关心"
+    },
+    {
+      "title": "Prince Harry to leave board of African Parks conservation nonprofit",
+      "link": "https://apnews.com/article/prince-harry-african-parks-conservation-54b1e7e83be96e682a848b483b2ad3d6",
+      "summary": "",
+      "published": "",
+      "title_zh": "哈里王子将离开非洲公园保护非营利组织董事会"
     }
   ]
 }
