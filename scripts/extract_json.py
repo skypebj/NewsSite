@@ -1,11 +1,11 @@
 import os
 import json
 import re
-from datetime import datetime, timedelta  # 统一在顶部导入
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from common import URLS, get_date_str, hash_text, translate_text, load_state, save_state
 
-# 提取器（仅列出 BBC 和 Fox）
+# 提取器（仅列出 BBC 和 Fox，其他使用 generic）
 def extract_bbc(html):
     soup = BeautifulSoup(html, 'lxml')
     articles = soup.select('div[data-testid="card-text-wrapper"]')
@@ -51,14 +51,17 @@ def extract_fox(html):
     return results
 
 def extract_generic(html):
+    """通用提取：提取所有h1,h2,h3中的链接文本"""
     soup = BeautifulSoup(html, 'lxml')
     results = []
-    for h in soup.find_all(['h1', 'h2', 'h3']):
-        link = h.find('a')
+    for tag in soup.find_all(['h1', 'h2', 'h3']):
+        link = tag.find('a')
         if link:
-            title = h.get_text(strip=True)
+            title = tag.get_text(strip=True)
             href = link.get('href') or ''
             if href:
+                if href.startswith('/'):
+                    href = 'https://www.example.com' + href  # 占位，实际可能需补全
                 results.append({'title': title, 'link': href, 'summary': '', 'published': ''})
     return results[:20]
 
@@ -91,6 +94,7 @@ def main():
         extractor = EXTRACTORS.get(site, extract_generic)
         try:
             entries = extractor(html_content)
+            print(f"{site}: 提取到 {len(entries)} 条原始条目")
         except Exception as e:
             print(f"❌ 提取 {site} 失败: {e}")
             site_stats[site] = {'status': 'fail', 'entries': 0, 'error': str(e)}
@@ -113,6 +117,7 @@ def main():
 
         all_entries.extend(unique_entries)
         site_stats[site] = {'status': 'ok', 'entries': len(unique_entries)}
+        print(f"{site}: 去重后 {len(unique_entries)} 条")
 
     state['last_run'] = datetime.now().isoformat()
     state['last_date'] = date_str
@@ -141,6 +146,7 @@ def main():
             json.dump(today_json, f, ensure_ascii=False, indent=2)
         print(f"✅ 最新数据更新至 {latest_path}")
 
+        # 频率统计（简化）
         freq = {}
         for entry in all_entries:
             pub = entry.get('published', '')
@@ -163,6 +169,7 @@ def main():
     else:
         print("⚠️ 没有提取到任何新闻条目")
 
+    # 健康状态（即使无条目也保存）
     health = {
         'last_run': state['last_run'],
         'last_date': state['last_date'],
