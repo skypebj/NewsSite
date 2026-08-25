@@ -50,7 +50,7 @@
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
     <div class="container">
         <h1>📸 新闻监控面板</h1>
-        <div class="info">最后更新: 2026-08-24 22:25:12</div>
+        <div class="info">最后更新: 2026-08-25 01:04:38</div>
 
         <!-- 健康状态 -->
         <div class="section">
@@ -109,7 +109,8 @@
                 <label for="dateSelect">日期：</label>
                 <select id="dateSelect" onchange="updateTimeOptions()">
                     <option value="">-- 全部 --</option>
-                        <option value="20260824">2026-08-24</option>
+                        <option value="20260825">2026-08-25</option>
+                    <option value="20260824">2026-08-24</option>
 
                 </select>
                 <label for="timeSelect">时间点：</label>
@@ -120,6 +121,31 @@
             </div>
             <div id="gallery" class="gallery">
     
+                <div class="card" data-date="20260825" data-time="010155" data-site="bbc">
+                    <img src="./screenshots/bbc_20260825_010155.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>BBC</strong> - 2026-08-25 01:01:55</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="010155" data-site="nytimes">
+                    <img src="./screenshots/nytimes_20260825_010155.png" alt="nytimes 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NYTIMES</strong> - 2026-08-25 01:01:55</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="010155" data-site="nbcnews">
+                    <img src="./screenshots/nbcnews_20260825_010155.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NBCNEWS</strong> - 2026-08-25 01:01:55</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="010155" data-site="cnn">
+                    <img src="./screenshots/cnn_20260825_010155.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>CNN</strong> - 2026-08-25 01:01:55</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="010155" data-site="reuters">
+                    <img src="./screenshots/reuters_20260825_010155.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-08-25 01:01:55</div>
+                </div>
+            
                 <div class="card" data-date="20260824" data-time="222219" data-site="nbcnews">
                     <img src="./screenshots/nbcnews_20260824_222219.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>NBCNEWS</strong> - 2026-08-24 22:22:19</div>
@@ -322,7 +348,7 @@
         <div class="section">
             <div class="section-title">☁️ 热词云</div>
             <div style="text-align:center;">
-                    <img src="./images/wordcloud_20260824.png" alt="词云" style="max-width:100%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+                    <img src="./images/wordcloud_20260825.png" alt="词云" style="max-width:100%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);">
             </div>
         </div>
 
@@ -339,7 +365,7 @@
             <div class="section-title">📥 下载</div>
             <div class="downloads">
                 <span style="font-weight:bold;">EPUB：</span>
-    <a href="./epub/news_20260824.epub" download>news_20260824.epub</a> 
+    <a href="./epub/news_20260825.epub" download>news_20260825.epub</a> <a href="./epub/news_20260824.epub" download>news_20260824.epub</a> 
             </div>
             <div class="downloads" style="margin-top:10px;">
                 <span style="font-weight:bold;">历史归档：</span>
@@ -431,7 +457,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"22": 20};
+            const freqData = {"01": 33};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);
