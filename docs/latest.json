@@ -1,6 +1,6 @@
 {
   "date": "20260825",
-  "total": 11,
+  "total": 15,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,85 +33,113 @@
   },
   "entries": [
     {
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "title": "US removes Syria from list of state sponsors of terrorism",
       "link": "",
-      "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "published": "",
-      "title_zh": "新西兰宗教领袖因中国追随者死亡而被判入狱",
-      "summary_zh": "2024 年，70 岁的 Shulai Wang 的尸体在奥克兰的一个码头附近被发现。"
+      "title_zh": "美国将叙利亚从支持恐怖主义国家名单中删除",
+      "summary_zh": "特朗普政府欢迎叙利亚新总统、与基地组织有联系的前激进分子艾哈迈德·沙拉。"
     },
     {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "title": "Sir Chris Hoy: Campaigning for cancer screening should not be down to me",
       "link": "",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "summary": "The cycling legend tells BBC Scotland that the onus to encourage men to get tested for prostate cancer should not just be on high profile individuals like him.",
       "published": "",
-      "title_zh": "伊朗表示已“做好充分准备”应对美国扩大的经济制裁",
-      "summary_zh": "美国称其对伊朗的最新制裁为“经济诺曼底登陆”，但德黑兰表示已制定反击计划。"
+      "title_zh": "克里斯·霍伊爵士：癌症筛查活动不应该由我来负责",
+      "summary_zh": "这位自行车传奇人物告诉英国广播公司苏格兰频道，鼓励男性接受前列腺癌检查的责任不应该仅仅由像他这样的知名人士承担。"
     },
     {
-      "title": "Moment tornado tears through southern France",
+      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
       "link": "",
-      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "summary": "",
       "published": "",
-      "title_zh": "龙卷风席卷法国南部的瞬间",
-      "summary_zh": "龙卷风已造成40多人受伤，村庄的房屋被毁。"
+      "title_zh": "人工智能辅助投诉激增给议会和学校带来额外压力"
     },
     {
-      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "title": "The grieving family who says UK coroners' courts aren't working",
       "link": "",
-      "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+      "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
       "published": "",
-      "title_zh": "法国游客汽车陷入泥浆死亡谷死亡",
-      "summary_zh": "这名 68 岁的男子被发现死于加利福尼亚州盐滩，气温高达 116°F（46.6C）。"
+      "title_zh": "悲痛的家人表示英国验尸法庭没有发挥作用",
+      "summary_zh": "一名男子的死亡凸显了英国验尸法庭日益紧张的压力"
     },
     {
-      "title": "U.S. preparing for mass visa revocation targeting up to 200,000 people, officials say",
-      "link": "https://www.nbcnews.com/business/travel/trump-mass-visa-revocation-b1-b2-rcna594211",
-      "summary": "",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "link": "",
+      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
       "published": "",
-      "title_zh": "官员称美国准备大规模撤销多达20万人的签证"
+      "title_zh": "特朗普威胁提高汽车关税，美加贸易战升级",
+      "summary_zh": "马克·卡尼指责特朗普想要“摧毁”加拿大汽车业，并表示只有美国采取“正确态度”，他才会恢复贸易谈判。"
     },
     {
-      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-      "link": "https://apnews.com/article/indonesia-sumatra-forest-fires-rain-prayers-ffbea47df1da615f88f8d4ca5b8be4cb",
+      "title": "Canada gears up for payback after Trump slaps goods with 50% tariffs",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "印尼民众在与山火作斗争时勇敢地冒烟祈雨"
+      "title_zh": "特朗普对商品加征50%关税后，加拿大准备报复"
     },
     {
-      "title": "Think it’s hot now? The next five years will smash records, UN says",
-      "link": "https://apnews.com/article/climate-change-warming-heat-wave-record-future-53d79525a06f09d9ace45a141dbebb01",
+      "title": "Slain kids overshadowed as supporters rally for accused mom Lindsay Clancy: prosecutor",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "觉得现在很热吗？联合国称未来五年将打破记录"
+      "title_zh": "检察官称，支持者集会支持被指控的母亲林赛·克兰西，被杀的孩子蒙上了阴影"
     },
     {
-      "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
-      "link": "https://apnews.com/article/trump-canada-tariffs-senate-2026-campaign-c3d2461184a2b8656abd01376452e0d5",
+      "title": "Charles Barkley declares the WNBA is for women only \"period\"",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普与加拿大的贸易战可能会扰乱参议院关键竞选州的经济"
+      "title_zh": "查尔斯·巴克利 (Charles Barkley) 宣称 WNBA 只针对女性“就这样”"
     },
     {
-      "title": "The order doesn’t change elections yet. But it could bring ‘chaos’",
-      "link": "https://apnews.com/article/elections-mail-voting-supreme-court-midterms-3780d57190a317e63fd19583c8ebb143",
+      "title": "Teen faces murder charges after mom, 8-year-old brother found shot at home: police",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "该命令尚未改变选举。但这可能会带来“混乱”"
+      "title_zh": "警方发现妈妈和8岁弟弟在家中遭枪杀，青少年面临谋杀指控"
     },
     {
-      "title": "Peru court hands lengthy prison terms in killing of Indigenous Amazon defender",
-      "link": "https://apnews.com/article/peru-sentence-killing-indigenous-amazon-defender-6bc41df8a7750b223da265e758c2aba5",
+      "title": "New details but no answers a year after an Israeli strike on a Gaza hospital killed journalists",
+      "link": "https://apnews.com/article/israel-hamas-war-gaza-hospital-strike-journalists-6a52be85a9aa0e98a9aa775be2b74cca",
       "summary": "",
       "published": "",
-      "title_zh": "秘鲁法院对杀害亚马逊原住民捍卫者判处长期监禁"
+      "title_zh": "以色列袭击加沙医院导致记者死亡一年后有新细节但没有答案"
     },
     {
-      "title": "Unusual dragonfly swarms sweep across California after warm spring rains",
-      "link": "https://apnews.com/article/california-dragonflies-swarms-monsoon-rains-fd96b90871ec65097e175fdeeb8445c1",
+      "title": "MORE POLITICS",
+      "link": "https://apnews.com/politics",
       "summary": "",
       "published": "",
-      "title_zh": "温暖的春雨过后，异常的蜻蜓群席卷加州"
+      "title_zh": "更多政治"
+    },
+    {
+      "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina’s GOP Senate runoff",
+      "link": "https://apnews.com/article/south-carolina-election-lindsey-graham-03899983c3702842039e99d62e16ddad",
+      "summary": "",
+      "published": "",
+      "title_zh": "达林·格雷厄姆和拉尔夫·诺曼在南卡罗来纳州共和党参议院决选中正面交锋"
+    },
+    {
+      "title": "Trump-backed businessman Mike Mazzei looks to secure GOP nomination for Oklahoma governor",
+      "link": "https://apnews.com/article/oklahoma-governor-republican-runoff-trump-0d68fdd148f38abb1d3a833d10c69c3b",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普支持的商人迈克·马泽希望获得俄克拉荷马州州长的共和党提名"
+    },
+    {
+      "title": "California lawmakers vote to increase transparency over influencers’ paid political posts",
+      "link": "https://apnews.com/article/california-influencers-content-creators-paid-political-ads-075cc03d3bcf7e11ae7af2181292565a",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州立法者投票决定提高影响者付费政治帖子的透明度"
+    },
+    {
+      "title": "Watch live: Robots box and dance",
+      "link": "https://apnews.com/photo-gallery/humanoid-robots-sprint-play-soccer-set-records-beijing-games-photos-ce96217d30c6462e8d3d552d5dd1bb39",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看直播：机器人拳击和舞蹈"
     }
   ]
 }
