@@ -1,16 +1,16 @@
 {
   "date": "20260825",
-  "total": 8,
+  "total": 11,
   "sources": {
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
     "theguardian": {
       "status": "ok",
       "entries": 0
     },
     "fox": {
-      "status": "ok",
-      "entries": 4
-    },
-    "bbc": {
       "status": "ok",
       "entries": 0
     },
@@ -33,64 +33,85 @@
   },
   "entries": [
     {
-      "title": "Moment tornado leaves trail of devastation in France",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
       "link": "",
-      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
       "published": "",
-      "title_zh": "龙卷风在法国留下的破坏痕迹",
-      "summary_zh": "龙卷风已造成40多人受伤，村庄的房屋被毁。"
+      "title_zh": "新西兰宗教领袖因中国追随者死亡而被判入狱",
+      "summary_zh": "2024 年，70 岁的 Shulai Wang 的尸体在奥克兰的一个码头附近被发现。"
     },
     {
-      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "link": "",
       "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
       "published": "",
-      "title_zh": "伊朗表示已准备好应对美国所谓的“有史以来最大规模的金融攻势”",
+      "title_zh": "伊朗表示已“做好充分准备”应对美国扩大的经济制裁",
       "summary_zh": "美国称其对伊朗的最新制裁为“经济诺曼底登陆”，但德黑兰表示已制定反击计划。"
     },
     {
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "title": "Moment tornado tears through southern France",
       "link": "",
-      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
       "published": "",
-      "title_zh": "克里姆林宫顾问表示，英国无人机工厂可能面临“来源不明”的攻击",
-      "summary_zh": "英国广播公司新闻之夜发表上述评论之前，英国宣布同意向乌克兰移交英国制造的导弹部件的蓝图。"
+      "title_zh": "龙卷风席卷法国南部的瞬间",
+      "summary_zh": "龙卷风已造成40多人受伤，村庄的房屋被毁。"
     },
     {
-      "title": "Tornado tears through French village leaving dozens injured",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "link": "",
-      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
       "published": "",
-      "title_zh": "龙卷风席卷法国村庄，造成数十人受伤",
-      "summary_zh": "西南村庄波马斯受灾最严重，数百所房屋受损，十五人被送往医院。"
+      "title_zh": "法国游客汽车陷入泥浆死亡谷死亡",
+      "summary_zh": "这名 68 岁的男子被发现死于加利福尼亚州盐滩，气温高达 116°F（46.6C）。"
     },
     {
-      "title": "Enes Kanter Freedom exposes Natasha Cloud's profane tirade after WNBA ejection",
-      "link": "",
+      "title": "U.S. preparing for mass visa revocation targeting up to 200,000 people, officials say",
+      "link": "https://www.nbcnews.com/business/travel/trump-mass-visa-revocation-b1-b2-rcna594211",
       "summary": "",
       "published": "",
-      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 揭露娜塔莎·克劳德 (Natasha Cloud) 在 WNBA 被驱逐后的亵渎言论"
+      "title_zh": "官员称美国准备大规模撤销多达20万人的签证"
     },
     {
-      "title": "49ers owner busted in $140 prostitution sting near Ohio trailer park",
-      "link": "",
+      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+      "link": "https://apnews.com/article/indonesia-sumatra-forest-fires-rain-prayers-ffbea47df1da615f88f8d4ca5b8be4cb",
       "summary": "",
       "published": "",
-      "title_zh": "49人队老板在俄亥俄州拖车公园附近涉嫌卖淫140美元被捕"
+      "title_zh": "印尼民众在与山火作斗争时勇敢地冒烟祈雨"
     },
     {
-      "title": "GREG GUTFELD:The DSA has become an ‘infection’ Democrats can’t kick",
-      "link": "",
+      "title": "Think it’s hot now? The next five years will smash records, UN says",
+      "link": "https://apnews.com/article/climate-change-warming-heat-wave-record-future-53d79525a06f09d9ace45a141dbebb01",
       "summary": "",
       "published": "",
-      "title_zh": "格雷格·古菲尔德：DSA 已成为民主党无法消灭的“传染病”"
+      "title_zh": "觉得现在很热吗？联合国称未来五年将打破记录"
     },
     {
-      "title": "Illegal immigrant busted in alleged fentanyl ring linked to high school overdoses",
-      "link": "",
+      "title": "Trump’s trade war with Canada could rattle economies in states with key Senate races",
+      "link": "https://apnews.com/article/trump-canada-tariffs-senate-2026-campaign-c3d2461184a2b8656abd01376452e0d5",
       "summary": "",
       "published": "",
-      "title_zh": "非法移民涉嫌与高中服药过量有关的芬太尼团伙被捕"
+      "title_zh": "特朗普与加拿大的贸易战可能会扰乱参议院关键竞选州的经济"
+    },
+    {
+      "title": "The order doesn’t change elections yet. But it could bring ‘chaos’",
+      "link": "https://apnews.com/article/elections-mail-voting-supreme-court-midterms-3780d57190a317e63fd19583c8ebb143",
+      "summary": "",
+      "published": "",
+      "title_zh": "该命令尚未改变选举。但这可能会带来“混乱”"
+    },
+    {
+      "title": "Peru court hands lengthy prison terms in killing of Indigenous Amazon defender",
+      "link": "https://apnews.com/article/peru-sentence-killing-indigenous-amazon-defender-6bc41df8a7750b223da265e758c2aba5",
+      "summary": "",
+      "published": "",
+      "title_zh": "秘鲁法院对杀害亚马逊原住民捍卫者判处长期监禁"
+    },
+    {
+      "title": "Unusual dragonfly swarms sweep across California after warm spring rains",
+      "link": "https://apnews.com/article/california-dragonflies-swarms-monsoon-rains-fd96b90871ec65097e175fdeeb8445c1",
+      "summary": "",
+      "published": "",
+      "title_zh": "温暖的春雨过后，异常的蜻蜓群席卷加州"
     }
   ]
 }

@@ -50,13 +50,19 @@
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
     <div class="container">
         <h1>📸 新闻监控面板</h1>
-        <div class="info">最后更新: 2026-08-25 04:38:15</div>
+        <div class="info">最后更新: 2026-08-25 06:43:36</div>
 
         <!-- 健康状态 -->
         <div class="section">
             <div class="section-title">🔍 健康状态</div>
             <div class="health-grid">
 
+                <div class="health-item">
+                    <div><strong>BBC</strong></div>
+                    <div class="status ok">✅ 成功</div>
+                    <div>条目: 0</div>
+                </div>
+        
                 <div class="health-item">
                     <div><strong>THEGUARDIAN</strong></div>
                     <div class="status ok">✅ 成功</div>
@@ -65,12 +71,6 @@
         
                 <div class="health-item">
                     <div><strong>FOX</strong></div>
-                    <div class="status ok">✅ 成功</div>
-                    <div>条目: 4</div>
-                </div>
-        
-                <div class="health-item">
-                    <div><strong>BBC</strong></div>
                     <div class="status ok">✅ 成功</div>
                     <div>条目: 0</div>
                 </div>
@@ -121,6 +121,21 @@
             </div>
             <div id="gallery" class="gallery">
     
+                <div class="card" data-date="20260825" data-time="064018" data-site="nbcnews">
+                    <img src="./screenshots/nbcnews_20260825_064018.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NBCNEWS</strong> - 2026-08-25 06:40:18</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="064018" data-site="cnn">
+                    <img src="./screenshots/cnn_20260825_064018.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>CNN</strong> - 2026-08-25 06:40:18</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="064018" data-site="reuters">
+                    <img src="./screenshots/reuters_20260825_064018.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-08-25 06:40:18</div>
+                </div>
+            
                 <div class="card" data-date="20260825" data-time="043538" data-site="reuters">
                     <img src="./screenshots/reuters_20260825_043538.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>REUTERS</strong> - 2026-08-25 04:35:38</div>
@@ -502,7 +517,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"04": 8};
+            const freqData = {"06": 11};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);
