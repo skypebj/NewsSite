@@ -1,16 +1,16 @@
 {
   "date": "20260825",
-  "total": 37,
+  "total": 35,
   "sources": {
     "bbc": {
       "status": "ok",
       "entries": 0
     },
-    "theguardian": {
+    "fox": {
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "theguardian": {
       "status": "ok",
       "entries": 0
     },
@@ -33,273 +33,257 @@
   },
   "entries": [
     {
-      "title": "Canada retaliates against Trump tariffs by raising steel duties, rates on $20B of goods",
-      "link": "https://www.nbcnews.com/business/consumer/canada-retaliates-against-trump-tariffs-rcna594280",
-      "summary": "",
-      "published": "",
-      "title_zh": "加拿大通过提高钢铁关税和$20B商品的税率来报复特朗普关税"
-    },
-    {
-      "title": "Trump-backed House candidate removes mentions of the president from his website",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-backed-house-candidate-removes-mentions-president-website-rcna593719",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普支持的众议院候选人从其网站上删除了对总统的提及"
-    },
-    {
-      "title": "Two die of measles in Pennsylvania outbreak",
-      "link": "https://www.nbcnews.com/health/health-news/measles-pennsylvania-deaths-two-outbreak-rfk-jr-rcna594296",
-      "summary": "",
-      "published": "",
-      "title_zh": "宾夕法尼亚州爆发麻疹，两人死亡"
-    },
-    {
-      "title": "Asleep at the wheel: More Tesla owners are choosing to nap while their cars drive",
-      "link": "https://www.nbcnews.com/tech/tech-news/tesla-fsd-sleep-wheel-full-self-driving-mode-nap-safe-detect-rcna590941",
-      "summary": "",
-      "published": "",
-      "title_zh": "开车时睡着了：越来越多的特斯拉车主选择在汽车行驶时小睡"
-    },
-    {
-      "title": "CIA director flies unannounced to Moscow to hold talks, source says",
-      "link": "https://www.nbcnews.com/world/russia/mystery-us-military-plane-lands-moscow-rcna594262",
-      "summary": "",
-      "published": "",
-      "title_zh": "消息人士称，中央情报局局长未经通知飞往莫斯科举行会谈"
-    },
-    {
-      "title": "Judge rejects Ghislaine Maxwell’s bid to toss conviction and warns against further appeals",
-      "link": "https://www.nbcnews.com/politics/politics-news/judge-rejects-ghislaine-maxwells-bid-toss-conviction-warns-appeals-rcna594298",
-      "summary": "",
-      "published": "",
-      "title_zh": "法官驳回 Ghislaine Maxwell 撤销定罪的请求，并警告不要进一步上诉"
-    },
-    {
-      "title": "Indiana governor calls for investigation as thousands remain without power in Gary",
-      "link": "https://www.nbcnews.com/news/us-news/indiana-power-outages-gov-braun-demands-nipsco-investigation-gary-resi-rcna594330",
-      "summary": "",
-      "published": "",
-      "title_zh": "印第安纳州州长呼吁调查，因为加里仍有数千人断电"
-    },
-    {
-      "title": "Can Trump actually change the name of Lake Ontario?",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-lake-ontario-name-change-rcna594332",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普真的可以改变安大略湖的名字吗？"
-    },
-    {
-      "title": "Ohio Parole Board says death row inmate Tyrone Noling should have his sentence commuted to life",
-      "link": "https://www.nbcnews.com/news/us-news/tyrone-noling-gov-mike-dewine-decide-fate-ohio-death-row-inmate-claimi-rcna594162",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄亥俄州假释委员会表示，死囚蒂龙·诺林应减刑为无期徒刑"
-    },
-    {
-      "title": "Sheriff says 650K seized ballots are evidence as state Supreme Court weighs case",
+      "title": "Dolly Parton dead after months battling an unknown health issue, nephew announces",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警长称，州最高法院审理此案时，查获的 65 万张选票是证据"
+      "title_zh": "多莉·帕顿的侄子宣布，她在与未知的健康问题作斗争数月后去世"
     },
     {
-      "title": "State recovers 163 missing children spanning five continents in just five days",
+      "title": "Usha Vance breaks silence on alleged racist insinuation from Abdul El-Sayed",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "短短五天内，该州就寻回了跨越五大洲的 163 名失踪儿童"
+      "title_zh": "乌莎·万斯 (Usha Vance) 打破沉默，回应阿卜杜勒·赛义德 (Abdul El-Sayed) 涉嫌种族主义影射"
     },
     {
-      "title": "LA conservative issues desperate appeal to 'send help' after mayor's alarming video",
+      "title": "Syringe scare rocks popular beach before resident uncovers more disturbing debris",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在市长发布令人震惊的视频后，洛杉矶保守派迫切呼吁“提供帮助”"
+      "title_zh": "在居民发现更多令人不安的碎片之前，注射器吓坏了受欢迎的海滩"
     },
     {
-      "title": "Iran joins forces with Mideast nation to propose temporary shipping route in key strait",
+      "title": "NYC mom survives neck-slash attack on hiking trip in Arizona: 'I can’t die like this'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗与中东国家联手提议在关键海峡建立临时航线"
+      "title_zh": "纽约妈妈在亚利桑那州徒步旅行时颈部被割伤，幸存：“我不能就这样死了”"
     },
     {
-      "title": "Journalist's wink in Lindsay Clancy courtroom livestream sparks online firestorm",
+      "title": "Christians erupt with outrage over El-Sayed's answer when pressed on Sharia law",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "记者在林赛·克兰西法庭直播中眨眼引发网上风暴"
+      "title_zh": "当被问及伊斯兰教法时，基督徒对埃尔赛义德的回答感到愤怒"
     },
     {
-      "title": "Trump taunts northern neighbor on renaming famous lake as feud deepens",
+      "title": "Jennifer Garner reveals financial wake-up call after painful Ben Affleck split",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着不和加深，特朗普嘲笑北方邻居重新命名著名的湖泊"
+      "title_zh": "詹妮弗·加纳 (Jennifer Garner) 在与本·阿弗莱克 (Ben Affleck) 痛苦分手后透露了财务警钟"
     },
     {
-      "title": "Employee at popular fast-food restaurant caught on video straddling cooking station",
+      "title": "Trump endorsements tested in crucial runoffs following recent GOP primary stumbles",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "热门快餐店员工跨坐在烹饪台上的视频被拍到"
+      "title_zh": "在最近共和党初选失利后，特朗普的支持在关键的决选中受到考验"
     },
     {
-      "title": "El-Sayed's 'absurd' Jesse Watters exchange triggers criticism from left and right",
+      "title": "Smithsonian-linked museum draws scrutiny with take on one of America's most somber days",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃尔-赛义德“荒谬”的杰西·沃特斯交流引发左翼和右翼批评"
+      "title_zh": "与史密森尼相关的博物馆因展现美国最阴沉的日子之一而受到密切关注"
     },
     {
-      "title": "Air Force officer killed in Alaska crash hailed for 'professionalism, compassion'",
+      "title": "JB Pritzker's 'governor-maxxing' stunt earns wall-to-wall mockery online",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在阿拉斯加坠机事故中丧生的空军军官因“专业精神、同情心”而受到赞扬"
+      "title_zh": "JB 普利兹克的“州长狂欢”特技在网上遭到嘲笑"
     },
     {
-      "title": "RNC calls Texas Dem candidate 'morally rotten' as old controversies resurface",
+      "title": "WNBA record night turns messy after Angel Reese’s late stat-padding layup",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党全国委员会称得克萨斯州民主党候选人“道德败坏”，旧的争议再次浮出水面"
+      "title_zh": "在安吉尔·里斯最后时刻的上篮后，WNBA 纪录之夜变得混乱"
     },
     {
-      "title": "Jeffries vows accountability for 'Trump cartel' after Kushner meeting sparks criticism",
+      "title": "Michigan Democrat awkwardly pivots to circumcision during Jesse Watters debate",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "库什纳会议引发批评后，杰弗里斯誓言对“特朗普卡特尔”负责"
+      "title_zh": "密歇根州民主党人在杰西·沃特斯辩论中尴尬地转向包皮环切术"
     },
     {
-      "title": "Muslim Brotherhood networks accused of burrowing deep into Canada's institutions",
+      "title": "Robots competing in athletic events go viral for flubbing at the finish line",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "穆斯林兄弟会网络被指控深入加拿大机构"
+      "title_zh": "参加体育赛事的机器人因在终点线失误而走红"
     },
     {
-      "title": "Humanoid robots go head-to-head in Beijing’s World Humanoid Games",
+      "title": "Supreme Court justice rips 'Kafkaesque nightmare' threatening elections",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "仿人机器人在北京世界仿人运动会上展开正面交锋"
+      "title_zh": "最高法院法官撕毁了威胁选举的“卡夫卡式噩梦”"
     },
     {
-      "title": "Write it in Sharpie, one coach is already destined to bolt after one season",
+      "title": "Hayden Panettiere’s team says ‘much more’ to the story, ensures truth will come to light",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "用记号笔写下，一位教练已经注定在一个赛季后离开"
+      "title_zh": "海顿·潘妮蒂尔的团队对这个故事说了“更多”，确保真相水落石出"
     },
     {
-      "title": "Couple's private Vegas elopement turns into midair wedding with 178 unexpected guests",
+      "title": "NYC mayor warns landlords who can't follow the law 'should not' own property",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一对夫妇在维加斯的私人私奔变成了空中婚礼，有 178 名意想不到的客人"
+      "title_zh": "纽约市长警告不遵守法律的房东“不应该”拥有房产"
     },
     {
-      "title": "Supreme Court justice rips 'Kafkaesque nightmare' threatening November elections",
-      "link": "",
+      "title": "Dolly Parton, music icon, dies at 80",
+      "link": "https://www.nbcnews.com/news/us-news/dolly-parton-county-music-icon-dies-80-rcna236277",
       "summary": "",
       "published": "",
-      "title_zh": "最高法院法官撕毁了威胁十一月选举的“卡夫卡式噩梦”"
+      "title_zh": "音乐偶像多莉帕顿去世，享年 80 岁"
     },
     {
-      "title": "Angel Reese breaks two WNBA records with remarkable performance: 'Just in awe",
-      "link": "",
+      "title": "Dolly Parton’s best moments on TODAY",
+      "link": "https://www.today.com/video/dolly-parton-s-best-moments-on-today-77883973974",
       "summary": "",
       "published": "",
-      "title_zh": "安吉尔·里斯以出色的表现打破了两项 WNBA 纪录：“只是敬畏"
+      "title_zh": "多莉·帕顿今天的最佳时刻"
     },
     {
-      "title": "Country's reigning queen whips fans into a frenzy with new viral photos",
-      "link": "",
+      "title": "Watch Dolly Parton, Savannah Guthrie and Hoda Kotb sing ‘Jolene’",
+      "link": "https://www.today.com/video/watch-dolly-parton-savannah-guthrie-and-hoda-kotb-sing-jolene-73743941732",
       "summary": "",
       "published": "",
-      "title_zh": "该国现任女王用新的病毒照片让粉丝们陷入疯狂"
+      "title_zh": "观看 Dolly Parton、Savannah Guthrie 和 Hoda Kotb 演唱“Jolene”"
     },
     {
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "link": "",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "title": "Dolly Parton on her 42nd album release: ‘I still love to perform’",
+      "link": "https://www.today.com/video/dolly-parton-i-still-love-to-perform-43205701823",
+      "summary": "",
       "published": "",
-      "title_zh": "中国猛烈抨击美国对伊朗及其贸易伙伴实施“非法”新制裁",
-      "summary_zh": "美国威胁要孤立那些继续与德黑兰做生意的国家，德黑兰向北京出售大量石油。"
+      "title_zh": "多莉·帕顿 (Dolly Parton) 谈她的第 42 张专辑发行：“我仍然喜欢表演”"
     },
     {
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "link": "",
-      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "title": "Looking back on Dolly Parton's groundbreaking career and music legacy",
+      "link": "https://www.nbcnews.com/now/video/country-music-star-dolly-parton-dies-at-80-268841541797",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普称霍尔木兹海峡所有地雷均已清除",
-      "summary_zh": "自冲突爆发以来，伊朗关闭了重要的水道，导致全球石油价格剧烈波动。"
+      "title_zh": "回顾多莉·帕顿开创性的职业生涯和音乐遗产"
     },
     {
-      "title": "CIA chief in Moscow for unannounced talks, US media reports",
+      "title": "Iran inflicted billions in damage to U.S. intelligence sites, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/iran-inflicted-billions-damage-us-intelligence-sites-sources-say-rcna591879",
+      "summary": "",
+      "published": "",
+      "title_zh": "消息人士称，伊朗对美国情报机构造成了数十亿美元的损失"
+    },
+    {
+      "title": "Trump administration says it might demolish the Kennedy Center if court blocks renovations",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-administration-says-might-demolish-kennedy-center-court-blocks-r-rcna594350",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普政府表示，如果法院阻止翻新工程，可能会拆除肯尼迪中心"
+    },
+    {
+      "title": "South Carolina Senate primary special runoff",
+      "link": "https://www.nbcnews.com/politics/2026-primary-special-elections/south-carolina-senate-runoff-results",
+      "summary": "",
+      "published": "",
+      "title_zh": "南卡罗来纳州参议院初选特别决选"
+    },
+    {
+      "title": "Oklahoma Governor primary runoff",
+      "link": "https://www.nbcnews.com/politics/2026-primary-elections/oklahoma-governor-runoff-results",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄克拉荷马州州长初选决选"
+    },
+    {
+      "title": "Oklahoma Senate primary runoff",
+      "link": "https://www.nbcnews.com/politics/2026-primary-elections/oklahoma-senate-runoff-results",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄克拉荷马州参议院初选决选"
+    },
+    {
+      "title": "Georgia House District 13 special runoff",
+      "link": "https://www.nbcnews.com/politics/2026-special-elections/georgia-us-house-district-13-runoff-results",
+      "summary": "",
+      "published": "",
+      "title_zh": "佐治亚州众议院第13区特别决选"
+    },
+    {
+      "title": "Immigrant dad of USS Lincoln sailor is released from ICE detention",
+      "link": "https://www.nbcnews.com/news/us-news/immigrant-dad-uss-lincoln-sailor-released-ice-detention-rcna594349",
+      "summary": "",
+      "published": "",
+      "title_zh": "林肯号航空母舰水手的移民父亲被 ICE 拘留释放"
+    },
+    {
+      "title": "Dolly Parton: The life of an iconic country singer",
+      "link": "",
+      "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+      "published": "",
+      "title_zh": "多莉·帕顿：一位标志性乡村歌手的一生",
+      "summary_zh": "歌手团队在社交媒体上宣布，标志性乡村音乐家多莉·帕顿去世，享年 80 岁。"
+    },
+    {
+      "title": "Relief may be near for Indiana city after days without power",
+      "link": "",
+      "summary": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+      "published": "",
+      "title_zh": "印第安纳州停电几天后可能即将迎来救援",
+      "summary_zh": "在停电近两周后，印第安纳州加里居民和官员呼吁问责、改善基础设施和采取客户救济措施。"
+    },
+    {
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "published": "",
+      "title_zh": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "summary_zh": "美国和加拿大之间正在进行的贸易战最新升级，将对钢铁、家具、新鲜金枪鱼和化妆品等商品征收新的关税。"
+    },
+    {
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "link": "",
       "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "published": "",
-      "title_zh": "美国媒体报道，中央情报局局长在莫斯科进行未经宣布的会谈",
-      "summary_zh": "飞行跟踪数据证实，一架美国军用飞机周二从美国经拉脱维亚飞往俄罗斯。"
+      "title_zh": "美国媒体报道，中央情报局局长前往莫斯科进行未经宣布的会谈",
+      "summary_zh": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
     },
     {
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "title": "A look back at Dolly Parton's life in pictures",
       "link": "",
-      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
       "published": "",
-      "title_zh": "伊朗与谁进行贸易？特朗普的“经济诺曼底登陆”意味着什么？",
-      "summary_zh": "伊朗对美国的制裁并不陌生，并与多个国家建立了深厚的经济联系。"
+      "title_zh": "通过照片回顾多莉·帕顿的一生",
+      "summary_zh": "这位歌手出身卑微，后来成为世界上最受欢迎的艺人之一。"
     },
     {
-      "title": "Ranking the best managers in Premier League history",
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
       "link": "",
-      "summary": "Thirteen managers have won the Premier League title, but which of them will make it into our top 10 covering the competition's history?",
+      "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
       "published": "",
-      "title_zh": "英超联赛历史上最佳主教练排名",
-      "summary_zh": "十三位主教练赢得了英超联赛冠军，但他们中的哪一位会进入我们涵盖英超联赛历史的前十名呢？"
+      "title_zh": "德国梅尔茨警告袭击者将在无人机事件后“付出代价”",
+      "summary_zh": "德国总理表示，莱比锡机场遭受的无人机袭击突显了该国面临的“非常现实的威胁”。"
     },
     {
-      "title": "Boy, 3, injured in crocodile attack returns home",
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
       "link": "",
-      "summary": "The boy's family say he is \"happy to be home\" after undergoing seven operations in hospital.",
+      "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
       "published": "",
-      "title_zh": "遭鳄鱼袭击受伤的3岁男孩已回家",
-      "summary_zh": "男孩的家人表示，他在医院接受了七次手术后“很高兴回到家”。"
+      "title_zh": "死亡 NFL 球员的脑部疾病“比之前显示的要严重”",
+      "summary_zh": "一项新研究表明，2016 年至 2021 年间死亡的前 NFL 球员中至少有四分之一患有退行性脑部疾病，但真实数字可能要高得多。"
     },
     {
-      "title": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on",
+      "title": "Carabao Cup: Brentford, Leeds, Coventry, West Ham & Ipswich all lead",
       "link": "",
-      "summary": "Hudson and Matthew McConaughey, her co-star from the 2003 rom-com, could be reunited for the sequel.",
+      "summary": "Follow live text coverage and radio commentary from the second round of the Carabao Cup, with six Premier League teams in action.",
       "published": "",
-      "title_zh": "凯特·哈德森 (Kate Hudson) 拍摄《如何在 10 天失去一个男人》续集，时隔 23 年",
-      "summary_zh": "哈德森和 2003 年浪漫喜剧中与她搭档的马修·麦康纳可能会在续集中重聚。"
-    },
-    {
-      "title": "Trump envoy calls for Sudan-wide arms embargo as drone attacks escalate",
-      "link": "",
-      "summary": "A wider arms embargo would require a UN Security Council vote - and Russia and China oppose the move.",
-      "published": "",
-      "title_zh": "随着无人机袭击升级，特朗普特使呼吁在苏丹范围内实施武器禁运",
-      "summary_zh": "更广泛的武器禁运需要联合国安理会投票，而俄罗斯和中国反对此举。"
-    },
-    {
-      "title": "Russian stadium says it won't host Kanye West gigs",
-      "link": "",
-      "summary": "Two planned concerts are thrown into doubt, but Russian promoters insist they will go ahead.",
-      "published": "",
-      "title_zh": "俄罗斯体育场表示不会举办坎耶·韦斯特的演出",
-      "summary_zh": "两场计划中的音乐会受到质疑，但俄罗斯主办方坚称他们将如期举行。"
-    },
-    {
-      "title": "Root 'hacked off' and 'disappointed' at Carse incident",
-      "link": "",
-      "summary": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
-      "published": "",
-      "title_zh": "Root 对 Carse 事件“被砍掉”并“感到失望”",
-      "summary_zh": "英格兰队队长乔·鲁特表示，他对德比夜总会发生的涉及快速投球手布莱登·卡斯的事件感到“震惊”和“失望”。"
+      "title_zh": "Carabao Cup: Brentford, Leeds, Coventry, West Ham & Ipswich all lead",
+      "summary_zh": "关注卡拉宝杯第二轮的现场文字报道和广播评论，六支英超球队将参加比赛。"
     }
   ]
 }
