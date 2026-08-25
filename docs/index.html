@@ -50,7 +50,7 @@
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
     <div class="container">
         <h1>📸 新闻监控面板</h1>
-        <div class="info">最后更新: 2026-08-25 08:57:03</div>
+        <div class="info">最后更新: 2026-08-25 13:06:33</div>
 
         <!-- 健康状态 -->
         <div class="section">
@@ -121,6 +121,51 @@
             </div>
             <div id="gallery" class="gallery">
     
+                <div class="card" data-date="20260825" data-time="130257" data-site="nbcnews">
+                    <img src="./screenshots/nbcnews_20260825_130257.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NBCNEWS</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="cnn">
+                    <img src="./screenshots/cnn_20260825_130257.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>CNN</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="nytimes">
+                    <img src="./screenshots/nytimes_20260825_130257.png" alt="nytimes 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NYTIMES</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="apnews">
+                    <img src="./screenshots/apnews_20260825_130257.png" alt="apnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>APNEWS</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="fox">
+                    <img src="./screenshots/fox_20260825_130257.png" alt="fox 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>FOX</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="reuters">
+                    <img src="./screenshots/reuters_20260825_130257.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="washingtonpost">
+                    <img src="./screenshots/washingtonpost_20260825_130257.png" alt="washingtonpost 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>WASHINGTONPOST</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="bbc">
+                    <img src="./screenshots/bbc_20260825_130257.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>BBC</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="130257" data-site="theguardian">
+                    <img src="./screenshots/theguardian_20260825_130257.png" alt="theguardian 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>THEGUARDIAN</strong> - 2026-08-25 13:02:57</div>
+                </div>
+            
                 <div class="card" data-date="20260825" data-time="085326" data-site="theguardian">
                     <img src="./screenshots/theguardian_20260825_085326.png" alt="theguardian 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>THEGUARDIAN</strong> - 2026-08-25 08:53:26</div>
@@ -562,7 +607,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"08": 15};
+            const freqData = {"13": 39};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);

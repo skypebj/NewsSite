@@ -1,6 +1,6 @@
 {
   "date": "20260825",
-  "total": 15,
+  "total": 39,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,113 +33,287 @@
   },
   "entries": [
     {
-      "title": "US removes Syria from list of state sponsors of terrorism",
+      "title": "What the Supreme Court’s mail voting ruling means ahead of the midterms",
+      "link": "https://apnews.com/newsletter/morning-wire/august-25-2026",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院的邮寄投票裁决在中期选举前意味着什么"
+    },
+    {
+      "title": "Trump floats renaming Lake Ontario as ‘Lake America’ as trade war with Canada escalates",
+      "link": "https://apnews.com/article/canada-trump-lake-810649a0a4143d9042094626c4a36dad",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着与加拿大的贸易战升级，特朗普提议将安大略湖更名为“美国湖”"
+    },
+    {
+      "title": "Secret Service confirms awareness of Iranian state media video threatening Barron Trump’s life",
+      "link": "https://apnews.com/article/barron-trump-iran-secret-service-ab7e49986b167f16d75c66581c30e5d9",
+      "summary": "",
+      "published": "",
+      "title_zh": "特勤局确认伊朗官方媒体视频威胁巴伦·特朗普的生命"
+    },
+    {
+      "title": "Wall Street points to gains as US raises pressure on Iran",
+      "link": "https://apnews.com/article/stocks-markets-futures-nvidia-bonds-oil-f17fc8cfc61f40114eb7246701b4695d",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国加大对伊朗施压，华尔街股市上涨"
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz",
+      "link": "https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09",
+      "summary": "",
+      "published": "",
+      "title_zh": "霍尔木兹海峡遭遇袭击导致船只瘫痪"
+    },
+    {
+      "title": "Florida, hard-hit by Obamacare drop-off, feels the squeeze of rising healthcare costs",
+      "link": "https://apnews.com/article/affordable-care-act-obamacare-subsidies-florida-health-b224d1bdb33690d8d2ddeb094437bdc8",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达州因奥巴马医改减少而遭受重创，感受到医疗费用上涨的压力"
+    },
+    {
+      "title": "Sentencing set for polygamous leader convicted of abuse in Arizona after girls discovered in trailer",
+      "link": "https://apnews.com/article/samuel-bateman-arizona-child-abuse-polygamous-sect-873d364cc65b10db0736284da14aa637",
+      "summary": "",
+      "published": "",
+      "title_zh": "预告片中发现女孩后，亚利桑那州一夫多妻制领导人被判虐待罪，将被判刑"
+    },
+    {
+      "title": "The last few witnesses in the Lindsay Clancy murder trial are set to testify",
+      "link": "https://apnews.com/article/lindsay-clancy-murder-trial-psychologist-d9fe325ddc2f221bd4134d8b4623d1c3",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西谋杀案审判的最后几名证人将出庭作证"
+    },
+    {
+      "title": "Trump may hope sanctions will pressure Iran's regime - its leaders are betting otherwise",
       "link": "",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "summary": "The US says new sanctions ar an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
       "published": "",
-      "title_zh": "美国将叙利亚从支持恐怖主义国家名单中删除",
-      "summary_zh": "特朗普政府欢迎叙利亚新总统、与基地组织有联系的前激进分子艾哈迈德·沙拉。"
+      "title_zh": "特朗普可能希望制裁能给伊朗政权带来压力——伊朗领导人却打赌不是这样",
+      "summary_zh": "美国称新的制裁是“经济诺曼底登陆”，但德黑兰领导人此前曾经历过限制。"
     },
     {
-      "title": "Sir Chris Hoy: Campaigning for cancer screening should not be down to me",
+      "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
       "link": "",
-      "summary": "The cycling legend tells BBC Scotland that the onus to encourage men to get tested for prostate cancer should not just be on high profile individuals like him.",
+      "summary": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail.",
       "published": "",
-      "title_zh": "克里斯·霍伊爵士：癌症筛查活动不应该由我来负责",
-      "summary_zh": "这位自行车传奇人物告诉英国广播公司苏格兰频道，鼓励男性接受前列腺癌检查的责任不应该仅仅由像他这样的知名人士承担。"
+      "title_zh": "安德鲁·泰特的律师称，照片中的安德鲁·泰特夸大其词，并没有拥有超级跑车",
+      "summary_zh": "检察官认为泰特和他的兄弟特里斯坦有潜逃风险，不应保释。"
     },
     {
-      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "link": "",
+      "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "published": "",
+      "title_zh": "洛克比爆炸案审判在原定开始前几天被推迟",
+      "summary_zh": "三天前，关于一名 37 岁男子案件的新证据曝光后，对一名利比亚男子的审判第三次被推迟。"
+    },
+    {
+      "title": "Caste divide makes summer more scorching in dry Indian region",
+      "link": "",
+      "summary": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+      "published": "",
+      "title_zh": "种姓差异使印度干旱地区的夏季更加炎热",
+      "summary_zh": "活动人士表示，气温上升和水资源短缺正在加剧本德尔坎德地区古老的种姓不平等。"
+    },
+    {
+      "title": "Asbestos killed my mum in her 40s – was her school to blame?",
+      "link": "",
+      "summary": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.",
+      "published": "",
+      "title_zh": "石棉杀死了我 40 多岁的妈妈——是她的学校惹的祸吗？",
+      "summary_zh": "卡罗琳·布莱恩 (Caroline Bryan) 在被诊断出患有与石棉有关的无法治愈的癌症三个月后去世。"
+    },
+    {
+      "title": "San Francisco 49ers owner jailed after prostitution arrest",
+      "link": "",
+      "summary": "Jed York pleaded no contest to two charges in Ohio after being arrested for soliciting prostitution.",
+      "published": "",
+      "title_zh": "旧金山 49 人队老板因卖淫被捕入狱",
+      "summary_zh": "杰德·约克因嫖娼被捕后，对俄亥俄州的两项指控没有提出抗辩。"
+    },
+    {
+      "title": "British man charged in Singapore two years after alleged theft at airport",
+      "link": "",
+      "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
+      "published": "",
+      "title_zh": "英国男子涉嫌机场盗窃两年后在新加坡被指控",
+      "summary_zh": "这名 26 岁的男子因涉嫌在 2024 年从机场商店偷窃一件牛仔夹克而面临最高七年的监禁。"
+    },
+    {
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "link": "",
+      "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+      "published": "",
+      "title_zh": "基特·哈灵顿 (Kit Harington) 取代尼古拉斯·霍尔特 (Nicholas Hoult) 出演 HBO 哈利·波特系列剧",
+      "summary_zh": "两周前，霍尔特被宣布为吉德罗·洛哈特，但由于日程安排问题而退出。"
+    },
+    {
+      "title": "Songs created by AI banned from Australia's music charts",
+      "link": "",
+      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "published": "",
+      "title_zh": "澳大利亚音乐排行榜禁止人工智能创作的歌曲",
+      "summary_zh": "几周前，一名 DJ 承认使用人工智能重新混音了一首在澳大利亚排行榜上名列前茅的麦当娜歌曲。"
+    },
+    {
+      "title": "Transfer latest: Savinho joins Spurs plus Baleba, Bouaddi & Watkins updates",
+      "link": "",
+      "summary": "All the latest transfer news and your opportunity to ask our football reporters transfer questions with the window set to close in a week.",
+      "published": "",
+      "title_zh": "最新转会：萨维尼奥加盟热刺以及巴莱巴、布阿迪和沃特金斯更新",
+      "summary_zh": "所有最新的转会新闻以及您向我们的足球记者询问转会问题的机会，窗口将于一周后关闭。"
+    },
+    {
+      "title": "Smithsonian-linked museum sparks scrutiny with its take on one of America’s most somber days",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "人工智能辅助投诉激增给议会和学校带来额外压力"
+      "title_zh": "与史密森尼相关的博物馆对美国最阴沉的日子之一的看法引发了密切关注"
     },
     {
-      "title": "The grieving family who says UK coroners' courts aren't working",
-      "link": "",
-      "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
-      "published": "",
-      "title_zh": "悲痛的家人表示英国验尸法庭没有发挥作用",
-      "summary_zh": "一名男子的死亡凸显了英国验尸法庭日益紧张的压力"
-    },
-    {
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "link": "",
-      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
-      "published": "",
-      "title_zh": "特朗普威胁提高汽车关税，美加贸易战升级",
-      "summary_zh": "马克·卡尼指责特朗普想要“摧毁”加拿大汽车业，并表示只有美国采取“正确态度”，他才会恢复贸易谈判。"
-    },
-    {
-      "title": "Canada gears up for payback after Trump slaps goods with 50% tariffs",
+      "title": "Iran responds after Trump admin launches 'economic D-Day' against regime",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普对商品加征50%关税后，加拿大准备报复"
+      "title_zh": "特朗普政府发起针对政权的“经济诺曼底登陆”后，伊朗做出回应"
     },
     {
-      "title": "Slain kids overshadowed as supporters rally for accused mom Lindsay Clancy: prosecutor",
+      "title": "Dem mayor in hot seat over 'unhinged' move 'hunting down' property owners leasing to ICE",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "检察官称，支持者集会支持被指控的母亲林赛·克兰西，被杀的孩子蒙上了阴影"
+      "title_zh": "民主党市长因“疯狂”行动“追捕”向 ICE 出租的业主而陷入困境"
     },
     {
-      "title": "Charles Barkley declares the WNBA is for women only \"period\"",
+      "title": "Prince William 'furious' after Harry and Meghan's UK return blindsided him: experts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "查尔斯·巴克利 (Charles Barkley) 宣称 WNBA 只针对女性“就这样”"
+      "title_zh": "哈里和梅根回英国让威廉王子措手不及：专家们“愤怒”"
     },
     {
-      "title": "Teen faces murder charges after mom, 8-year-old brother found shot at home: police",
+      "title": "Lindsay Clancy support risks overshadowing the killing of her three children, prosecutor says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警方发现妈妈和8岁弟弟在家中遭枪杀，青少年面临谋杀指控"
+      "title_zh": "检察官称林赛·克兰西的支持风险掩盖了她三个孩子被杀的风险"
     },
     {
-      "title": "New details but no answers a year after an Israeli strike on a Gaza hospital killed journalists",
-      "link": "https://apnews.com/article/israel-hamas-war-gaza-hospital-strike-journalists-6a52be85a9aa0e98a9aa775be2b74cca",
+      "title": "Far-left podcast host just said the quiet part about WNBA media access out loud",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "以色列袭击加沙医院导致记者死亡一年后有新细节但没有答案"
+      "title_zh": "极左播客主持人刚刚大声说出了有关 WNBA 媒体访问的安静部分"
     },
     {
-      "title": "MORE POLITICS",
-      "link": "https://apnews.com/politics",
+      "title": "The brain may undergo a major transformation around age 50, new study finds",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "更多政治"
+      "title_zh": "新研究发现大脑可能在 50 岁左右经历重大转变"
     },
     {
-      "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina’s GOP Senate runoff",
-      "link": "https://apnews.com/article/south-carolina-election-lindsey-graham-03899983c3702842039e99d62e16ddad",
+      "title": "Target apologizes after critics slam 'offensive' Halloween costume for kids",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "达林·格雷厄姆和拉尔夫·诺曼在南卡罗来纳州共和党参议院决选中正面交锋"
+      "title_zh": "塔吉特在批评者抨击儿童万圣节服装“冒犯性”后道歉"
     },
     {
-      "title": "Trump-backed businessman Mike Mazzei looks to secure GOP nomination for Oklahoma governor",
-      "link": "https://apnews.com/article/oklahoma-governor-republican-runoff-trump-0d68fdd148f38abb1d3a833d10c69c3b",
+      "title": "Man accused of threatening mass shootings at 5 schools walks free before classes start",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普支持的商人迈克·马泽希望获得俄克拉荷马州州长的共和党提名"
+      "title_zh": "一名被指控威胁对 5 所学校进行大规模枪击的男子在开课前自由行走"
     },
     {
-      "title": "California lawmakers vote to increase transparency over influencers’ paid political posts",
-      "link": "https://apnews.com/article/california-influencers-content-creators-paid-political-ads-075cc03d3bcf7e11ae7af2181292565a",
+      "title": "Dijonai Carrington's cryptic '8/23' post ages like milk as Caitlin Clark, Fever dominate",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州立法者投票决定提高影响者付费政治帖子的透明度"
+      "title_zh": "迪乔奈·卡林顿神秘的“8/23”后年龄就像凯特琳·克拉克的牛奶，发烧占主导地位"
     },
     {
-      "title": "Watch live: Robots box and dance",
-      "link": "https://apnews.com/photo-gallery/humanoid-robots-sprint-play-soccer-set-records-beijing-games-photos-ce96217d30c6462e8d3d552d5dd1bb39",
+      "title": "Railway construction exposes mysterious 3,000-year-old hoard with battered sword",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：机器人拳击和舞蹈"
+      "title_zh": "铁路建设暴露了拥有3000年历史的神秘宝藏和破旧的宝剑"
+    },
+    {
+      "title": "California's crumbling infrastructure now a national food security threat, GOP rep warns",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党代表警告说，加州摇摇欲坠的基础设施现在对国家粮食安全构成威胁"
+    },
+    {
+      "title": "League's reputation tanking as transgender fight spirals, Charles Barkley warns",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "查尔斯·巴克利警告说，随着跨性别斗争的加剧，联盟的声誉下降"
+    },
+    {
+      "title": "China pushes back on U.S. economic threats against Iran",
+      "link": "https://www.nbcnews.com/world/asia/iran-war-us-oil-sanctions-china-resisting-trump-economic-threats-rcna594259",
+      "summary": "",
+      "published": "",
+      "title_zh": "中国反击美国对伊朗的经济威胁"
+    },
+    {
+      "title": "Trump proposes renaming Lake Ontario as ‘Lake America’",
+      "link": "https://www.nbcnews.com/politics/trump-administration/abdul-el-sayed-distances-hasan-pikers-comments-israel-jewish-americans-rcna594269",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普提议将安大略湖更名为“美国湖”"
+    },
+    {
+      "title": "Trump’s endorsement faces major tests in today’s primary runoffs",
+      "link": "https://www.nbcnews.com/politics/2026-election/trumps-endorsement-faces-major-tests-tuesdays-primary-runoffs-rcna593579",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普的支持在今天的初选中面临重大考验"
+    },
+    {
+      "title": "The Data Dive: Darlene Graham’s position in today’s runoff is anything but secure",
+      "link": "https://www.nbcnews.com/politics/2026-election/senate-runoff-south-carolina-puts-trumps-clout-test-rcna594221",
+      "summary": "",
+      "published": "",
+      "title_zh": "数据潜水：达琳·格雷厄姆在今天的决选中的地位一点也不稳固"
+    },
+    {
+      "title": "Lindsay Clancy trial continues after judge denies motion for mistrial",
+      "link": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-lindsay-clancy-trial-continues-judge-denies-motion-mistri-rcna594264",
+      "summary": "",
+      "published": "",
+      "title_zh": "法官驳回无效审判动议后，林赛·克兰西的审判继续进行"
+    },
+    {
+      "title": "This Russian cartoon is a global hit. Ukraine calls it a national security threat.",
+      "link": "https://www.nbcnews.com/world/ukraine/masha-bear-sanctioned-ukraine-popular-russian-cartoon-wartime-target-rcna593698",
+      "summary": "",
+      "published": "",
+      "title_zh": "这部俄罗斯动画片风靡全球。乌克兰称其为国家安全威胁。"
+    },
+    {
+      "title": "‘Getting no help’: Thousands in Gary, Indiana, without power nearly 2 weeks after storms",
+      "link": "https://www.nbcnews.com/news/us-news/gary-indiana-power-outages-storms-rcna594184",
+      "summary": "",
+      "published": "",
+      "title_zh": "“得不到帮助”：风暴过后近两周，印第安纳州加里市数千人断电"
+    },
+    {
+      "title": "Science behind the spread",
+      "link": "https://www.nbcnews.com/health/health-news/why-outbreaks-2026-food-contamination-cyclospora-salmonella-e-coli-rcna592940",
+      "summary": "",
+      "published": "",
+      "title_zh": "传播背后的科学"
     }
   ]
 }
