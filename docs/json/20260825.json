@@ -1,6 +1,6 @@
 {
   "date": "20260825",
-  "total": 33,
+  "total": 11,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,246 +33,81 @@
   },
   "entries": [
     {
-      "title": "WNBA just created a bigger problem with Kanter Freedom and Royce White",
+      "title": "Abdul El-Sayed battles Jesse Watters over billionaires, Sharia law in tense interview",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "WNBA just created a bigger problem with Kanter Freedom and Royce White"
+      "title_zh": "阿卜杜勒·赛义德在紧张的采访中就亿万富翁和伊斯兰教法与杰西·沃特斯进行了斗争"
     },
     {
-      "title": "Expert says Putin ‘panicked’ as Ukraine’s deep strikes push war further into Russia",
+      "title": "Trump administration makes historic Syria move with billions potentially at stake",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家表示，乌克兰的深度打击将战争进一步推向俄罗斯，普京“惊慌失措”"
+      "title_zh": "特朗普政府在叙利亚问题上做出历史性举动，可能危及数十亿美元"
     },
     {
-      "title": "Doctor accused of shooting two young sisters in violent road rage clash",
+      "title": "Ex-NBA player tells Laura Ingraham why WNBA can't ban him: 'I identify as a woman'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "医生被指控在路怒冲突中射杀两名年轻姐妹"
+      "title_zh": "前 NBA 球员告诉劳拉·英格拉汉姆为什么 WNBA 不能禁止他：“我认为自己是女性”"
     },
     {
-      "title": "Kacey Musgraves told to ‘shut up and sing’ over immigrant children's plea",
+      "title": "Hiring H-1B workers could soon come with staggering six-figure government fee",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Kacey Musgraves told to ‘shut up and sing’ over immigrant children's plea"
+      "title_zh": "雇用 H-1B 员工很快可能会面临高达六位数的政府费用"
     },
     {
-      "title": "Simon Cowell’s sudden ‘America's Got Talent’ absence comes with a painful backstory",
+      "title": "Wild dashcam shows Houston officers jump into Uber during nighttime police chase",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Simon Cowell’s sudden ‘America's Got Talent’ absence comes with a painful backstory"
+      "title_zh": "狂野的行车记录仪显示休斯敦警察在夜间警察追捕期间跳入优步"
     },
     {
-      "title": "The NFL is charging fans an astronomical amount to watch all of its games on Sundays",
+      "title": "More details about Jed York's arrest in a prostitution sting come to light and begs questions about the 49ers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 向球迷收取天文数字的费用，让他们在周日观看所有比赛"
+      "title_zh": "杰德·约克因卖淫被捕的更多细节曝光，引发了人们对 49 人队的疑问"
     },
     {
-      "title": "'National Treasure' director says upcoming third film will address politics",
+      "title": "Jeff Foxworthy reflects on comedy, fatherhood and life after fame on ‘Planet Tyrus’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "'National Treasure' director says upcoming third film will address politics"
+      "title_zh": "杰夫·福克斯沃西在《泰勒斯星球》中反思喜剧、父亲身份和成名后的生活"
     },
     {
-      "title": "Buc-ee’s CEO shifts focus to red states after blue-state frustrations",
+      "title": "SEAN HANNITY:It is clear El-Sayed has ‘terrible judgment’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Buc-ee’s CEO shifts focus to red states after blue-state frustrations"
+      "title_zh": "肖恩·汉尼蒂：很明显，埃尔·赛义德有“糟糕的判断力”"
     },
     {
-      "title": "Utah teen faces murder charges after mom, 8-year-old brother found shot at home: police",
+      "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "犹他州青少年因母亲和8岁兄弟被发现在家中被枪杀而面临谋杀指控：警方"
+      "title_zh": "非法移民被指控与弗吉尼亚高中服药过量有关的芬太尼交易"
     },
     {
-      "title": "Teen hiker's disappearance ends in tragedy after 8-day search, police say",
-      "link": "",
+      "title": "Strikes in Gaza kill 4, including 2 children, a week after US asked Israel to curb attacks",
+      "link": "https://apnews.com/article/gaza-israel-war-hamas-strikes-palestinians-39f50725df3fc132adabef2a8cbec9c5",
       "summary": "",
       "published": "",
-      "title_zh": "警方称，经过8天的搜寻，青少年徒步旅行者失踪以悲剧告终"
+      "title_zh": "在美国要求以色列遏制袭击一周后，加沙的袭击造成 4 人死亡，其中包括 2 名儿童"
     },
     {
-      "title": "Sydney Sweeney straps herself to a moving plane and dares Hollywood's greatest daredevil",
-      "link": "",
+      "title": "Wife of active-duty Army sergeant is deported to Honduras under Trump’s immigration crackdown",
+      "link": "https://apnews.com/article/immigration-military-spouse-deported-1f7b72c850410fa1e314902b0464eca5",
       "summary": "",
       "published": "",
-      "title_zh": "Sydney Sweeney straps herself to a moving plane and dares Hollywood's greatest daredevil"
-    },
-    {
-      "title": "Trump delivers major break for Syria after government takes steps against terror groups",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Trump delivers major break for Syria after government takes steps against terror groups"
-    },
-    {
-      "title": "ICE director gives inside look at operations in California’s biggest sanctuary city",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "ICE 主管深入了解加州最大庇护城市的运营情况"
-    },
-    {
-      "title": "Iran dismisses US sanctions, predicts 'another defeat' for Washington",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Iran dismisses US sanctions, predicts 'another defeat' for Washington"
-    },
-    {
-      "title": "Trump admin eyes largest mass visa revocation in US history targeting 200K: report",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普政府计划撤销美国历史上最大规模的签证，目标是 20 万：报告"
-    },
-    {
-      "title": "Parts of Lindsay Clancy’s account suggest she made up story, expert testifies",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "专家作证，林赛·克兰西的部分叙述表明她编造了故事"
-    },
-    {
-      "title": "Trump administration blasts 'rogue judge' who torched the 75-country freeze",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Trump administration blasts 'rogue judge' who torched the 75-country freeze"
-    },
-    {
-      "title": "Welcome to a new (and expensive) era of foldable phones",
-      "link": "https://www.nbcnews.com/business/consumer/google-samsung-apple-fight-foldable-phone-market-rcna594138",
-      "summary": "",
-      "published": "",
-      "title_zh": "Welcome to a new (and expensive) era of foldable phones"
-    },
-    {
-      "title": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms",
-      "link": "https://apnews.com/article/trump-mail-voting-supreme-court-157afc3c195ce0a62c522da5ce904b04",
-      "summary": "",
-      "published": "",
-      "title_zh": "Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms"
-    },
-    {
-      "title": "Colombian president orders immigration raids, vows deportations of migrants without legal status",
-      "link": "https://apnews.com/article/colombia-de-la-espriella-migrants-president-venezuelans-raids-crime-05bb694f97b18a1d449e0926fe8f94e6",
-      "summary": "",
-      "published": "",
-      "title_zh": "Colombian president orders immigration raids, vows deportations of migrants without legal status"
-    },
-    {
-      "title": "An NFL player coming back to college? Yes, it could happen. Here’s why",
-      "link": "https://apnews.com/article/eligibility-lawsuits-48a2f33c85746e3a8f2024a4ec9fb22c",
-      "summary": "",
-      "published": "",
-      "title_zh": "An NFL player coming back to college? Yes, it could happen. Here’s why"
-    },
-    {
-      "title": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103",
-      "link": "https://apnews.com/article/lockerbie-bombing-pan-am-libyan-1988-a0e103909055b034c36dd27d3a316b80",
-      "summary": "",
-      "published": "",
-      "title_zh": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103"
-    },
-    {
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "link": "",
-      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
-      "published": "",
-      "title_zh": "How Canada could hit back to hurt the US economy - and Trump",
-      "summary_zh": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?"
-    },
-    {
-      "title": "Judge postpones Lockerbie bombing trial days before start due to new evidence",
-      "link": "",
-      "summary": "The trial of a Libyan man is delayed for a third time in the 1988 bombing of Pam Am Flight 103, which killed 270 people.",
-      "published": "",
-      "title_zh": "Judge postpones Lockerbie bombing trial days before start due to new evidence",
-      "summary_zh": "The trial of a Libyan man is delayed for a third time in the 1988 bombing of Pam Am Flight 103, which killed 270 people."
-    },
-    {
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "link": "",
-      "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
-      "published": "",
-      "title_zh": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "summary_zh": "Tips are central to US dining culture but some eateries think that they are unfair."
-    },
-    {
-      "title": "The grieving family who says UK coroner's courts aren't working",
-      "link": "",
-      "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
-      "published": "",
-      "title_zh": "悲痛的家人表示英国验尸官法庭没有发挥作用",
-      "summary_zh": "One man's death highlights the growing strains on the UK's coroner's courts"
-    },
-    {
-      "title": "Caste divides make scorching summers harder in a parched corner of India",
-      "link": "",
-      "summary": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
-      "published": "",
-      "title_zh": "Caste divides make scorching summers harder in a parched corner of India",
-      "summary_zh": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say."
-    },
-    {
-      "title": "Manga-inspired theme park to be built near Paris",
-      "link": "",
-      "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-      "published": "",
-      "title_zh": "巴黎附近将建造漫画主题公园",
-      "summary_zh": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia."
-    },
-    {
-      "title": "Syria court sentences Assad-era grand mufti to life in prison",
-      "link": "",
-      "summary": "Ahmed Hassoun was convicted of crimes including inciting civil war and complicity in intentional killing.",
-      "published": "",
-      "title_zh": "Syria court sentences Assad-era grand mufti to life in prison",
-      "summary_zh": "Ahmed Hassoun was convicted of crimes including inciting civil war and complicity in intentional killing."
-    },
-    {
-      "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
-      "link": "",
-      "summary": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
-      "published": "",
-      "title_zh": "荷兰广播公司 Avrotros 退出 2027 年欧洲歌唱大赛",
-      "summary_zh": "报告称，当参与国仍卷入大规模军事冲突时，竞争就不能再被视为中立。"
-    },
-    {
-      "title": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "link": "",
-      "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
-      "published": "",
-      "title_zh": "尼泊尔对强奸和谋杀三岁女孩的愤怒",
-      "summary_zh": "自从上周女孩失踪三天后被发现死亡以来，抗议活动一直在发生。"
-    },
-    {
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "link": "",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "published": "",
-      "title_zh": "以色列警告将对加沙放飞的风筝做出“强有力”反应",
-      "summary_zh": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
-    },
-    {
-      "title": "Punishment that sends shiver down whole England team needed - Vaughan",
-      "link": "",
-      "summary": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
-      "published": "",
-      "title_zh": "需要让整个英格兰队不寒而栗的惩罚——沃恩",
-      "summary_zh": "迈克尔·沃恩表示，在布莱登·卡斯成为最新一位卷入饮酒争议的英格兰板球运动员之后，可能需要“让整个球队感到不寒而栗”的惩罚。"
+      "title_zh": "在特朗普的移民镇压下，现役陆军中士的妻子被驱逐到洪都拉斯"
     }
   ]
 }

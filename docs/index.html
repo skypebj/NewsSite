@@ -50,7 +50,7 @@
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
     <div class="container">
         <h1>📸 新闻监控面板</h1>
-        <div class="info">最后更新: 2026-08-25 01:04:38</div>
+        <div class="info">最后更新: 2026-08-25 02:58:40</div>
 
         <!-- 健康状态 -->
         <div class="section">
@@ -121,6 +121,26 @@
             </div>
             <div id="gallery" class="gallery">
     
+                <div class="card" data-date="20260825" data-time="025544" data-site="cnn">
+                    <img src="./screenshots/cnn_20260825_025544.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>CNN</strong> - 2026-08-25 02:55:44</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="025544" data-site="reuters">
+                    <img src="./screenshots/reuters_20260825_025544.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-08-25 02:55:44</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="025544" data-site="bbc">
+                    <img src="./screenshots/bbc_20260825_025544.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>BBC</strong> - 2026-08-25 02:55:44</div>
+                </div>
+            
+                <div class="card" data-date="20260825" data-time="025544" data-site="nbcnews">
+                    <img src="./screenshots/nbcnews_20260825_025544.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NBCNEWS</strong> - 2026-08-25 02:55:44</div>
+                </div>
+            
                 <div class="card" data-date="20260825" data-time="010155" data-site="bbc">
                     <img src="./screenshots/bbc_20260825_010155.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>BBC</strong> - 2026-08-25 01:01:55</div>
@@ -457,7 +477,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"01": 33};
+            const freqData = {"02": 11};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);
