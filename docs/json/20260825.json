@@ -1,6 +1,6 @@
 {
   "date": "20260825",
-  "total": 11,
+  "total": 8,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "fox": {
       "status": "ok",
-      "entries": 0
+      "entries": 4
     },
     "bbc": {
       "status": "ok",
@@ -33,81 +33,64 @@
   },
   "entries": [
     {
-      "title": "Abdul El-Sayed battles Jesse Watters over billionaires, Sharia law in tense interview",
+      "title": "Moment tornado leaves trail of devastation in France",
+      "link": "",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "published": "",
+      "title_zh": "龙卷风在法国留下的破坏痕迹",
+      "summary_zh": "龙卷风已造成40多人受伤，村庄的房屋被毁。"
+    },
+    {
+      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+      "link": "",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "published": "",
+      "title_zh": "伊朗表示已准备好应对美国所谓的“有史以来最大规模的金融攻势”",
+      "summary_zh": "美国称其对伊朗的最新制裁为“经济诺曼底登陆”，但德黑兰表示已制定反击计划。"
+    },
+    {
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "link": "",
+      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "published": "",
+      "title_zh": "克里姆林宫顾问表示，英国无人机工厂可能面临“来源不明”的攻击",
+      "summary_zh": "英国广播公司新闻之夜发表上述评论之前，英国宣布同意向乌克兰移交英国制造的导弹部件的蓝图。"
+    },
+    {
+      "title": "Tornado tears through French village leaving dozens injured",
+      "link": "",
+      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "published": "",
+      "title_zh": "龙卷风席卷法国村庄，造成数十人受伤",
+      "summary_zh": "西南村庄波马斯受灾最严重，数百所房屋受损，十五人被送往医院。"
+    },
+    {
+      "title": "Enes Kanter Freedom exposes Natasha Cloud's profane tirade after WNBA ejection",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿卜杜勒·赛义德在紧张的采访中就亿万富翁和伊斯兰教法与杰西·沃特斯进行了斗争"
+      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 揭露娜塔莎·克劳德 (Natasha Cloud) 在 WNBA 被驱逐后的亵渎言论"
     },
     {
-      "title": "Trump administration makes historic Syria move with billions potentially at stake",
+      "title": "49ers owner busted in $140 prostitution sting near Ohio trailer park",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普政府在叙利亚问题上做出历史性举动，可能危及数十亿美元"
+      "title_zh": "49人队老板在俄亥俄州拖车公园附近涉嫌卖淫140美元被捕"
     },
     {
-      "title": "Ex-NBA player tells Laura Ingraham why WNBA can't ban him: 'I identify as a woman'",
+      "title": "GREG GUTFELD:The DSA has become an ‘infection’ Democrats can’t kick",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前 NBA 球员告诉劳拉·英格拉汉姆为什么 WNBA 不能禁止他：“我认为自己是女性”"
+      "title_zh": "格雷格·古菲尔德：DSA 已成为民主党无法消灭的“传染病”"
     },
     {
-      "title": "Hiring H-1B workers could soon come with staggering six-figure government fee",
+      "title": "Illegal immigrant busted in alleged fentanyl ring linked to high school overdoses",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "雇用 H-1B 员工很快可能会面临高达六位数的政府费用"
-    },
-    {
-      "title": "Wild dashcam shows Houston officers jump into Uber during nighttime police chase",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "狂野的行车记录仪显示休斯敦警察在夜间警察追捕期间跳入优步"
-    },
-    {
-      "title": "More details about Jed York's arrest in a prostitution sting come to light and begs questions about the 49ers",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杰德·约克因卖淫被捕的更多细节曝光，引发了人们对 49 人队的疑问"
-    },
-    {
-      "title": "Jeff Foxworthy reflects on comedy, fatherhood and life after fame on ‘Planet Tyrus’",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杰夫·福克斯沃西在《泰勒斯星球》中反思喜剧、父亲身份和成名后的生活"
-    },
-    {
-      "title": "SEAN HANNITY:It is clear El-Sayed has ‘terrible judgment’",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "肖恩·汉尼蒂：很明显，埃尔·赛义德有“糟糕的判断力”"
-    },
-    {
-      "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "非法移民被指控与弗吉尼亚高中服药过量有关的芬太尼交易"
-    },
-    {
-      "title": "Strikes in Gaza kill 4, including 2 children, a week after US asked Israel to curb attacks",
-      "link": "https://apnews.com/article/gaza-israel-war-hamas-strikes-palestinians-39f50725df3fc132adabef2a8cbec9c5",
-      "summary": "",
-      "published": "",
-      "title_zh": "在美国要求以色列遏制袭击一周后，加沙的袭击造成 4 人死亡，其中包括 2 名儿童"
-    },
-    {
-      "title": "Wife of active-duty Army sergeant is deported to Honduras under Trump’s immigration crackdown",
-      "link": "https://apnews.com/article/immigration-military-spouse-deported-1f7b72c850410fa1e314902b0464eca5",
-      "summary": "",
-      "published": "",
-      "title_zh": "在特朗普的移民镇压下，现役陆军中士的妻子被驱逐到洪都拉斯"
+      "title_zh": "非法移民涉嫌与高中服药过量有关的芬太尼团伙被捕"
     }
   ]
 }
