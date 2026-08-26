@@ -1,6 +1,6 @@
 {
   "date": "20260826",
-  "total": 12,
+  "total": 17,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,92 +33,136 @@
   },
   "entries": [
     {
-      "title": "Trump-backed Mike Mazzei wins the GOP nomination in the Oklahoma governor’s race",
-      "link": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普支持的迈克·马泽在俄克拉荷马州州长竞选中赢得共和党提名"
-    },
-    {
-      "title": "The second Dan Sullivan makes the general election in Alaska’s Senate race",
-      "link": "https://www.nbcnews.com/politics/2026-election/second-dan-sullivan-makes-general-election-alaskas-senate-race-rcna593464",
-      "summary": "",
-      "published": "",
-      "title_zh": "第二届丹·沙利文在阿拉斯加州参议员竞选中赢得大选"
-    },
-    {
-      "title": "Why Tesla has been caught up in a massive car recall in China",
-      "link": "",
-      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
-      "published": "",
-      "title_zh": "特斯拉为何在中国陷入大规模汽车召回事件",
-      "summary_zh": "中国有史以来最大规模的汽车召回影响了特斯拉、小鹏汽车、小米等公司生产的超过 400 万辆汽车。"
-    },
-    {
-      "title": "What was behind Dolly Parton's widespread appeal?",
-      "link": "",
-      "summary": "The BBC's entertainment correspondent Colin Patterson looks at why the singer attracted such a range of fans.",
-      "published": "",
-      "title_zh": "多莉·帕顿如此广泛的吸引力背后的原因是什么？",
-      "summary_zh": "英国广播公司 (BBC) 娱乐记者科林·帕特森 (Colin Patterson) 探讨了这位歌手为何能吸引如此多的粉丝。"
-    },
-    {
-      "title": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
-      "link": "",
-      "summary": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom.",
-      "published": "",
-      "title_zh": "“我们用面粉做粉末”——多莉在 1979 年 BBC 采访中回顾早年生活",
-      "summary_zh": "这位歌手坦率地讲述了她在田纳西州乡村的童年、家庭的贫困以及帮助她成为国际明星的决心。"
-    },
-    {
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "link": "",
-      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "published": "",
-      "title_zh": "宾夕法尼亚州两名未接种疫苗的人死于麻疹",
-      "summary_zh": "随着疫苗接种率下降，美国的病例已达到病毒被消灭以来的最高点。"
-    },
-    {
-      "title": "Susan Smith prosecutor sees a 'strange twist' in Lindsay Clancy’s female-heavy jury",
+      "title": "Susan Smith prosecutor spots a strange jury twist in Lindsay Clancy murder trial",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "苏珊史密斯检察官在林赛克兰西的女性陪审团中看到了“奇怪的转折”"
+      "title_zh": "苏珊·史密斯检察官在林赛·克兰西谋杀案审判中发现了一个奇怪的陪审团扭曲"
     },
     {
-      "title": "Suspect wanted in fatal Brooklyn shooting, deadly Bronx deli robbery: NYPD",
+      "title": "Deloitte to pay $21.5M to settle Trump admin probe into DEI practices",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约警察局通缉布鲁克林致命枪击案和布朗克斯熟食店致命抢劫案嫌疑人"
+      "title_zh": "德勤将支付 2150 万美元以和解特朗普政府对 DEI 行为的调查"
     },
     {
-      "title": "Tyrus sits down with attorney Reagan Charleston for warning every parent should hear",
+      "title": "Trump admin pauses visa interviews at embassies worldwide, leaving applicants in limbo",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒斯与律师里根·查尔斯顿坐下来，警告每个家长都应该听到"
+      "title_zh": "特朗普政府暂停世界各地大使馆的签证面试，使申请人陷入困境"
     },
     {
-      "title": "Mamdani faces legal reckoning as business owners revolt over socialist agenda",
+      "title": "Dolly Parton was the one thing most Americans could agree on",
       "link": "",
-      "summary": "",
+      "summary": "The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.",
       "published": "",
-      "title_zh": "由于企业主反抗社会主义议程，马姆达尼面临法律清算"
+      "title_zh": "多莉帕顿是大多数美国人都同意的一件事",
+      "summary_zh": "这位文化偶像是为数不多的受到各个年龄段、种族和政治信仰的美国人喜爱的名人之一。"
     },
     {
-      "title": "Judge leaves custody order intact as critically ill newborn's condition worsens",
+      "title": "Heavy casualties feared as flash flood sweeps across parts of northern Nepal",
       "link": "",
-      "summary": "",
+      "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
       "published": "",
-      "title_zh": "随着危重新生儿病情恶化，法官维持监护令不变"
+      "title_zh": "山洪席卷尼泊尔北部部分地区 恐造成重大人员伤亡",
+      "summary_zh": "加德满都以北与西藏接壤的拉苏瓦地区的洪水恐怕已经冲毁了村庄。"
     },
     {
-      "title": "Hochul tells sheriffs 'bring it on' as they sue over new ICE restrictions",
+      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
       "link": "",
+      "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "published": "",
+      "title_zh": "当乌克兰袭击俄罗斯炼油厂时，俄罗斯瞄准了乌克兰的汽油泵",
+      "summary_zh": "在发生一波致命袭击后，燃料公司敦促客户不要在加油站逗留。"
+    },
+    {
+      "title": "At least 14 newborn babies killed after fire breaks out in Pakistan hospital",
+      "link": "",
+      "summary": "The fire broke out in an air-conditioning unit in the ward and was ignited by oxygen connections, a spokesperson said.",
+      "published": "",
+      "title_zh": "At least 14 newborn babies killed after fire breaks out in Pakistan hospital",
+      "summary_zh": "一位发言人表示，火灾发生在病房的空调机组中，是由氧气连接引起的。"
+    },
+    {
+      "title": "Canada's retaliation tests the limit of American power under Trump",
+      "link": "",
+      "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
+      "published": "",
+      "title_zh": "加拿大的报复考验了特朗普领导下的美国实力极限",
+      "summary_zh": "总统正在利用美国的主导地位来挑战盟友和敌人，但加拿大和伊朗都找到了反击的方法。"
+    },
+    {
+      "title": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+      "link": "",
+      "summary": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
+      "published": "",
+      "title_zh": "观看纳什维尔球迷献花向多莉·帕顿致敬",
+      "summary_zh": "BBC 的海伦娜·汉弗莱 (Helena Humphrey) 在乡村音乐名人堂外，歌迷聚集在那里哀悼多莉·帕顿 (Dolly Parton)。"
+    },
+    {
+      "title": "How Parton told life story through six iconic songs",
+      "link": "",
+      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
+      "published": "",
+      "title_zh": "帕顿如何通过六首标志性歌曲讲述人生故事",
+      "summary_zh": "作为一位传奇歌手兼作曲家，她的音乐涵盖了爱情、失落、女性赋权和灵性等主题。"
+    },
+    {
+      "title": "What was behind Parton's widespread appeal?",
+      "link": "",
+      "summary": "The BBC's entertainment correspondent Colin Paterson looks at why the singer attracted such a range of fans.",
+      "published": "",
+      "title_zh": "帕顿如此广泛的吸引力背后的原因是什么？",
+      "summary_zh": "英国广播公司 (BBC) 娱乐记者科林·帕特森 (Colin Paterson) 探讨了这位歌手为何能吸引如此众多的歌迷。"
+    },
+    {
+      "title": "Watch: The life of an iconic country singer",
+      "link": "",
+      "summary": "Parton won 10 Grammy awards, sold more than 100 million records worldwide, and wrote in excess of 3,000 songs.",
+      "published": "",
+      "title_zh": "观看：一位标志性乡村歌手的一生",
+      "summary_zh": "帕顿赢得了 10 项格莱美奖，在全球售出超过 1 亿张唱片，创作了超过 3,000 首歌曲。"
+    },
+    {
+      "title": "A music legend whose songs touched millions",
+      "link": "",
+      "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+      "published": "",
+      "title_zh": "一位音乐传奇人物，他的歌曲感动了数百万人",
+      "summary_zh": "这位歌手、词曲作者兼演员以《Jolene》和《I Will Always Love You》等经典歌曲而闻名。"
+    },
+    {
+      "title": "Parton in pictures",
+      "link": "",
+      "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
+      "published": "",
+      "title_zh": "帕顿的照片",
+      "summary_zh": "这位歌手出身卑微，后来成为世界上最受欢迎的艺人之一。"
+    },
+    {
+      "title": "Nicotine vapes best chance to quit smoking, major review finds",
+      "link": "",
+      "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
+      "published": "",
+      "title_zh": "主要审查发现尼古丁电子烟是戒烟的最佳机会",
+      "summary_zh": "最新证据表明，它们比贴剂、口香糖或药丸效果更好。"
+    },
+    {
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "link": "",
+      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "published": "",
+      "title_zh": "欧洲人权法院命令土耳其释放被监禁的商人",
+      "summary_zh": "慈善家和活动家奥斯曼·卡瓦拉因被人权组织认为具有政治动机的指控而入狱近十年。"
+    },
+    {
+      "title": "‘There will never be another Dolly’: Tributes to Parton pour in across generations",
+      "link": "https://www.nbcnews.com/news/us-news/tributes-dolly-parton-pour-fellow-stars-ordinary-people-rcna594366",
       "summary": "",
       "published": "",
-      "title_zh": "Hochul 告诉治安官们“采取行动”，因为他们对 ICE 的新限制提起诉讼"
+      "title_zh": "“永远不会再有另一个多莉”：几代人都向帕顿致敬"
     }
   ]
 }
