@@ -1,6 +1,6 @@
 {
   "date": "20260826",
-  "total": 32,
+  "total": 12,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,236 +33,92 @@
   },
   "entries": [
     {
-      "title": "Dolly Parton's cause of death revealed as details emerge about her final days",
+      "title": "Trump-backed Mike Mazzei wins the GOP nomination in the Oklahoma governor’s race",
+      "link": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普支持的迈克·马泽在俄克拉荷马州州长竞选中赢得共和党提名"
+    },
+    {
+      "title": "The second Dan Sullivan makes the general election in Alaska’s Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/second-dan-sullivan-makes-general-election-alaskas-senate-race-rcna593464",
+      "summary": "",
+      "published": "",
+      "title_zh": "第二届丹·沙利文在阿拉斯加州参议员竞选中赢得大选"
+    },
+    {
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "link": "",
+      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
+      "published": "",
+      "title_zh": "特斯拉为何在中国陷入大规模汽车召回事件",
+      "summary_zh": "中国有史以来最大规模的汽车召回影响了特斯拉、小鹏汽车、小米等公司生产的超过 400 万辆汽车。"
+    },
+    {
+      "title": "What was behind Dolly Parton's widespread appeal?",
+      "link": "",
+      "summary": "The BBC's entertainment correspondent Colin Patterson looks at why the singer attracted such a range of fans.",
+      "published": "",
+      "title_zh": "多莉·帕顿如此广泛的吸引力背后的原因是什么？",
+      "summary_zh": "英国广播公司 (BBC) 娱乐记者科林·帕特森 (Colin Patterson) 探讨了这位歌手为何能吸引如此多的粉丝。"
+    },
+    {
+      "title": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
+      "link": "",
+      "summary": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom.",
+      "published": "",
+      "title_zh": "“我们用面粉做粉末”——多莉在 1979 年 BBC 采访中回顾早年生活",
+      "summary_zh": "这位歌手坦率地讲述了她在田纳西州乡村的童年、家庭的贫困以及帮助她成为国际明星的决心。"
+    },
+    {
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "link": "",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "published": "",
+      "title_zh": "宾夕法尼亚州两名未接种疫苗的人死于麻疹",
+      "summary_zh": "随着疫苗接种率下降，美国的病例已达到病毒被消灭以来的最高点。"
+    },
+    {
+      "title": "Susan Smith prosecutor sees a 'strange twist' in Lindsay Clancy’s female-heavy jury",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "多莉·帕顿的死因随着她最后几天的细节浮​​出水面"
+      "title_zh": "苏珊史密斯检察官在林赛克兰西的女性陪审团中看到了“奇怪的转折”"
     },
     {
-      "title": "Darline Graham's '20 days versus 20 years' dig seals her stunning upset over Norman",
+      "title": "Suspect wanted in fatal Brooklyn shooting, deadly Bronx deli robbery: NYPD",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "达琳·格雷厄姆（Darline Graham）的“20天与20年”的挖苦让她对诺曼感到震惊"
+      "title_zh": "纽约警察局通缉布鲁克林致命枪击案和布朗克斯熟食店致命抢劫案嫌疑人"
     },
     {
-      "title": "Trump impeachment crusader scores upset in ruby-red Oklahoma Senate race",
+      "title": "Tyrus sits down with attorney Reagan Charleston for warning every parent should hear",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普弹劾斗士在红宝石色的俄克拉荷马州参议院竞选中失利"
+      "title_zh": "泰勒斯与律师里根·查尔斯顿坐下来，警告每个家长都应该听到"
     },
     {
-      "title": "US Olympic legend leading new charge against WNBA amid Sophie Cunningham movement",
+      "title": "Mamdani faces legal reckoning as business owners revolt over socialist agenda",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国奥运传奇人物在索菲·坎宁安运动中领导对 WNBA 的新指控"
+      "title_zh": "由于企业主反抗社会主义议程，马姆达尼面临法律清算"
     },
     {
-      "title": "Secret Service probing chilling footage that surfaces with reward for president's son",
+      "title": "Judge leaves custody order intact as critically ill newborn's condition worsens",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特勤局正在调查令人毛骨悚然的镜头，这些镜头为总统的儿子提供悬赏"
+      "title_zh": "随着危重新生儿病情恶化，法官维持监护令不变"
     },
     {
-      "title": "California high school may have crossed a First Amendment line in new lawsuit",
+      "title": "Hochul tells sheriffs 'bring it on' as they sue over new ICE restrictions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州高中在新诉讼中可能跨越了第一修正案的界限"
-    },
-    {
-      "title": "US military plane seen making a landing at airport in Moscow, Russia",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美军飞机降落在俄罗斯莫斯科机场"
-    },
-    {
-      "title": "Globetrotting sailor faces 30 years, multiple victims cited across separate cases",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "周游世界的水手面临 30 年监禁，不同案件中引用了多名受害者"
-    },
-    {
-      "title": "Trump administration makes key shift on Iran strikes amid tense standoff",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普政府在紧张对峙中对伊朗袭击做出关键转变"
-    },
-    {
-      "title": "Deadly plot against Washington's governor spilled out during psychiatric hospital stay",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "针对华盛顿州长的致命阴谋在精神病院住院期间泄露"
-    },
-    {
-      "title": "Enes Kanter Freedom learns fate after clash with Chicago Sky player during game",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃内斯·坎特·自由在比赛中与芝加哥天空队球员发生冲突后得知命运"
-    },
-    {
-      "title": "Peyton Manning shares heartbreaking post after Dolly Parton's death: 'We'll miss you'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "佩顿·曼宁在多莉·帕顿去世后分享了令人心碎的帖子：“我们会想念你的”"
-    },
-    {
-      "title": "LAURA INGRAHAM:Under the white coat is the same old left-wing agenda",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "劳拉·英格拉汉姆：白大褂下是同样旧的左翼议程"
-    },
-    {
-      "title": "Americans may be giving retirement plans something more valuable than cash",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Americans may be giving retirement plans something more valuable than cash"
-    },
-    {
-      "title": "Aryna Sabalenka faces 'streetwalker' insult from fashion critics over US Open fishnets",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "阿丽娜·萨巴伦卡 (Aryna Sabalenka) 因美国网球公开赛渔网泳衣而面临时尚评论家的“街头漫步者”侮辱"
-    },
-    {
-      "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
-      "link": "",
-      "summary": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
-      "published": "",
-      "title_zh": "中国青少年开始服用麻醉药物来“逃避现实”",
-      "summary_zh": "一名青少年告诉英国广播公司，学生们正在寻求处方药，因为他们害怕失败。"
-    },
-    {
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "link": "",
-      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "published": "",
-      "title_zh": "马斯克的 SpaceX 将在路易斯安那州建造 1000 亿美元的发射设施",
-      "summary_zh": "这将是该公司迄今为止最大的基地，目标是在 2029 年将火箭送入太空。"
-    },
-    {
-      "title": "Life of the music legend whose songs touched millions",
-      "link": "",
-      "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
-      "published": "",
-      "title_zh": "音乐传奇人物的一生，他的歌曲感动了数百万人",
-      "summary_zh": "这位歌手、词曲作者兼演员以《Jolene》和《I Will Always Love You》等经典歌曲而闻名。"
-    },
-    {
-      "title": "How Dolly Parton told her story through six iconic songs",
-      "link": "",
-      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
-      "published": "",
-      "title_zh": "多莉·帕顿如何通过六首标志性歌曲讲述她的故事",
-      "summary_zh": "作为一位传奇歌手兼作曲家，她的音乐涵盖了爱情、失落、女性赋权和灵性等主题。"
-    },
-    {
-      "title": "Elton John, Oprah Winfrey and Paul McCartney lead tributes to Dolly Parton",
-      "link": "",
-      "summary": "The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon.",
-      "published": "",
-      "title_zh": "艾尔顿·约翰、奥普拉·温弗瑞和保罗·麦卡特尼领衔悼念多莉·帕顿",
-      "summary_zh": "悼念活动包括各个音乐流派的艺术家、各个年龄段的歌迷以及各个阶层的政治家，他们都表达了对这位乡村偶像的热爱。"
-    },
-    {
-      "title": "One of the world's best-loved stars",
-      "link": "",
-      "summary": "What made the country singer so appealing to so many?",
-      "published": "",
-      "title_zh": "世界上最受喜爱的明星之一",
-      "summary_zh": "是什么让这位乡村歌手如此吸引这么多人？"
-    },
-    {
-      "title": "Why Pride is facing a backlash in the UK",
-      "link": "",
-      "summary": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
-      "published": "",
-      "title_zh": "为什么骄傲在英国面临强烈反对",
-      "summary_zh": "大公司过去常常不遗余力地支持骄傲节。达伦·米尔比写道，现在空气中弥漫着紧张的气氛"
-    },
-    {
-      "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-      "link": "",
-      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
-      "published": "",
-      "title_zh": "特朗普可能希望“经济冲击”能够向伊朗施压——伊朗领导人却打赌并非如此",
-      "summary_zh": "美国称新的制裁是“经济诺曼底登陆”，但德黑兰领导人此前曾经历过限制。"
-    },
-    {
-      "title": "In a divided nation, Dolly Parton was universally beloved",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-parton-universal-appeal-beloved-by-americans-rcna594389",
-      "summary": "",
-      "published": "",
-      "title_zh": "在一个分裂的国家，多莉·帕顿受到普遍爱戴"
-    },
-    {
-      "title": "Dolly Parton’s life in photos: From ‘9 to 5’ secretary to ‘Hannah Montana’ godmother",
-      "link": "https://www.nbcnews.com/news/photo/dolly-parton-photos-young-through-the-years-rcna594375",
-      "summary": "",
-      "published": "",
-      "title_zh": "照片中的多莉·帕顿 (Dolly Parton) 的生活：从《朝九晚五》的秘书到《汉娜·蒙塔娜》的教母"
-    },
-    {
-      "title": "Fans gather at Dolly Parton's statue in her hometown",
-      "link": "https://www.nbcnews.com/video/fans-gather-at-dolly-parton-s-statue-in-her-hometown-268863045539",
-      "summary": "",
-      "published": "",
-      "title_zh": "粉丝们聚集在多莉·帕顿家乡的雕像前"
-    },
-    {
-      "title": "Fans and fellow artists post tributes to Dolly Parton",
-      "link": "https://www.nbcnews.com/now/video/fans-and-fellow-artists-post-tributes-to-dolly-parton-268848709982",
-      "summary": "",
-      "published": "",
-      "title_zh": "粉丝和艺术家同行向多莉·帕顿致敬"
-    },
-    {
-      "title": "Sen. Darline Graham wins the Republican Senate primary runoff in South Carolina",
-      "link": "https://www.nbcnews.com/politics/2026-election/darline-graham-winner-south-carolina-gop-senate-primary-rcna593581",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员达林·格雷厄姆赢得南卡罗来纳州共和党参议院初选决选"
-    },
-    {
-      "title": "Trump’s trade war with Canada imperils 2026 Republicans running in border states",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-trade-war-canada-threatens-2026-republicans-border-states-rcna594137",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普与加拿大的贸易战危及2026年边境州共和党竞选"
-    },
-    {
-      "title": "Democrat Everton Blair defeats Rep. David Scott’s daughter for the late congressman’s seat",
-      "link": "https://www.nbcnews.com/politics/2026-election/everton-blair-wins-georgia-house-democrat-special-election-rcna593580",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党人埃弗顿·布莱尔击败众议员大卫·斯科特的女儿，争夺已故国会议员席位"
-    },
-    {
-      "title": "Democratic socialists notch another win in the Oklahoma Senate primary runoff",
-      "link": "https://www.nbcnews.com/politics/2026-election/nkiyla-jasmine-thomas-wins-oklahoma-senate-primary-democrat-rcna593618",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主社会主义者在俄克拉荷马州参议院初选决选中再次获胜"
-    },
-    {
-      "title": "Army secretary has talked about resigning by Labor Day, sources say",
-      "link": "https://www.nbcnews.com/politics/national-security/army-secretary-talked-resigning-labor-day-sources-say-rcna594431",
-      "summary": "",
-      "published": "",
-      "title_zh": "消息人士称，陆军部长已谈到在劳动节前辞职"
+      "title_zh": "Hochul 告诉治安官们“采取行动”，因为他们对 ICE 的新限制提起诉讼"
     }
   ]
 }
