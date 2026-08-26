@@ -1,6 +1,6 @@
 {
   "date": "20260826",
-  "total": 17,
+  "total": 36,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,136 +33,268 @@
   },
   "entries": [
     {
-      "title": "Susan Smith prosecutor spots a strange jury twist in Lindsay Clancy murder trial",
+      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
       "link": "",
-      "summary": "",
+      "summary": "This video has been edited by the BBC with white flashes, due to the distressing content.",
       "published": "",
-      "title_zh": "苏珊·史密斯检察官在林赛·克兰西谋杀案审判中发现了一个奇怪的陪审团扭曲"
+      "title_zh": "视频显示尼泊尔和西藏边境遭遇山洪规模",
+      "summary_zh": "由于内容令人痛苦，该视频已被 BBC 剪辑为白色闪光。"
     },
     {
-      "title": "Deloitte to pay $21.5M to settle Trump admin probe into DEI practices",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
       "link": "",
-      "summary": "",
+      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
       "published": "",
-      "title_zh": "德勤将支付 2150 万美元以和解特朗普政府对 DEI 行为的调查"
+      "title_zh": "目击者称巴基斯坦医院门被锁，火灾导致14名婴儿死亡",
+      "summary_zh": "一名医院官员告诉BBC，病房的门没有锁，但配备了保安，以保护婴儿。"
     },
     {
-      "title": "Trump admin pauses visa interviews at embassies worldwide, leaving applicants in limbo",
+      "title": "Prince Harry and Meghan land in UK days after announcing move",
       "link": "",
-      "summary": "",
+      "summary": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
       "published": "",
-      "title_zh": "特朗普政府暂停世界各地大使馆的签证面试，使申请人陷入困境"
+      "title_zh": "哈里王子和梅根在宣布搬家几天后抵达英国",
+      "summary_zh": "据信哈里王子、梅根和他们的两个孩子是从加利福尼亚州私下飞往该国的。"
     },
     {
-      "title": "Dolly Parton was the one thing most Americans could agree on",
+      "title": "'Glam, funny, kind': World remembers Dolly Parton as star dies from cancer aged 80",
       "link": "",
-      "summary": "The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.",
+      "summary": "The legendary country music singer died surrounded by loved ones, her representatives said.",
       "published": "",
-      "title_zh": "多莉帕顿是大多数美国人都同意的一件事",
-      "summary_zh": "这位文化偶像是为数不多的受到各个年龄段、种族和政治信仰的美国人喜爱的名人之一。"
+      "title_zh": "“迷人、有趣、善良”：世界缅怀明星多莉·帕顿 (Dolly Parton) 因癌症去世，享年 80 岁",
+      "summary_zh": "她的代表说，这位传奇乡村音乐歌手在亲人的陪伴下去世。"
     },
     {
-      "title": "Heavy casualties feared as flash flood sweeps across parts of northern Nepal",
+      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
       "link": "",
-      "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
+      "summary": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
       "published": "",
-      "title_zh": "山洪席卷尼泊尔北部部分地区 恐造成重大人员伤亡",
-      "summary_zh": "加德满都以北与西藏接壤的拉苏瓦地区的洪水恐怕已经冲毁了村庄。"
+      "title_zh": "印度珠宝广告因演员着装遭到强烈反对而被撤下",
+      "summary_zh": "克丽蒂·萨农 (Kriti Sanon) 为广告进行了辩护，广告中她庆祝即将到来的印度教拉基节 (Rakhi)。"
     },
     {
-      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "title": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
       "link": "",
-      "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "summary": "The late singer-songwriter's charity causes were as eclectic as her music, but she had a personal connection to each one.",
       "published": "",
-      "title_zh": "当乌克兰袭击俄罗斯炼油厂时，俄罗斯瞄准了乌克兰的汽油泵",
-      "summary_zh": "在发生一波致命袭击后，燃料公司敦促客户不要在加油站逗留。"
+      "title_zh": "多莉·帕顿如何帮助世界——从儿童读物到支持新冠疫苗",
+      "summary_zh": "这位已故创作型歌手的慈善事业和她的音乐一样不拘一格，但她与每一项慈善事业都有着个人联系。"
     },
     {
-      "title": "At least 14 newborn babies killed after fire breaks out in Pakistan hospital",
-      "link": "",
-      "summary": "The fire broke out in an air-conditioning unit in the ward and was ignited by oxygen connections, a spokesperson said.",
-      "published": "",
-      "title_zh": "At least 14 newborn babies killed after fire breaks out in Pakistan hospital",
-      "summary_zh": "一位发言人表示，火灾发生在病房的空调机组中，是由氧气连接引起的。"
-    },
-    {
-      "title": "Canada's retaliation tests the limit of American power under Trump",
-      "link": "",
-      "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-      "published": "",
-      "title_zh": "加拿大的报复考验了特朗普领导下的美国实力极限",
-      "summary_zh": "总统正在利用美国的主导地位来挑战盟友和敌人，但加拿大和伊朗都找到了反击的方法。"
-    },
-    {
-      "title": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+      "title": "Watch Nashville fans lay flowers in tribute to Parton",
       "link": "",
       "summary": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
       "published": "",
-      "title_zh": "观看纳什维尔球迷献花向多莉·帕顿致敬",
+      "title_zh": "观看纳什维尔球迷向帕顿致敬",
       "summary_zh": "BBC 的海伦娜·汉弗莱 (Helena Humphrey) 在乡村音乐名人堂外，歌迷聚集在那里哀悼多莉·帕顿 (Dolly Parton)。"
     },
     {
-      "title": "How Parton told life story through six iconic songs",
+      "title": "'If you want the rainbow, you gotta put up with the rain': Parton's wit and wisdom",
       "link": "",
-      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
+      "summary": "The much-loved country singer-songwriter in her own words, following her death aged 80.",
       "published": "",
-      "title_zh": "帕顿如何通过六首标志性歌曲讲述人生故事",
-      "summary_zh": "作为一位传奇歌手兼作曲家，她的音乐涵盖了爱情、失落、女性赋权和灵性等主题。"
+      "title_zh": "“如果你想要彩虹，你就必须忍受风雨”：帕顿的机智和智慧",
+      "summary_zh": "用她自己的话说，这位深受喜爱的乡村歌手兼作曲家在 80 岁去世后。"
     },
     {
-      "title": "What was behind Parton's widespread appeal?",
+      "title": "How Tesla has been caught up in a massive car recall in China",
       "link": "",
-      "summary": "The BBC's entertainment correspondent Colin Paterson looks at why the singer attracted such a range of fans.",
+      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
       "published": "",
-      "title_zh": "帕顿如此广泛的吸引力背后的原因是什么？",
-      "summary_zh": "英国广播公司 (BBC) 娱乐记者科林·帕特森 (Colin Paterson) 探讨了这位歌手为何能吸引如此众多的歌迷。"
+      "title_zh": "特斯拉如何卷入中国大规模汽车召回事件",
+      "summary_zh": "中国有史以来最大规模的汽车召回影响了特斯拉、小鹏汽车、小米等公司生产的超过 400 万辆汽车。"
     },
     {
-      "title": "Watch: The life of an iconic country singer",
+      "title": "Raheem Sterling charged with dangerous driving after Lamborghini crash",
       "link": "",
-      "summary": "Parton won 10 Grammy awards, sold more than 100 million records worldwide, and wrote in excess of 3,000 songs.",
+      "summary": "The former England footballer will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
       "published": "",
-      "title_zh": "观看：一位标志性乡村歌手的一生",
-      "summary_zh": "帕顿赢得了 10 项格莱美奖，在全球售出超过 1 亿张唱片，创作了超过 3,000 首歌曲。"
+      "title_zh": "兰博基尼撞车事故后，拉希姆·斯特林被指控危险驾驶",
+      "summary_zh": "这位前英格兰足球运动员将于下个月出庭，在五月份将汽车撞上高速公路护栏后面临危险驾驶指控。"
     },
     {
-      "title": "A music legend whose songs touched millions",
+      "title": "Ex-head of Rwanda's presidential guard dies in jail 12 years after his arrest",
       "link": "",
-      "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+      "summary": "His brother tells the BBC his family have not been allowed to see him \"in all these years\".",
       "published": "",
-      "title_zh": "一位音乐传奇人物，他的歌曲感动了数百万人",
-      "summary_zh": "这位歌手、词曲作者兼演员以《Jolene》和《I Will Always Love You》等经典歌曲而闻名。"
+      "title_zh": "卢旺达总统卫队前队长被捕12年后在狱中去世",
+      "summary_zh": "他的兄弟告诉英国广播公司，“这些年来”他的家人一直不被允许见到他。"
     },
     {
-      "title": "Parton in pictures",
+      "title": "Ex-chief constable of West Midlands Police investigated over Israeli fan ban",
       "link": "",
-      "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
+      "summary": "Craig Guildford, three police officers and a staff member face IOPC investigation, over the banning of Israeli Maccabi Tel Aviv fans from a match against Aston Villa.",
       "published": "",
-      "title_zh": "帕顿的照片",
-      "summary_zh": "这位歌手出身卑微，后来成为世界上最受欢迎的艺人之一。"
+      "title_zh": "西米德兰兹郡警察局前警长因以色列球迷禁令而接受调查",
+      "summary_zh": "克雷格·吉尔福德、三名警察和一名工作人员因禁止以色列特拉维夫马卡比球迷观看对阵阿斯顿维拉的比赛而面临 IOPC 调查。"
     },
     {
-      "title": "Nicotine vapes best chance to quit smoking, major review finds",
-      "link": "",
-      "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
-      "published": "",
-      "title_zh": "主要审查发现尼古丁电子烟是戒烟的最佳机会",
-      "summary_zh": "最新证据表明，它们比贴剂、口香糖或药丸效果更好。"
-    },
-    {
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "link": "",
-      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "published": "",
-      "title_zh": "欧洲人权法院命令土耳其释放被监禁的商人",
-      "summary_zh": "慈善家和活动家奥斯曼·卡瓦拉因被人权组织认为具有政治动机的指控而入狱近十年。"
-    },
-    {
-      "title": "‘There will never be another Dolly’: Tributes to Parton pour in across generations",
-      "link": "https://www.nbcnews.com/news/us-news/tributes-dolly-parton-pour-fellow-stars-ordinary-people-rcna594366",
+      "title": "Everything to know about your favorite team this NFL season",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-kickoff-season-preview-2026-all-teams-rcna594317",
       "summary": "",
       "published": "",
-      "title_zh": "“永远不会再有另一个多莉”：几代人都向帕顿致敬"
+      "title_zh": "关于本 NFL 赛季您最喜欢的球队的所有信息"
+    },
+    {
+      "title": "Three Americans among hundreds of missing tourists in Nepal flash floods",
+      "link": "https://www.nbcnews.com/world/asia/flash-flood-nepal-tibet-villages-destroyed-american-tourists-missing-rcna594473",
+      "summary": "",
+      "published": "",
+      "title_zh": "尼泊尔山洪爆发数百名失踪游客中包括三名美国人"
+    },
+    {
+      "title": "The funeral industry is killing Americans’ bank accounts",
+      "link": "https://www.nbcnews.com/business/personal-finance/even-death-unaffordable-america-now-rcna591164",
+      "summary": "",
+      "published": "",
+      "title_zh": "殡葬业正在扼杀美国人的银行账户"
+    },
+    {
+      "title": "Testimony is expected to end today in Lindsay Clancy trial",
+      "link": "https://www.nbcnews.com/news/testimony-expected-end-today-lindsay-clancy-trial-rcna594475",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西审判的证词预计将于今天结束"
+    },
+    {
+      "title": "The universe, unlocked: NASA to launch a space telescope that could transform our view of the cosmos",
+      "link": "https://www.nbcnews.com/science/space/nasa-space-telescope-nancy-grace-roman-launch-rcna592938",
+      "summary": "",
+      "published": "",
+      "title_zh": "宇宙已解锁：美国宇航局将发射一架太空望远镜，它将改变我们对宇宙的看法"
+    },
+    {
+      "title": "Mother says unarmed 22-year-old killed by police went to the wrong house by mistake",
+      "link": "https://www.nbcnews.com/news/us-news/glenwood-earl-pysher-iv-identified-22-year-old-killed-montgomery-count-rcna594478",
+      "summary": "",
+      "published": "",
+      "title_zh": "母亲称手无寸铁的22岁女孩被警察打死，误入错误的房子"
+    },
+    {
+      "title": "Dolly Parton’s rise from poverty to country music icon as new details emerge about cause of death",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着有关死因的新细节浮出水面，多莉·帕顿从贫困变成乡村音乐偶像"
+    },
+    {
+      "title": "Darline Graham's '20 days versus 20 years' dig seals her upset over Norman",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "达琳·格雷厄姆 (Darline Graham) 的“20 天与 20 年”的挖苦让她对诺曼感到不满"
+    },
+    {
+      "title": "College baseball player fatally shot after mom says he made one wrong turn",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大学棒球运动员在妈妈说他转错了一个弯后被枪杀"
+    },
+    {
+      "title": "Grandma vows 'I'm not gonna stop' after officials threaten legal action over burritos",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在官员威胁对墨西哥卷饼采取法律行动后，奶奶发誓“我不会停止”"
+    },
+    {
+      "title": "Firms 'from all over the country' are looking to move after viral Mamdani billboard, CEO says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "首席执行官表示，在 Mamdani 广告牌走红后，“来自全国各地”的公司都在寻求搬迁"
+    },
+    {
+      "title": "Four teens in stolen G-Wagon lead cops on hourslong chase that ends in horror: police",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "四名青少年驾驶被盗的 G-Wagon 带领警察进行长达数小时的追捕，最终以恐怖告终：警方"
+    },
+    {
+      "title": "WNBA coach weighs in on league's mounting transgender eligibility controversy",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "WNBA 教练对联盟日益严重的跨性别资格争议发表看法"
+    },
+    {
+      "title": "Bessent's 'Economic D-Day' raises one important question nobody is answering",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "贝森特的“经济诺曼底登陆”提出了一个无人回答的重要问题"
+    },
+    {
+      "title": "Prosecutor in infamous killer mom case spots strange jury twist in Lindsay Clancy trial",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "臭名昭著的杀手妈妈案检察官在林赛·克兰西审判中发现陪审团的奇怪扭曲"
+    },
+    {
+      "title": "Teen in Carnival Cruise slaying case cites ‘unfortunate’ family dynamic before trial",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "嘉年华游轮杀人案中的青少年在审判前引用了“不幸的”家庭动态"
+    },
+    {
+      "title": "Photo of Caitlin Clark's scratched body after another WNBA beating raises eyebrows",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 在 WNBA 再次遭到殴打后身体被划伤的照片引起了人们的注意"
+    },
+    {
+      "title": "Suspect who killed 8 family members at Sunday dinner was asked to move out: relative",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "周日晚餐时杀害8名家庭成员的嫌疑人被要求搬出：亲属"
+    },
+    {
+      "title": "Three Secret Service officials on administrative leave amid misconduct probe",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "三名特勤局官员因不当行为调查而休行政假"
+    },
+    {
+      "title": "SEAN HANNITY:Political rot takes over the Democratic Party",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "肖恩·汉尼蒂：政治腐败接管了民主党"
+    },
+    {
+      "title": "3 American tourists missing, many feared dead after catastrophic flood in Nepal",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "尼泊尔特大洪水导致三名美国游客失踪，多人恐已死亡"
+    },
+    {
+      "title": "DA taunts mask-wearing suspect nabbed in Las Vegas: 'Who's running now?'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "地方检察官嘲笑在拉斯维加斯被捕的戴面具嫌疑人：“现在谁在逃跑？”"
+    },
+    {
+      "title": "Are AI cameras watching you drive? Lawmakers on both sides sound alarm",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "AI 摄像头会监视你开车吗？双方议员敲响警钟"
+    },
+    {
+      "title": "Dem Senate nominee claims billionaires gut public schools to profit off prison labor",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Dem Senate nominee claims billionaires gut public schools to profit off prison labor"
     }
   ]
 }
