@@ -1,6 +1,6 @@
 {
   "date": "20260826",
-  "total": 36,
+  "total": 27,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,268 +33,201 @@
   },
   "entries": [
     {
-      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+      "title": "Meta agrees to pay up to $18bn to settle claims its platforms harm children",
       "link": "",
-      "summary": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+      "summary": "The Facebook and Instagram owner, which denies wrongdoing, says the agreement builds on its \"longstanding efforts to empower parents and support teens\".",
       "published": "",
-      "title_zh": "视频显示尼泊尔和西藏边境遭遇山洪规模",
-      "summary_zh": "由于内容令人痛苦，该视频已被 BBC 剪辑为白色闪光。"
+      "title_zh": "Meta 同意支付高达 180 亿美元以和解其平台伤害儿童的指控",
+      "summary_zh": "Facebook 和 Instagram 的所有者否认有不当行为，并表示该协议建立在其“为父母赋权和支持青少年的长期努力”之上。"
     },
     {
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "title": "Rocky Horror star Tim Curry dies at 80",
       "link": "",
-      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "summary": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
       "published": "",
-      "title_zh": "目击者称巴基斯坦医院门被锁，火灾导致14名婴儿死亡",
-      "summary_zh": "一名医院官员告诉BBC，病房的门没有锁，但配备了保安，以保护婴儿。"
+      "title_zh": "《洛基恐怖》主演蒂姆·库里去世，享年 80 岁",
+      "summary_zh": "库里因在邪教电影《洛基恐怖秀》中扮演古怪的弗兰克-N-富特而闻名。"
     },
     {
-      "title": "Prince Harry and Meghan land in UK days after announcing move",
+      "title": "Taylor Swift and Beyoncé lead tributes after death of 'bold and brilliant' Dolly Parton",
       "link": "",
-      "summary": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
+      "summary": "Tributes pour in from across the worlds of music, film and politics for the star, who has died at 80.",
       "published": "",
-      "title_zh": "哈里王子和梅根在宣布搬家几天后抵达英国",
-      "summary_zh": "据信哈里王子、梅根和他们的两个孩子是从加利福尼亚州私下飞往该国的。"
+      "title_zh": "泰勒·斯威夫特和碧昂丝在“大胆而才华横溢”的多莉·帕顿去世后悼念",
+      "summary_zh": "音乐界、电影界和政界纷纷向这位80岁去世的明星表示哀悼。"
     },
     {
-      "title": "'Glam, funny, kind': World remembers Dolly Parton as star dies from cancer aged 80",
+      "title": "How Parton became a fashion icon",
       "link": "",
-      "summary": "The legendary country music singer died surrounded by loved ones, her representatives said.",
+      "summary": "Culture correspondent Noor Nanji explores how the country legend's signature style helped her take over the world.",
       "published": "",
-      "title_zh": "“迷人、有趣、善良”：世界缅怀明星多莉·帕顿 (Dolly Parton) 因癌症去世，享年 80 岁",
-      "summary_zh": "她的代表说，这位传奇乡村音乐歌手在亲人的陪伴下去世。"
+      "title_zh": "帕顿如何成为时尚偶像",
+      "summary_zh": "文化记者努尔·南吉 (Noor Nanji) 探讨了这位乡村传奇人物的标志性风格如何帮助她征服世界。"
     },
     {
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "title": "Buckingham Palace guards play '9 to 5' in honour of Dolly Parton",
       "link": "",
-      "summary": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi.",
+      "summary": "The Band of the Coldstream Guards played the track during the Changing of the Guard ceremony, drawing crowds of tourists who stopped to listen.",
       "published": "",
-      "title_zh": "印度珠宝广告因演员着装遭到强烈反对而被撤下",
-      "summary_zh": "克丽蒂·萨农 (Kriti Sanon) 为广告进行了辩护，广告中她庆祝即将到来的印度教拉基节 (Rakhi)。"
+      "title_zh": "白金汉宫卫兵表演“朝九晚五”纪念多莉·帕顿",
+      "summary_zh": "冷溪卫兵乐队在卫兵换岗仪式上演奏了这首歌曲，吸引了大批游客驻足聆听。"
     },
     {
-      "title": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+      "title": "Xbox boss 'thinking about affordability' of next-gen console",
       "link": "",
-      "summary": "The late singer-songwriter's charity causes were as eclectic as her music, but she had a personal connection to each one.",
+      "summary": "In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.",
       "published": "",
-      "title_zh": "多莉·帕顿如何帮助世界——从儿童读物到支持新冠疫苗",
-      "summary_zh": "这位已故创作型歌手的慈善事业和她的音乐一样不拘一格，但她与每一项慈善事业都有着个人联系。"
+      "title_zh": "Xbox 老板“考虑下一代游戏机的承受能力”",
+      "summary_zh": "在接受 BBC 独家采访时，阿莎·夏尔马 (Asha Sharma) 还讨论了为玩家提供他们拥有的游戏的数字版本。"
     },
     {
-      "title": "Watch Nashville fans lay flowers in tribute to Parton",
+      "title": "Olympic champion Liu announces break from competition",
       "link": "",
-      "summary": "The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.",
+      "summary": "Women's Olympic figure skating champion Alysa Liu confirms that she will not compete during the 2026-27 season.",
       "published": "",
-      "title_zh": "观看纳什维尔球迷向帕顿致敬",
-      "summary_zh": "BBC 的海伦娜·汉弗莱 (Helena Humphrey) 在乡村音乐名人堂外，歌迷聚集在那里哀悼多莉·帕顿 (Dolly Parton)。"
+      "title_zh": "奥运冠军刘翔宣布退出比赛",
+      "summary_zh": "女子花样滑冰奥运冠军刘静雯确认她不会参加 2026-27 赛季的比赛。"
     },
     {
-      "title": "'If you want the rainbow, you gotta put up with the rain': Parton's wit and wisdom",
+      "title": "Rockstar Games breaks silence on Grand Theft Auto 6 leaks",
       "link": "",
-      "summary": "The much-loved country singer-songwriter in her own words, following her death aged 80.",
+      "summary": "The game developer says the unauthorised footage has caused \"heartbreak\" for those working on the title.",
       "published": "",
-      "title_zh": "“如果你想要彩虹，你就必须忍受风雨”：帕顿的机智和智慧",
-      "summary_zh": "用她自己的话说，这位深受喜爱的乡村歌手兼作曲家在 80 岁去世后。"
+      "title_zh": "Rockstar Games 就《侠盗猎车手 6》泄密事件打破沉默",
+      "summary_zh": "游戏开发商表示，未经授权的镜头让开发该游戏的人员感到“心碎”。"
     },
     {
-      "title": "How Tesla has been caught up in a massive car recall in China",
-      "link": "",
-      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
-      "published": "",
-      "title_zh": "特斯拉如何卷入中国大规模汽车召回事件",
-      "summary_zh": "中国有史以来最大规模的汽车召回影响了特斯拉、小鹏汽车、小米等公司生产的超过 400 万辆汽车。"
-    },
-    {
-      "title": "Raheem Sterling charged with dangerous driving after Lamborghini crash",
-      "link": "",
-      "summary": "The former England footballer will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
-      "published": "",
-      "title_zh": "兰博基尼撞车事故后，拉希姆·斯特林被指控危险驾驶",
-      "summary_zh": "这位前英格兰足球运动员将于下个月出庭，在五月份将汽车撞上高速公路护栏后面临危险驾驶指控。"
-    },
-    {
-      "title": "Ex-head of Rwanda's presidential guard dies in jail 12 years after his arrest",
-      "link": "",
-      "summary": "His brother tells the BBC his family have not been allowed to see him \"in all these years\".",
-      "published": "",
-      "title_zh": "卢旺达总统卫队前队长被捕12年后在狱中去世",
-      "summary_zh": "他的兄弟告诉英国广播公司，“这些年来”他的家人一直不被允许见到他。"
-    },
-    {
-      "title": "Ex-chief constable of West Midlands Police investigated over Israeli fan ban",
-      "link": "",
-      "summary": "Craig Guildford, three police officers and a staff member face IOPC investigation, over the banning of Israeli Maccabi Tel Aviv fans from a match against Aston Villa.",
-      "published": "",
-      "title_zh": "西米德兰兹郡警察局前警长因以色列球迷禁令而接受调查",
-      "summary_zh": "克雷格·吉尔福德、三名警察和一名工作人员因禁止以色列特拉维夫马卡比球迷观看对阵阿斯顿维拉的比赛而面临 IOPC 调查。"
-    },
-    {
-      "title": "Everything to know about your favorite team this NFL season",
-      "link": "https://www.nbcnews.com/sports/nfl/nfl-kickoff-season-preview-2026-all-teams-rcna594317",
+      "title": "Meta agrees to settle social media addiction claims with states for up to $18 billion",
+      "link": "https://www.nbcnews.com/tech/social-media/meta-settles-social-media-addiction-suit-16-billion-rcna594492",
       "summary": "",
       "published": "",
-      "title_zh": "关于本 NFL 赛季您最喜欢的球队的所有信息"
+      "title_zh": "Meta 同意与各州就社交媒体成瘾索赔达成和解，赔偿金额高达 180 亿美元"
     },
     {
-      "title": "Three Americans among hundreds of missing tourists in Nepal flash floods",
-      "link": "https://www.nbcnews.com/world/asia/flash-flood-nepal-tibet-villages-destroyed-american-tourists-missing-rcna594473",
+      "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘It,’ dies at 80",
+      "link": "https://www.nbcnews.com/news/obituaries/tim-curry-star-rocky-horror-picture-show-dies-80-rcna594532",
       "summary": "",
       "published": "",
-      "title_zh": "尼泊尔山洪爆发数百名失踪游客中包括三名美国人"
+      "title_zh": "《洛基恐怖秀》和《它》的主演蒂姆·库里去世，享年 80 岁"
     },
     {
-      "title": "The funeral industry is killing Americans’ bank accounts",
-      "link": "https://www.nbcnews.com/business/personal-finance/even-death-unaffordable-america-now-rcna591164",
+      "title": "Panda Express’ CEOs are on a ‘mission’ to help workers achieve the dream of home ownership",
+      "link": "https://www.nbcnews.com/business/ceo-interviews/panda-express-ceos-employee-home-ownership-rcna594191",
       "summary": "",
       "published": "",
-      "title_zh": "殡葬业正在扼杀美国人的银行账户"
+      "title_zh": "熊猫快递首席执行官的“使命”是帮助工人实现置业梦想"
     },
     {
-      "title": "Testimony is expected to end today in Lindsay Clancy trial",
-      "link": "https://www.nbcnews.com/news/testimony-expected-end-today-lindsay-clancy-trial-rcna594475",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西审判的证词预计将于今天结束"
-    },
-    {
-      "title": "The universe, unlocked: NASA to launch a space telescope that could transform our view of the cosmos",
-      "link": "https://www.nbcnews.com/science/space/nasa-space-telescope-nancy-grace-roman-launch-rcna592938",
-      "summary": "",
-      "published": "",
-      "title_zh": "宇宙已解锁：美国宇航局将发射一架太空望远镜，它将改变我们对宇宙的看法"
-    },
-    {
-      "title": "Mother says unarmed 22-year-old killed by police went to the wrong house by mistake",
-      "link": "https://www.nbcnews.com/news/us-news/glenwood-earl-pysher-iv-identified-22-year-old-killed-montgomery-count-rcna594478",
-      "summary": "",
-      "published": "",
-      "title_zh": "母亲称手无寸铁的22岁女孩被警察打死，误入错误的房子"
-    },
-    {
-      "title": "Dolly Parton’s rise from poverty to country music icon as new details emerge about cause of death",
+      "title": "Pentagon review finds classified documents allegedly hidden from investigators",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着有关死因的新细节浮出水面，多莉·帕顿从贫困变成乡村音乐偶像"
+      "title_zh": "五角大楼审查发现据称向调查人员隐藏的机密文件"
     },
     {
-      "title": "Darline Graham's '20 days versus 20 years' dig seals her upset over Norman",
+      "title": "Dolly Parton's burial plans reportedly revealed as nation mourns icon",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "达琳·格雷厄姆 (Darline Graham) 的“20 天与 20 年”的挖苦让她对诺曼感到不满"
+      "title_zh": "据报道，多莉·帕顿的埋葬计划被曝光，全国哀悼偶像"
     },
     {
-      "title": "College baseball player fatally shot after mom says he made one wrong turn",
+      "title": "Dems' 'disgraceful' debate leaves voters disgusted, wishing 'they could both lose'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学棒球运动员在妈妈说他转错了一个弯后被枪杀"
+      "title_zh": "民主党的“可耻”辩论让选民感到厌恶，希望“他们都能输”"
     },
     {
-      "title": "Grandma vows 'I'm not gonna stop' after officials threaten legal action over burritos",
+      "title": "3 Secret Service officials under internal investigation for potential misconduct",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在官员威胁对墨西哥卷饼采取法律行动后，奶奶发誓“我不会停止”"
+      "title_zh": "3名特勤局官员因潜在不当行为接受内部调查"
     },
     {
-      "title": "Firms 'from all over the country' are looking to move after viral Mamdani billboard, CEO says",
+      "title": "ESPN reporter takes shot at Enes Kanter Freedom during NBA analysis",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "首席执行官表示，在 Mamdani 广告牌走红后，“来自全国各地”的公司都在寻求搬迁"
+      "title_zh": "ESPN 记者在 NBA 分析中对埃内斯·坎特·自由进行了攻击"
     },
     {
-      "title": "Four teens in stolen G-Wagon lead cops on hourslong chase that ends in horror: police",
+      "title": "Meta's $17.1B settlement averts trial where Zuckerberg could have been called",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "四名青少年驾驶被盗的 G-Wagon 带领警察进行长达数小时的追捕，最终以恐怖告终：警方"
+      "title_zh": "Meta 的 17.1B 美元和解协议避免了扎克伯格可能被传唤的审判"
     },
     {
-      "title": "WNBA coach weighs in on league's mounting transgender eligibility controversy",
+      "title": "FBI expert breaks down what he believes may have led Lindsay Clancy to kill her children",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "WNBA 教练对联盟日益严重的跨性别资格争议发表看法"
+      "title_zh": "联邦调查局专家分析了他认为可能导致林赛·克兰西杀死她孩子的原因"
     },
     {
-      "title": "Bessent's 'Economic D-Day' raises one important question nobody is answering",
+      "title": "Tim Curry, 'The Rocky Horror Picture Show' actor, dead at 80",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贝森特的“经济诺曼底登陆”提出了一个无人回答的重要问题"
+      "title_zh": "《洛基恐怖秀》演员蒂姆·库里去世，享年 80 岁"
     },
     {
-      "title": "Prosecutor in infamous killer mom case spots strange jury twist in Lindsay Clancy trial",
+      "title": "WATCH LIVE:Energy Secretary Wright, IAEA chief Grossi hold press conference",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "臭名昭著的杀手妈妈案检察官在林赛·克兰西审判中发现陪审团的奇怪扭曲"
+      "title_zh": "观看直播：能源部长赖特与国际原子能机构总干事格罗西举行新闻发布会"
     },
     {
-      "title": "Teen in Carnival Cruise slaying case cites ‘unfortunate’ family dynamic before trial",
+      "title": "Phones turn into gunshot detectors in one of America's most violent cities",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "嘉年华游轮杀人案中的青少年在审判前引用了“不幸的”家庭动态"
+      "title_zh": "在美国最暴力的城市之一，手机变成了枪声探测器"
     },
     {
-      "title": "Photo of Caitlin Clark's scratched body after another WNBA beating raises eyebrows",
+      "title": "Business owner begs mayor to move city-run grocery store off his block",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 在 WNBA 再次遭到殴打后身体被划伤的照片引起了人们的注意"
+      "title_zh": "企业主恳求市长将城市经营的杂货店搬出他的街区"
     },
     {
-      "title": "Suspect who killed 8 family members at Sunday dinner was asked to move out: relative",
+      "title": "Baltimore considers cash for new parents as the mayor seeks voters' support",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "周日晚餐时杀害8名家庭成员的嫌疑人被要求搬出：亲属"
+      "title_zh": "巴尔的摩市长寻求选民支持，考虑为新父母提供现金"
     },
     {
-      "title": "Three Secret Service officials on administrative leave amid misconduct probe",
+      "title": "'He's so thirsty': Newsom's 'enthusiastic' praise for Trump policy turns heads",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "三名特勤局官员因不当行为调查而休行政假"
+      "title_zh": "“他太渴了”：纽瑟姆对特朗普政策的“热情”赞扬引人注目"
     },
     {
-      "title": "SEAN HANNITY:Political rot takes over the Democratic Party",
+      "title": "El-Sayed's tribute to Dolly Parton after her death sparks backlash as critics cry foul",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肖恩·汉尼蒂：政治腐败接管了民主党"
+      "title_zh": "埃尔-赛义德在多莉·帕顿去世后向她致敬，引发批评者强烈反对"
     },
     {
-      "title": "3 American tourists missing, many feared dead after catastrophic flood in Nepal",
+      "title": "National Dog Day goes MAHA as pet brand founder calls for cleaner dog treats",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "尼泊尔特大洪水导致三名美国游客失踪，多人恐已死亡"
+      "title_zh": "宠物品牌创始人呼吁更清洁的狗粮，全国爱狗日变得MAHA"
     },
     {
-      "title": "DA taunts mask-wearing suspect nabbed in Las Vegas: 'Who's running now?'",
+      "title": "Dem hopeful refuses to defend policy he once wrote 'I believe in' five times",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "地方检察官嘲笑在拉斯维加斯被捕的戴面具嫌疑人：“现在谁在逃跑？”"
-    },
-    {
-      "title": "Are AI cameras watching you drive? Lawmakers on both sides sound alarm",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "AI 摄像头会监视你开车吗？双方议员敲响警钟"
-    },
-    {
-      "title": "Dem Senate nominee claims billionaires gut public schools to profit off prison labor",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Dem Senate nominee claims billionaires gut public schools to profit off prison labor"
+      "title_zh": "充满希望的民主党拒绝捍卫他曾五次写下“我相信”的政策"
     }
   ]
 }
