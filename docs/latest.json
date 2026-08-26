@@ -1,10 +1,10 @@
 {
   "date": "20260826",
-  "total": 27,
+  "total": 33,
   "sources": {
     "bbc": {
       "status": "ok",
-      "entries": 0
+      "entries": 8
     },
     "fox": {
       "status": "ok",
@@ -33,201 +33,243 @@
   },
   "entries": [
     {
-      "title": "Meta agrees to pay up to $18bn to settle claims its platforms harm children",
-      "link": "",
-      "summary": "The Facebook and Instagram owner, which denies wrongdoing, says the agreement builds on its \"longstanding efforts to empower parents and support teens\".",
-      "published": "",
-      "title_zh": "Meta 同意支付高达 180 亿美元以和解其平台伤害儿童的指控",
-      "summary_zh": "Facebook 和 Instagram 的所有者否认有不当行为，并表示该协议建立在其“为父母赋权和支持青少年的长期努力”之上。"
-    },
-    {
-      "title": "Rocky Horror star Tim Curry dies at 80",
-      "link": "",
-      "summary": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
-      "published": "",
-      "title_zh": "《洛基恐怖》主演蒂姆·库里去世，享年 80 岁",
-      "summary_zh": "库里因在邪教电影《洛基恐怖秀》中扮演古怪的弗兰克-N-富特而闻名。"
-    },
-    {
-      "title": "Taylor Swift and Beyoncé lead tributes after death of 'bold and brilliant' Dolly Parton",
-      "link": "",
-      "summary": "Tributes pour in from across the worlds of music, film and politics for the star, who has died at 80.",
-      "published": "",
-      "title_zh": "泰勒·斯威夫特和碧昂丝在“大胆而才华横溢”的多莉·帕顿去世后悼念",
-      "summary_zh": "音乐界、电影界和政界纷纷向这位80岁去世的明星表示哀悼。"
-    },
-    {
-      "title": "How Parton became a fashion icon",
-      "link": "",
-      "summary": "Culture correspondent Noor Nanji explores how the country legend's signature style helped her take over the world.",
-      "published": "",
-      "title_zh": "帕顿如何成为时尚偶像",
-      "summary_zh": "文化记者努尔·南吉 (Noor Nanji) 探讨了这位乡村传奇人物的标志性风格如何帮助她征服世界。"
-    },
-    {
-      "title": "Buckingham Palace guards play '9 to 5' in honour of Dolly Parton",
-      "link": "",
-      "summary": "The Band of the Coldstream Guards played the track during the Changing of the Guard ceremony, drawing crowds of tourists who stopped to listen.",
-      "published": "",
-      "title_zh": "白金汉宫卫兵表演“朝九晚五”纪念多莉·帕顿",
-      "summary_zh": "冷溪卫兵乐队在卫兵换岗仪式上演奏了这首歌曲，吸引了大批游客驻足聆听。"
-    },
-    {
-      "title": "Xbox boss 'thinking about affordability' of next-gen console",
-      "link": "",
-      "summary": "In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.",
-      "published": "",
-      "title_zh": "Xbox 老板“考虑下一代游戏机的承受能力”",
-      "summary_zh": "在接受 BBC 独家采访时，阿莎·夏尔马 (Asha Sharma) 还讨论了为玩家提供他们拥有的游戏的数字版本。"
-    },
-    {
-      "title": "Olympic champion Liu announces break from competition",
-      "link": "",
-      "summary": "Women's Olympic figure skating champion Alysa Liu confirms that she will not compete during the 2026-27 season.",
-      "published": "",
-      "title_zh": "奥运冠军刘翔宣布退出比赛",
-      "summary_zh": "女子花样滑冰奥运冠军刘静雯确认她不会参加 2026-27 赛季的比赛。"
-    },
-    {
-      "title": "Rockstar Games breaks silence on Grand Theft Auto 6 leaks",
-      "link": "",
-      "summary": "The game developer says the unauthorised footage has caused \"heartbreak\" for those working on the title.",
-      "published": "",
-      "title_zh": "Rockstar Games 就《侠盗猎车手 6》泄密事件打破沉默",
-      "summary_zh": "游戏开发商表示，未经授权的镜头让开发该游戏的人员感到“心碎”。"
-    },
-    {
-      "title": "Meta agrees to settle social media addiction claims with states for up to $18 billion",
-      "link": "https://www.nbcnews.com/tech/social-media/meta-settles-social-media-addiction-suit-16-billion-rcna594492",
+      "title": "Videos show crushing walls of water overtake buildings and bridges on Nepal-Tibet border",
+      "link": "https://www.nbcnews.com/world/asia/videos-nepal-tibet-flash-flooding-destruction-rcna594515",
       "summary": "",
       "published": "",
-      "title_zh": "Meta 同意与各州就社交媒体成瘾索赔达成和解，赔偿金额高达 180 亿美元"
+      "title_zh": "视频显示，尼泊尔和西藏边境的水墙淹没了建筑物和桥梁"
     },
     {
-      "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘It,’ dies at 80",
-      "link": "https://www.nbcnews.com/news/obituaries/tim-curry-star-rocky-horror-picture-show-dies-80-rcna594532",
+      "title": "Military trial date set for alleged mastermind of Sept. 11 attacks",
+      "link": "https://www.nbcnews.com/politics/national-security/military-trial-date-set-alleged-mastermind-sept-11-attacks-ksm-rcna594621",
       "summary": "",
       "published": "",
-      "title_zh": "《洛基恐怖秀》和《它》的主演蒂姆·库里去世，享年 80 岁"
+      "title_zh": "对涉嫌 9 月 11 日袭击策划者的军事审判日期已定"
     },
     {
-      "title": "Panda Express’ CEOs are on a ‘mission’ to help workers achieve the dream of home ownership",
-      "link": "https://www.nbcnews.com/business/ceo-interviews/panda-express-ceos-employee-home-ownership-rcna594191",
+      "title": "How Dolly Parton’s legacy of literacy lives on in a small English town",
+      "link": "https://www.nbcnews.com/world/europe/dolly-partons-lasting-gift-british-children-rcna594469",
       "summary": "",
       "published": "",
-      "title_zh": "熊猫快递首席执行官的“使命”是帮助工人实现置业梦想"
+      "title_zh": "多莉·帕顿的识字遗产如何在英国小镇延续"
     },
     {
-      "title": "Pentagon review finds classified documents allegedly hidden from investigators",
+      "title": "2026 elections are thinning the ranks of the hard-right House Freedom Caucus",
+      "link": "https://www.nbcnews.com/politics/2026-election/2026-election-thinning-ranks-hard-right-house-freedom-caucus-rcna594521",
+      "summary": "",
+      "published": "",
+      "title_zh": "2026 年选举正在削弱极右翼众议院自由核心小组的队伍"
+    },
+    {
+      "title": "He’s locked up for stealing a dead teen’s identity. The feds still don’t know his name.",
+      "link": "https://www.nbcnews.com/politics/justice-department/s-locked-stealing-dead-teens-identity-feds-still-dont-know-name-rcna594526",
+      "summary": "",
+      "published": "",
+      "title_zh": "他因窃取一名死去青少年的身份而被关押。联邦政府仍然不知道他的名字。"
+    },
+    {
+      "title": "Federal ruling clears path for ICE agent release Thursday, leaving Minnesota scrambling",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "五角大楼审查发现据称向调查人员隐藏的机密文件"
+      "title_zh": "联邦裁决周四为 ICE 特工释放扫清道路，让明尼苏达州陷入困境"
     },
     {
-      "title": "Dolly Parton's burial plans reportedly revealed as nation mourns icon",
+      "title": "NFL owner's prostitution arrest puts top Dem committee on defense: 'Desperate'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据报道，多莉·帕顿的埋葬计划被曝光，全国哀悼偶像"
+      "title_zh": "NFL老板卖淫被捕让民主党最高委员会辩护：“绝望”"
     },
     {
-      "title": "Dems' 'disgraceful' debate leaves voters disgusted, wishing 'they could both lose'",
+      "title": "Judges rule patron icons must come down from city's public safety headquarters",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党的“可耻”辩论让选民感到厌恶，希望“他们都能输”"
+      "title_zh": "法官规定赞助人图标必须来自城市公共安全总部"
     },
     {
-      "title": "3 Secret Service officials under internal investigation for potential misconduct",
+      "title": "Dolly Parton’s cancer battle raises a question many patients face after diagnosis",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "3名特勤局官员因潜在不当行为接受内部调查"
+      "title_zh": "多莉·帕顿 (Dolly Parton) 的癌症斗争引发了许多患者在诊断后面临的问题"
     },
     {
-      "title": "ESPN reporter takes shot at Enes Kanter Freedom during NBA analysis",
+      "title": "Travelers, employees witness fatal jet accident that claims airport worker's life",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "ESPN 记者在 NBA 分析中对埃内斯·坎特·自由进行了攻击"
+      "title_zh": "旅客和员工目睹了致命的飞机事故，导致机场工作人员丧生"
     },
     {
-      "title": "Meta's $17.1B settlement averts trial where Zuckerberg could have been called",
+      "title": "ESPN kills a beloved college football staple and fans are applauding",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Meta 的 17.1B 美元和解协议避免了扎克伯格可能被传唤的审判"
+      "title_zh": "ESPN 取消了备受喜爱的大学橄榄球主播，球迷们纷纷鼓掌"
     },
     {
-      "title": "FBI expert breaks down what he believes may have led Lindsay Clancy to kill her children",
+      "title": "Deadly flooding at Nepal-China border leaves 95 dead, hundreds still missing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦调查局专家分析了他认为可能导致林赛·克兰西杀死她孩子的原因"
+      "title_zh": "尼泊尔和中国边境发生致命洪水，造成95人死亡，数百人失踪"
     },
     {
-      "title": "Tim Curry, 'The Rocky Horror Picture Show' actor, dead at 80",
+      "title": "Girl Scouts rival boasts it never obscures its beliefs after Muslim badge backlash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《洛基恐怖秀》演员蒂姆·库里去世，享年 80 岁"
+      "title_zh": "女童子军竞争对手声称，在穆斯林徽章遭到强烈反对后，它从未掩盖自己的信仰"
     },
     {
-      "title": "WATCH LIVE:Energy Secretary Wright, IAEA chief Grossi hold press conference",
+      "title": "Houston-area instructor accused of luring baseball players home for chores",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：能源部长赖特与国际原子能机构总干事格罗西举行新闻发布会"
+      "title_zh": "休斯顿地区教练被指控引诱棒球运动员回家做家务"
     },
     {
-      "title": "Phones turn into gunshot detectors in one of America's most violent cities",
+      "title": "Iran's floating oil hoard threatens to blow a hole in Trump's 'zero leakage' vow",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在美国最暴力的城市之一，手机变成了枪声探测器"
+      "title_zh": "伊朗漂浮的石油储备可能会打破特朗普的“零泄漏”誓言"
     },
     {
-      "title": "Business owner begs mayor to move city-run grocery store off his block",
+      "title": "Chicago Sky owner compares Enes Kanter Freedom incident to shooting 'a gun at someone'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "企业主恳求市长将城市经营的杂货店搬出他的街区"
+      "title_zh": "芝加哥天空队老板将埃内斯·坎特自由事件比作“向某人开枪”"
     },
     {
-      "title": "Baltimore considers cash for new parents as the mayor seeks voters' support",
+      "title": "Marines finally get their due after Hegseth blasts Pentagon's Abbey Gate snub",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "巴尔的摩市长寻求选民支持，考虑为新父母提供现金"
+      "title_zh": "赫格赛斯抨击五角大楼修道院门冷落后，海军陆战队终于得到了应有的回报"
     },
     {
-      "title": "'He's so thirsty': Newsom's 'enthusiastic' praise for Trump policy turns heads",
+      "title": "Tiger Woods surfaces in rare video and the thoughts from fans are worrying",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“他太渴了”：纽瑟姆对特朗普政策的“热情”赞扬引人注目"
+      "title_zh": "老虎伍兹在罕见的视频中露面，球迷的想法令人担忧"
     },
     {
-      "title": "El-Sayed's tribute to Dolly Parton after her death sparks backlash as critics cry foul",
+      "title": "NFL ends the Pro Bowl after ratings fall to 2M viewers in latest broadcast",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃尔-赛义德在多莉·帕顿去世后向她致敬，引发批评者强烈反对"
+      "title_zh": "最新转播收视率跌至 200 万后 NFL 结束职业碗比赛"
     },
     {
-      "title": "National Dog Day goes MAHA as pet brand founder calls for cleaner dog treats",
+      "title": "Jelly Roll turns his dramatic 300-pound weight loss into a brutal Trump punchline",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "宠物品牌创始人呼吁更清洁的狗粮，全国爱狗日变得MAHA"
+      "title_zh": "Jelly Roll 将他戏剧性的 300 磅减肥变成了特朗普残酷的笑点"
     },
     {
-      "title": "Dem hopeful refuses to defend policy he once wrote 'I believe in' five times",
+      "title": "Busy Philipps found out she had a rare brain tumor after undergoing body scan",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "充满希望的民主党拒绝捍卫他曾五次写下“我相信”的政策"
+      "title_zh": "忙碌的菲利普斯在接受全身扫描后发现她患有罕见的脑肿瘤"
+    },
+    {
+      "title": "Journalist’s viral courtroom wink comes back to bite her as magazine cuts ties",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "当杂志断绝关系时，记者在法庭上的眨眼又回来咬她了"
+    },
+    {
+      "title": "Jersey Shore residents square off with Verizon in growing 5G tower fight",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泽西海岸居民与 Verizon 展开愈演愈烈的 5G 铁塔之争"
+    },
+    {
+      "title": "FDA approves once-daily pill for deadly cancer after patients' survival rates nearly double",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在患者存活率几乎翻倍后，FDA 批准每日一次的致命癌症药物"
+    },
+    {
+      "title": "Caitlin Clark just proved again who really drives the WNBA ratings boom",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 再次证明谁真正推动了 WNBA 收视率的繁荣"
+    },
+    {
+      "title": "Key moments from Lindsay Clancy's five-week trial over children's killings",
+      "link": "",
+      "summary": "The trial often grew emotional as lawyers debated whether the mother was responsible for her children's deaths.",
+      "published": "",
+      "title_zh": "林赛·克兰西杀害儿童案为期五周的审判的关键时刻",
+      "summary_zh": "当律师争论母亲是否应对孩子的死亡负责时，审判常常变得情绪化。"
+    },
+    {
+      "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+      "link": "",
+      "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+      "published": "",
+      "title_zh": "OpenAI 代理之间的意外聊天导致 Hugging Face 黑客攻击",
+      "summary_zh": "OpenAI 的网络代理联合起来在安全测试期间进行黑客攻击。"
+    },
+    {
+      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+      "link": "",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
+      "published": "",
+      "title_zh": "Meta 将支付高达 180 亿美元以和解其平台伤害儿童的指控",
+      "summary_zh": "该协议是在加州联邦法院就美国各州提起的索赔进行审判期间达成的。"
+    },
+    {
+      "title": "'Angel by my side' - Miley Cyrus pays tribute to godmother Dolly Parton",
+      "link": "",
+      "summary": "Tributes pour in from across the worlds of music, film and politics for the star, who  died at the age of 80.",
+      "published": "",
+      "title_zh": "“天使在我身边”——麦莉·赛勒斯向教母多莉·帕顿致敬",
+      "summary_zh": "音乐界、电影界和政界纷纷向这位享年 80 岁的明星表示哀悼。"
+    },
+    {
+      "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
+      "link": "",
+      "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
+      "published": "",
+      "title_zh": "一只爱管闲事的北极熊和一只幸运的松鼠：2026 年度野生动物摄影师入围名单",
+      "summary_zh": "奥敦·里卡森 (Audun Rikardsen) 拍摄的北极熊照片是今年比赛中“高度赞扬”的作品之一。"
+    },
+    {
+      "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
+      "link": "",
+      "summary": "They are among hundreds of people still unaccounted for, with authorities for both countries saying they are closely monitoring the situation.",
+      "published": "",
+      "title_zh": "尼泊尔山洪爆发，数十名美国和加拿大公民失踪",
+      "summary_zh": "他们是数百人仍下落不明的人之一，两国当局均表示正在密切关注事态发展。"
+    },
+    {
+      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "link": "",
+      "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
+      "published": "",
+      "title_zh": "“如果你开始逃跑，他们就会开枪射杀你”——尼日利亚日益严重的绑架危机",
+      "summary_zh": "随着危机进一步向南蔓延，许多社区都生活在被绑架勒索赎金的恐惧之中。"
+    },
+    {
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "",
+      "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+      "published": "",
+      "title_zh": "法国法院发现辐射与空姐乳腺癌有关",
+      "summary_zh": "前法航空姐索菲·莱诺（Sophie Lainault）的癌症被认定为职业病。"
     }
   ]
 }
