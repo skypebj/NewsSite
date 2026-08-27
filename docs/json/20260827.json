@@ -1,6 +1,6 @@
 {
   "date": "20260827",
-  "total": 38,
+  "total": 52,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -20,7 +20,7 @@
     },
     "nbcnews": {
       "status": "ok",
-      "entries": 9
+      "entries": 0
     },
     "cnn": {
       "status": "ok",
@@ -33,285 +33,385 @@
   },
   "entries": [
     {
-      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-      "link": "",
-      "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+      "title": "Huge glacier collapse unleashed deadly flooding in Nepal and Tibet",
+      "link": "https://www.nbcnews.com/world/asia/himalayan-glacier-collapse-nepal-tibet-disaster-rcna594658",
+      "summary": "",
       "published": "",
-      "title_zh": "科学家表示，冰川崩塌可能导致尼泊尔-西藏地区发生毁灭性洪水",
-      "summary_zh": "科学家的初步调查表明，冰川崩塌是造成这一现象的原因，凸显了喜马拉雅冰川迅速融化的问题。"
+      "title_zh": "巨大的冰川崩塌在尼泊尔和西藏引发了致命的洪水"
     },
     {
-      "title": "Trial date set for alleged 9/11 mastermind Khalid Sheikh Mohammed",
-      "link": "",
-      "summary": "His plea deal to avoid a death-penalty trial was rejected by a federal appeals court last summer.",
+      "title": "Maps and satellite imagery show how ice, rock and floodwaters swept through villages",
+      "link": "https://www.nbcnews.com/data-graphics/himalayan-glacier-collapse-nepal-tibet-disaster-rcna594762",
+      "summary": "",
       "published": "",
-      "title_zh": "9/11 事件主谋哈立德·谢赫·穆罕默德的审判日期已确定",
-      "summary_zh": "去年夏天，他为避免死刑审判而提出的认罪协议被联邦上诉法院驳回。"
+      "title_zh": "地图和卫星图像显示冰、岩石和洪水如何席卷村庄"
     },
     {
-      "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-      "link": "",
-      "summary": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
+      "title": "Trump signs executive order to rename Lake Ontario to ‘Lake America’",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-orders-lake-ontario-renamed-lake-america-canada-trade-war-rcna594750",
+      "summary": "",
       "published": "",
-      "title_zh": "世界上第一位接受实时人工智能辅助脑部手术的患者肿瘤被切除",
-      "summary_zh": "如果没有实时人工智能辅助引导的脑部手术，里斯·希伯特可能会因肿瘤而失明。"
+      "title_zh": "特朗普签署行政命令将安大略湖更名为“美国湖”"
     },
     {
-      "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
-      "link": "",
-      "summary": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+      "title": "CIA chief asked Russia not to share intelligence with Iran, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/cia-chief-asked-russia-not-share-intelligence-iran-sources-say-rcna594747",
+      "summary": "",
       "published": "",
-      "title_zh": "Meta 的 180 亿美元和解协议可能会加速社交媒体对儿童安全的清算",
-      "summary_zh": "英国广播公司 (BBC) 技术编辑佐伊·克莱曼 (Zoe Kleinman) 写道，也许我们的末日卷轴日子已经屈指可数了。"
+      "title_zh": "消息人士称，中央情报局局长要求俄罗斯不要与伊朗分享情报"
     },
     {
-      "title": "Memory wars: Election clash over Germany's Nazi past as AfD eyes power in east",
-      "link": "",
-      "summary": "Remembering its role in the World Wars is a key aspect of modern Germany's identity but the AfD argues it is time to take a more positive view of the past.",
+      "title": "Jury begins deliberations in Lindsay Clancy case following closing arguments",
+      "link": "https://www.nbcnews.com/news/us-news/live-blog/lindsay-clancy-trial-murder-closing-arguments-jury-deliberations-rcna594599",
+      "summary": "",
       "published": "",
-      "title_zh": "记忆之战：德国选择党关注东部权力，围绕德国纳粹历史的选举冲突",
-      "summary_zh": "记住自己在世界大战中的作用是现代德国身份的一个关键方面，但选择党认为现在是时候对过去采取更积极的看法了。"
+      "title_zh": "陪审团在结案陈词后开始审议林赛·克兰西案"
     },
     {
-      "title": "Japanese polka dot artist Yayoi Kusama dies aged 97",
-      "link": "",
-      "summary": "Her colourful creations drew large crowds and fetched some of the highest ever prices for a female artist.",
+      "title": "Not purely natural: El Niño is more intense because of climate change, study finds",
+      "link": "https://www.nbcnews.com/science/climate-change/el-nino-climate-change-weather-study-rcna594585",
+      "summary": "",
       "published": "",
-      "title_zh": "日本圆点艺术家草间弥生去世，享年 97 岁",
-      "summary_zh": "她色彩缤纷的作品吸引了大批观众，并创下了女性艺术家有史以来最高的价格。"
+      "title_zh": "并非纯粹自然现象：研究发现，气候变化导致厄尔尼诺现象更加强烈"
     },
     {
-      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
-      "link": "",
-      "summary": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
+      "title": "‘Blood in the water’: Why Meta’s $18 billion settlement won’t end the company’s legal woes",
+      "link": "https://www.nbcnews.com/tech/social-media/meta-settlement-instagram-app-lawsuits-billion-money-teen-rcna594572",
+      "summary": "",
       "published": "",
-      "title_zh": "冰岛就欧盟问题举行全民公投 - 可能会以鱼类决定",
-      "summary_zh": "周六，在经济和地缘政治紧张的情况下，冰岛将对欧盟成员资格谈判进行投票。"
+      "title_zh": "“血浓于水”：为什么 Meta 的 180 亿美元和解协议无法结束该公司的法律困境"
     },
     {
-      "title": "Watch: 'We grabbed newborn and rushed out of Islamabad hospital'",
-      "link": "",
-      "summary": "The moment she saw smoke, Hivsa Walid fled the building with her sister-in-law's baby.",
+      "title": "She thought she had insurance coverage. Then a tumor was flagged as a pre-existing condition.",
+      "link": "https://www.nbcnews.com/health/health-care/thought-insurance-coverage-tumor-was-flagged-pre-existing-condition-rcna594220",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：“我们抓住新生儿并冲出伊斯兰堡医院”",
-      "summary_zh": "当希夫萨·瓦利德看到烟雾时，她带着嫂子的孩子逃离了大楼。"
+      "title_zh": "她以为自己有保险。然后肿瘤被标记为既存疾病。"
     },
     {
-      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
-      "link": "",
-      "summary": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "title": "Peter Cullen, prolific voice actor best known for Optimus Prime in ‘Transformers,’ dies at 85",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/peter-cullen-voice-actor-optimus-prime-dies-85-rcna594773",
+      "summary": "",
       "published": "",
-      "title_zh": "多莉·帕顿 (Dolly Parton) 的商业头脑如何帮助她取得超越排行榜的成功",
-      "summary_zh": "乡村音乐和电影为她带来了名气，而她的创业热情则为她带来了财富。"
+      "title_zh": "因《变形金刚》中的擎天柱而闻名的多产配音演员彼得·卡伦去世，享年 85 岁"
     },
     {
-      "title": "The question dominating Indian politics: Is it worse when women swear?",
-      "link": "",
-      "summary": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
+      "title": "Yayoi Kusama, Japanese artist renowned for mirror rooms and polka dots, dies at 97",
+      "link": "https://www.nbcnews.com/world/japan/yayoi-kusama-japanese-artist-renowned-immersive-mirror-rooms-dies-97-rcna594642",
+      "summary": "",
       "published": "",
-      "title_zh": "主导印度政治的问题是：女性说脏话会更糟糕吗？",
-      "summary_zh": "拉胡尔·甘地的言论再次引发了关于对纳伦德拉·莫迪总理侮辱反应中性别差异的争论。"
+      "title_zh": "以镜室和圆点闻名的日本艺术家草间弥生去世，享年 97 岁"
     },
     {
-      "title": "Trump says 'something may come out of' CIA head's unannounced visit to Moscow",
-      "link": "",
-      "summary": "John Ratcliffe travelled to the Russian capital on Tuesday in a rare and unannounced visit.",
+      "title": "Rockstar Games pulls back the curtain on ‘Grand Theft Auto VI’ after leak",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/rockstar-games-netflix-grand-theft-auto-vi-teaser-preview-what-to-know-rcna591225",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普称中央情报局局长对莫斯科的暗访“可能会产生一些成果”",
-      "summary_zh": "约翰·拉特克利夫周二访问俄罗斯首都，这是一次罕见的未经事先通知的访问。"
+      "title_zh": "Rockstar Games 在泄密后拉开了《侠盗猎车手 VI》的帷幕"
     },
     {
-      "title": "Sydney police investigate death of teen girl from suspected choking during sex",
+      "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
       "link": "",
-      "summary": "The girl, 16, was airlifted to hospital after she was found unconscious on Sunday, but died on Tuesday.",
+      "summary": "BBC Verify uses satellite imagery and verified video to track how the flood swept away vehicles, bridges and buildings.",
       "published": "",
-      "title_zh": "悉尼警方调查一名少女因性行为中疑似窒息死亡事件",
-      "summary_zh": "周日，这名 16 岁的女孩被发现昏迷不醒，随后被空运至医院，但于周二死亡。"
+      "title_zh": "观看：追踪尼泊尔-西藏山洪爆发的致命路径",
+      "summary_zh": "BBC verify 使用卫星图像和经过验证的视频来追踪洪水如何冲毁车辆、桥梁和建筑物。"
     },
     {
-      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "title": "What we should make of CIA boss's secret trip to Moscow",
       "link": "",
-      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+      "summary": "There is nothing routine about John Ratcliffe making a secret, 10,000-mile return dash to Moscow, writes Frank Gardner.",
       "published": "",
-      "title_zh": "美国药品管理局批准胰腺癌突破性治疗",
-      "summary_zh": "专家们称赞这种药物 daraxonrasib 是世界上最致命的癌症之一的游戏规则改变者。"
+      "title_zh": "我们应该如何看待中央情报局局长的莫斯科秘密之旅",
+      "summary_zh": "弗兰克·加德纳 (Frank Gardner) 写道，约翰·拉特克利夫 (John Ratcliffe) 秘密跑一万英里返回莫斯科，这绝非例行公事。"
     },
     {
-      "title": "Why Herrera is playing for free in Spanish third division",
+      "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
       "link": "",
-      "summary": "Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.",
+      "summary": "BBC special correspondent Allan Little met the \"Butcher of Bosnia\" in the early months of the Bosnian war.",
       "published": "",
-      "title_zh": "为什么埃雷拉可以在西班牙丙级联赛免费踢球",
-      "summary_zh": "安德尔·埃雷拉（Ander Herrera）曾代表一些世界上最大的俱乐部效力，但现在他回到家乡，在西班牙第三级别联赛中免费踢球 - 这就是原因。"
+      "title_zh": "艾伦·利特尔：我在波斯尼亚战争初期遇到了危险狂热的姆拉迪奇",
+      "summary_zh": "BBC特派记者阿兰·利特尔在波斯尼亚战争的最初几个月遇见了“波斯尼亚屠夫”。"
     },
     {
-      "title": "Watson to face fellow Briton Dart for US Open spot",
+      "title": "'Our parents were crossing the border an hour before the flood hit'",
       "link": "",
-      "summary": "Heather Watson will face compatriot Harriet Dart for a place in the US Open main draw as six British players reach the final qualifying round.",
+      "summary": "Authorities say more than 1,300 people are missing, including dozens of Americans and Canadians, as families await word on loved ones thought to be caught in the Nepal flash floods.",
       "published": "",
-      "title_zh": "沃森将迎战英国飞镖选手争夺美国公开赛席位",
-      "summary_zh": "希瑟·沃森 (Heather Watson) 将与同胞哈里特·达特 (Harriet Dart) 争夺美国公开赛正赛席位，六名英国选手将进入资格赛最后一轮。"
+      "title_zh": "“洪水袭来前一小时，我们的父母正在穿越边境”",
+      "summary_zh": "当局表示，已有 1,300 多人失踪，其中包括数十名美国人和加拿大人，家人正在等待被认为在尼泊尔山洪爆发中遇难亲人的消息。"
     },
     {
-      "title": "'Tragic accident' unfolds as travelers, employees witness deadly jet incident",
+      "title": "Trump signs order to rename Lake Ontario as Lake America",
+      "link": "",
+      "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+      "published": "",
+      "title_zh": "特朗普签署命令将安大略湖更名为美国湖",
+      "summary_zh": "特朗普的命令是在美国和加拿大之间的贸易谈判上周晚些时候破裂后发布的。"
+    },
+    {
+      "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+      "link": "",
+      "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
+      "published": "",
+      "title_zh": "陪审团审议被控杀害孩子的美国妇女林赛·克兰西的审判",
+      "summary_zh": "检察官认为克兰西谋杀孩子是经过深思熟虑的决定，而辩方则认为她患有产后精神病。"
+    },
+    {
+      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
+      "link": "",
+      "summary": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital.",
+      "published": "",
+      "title_zh": "哈拉尔国王病情恶化，挪威人向宫殿献花",
+      "summary_zh": "这位89岁老人的病情被描述为“极其严重”，他的家人已前往医院探望他。"
+    },
+    {
+      "title": "What caused the flooding in Nepal?",
+      "link": "",
+      "summary": "Experts point to 'glacial collapse' as the trigger for deadly floods that have swept through parts of Nepal and Tibet.",
+      "published": "",
+      "title_zh": "尼泊尔洪水泛滥的原因是什么？",
+      "summary_zh": "专家指出，“冰川崩塌”是席卷尼泊尔和西藏部分地区的致命洪水的诱因。"
+    },
+    {
+      "title": "Construction worker films moment he escapes floods",
+      "link": "",
+      "summary": "Video posted to social media shows a group of construction workers running away as water crashes though a valley.",
+      "published": "",
+      "title_zh": "建筑工人拍摄逃离洪水的瞬间",
+      "summary_zh": "社交媒体上发布的视频显示，一群建筑工人在洪水冲过山谷时逃跑。"
+    },
+    {
+      "title": "King Charles 'heartbroken' by deadly floods",
+      "link": "",
+      "summary": "Some 33 people from the UK are missing, including a 13-year-old girl and 14-year-old boy.",
+      "published": "",
+      "title_zh": "查尔斯国王因致命洪水而“心碎”",
+      "summary_zh": "来自英国的约 33 人失踪，其中包括一名 13 岁女孩和 14 岁男孩。"
+    },
+    {
+      "title": "What we know about the floods",
+      "link": "",
+      "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+      "published": "",
+      "title_zh": "我们对洪水的了解",
+      "summary_zh": "周三，尼泊尔和西藏边境发生洪水和山体滑坡，造成数百人死亡或失踪。"
+    },
+    {
+      "title": "A biopic, a coffee brand and dog treats among Dolly Parton's business projects still to come",
+      "link": "",
+      "summary": "\"Dolly worked up until the day she died,\" her manager says, as her upcoming projects are revealed.",
+      "published": "",
+      "title_zh": "多莉·帕顿 (Dolly Parton) 即将推出的商业项目包括一部传记片、一个咖啡品牌和狗粮",
+      "summary_zh": "“多莉一直工作到去世的那一天，”她的经理在透露她即将推出的项目时说道。"
+    },
+    {
+      "title": "In pictures: The dotty world of Japanese artist Yayoi Kusama",
+      "link": "",
+      "summary": "Kusama was known for creating extraordinary immersive worlds that delighted millions of visitors.",
+      "published": "",
+      "title_zh": "图片中：日本艺术家草间弥生的点滴世界",
+      "summary_zh": "草间弥生以创造令数百万游客愉悦的非凡沉浸式世界而闻名。"
+    },
+    {
+      "title": "From lighting to vintage gems: Five ways to spruce up your rental",
+      "link": "",
+      "summary": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
+      "published": "",
+      "title_zh": "从灯光到复古宝石：美化您的租赁的五种方法",
+      "summary_zh": "专家分享了如何让公寓或房子感觉像自己的一样而又不惹恼房东的技巧。"
+    },
+    {
+      "title": "Top Gear to return after Andrew Flintoff crash, BBC confirms",
+      "link": "",
+      "summary": "The show was \"rested\" after co-host Andrew Flintoff was injured in a crash during filming in 2022.",
+      "published": "",
+      "title_zh": "BBC 证实，安德鲁·弗林托夫车祸后《Top Gear》将回归",
+      "summary_zh": "联合主持人安德鲁·弗林托夫 (Andrew Flintoff) 在 2022 年拍摄期间因车祸受伤后，该节目“休息”了。"
+    },
+    {
+      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
+      "link": "",
+      "summary": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+      "published": "",
+      "title_zh": "法国北部汽车冲撞人群造成2人死亡10人受伤",
+      "summary_zh": "警方称，卡昂事件发生后，一名嫌疑人在附近一家酒吧发生打斗事件后被捕。"
+    },
+    {
+      "title": "Tanzania's VP expelled from ruling party for indiscipline and his successor named",
+      "link": "",
+      "summary": "Nchimbi announced his resignation earlier this week after reportedly falling out with President Samia.",
+      "published": "",
+      "title_zh": "坦桑尼亚副总统因违纪被开除出执政党 任命继任者",
+      "summary_zh": "据报道，恩钦比在与萨米亚总统发生争执后于本周早些时候宣布辞职。"
+    },
+    {
+      "title": "White House silent as Iran-Oman plan raises prospect of ban on US warships",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "旅客和员工目睹致命飞机事故，“悲惨事故”上演"
+      "title_zh": "伊朗-阿曼计划提出禁止美国军舰的可能性，白宫保持沉默"
     },
     {
-      "title": "Iran’s neighbor on edge as tensions soar over deepening military ties with Israel",
+      "title": "Senate Democrats hand Trump a new power they repeatedly warned against",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗邻国因与以色列军事关系加深而紧张局势加剧"
+      "title_zh": "参议院民主党人向特朗普授予了他们一再警告反对的新权力"
     },
     {
-      "title": "WNBA broadcaster exposes her biases after desperately trashing Clark, Cunningham",
+      "title": "Two airport workers dead after malaria cases shock officials at major travel hub",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "WNBA转播员在拼命诋毁克拉克、坎宁安后暴露了自己的偏见"
+      "title_zh": "疟疾病例震惊主要旅游中心官员，两名机场工作人员死亡"
     },
     {
-      "title": "Sylvester Stallone shares the wild Dolly Parton story he will never forget",
+      "title": "Sue Bird just delivered one of the most hypocritical statements of 2026",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "西尔维斯特·史泰龙分享了他永远不会忘记的狂野的多莉·帕顿故事"
+      "title_zh": "苏·伯德刚刚发表了 2026 年最虚伪的言论之一"
     },
     {
-      "title": "That $20 tap-to-pay donation could quietly wipe thousands from your bank",
+      "title": "WATCH:Eviction call erupts when deputy gets blasted with a homemade flamethrower",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "20 美元的点击支付捐款可能会悄悄从你的银行账户中抹去数千美元"
+      "title_zh": "观看：当副手被自制火焰喷射器攻击时，驱逐呼声爆发"
     },
     {
-      "title": "Susan Smith prosecutor spots troubling gap in Lindsay Clancy murder defense",
+      "title": "Sophie Cunningham celebrates Dolly Parton with cheeky social media post",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "苏珊·史密斯检察官发现林赛·克兰西谋杀案辩护中存在令人不安的漏洞"
+      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 在社交媒体上厚颜无耻地发帖庆祝多莉·帕顿 (Dolly Parton)"
     },
     {
-      "title": "Suspect arrested at Trump golf course had Melania's schedule, Secret Service notes",
+      "title": "Judge sentences woman convicted of defrauding Amazon out of nearly $10M",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特勤局指出，在特朗普高尔夫球场被捕的嫌疑人有梅拉尼娅的日程安排"
+      "title_zh": "一名女子被判诈骗亚马逊近 1000 万美元"
     },
     {
-      "title": "Good Good Golf backlash grows as stores pull merchandise, PGA Tour event in doubt",
+      "title": "Experts pinpoint likely cause of deadly mudslide as more than 1,300 still missing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着商店下架商品，Good Good Golf 的强烈反对情绪加剧，美巡赛赛事受到质疑"
+      "title_zh": "专家查明致命泥石流的可能原因，仍有 1,300 多人失踪"
     },
     {
-      "title": "Tyrus and attorney Reagan Charleston unpack two explosive legal battles",
+      "title": "Smithsonian in hot seat again as nation's beloved zoo 'infiltrated' by 'radical' agenda",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒斯和律师里根·查尔斯顿揭开了两场爆炸性的法律纠纷"
+      "title_zh": "史密森尼再次陷入困境，因为国家喜爱的动物园被“激进”议程“渗透”"
     },
     {
-      "title": "3 common factors may be secretly speeding up the aging process, expert says",
+      "title": "Lindsay Clancy jury ends first day of deliberations without a verdict",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家称，3个常见因素可能会暗中加速衰老过程"
+      "title_zh": "林赛·克兰西陪审团结束第一天审议但未做出裁决"
     },
     {
-      "title": "TUNE IN:Exclusive interview with Karoline Leavitt tomorrow morning on 'FOX & Friends'",
+      "title": "SEE IT:Family feud turns wedding into fight night as butter knife comes out",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "收看：明天早上《福克斯与朋友》对卡罗琳·莱维特的独家采访"
+      "title_zh": "看一下：随着黄油刀的出现，家庭不和将婚礼变成了战斗之夜"
     },
     {
-      "title": "Busy Philipps diagnosed with rare brain tumor one day after former co-star's death",
+      "title": "Partner's death sent actress fleeing US, and now she's back for a long-awaited sequel",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前联合主演去世一天后，忙碌的菲利普斯被诊断出患有罕见的脑肿瘤"
+      "title_zh": "搭档之死导致女演员逃离美国，现在她回来拍摄期待已久的续集"
     },
     {
-      "title": "'The View' co-host pushes back on Hunter Biden calling Trump a 'dictator'",
+      "title": "Trump renames historic body of water as feud intensifies with northern neighbor",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《观点》联合主持人反驳亨特·拜登称特朗普为“独裁者”"
+      "title_zh": "随着与北方邻国的不和加剧，特朗普重新命名了历史悠久的水域"
     },
     {
-      "title": "Cruz reveals how a self-described 'left-wing radical' rose to America's highest bench",
+      "title": "Vacation ordeal ends in tragedy after vehicle becomes trapped at national park",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克鲁兹揭示了一位自称“左翼激进分子”的人如何晋升为美国最高法官"
+      "title_zh": "车辆被困国家公园后，假期考验以悲剧告终"
     },
     {
-      "title": "Catastrophic floods on Nepal-Tibet border leave hundreds missing, including Americans",
-      "link": "https://www.nbcnews.com/world/asia/catastrophic-floods-nepal-tibet-border-leave-hundreds-missing-towns-ru-rcna594648",
+      "title": "Man goes viral after being asked how to define a 'woman'",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "尼泊尔和西藏边境发生特大洪水，造成数百人失踪，其中包括美国人"
+      "title_zh": "男人在被问及如何定义“女人”后走红"
     },
     {
-      "title": "‘My darlin’ Dolly’: LGBTQ community mourns the loss of a dedicated ally",
-      "link": "https://www.nbcnews.com/news/us-news/dolly-parton-lgbtq-ally-mourns-rcna594390",
+      "title": "Pro Bowl running back reportedly found unconscious behind the wheel on highway",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“我亲爱的多莉”：LGBTQ 群体哀悼失去一位忠诚的盟友"
+      "title_zh": "据报道，职业碗跑卫在高速公路上被发现昏迷不醒"
     },
     {
-      "title": "Across Tennessee, bells toll and music plays on for Dolly Parton",
-      "link": "https://www.nbcnews.com/news/us-news/tennessee-bells-toll-music-plays-dolly-parton-rcna594512",
+      "title": "CBC defends controversial memo directing staff how to refer to Sept 11",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "整个田纳西州，钟声敲响，音乐响起，多莉·帕顿 (Dolly Parton)"
+      "title_zh": "CBC 为有争议的备忘录辩护，该备忘录指导员工如何参考 9 月 11 日"
     },
     {
-      "title": "Men getting more of the highest-paying AI jobs as boom leaves women behind",
-      "link": "https://www.nbcnews.com/data-graphics/ai-jobs-women-data-rcna594212",
+      "title": "Pastor accused of molesting 2 kids allegedly had access through family, more victims sought",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着繁荣将女性抛在后面，男性获得了更多高薪人工智能工作"
+      "title_zh": "被指控猥亵两名儿童的牧师据称通过家人接触，寻求更多受害者"
     },
     {
-      "title": "A near-total lunar eclipse will be visible across the U.S. Thursday night",
-      "link": "https://www.nbcnews.com/science/space/lunar-eclipse-2026-blood-moon-after-solar-eclipse-when-watch-rcna594576",
+      "title": "Marine One’s warning calls went unheard before Trump helicopter neared passenger jet",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "周四晚上美国各地将出现近乎月全食"
+      "title_zh": "在特朗普直升机接近客机之前，海军陆战队一号的警告电话无人听到"
     },
     {
-      "title": "Some NFL players are trying to go back to college — if they can find a conference that will let them",
-      "link": "https://www.nbcnews.com/sports/college-sports/nfl-sec-big-ten-college-sports-return-rcna594439",
+      "title": "Illegal immigrant among pair accused of raiding luxury home after owners killed",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一些 NFL 球员正在尝试重返大学——如果他们能找到一个能让他们参加的会议的话"
+      "title_zh": "一对非法移民被指控在业主被杀后袭击豪宅"
     },
     {
-      "title": "Parents say Meta settlement is just one step in the fight for a safer internet for kids",
-      "link": "https://www.nbcnews.com/tech/social-media/meta-settlement-parents-social-media-addiction-trial-reaction-rcna594574",
+      "title": "Politics",
+      "link": "https://www.cnn.com/politics",
       "summary": "",
       "published": "",
-      "title_zh": "家长们表示，元结算只是为孩子们争取更安全的互联网而奋斗的一步"
+      "title_zh": "政治"
     },
     {
-      "title": "Clean house",
-      "link": "https://www.nbcnews.com/news/us-news/parents-lost-son-fraternity-hazing-say-penn-state-chapter-needs-clean-rcna593274",
+      "title": "Travel",
+      "link": "https://www.cnn.com/travel",
       "summary": "",
       "published": "",
-      "title_zh": "干净的房子"
+      "title_zh": "旅行"
     },
     {
-      "title": "U.S. declares drought disaster for parts of Puerto Rico as dry conditions persist",
-      "link": "https://www.nbcnews.com/news/us-news/us-declares-drought-disaster-parts-puerto-rico-dry-conditions-persist-rcna594653",
+      "title": "Health",
+      "link": "https://www.cnn.com/health",
       "summary": "",
       "published": "",
-      "title_zh": "由于干旱状况持续存在，美国宣布波多黎各部分地区发生干旱灾害"
+      "title_zh": "健康"
+    },
+    {
+      "title": "Science",
+      "link": "https://www.cnn.com/science",
+      "summary": "",
+      "published": "",
+      "title_zh": "科学"
     }
   ]
 }
