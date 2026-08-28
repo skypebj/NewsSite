@@ -1,6 +1,6 @@
 {
   "date": "20260828",
-  "total": 42,
+  "total": 45,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,314 +33,334 @@
   },
   "entries": [
     {
-      "title": "Glacier collapse behind Nepal floods likely linked to thawing permafrost, scientists say",
-      "link": "https://www.nbcnews.com/science/climate-change/glacier-collapse-nepal-floods-climate-change-rcna594800",
-      "summary": "",
-      "published": "",
-      "title_zh": "科学家表示，尼泊尔洪水背后的冰川崩塌可能与永久冻土融化有关"
-    },
-    {
-      "title": "Rescuers comb for survivors in hard-to-reach areas",
-      "link": "https://www.nbcnews.com/world/asia/rescue-teams-search-survivors-hundreds-remain-missing-rcna594837",
-      "summary": "",
-      "published": "",
-      "title_zh": "救援人员在难以到达的地区搜寻幸存者"
-    },
-    {
-      "title": "Americans doubted the Iran war from the start — and Trump’s numbers haven’t gotten better since",
-      "link": "https://www.nbcnews.com/politics/trump-administration/polls-iran-war-americans-doubt-trump-numbers-decline-rcna594711",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国人从一开始就对伊朗战争表示怀疑——自那以后特朗普的支持率一直没有好转"
-    },
-    {
-      "title": "‘Big questions’ and few easy answers for Fed chair at annual retreat",
-      "link": "https://www.nbcnews.com/business/economy/kevin-warsh-jackson-hole-inflation-bonds-rcna594133",
-      "summary": "",
-      "published": "",
-      "title_zh": "美联储主席在年度务虚会上提出“大问题”和几个简单的答案"
-    },
-    {
-      "title": "Judge blocks Trump’s Postal Service regulation on mail-in ballots",
-      "link": "https://www.nbcnews.com/politics/2026-election/judge-blocks-trumps-postal-service-regulation-mail-ballots-rcna594692",
-      "summary": "",
-      "published": "",
-      "title_zh": "法官阻止特朗普对邮寄选票的邮政服务规定"
-    },
-    {
-      "title": "Norway’s King Harald V dies at 89 and his son becomes king",
-      "link": "https://www.nbcnews.com/world/europe/norways-king-harald-v-dies-89-son-becomes-king-haakon-viii-rcna594839",
-      "summary": "",
-      "published": "",
-      "title_zh": "挪威国王哈拉尔五世去世，享年89岁，儿子继位"
-    },
-    {
-      "title": "Two people with measles died in Pennsylvania. Then misinformation and politics erupted.",
-      "link": "https://www.nbcnews.com/health/health-news/measles-pennsylvania-deaths-infant-misinformation-politics-rcna594578",
-      "summary": "",
-      "published": "",
-      "title_zh": "宾夕法尼亚州有两名麻疹患者死亡。然后错误信息和政治爆发了。"
-    },
-    {
-      "title": "They were among baseball’s best teams last year. Now they could miss the playoffs.",
-      "link": "https://www.nbcnews.com/sports/mlb/baseballs-best-teams-last-year-now-miss-playoffs-rcna594223",
-      "summary": "",
-      "published": "",
-      "title_zh": "他们是去年最好的棒球队之一。现在他们可能会错过季后赛。"
-    },
-    {
-      "title": "Trump clears Supreme Court hurdle on mail ballots as states vow another fight",
+      "title": "Satellite images reveal scale of flood devastation in Nepal villages",
       "link": "",
-      "summary": "",
+      "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
       "published": "",
-      "title_zh": "特朗普扫清最高法院邮寄选票的障碍，各州誓言再战一场"
+      "title_zh": "卫星图像显示尼泊尔村庄遭受洪水破坏的规模",
+      "summary_zh": "照片显示村庄、桥梁和尼泊尔-西藏边境的一个重要过境点被毁灭性的洪水冲毁。"
     },
     {
-      "title": "Norway mourns death of King Harald, son Crown Prince Haakon set to succeed him",
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
       "link": "",
-      "summary": "",
+      "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
       "published": "",
-      "title_zh": "挪威哀悼哈拉尔国王去世，儿子哈康王储将继承他的王位"
+      "title_zh": "BBC 称，美国计划切断对中东主要盟友的军事援助",
+      "summary_zh": "伊拉克库尔德斯坦担心特朗普政府的计划将使该地区更容易受到伊朗的进一步袭击。"
     },
     {
-      "title": "Far left’s transgender demands leave Democrats out of step with voters",
+      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
       "link": "",
-      "summary": "",
+      "summary": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
       "published": "",
-      "title_zh": "极左翼的跨性别要求让民主党与选民脱节"
+      "title_zh": "BBC 追踪以色列定居者在被占领的约旦河西岸一周的暴力事件",
+      "summary_zh": "英国广播公司的露西·威廉姆森报道了定居者对巴勒斯坦人的袭击，仅在上周就观察到了这种情况。"
     },
     {
-      "title": "Russia warns US ally it's 'one step away' from triggering catastrophic consequences",
+      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
       "link": "",
-      "summary": "",
+      "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
       "published": "",
-      "title_zh": "俄罗斯警告美国盟友，距离引发灾难性后果“仅一步之遥”"
+      "title_zh": "尼泊尔洪水后获救的97岁老妇看起来像“战士”",
+      "summary_zh": "一位 97 岁的妇女古纳·玛雅·博哈拉 (Guna Maya Bohara) 在山洪暴发中幸存下来，并被挖掘机救出。"
     },
     {
-      "title": "Hot takes on accused killer mom Lindsay Clancy could put your paycheck at risk: expert",
+      "title": "'Terrorist connection' over Trump Turnberry vandalism charges",
       "link": "",
-      "summary": "",
+      "summary": "Seven people accused of causing damage at Trump's resort could receive longer sentences if convicted.",
       "published": "",
-      "title_zh": "专家称，对被指控的杀手妈妈林赛·克兰西的热门言论可能会让你的薪水面临风险"
+      "title_zh": "特朗普坦伯利破坏指控“与恐怖分子有联系”",
+      "summary_zh": "如果罪名成立，七名被指控在特朗普度假村造成破坏的人可能会被判处更长的刑期。"
     },
     {
-      "title": "Dems derided Trump’s midterm gamble — until he ended up winning big",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "link": "",
-      "summary": "",
+      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
       "published": "",
-      "title_zh": "民主党嘲笑特朗普的中期赌博——直到他最终赢得了巨额奖金"
+      "title_zh": "右翼评论员米洛·扬诺普洛斯 (Milo Yiannopoulos) 被 ICE 拘留",
+      "summary_zh": "这位在美国生活和工作的英国公民过去曾支持特朗普和 ICE 特工。"
     },
     {
-      "title": "Massive foodborne illness outbreak spreads as more states report cases",
+      "title": "Norway's 'grandfather': Late King Harald remembered as son Haakon takes the throne",
       "link": "",
-      "summary": "",
+      "summary": "Norwegians paid their respects to the late King Harld after his death on Friday morning.",
       "published": "",
-      "title_zh": "随着更多州报告病例，大规模食源性疾病疫情蔓延"
+      "title_zh": "挪威的“祖父”：已故国王哈拉尔在儿子哈康登基时被纪念",
+      "summary_zh": "周五早上，挪威人在已故国王哈尔德去世后向他表示哀悼。"
     },
     {
-      "title": "Iran addresses reports of potential plot to assassinate Barron Trump",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗回应有关暗杀巴伦·特朗普的潜在阴谋的报道"
-    },
-    {
-      "title": "Rescue teams race to find survivors after devastating flood leaves hundreds dead",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "毁灭性洪水造成数百人死亡后，救援队竞相寻找幸存者"
-    },
-    {
-      "title": "One of the world’s hottest industries is scrambling for skilled workers",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "世界上最热门的行业之一正在争夺熟练工人"
-    },
-    {
-      "title": "Omar hit with tidal wave of criticism after son's home is reportedly raided by police",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "据报道，奥马尔儿子的家遭到警方突击搜查后，奥马尔受到了如潮的批评"
-    },
-    {
-      "title": "Woman who ripped off Amazon for nearly $10M to buy luxury sports cars learns sentence",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "女子从亚马逊诈骗近1000万美元购买豪华跑车被判刑"
-    },
-    {
-      "title": "'Ruthless' dives into Trump, the economy, and the fight to flip a critical Senate seat",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "《无情》深入探讨特朗普、经济以及争夺关键参议院席位的斗争"
-    },
-    {
-      "title": "JESSE WATTERS:These commies are not in the sharing mood, they’re hangry",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杰西·沃特斯：这些共产党人没有分享的心情，他们很饿"
-    },
-    {
-      "title": "Socialist mayoral candidate ignites online mockery for completing basic city service",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "社会主义市长候选人因完成基本城市服务而在网上引发嘲笑"
-    },
-    {
-      "title": "100-mph Texas chase takes stunning turn after suspected smugglers bail out",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "疑似走私者逃走后，德克萨斯州时速 100 英里的追捕行动发生惊人转变"
-    },
-    {
-      "title": "Meteorologist loses it live on air as innocent prank comes back to haunt him",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "气象学家在直播中失去了它，因为无辜的恶作剧又困扰着他"
-    },
-    {
-      "title": "Want to know what's really in your food? The Trump administration is trying to help",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "想知道您的食物中到底含有什么吗？特朗普政府正在努力提供帮助"
-    },
-    {
-      "title": "Nepal army rescues survivors from hydropower tunnel",
-      "link": "",
-      "summary": "Nepal's Prime Minister shared footage showing army personnel rescuing survivors from thick mud following the disaster.",
-      "published": "",
-      "title_zh": "尼泊尔军队营救水电站隧道幸存者",
-      "summary_zh": "尼泊尔总理分享了灾难发生后军队人员从厚厚的泥浆中营救幸存者的视频。"
-    },
-    {
-      "title": "Six months into the Iran war: What has Trump accomplished?",
-      "link": "",
-      "summary": "The BBC's Tom Bateman breaks down what Trump has accomplished during the six month war with Iran.",
-      "published": "",
-      "title_zh": "伊朗战争六个月：特朗普取得了什么成就？",
-      "summary_zh": "BBC 的汤姆·贝特曼详细分析了特朗普在与伊朗的六个月战争期间所取得的成就。"
-    },
-    {
-      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-      "link": "",
-      "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
-      "published": "",
-      "title_zh": "泰特兄弟在英国引渡斗争中寻求保释时抨击美国监狱条件",
-      "summary_zh": "安德鲁和特里斯坦·泰特的法律团队在迈阿密法庭上辩称，两人不存在潜逃风险。"
-    },
-    {
-      "title": "This Indian pilgrim was about to enter Tibet for her dream tour - then her WhatsApp messages stopped",
-      "link": "",
-      "summary": "Her family is among hundreds anxiously waiting for news after the deadly flash floods.",
-      "published": "",
-      "title_zh": "这位印度朝圣者正要进入西藏进行她的梦想之旅，但她的 WhatsApp 消息停止了",
-      "summary_zh": "致命的山洪爆发后，她的家人和数百人一起焦急地等待消息。"
-    },
-    {
-      "title": "King Haakon VIII takes the throne in Norway following death of Harald V",
-      "link": "",
-      "summary": "The Norwegian king died in Oslo's national hospital early Friday morning after serving 35 years on the throne.",
-      "published": "",
-      "title_zh": "哈拉尔五世去世后，挪威国王哈康八世即位",
-      "summary_zh": "挪威国王在位 35 年后于周五凌晨在奥斯陆国立医院去世。"
-    },
-    {
-      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-      "link": "",
-      "summary": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
-      "published": "",
-      "title_zh": "“还不够”——美国家长和青少年谈论 Meta 对年轻用户的新限制",
-      "summary_zh": "作为儿童安全诉讼 180 亿美元和解协议的一部分，Meta 宣布对其应用程序实施新的限制。我们询问了家人的想法。"
-    },
-    {
-      "title": "What we know after the big Grand Theft Auto 6 preview",
-      "link": "",
-      "summary": "The official look at the blockbuster video game leaves fans and critics impressed.",
-      "published": "",
-      "title_zh": "侠盗猎车手 6 预览后我们知道了什么",
-      "summary_zh": "这款热门视频游戏的官方外观给粉丝和评论家留下了深刻的印象。"
-    },
-    {
-      "title": "Watch: Blocked roads and devastation as BBC drives to site of Nepal floods",
-      "link": "",
-      "summary": "South Asia correspondent Azadeh Moshiri reports as she travels from Kathmandu to Trishuli, passing ambulances and hearses on the way.",
-      "published": "",
-      "title_zh": "观看：BBC 驱车前往尼泊尔洪水现场时，道路被封锁，造成的破坏",
-      "summary_zh": "南亚记者阿扎德·莫希里 (Azadeh Moshiri) 从加德满都前往特里苏利 (Trishuli) 途中经过救护车和灵车进行报道。"
-    },
-    {
-      "title": "The heartbreak of reporting from a camp housing Nepal flood survivors",
-      "link": "",
-      "summary": "A BBC Nepali reporter witnesses helicopters coming and going in one of the most flood-devastated areas.",
-      "published": "",
-      "title_zh": "尼泊尔洪水幸存者营地的报道令人心碎",
-      "summary_zh": "一名 BBC 尼泊尔记者目睹直升机在受洪水破坏最严重的地区之一来来往往。"
-    },
-    {
-      "title": "Watch: Rescuers fear this new barrier lake could cause second Nepal-Tibet flood",
+      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
       "link": "",
       "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
       "published": "",
-      "title_zh": "观察：救援人员担心这个新的堰塞湖可能会引发第二次尼泊尔-西藏洪水",
+      "title_zh": "观看：为什么救援人员担心新的堰塞湖可能会导致另一场尼泊尔-西藏洪水",
       "summary_zh": "劳拉·比克 (Laura Bicker) 解释了最近尼泊尔和西藏边境附近发生山体滑坡后形成的湖泊如何引发人们对第二次洪水的担忧。"
     },
     {
-      "title": "'High risk' of lake breaching and causing second flood, warns China",
+      "title": "Videos show people survive floodwaters on balcony in Nepal",
       "link": "",
-      "summary": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
+      "summary": "BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.",
       "published": "",
-      "title_zh": "中国警告称，湖泊决口并引发第二次洪水的“风险很高”",
-      "summary_zh": "当局表示，尼泊尔和西藏边境附近最近发生山体滑坡后形成的湖泊可能在未来几天决口。"
+      "title_zh": "视频显示尼泊尔洪水中人们在阳台上幸存",
+      "summary_zh": "在致命的洪水席卷之后，BBC verify 找到了 Trishuli 河受灾地区的几段视频。"
     },
     {
-      "title": "Rohingya refugees face fierce new wave of hostility in Malaysia",
+      "title": "What we know about deadly Nepal-Tibet floods",
       "link": "",
-      "summary": "A community that has long felt beleagured is looking over its shoulder again.",
+      "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
       "published": "",
-      "title_zh": "罗兴亚难民在马来西亚面临新一波激烈的敌意",
-      "summary_zh": "一个长期感到陷入困境的社区正在再次警惕。"
+      "title_zh": "我们对尼泊尔和西藏致命洪水的了解",
+      "summary_zh": "周三尼泊尔和西藏边境发生洪水和山体滑坡，造成数百人死亡、数千人失踪。"
     },
     {
-      "title": "Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO's Harry Potter series?",
+      "title": "The heartbreak of reporting from a camp housing survivors",
       "link": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "summary": "A BBC Nepali reporter witnesses helicopters coming and going in one of the most flood-devastated areas.",
       "published": "",
-      "title_zh": "每周测验：谁将接替 HBO 哈利波特系列剧中的吉德罗·洛哈特？",
-      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+      "title_zh": "幸存者营地的报道令人心碎",
+      "summary_zh": "一名 BBC 尼泊尔记者目睹直升机在受洪水破坏最严重的地区之一来来往往。"
     },
     {
-      "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
+      "title": "'Not far enough': Parents and teens on Meta's new limits for young users",
       "link": "",
-      "summary": "The disorder may affect hundreds of thousands in the UK, but many face delays in getting a diagnosis.",
+      "summary": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
       "published": "",
-      "title_zh": "过度活动——一种鲜为人知的“弯曲病”，会导致疼痛和疲劳",
-      "summary_zh": "这种疾病可能影响英国数十万人，但许多人面临诊断延迟。"
+      "title_zh": "“还不够”：家长和青少年对 Meta 对年轻用户的新限制",
+      "summary_zh": "作为儿童安全诉讼 180 亿美元和解协议的一部分，Meta 宣布对其应用程序实施新的限制。我们询问了家人的想法。"
     },
     {
-      "title": "Who is Norway's new King Haakon VIII?",
+      "title": "A summer of foodborne illness is already testing Trump's pick for top regulator",
+      "link": "",
+      "summary": "Heidi Overton has been tapped to lead the Food and Drug Administration. But some worry she will pick loyalty to Trump over science.",
+      "published": "",
+      "title_zh": "一个夏天的食源性疾病已经在考验特朗普对最高监管者的选择",
+      "summary_zh": "海蒂·奥弗顿 (Heidi Overton) 已被任命领导食品和药物管理局。但有些人担心她会选择忠于特朗普而不是科学。"
+    },
+    {
+      "title": "Norway's King Haakon begins reign after turbulent year",
       "link": "",
       "summary": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
       "published": "",
-      "title_zh": "谁是挪威新国王哈康八世？",
+      "title_zh": "挪威国王哈康在经历动荡的一年后开始统治",
       "summary_zh": "哈康在挪威君主政体动荡的时期成为国王。"
     },
     {
-      "title": "Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?",
+      "title": "World's youngest reigning traditional monarch dies aged 34",
       "link": "",
-      "summary": "Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope in a pandemic-riddled world.",
+      "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
       "published": "",
-      "title_zh": "雅各布·埃洛迪 (Jacob Elordi) 讲述为什么《狗星》让他问“我的生活中缺少什么”？",
-      "summary_zh": "雷德利·斯科特爵士的这部后世界末日史诗探讨了在大流行病肆虐的世界中的希望之情。"
+      "title_zh": "世界上最年轻的传统君主去世，享年34岁",
+      "summary_zh": "奥约国王三岁时就登上了乌干达托罗王国的王位。"
+    },
+    {
+      "title": "Pete Hegseth is talking about a possible run for president in 2028, sources say",
+      "link": "https://www.nbcnews.com/politics/2028-election/pete-hegseth-talking-possible-run-president-2028-sources-say-rcna594891",
+      "summary": "",
+      "published": "",
+      "title_zh": "消息人士称，皮特·赫格斯 (Pete Hegseth) 正在谈论 2028 年总统竞选的可能性"
+    },
+    {
+      "title": "Nearly 2,000 people now missing in Nepal as death toll from floods hits 579",
+      "link": "https://www.nbcnews.com/world/asia/live-blog/live-updates-nepal-china-flood-rescue-teams-search-flood-survivors-rcna594833",
+      "summary": "",
+      "published": "",
+      "title_zh": "尼泊尔洪灾死亡人数达579人，近2000人失踪"
+    },
+    {
+      "title": "ICE arrests far-right commentator Milo Yiannopoulos",
+      "link": "https://www.nbcnews.com/news/us-news/milo-yiannopoulos-arrested-ice-immigration-rcna594925",
+      "summary": "",
+      "published": "",
+      "title_zh": "ICE 逮捕极右翼评论员 Milo Yiannopoulos"
+    },
+    {
+      "title": "ICE plans to buy robot ‘dogs’ for some immigration enforcement operations",
+      "link": "https://www.nbcnews.com/politics/immigration/ice-buy-robot-dogs-immigration-enforcement-rcna594897",
+      "summary": "",
+      "published": "",
+      "title_zh": "ICE 计划购买机器人“狗”用于一些移民执法行动"
+    },
+    {
+      "title": "A Hollywood bodyguard who had Trump’s back seeks presidential pardon",
+      "link": "https://www.nbcnews.com/news/us-news/hollywood-trump-pardon-clemency-zito-rcna594774",
+      "summary": "",
+      "published": "",
+      "title_zh": "支持特朗普的好莱坞保镖寻求总统赦免"
+    },
+    {
+      "title": "Trump signs order to create space-focused military academy",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-space-academy-nasa-military-rcna594870",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普签署命令创建以太空为重点的军事学院"
+    },
+    {
+      "title": "Montana shooter’s parents encouraged him to move months before the attack, family says",
+      "link": "https://www.nbcnews.com/news/us-news/montana-shooters-parents-encouraged-move-months-attack-family-says-rcna594758",
+      "summary": "",
+      "published": "",
+      "title_zh": "家人称，蒙大拿州枪击案凶手的父母在袭击发生前几个月鼓励他搬家"
+    },
+    {
+      "title": "Will ‘Coyote vs. Acme’ get the last laugh?",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/coyote-vs-acme-warner-bros-discovery-castoff-now-being-released-rcna594459",
+      "summary": "",
+      "published": "",
+      "title_zh": "《Coyote vs. Acme》会笑到最后吗？"
+    },
+    {
+      "title": "Kevin Warsh walks a fine line on inflation in key speech",
+      "link": "https://www.nbcnews.com/business/economy/trumps-kevin-warsh-jackson-hole-inflation-rcna594135",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯文·沃什 (Kevin Warsh) 在关键演讲中在通胀问题上保持谨慎态度"
+    },
+    {
+      "title": "MTV for MAGA",
+      "link": "https://www.nbcnews.com/politics/politics-news/mtv-maga-conservative-network-real-americas-voice-entertainment-rcna587335",
+      "summary": "",
+      "published": "",
+      "title_zh": "MTV 为 MAGA"
+    },
+    {
+      "title": "Bombshell ruling in case against alleged 9/11 mastermind",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "对涉嫌 9/11 策划案的重磅裁决"
+    },
+    {
+      "title": "TV reporter films encampment outside her own son's college housing in viral post",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "电视记者在自己儿子大学宿舍外的营地拍摄了病毒帖子"
+    },
+    {
+      "title": "Milo Yiannopoulos arrested by ICE, held at major deportation hub in Louisiana",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "米洛·扬诺普洛斯 (Milo Yiannopoulos) 被 ICE 逮捕，关押在路易斯安那州的主要驱逐中心"
+    },
+    {
+      "title": "Lindsay Clancy's attorney makes candid admission after jury leaves without a verdict",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "陪审团未作出裁决就离开后，林赛·克兰西的律师坦白承认"
+    },
+    {
+      "title": "Deadly danger mounts in Persian Gulf as thousands of sailors stranded at sea",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "数千名水手滞留在波斯湾，致命危险加剧"
+    },
+    {
+      "title": "Violent family feud in Middle East leads cops to a stunning ancient secret",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "中东的暴力家庭恩怨让警察发现了一个令人震惊的古老秘密"
+    },
+    {
+      "title": "Rory McIlroy makes mistake in $10 million tournament, announcer rips him",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "罗里·麦克罗伊 (Rory McIlroy) 在 1000 万美元锦标赛中犯错，播音员撕碎他"
+    },
+    {
+      "title": "Jelly Roll reveals where he stands politically after Trump jokes spark backlash",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在特朗普的笑话引发强烈反对后，果冻卷揭示了他的政治立场"
+    },
+    {
+      "title": "Election fraud arrests begin as WH takes victory lap around doubting critics",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "白宫在质疑批评者面前取得胜利后，选举舞弊逮捕行动开始"
+    },
+    {
+      "title": "Jerry Sandusky heads back to court after key witness recants his testimony",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "关键证人撤回证词后，杰里·桑达斯基重返法庭"
+    },
+    {
+      "title": "Transgender Canadian golfer sends defiant message to critics as wins pile up",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着胜利的积累，加拿大变性高尔夫球手向批评者发出挑衅的信息"
+    },
+    {
+      "title": "ADL leader warns of 'institutionalized antisemitism' in teachers unions",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "ADL 领导人警告教师工会存在“制度化的反犹太主义”"
+    },
+    {
+      "title": "Demi Lovato flaunts her figure in colorful string bikini during tropical escape",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "黛米·洛瓦托 (Demi Lovato) 在热带度假期间穿着彩色比基尼炫耀自己的身材"
+    },
+    {
+      "title": "Woman accused of spray painting WWII Memorial indicted by federal grand jury",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "被指控喷漆二战纪念碑的女子被联邦大陪审团起诉"
+    },
+    {
+      "title": "Florida Dem Senate candidate Angie Nixon compares herself to Jesus Christ",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达州民主党参议员候选人安吉·尼克松将自己比作耶稣基督"
+    },
+    {
+      "title": "Vendors face financial ruin as Buffalo convention center pulls plug on hiring event",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "布法罗会议中心停止招聘活动，供应商面临财务破产"
+    },
+    {
+      "title": "Nepal rescues hundreds from tunnel but 100 more still missing after landslide",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "尼泊尔从隧道中救出数百人，但山体滑坡后仍有100人失踪"
+    },
+    {
+      "title": "Hillary Clinton's response to Trump's Great Lake name change triggers viral backlash",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "希拉里·克林顿对特朗普改名“五大湖”的回应引发病毒式反弹"
+    },
+    {
+      "title": "President signs order creating Space Force Academy during Houston ceremony",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "总统在休斯顿仪式上签署创建太空军学院的命令"
+    },
+    {
+      "title": "Enes Freedom vs Natasha Cloud controversy explodes as dramatic backstory surfaces",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着戏剧性的背景故事浮出水面，埃内斯自由与娜塔莎克劳德的争议爆发"
     }
   ]
 }
