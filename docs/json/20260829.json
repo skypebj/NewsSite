@@ -1,6 +1,6 @@
 {
   "date": "20260829",
-  "total": 27,
+  "total": 26,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,206 +33,190 @@
   },
   "entries": [
     {
-      "title": "Trump says U.S. has struck deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "link": "https://www.nbcnews.com/world/venezuela/us-entered-deal-venezuela-take-control-65-billion-barrels-oil-reserves-rcna594966",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普称美国已与委内瑞拉达成协议，控制650亿桶石油储备"
-    },
-    {
-      "title": "White House teleprompter operator ordered to pay $172K for placing bets on speeches",
-      "link": "https://www.nbcnews.com/politics/white-house/trump-teleprompter-operator-ordered-pay-172k-prediction-bets-kalshi-rcna594976",
-      "summary": "",
-      "published": "",
-      "title_zh": "白宫提词器操作员因对演讲下注被责令支付 17.2 万美元"
-    },
-    {
-      "title": "Who’s tracking the risks from peptides? In many cases, no one",
-      "link": "https://www.nbcnews.com/health/health-news/peptide-risks-adverse-side-effects-research-how-safe-rfk-jr-bpc-157-rcna593393",
-      "summary": "",
-      "published": "",
-      "title_zh": "谁在追踪肽的风险？很多情况下，没有人"
-    },
-    {
-      "title": "She advocated for police families dealing with suicide. Her death stunned them.",
-      "link": "https://www.nbcnews.com/news/us-news/officers-wife-advocated-police-families-dealing-suicide-death-stunned-rcna594608",
-      "summary": "",
-      "published": "",
-      "title_zh": "她倡导警察家属处理自杀问题。她的死令他们震惊。"
-    },
-    {
-      "title": "Former NBA pick crashes Fever game in blonde wig to 'scout competition'",
+      "title": "Premier League: Munoz rescues Liverpool draw against Forest",
       "link": "",
-      "summary": "",
+      "summary": "Follow live text coverage, analysis, radio commentary and watch Final Score with four Premier League games on Saturday.",
       "published": "",
-      "title_zh": "前NBA新秀戴着金色假发参加“球探竞赛”"
+      "title_zh": "英超联赛：穆尼奥斯拯救利物浦战平森林队",
+      "summary_zh": "关注周六的四场英超联赛的实时文字报道、分析、广播评论并观看最终比分。"
     },
     {
-      "title": "Trump announces ‘biggest oil deal in world history,’ says it will significantly lower gas prices",
+      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
       "link": "",
-      "summary": "",
+      "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
       "published": "",
-      "title_zh": "特朗普宣布“世界历史上最大的石油交易”，称这将大幅降低天然气价格"
+      "title_zh": "消息人士称，莎拉·弗格森预计“很快”回到英国",
+      "summary_zh": "据报道，前约克公爵夫人正在家乡各县租用一套有六张床的房子。"
     },
     {
-      "title": "Matt Walsh brands Michelle Obama a 'raging narcissist' over her empty-nest remarks",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "link": "",
-      "summary": "",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "published": "",
-      "title_zh": "马特·沃尔什因米歇尔·奥巴马的空巢言论而称她为“愤怒的自恋者”"
+      "title_zh": "基辅武器库遭袭 至少37人死亡 数百人撤离",
+      "summary_zh": "一项针对乌克兰军队在居民区附近储存武器的调查已经开始。"
     },
     {
-      "title": "Woman dragged along track after being thrown from seat in roller coaster, lawyer says",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
       "link": "",
-      "summary": "",
+      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
       "published": "",
-      "title_zh": "律师称，一名女子在过山车上被从座位上扔下来后被拖到轨道上"
+      "title_zh": "前白宫提词器操作员被勒令为特朗普演讲投注支付 172,000 美元",
+      "summary_zh": "这名工作人员被发现利用他对总统演讲的事先了解进行了利润丰厚的赌注。"
     },
     {
-      "title": "Abbott takes aim at controversial AI cameras watching vehicles across Texas",
-      "link": "",
+      "title": "In East Tennessee, the question isn’t whether to kill the Flock cameras. It’s how.",
+      "link": "https://www.nbcnews.com/tech/security/flock-tennessee-house-race-candidate-shot-arrest-vote-rcna594284",
       "summary": "",
       "published": "",
-      "title_zh": "雅培瞄准了有争议的人工智能摄像头，监视德克萨斯州的车辆"
+      "title_zh": "在田纳西州东部，问题不在于是否要关闭 Flock 摄像机。就是这样。"
     },
     {
-      "title": "Umpire goes 0-for-8 on ABS challenges in what's believed to be the worst goose egg ever",
-      "link": "",
+      "title": "Dozens of Americans remain missing in Nepal as families anxiously await news",
+      "link": "https://www.nbcnews.com/world/asia/dozens-americans-remain-missing-nepal-family-friends-anxiously-await-n-rcna594709",
       "summary": "",
       "published": "",
-      "title_zh": "裁判在 ABS 挑战中 8 投 0 负，这被认为是有史以来最糟糕的鹅蛋"
+      "title_zh": "数十名美国人在尼泊尔失踪，家人焦急地等待消息"
     },
     {
-      "title": "'What did I do?': Wanted man walks into Panda Express where cops recognize him",
+      "title": "How the Lindsay Clancy trial became a national media spectacle",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-trial-became-national-media-spectacle-rcna594776",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西审判如何成为全国媒体焦点"
+    },
+    {
+      "title": "Dolly Parton’s legacy revered and Trump renames another body of water: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/dolly-partons-legacy-revered-trump-renames-another-body-water-news-qui-rcna594744",
+      "summary": "",
+      "published": "",
+      "title_zh": "多莉·帕顿的遗产受到尊重，特朗普重新命名了另一片水域：新闻测验"
+    },
+    {
+      "title": "For years, he begged for answers after his daughter’s murder. Then came a breakthrough.",
+      "link": "https://www.nbcnews.com/dateline/video/sneak-peek-the-other-side-of-paradise-keith-morrison-reports-on-the-sandra-galas-case-friday-dateline-268771909930",
+      "summary": "",
+      "published": "",
+      "title_zh": "多年来，他在女儿被谋杀后一直寻求答案。然后出现了突破。"
+    },
+    {
+      "title": "Iran's supreme leader makes striking admission as US pressure campaign ramps up",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“我做了什么？”：通缉犯走进熊猫快车，警察认出了他"
+      "title_zh": "美国加大施压力度，伊朗最高领导人惊人承认"
     },
     {
-      "title": "'GUTFELD!':This is Trump’s ‘most consequential’ executive order yet",
+      "title": "Michelle Obama branded a 'raging narcissist' over her empty-nest remarks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“GUTFELD！”：这是特朗普迄今为止“最重要”的行政命令"
+      "title_zh": "米歇尔·奥巴马因其空巢言论而被称为“愤怒的自恋者”"
     },
     {
-      "title": "Caitlin Clark, Kelsey Mitchell each score 34 as Fever rout Sun before World Cup break",
+      "title": "Comedian warns millennials are 'living in hell on earth' thanks to boomer parents",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 和凯尔西·米切尔 (Kelsey Mitchell) 各得 34 分，热队在世界杯休息前击败太阳队"
+      "title_zh": "喜剧演员警告说，由于婴儿潮一代的父母，千禧一代“生活在人间地狱”"
     },
     {
-      "title": "Transgender athlete mocks critics as victories over women pile up",
+      "title": "Over 9,000 bones still unexamined as new questions raised in serial killer mystery",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "变性运动员嘲笑批评者，因为对女性的胜利越来越多"
+      "title_zh": "连环杀手之谜提出新问题，仍有超过 9,000 块骨头尚未检查"
     },
     {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "title": "Expert sounds alarm over key reasons he thinks Minnesota's fraud is still occurring",
       "link": "",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "summary": "",
       "published": "",
-      "title_zh": "中国没有播放西藏洪水的镜头——我们对那里的受害者知之甚少",
-      "summary_zh": "这场致命的山洪爆发中一些最引人注目的镜头在中国的公众视野中是隐藏的。"
+      "title_zh": "专家对他认为明尼苏达州欺诈行为仍在发生的关键原因发出警报"
     },
     {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by US immigration",
+      "title": "Dem candidate erupts in profane defense of Hasan Piker as party figures distance",
       "link": "",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+      "summary": "",
       "published": "",
-      "title_zh": "右翼评论员米洛·扬诺普洛斯被美国移民局拘留",
-      "summary_zh": "这位在美国生活和工作的英国公民过去曾支持特朗普和 ICE 特工。"
+      "title_zh": "民主党候选人爆发对哈桑·皮克的亵渎辩护，因为党内人士表示疏远"
     },
     {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "title": "SpaceX picks Louisiana and it proves the left's economic playbook dead wrong",
       "link": "",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议",
-      "summary_zh": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。"
+      "title_zh": "SpaceX 选择路易斯安那州，证明左派的经济策略是完全错误的"
     },
     {
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "title": "Strange crime-scene clues blow hole in theory of mom’s mysterious death, family says",
       "link": "",
-      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "summary": "",
       "published": "",
-      "title_zh": "9/11 劫机者的女房东透露了他们与涉嫌沙特间谍的联系",
-      "summary_zh": "一名向两名基地组织成员出租房屋的妇女首次向 BBC 公开讲话。"
+      "title_zh": "家人称，奇怪的犯罪现场线索推翻了母亲神秘死亡的理论"
     },
     {
-      "title": "Watch: 'He's losing it' - Americans react to Lake Ontario name change",
+      "title": "Dolly Parton's favorite comfort foods reflected a lifetime of Southern tradition",
       "link": "",
-      "summary": "US President Donald Trump has signed an executive order seeking to change the name of one of the Great Lakes to Lake America.",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：“他正在失去它”——美国人对安大略湖更名的反应",
-      "summary_zh": "美国总统唐纳德·特朗普签署了一项行政命令，寻求将五大湖之一的名称更改为美洲湖。"
+      "title_zh": "多莉·帕顿 (Dolly Parton) 最喜欢的舒适食品反映了一生的南方传统"
     },
     {
-      "title": "What tariffs will really cost Canadians and Americans",
+      "title": "Nancy Grace lays out 'harsh truth' as Lindsay Clancy case reaches pivotal moment",
       "link": "",
-      "summary": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
+      "summary": "",
       "published": "",
-      "title_zh": "哪些关税真正会让加拿大人和美国人付出代价",
-      "summary_zh": "一年多来，家庭和企业已经习惯了关税影响生活成本，那么现在会发生什么变化呢？"
+      "title_zh": "林赛·克兰西案进入关键时刻，南希·格蕾丝说出了“残酷的事实”"
     },
     {
-      "title": "The race to stop England running out of water",
+      "title": "Pastor who ripped Sharia law in viral video issues grave warning on Dem nominee El-Sayed",
       "link": "",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "summary": "",
       "published": "",
-      "title_zh": "阻止英格兰缺水的竞赛",
-      "summary_zh": "谁该为夏季干旱负责？英格兰能否保证其供水的未来安全？"
+      "title_zh": "在病毒视频中撕毁伊斯兰教法的牧师对民主党提名人赛义德发出严重警告"
     },
     {
-      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+      "title": "Young gun left millions on table so his future teammates 'can get paid'",
       "link": "",
-      "summary": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
+      "summary": "",
       "published": "",
-      "title_zh": "Charli XCX 以跨时代的布景为阅读节注入活力",
-      "summary_zh": "英国歌手和爱尔兰摇滚乐队 Fontaines DC 都成为 2026 年雷丁首夜的主角。"
+      "title_zh": "年轻的枪手留下了数百万美元，这样他未来的队友就可以“得到报酬”"
     },
     {
-      "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+      "title": "GREG GUTFELD:This is Trump’s ‘most consequential’ executive order yet",
       "link": "",
-      "summary": "Young consumers are choosing cold, customisable drinks and coffee chains are racing to catch up.",
+      "summary": "",
       "published": "",
-      "title_zh": "忘记星巴克咖啡吧——Z 世代喜欢他们的冰镇饮料",
-      "summary_zh": "年轻消费者正在选择可定制的冷饮，咖啡连锁店也在竞相追赶。"
+      "title_zh": "格雷格·古菲尔德：这是特朗普迄今为止“最重要”的行政命令"
     },
     {
-      "title": "Canada poaches dozens of top US researchers for its universities",
+      "title": "New Trump birthright orders could actually stick, right-wing lawyers say",
       "link": "",
-      "summary": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+      "summary": "",
       "published": "",
-      "title_zh": "加拿大为其大学挖走数十名美国顶尖研究人员",
-      "summary_zh": "新的研究资金正在吸引气候和医学等领域的研究人员北上。"
+      "title_zh": "右翼律师表示，特朗普的新出生权令实际上可能会持续下去"
     },
     {
-      "title": "Watch: Marchers reflect on voting rights 63 years after 'I have a dream' speech",
+      "title": "March on Washington attendees reveal how far they'd go to remake US political system",
       "link": "",
-      "summary": "This year's March on Washington, held annually to commemorate Martin Luther King's historic speech, called on strengthening voting rights.",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：“我有一个梦想”演讲 63 年后，游行者反思投票权",
-      "summary_zh": "今年的华盛顿游行每年都会举行，纪念马丁·路德·金的历史性演讲，呼吁加强投票权。"
+      "title_zh": "华盛顿游行参与者透露他们将在多大程度上重塑美国政治体系"
     },
     {
-      "title": "How one of the 'most powerful hacks' to control stress actually works",
+      "title": "Mica Miller’s siblings reveal new claim about pastor husband before her death",
       "link": "",
-      "summary": "We spoke to experts about how the breathing technique used by soldiers and influencers works.",
+      "summary": "",
       "published": "",
-      "title_zh": "控制压力的“最强大的技巧”之一实际上是如何发挥作用的",
-      "summary_zh": "我们与专家讨论了士兵和影响者使用的呼吸技术的工作原理。"
+      "title_zh": "米卡·米勒的兄弟姐妹在她去世前透露了关于牧师丈夫的新说法"
     },
     {
-      "title": "Tennessee governor plans to name Nashville airport after Dolly Parton",
+      "title": "Crackdown on critical tech could open Americans to a new national security threat",
       "link": "",
-      "summary": "Thousands of fans have signed an online petition asking the airport to be named after her.",
+      "summary": "",
       "published": "",
-      "title_zh": "田纳西州州长计划以多莉·帕顿的名字命名纳什维尔机场",
-      "summary_zh": "数千名粉丝在网上请愿书上签名，要求机场以她的名字命名。"
+      "title_zh": "对关键技术的打击可能会让美国人面临新的国家安全威胁"
     }
   ]
 }
