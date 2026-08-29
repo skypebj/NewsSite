@@ -1,6 +1,6 @@
 {
   "date": "20260829",
-  "total": 26,
+  "total": 29,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,190 +33,213 @@
   },
   "entries": [
     {
-      "title": "Premier League: Munoz rescues Liverpool draw against Forest",
-      "link": "",
-      "summary": "Follow live text coverage, analysis, radio commentary and watch Final Score with four Premier League games on Saturday.",
-      "published": "",
-      "title_zh": "英超联赛：穆尼奥斯拯救利物浦战平森林队",
-      "summary_zh": "关注周六的四场英超联赛的实时文字报道、分析、广播评论并观看最终比分。"
-    },
-    {
-      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
-      "link": "",
-      "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
-      "published": "",
-      "title_zh": "消息人士称，莎拉·弗格森预计“很快”回到英国",
-      "summary_zh": "据报道，前约克公爵夫人正在家乡各县租用一套有六张床的房子。"
-    },
-    {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "link": "",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "published": "",
-      "title_zh": "基辅武器库遭袭 至少37人死亡 数百人撤离",
-      "summary_zh": "一项针对乌克兰军队在居民区附近储存武器的调查已经开始。"
-    },
-    {
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "link": "",
-      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-      "published": "",
-      "title_zh": "前白宫提词器操作员被勒令为特朗普演讲投注支付 172,000 美元",
-      "summary_zh": "这名工作人员被发现利用他对总统演讲的事先了解进行了利润丰厚的赌注。"
-    },
-    {
-      "title": "In East Tennessee, the question isn’t whether to kill the Flock cameras. It’s how.",
-      "link": "https://www.nbcnews.com/tech/security/flock-tennessee-house-race-candidate-shot-arrest-vote-rcna594284",
-      "summary": "",
-      "published": "",
-      "title_zh": "在田纳西州东部，问题不在于是否要关闭 Flock 摄像机。就是这样。"
-    },
-    {
-      "title": "Dozens of Americans remain missing in Nepal as families anxiously await news",
-      "link": "https://www.nbcnews.com/world/asia/dozens-americans-remain-missing-nepal-family-friends-anxiously-await-n-rcna594709",
-      "summary": "",
-      "published": "",
-      "title_zh": "数十名美国人在尼泊尔失踪，家人焦急地等待消息"
-    },
-    {
-      "title": "How the Lindsay Clancy trial became a national media spectacle",
-      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-trial-became-national-media-spectacle-rcna594776",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西审判如何成为全国媒体焦点"
-    },
-    {
-      "title": "Dolly Parton’s legacy revered and Trump renames another body of water: The news quiz",
-      "link": "https://www.nbcnews.com/news/news-quiz/dolly-partons-legacy-revered-trump-renames-another-body-water-news-qui-rcna594744",
-      "summary": "",
-      "published": "",
-      "title_zh": "多莉·帕顿的遗产受到尊重，特朗普重新命名了另一片水域：新闻测验"
-    },
-    {
-      "title": "For years, he begged for answers after his daughter’s murder. Then came a breakthrough.",
-      "link": "https://www.nbcnews.com/dateline/video/sneak-peek-the-other-side-of-paradise-keith-morrison-reports-on-the-sandra-galas-case-friday-dateline-268771909930",
-      "summary": "",
-      "published": "",
-      "title_zh": "多年来，他在女儿被谋杀后一直寻求答案。然后出现了突破。"
-    },
-    {
-      "title": "Iran's supreme leader makes striking admission as US pressure campaign ramps up",
+      "title": "Child prodigy rejected by 16 elite schools gets win in racial discrimination case",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国加大施压力度，伊朗最高领导人惊人承认"
+      "title_zh": "被16所名校拒绝的神童在种族歧视案中获胜"
     },
     {
-      "title": "Michelle Obama branded a 'raging narcissist' over her empty-nest remarks",
+      "title": "Bill Maher pushes Byron Donalds on racism after GOP win and gets blunt response",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "米歇尔·奥巴马因其空巢言论而被称为“愤怒的自恋者”"
+      "title_zh": "共和党获胜后，比尔·马赫就种族主义问题向拜伦·唐纳德提出质​​疑，并得到直率回应"
     },
     {
-      "title": "Comedian warns millennials are 'living in hell on earth' thanks to boomer parents",
+      "title": "Iran issues ominous warning as US ramps up its 'Economic D-Day' pressure campaign",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "喜剧演员警告说，由于婴儿潮一代的父母，千禧一代“生活在人间地狱”"
+      "title_zh": "美国加大“经济诺曼底登陆”施压力度，伊朗发出不祥警告"
     },
     {
-      "title": "Over 9,000 bones still unexamined as new questions raised in serial killer mystery",
+      "title": "Parent storms field during youth football game and trips 9-year-old kid",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "连环杀手之谜提出新问题，仍有超过 9,000 块骨头尚未检查"
+      "title_zh": "青少年足球比赛期间家长闯入球场并绊倒9岁孩子"
     },
     {
-      "title": "Expert sounds alarm over key reasons he thinks Minnesota's fraud is still occurring",
+      "title": "How Trump's historic Venezuela deal could slash gas prices for generations",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家对他认为明尼苏达州欺诈行为仍在发生的关键原因发出警报"
+      "title_zh": "特朗普历史性的委内瑞拉协议将如何大幅削减几代人的天然气价格"
     },
     {
-      "title": "Dem candidate erupts in profane defense of Hasan Piker as party figures distance",
+      "title": "Retirees are flocking to this coastal alternative to Florida and Arizona",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党候选人爆发对哈桑·皮克的亵渎辩护，因为党内人士表示疏远"
+      "title_zh": "退休人员纷纷涌向这个佛罗里达州和亚利桑那州以外的沿海地区"
     },
     {
-      "title": "SpaceX picks Louisiana and it proves the left's economic playbook dead wrong",
+      "title": "Ella Langley seemingly fires back after pop star's brutal country music takedown",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "SpaceX 选择路易斯安那州，证明左派的经济策略是完全错误的"
+      "title_zh": "艾拉·兰利 (Ella Langley) 似乎在流行歌星野蛮乡村音乐被打压后进行了反击"
     },
     {
-      "title": "Strange crime-scene clues blow hole in theory of mom’s mysterious death, family says",
+      "title": "Police bodycam shows moment 49ers owner arrested in prostitution sting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "家人称，奇怪的犯罪现场线索推翻了母亲神秘死亡的理论"
+      "title_zh": "警方随身摄像机显示 49 人队老板因卖淫被捕的瞬间"
     },
     {
-      "title": "Dolly Parton's favorite comfort foods reflected a lifetime of Southern tradition",
+      "title": "'Convert or get hurt' phrase reportedly echoes through UK cells as Islamist gangs grow",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "多莉·帕顿 (Dolly Parton) 最喜欢的舒适食品反映了一生的南方传统"
+      "title_zh": "据报道，随着伊斯兰帮派的壮大，“皈依或受到伤害”这句话在英国牢房中回响"
     },
     {
-      "title": "Nancy Grace lays out 'harsh truth' as Lindsay Clancy case reaches pivotal moment",
+      "title": "Teen boys are skipping showers before dates and calling it a strategy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西案进入关键时刻，南希·格蕾丝说出了“残酷的事实”"
+      "title_zh": "十几岁的男孩在约会前不洗澡并称之为一种策略"
     },
     {
-      "title": "Pastor who ripped Sharia law in viral video issues grave warning on Dem nominee El-Sayed",
+      "title": "Couple unearths 150-pound statue from their backyard as buried secret emerges",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在病毒视频中撕毁伊斯兰教法的牧师对民主党提名人赛义德发出严重警告"
+      "title_zh": "夫妇从后院挖出 150 磅重的雕像，埋藏的秘密浮出水面"
     },
     {
-      "title": "Young gun left millions on table so his future teammates 'can get paid'",
+      "title": "DAVID MARCUS:Democrat's reason for axing Confederate doctor's monument draws fierce ridicule",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "年轻的枪手留下了数百万美元，这样他未来的队友就可以“得到报酬”"
+      "title_zh": "大卫·马库斯：民主党砍倒南部邦联医生纪念碑的原因引来激烈嘲笑"
     },
     {
-      "title": "GREG GUTFELD:This is Trump’s ‘most consequential’ executive order yet",
+      "title": "Wisconsin candidate’s disclosure reveals Soros-linked income after primary",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "格雷格·古菲尔德：这是特朗普迄今为止“最重要”的行政命令"
+      "title_zh": "威斯康星州候选人的披露揭示了初选后与索罗斯相关的收入"
     },
     {
-      "title": "New Trump birthright orders could actually stick, right-wing lawyers say",
+      "title": "High school football game ends with a trick play Hail Mary that left fans speechless",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "右翼律师表示，特朗普的新出生权令实际上可能会持续下去"
+      "title_zh": "高中橄榄球比赛以一场让球迷哑口无言的魔术《万福玛丽》结束"
     },
     {
-      "title": "March on Washington attendees reveal how far they'd go to remake US political system",
+      "title": "RFK Jr. warns colorectal cancer rates are climbing at alarming pace in young Americans",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "华盛顿游行参与者透露他们将在多大程度上重塑美国政治体系"
+      "title_zh": "RFK Jr. 警告美国年轻人结直肠癌发病率正以惊人的速度上升"
     },
     {
-      "title": "Mica Miller’s siblings reveal new claim about pastor husband before her death",
+      "title": "Hasan Piker's antisemitism uproar follows Abdul El-Sayed into clash on MS NOW",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "米卡·米勒的兄弟姐妹在她去世前透露了关于牧师丈夫的新说法"
+      "title_zh": "哈桑·皮克 (Hasan Piker) 的反犹太主义骚动继阿卜杜勒·赛义德 (Abdul El-Sayed) 与 MS NOW 发生冲突之后"
     },
     {
-      "title": "Crackdown on critical tech could open Americans to a new national security threat",
+      "title": "‘Quiet quitting’ marriage trend has surprising warning sign couples may overlook",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "对关键技术的打击可能会让美国人面临新的国家安全威胁"
+      "title_zh": "“安静戒烟”婚姻趋势有令人惊讶的警告信号，夫妻可能会忽视"
+    },
+    {
+      "title": "Death toll surges after Nepal-China border mudslides, thousands still missing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "中尼边境泥石流造成死亡人数激增 数千人失踪"
+    },
+    {
+      "title": "Death toll climbs to more than 600, with 2,400 still missing as rescue efforts continue",
+      "link": "https://www.nbcnews.com/world/asia/nepal-floods-death-toll-climbs-missing-rescue-efforts-rcna594990",
+      "summary": "",
+      "published": "",
+      "title_zh": "救援工作仍在继续，死亡人数攀升至 600 多人，仍有 2,400 人失踪"
+    },
+    {
+      "title": "Palestinian woman and NBC News team attacked by masked Israeli settlers in West Bank",
+      "link": "https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024",
+      "summary": "",
+      "published": "",
+      "title_zh": "巴勒斯坦妇女和 NBC 新闻团队在约旦河西岸遭到蒙面以色列定居者袭击"
+    },
+    {
+      "title": "Former detainees with medical conditions detail fear of tuberculosis at ICE facility",
+      "link": "https://www.nbcnews.com/news/us-news/former-detainees-medical-conditions-detail-fear-getting-tuberculosis-c-rcna594790",
+      "summary": "",
+      "published": "",
+      "title_zh": "患有健康状况的前被拘留者详细描述了对 ICE 设施中患结核病的恐惧"
+    },
+    {
+      "title": "Milo Yiannopoulos deported to the U.K. one day after ICE arrest",
+      "link": "https://www.nbcnews.com/news/us-news/milo-yiannopoulos-deported-uk-rcna595025",
+      "summary": "",
+      "published": "",
+      "title_zh": "米洛·扬诺普洛斯 (Milo Yiannopoulos) 在 ICE 逮捕一天后被驱逐到英国"
+    },
+    {
+      "title": "NASA readies to launch its next-generation space telescope",
+      "link": "https://www.nbcnews.com/science/space/nasa-space-telescope-launch-nancy-grace-roman-rcna593182",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国宇航局准备发射下一代太空望远镜"
+    },
+    {
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "link": "",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "published": "",
+      "title_zh": "右翼评论员米洛·扬诺普洛斯 (Milo Yiannopoulos) 从美国被驱逐到英国",
+      "summary_zh": "这位自称煽动者的人已被移民和海关执法局 (ICE) 拘留。"
+    },
+    {
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "link": "",
+      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "published": "",
+      "title_zh": "挪威新国王在第一次演讲中缅怀“我亲爱的父亲”",
+      "summary_zh": "哈康八世向已故的父亲哈拉尔五世致以深切的敬意，然后概述了他希望如何统治。"
+    },
+    {
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "link": "",
+      "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
+      "published": "",
+      "title_zh": "澳大利亚通常会举办世界上最大的墨鱼交配活动 - 但今年不是",
+      "summary_zh": "据官方数据，今年仅有 1,811 只乌贼进行交配，比去年减少了 97%。"
+    },
+    {
+      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
+      "link": "",
+      "summary": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
+      "published": "",
+      "title_zh": "多莉·帕顿 (Dolly Parton) 的父亲不识字，这激励她向数百万儿童送书",
+      "summary_zh": "全球各地的家庭分享帕顿想象力图书馆的免费书籍如何帮助他们的孩子。"
+    },
+    {
+      "title": "Itauma v Hrgovic - heavyweight world title fight predictions",
+      "link": "",
+      "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight world title fight between Moses Itauma and Filip Hrgovic.",
+      "published": "",
+      "title_zh": "Itauma 诉 Hrgovic - 重量级世界冠军争夺战预测",
+      "summary_zh": "来自拳击界的人物对周六摩西·伊塔玛 (Moses Itauma) 和菲利普·赫尔戈维奇 (Filip Hrgovic) 之间的重量级世界冠军争夺战进行了预测。"
+    },
+    {
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "link": "",
+      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+      "published": "",
+      "title_zh": "西方官员称，俄罗斯言辞激烈，但希望避免与北约发生战争",
+      "summary_zh": "但他们表示，莫斯科可能会继续针对北约成员国采取“混合活动”，而不采取直接军事行动。"
     }
   ]
 }
