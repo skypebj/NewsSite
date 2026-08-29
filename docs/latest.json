@@ -1,6 +1,6 @@
 {
   "date": "20260829",
-  "total": 29,
+  "total": 13,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,213 +33,95 @@
   },
   "entries": [
     {
-      "title": "Child prodigy rejected by 16 elite schools gets win in racial discrimination case",
+      "title": "Taylor Swift donates $50,000 to a Rhode Island mother who was left seriously injured in car accident",
+      "link": "https://www.nbcnews.com/news/us-news/taylor-swift-donates-50000-injured-mom-rcna595037",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒·斯威夫特 (Taylor Swift) 向罗德岛州一位在车祸中受重伤的母亲捐赠 50,000 美元"
+    },
+    {
+      "title": "Trump turns economic offensive on a critical lifeline keeping Iran’s cash flowing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被16所名校拒绝的神童在种族歧视案中获胜"
+      "title_zh": "特朗普将经济攻势转向保持伊朗现金流的关键生命线"
     },
     {
-      "title": "Bill Maher pushes Byron Donalds on racism after GOP win and gets blunt response",
+      "title": "Royce White upstages Simone Biles at WNBA game, says team had no notice",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党获胜后，比尔·马赫就种族主义问题向拜伦·唐纳德提出质​​疑，并得到直率回应"
+      "title_zh": "罗伊斯·怀特在 WNBA 比赛中抢了西蒙·拜尔斯的风头，称球队没有注意到"
     },
     {
-      "title": "Iran issues ominous warning as US ramps up its 'Economic D-Day' pressure campaign",
+      "title": "Pabst's viral ultimatum after massive California cargo vanishes without a trace",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国加大“经济诺曼底登陆”施压力度，伊朗发出不祥警告"
+      "title_zh": "加州大量货物消失无踪后，帕布斯特发出病毒式最后通牒"
     },
     {
-      "title": "Parent storms field during youth football game and trips 9-year-old kid",
+      "title": "All-white attire required as hundreds descend on a secret spot tonight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "青少年足球比赛期间家长闯入球场并绊倒9岁孩子"
+      "title_zh": "今晚数百人聚集在一个秘密地点，要求穿着全白服装"
     },
     {
-      "title": "How Trump's historic Venezuela deal could slash gas prices for generations",
+      "title": "Socialist momentum will trigger a 2028 Democratic 'reckoning,' Carville predicts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普历史性的委内瑞拉协议将如何大幅削减几代人的天然气价格"
+      "title_zh": "卡维尔预测，社会主义势头将引发2028年民主党的“清算”"
     },
     {
-      "title": "Retirees are flocking to this coastal alternative to Florida and Arizona",
+      "title": "El-Sayed dodges onslaught of questions on major campaign scandal at key Dem convention",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "退休人员纷纷涌向这个佛罗里达州和亚利桑那州以外的沿海地区"
+      "title_zh": "埃尔-赛义德在关键的民主党大会上回避了有关重大竞选丑闻的猛烈提问"
     },
     {
-      "title": "Ella Langley seemingly fires back after pop star's brutal country music takedown",
+      "title": "Bill Maher turns Trump lake controversy against liberals with savage punchline",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "艾拉·兰利 (Ella Langley) 似乎在流行歌星野蛮乡村音乐被打压后进行了反击"
+      "title_zh": "比尔·马赫用野蛮的妙语将特朗普湖的争议转向自由派"
     },
     {
-      "title": "Police bodycam shows moment 49ers owner arrested in prostitution sting",
+      "title": "11th Circuit wipes out ruling on Georgia's maps, sends it back to judge",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警方随身摄像机显示 49 人队老板因卖淫被捕的瞬间"
+      "title_zh": "第十一巡回法院废除了佐治亚州地图上的裁决，并将其发回法官"
     },
     {
-      "title": "'Convert or get hurt' phrase reportedly echoes through UK cells as Islamist gangs grow",
+      "title": "Sydney Sweeney leaves little to imagination in racy new lingerie photos",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据报道，随着伊斯兰帮派的壮大，“皈依或受到伤害”这句话在英国牢房中回响"
+      "title_zh": "悉尼·斯威尼 (Sydney Sweeney) 的性感新内衣照片几乎没有留下任何想象空间"
     },
     {
-      "title": "Teen boys are skipping showers before dates and calling it a strategy",
+      "title": "Milo Yiannopoulos deported after ICE arrest as DHS touts Trump immigration crackdown",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "十几岁的男孩在约会前不洗澡并称之为一种策略"
+      "title_zh": "米洛·扬诺普洛斯 (Milo Yiannopoulos) 在 ICE 逮捕后被驱逐出境，国土安全部宣扬特朗普镇压移民政策"
     },
     {
-      "title": "Couple unearths 150-pound statue from their backyard as buried secret emerges",
+      "title": "TUNE IN:President Trump joins 'Sunday Night in America' for an exclusive interview",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "夫妇从后院挖出 150 磅重的雕像，埋藏的秘密浮出水面"
+      "title_zh": "收看：特朗普总统接受“美国周日之夜”独家采访"
     },
     {
-      "title": "DAVID MARCUS:Democrat's reason for axing Confederate doctor's monument draws fierce ridicule",
+      "title": "Sword-wielding man killed by police as woman reportedly held against will",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大卫·马库斯：民主党砍倒南部邦联医生纪念碑的原因引来激烈嘲笑"
-    },
-    {
-      "title": "Wisconsin candidate’s disclosure reveals Soros-linked income after primary",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "威斯康星州候选人的披露揭示了初选后与索罗斯相关的收入"
-    },
-    {
-      "title": "High school football game ends with a trick play Hail Mary that left fans speechless",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "高中橄榄球比赛以一场让球迷哑口无言的魔术《万福玛丽》结束"
-    },
-    {
-      "title": "RFK Jr. warns colorectal cancer rates are climbing at alarming pace in young Americans",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "RFK Jr. 警告美国年轻人结直肠癌发病率正以惊人的速度上升"
-    },
-    {
-      "title": "Hasan Piker's antisemitism uproar follows Abdul El-Sayed into clash on MS NOW",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "哈桑·皮克 (Hasan Piker) 的反犹太主义骚动继阿卜杜勒·赛义德 (Abdul El-Sayed) 与 MS NOW 发生冲突之后"
-    },
-    {
-      "title": "‘Quiet quitting’ marriage trend has surprising warning sign couples may overlook",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "“安静戒烟”婚姻趋势有令人惊讶的警告信号，夫妻可能会忽视"
-    },
-    {
-      "title": "Death toll surges after Nepal-China border mudslides, thousands still missing",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "中尼边境泥石流造成死亡人数激增 数千人失踪"
-    },
-    {
-      "title": "Death toll climbs to more than 600, with 2,400 still missing as rescue efforts continue",
-      "link": "https://www.nbcnews.com/world/asia/nepal-floods-death-toll-climbs-missing-rescue-efforts-rcna594990",
-      "summary": "",
-      "published": "",
-      "title_zh": "救援工作仍在继续，死亡人数攀升至 600 多人，仍有 2,400 人失踪"
-    },
-    {
-      "title": "Palestinian woman and NBC News team attacked by masked Israeli settlers in West Bank",
-      "link": "https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024",
-      "summary": "",
-      "published": "",
-      "title_zh": "巴勒斯坦妇女和 NBC 新闻团队在约旦河西岸遭到蒙面以色列定居者袭击"
-    },
-    {
-      "title": "Former detainees with medical conditions detail fear of tuberculosis at ICE facility",
-      "link": "https://www.nbcnews.com/news/us-news/former-detainees-medical-conditions-detail-fear-getting-tuberculosis-c-rcna594790",
-      "summary": "",
-      "published": "",
-      "title_zh": "患有健康状况的前被拘留者详细描述了对 ICE 设施中患结核病的恐惧"
-    },
-    {
-      "title": "Milo Yiannopoulos deported to the U.K. one day after ICE arrest",
-      "link": "https://www.nbcnews.com/news/us-news/milo-yiannopoulos-deported-uk-rcna595025",
-      "summary": "",
-      "published": "",
-      "title_zh": "米洛·扬诺普洛斯 (Milo Yiannopoulos) 在 ICE 逮捕一天后被驱逐到英国"
-    },
-    {
-      "title": "NASA readies to launch its next-generation space telescope",
-      "link": "https://www.nbcnews.com/science/space/nasa-space-telescope-launch-nancy-grace-roman-rcna593182",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国宇航局准备发射下一代太空望远镜"
-    },
-    {
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "link": "",
-      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "published": "",
-      "title_zh": "右翼评论员米洛·扬诺普洛斯 (Milo Yiannopoulos) 从美国被驱逐到英国",
-      "summary_zh": "这位自称煽动者的人已被移民和海关执法局 (ICE) 拘留。"
-    },
-    {
-      "title": "Norway's new king remembers 'my dear father' in first speech",
-      "link": "",
-      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-      "published": "",
-      "title_zh": "挪威新国王在第一次演讲中缅怀“我亲爱的父亲”",
-      "summary_zh": "哈康八世向已故的父亲哈拉尔五世致以深切的敬意，然后概述了他希望如何统治。"
-    },
-    {
-      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-      "link": "",
-      "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
-      "published": "",
-      "title_zh": "澳大利亚通常会举办世界上最大的墨鱼交配活动 - 但今年不是",
-      "summary_zh": "据官方数据，今年仅有 1,811 只乌贼进行交配，比去年减少了 97%。"
-    },
-    {
-      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
-      "link": "",
-      "summary": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
-      "published": "",
-      "title_zh": "多莉·帕顿 (Dolly Parton) 的父亲不识字，这激励她向数百万儿童送书",
-      "summary_zh": "全球各地的家庭分享帕顿想象力图书馆的免费书籍如何帮助他们的孩子。"
-    },
-    {
-      "title": "Itauma v Hrgovic - heavyweight world title fight predictions",
-      "link": "",
-      "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight world title fight between Moses Itauma and Filip Hrgovic.",
-      "published": "",
-      "title_zh": "Itauma 诉 Hrgovic - 重量级世界冠军争夺战预测",
-      "summary_zh": "来自拳击界的人物对周六摩西·伊塔玛 (Moses Itauma) 和菲利普·赫尔戈维奇 (Filip Hrgovic) 之间的重量级世界冠军争夺战进行了预测。"
-    },
-    {
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "link": "",
-      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "published": "",
-      "title_zh": "西方官员称，俄罗斯言辞激烈，但希望避免与北约发生战争",
-      "summary_zh": "但他们表示，莫斯科可能会继续针对北约成员国采取“混合活动”，而不采取直接军事行动。"
+      "title_zh": "持剑男子被警方击毙，据称女子被强行扣押"
     }
   ]
 }
