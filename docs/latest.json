@@ -1,6 +1,6 @@
 {
   "date": "20260830",
-  "total": 33,
+  "total": 29,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,244 +33,216 @@
   },
   "entries": [
     {
-      "title": "‘Monumental’ fraud scandal leads to call for Trump help as Newsom doubles down",
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "link": "",
+      "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+      "published": "",
+      "title_zh": "尼泊尔洪水袭击学校前几分钟，校长疏散了 900 名儿童",
+      "summary_zh": "拉金德拉·达瓦迪 (Rajendra Dawadi) 收到洪水向学校涌去的警告后立即采取行动。"
+    },
+    {
+      "title": "Iceland votes against restarting EU membership talks",
+      "link": "",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "published": "",
+      "title_zh": "冰岛投票反对重启欧盟成员国谈判",
+      "summary_zh": "RUV 广播公司报道称，52.8% 的选民拒绝了政府恢复入盟谈判的提议。"
+    },
+    {
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "link": "",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "published": "",
+      "title_zh": "渡轮在塞浦路斯北部倾覆，造成八人死亡、多人失踪",
+      "summary_zh": "一艘载有近270人的渡轮在离港后翻覆，目前搜救工作正在进行中。"
+    },
+    {
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "link": "",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "published": "",
+      "title_zh": "“一次巨大的飞跃”：美国宇航局发射强大的新型太空望远镜来探索宇宙的奥秘",
+      "summary_zh": "美国航天局的望远镜正在启动一项为期多年的任务，以绘制新的宇宙地图并更多地了解暗能量和暗物质。"
+    },
+    {
+      "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+      "link": "",
+      "summary": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+      "published": "",
+      "title_zh": "州长告诉 BBC，提前释放的囚犯正在迅速返回监狱",
+      "summary_zh": "周日，总理安迪·伯纳姆 (Andy Burnham) 宣布对下一个提前释放计划（计划于 10 月开始）进行修改，这意味着杀害 PC Harper 的凶手将继续入狱。"
+    },
+    {
+      "title": "Cleverly quits shadow cabinet to run for London mayor",
+      "link": "",
+      "summary": "The capital is not set to vote on a new mayor until 2028.",
+      "published": "",
+      "title_zh": "巧妙退出影子内阁竞选伦敦市长",
+      "summary_zh": "首都要到 2028 年才会投票选出新市长。"
+    },
+    {
+      "title": "How did Rashford do on return to Man Utd XI? Player ratings",
+      "link": "",
+      "summary": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
+      "published": "",
+      "title_zh": "拉什福德重返曼联后表现如何？球员评分",
+      "summary_zh": "曼联和伊普斯维奇的球员在英超比赛后的评价。"
+    },
+    {
+      "title": "Tour Championship final round: Hovland leads Scheffler by one, Rose hits ace, McIlroy toiling",
+      "link": "",
+      "summary": "Follow live text commentary of the final round of the PGA Tour's final play-off event to crown the FedEx Cup champion.",
+      "published": "",
+      "title_zh": "巡回锦标赛最后一轮：霍夫兰领先舍夫勒一杆，罗斯打出王牌，麦克罗伊辛苦了",
+      "summary_zh": "关注 PGA 巡回赛决赛附加赛最后一轮的实时文字评论，加冕联邦快递杯冠军。"
+    },
+    {
+      "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
+      "link": "",
+      "summary": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
+      "published": "",
+      "title_zh": "为什么切尔西需要的不仅仅是新门将才能成为冠军挑战者",
+      "summary_zh": "切尔西新门将埃米利亚诺·马丁内斯在 4-3 战胜布莱顿的比赛中首次亮相，但他无法独自解决新俱乐部的防守问题。"
+    },
+    {
+      "title": "Mass shootings erupt less than 15 minutes apart leaving 3 dead, 18 wounded",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽森加大力度应对“重大”欺诈丑闻，呼吁特朗普提供帮助"
+      "title_zh": "大规模枪击事件间隔不到 15 分钟就爆发，造成 3 人死亡、18 人受伤"
     },
     {
-      "title": "Iceland voters say no to EU negotiations as Trump's Greenland push looms large",
+      "title": "The country with more oil than Saudi Arabia just struck a deal with Trump",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普大力推动格陵兰岛，冰岛选民对欧盟谈判说不"
+      "title_zh": "石油产量超过沙特阿拉伯的国家刚刚与特朗普达成协议"
     },
     {
-      "title": "Jimi Hendrix’s last words to roadie came after outlaw motorcycle club chaos",
+      "title": "Dolly Parton's funniest quotes prove the country legend never took herself too seriously",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "吉米·亨德里克斯在非法摩托车俱乐部混乱之后对巡演说的最后一句话"
+      "title_zh": "多莉·帕顿最有趣的名言证明这位乡村传奇人物从未把自己太当回事"
     },
     {
-      "title": "Scenic tourist getaway rattled by bloodshed as pastor says leaders ignored warnings",
+      "title": "University president defends durag ban, warns grads face a world that won't bend for them",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "牧师称领导人无视警告，风景秀丽的旅游胜地因流血事件而陷入混乱"
+      "title_zh": "大学校长捍卫杜拉格禁令，警告毕业生面临一个不会为他们屈服的世界"
     },
     {
-      "title": "Retired officers say governor 'forfeited her right' to stand at sacred 9/11 site",
+      "title": "Chicago's war on ICE escalates as Johnson wields $3B in city contracts as a weapon",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "退休官员称州长“丧失了站在9/11圣地的权利”"
+      "title_zh": "约翰逊以价值 30 亿美元的城市合同作为武器，芝加哥与 ICE 的战争升级"
     },
     {
-      "title": "Craftsman says he was 'starstruck' when meeting Vance family",
+      "title": "SSNs, banking details and health records exposed in 3.75M-person breach",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "工匠说，当他见到万斯一家时，他“被明星迷住了”"
+      "title_zh": "375 万人的社会安全号码、银行详细信息和健康记录遭到泄露"
     },
     {
-      "title": "Mayor faces pushback after challenging Dolly Parton flag tribute",
+      "title": "Trump goes after the companies ranchers blame for the beef price squeeze",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "市长挑战多莉帕顿国旗致敬后面临阻力"
+      "title_zh": "特朗普追究牧场主对牛肉价格紧缩的责任"
     },
     {
-      "title": "649 years ago, a prominent Muslim scholar warned us about Mayor Mamdani's ideas",
+      "title": "From kitchenware to cutting-edge infrastructure, an American giant is growing fast",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "649 年前，一位著名的穆斯林学者警告我们马姆达尼市长的想法"
+      "title_zh": "从厨具到尖端基础设施，美国巨头快速成长"
     },
     {
-      "title": "Iran's reclusive supreme leader calls on neighboring nations to confront US",
+      "title": "Four foods you should never store in the freezer and where to keep them instead",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗隐居最高领袖呼吁邻国对抗美国"
+      "title_zh": "四种绝对不应该存放在冰箱中的食物以及它们的存放位置"
     },
     {
-      "title": "Venezuela's new US oil deal comes with a staggering revenue projection",
+      "title": "California weighs recognizing Eid holidays as bill advances toward Newsom's desk",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "委内瑞拉与美国的新石油协议带来了惊人的收入预测"
+      "title_zh": "随着法案向纽瑟姆的办公桌推进，加州正在考虑承认开斋节假期"
     },
     {
-      "title": "NFL star wide receiver arrested on DUI charges in Indianapolis",
+      "title": "Iran's supreme leader urges Muslim countries to confront the 'real enemy'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 明星外接手因酒驾指控在印第安纳波利斯被捕"
+      "title_zh": "伊朗最高领袖敦促穆斯林国家对抗“真正的敌人”"
     },
     {
-      "title": "Passenger jets fly over a packed stadium at an altitude that defies belief",
+      "title": "Canada blasted for alleged roadblocks as Christian leaders rally to open US doors",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "客机以难以置信的高度飞越拥挤的体育场"
+      "title_zh": "基督教领袖集会打开美国大门，加拿大因涉嫌设置路障而受到抨击"
     },
     {
-      "title": "Republicans tighten screws as Sherrill response intensifies new phase of voter probe",
+      "title": "Newly minted Hall of Famer publicly tells Barry Bonds 'you got a shot, man'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "谢里尔回应加强新阶段选民调查，共和党人收紧螺丝"
+      "title_zh": "新晋名人堂成员公开告诉巴里·邦兹“你有机会，伙计”"
     },
     {
-      "title": "Federal court rules South Carolina's mail-in age exemption unconstitutional",
+      "title": "Usha Vance reveals the hardest part of being second lady",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦法院裁定南卡罗来纳州邮寄年龄豁免违宪"
+      "title_zh": "乌莎·万斯揭示了作为第二夫人最困难的部分"
     },
     {
-      "title": "University president defends strict new dress code for students",
+      "title": "Colorado city leader dies after collapsing on popular 14,000-foot mountain hike",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学校长捍卫学生严格的新着装规范"
+      "title_zh": "科罗拉多州领导人在热门的 14,000 英尺山徒步旅行中晕倒后去世"
     },
     {
-      "title": "Governor's center gambit could wipe out red state income tax entirely",
+      "title": "Trump vows to report Kristen Welker to the FCC over her endorsement take",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "州长的中间策略可能会完全消除红州所得税"
+      "title_zh": "特朗普发誓要向美国联邦通信委员会举报克里斯汀·韦尔克的背书行为"
     },
     {
-      "title": "Why Dolly Parton’s death can feel like losing someone you knew personally",
+      "title": "Actor unloads on California as he reveals why he’s ‘done’ with state for good",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "为什么多莉·帕顿的死会让你感觉就像失去了一个你认识的人"
+      "title_zh": "演员在加利福尼亚州大放异彩，揭示了他为何永远“不再”加州了"
     },
     {
-      "title": "Retirees are flocking to a coastal getaway — and the boom is taking a toll",
-      "link": "",
+      "title": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
+      "link": "https://www.nbcnews.com/politics/congress/ted-cruz-elections-venezuela-oil-maduro-delcy-rodriguez-rcna595110",
       "summary": "",
       "published": "",
-      "title_zh": "退休人员涌向沿海度假胜地——繁荣正在造成损失"
+      "title_zh": "参议员特德·克鲁兹呼吁委内瑞拉“迅速”进行选举"
     },
     {
-      "title": "Fears of more flooding in Nepal as rescue efforts intensify, 100 Americans missing",
-      "link": "https://www.nbcnews.com/world/asia/fears-flooding-nepal-100-americans-missing-rescue-efforts-step-rcna595093",
+      "title": "Rep. Jim Clyburn says impeaching Trump shouldn’t be Democrats’ priority if they win back the House",
+      "link": "https://www.nbcnews.com/politics/congress/jim-clyburn-impeaching-trump-shouldnt-democrats-priority-win-house-rcna595118",
       "summary": "",
       "published": "",
-      "title_zh": "随着救援工作的加强，担心尼泊尔发生更多洪水，100名美国人失踪"
+      "title_zh": "众议员吉姆·克莱伯恩表示，如果民主党赢回众议院，弹劾特朗普不应该成为民主党的首要任务"
     },
     {
-      "title": "At least 7 dead after ferry carrying nearly 270 people capsizes off northern Cyprus",
-      "link": "https://www.nbcnews.com/world/europe/ferry-carrying-260-passengers-capsizes-northern-cyprus-rcna595101",
+      "title": "The cost of despair: Preventable deaths surging among Latinos in the U.S., data shows",
+      "link": "https://www.nbcnews.com/health/health-news/hispanic-deaths-suicide-alcohol-rising-data-rcna593787",
       "summary": "",
       "published": "",
-      "title_zh": "载有近270人的渡轮在塞浦路斯北部倾覆 至少7人死亡"
-    },
-    {
-      "title": "Unsealed court documents reveal State Farm saved $1.4 billion as weather, roof claims worsened",
-      "link": "https://www.nbcnews.com/business/business-news/unsealed-court-documents-reveal-state-farm-saved-14-billion-weather-ro-rcna594377",
-      "summary": "",
-      "published": "",
-      "title_zh": "未密封的法庭文件显示，由于天气和屋顶索赔恶化，State Farm 节省了 14 亿美元"
-    },
-    {
-      "title": "We’re not weird, you’re weird: Republicans use Democrats’ 2024 attack against them for midterms",
-      "link": "https://www.nbcnews.com/politics/2026-election/republicans-use-democrats-2024-weird-attack-line-midterms-rcna594462",
-      "summary": "",
-      "published": "",
-      "title_zh": "我们不奇怪，你才奇怪：共和党利用民主党的2024年中期选举攻击他们"
-    },
-    {
-      "title": "Iran’s supreme leader urges Gulf rulers to confront ‘real enemy’ in written message",
-      "link": "https://www.nbcnews.com/world/iran/irans-mojtaba-khamenei-urges-gulf-rulers-message-rcna595092",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗最高领导人在书面信息中敦促海湾统治者面对“真正的敌人”"
-    },
-    {
-      "title": "1 dead and 5 wounded in shooting at Swiss rave, suspect remains at large",
-      "link": "https://www.nbcnews.com/world/europe/shooting-rave-switzerland-rcna595099",
-      "summary": "",
-      "published": "",
-      "title_zh": "瑞士狂欢节枪击案致1死5伤 嫌疑人仍逍遥法外"
-    },
-    {
-      "title": "Seven killed and 23 missing after boat capsizes near Cyprus, says Turkish Cypriot PM",
-      "link": "",
-      "summary": "The Turkish Interior Ministry says the ship began taking on water four nautical miles off Kyrenia Port, as a search and rescue operation is under way.",
-      "published": "",
-      "title_zh": "土族塞人总理称，塞浦路斯附近船只倾覆，造成 7 人死亡、23 人失踪",
-      "summary_zh": "土耳其内政部表示，该船开始在距离凯里尼亚港四海里处下水，搜救行动正在进行中。"
-    },
-    {
-      "title": "British woman killed in stabbing at German railway station",
-      "link": "",
-      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
-      "published": "",
-      "title_zh": "英国女子在德国火车站被刺伤身亡",
-      "summary_zh": "巴伐利亚州罗森海姆事件发生后，一名 27 岁德国男子立即被捕。"
-    },
-    {
-      "title": "Iceland votes against restarting talks on joining EU",
-      "link": "",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
-      "published": "",
-      "title_zh": "冰岛投票反对重启加入欧盟谈判",
-      "summary_zh": "RUV 广播公司报道称，52.8% 的选民拒绝了政府恢复谈判的提议。"
-    },
-    {
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "link": "",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-      "published": "",
-      "title_zh": "瑞士狂欢节枪击事件导致 22 岁女子死亡，五人受伤",
-      "summary_zh": "在苏黎世附近的一场科技活动中发生枪击事件后，另外五名二十多岁的人受伤。"
-    },
-    {
-      "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
-      "link": "",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-      "published": "",
-      "title_zh": "WhatsApp 群聊曾用于发送数百万现金，资助犯罪和极端主义",
-      "summary_zh": "WhatsApp 洗钱者在英国和世界各地安排现金转账，没有任何书面记录。"
-    },
-    {
-      "title": "Five-year-old girl rescued from collapsed building after days",
-      "link": "",
-      "summary": "Police said Manisha is safe and being cared for in hospital, after she was trapped under debris since the Nepal-Tibet flash flooding.",
-      "published": "",
-      "title_zh": "几天后，五岁女孩从倒塌的建筑物中被救出",
-      "summary_zh": "警方表示，尼泊尔-西藏山洪爆发后，玛尼莎被困在废墟中，目前她很安全，正在医院接受治疗。"
-    },
-    {
-      "title": "I was told I was unworthy to be a mother, then they stole my baby",
-      "link": "",
-      "summary": "Marion McMillan was one of about 250,000 women who were forced to have their babies adopted between 1949 and 1976.",
-      "published": "",
-      "title_zh": "有人告诉我我不配当母亲，然后他们偷走了我的孩子",
-      "summary_zh": "1949 年至 1976 年间，约有 25 万名妇女被迫收养婴儿，玛丽昂·麦克米伦 (Marion McMillan) 就是其中之一。"
-    },
-    {
-      "title": "Former Ecuadorian president imprisoned for corruption",
-      "link": "",
-      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-      "published": "",
-      "title_zh": "厄瓜多尔前总统因腐败入狱",
-      "summary_zh": "莱宁·莫雷诺否认从一家中国公司收受贿赂以获得建造水力发电厂的合同。"
-    },
-    {
-      "title": "Two missing as French fishing boat sinks in Channel",
-      "link": "",
-      "summary": "Three of the five crew members were rescued and taken to hospital, the coastguard says.",
-      "published": "",
-      "title_zh": "法国渔船在英吉利海峡沉没，两人失踪",
-      "summary_zh": "海岸警卫队称，五名船员中的三人获救并被送往医院。"
+      "title_zh": "绝望的代价：数据显示，美国拉丁裔可预防的死亡人数激增"
     }
   ]
 }
