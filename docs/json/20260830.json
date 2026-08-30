@@ -1,6 +1,6 @@
 {
   "date": "20260830",
-  "total": 29,
+  "total": 24,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,216 +33,176 @@
   },
   "entries": [
     {
-      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "title": "US forces strike Iranian missile launchers on Larak Island",
       "link": "",
-      "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+      "summary": "",
       "published": "",
-      "title_zh": "尼泊尔洪水袭击学校前几分钟，校长疏散了 900 名儿童",
-      "summary_zh": "拉金德拉·达瓦迪 (Rajendra Dawadi) 收到洪水向学校涌去的警告后立即采取行动。"
+      "title_zh": "美军袭击拉拉克岛上的伊朗导弹发射器"
     },
     {
-      "title": "Iceland votes against restarting EU membership talks",
+      "title": "Mass shootings erupt less than 15 minutes apart, leaving 3 dead, 23 wounded",
       "link": "",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "summary": "",
       "published": "",
-      "title_zh": "冰岛投票反对重启欧盟成员国谈判",
-      "summary_zh": "RUV 广播公司报道称，52.8% 的选民拒绝了政府恢复入盟谈判的提议。"
+      "title_zh": "间隔不到15分钟就爆发大规模枪击事件，造成3人死亡、23人受伤"
     },
     {
-      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "title": "Trump says he will report Kristen Welker to FCC over 'purposeful inaccuracy'",
       "link": "",
-      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "summary": "",
       "published": "",
-      "title_zh": "渡轮在塞浦路斯北部倾覆，造成八人死亡、多人失踪",
-      "summary_zh": "一艘载有近270人的渡轮在离港后翻覆，目前搜救工作正在进行中。"
+      "title_zh": "特朗普表示，他将向联邦通信委员会举报克里斯汀·韦尔克“故意失实”"
     },
     {
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "title": "Americans warned to rethink travel plans as terrorism threatens popular destination",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于恐怖主义威胁热门目的地，美国人警告重新考虑旅行计划"
+    },
+    {
+      "title": "Grand Canyon flood sparks urgent plea as more than 20 remain unaccounted for",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大峡谷洪水引发紧急呼吁 20 多人仍下落不明"
+    },
+    {
+      "title": "Retired legend agrees to $20M deal chasing one goal he never accomplished",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "退役传奇人物同意达成 2000 万美元的交易，追逐他从未实现的目标"
+    },
+    {
+      "title": "Scott Wolf's wife speaks out, apologizes to the actor and their kids after diagnosis",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "斯科特·沃尔夫的妻子在确诊后发声，向演员及其孩子道歉"
+    },
+    {
+      "title": "FSU nearly blown out by a 4-8 squad and Norvell's job could be on the line",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "FSU差点被4-8的阵容击败，诺维尔的工作可能岌岌可危"
+    },
+    {
+      "title": "Swimsuit model Jena Sims breaks out the worm on the course for wholesome golf content",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泳装模特 Jena Sims 在球场上驱除蠕虫，提供健康的高尔夫内容"
+    },
+    {
+      "title": "Border czar reveals the sensitive-location enforcement guidelines are gone",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "边境沙皇透露敏感地点执法指南已消失"
+    },
+    {
+      "title": "Ancient ruins hidden for centuries found near city of Jonah and St Peter",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "约拿城和圣彼得城附近发现了隐藏了几个世纪的古代遗址"
+    },
+    {
+      "title": "Trump maintains Russia will not strike NATO allies",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普坚称俄罗斯不会袭击北约盟国"
+    },
+    {
+      "title": "Ivanka Trump hits the waves for a surfing lesson in Costa Rica during family vacation",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊万卡·特朗普 (Ivanka Trump) 在哥斯达黎加家庭度假期间参加冲浪课程"
+    },
+    {
+      "title": "Christie Brinkley stuns alongside daughter Sailor Brinkley Cook at John Mayer's show",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯蒂·布林克利 (Christie Brinkley) 与女儿水手布林克利·库克 (Sailor Brinkley Cook) 在约翰·梅尔 (John Mayer) 秀场上惊艳亮相"
+    },
+    {
+      "title": "Trump tells Canadian companies to move to US ‘immediately’ over trade",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普告诉加拿大公司“立即”就贸易问题迁往美国"
+    },
+    {
+      "title": "U.S. forces strike Iranian rocket launchers on the strait in first military action in weeks",
+      "link": "https://www.nbcnews.com/politics/national-security/us-forces-strike-iranian-rocket-launchers-strait-hormuz-first-military-rcna595194",
+      "summary": "",
+      "published": "",
+      "title_zh": "美军袭击海峡上的伊朗火箭发射器，这是数周来的首次军事行动"
+    },
+    {
+      "title": "Here’s the biggest news you missed this weekend",
+      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-30-rcna594948",
+      "summary": "",
+      "published": "",
+      "title_zh": "这是您本周末错过的最大新闻"
+    },
+    {
+      "title": "At least 20 missing at Grand Canyon after extreme flash flooding",
+      "link": "https://www.nbcnews.com/news/us-news/20-missing-grand-canyon-extreme-flash-flooding-rcna595197",
+      "summary": "",
+      "published": "",
+      "title_zh": "大峡谷极端山洪暴发 至少20人失踪"
+    },
+    {
+      "title": "Police treated Tupac’s killing as a record label feud. The truth was more complicated.",
+      "link": "https://www.nbcnews.com/news/us-news/investigators-treated-tupacs-killing-record-label-rivalry-30-years-ago-rcna593454",
+      "summary": "",
+      "published": "",
+      "title_zh": "警方将图帕克被杀视为唱片公司之间的不和。事实要复杂得多。"
+    },
+    {
+      "title": "Water cuts are coming for Arizona. Is your salad on the chopping block?",
+      "link": "https://www.nbcnews.com/science/environment/colorado-river-water-cuts-arizona-farming-salad-greens-rcna592937",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚利桑那州即将停水。你的沙拉在砧板上吗？"
+    },
+    {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "",
+      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "published": "",
+      "title_zh": "美国袭击了拉拉克岛上的伊朗发射器，这是数周以来首次已知的袭击",
+      "summary_zh": "伊朗表示，这次袭击造成一些平民死亡，这是自 7 月下旬以来美国首次对伊朗发动袭击。"
+    },
+    {
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "link": "",
       "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
       "published": "",
-      "title_zh": "“一次巨大的飞跃”：美国宇航局发射强大的新型太空望远镜来探索宇宙的奥秘",
+      "title_zh": "“巨大的飞跃”：美国宇航局发射强大的新型太空望远镜",
       "summary_zh": "美国航天局的望远镜正在启动一项为期多年的任务，以绘制新的宇宙地图并更多地了解暗能量和暗物质。"
     },
     {
-      "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
       "link": "",
-      "summary": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+      "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday.",
       "published": "",
-      "title_zh": "州长告诉 BBC，提前释放的囚犯正在迅速返回监狱",
-      "summary_zh": "周日，总理安迪·伯纳姆 (Andy Burnham) 宣布对下一个提前释放计划（计划于 10 月开始）进行修改，这意味着杀害 PC Harper 的凶手将继续入狱。"
+      "title_zh": "“可怕的”山洪袭击大峡谷后徒步旅行者担心失踪",
+      "summary_zh": "周六山洪暴发后，据信有 20 多人下落不明。"
     },
     {
-      "title": "Cleverly quits shadow cabinet to run for London mayor",
+      "title": "Two missing as French trawler sinks in Channel",
       "link": "",
-      "summary": "The capital is not set to vote on a new mayor until 2028.",
+      "summary": "Searches are suspended after operations are carried out for a second day, coastguards say.",
       "published": "",
-      "title_zh": "巧妙退出影子内阁竞选伦敦市长",
-      "summary_zh": "首都要到 2028 年才会投票选出新市长。"
-    },
-    {
-      "title": "How did Rashford do on return to Man Utd XI? Player ratings",
-      "link": "",
-      "summary": "How Manchester United and Ipswich Town's players rated following their Premier League match.",
-      "published": "",
-      "title_zh": "拉什福德重返曼联后表现如何？球员评分",
-      "summary_zh": "曼联和伊普斯维奇的球员在英超比赛后的评价。"
-    },
-    {
-      "title": "Tour Championship final round: Hovland leads Scheffler by one, Rose hits ace, McIlroy toiling",
-      "link": "",
-      "summary": "Follow live text commentary of the final round of the PGA Tour's final play-off event to crown the FedEx Cup champion.",
-      "published": "",
-      "title_zh": "巡回锦标赛最后一轮：霍夫兰领先舍夫勒一杆，罗斯打出王牌，麦克罗伊辛苦了",
-      "summary_zh": "关注 PGA 巡回赛决赛附加赛最后一轮的实时文字评论，加冕联邦快递杯冠军。"
-    },
-    {
-      "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
-      "link": "",
-      "summary": "Chelsea's new goalkeeper Emiliano Martinez made his debut in a thrilling 4-3 win over Brighton - but is unable to solve his new club's defensive problems on his own.",
-      "published": "",
-      "title_zh": "为什么切尔西需要的不仅仅是新门将才能成为冠军挑战者",
-      "summary_zh": "切尔西新门将埃米利亚诺·马丁内斯在 4-3 战胜布莱顿的比赛中首次亮相，但他无法独自解决新俱乐部的防守问题。"
-    },
-    {
-      "title": "Mass shootings erupt less than 15 minutes apart leaving 3 dead, 18 wounded",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大规模枪击事件间隔不到 15 分钟就爆发，造成 3 人死亡、18 人受伤"
-    },
-    {
-      "title": "The country with more oil than Saudi Arabia just struck a deal with Trump",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "石油产量超过沙特阿拉伯的国家刚刚与特朗普达成协议"
-    },
-    {
-      "title": "Dolly Parton's funniest quotes prove the country legend never took herself too seriously",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "多莉·帕顿最有趣的名言证明这位乡村传奇人物从未把自己太当回事"
-    },
-    {
-      "title": "University president defends durag ban, warns grads face a world that won't bend for them",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大学校长捍卫杜拉格禁令，警告毕业生面临一个不会为他们屈服的世界"
-    },
-    {
-      "title": "Chicago's war on ICE escalates as Johnson wields $3B in city contracts as a weapon",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "约翰逊以价值 30 亿美元的城市合同作为武器，芝加哥与 ICE 的战争升级"
-    },
-    {
-      "title": "SSNs, banking details and health records exposed in 3.75M-person breach",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "375 万人的社会安全号码、银行详细信息和健康记录遭到泄露"
-    },
-    {
-      "title": "Trump goes after the companies ranchers blame for the beef price squeeze",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普追究牧场主对牛肉价格紧缩的责任"
-    },
-    {
-      "title": "From kitchenware to cutting-edge infrastructure, an American giant is growing fast",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "从厨具到尖端基础设施，美国巨头快速成长"
-    },
-    {
-      "title": "Four foods you should never store in the freezer and where to keep them instead",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "四种绝对不应该存放在冰箱中的食物以及它们的存放位置"
-    },
-    {
-      "title": "California weighs recognizing Eid holidays as bill advances toward Newsom's desk",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着法案向纽瑟姆的办公桌推进，加州正在考虑承认开斋节假期"
-    },
-    {
-      "title": "Iran's supreme leader urges Muslim countries to confront the 'real enemy'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗最高领袖敦促穆斯林国家对抗“真正的敌人”"
-    },
-    {
-      "title": "Canada blasted for alleged roadblocks as Christian leaders rally to open US doors",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "基督教领袖集会打开美国大门，加拿大因涉嫌设置路障而受到抨击"
-    },
-    {
-      "title": "Newly minted Hall of Famer publicly tells Barry Bonds 'you got a shot, man'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "新晋名人堂成员公开告诉巴里·邦兹“你有机会，伙计”"
-    },
-    {
-      "title": "Usha Vance reveals the hardest part of being second lady",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "乌莎·万斯揭示了作为第二夫人最困难的部分"
-    },
-    {
-      "title": "Colorado city leader dies after collapsing on popular 14,000-foot mountain hike",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "科罗拉多州领导人在热门的 14,000 英尺山徒步旅行中晕倒后去世"
-    },
-    {
-      "title": "Trump vows to report Kristen Welker to the FCC over her endorsement take",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普发誓要向美国联邦通信委员会举报克里斯汀·韦尔克的背书行为"
-    },
-    {
-      "title": "Actor unloads on California as he reveals why he’s ‘done’ with state for good",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "演员在加利福尼亚州大放异彩，揭示了他为何永远“不再”加州了"
-    },
-    {
-      "title": "Sen. Ted Cruz calls for elections in Venezuela to proceed ‘rapidly’",
-      "link": "https://www.nbcnews.com/politics/congress/ted-cruz-elections-venezuela-oil-maduro-delcy-rodriguez-rcna595110",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员特德·克鲁兹呼吁委内瑞拉“迅速”进行选举"
-    },
-    {
-      "title": "Rep. Jim Clyburn says impeaching Trump shouldn’t be Democrats’ priority if they win back the House",
-      "link": "https://www.nbcnews.com/politics/congress/jim-clyburn-impeaching-trump-shouldnt-democrats-priority-win-house-rcna595118",
-      "summary": "",
-      "published": "",
-      "title_zh": "众议员吉姆·克莱伯恩表示，如果民主党赢回众议院，弹劾特朗普不应该成为民主党的首要任务"
-    },
-    {
-      "title": "The cost of despair: Preventable deaths surging among Latinos in the U.S., data shows",
-      "link": "https://www.nbcnews.com/health/health-news/hispanic-deaths-suicide-alcohol-rising-data-rcna593787",
-      "summary": "",
-      "published": "",
-      "title_zh": "绝望的代价：数据显示，美国拉丁裔可预防的死亡人数激增"
+      "title_zh": "法国拖网渔船在英吉利海峡沉没 两人失踪",
+      "summary_zh": "海岸警卫队表示，行动进行第二天后，搜索暂停。"
     }
   ]
 }
