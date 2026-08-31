@@ -1,12 +1,16 @@
 {
   "date": "20260831",
-  "total": 26,
+  "total": 48,
   "sources": {
     "bbc": {
       "status": "ok",
       "entries": 0
     },
     "fox": {
+      "status": "ok",
+      "entries": 19
+    },
+    "nytimes": {
       "status": "ok",
       "entries": 0
     },
@@ -25,178 +29,75 @@
     "cnn": {
       "status": "ok",
       "entries": 0
-    },
-    "nytimes": {
-      "status": "ok",
-      "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Iran attacks US forces in retaliation for latest American strikes in Strait of Hormuz",
+      "title": "Once a village, now barren land - BBC in valley devastated by floods",
       "link": "",
-      "summary": "",
+      "summary": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
       "published": "",
-      "title_zh": "伊朗袭击美军，以报复美国最近在霍尔木兹海峡的袭击"
+      "title_zh": "曾经的村庄，如今荒芜的土地 - BBC 在被洪水摧毁的山谷中",
+      "summary_zh": "英国广播公司 (BBC) 从萨诺巴库 (Sano Barkhu) 进行报道，萨诺巴库是一个俯瞰 Syfrubesi 镇的村庄，该镇被尼泊尔洪水摧毁。"
     },
     {
-      "title": "President Trump tells Trey Gowdy Iran is a 'failing nation' as crushing blockade continues",
+      "title": "US and Iran trade strikes for first time in weeks",
       "link": "",
-      "summary": "",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "published": "",
-      "title_zh": "特朗普总统告诉特雷·高迪伊朗是一个“失败的国家”，因为严厉的封锁仍在继续"
+      "title_zh": "美国和伊朗数周来首次进行贸易打击",
+      "summary_zh": "对霍尔木兹海峡拉拉克岛的袭击是自 7 月底以来美国首次发动袭击，已造成两人死亡、两人受伤。"
     },
     {
-      "title": "Maduro looks strikingly different in first prison photos since US capture",
+      "title": "Messi retires from international football",
       "link": "",
-      "summary": "",
+      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
       "published": "",
-      "title_zh": "自美国被捕以来，马杜罗在第一张监狱照片中看起来截然不同"
+      "title_zh": "梅西退出国际足坛",
+      "summary_zh": "阿根廷伟大的梅西宣布从国际足坛退役，他表示这是一个“伤害”的决定，但他明白“时机已经到来”。"
     },
     {
-      "title": "Girl’s tragic vacation death leads parents to sue badminton racket maker",
+      "title": "Dolly Parton laid to rest alongside husband in Nashville",
       "link": "",
-      "summary": "",
+      "summary": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
       "published": "",
-      "title_zh": "女孩假期惨死导致父母起诉羽毛球拍制造商"
+      "title_zh": "多莉·帕顿在纳什维尔与丈夫一起安息",
+      "summary_zh": "周二去世，享年 80 岁的歌手为这位歌手举行了私人家庭葬礼。"
     },
     {
-      "title": "Airport thrown into chaos after sports car tears through security fence, strikes plane",
+      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "",
-      "summary": "",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
       "published": "",
-      "title_zh": "跑车冲破安全围栏撞上飞机，机场陷入混乱"
+      "title_zh": "“可怕”的山洪袭击大峡谷后，造成一人死亡、十几人失踪",
+      "summary_zh": "一名徒步旅行者告诉 BBC，“这是美好的一天，然后人们尖叫起来”，当时有 15 人失踪。"
     },
     {
-      "title": "Abbey Gate survivor says troops were 'figuring it out on the go' with no real backup",
+      "title": "The jury's options in Lindsay Clancy's murder trial",
       "link": "",
-      "summary": "",
+      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
       "published": "",
-      "title_zh": "修道院门幸存者表示，部队正在“四处奔波”，没有真正的后援"
+      "title_zh": "陪审团在林赛·克兰西谋杀案审判中的选择",
+      "summary_zh": "陪审员在决定被控杀害三个孩子的前护士的命运时有五个选择。"
     },
     {
-      "title": "Chiropractor among missing hikers after violent Grand Canyon flash flood, wife says",
+      "title": "The US-Canada trade war in 5 charts",
       "link": "",
-      "summary": "",
+      "summary": "Even with the hike in tariffs, Canada still has a better deal from the US than the UK or the EU.",
       "published": "",
-      "title_zh": "妻子称，大峡谷山洪暴发后，脊椎按摩师在徒步旅行者中失踪"
+      "title_zh": "美加贸易战五张图表",
+      "summary_zh": "即使关税上调，加拿大与美国的协议仍然比英国或欧盟更好。"
     },
     {
-      "title": "Man suffers fractures in both legs following roller coaster incident: report",
+      "title": "What will Sonia Gandhi's memoir reveal about India's most powerful dynasty?",
       "link": "",
-      "summary": "",
+      "summary": "Sonia Gandhi’s memoir may finally answer questions about power, loss and the Gandhi family’s political legacy.",
       "published": "",
-      "title_zh": "过山车事件后男子双腿骨折：报告"
+      "title_zh": "索尼娅·甘地的回忆录将揭示印度最强大王朝的哪些内容？",
+      "summary_zh": "索尼娅·甘地的回忆录可能最终会回答有关权力、损失和甘地家族政治遗产的问题。"
     },
     {
-      "title": "Offense cratered from 38 points to 14 without him and nobody noticed",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "没有他的情况下，进攻效率从 38 分下降到 14 分，但没有人注意到"
-    },
-    {
-      "title": "NYC teachers' union turns on Zohran Mamdani after he sues them over pay raise",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "佐兰·马姆达尼 (Zohran Mamdani) 因加薪起诉纽约市教师工会"
-    },
-    {
-      "title": "Lindsay Clancy’s prescriptions, knife examined by jurors before recess",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "陪审员在休会前检查林赛·克兰西的处方和刀具"
-    },
-    {
-      "title": "Grand Canyon flood sparks urgent plea as around 15 people remain unaccounted for",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大峡谷洪水引发紧急呼吁，约 15 人仍下落不明"
-    },
-    {
-      "title": "Controversial liberal influencer says he was recruited after El-Sayed rebuffs him",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "有争议的自由派影响者表示，在埃尔赛义德拒绝他后，他被招募"
-    },
-    {
-      "title": "Nepal intensifying efforts to free hundreds believed trapped in hydropower tunnels",
-      "link": "",
-      "summary": "Teams are working around the clock to free the trapped workers, with India and China deploying experts to assist in the operation.",
-      "published": "",
-      "title_zh": "尼泊尔加紧努力解救数百名据信被困在水电隧道中的人",
-      "summary_zh": "各小组正在全天候工作以营救被困工人，印度和中国都派出了专家协助行动。"
-    },
-    {
-      "title": "Why is this teenager fighting fires dressed as Superman?",
-      "link": "",
-      "summary": "A 17-year-old boy has gone viral for wearing a superhero costume while volunteer firefighting in Indonesia, as the country faces a super El Niño.",
-      "published": "",
-      "title_zh": "为什么这个救火的少年打扮成超人？",
-      "summary_zh": "印度尼西亚面临超级厄尔尼诺现象，一名 17 岁男孩因在印度尼西亚志愿消防时穿着超级英雄服装而走红。"
-    },
-    {
-      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "link": "",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
-      "published": "",
-      "title_zh": "“可怕”的山洪袭击大峡谷后，15名徒步旅行者担心失踪",
-      "summary_zh": "一名被空运到安全地带的徒步旅行者告诉英国广播公司：“这是美好的一天，然后人们尖叫起来。”"
-    },
-    {
-      "title": "Flood relief vehicles trapped as heavy rain turns roads to mud in Nepal",
-      "link": "",
-      "summary": "Thousands in Nepal are still waiting to be rescued, but unpredictable weather is making such operations increasingly difficult.",
-      "published": "",
-      "title_zh": "尼泊尔大雨导致道路泥泞，救灾车辆被困",
-      "summary_zh": "尼泊尔仍有数千人等待救援，但不可预测的天气使救援行动变得越来越困难。"
-    },
-    {
-      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-      "link": "",
-      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-      "published": "",
-      "title_zh": "渡轮在塞浦路斯北部海域倾覆 造成 8 人死亡、18 人失踪",
-      "summary_zh": "一艘载有近270人的渡轮在离港后翻覆，目前搜救工作正在进行中。"
-    },
-    {
-      "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
-      "link": "",
-      "summary": "Leah Stewart, 34, was mauled by a great white shark in June during a morning swim at Coogee Beach.",
-      "published": "",
-      "title_zh": "“就像与恐龙战斗一样”：悉尼女子回忆起她在袭击中如何殴打鲨鱼",
-      "summary_zh": "34 岁的利亚·斯图尔特 (Leah Stewart) 6 月在库吉海滩 (Coogee Beach) 晨泳时被大白鲨咬伤。"
-    },
-    {
-      "title": "Russian strikes destroy 12 million books ahead of Ukraine's first week back at school",
-      "link": "",
-      "summary": "Ukraine says Russia is deliberately attacking its culture, after strikes on publishers and churches.",
-      "published": "",
-      "title_zh": "乌克兰开学第一周前，俄罗斯空袭摧毁了1200万本书",
-      "summary_zh": "乌克兰称俄罗斯在袭击出版商和教堂后故意攻击其文化。"
-    },
-    {
-      "title": "'My parents won't lend me money but helped my brother': When families play financial favourites",
-      "link": "",
-      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
-      "published": "",
-      "title_zh": "“我的父母不会借钱给我，但会帮助我的兄弟”：当家庭在经济上偏爱时",
-      "summary_zh": "所谓的经济偏袒会导致成年后很长一段时间的嫉妒和怨恨。专家告诉你如何避免这种情况"
-    },
-    {
-      "title": "The mystery of why so many black Britons still can't swim",
-      "link": "",
-      "summary": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
-      "published": "",
-      "title_zh": "为什么这么多英国黑人仍然不会游泳之谜",
-      "summary_zh": "几十年来，黑人社区的游泳能力一直较低。我们的作家问为什么。"
-    },
-    {
-      "title": "The Millennials swapping doom-scrolling for gardening",
+      "title": "The millennials swapping doom-scrolling for gardening",
       "link": "",
       "summary": "Young people say gardening offers joy, serenity and a sense of community.",
       "published": "",
@@ -204,25 +105,285 @@
       "summary_zh": "年轻人说园艺可以带来欢乐、宁静和社区感。"
     },
     {
-      "title": "At Olivia Rodrigo’s Daisy Chain Fields festival, fans felt like they were witnessing history",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/olivia-rodrigo-daisy-chain-fields-festival-fans-history-rcna595210",
-      "summary": "",
+      "title": "From playing Serena Williams on screen to following in her footsteps",
+      "link": "",
+      "summary": "Having played a young Serena Williams on the big screen, teenager Thea Frodin is ready to follow in the American great's footsteps at the US Open.",
       "published": "",
-      "title_zh": "在奥利维亚·罗德里戈 (Olivia Rodrigo) 的菊花链场 (Daisy Chain Fields) 音乐节上，粉丝们感觉自己正在见证历史"
+      "title_zh": "从在银幕上扮演塞雷娜·威廉姆斯到追随她的脚步",
+      "summary_zh": "青少年西娅·弗罗丁在大银幕上扮演年轻的塞雷娜·威廉姆斯后，准备在美国公开赛上追随这位美国伟人的脚步。"
     },
     {
-      "title": "Novak Djokovic loses in opening round of U.S. Open for first time, falling to Mariano Navone",
-      "link": "https://www.nbcnews.com/sports/tennis/novak-djokovic-loses-us-open-first-time-mariano-navone-rcna595265",
-      "summary": "",
+      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "link": "",
+      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
       "published": "",
-      "title_zh": "诺瓦克·德约科维奇首次在美国公开赛首轮失利，输给了马里亚诺·纳沃尼"
+      "title_zh": "南非航空公司为在拥挤的体育场上空进行的低空空中特技辩护",
+      "summary_zh": "Airlink表示，两架飞机紧密编队的演习需要仔细而精确的计划。"
     },
     {
-      "title": "Curaçao wins 2026 Little League World Series, beating Nevada 11-2",
-      "link": "https://www.nbcnews.com/sports/baseball/curacao-wins-2026-little-league-world-series-beating-nevada-11-2-rcna595246",
+      "title": "'Moonies' church leader jailed for two years over bribery offences",
+      "link": "",
+      "summary": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
+      "published": "",
+      "title_zh": "“Moonies”教会领袖因贿赂罪被判入狱两年",
+      "summary_zh": "法庭发现，83 岁的韩学子 (Han Hak-ja) 送给韩国前第一夫人两个香奈儿包包和一条钻石项链。"
+    },
+    {
+      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+      "link": "",
+      "summary": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+      "published": "",
+      "title_zh": "英国向以色列提出英国活动人士在约旦河西岸被定居者拘留的案件",
+      "summary_zh": "22 岁的学生活动家 Finn Joughin 在巴勒斯坦 Umm Al-Kheir 村被捕。"
+    },
+    {
+      "title": "Djokovic in tears during US Open first-round exit",
+      "link": "",
+      "summary": "An emotional Novak Djokovic suffers a US Open first-round defeat which provides further evidence that age is catching up with the 39-year-old great.",
+      "published": "",
+      "title_zh": "德约科维奇在美网首轮出局时落泪",
+      "summary_zh": "情绪激动的诺瓦克·德约科维奇在美国公开赛首轮失利，这进一步证明这位 39 岁的伟人的年龄正在赶上。"
+    },
+    {
+      "title": "John Galliano exhibition at New York Met cancelled after backlash",
+      "link": "",
+      "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
+      "published": "",
+      "title_zh": "纽约大都会博物馆约翰·加利亚诺 (John Galliano) 的展览因强烈反对而被取消",
+      "summary_zh": "该展览因这位英国时装设计师因在 2011 年发表反犹太主义言论而被定罪而受到批评。"
+    },
+    {
+      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+      "link": "",
+      "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+      "published": "",
+      "title_zh": "阿尔及利亚总统在致命森林火灾后寻求对纵火犯判处死刑",
+      "summary_zh": "总统阿卜杜勒马吉德·特布恩 (Abdelmadjid Tebboune) 表示，在记录到 100 起野火后，他不排除发生谋杀的可能性。"
+    },
+    {
+      "title": "Barcola joins Liverpool from PSG in £123m move",
+      "link": "",
+      "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
+      "published": "",
+      "title_zh": "巴科拉从巴黎圣日耳曼加盟利物浦，拍摄价值1.23亿英镑的电影",
+      "summary_zh": "利物浦以高达 1.23 亿英镑的价格从巴黎圣日耳曼签下了法国前锋布拉德利·巴克拉。"
+    },
+    {
+      "title": "Trump voters express rare frustration with him: ‘Went against some of his promises’",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-voters-rare-frustration-promises-rcna594176",
       "summary": "",
       "published": "",
-      "title_zh": "库拉索岛以 11-2 击败内华达州赢得 2026 年少年棒球联盟世界大赛冠军"
+      "title_zh": "特朗普选民对他表达了罕见的挫败感：“违背了他的一些承诺”"
+    },
+    {
+      "title": "Voters in Nebraska battleground district divided over Trump",
+      "link": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
+      "summary": "",
+      "published": "",
+      "title_zh": "内布拉斯加州战场选区的选民对特朗普存在分歧"
+    },
+    {
+      "title": "Todd Blanche shuts down talk of presidential run at Iowa State Fair",
+      "link": "https://www.nbcnews.com/meet-the-press/video/-i-am-not-running-for-president-attorney-general-todd-blanche-says-at-the-iowa-state-fair-268610117573",
+      "summary": "",
+      "published": "",
+      "title_zh": "托德·布兰奇在爱荷华州博览会上结束了有关总统竞选的讨论"
+    },
+    {
+      "title": "Midwestern voters air frustrations impacting the midterms",
+      "link": "https://www.nbcnews.com/meet-the-press/video/-fed-up-with-a-war-they-didn-t-want-midwestern-voters-air-frustrations-impacting-the-midterms-268551237711",
+      "summary": "",
+      "published": "",
+      "title_zh": "中西部选民对影响中期选举的不满情绪"
+    },
+    {
+      "title": "Republican voter in key Ohio district slams Trump",
+      "link": "https://www.nbcnews.com/meet-the-press/video/-resign-you-re-destroying-the-country-republican-voter-in-key-ohio-district-slams-trump-268491333778",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄亥俄州关键选区的共和党选民猛烈抨击特朗普"
+    },
+    {
+      "title": "Voters in key Pennsylvania district upset with handling of war",
+      "link": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
+      "summary": "",
+      "published": "",
+      "title_zh": "宾夕法尼亚州主要选区的选民对战争的处理感到不满"
+    },
+    {
+      "title": "Grand Canyon search continues for 15 missing after flash flood destruction, 1 death",
+      "link": "https://www.nbcnews.com/news/us-news/grand-canyon-search-continues-15-missing-flash-flood-destruction-1-dea-rcna595301",
+      "summary": "",
+      "published": "",
+      "title_zh": "大峡谷山洪破坏后 15 人失踪、1 人死亡，搜寻工作仍在继续"
+    },
+    {
+      "title": "Death toll in Nepal floods tops 900, number of missing nearly doubles",
+      "link": "https://www.nbcnews.com/world/asia/death-toll-nepal-floods-tops-900-number-missing-nearly-doubles-rcna595267",
+      "summary": "",
+      "published": "",
+      "title_zh": "尼泊尔洪水死亡人数突破900 失踪人数近一倍"
+    },
+    {
+      "title": "In Ukraine, Russian soldiers are increasingly surrendering to machines",
+      "link": "https://www.nbcnews.com/tech/security/ukraine-russia-war-drone-prison-footage-capture-military-battle-front-rcna352444",
+      "summary": "",
+      "published": "",
+      "title_zh": "在乌克兰，俄罗斯士兵越来越多地向机器投降"
+    },
+    {
+      "title": "Lindsay Clancy trial deliberations stretch into third day",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-trial-deliberations-stretch-third-day-defense-attorney-rcna595304",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西审判审议进入第三天"
+    },
+    {
+      "title": "Long time, no see: What’s behind the sardine shortage",
+      "link": "https://www.nbcnews.com/health/health-news/sardine-shortage-real-tinned-fish-sometimes-hard-find-rcna594538",
+      "summary": "",
+      "published": "",
+      "title_zh": "好久不见：沙丁鱼短缺背后的原因是什么"
+    },
+    {
+      "title": "Lionel Messi announces retirement from Argentina national soccer team",
+      "link": "https://www.nbcnews.com/sports/soccer/lionel-messi-argentina-soccer-national-team-world-cup-retire-rcna595342",
+      "summary": "",
+      "published": "",
+      "title_zh": "莱昂内尔·梅西宣布从阿根廷国家足球队退役"
+    },
+    {
+      "title": "Vance clarifies Trump's fiery social posts to Iran as regime warns US after deadly strike",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "万斯澄清了特朗普对伊朗的激烈社交帖子，伊朗政权在致命袭击后警告美国"
+    },
+    {
+      "title": "Hollywood actor rips 'leftist, woke' choice involving NASCAR 'Days of Thunder' sequel",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "好莱坞演员撕毁“左派，觉醒”的选择涉及纳斯卡“雷霆之日”续集"
+    },
+    {
+      "title": "US aircraft carrier's resupply trouble reveals a weakness that's far more alarming",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国航母的补给问题揭示了一个更令人担忧的弱点"
+    },
+    {
+      "title": "Trump admin shuts down 270 driving schools in fraud crackdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普政府关闭 270 所驾校以打击欺诈行为"
+    },
+    {
+      "title": "The fruit packed with melatonin that a dietitian swears by for deeper sleep",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "富含褪黑激素的水果，营养师坚信可以帮助深度睡眠"
+    },
+    {
+      "title": "Brawl breaks out at Pittsburgh youth football game as coach attacks opposing coaches",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "匹兹堡青年橄榄球比赛爆发斗殴，教练攻击对方教练"
+    },
+    {
+      "title": "Casino on brink of closure reopens to lure tourists fed up with Las Vegas prices",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "濒临关闭的赌场重新开放，以吸引厌倦拉斯维加斯物价的游客"
+    },
+    {
+      "title": "Putin unleashes on Ukraine as report reveals chilling fear behind war’s endgame",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "报告揭示了战争结局背后的令人不寒而栗的恐惧，普京对乌克兰发动了攻击"
+    },
+    {
+      "title": "Comey adviser hit with grand jury subpoena in classified leak probe: sources",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "科米顾问在机密泄密调查中收到大陪审团传票：消息人士"
+    },
+    {
+      "title": "Lindsay Clancy strategy could become common for accused killers, retired judge warns",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "退休法官警告说，林赛·克兰西的策略可能会成为被指控的杀手的常见策略"
+    },
+    {
+      "title": "Caitlin Clark faces next challenge on global stage with longtime rival now on her team",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 在全球舞台上面临下一个挑战，她的团队现在加入了长期竞争对手"
+    },
+    {
+      "title": "Cheap fuel turns into $4M lawsuit as gas station hit with legal action",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "加油站遭遇法律诉讼，廉价燃油引发 400 万美元诉讼"
+    },
+    {
+      "title": "Grand Canyon chaos as 15 hikers may be missing and flood wrecks park's lifeline",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大峡谷一片混乱，15 名徒步旅行者可能失踪，洪水摧毁了公园的生命线"
+    },
+    {
+      "title": "WATCH LIVE:House lawmakers hold field hearing at Flight 93 National Memorial",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看直播：众议院议员在 93 号航班国家纪念馆举行现场听证会"
+    },
+    {
+      "title": "Brain-eating amoeba leaves child dead, teen in critical condition",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "食脑阿米巴导致儿童死亡，青少年情况危急"
+    },
+    {
+      "title": "Camilla's 'olive branch' to Prince Harry reveals who she's really fighting for: report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "卡米拉向哈里王子伸出的“橄榄枝”揭示了她真正为谁而战：报告"
+    },
+    {
+      "title": "Safety's lawyer claims he was blocked from bond hearing in locker room case",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "安全的律师声称他在更衣室案件中被阻止参加保释听证会"
+    },
+    {
+      "title": "World leader looks strikingly different in first prison photos since US capture",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "自美国被捕以来的第一张监狱照片中，世界领导人看起来截然不同"
+    },
+    {
+      "title": "Dem dodges onslaught of questions on major campaign scandal at key Dem convention",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党在重要的民主党大会上回避重大竞选丑闻的问题"
     }
   ]
 }
