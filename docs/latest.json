@@ -1,6 +1,6 @@
 {
   "date": "20260831",
-  "total": 48,
+  "total": 39,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "fox": {
       "status": "ok",
-      "entries": 19
+      "entries": 0
     },
     "nytimes": {
       "status": "ok",
@@ -33,357 +33,289 @@
   },
   "entries": [
     {
-      "title": "Once a village, now barren land - BBC in valley devastated by floods",
+      "title": "Vance unloads on El-Sayed after Usha swipe with brutal warning",
       "link": "",
-      "summary": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
+      "summary": "",
       "published": "",
-      "title_zh": "曾经的村庄，如今荒芜的土地 - BBC 在被洪水摧毁的山谷中",
-      "summary_zh": "英国广播公司 (BBC) 从萨诺巴库 (Sano Barkhu) 进行报道，萨诺巴库是一个俯瞰 Syfrubesi 镇的村庄，该镇被尼泊尔洪水摧毁。"
+      "title_zh": "乌莎猛击并发出残酷警告后，万斯向埃尔赛义德发难"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
+      "title": "Army Secretary Dan Driscoll submits resignation to Trump",
       "link": "",
-      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "summary": "",
       "published": "",
-      "title_zh": "美国和伊朗数周来首次进行贸易打击",
-      "summary_zh": "对霍尔木兹海峡拉拉克岛的袭击是自 7 月底以来美国首次发动袭击，已造成两人死亡、两人受伤。"
+      "title_zh": "陆军部长丹·德里斯科尔向特朗普递交辞呈"
     },
     {
-      "title": "Messi retires from international football",
+      "title": "Popular sugar substitute linked to increased heart attack and stroke risk in major study",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "一项重大研究显示，流行的糖替代品与心脏病和中风风险增加有关"
+    },
+    {
+      "title": "CNN's Blitzer makes mea culpa over false remark about Trump's order on mail-in voting",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国有线电视新闻网 (CNN) 布利策对特朗普邮寄投票命令的错误言论表示歉意"
+    },
+    {
+      "title": "Deadly ferry capsizes with over 250 aboard as children vanish in deep waters",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "致命渡轮倾覆，船上250多人，儿童在深水中失踪"
+    },
+    {
+      "title": "High school football powerhouse teaches disrespectful team a brutal lesson",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "高中橄榄球强队给不尊重的球队一个残酷的教训"
+    },
+    {
+      "title": "YouTube star Ms Rachel confronted at neighborhood park over anti-Israel rhetoric",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "YouTube 明星雷切尔女士因反以色列言论在社区公园与人对峙"
+    },
+    {
+      "title": "Navy unveils massive new missile with ‘first shot, first kill’ edge over enemy aircraft",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "海军推出大型新型导弹，对敌机具有“先发先杀”的优势"
+    },
+    {
+      "title": "Knife attack rocks Times Square before armed suspect turns toward NYPD",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "持刀袭击震撼时代广场，武装嫌疑人转向纽约警察局"
+    },
+    {
+      "title": "President Trump addresses whether he'd consider using nuclear weapons against Iran",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普总统谈到他是否会考虑对伊朗使用核武器"
+    },
+    {
+      "title": "Lindsay Clancy judge tells jurors to 'stay the course'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西法官告诉陪审员“坚持到底”"
+    },
+    {
+      "title": "Tensions erupt in hearing as Democrats rage against anti-socialism resolution",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人愤怒反对反社会主义决议，听证会气氛紧张"
+    },
+    {
+      "title": "'Landman' star Michelle Randolph wows in bikini and skirt look for mirror selfie",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《兰德曼》明星米歇尔·兰道夫穿着比基尼和裙子对着镜子自拍，令人惊叹"
+    },
+    {
+      "title": "Michigan Democratic nominee El-Sayed defends attacking Fourth of July fireworks",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "密歇根州民主党候选人埃尔赛义德为袭击国庆节烟花事件进行辩护"
+    },
+    {
+      "title": "DoorDash customer shocked to see 'completely naked' delivery driver handling his meal",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "DoorDash的顾客惊讶地看到“完全裸体”的送货司机正在处理他的饭菜"
+    },
+    {
+      "title": "Movie fans erupt over key casting change in Tom Cruise's 'Days of Thunder' sequel",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "影迷对汤姆·克鲁斯《雷霆壮志》续集的关键演员阵容变动感到愤怒"
+    },
+    {
+      "title": "Kansas City swoops in and torches Jack Pyburn's $1M LSU comeback payday",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "堪萨斯城突袭并烧毁杰克·皮伯恩 (Jack Pyburn) 的 100 万美元路易斯安那州立大学复出发薪日"
+    },
+    {
+      "title": "Russia empties supermarket shelves in Ukraine as report reveals Putin’s fear about war",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "报告揭示普京对战争的恐惧，俄罗斯清空乌克兰超市货架"
+    },
+    {
+      "title": "Jacob Fields arrested as TCU locker room incident takes a new turn",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "雅各布·菲尔兹 (Jacob Fields) 因 TCU 更衣室事件出现新转而被捕"
+    },
+    {
+      "title": "Judge refuses to lift USPS ballot rule block as midterm mailing deadlines approach",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着中期邮寄截止日期的临近，法官拒绝解除美国邮政局投票规则的限制"
+    },
+    {
+      "title": "Supreme Court clears way for Trump to keep building White House ballroom",
+      "link": "",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+      "published": "",
+      "title_zh": "最高法院为特朗普继续建造白宫宴会厅扫清道路",
+      "summary_zh": "但首席大法官约翰·罗伯茨持不同意见，他写道“建筑很可能是非法的”。"
+    },
+    {
+      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+      "link": "",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "published": "",
+      "title_zh": "Shein 如何在期待已久的股市首次亮相之前失去光芒",
+      "summary_zh": "该公司多年来一直寻求在纽约和伦敦出售股票，随后于周二在香港上市。"
+    },
+    {
+      "title": "Festival honouring Dolly Parton set for Nashville and London",
+      "link": "",
+      "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+      "published": "",
+      "title_zh": "纪念多莉·帕顿的节日将在纳什维尔和伦敦举行",
+      "summary_zh": "多莉·帕顿 (Dolly Parton) 的遗产管理机构表示，按照她的意愿，多莉节 (DollyFest) 将取代这位艺术家的传统公共纪念活动。"
+    },
+    {
+      "title": "Messi retires from Argentina duty with 'nothing left to give'",
       "link": "",
       "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
       "published": "",
-      "title_zh": "梅西退出国际足坛",
+      "title_zh": "梅西从阿根廷国家队退役，“没有什么可奉献的”",
       "summary_zh": "阿根廷伟大的梅西宣布从国际足坛退役，他表示这是一个“伤害”的决定，但他明白“时机已经到来”。"
     },
     {
-      "title": "Dolly Parton laid to rest alongside husband in Nashville",
+      "title": "Orangutans in danger as wildfires blaze through Borneo",
       "link": "",
-      "summary": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
+      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
       "published": "",
-      "title_zh": "多莉·帕顿在纳什维尔与丈夫一起安息",
-      "summary_zh": "周二去世，享年 80 岁的歌手为这位歌手举行了私人家庭葬礼。"
+      "title_zh": "婆罗洲野火肆虐，红毛猩猩面临危险",
+      "summary_zh": "印度尼西亚的野火摧毁了数百只猩猩的部分自然栖息地，危及该物种的生存。"
     },
     {
-      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
       "published": "",
-      "title_zh": "“可怕”的山洪袭击大峡谷后，造成一人死亡、十几人失踪",
-      "summary_zh": "一名徒步旅行者告诉 BBC，“这是美好的一天，然后人们尖叫起来”，当时有 15 人失踪。"
+      "title_zh": "“可怕的”山洪袭击大峡谷后，两人死亡，十几人失踪",
+      "summary_zh": "一名徒步旅行者告诉 BBC：“这是美好的一天，然后人们尖叫起来”，当时有 14 人失踪。"
     },
     {
-      "title": "The jury's options in Lindsay Clancy's murder trial",
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
       "link": "",
-      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
+      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
       "published": "",
-      "title_zh": "陪审团在林赛·克兰西谋杀案审判中的选择",
-      "summary_zh": "陪审员在决定被控杀害三个孩子的前护士的命运时有五个选择。"
+      "title_zh": "美国歌手D4vd的名人律师退出谋杀案",
+      "summary_zh": "这位 21 岁的歌手现在将由一名公设辩护律师代表参加 14 岁塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez) 谋杀案的审判。他不认罪。"
     },
     {
-      "title": "The US-Canada trade war in 5 charts",
+      "title": "Watch: Why is the US-Venezuela oil deal so controversial?",
       "link": "",
-      "summary": "Even with the hike in tariffs, Canada still has a better deal from the US than the UK or the EU.",
+      "summary": "President Donald Trump announced the US has struck a deal to control more than 65 billion barrels of proven oil reserves.",
       "published": "",
-      "title_zh": "美加贸易战五张图表",
-      "summary_zh": "即使关税上调，加拿大与美国的协议仍然比英国或欧盟更好。"
+      "title_zh": "观察：为什么美国与委内瑞拉的石油协议如此有争议？",
+      "summary_zh": "唐纳德·特朗普总统宣布美国已达成协议，控制超过 650 亿桶已探明石油储量。"
     },
     {
-      "title": "What will Sonia Gandhi's memoir reveal about India's most powerful dynasty?",
+      "title": "'Like fighting a dinosaur': Sydney woman describes punching shark during attack",
       "link": "",
-      "summary": "Sonia Gandhi’s memoir may finally answer questions about power, loss and the Gandhi family’s political legacy.",
+      "summary": "Leah Stewart, 34, was mauled by a great white shark in June during a morning swim at Coogee Beach.",
       "published": "",
-      "title_zh": "索尼娅·甘地的回忆录将揭示印度最强大王朝的哪些内容？",
-      "summary_zh": "索尼娅·甘地的回忆录可能最终会回答有关权力、损失和甘地家族政治遗产的问题。"
+      "title_zh": "“就像与恐龙战斗一样”：悉尼女子描述在袭击中殴打鲨鱼",
+      "summary_zh": "34 岁的利亚·斯图尔特 (Leah Stewart) 6 月在库吉海滩 (Coogee Beach) 晨泳时被大白鲨咬伤。"
     },
     {
-      "title": "The millennials swapping doom-scrolling for gardening",
+      "title": "Japan Inc is betting big on India as China risks deepen",
       "link": "",
-      "summary": "Young people say gardening offers joy, serenity and a sense of community.",
+      "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
       "published": "",
-      "title_zh": "千禧一代从厄运卷轴转向园艺",
-      "summary_zh": "年轻人说园艺可以带来欢乐、宁静和社区感。"
+      "title_zh": "随着中国风险加深，日本公司在印度押下重注",
+      "summary_zh": "在国内市场萎缩和中国风险上升的情况下，日本企业正在加倍押注印度。"
     },
     {
-      "title": "From playing Serena Williams on screen to following in her footsteps",
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
       "link": "",
-      "summary": "Having played a young Serena Williams on the big screen, teenager Thea Frodin is ready to follow in the American great's footsteps at the US Open.",
+      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
       "published": "",
-      "title_zh": "从在银幕上扮演塞雷娜·威廉姆斯到追随她的脚步",
-      "summary_zh": "青少年西娅·弗罗丁在大银幕上扮演年轻的塞雷娜·威廉姆斯后，准备在美国公开赛上追随这位美国伟人的脚步。"
+      "title_zh": "“我的父母不会借给我一万英镑，但会帮助我的兄弟”：当家庭在经济上偏爱时",
+      "summary_zh": "所谓的经济偏袒会导致成年后很长一段时间的嫉妒和怨恨。专家告诉你如何避免这种情况"
     },
     {
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
       "link": "",
-      "summary": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
+      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
       "published": "",
-      "title_zh": "南非航空公司为在拥挤的体育场上空进行的低空空中特技辩护",
-      "summary_zh": "Airlink表示，两架飞机紧密编队的演习需要仔细而精确的计划。"
+      "title_zh": "各州和美国监管机构提起诉讼称亚马逊操纵了数十亿美元的广告定价",
+      "summary_zh": "亚马逊对诉讼作出回应，称美国联邦贸易委员会“误解”了他们的广告市场。"
     },
     {
-      "title": "'Moonies' church leader jailed for two years over bribery offences",
-      "link": "",
-      "summary": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
-      "published": "",
-      "title_zh": "“Moonies”教会领袖因贿赂罪被判入狱两年",
-      "summary_zh": "法庭发现，83 岁的韩学子 (Han Hak-ja) 送给韩国前第一夫人两个香奈儿包包和一条钻石项链。"
-    },
-    {
-      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
-      "link": "",
-      "summary": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
-      "published": "",
-      "title_zh": "英国向以色列提出英国活动人士在约旦河西岸被定居者拘留的案件",
-      "summary_zh": "22 岁的学生活动家 Finn Joughin 在巴勒斯坦 Umm Al-Kheir 村被捕。"
-    },
-    {
-      "title": "Djokovic in tears during US Open first-round exit",
-      "link": "",
-      "summary": "An emotional Novak Djokovic suffers a US Open first-round defeat which provides further evidence that age is catching up with the 39-year-old great.",
-      "published": "",
-      "title_zh": "德约科维奇在美网首轮出局时落泪",
-      "summary_zh": "情绪激动的诺瓦克·德约科维奇在美国公开赛首轮失利，这进一步证明这位 39 岁的伟人的年龄正在赶上。"
-    },
-    {
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "link": "",
-      "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-      "published": "",
-      "title_zh": "纽约大都会博物馆约翰·加利亚诺 (John Galliano) 的展览因强烈反对而被取消",
-      "summary_zh": "该展览因这位英国时装设计师因在 2011 年发表反犹太主义言论而被定罪而受到批评。"
-    },
-    {
-      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
-      "link": "",
-      "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
-      "published": "",
-      "title_zh": "阿尔及利亚总统在致命森林火灾后寻求对纵火犯判处死刑",
-      "summary_zh": "总统阿卜杜勒马吉德·特布恩 (Abdelmadjid Tebboune) 表示，在记录到 100 起野火后，他不排除发生谋杀的可能性。"
-    },
-    {
-      "title": "Barcola joins Liverpool from PSG in £123m move",
-      "link": "",
-      "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
-      "published": "",
-      "title_zh": "巴科拉从巴黎圣日耳曼加盟利物浦，拍摄价值1.23亿英镑的电影",
-      "summary_zh": "利物浦以高达 1.23 亿英镑的价格从巴黎圣日耳曼签下了法国前锋布拉德利·巴克拉。"
-    },
-    {
-      "title": "Trump voters express rare frustration with him: ‘Went against some of his promises’",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-voters-rare-frustration-promises-rcna594176",
+      "title": "Army Secretary submits resignation to White House after tensions with Pete Hegseth",
+      "link": "https://www.nbcnews.com/politics/national-security/army-secretary-dan-driscoll-submits-resignation-white-house-rcna595437",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普选民对他表达了罕见的挫败感：“违背了他的一些承诺”"
+      "title_zh": "陆军部长在与皮特·赫格斯关系紧张后向白宫提交辞呈"
     },
     {
-      "title": "Voters in Nebraska battleground district divided over Trump",
-      "link": "https://www.nbcnews.com/meet-the-press/video/-dear-donald-battleground-district-voters-share-their-message-to-trump-268689477753",
+      "title": "Supreme Court allows Trump to move forward with White House ballroom construction",
+      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-move-forward-white-house-ballroom-construct-rcna594097",
       "summary": "",
       "published": "",
-      "title_zh": "内布拉斯加州战场选区的选民对特朗普存在分歧"
+      "title_zh": "最高法院允许特朗普推进白宫宴会厅建设"
     },
     {
-      "title": "Todd Blanche shuts down talk of presidential run at Iowa State Fair",
-      "link": "https://www.nbcnews.com/meet-the-press/video/-i-am-not-running-for-president-attorney-general-todd-blanche-says-at-the-iowa-state-fair-268610117573",
+      "title": "Hopes fade in Nepal as rescuers race against hardening mud to find 5,000 missing",
+      "link": "https://www.nbcnews.com/world/asia/nepal-tibet-landslide-china-glacier-rescue-operations-survivors-mud-rcna595268",
       "summary": "",
       "published": "",
-      "title_zh": "托德·布兰奇在爱荷华州博览会上结束了有关总统竞选的讨论"
+      "title_zh": "救援人员奋力在硬化泥浆中寻找 5,000 名失踪者，尼泊尔的希望破灭"
     },
     {
-      "title": "Midwestern voters air frustrations impacting the midterms",
-      "link": "https://www.nbcnews.com/meet-the-press/video/-fed-up-with-a-war-they-didn-t-want-midwestern-voters-air-frustrations-impacting-the-midterms-268551237711",
+      "title": "Pro-AI group launches new ads making the case for data centers",
+      "link": "https://www.nbcnews.com/politics/2026-election/-ai-group-jumps-data-center-fight-new-ads-aimed-reshaping-public-opini-rcna595198",
       "summary": "",
       "published": "",
-      "title_zh": "中西部选民对影响中期选举的不满情绪"
+      "title_zh": "Pro-AI 集团推出新广告，为数据中心提供案例"
     },
     {
-      "title": "Republican voter in key Ohio district slams Trump",
-      "link": "https://www.nbcnews.com/meet-the-press/video/-resign-you-re-destroying-the-country-republican-voter-in-key-ohio-district-slams-trump-268491333778",
+      "title": "Trump says data center opponents want to be ‘backwards and poor’",
+      "link": "https://www.nbcnews.com/news/us-iran-trade-strikes-monthlong-lull-rcna595279",
       "summary": "",
       "published": "",
-      "title_zh": "俄亥俄州关键选区的共和党选民猛烈抨击特朗普"
+      "title_zh": "特朗普称数据中心反对者希望变得“落后且贫穷”"
     },
     {
-      "title": "Voters in key Pennsylvania district upset with handling of war",
-      "link": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
+      "title": "Kalshi bans George Santos for life after he secretly bet on himself",
+      "link": "https://www.nbcnews.com/politics/congress/kalshi-ban-george-santos-rcna595318",
       "summary": "",
       "published": "",
-      "title_zh": "宾夕法尼亚州主要选区的选民对战争的处理感到不满"
+      "title_zh": "乔治·桑托斯秘密押注自己后，卡尔希终身禁赛"
     },
     {
-      "title": "Grand Canyon search continues for 15 missing after flash flood destruction, 1 death",
-      "link": "https://www.nbcnews.com/news/us-news/grand-canyon-search-continues-15-missing-flash-flood-destruction-1-dea-rcna595301",
+      "title": "Bootleg ‘Spider-Man’ swings into Russian cinemas despite Hollywood boycott",
+      "link": "https://www.nbcnews.com/world/russia/spider-man-movie-swings-bootleg-russia-cinema-hollywood-boycott-rcna594541",
       "summary": "",
       "published": "",
-      "title_zh": "大峡谷山洪破坏后 15 人失踪、1 人死亡，搜寻工作仍在继续"
-    },
-    {
-      "title": "Death toll in Nepal floods tops 900, number of missing nearly doubles",
-      "link": "https://www.nbcnews.com/world/asia/death-toll-nepal-floods-tops-900-number-missing-nearly-doubles-rcna595267",
-      "summary": "",
-      "published": "",
-      "title_zh": "尼泊尔洪水死亡人数突破900 失踪人数近一倍"
-    },
-    {
-      "title": "In Ukraine, Russian soldiers are increasingly surrendering to machines",
-      "link": "https://www.nbcnews.com/tech/security/ukraine-russia-war-drone-prison-footage-capture-military-battle-front-rcna352444",
-      "summary": "",
-      "published": "",
-      "title_zh": "在乌克兰，俄罗斯士兵越来越多地向机器投降"
-    },
-    {
-      "title": "Lindsay Clancy trial deliberations stretch into third day",
-      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-trial-deliberations-stretch-third-day-defense-attorney-rcna595304",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西审判审议进入第三天"
-    },
-    {
-      "title": "Long time, no see: What’s behind the sardine shortage",
-      "link": "https://www.nbcnews.com/health/health-news/sardine-shortage-real-tinned-fish-sometimes-hard-find-rcna594538",
-      "summary": "",
-      "published": "",
-      "title_zh": "好久不见：沙丁鱼短缺背后的原因是什么"
-    },
-    {
-      "title": "Lionel Messi announces retirement from Argentina national soccer team",
-      "link": "https://www.nbcnews.com/sports/soccer/lionel-messi-argentina-soccer-national-team-world-cup-retire-rcna595342",
-      "summary": "",
-      "published": "",
-      "title_zh": "莱昂内尔·梅西宣布从阿根廷国家足球队退役"
-    },
-    {
-      "title": "Vance clarifies Trump's fiery social posts to Iran as regime warns US after deadly strike",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "万斯澄清了特朗普对伊朗的激烈社交帖子，伊朗政权在致命袭击后警告美国"
-    },
-    {
-      "title": "Hollywood actor rips 'leftist, woke' choice involving NASCAR 'Days of Thunder' sequel",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "好莱坞演员撕毁“左派，觉醒”的选择涉及纳斯卡“雷霆之日”续集"
-    },
-    {
-      "title": "US aircraft carrier's resupply trouble reveals a weakness that's far more alarming",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国航母的补给问题揭示了一个更令人担忧的弱点"
-    },
-    {
-      "title": "Trump admin shuts down 270 driving schools in fraud crackdown",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普政府关闭 270 所驾校以打击欺诈行为"
-    },
-    {
-      "title": "The fruit packed with melatonin that a dietitian swears by for deeper sleep",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "富含褪黑激素的水果，营养师坚信可以帮助深度睡眠"
-    },
-    {
-      "title": "Brawl breaks out at Pittsburgh youth football game as coach attacks opposing coaches",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "匹兹堡青年橄榄球比赛爆发斗殴，教练攻击对方教练"
-    },
-    {
-      "title": "Casino on brink of closure reopens to lure tourists fed up with Las Vegas prices",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "濒临关闭的赌场重新开放，以吸引厌倦拉斯维加斯物价的游客"
-    },
-    {
-      "title": "Putin unleashes on Ukraine as report reveals chilling fear behind war’s endgame",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "报告揭示了战争结局背后的令人不寒而栗的恐惧，普京对乌克兰发动了攻击"
-    },
-    {
-      "title": "Comey adviser hit with grand jury subpoena in classified leak probe: sources",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "科米顾问在机密泄密调查中收到大陪审团传票：消息人士"
-    },
-    {
-      "title": "Lindsay Clancy strategy could become common for accused killers, retired judge warns",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "退休法官警告说，林赛·克兰西的策略可能会成为被指控的杀手的常见策略"
-    },
-    {
-      "title": "Caitlin Clark faces next challenge on global stage with longtime rival now on her team",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 在全球舞台上面临下一个挑战，她的团队现在加入了长期竞争对手"
-    },
-    {
-      "title": "Cheap fuel turns into $4M lawsuit as gas station hit with legal action",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "加油站遭遇法律诉讼，廉价燃油引发 400 万美元诉讼"
-    },
-    {
-      "title": "Grand Canyon chaos as 15 hikers may be missing and flood wrecks park's lifeline",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大峡谷一片混乱，15 名徒步旅行者可能失踪，洪水摧毁了公园的生命线"
-    },
-    {
-      "title": "WATCH LIVE:House lawmakers hold field hearing at Flight 93 National Memorial",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "观看直播：众议院议员在 93 号航班国家纪念馆举行现场听证会"
-    },
-    {
-      "title": "Brain-eating amoeba leaves child dead, teen in critical condition",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "食脑阿米巴导致儿童死亡，青少年情况危急"
-    },
-    {
-      "title": "Camilla's 'olive branch' to Prince Harry reveals who she's really fighting for: report",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "卡米拉向哈里王子伸出的“橄榄枝”揭示了她真正为谁而战：报告"
-    },
-    {
-      "title": "Safety's lawyer claims he was blocked from bond hearing in locker room case",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "安全的律师声称他在更衣室案件中被阻止参加保释听证会"
-    },
-    {
-      "title": "World leader looks strikingly different in first prison photos since US capture",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "自美国被捕以来的第一张监狱照片中，世界领导人看起来截然不同"
-    },
-    {
-      "title": "Dem dodges onslaught of questions on major campaign scandal at key Dem convention",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党在重要的民主党大会上回避重大竞选丑闻的问题"
+      "title_zh": "Bootleg ‘Spider-Man’ swings into Russian cinemas despite Hollywood boycott"
     }
   ]
 }
