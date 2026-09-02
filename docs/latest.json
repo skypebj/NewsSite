@@ -1,6 +1,6 @@
 {
   "date": "20260902",
-  "total": 36,
+  "total": 42,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,266 +33,312 @@
   },
   "entries": [
     {
-      "title": "Pentagon responds after Iran accuses US of striking wedding ceremony",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "link": "",
-      "summary": "",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "published": "",
-      "title_zh": "伊朗指责美国袭击婚礼后五角大楼做出回应"
+      "title_zh": "德国局势“新升级”后，欧盟和北约誓言加大对俄罗斯施压",
+      "summary_zh": "在柏林指责俄罗斯对莱比锡机场的无人机袭击失败后，俄罗斯被指责变得越来越鲁莽。"
     },
     {
-      "title": "Judge raises stakes with pivotal ruling in Charlie Kirk assassination case",
+      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
       "link": "",
-      "summary": "",
+      "summary": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
       "published": "",
-      "title_zh": "法官对查理柯克暗杀案作出关键裁决"
+      "title_zh": "费萨尔·伊斯兰 (Faisal Islam)：为何债券市场野火让世界领导人夜不能寐",
+      "summary_zh": "庞大的人工智能支出计划和伊朗持续的战争正在推高世界各地的借贷成本。"
     },
     {
-      "title": "MIKE DAVIS:SCOTUS reversed her, so she brazenly reinstated election hold the very next day",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "迈克·戴维斯：斯科特斯推翻了她，所以她第二天就厚颜无耻地恢复选举"
-    },
-    {
-      "title": "NFL star signs $150,000,000 contract, but it's suddenly in jeopardy after new allegations",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "NFL球星签下1.5亿美元合同，但在新指控后突然陷入危险"
-    },
-    {
-      "title": "80-year-old Dem beats back generational challenge after going all-in on trans athletes",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "80 岁的民主党在全力支持跨性别运动员后战胜了代际挑战"
-    },
-    {
-      "title": "New weight-loss drug melts fat without curbing appetite — and preserves muscle",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "新的减肥药可以在不抑制食欲的情况下融化脂肪，并保留肌肉"
-    },
-    {
-      "title": "California decides consumers can't be trusted to pick their own tires",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "加州决定不能相信消费者会选择自己的轮胎"
-    },
-    {
-      "title": "Experts warn Harry and Meghan 'brought the circus back to town' at worst moment",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "专家警告哈利和梅根在最糟糕的时刻“把马戏团带回城”"
-    },
-    {
-      "title": "Lindsay Clancy jury's deadlock note isn't what it seems, retired judge says",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "退休法官表示，林赛·克兰西陪审团的僵局记录并不像看上去的那样"
-    },
-    {
-      "title": "James Carville says he knows 'two things' about socialist streamer Hasan Piker",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "詹姆斯·卡维尔表示，他了解社会主义流媒体哈桑·派克的“两件事”"
-    },
-    {
-      "title": "Money trail reveals far-left activists driving anti-data center push for key reason",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "资金追踪揭示了极左活动人士推动反数据中心的关键原因"
-    },
-    {
-      "title": "Thousands without power as Edouard lashes Southeast Texas with vicious winds",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "爱德华用恶风袭击德克萨斯州东南部，数千人断电"
-    },
-    {
-      "title": "FRANK SILLER:'I love you, brother' -- the 9/11 loss that inspired a mission of service",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "弗兰克·西勒：“我爱你，兄弟”——9/11 的损失激发了服务使命"
-    },
-    {
-      "title": "SEAN HANNITY:This is what so many Democrats now believe",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "肖恩·汉尼蒂：这就是许多民主党人现在所相信的"
-    },
-    {
-      "title": "Ukrainian citizens injured in explosion at German train station: police",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "德国火车站爆炸 乌克兰公民受伤：警方"
-    },
-    {
-      "title": "Immigration loophole Washington ignored for decades is getting shut down",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "华盛顿几十年来忽视的移民漏洞正在被关闭"
-    },
-    {
-      "title": "Beef price scrutiny hits grocery aisle as DOJ targets 8 major retailers",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "司法部瞄准 8 家主要零售商，牛肉价格审查席卷杂货店"
-    },
-    {
-      "title": "Dietitian's blunt verdict on the new 'healthier' $1.50 combo will surprise you",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "营养师对 1.50 美元新“更健康”组合的直率评价会让您大吃一惊"
-    },
-    {
-      "title": "Iran attempted cyberattacks on range of U.S. infrastructure, sources say",
-      "link": "https://www.nbcnews.com/now/video/u-s-strikes-targets-in-iran-near-strait-of-hormuz-as-iran-says-it-is-retaliating-269169733991",
-      "summary": "",
-      "published": "",
-      "title_zh": "消息人士称，伊朗试图对美国一系列基础设施进行网络攻击"
-    },
-    {
-      "title": "Thousands of U.S. service members arrive in Thailand after record stint at sea",
-      "link": "https://www.nbcnews.com/world/asia/uss-abraham-lincoln-arrives-thailand-extended-iran-deployment-rcna595651",
-      "summary": "",
-      "published": "",
-      "title_zh": "数千名美国军人在创纪录的海上航行后抵达泰国"
-    },
-    {
-      "title": "Send your questions for Richard Engel on Ukraine and more",
-      "link": "https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551",
-      "summary": "",
-      "published": "",
-      "title_zh": "向理查德·恩格尔发送有关乌克兰等问题的问题"
-    },
-    {
-      "title": "Did OpenAI’s rogue agents form a ‘civilization’? The AI industry can’t agree",
-      "link": "https://www.nbcnews.com/tech/tech-news/openai-hugging-face-hack-investigation-findings-divide-industry-rcna595383",
-      "summary": "",
-      "published": "",
-      "title_zh": "OpenAI 的流氓特工是否形成了“文明”？AI行业不能苟同"
-    },
-    {
-      "title": "Meta’s teen social media overhaul puts its safety promises to the test",
-      "link": "https://www.nbcnews.com/tech/tech-news/meta-teen-social-media-overhaul-safety-promises-effectiveness-rcna595561",
-      "summary": "",
-      "published": "",
-      "title_zh": "Meta 的青少年社交媒体改革使其安全承诺经受考验"
-    },
-    {
-      "title": "Burning issue",
-      "link": "https://www.nbcnews.com/politics/supreme-court/colorado-burns-novel-climate-change-lawsuit-seeking-damages-oil-compan-rcna589682",
-      "summary": "",
-      "published": "",
-      "title_zh": "燃烧问题"
-    },
-    {
-      "title": "Five days in Pattaya",
-      "link": "https://www.nbcnews.com/world/asia/thailand-uss-abraham-lincoln-pattaya-shore-leave-rcna595466",
-      "summary": "",
-      "published": "",
-      "title_zh": "芭堤雅五天"
-    },
-    {
-      "title": "From megafire to mudslide",
-      "link": "https://www.nbcnews.com/news/us-news/grand-canyon-flood-risk-fire-warning-park-service-rcna595302",
-      "summary": "",
-      "published": "",
-      "title_zh": "从特大火灾到泥石流"
-    },
-    {
-      "title": "Watch: What we know about reported strike on Iran wedding celebrations",
+      "title": "What we know about reported strike on Iran wedding celebrations",
       "link": "",
       "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
       "published": "",
-      "title_zh": "观看：我们对伊朗婚礼庆典袭击事件的了解",
+      "title_zh": "我们对伊朗婚礼庆典袭击事件的了解",
       "summary_zh": "BBC Verify 正在查看显示伊朗南部一座建筑物遭到袭击后的镜头。"
     },
     {
-      "title": "Jurors to return in Lindsay Clancy trial after judge asks them to break deadlock",
+      "title": "Jurors in Clancy trial tell judge they cannot reach unanimous verdict for second time",
       "link": "",
-      "summary": "They will resume efforts on Wednesday to reach a verdict in the case of a mother charged with murder over her children's deaths.",
+      "summary": "The judge orders jurors to keep deliberating in the case of the US mother accused of murdering her three children.",
       "published": "",
-      "title_zh": "法官要求陪审员打破僵局，陪审员重返林赛·克兰西审判",
-      "summary_zh": "他们将于周三继续努力，对一名被控谋杀孩子的母亲一案作出判决。"
+      "title_zh": "克兰西审判的陪审员告诉法官他们无法第二次达成一致裁决",
+      "summary_zh": "法官命令陪审员继续审议被指控谋杀三个孩子的美国母亲案件。"
     },
     {
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "link": "",
-      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
+      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "published": "",
-      "title_zh": "美国船员在创纪录的海上航行250天后抵达泰国芭堤雅",
-      "summary_zh": "亚伯拉罕·林肯号航空母舰正停靠在芭堤雅附近，芭堤雅以其霓虹灯夜生活和性旅游而闻名。"
+      "title_zh": "沙特阿拉伯称，伊朗袭击沙特油轮造成两名菲律宾水手死亡",
+      "summary_zh": "沙特谴责针对锡德尔的袭击，据报道周一在霍尔木兹海峡遭到不明弹丸袭击。"
     },
     {
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "title": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post",
       "link": "",
-      "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+      "summary": "The US Defence Secretary is facing criticism for his apparent online mocking of members of Canada's cadet programme.",
       "published": "",
-      "title_zh": "罗森伯格：普京对英国的隐晦威胁是俄罗斯对抗西方的一部分",
-      "summary_zh": "俄罗斯总统想让英国继续猜测并强调莫斯科的真实意图。"
+      "title_zh": "“有辱办公室尊严”：加拿大官员谴责皮特·赫格斯学员职位",
+      "summary_zh": "美国国防部长因在网上明显嘲笑加拿大学员计划成员而面临批评。"
     },
     {
-      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
+      "title": "Why US troops have a history in this raucous Thai city",
       "link": "",
-      "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+      "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
       "published": "",
-      "title_zh": "阿丽亚娜·格兰德 (Ariana Grande) 情绪激动地退出巡演并退出公众生活",
-      "summary_zh": "这位明星在结束她被称为“最后一次欢呼”的巡演时深情告别。"
+      "title_zh": "为什么美军在这座喧闹的泰国城市有着悠久的历史",
+      "summary_zh": "BBC 的乔纳森·海德 (Jonathan Head) 讲述了美军抵达芭堤雅的历史回响，芭堤雅是一个以热闹的酒吧而闻名的海滩度假胜地。"
     },
     {
-      "title": "Watch: BBC inside court as jury in Lindsay Clancy trial deadlocked",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
       "link": "",
-      "summary": "Clancy is facing murder charges for killing her three children at their family home in 2023.",
+      "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
       "published": "",
-      "title_zh": "观看：林赛·克兰西审判陪审团在法庭内陷入僵局",
-      "summary_zh": "克兰西因 2023 年在家中杀害了她的三个孩子而面临谋杀指控。"
+      "title_zh": "BBC 前往被占领的黎巴嫩境内，官员称以色列正在扩大阵地",
+      "summary_zh": "BBC 的一个团队参加了联合国维和部队的人道主义任务，该任务称以色列军队正在加固阵地并继续进行拆除。"
     },
     {
-      "title": "Have English Premier League title contenders done enough in transfer window to challenge Arsenal?",
+      "title": "Stars of The Gentlemen react to Meghan rumours",
       "link": "",
-      "summary": "As the transfer window closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
+      "summary": "The stars of Netflix's The Gentlemen season two reacted to the swirling rumours that Meghan, Duchess of Sussex may be joining the cast.",
       "published": "",
-      "title_zh": "英超冠军争夺者在转会窗口的表现是否足以挑战阿森纳？",
-      "summary_zh": "随着夏季转会窗口的关闭，首席足球作家菲尔·麦克纳尔蒂询问阿森纳的对手是否已经做了足够的努力来挑战冠军？"
+      "title_zh": "《绅士们》的明星们对梅根谣言的反应",
+      "summary_zh": "Netflix 的《绅士们》第二季的明星们对苏塞克斯公爵夫人梅根可能加入演员阵容的谣言做出了反应。"
     },
     {
-      "title": "Watch: BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
       "link": "",
-      "summary": "The BBC's Hugo Bachega joined a UN humanitarian convoy as it travelled along Israeli-occupied southern Lebanon.",
+      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
       "published": "",
-      "title_zh": "观看：BBC 前往被占领的黎巴嫩境内，官员称以色列正在扩大阵地",
-      "summary_zh": "BBC 的雨果·巴切加 (Hugo Bachega) 加入了联合国人道主义车队，该车队沿着以色列占领的黎巴嫩南部行驶。"
+      "title_zh": "法官驳回对制作公司的诉讼后，利佐表示“感激”",
+      "summary_zh": "这位关于该死的时间的歌手表示，她对结果感到“松了一口气”，并将“继续抗争”每一项索赔。"
     },
     {
-      "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "link": "",
-      "summary": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule.",
+      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
       "published": "",
-      "title_zh": "几内亚比绍公投批准扩大总统权力的新宪法",
-      "summary_zh": "这项全面的改革是在去年政变之后、提议恢复文官统治之前进行的。"
+      "title_zh": "泽连斯基表示，随着乌克兰加强无人机行动，航空公司应避开俄罗斯领空",
+      "summary_zh": "中国和海湾国家的航空公司仍在使用俄罗斯领空。与此同时，俄罗斯表示将加强对乌克兰的攻击。"
     },
     {
-      "title": "Are Arsenal taking a risk in not signing a world-class forward?",
+      "title": "UK aid worker says he was mistaken for survivor in Nepal",
       "link": "",
-      "summary": "Arsenal have been busy in the transfer market as they look to defend their Premier League title, but do they lack a world class striker still?",
+      "summary": "Alastair Chambers says the mix-up was after he returned to Kathmandu after flying back in an aid helicopter.",
       "published": "",
-      "title_zh": "阿森纳是否在冒险不签下一名世界级前锋？",
-      "summary_zh": "阿森纳在转会市场上一直很忙碌，他们希望卫冕英超冠军，但他们还缺少一名世界级前锋吗？"
+      "title_zh": "英国救援人员称他被误认为尼泊尔幸存者",
+      "summary_zh": "阿拉斯泰尔·钱伯斯表示，这次混乱是在他乘坐救援直升机返回加德满都后发生的。"
+    },
+    {
+      "title": "Gauff's flaw forgotten on winning US Open return",
+      "link": "",
+      "summary": "At last year's US Open, Coco Gauff's serve left her practising in the rain and crying on court - now it is a potent weapon.",
+      "published": "",
+      "title_zh": "赢得美国公开赛回归后，高夫的缺陷被遗忘",
+      "summary_zh": "去年美国网球公开赛上，可可·高夫的发球让她在雨中练习，在球场上哭泣——现在它成了一个有力的武器。"
+    },
+    {
+      "title": "How Everton's deadline day debacle leaves owners facing fan mutiny",
+      "link": "",
+      "summary": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
+      "published": "",
+      "title_zh": "埃弗顿的截止日惨败如何让老板面临球迷叛变",
+      "summary_zh": "埃弗顿首席足球作家菲尔·麦克纳尔蒂表示，埃弗顿在转会截止日对福拉林·巴洛贡的失败让老板弗里德金面临着球迷的叛变。"
+    },
+    {
+      "title": "President Trump's cryptic call to Iranians revives regime change speculation",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普总统对伊朗人的神秘呼吁再次引发政权更迭的猜测"
+    },
+    {
+      "title": "Explosive Trump allegation emerges from inside New York AG Letitia James' office",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "纽约州总检察长利蒂西亚·詹姆斯 (Letitia James) 办公室内部出现爆炸性特朗普指控"
+    },
+    {
+      "title": "Judge gives deadlocked Lindsay Clancy jury new instruction in last resort",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "法官向陷入僵局的林赛·克兰西陪审团发出最后的新指示"
+    },
+    {
+      "title": "Elementary school shooting contained as all students and staff confirmed safe",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "小学枪击事件已得到控制，所有学生和教职员工均已确认安全"
+    },
+    {
+      "title": "Tyler Robinson defense should be ‘embarrassed’ after attacking Charlie Kirk: lawyer",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒罗宾逊的辩护在攻击查理柯克后应该“尴尬”：律师"
+    },
+    {
+      "title": "What the Dallas Cowboys cheerleaders actually make per game",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "达拉斯牛仔队啦啦队每场比赛实际赚多少钱"
+    },
+    {
+      "title": "Missing girl, 5, found dead near popular South Carolina getaway; parents arrested",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "失踪的 5 岁女孩在南卡罗来纳州热门度假胜地附近被发现死亡；父母被捕"
+    },
+    {
+      "title": "Pro-terror drink menu haunts shop now facing reckoning for ejecting dad and his son",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "支持恐怖分子的饮料菜单出没于商店，现在面临驱逐父亲和儿子的惩罚"
+    },
+    {
+      "title": "Actor warns LA was deliberately 'destroyed' to keep the political class in power",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "演员警告洛杉矶被故意“摧毁”以保持政治阶层掌权"
+    },
+    {
+      "title": "Raiders make Fernando Mendoza decision, announce starting quarterback for Week 1",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "突袭者做出费尔南多·门多萨决定，宣布第一周首发四分卫"
+    },
+    {
+      "title": "Trump reveals he warned the golf legend to get a chauffeur 'a long time ago'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普透露，他“很久以前”就警告这位高尔夫传奇人物找司机"
+    },
+    {
+      "title": "Hockey player who collapsed at workout has 'zero chance of recovery,' lawyer says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "律师称，在训练中倒下的曲棍球运动员“康复的机会为零”"
+    },
+    {
+      "title": "Internet erupts after Ron DeSantis obliterates a screaming 'Soros' protester",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "罗恩·德桑蒂斯消灭了尖叫的“索罗斯”抗议者后，互联网爆发了"
+    },
+    {
+      "title": "Nicolas Cage leads all-star cast in WWII film about D-Day deception campaign",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "尼古拉斯·凯奇领衔主演二战电影，讲述诺曼底登陆欺骗行动"
+    },
+    {
+      "title": "Controversial Flock cameras face reckoning as major city pulls the plug on its system",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着主要城市拔掉其系统的插头，备受争议的 Flock 摄像机面临清算"
+    },
+    {
+      "title": "US Mint starts selling $1 coins emblazoned with President Trump's face",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国造币厂开始销售印有特朗普总统头像的 1 美元硬币"
+    },
+    {
+      "title": "Naomi Osaka's Allen Iverson tribute at US Open makes no sense whatsoever",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大阪直美在美国网球公开赛上向艾弗森致敬毫无意义"
+    },
+    {
+      "title": "Vanessa Trump stands by Tiger Woods as golfer pleads no contest in crash case",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凡妮莎·特朗普支持泰格·伍兹，高尔夫球手在撞车事故中不提出异议"
+    },
+    {
+      "title": "University cancels Muslim youth conference over state's 'terrorist' designation",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大学取消穆斯林青年会议，因该州被认定为“恐怖分子”"
+    },
+    {
+      "title": "Burial site of Jesus yields new archaeological evidence nearly 2,000 years later",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "近 2000 年后，耶稣的埋葬地点出现了新的考古证据"
+    },
+    {
+      "title": "Iran says U.S. strike on wedding party killed at least 4 and injured dozens",
+      "link": "https://www.nbcnews.com/world/iran/iran-us-strike-wedding-party-rcna595661",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗称美国对婚礼派对的袭击造成至少4人死亡、数十人受伤"
+    },
+    {
+      "title": "Lindsay Clancy jury tells judge they’re still deadlocked on 5th day of deliberations",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-jury-deadlocked-entering-5th-day-deliberations-person-a-rcna595693",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西陪审团告诉法官，他们在第五天的审议中仍然陷入僵局"
+    },
+    {
+      "title": "Colin Kaepernick believes Jay-Z has a ‘guilty conscience’ over deals with NFL and Target",
+      "link": "https://www.nbcnews.com/sports/nfl/colin-kaepernick-believes-jay-z-guilty-conscience-deals-nfl-target-rcna595364",
+      "summary": "",
+      "published": "",
+      "title_zh": "Colin Kaepernick 认为 Jay-Z 对与 NFL 和 Target 的交易有“良心愧疚”"
+    },
+    {
+      "title": "Massachusetts incumbents survive amid a brutal primary season for congressional Democrats",
+      "link": "https://www.nbcnews.com/politics/2026-election/massachusetts-incumbents-survive-brutal-primary-season-democrats-rcna595599",
+      "summary": "",
+      "published": "",
+      "title_zh": "马萨诸塞州现任议员在国会民主党残酷的初选季节中生存下来"
+    },
+    {
+      "title": "Arizona congressman heard ‘freight train crash’ sound during Grand Canyon flash flood",
+      "link": "https://www.nbcnews.com/news/us-news/rep-david-schweikert-describes-surviving-deadly-grand-canyon-flash-flo-rcna595625",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚利桑那州议员在大峡谷山洪暴发期间听到“货运列车相撞”的声音"
+    },
+    {
+      "title": "U.S. survivors recount narrow escape from deadly Nepal floods as others search for relatives",
+      "link": "https://www.nbcnews.com/world/asia/americans-recount-escape-deadly-nepal-flooding-rcna595348",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国幸存者讲述从致命的尼泊尔洪水中死里逃生的经历，其他人则在寻找亲人"
+    },
+    {
+      "title": "JD Vance talks end times, Antichrist and AI on faith podcast",
+      "link": "https://www.nbcnews.com/politics/trump-administration/jd-vance-talks-end-antichrist-ai-faith-podcast-rcna595733",
+      "summary": "",
+      "published": "",
+      "title_zh": "JD 万斯在信仰播客上谈论末世、反基督者和人工智能"
+    },
+    {
+      "title": "FOR SUBSCRIBERSForget crude oil. The real energy crisis right now is in diesel.",
+      "link": "https://www.nbcnews.com/business/energy/diesel-prices-russia-iran-refining-supply-rcna595680",
+      "summary": "",
+      "published": "",
+      "title_zh": "对于订阅者来说，忘掉原油吧。目前真正的能源危机是柴油。"
     }
   ]
 }
