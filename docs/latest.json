@@ -1,6 +1,6 @@
 {
   "date": "20260903",
-  "total": 6,
+  "total": 36,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,48 +33,270 @@
   },
   "entries": [
     {
-      "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
-      "link": "",
-      "summary": "With military haircuts and moustaches, the US sailors stood out against the flip-flops of the usual Pattaya crowd, writes the BBC's Jonathan Head.",
-      "published": "",
-      "title_zh": "购物到酒吧：亚伯拉罕·林肯号航空母舰水手经过 250 天的航行后在泰国放松身心",
-      "summary_zh": "英国广播公司 (BBC) 的乔纳森·海德 (Jonathan Head) 写道，留着军装发型和小胡子的美国水兵在芭堤雅普通人字拖人群中脱颖而出。"
-    },
-    {
-      "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
-      "link": "",
-      "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
-      "published": "",
-      "title_zh": "金赞扬伦敦“史无前例”的贝叶挂毯展览",
-      "summary_zh": "英国和法国领导人将在大英博物馆观看历史悠久的贝叶挂毯展览。"
-    },
-    {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "link": "https://www.nbcnews.com/world/asia/xi-visits-egypt-china-seeks-deeper-influence-mideast-rcna595814",
-      "summary": "",
-      "published": "",
-      "title_zh": "习近平访问埃及，中国寻求在中东加深影响力"
-    },
-    {
-      "title": "Retired judge reveals wild card that could tilt a Lindsay Clancy retrial to the defense",
+      "title": "US ally warns it will send Iran ‘into the Stone Age’ should Tehran attack",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "退休法官透露了通配符，这可能会使林赛·克兰西的重审向辩方倾斜"
+      "title_zh": "美国盟友警告称，如果德黑兰发动袭击，伊朗将进入“石器时代”"
     },
     {
-      "title": "Pentagon orders mandatory testosterone tests for male troops 30 and older",
+      "title": "State gets green light to keep biological males in girls' sports after major court loss",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "五角大楼下令对 30 岁及以上男性士兵进行强制性睾丸激素测试"
+      "title_zh": "在重大法庭败诉后，州政府批准让生男生女继续参加女子运动"
     },
     {
-      "title": "Youth football coaches brawl during game in latest string of incidents nationwide",
+      "title": "Dem presidential hopeful's longtime ally exposed for deep ties to CCP officials",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "全国范围内发生的最新一系列青少年足球教练在比赛中斗殴的事件"
+      "title_zh": "民主党总统候选人的长期盟友被曝与中共官员关系密切"
+    },
+    {
+      "title": "Restaurants are breaking a cardinal dining rule and most guests don't realize it",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "餐馆违反了基本的用餐规则，但大多数客人并没有意识到这一点"
+    },
+    {
+      "title": "Popular diet slashes liver fat by 67% while reversing prediabetes in some people",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "流行饮食可将肝脏脂肪减少 67%，同时逆转某些人的糖尿病前期"
+    },
+    {
+      "title": "90-year-old woman knocked to ground in disturbing sidewalk attack",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "90岁老妇在令人不安的人行道袭击中被撞倒在地"
+    },
+    {
+      "title": "Ex-NSA official warns socialist network's anti-AI push serves US rival's interests",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前美国国家安全局官员警告社会主义网络的反人工智能举措符合美国竞争对手的利益"
+    },
+    {
+      "title": "Retired judge flags wild card that could tilt potential Clancy retrial",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "退休法官标记外卡可能会倾斜潜在的克兰西重审"
+    },
+    {
+      "title": "‘Pablo Pledgecobar’ in court as docs reveal how frat's alleged drug deals ballooned to kilos",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“巴勃罗·普莱奇科巴”出庭，文件揭示了兄弟会涉嫌的毒品交易如何激增至公斤"
+    },
+    {
+      "title": "Russia tests Europe’s defenses as Putin pressures Moldova and eyes the Baltics",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "普京向摩尔多瓦施压并关注波罗的海国家，俄罗斯测试欧洲的防御能力"
+    },
+    {
+      "title": "Collins' 'stone cold' dunk on Jackson's family secret has fans saying she's still got it",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "柯林斯对杰克逊家庭秘密的“冰冷”扣篮让粉丝们说她仍然明白"
+    },
+    {
+      "title": "Feminist writer and activist Gloria Steinem dead at 92 after trailblazing career",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "女权主义作家兼活动家格洛丽亚·斯泰纳姆 (Gloria Steinem) 在开创性的职业生涯后去世，享年 92 岁"
+    },
+    {
+      "title": "NANCY GRACE:No one wants to talk about the reality of what happened to Clancy's children",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "南希·格蕾丝：没有人愿意谈论克兰西孩子们所遭遇的现实"
+    },
+    {
+      "title": "GOP mail-in voting proposal could impact millions of Americans ahead of midterms",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党邮寄投票提案可能会在中期选举前影响数百万美国人"
+    },
+    {
+      "title": "Modi meets Iran’s president as Trump threatens new sanctions on Tehran’s trade partners",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普威胁对德黑兰的贸易伙伴实施新制裁，莫迪会见伊朗总统"
+    },
+    {
+      "title": "Chicago baby dead in case drawing parallels to Lindsay Clancy killings",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "芝加哥一名婴儿死亡，案件与林赛·克兰西谋杀案相似"
+    },
+    {
+      "title": "Southwest Airlines unveils first-ever airport lounge network for 2027",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "西南航空推出 2027 年首个机场休息室网络"
+    },
+    {
+      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+      "link": "",
+      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
+      "published": "",
+      "title_zh": "随着“超级”厄尔尼诺现象加剧，有毒野火烟雾在东南亚蔓延",
+      "summary_zh": "数百万人暴露在烟雾中，超过 12,000 名儿童患有呼吸道疾病。"
+    },
+    {
+      "title": "Watch: What happens now after Lindsay Clancy trial jurors deadlocked again?",
+      "link": "",
+      "summary": "The BBC's Ana Faguy was in court and explains whether the case could be headed to a mistrial.",
+      "published": "",
+      "title_zh": "观看：林赛·克兰西审判陪审员再次陷入僵局后现在会发生什么？",
+      "summary_zh": "英国广播公司 (BBC) 的安娜·法吉 (Ana Faguy) 在法庭上解释了此案是否可能导致误审。"
+    },
+    {
+      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "link": "",
+      "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+      "published": "",
+      "title_zh": "加那利群岛附近船只获救后，80多名移民恐已死亡",
+      "summary_zh": "救援人员在船上找到了 44 名幸存者，但恶劣的天气意味着他们不得不留下 5 具尸体。"
+    },
+    {
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "link": "",
+      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+      "published": "",
+      "title_zh": "女权主义活动家兼记者格洛丽亚·斯泰纳姆去世，享年 92 岁",
+      "summary_zh": "她的基金会表示，她在纽约市的家中“平静地去世”，“周围有许多爱她的人”。"
+    },
+    {
+      "title": "'I was trying to make the world fairer,' Gloria Steinem told BBC",
+      "link": "",
+      "summary": "The icon of the US feminist movement spoke to the BBC about her legacy in 2003. She has died aged 92.",
+      "published": "",
+      "title_zh": "格洛丽亚·斯泰纳姆 (Gloria Steinem) 告诉 BBC：“我试图让世界变得更加公平”",
+      "summary_zh": "这位美国女权运动的偶像在 2003 年向 BBC 讲述了她的遗产。她去世，享年 92 岁。"
+    },
+    {
+      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
+      "link": "",
+      "summary": "With military haircuts and moustaches, the US sailors stand out against the flip-flops of the usual Pattaya crowd.",
+      "published": "",
+      "title_zh": "结束250天的航行后，美国水兵前往泰国酒吧购物",
+      "summary_zh": "留着军装发型和小胡子的美国水兵在穿着人字拖的芭堤雅人群中脱颖而出。"
+    },
+    {
+      "title": "US man struck by lightning describes 'horrific' experience",
+      "link": "",
+      "summary": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
+      "published": "",
+      "title_zh": "被闪电击中的美国男子描述“可怕”的经历",
+      "summary_zh": "托马斯·法赫米说，他看到“一道明亮的白色闪光”，然后立即倒在地上。"
+    },
+    {
+      "title": "What happens when a US graduate gets the keys to a business after university?",
+      "link": "",
+      "summary": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
+      "published": "",
+      "title_zh": "当美国毕业生大学毕业后获得创业钥匙时会发生什么？",
+      "summary_zh": "他们迫不及待地想要成为一家老牌公司的老板，他们借钱来资助他们的采购。"
+    },
+    {
+      "title": "Satellite images show how Canadian 'island' vanished before turning up 20 miles away",
+      "link": "",
+      "summary": "BBC Verify has used satellite imagery to track the mysterious phenomenon, which has surprised people around the world.",
+      "published": "",
+      "title_zh": "卫星图像显示加拿大“岛屿”如何在 20 英里外出现之前消失",
+      "summary_zh": "BBC verify利用卫星图像追踪了这一神秘现象，这让全世界的人们感到惊讶。"
+    },
+    {
+      "title": "Why 'sleepmaxxing' could be making your sleep worse",
+      "link": "",
+      "summary": "The things you're doing to make your sleep better could actually be making your sleep worse.",
+      "published": "",
+      "title_zh": "为什么“sleepmaxxing”可能会让您的睡眠质量变得更差",
+      "summary_zh": "你为改善睡眠而做的事情实际上可能会让你的睡眠变得更糟。"
+    },
+    {
+      "title": "The overlooked factor driving UK's childhood obesity crisis",
+      "link": "",
+      "summary": "At a specialist childhood obesity clinic, almost all of the children are not in school. Why?",
+      "published": "",
+      "title_zh": "导致英国儿童肥胖危机的被忽视因素",
+      "summary_zh": "在儿童肥胖症专科诊所，几乎所有的孩子都没有上学。为什么？"
+    },
+    {
+      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+      "link": "",
+      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+      "published": "",
+      "title_zh": "林赛·克兰西的审判会以无效审判告终吗？以下是陪审团的选择",
+      "summary_zh": "陪审员在决定被控谋杀三个孩子的前护士的命运时有五个选择。"
+    },
+    {
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "link": "",
+      "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
+      "published": "",
+      "title_zh": "“美丽、充满活力”的迪士尼明星卡拉·杰弗里去世，享年 33 岁",
+      "summary_zh": "杰弗里因在 2018 年迪士尼频道电影《僵尸》和两部续集中扮演啦啦队长布莉而闻名。"
+    },
+    {
+      "title": "Eleven people sentenced to death in Vietnam drug trafficking case",
+      "link": "",
+      "summary": "More than 200 people are convicted over a network smuggling drugs into Vietnam in toothpaste tubes and other consumer items.",
+      "published": "",
+      "title_zh": "越南贩毒案11人被判处死刑",
+      "summary_zh": "超过 200 人因通过牙膏管和其他消费品向越南走私毒品网络而被定罪。"
+    },
+    {
+      "title": "Gloria Steinem, fierce feminist trailblazer, dies at 92",
+      "link": "https://www.nbcnews.com/news/us-news/gloria-steinem-fierce-feminist-trailblazer-dies-age-92-rcna10708",
+      "summary": "",
+      "published": "",
+      "title_zh": "激烈的女权主义先驱格洛丽亚·斯泰纳姆 (Gloria Steinem) 去世，享年 92 岁"
+    },
+    {
+      "title": "Democrats vow aggressive investigations into Trump ‘corruption’ if they win the House",
+      "link": "https://www.nbcnews.com/politics/congress/democrats-vow-aggressive-investigations-trump-corruption-election-rcna595621",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党誓言如果赢得众议院席位，将对特朗普的“腐败”进行积极调查"
+    },
+    {
+      "title": "Republicans ratchet up a midterm message that raises alarm about Muslims",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-midterm-message-raising-alarm-muslims-abdul-el-sayed-rcna595562",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党加强中期信息，对穆斯林发出警告"
+    },
+    {
+      "title": "AI chatbots frequently flub voting questions ahead of midterms, study finds",
+      "link": "https://www.nbcnews.com/tech/tech-news/ai-midterm-chatbot-voting-election-chatgpt-meta-google-rcna595735",
+      "summary": "",
+      "published": "",
+      "title_zh": "研究发现，人工智能聊天机器人经常在中期选举前搞错投票问题"
+    },
+    {
+      "title": "GLP-1 medications may worsen or speed hair loss in some men, study finds",
+      "link": "https://www.nbcnews.com/health/mens-health/glp-1-hair-loss-male-pattern-baldness-shedding-study-rcna595577",
+      "summary": "",
+      "published": "",
+      "title_zh": "研究发现，GLP-1 药物可能会加重或加速某些男性脱发"
     }
   ]
 }
