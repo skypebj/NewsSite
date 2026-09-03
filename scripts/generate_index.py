@@ -14,13 +14,10 @@ from collections import defaultdict
 # ---------- 辅助函数 ----------
 def parse_html_filename(filename):
     """解析HTML文件名，返回 (站点, 日期时间字符串, 格式化显示) 或 None"""
-    # 格式: site_YYYYMMDD_HHMMSS.html
     parts = filename.split('_')
     if len(parts) >= 3 and parts[-1].endswith('.html'):
         site = parts[0]
-        # 时间戳可能是 YYYYMMDD_HHMMSS 或 YYYYMMDD_HHMMSS
         ts = parts[1] + '_' + parts[2].replace('.html', '')
-        # 验证时间戳格式
         if re.match(r'^\d{8}_\d{6}$', ts):
             date_part = ts[:8]
             time_part = ts[9:15]
@@ -38,13 +35,11 @@ def generate_homepage():
                 parsed = parse_html_filename(f)
                 if parsed:
                     html_files.append(parsed)
-        # 按时间倒序
         html_files.sort(key=lambda x: x['timestamp'], reverse=True)
 
     now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     output_path = 'docs/index.html'
 
-    # 构建HTML
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -91,7 +86,6 @@ def generate_homepage():
     if not html_files:
         html += '            <div class="no-data">暂无HTML文件</div>'
     else:
-        # 限制显示最近200个（防止页面过长）
         for item in html_files[:200]:
             html += f"""
             <div class="file-item">
@@ -117,12 +111,13 @@ def generate_homepage():
 </body>
 </html>
 """
+    # 关键：添加动态时间戳注释，确保每次生成内容不同
+    html += f'\n<!-- 生成时间: {datetime.now().isoformat()} -->\n'
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html)
     print(f"✅ 主页已生成: {output_path}")
 
 
-# ---------- 原主页（gallery.html）生成函数 ----------
 def generate_gallery():
     """生成画廊页 gallery.html，包含截图、词云、图表、健康状态等"""
     screenshot_dir = 'docs/screenshots'
@@ -471,6 +466,8 @@ def generate_gallery():
 </body>
 </html>
 """
+    # 关键：添加动态时间戳注释，确保每次生成内容不同
+    html += f'\n<!-- 生成时间: {datetime.now().isoformat()} -->\n'
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html)
     print(f"✅ 画廊页已生成: {output_path}")
