@@ -27,6 +27,7 @@ def parse_html_filename(filename):
 
 def generate_homepage():
     """生成新主页 index.html，显示HTML文件列表"""
+    print("开始生成主页 index.html...")
     html_dir = 'docs/html'
     html_files = []
     if os.path.exists(html_dir):
@@ -111,7 +112,6 @@ def generate_homepage():
 </body>
 </html>
 """
-    # 关键：添加动态时间戳注释，确保每次生成内容不同
     html += f'\n<!-- 生成时间: {datetime.now().isoformat()} -->\n'
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html)
@@ -120,6 +120,7 @@ def generate_homepage():
 
 def generate_gallery():
     """生成画廊页 gallery.html，包含截图、词云、图表、健康状态等"""
+    print("开始生成画廊页 gallery.html...")
     screenshot_dir = 'docs/screenshots'
     json_dir = 'docs/json'
     image_dir = 'docs/images'
@@ -130,26 +131,23 @@ def generate_gallery():
     output_path = 'docs/gallery.html'
 
     # 1. 截图
-    if not os.path.exists(screenshot_dir):
-        screenshot_files = []
-    else:
-        screenshot_files = [f for f in os.listdir(screenshot_dir) if f.endswith('.png')]
-
     date_groups = defaultdict(list)
-    for f in screenshot_files:
-        match = re.match(r'^(\w+)_(\d{8})_(\d{6})\.png$', f)
-        if match:
-            site, date_str, time_str = match.groups()
-            date_groups[date_str].append({
-                'site': site,
-                'date': date_str,
-                'time': time_str,
-                'filename': f,
-                'timestamp': f"{date_str}_{time_str}"
-            })
-    sorted_dates = sorted(date_groups.keys(), reverse=True)
+    if os.path.exists(screenshot_dir):
+        for f in os.listdir(screenshot_dir):
+            if f.endswith('.png'):
+                match = re.match(r'^(\w+)_(\d{8})_(\d{6})\.png$', f)
+                if match:
+                    site, date_str, time_str = match.groups()
+                    date_groups[date_str].append({
+                        'site': site,
+                        'date': date_str,
+                        'time': time_str,
+                        'filename': f,
+                        'timestamp': f"{date_str}_{time_str}"
+                    })
     for d in date_groups:
         date_groups[d].sort(key=lambda x: x['timestamp'], reverse=True)
+    sorted_dates = sorted(date_groups.keys(), reverse=True)
 
     # 2. 词云
     wordcloud_images = []
@@ -182,6 +180,8 @@ def generate_gallery():
     if os.path.exists(freq_path):
         with open(freq_path, 'r', encoding='utf-8') as f:
             freq_data = json.load(f)
+    else:
+        print("⚠️ 警告: 未找到 freq.json，使用空数据")
 
     now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
@@ -251,18 +251,19 @@ def generate_gallery():
             <div class="health-grid">
 """
     sites = health_data.get('sites', {})
-    for site, info in sites.items():
-        status_class = 'ok' if info.get('status') == 'ok' else 'fail'
-        status_text = '✅ 成功' if info.get('status') == 'ok' else '❌ 失败'
-        entries = info.get('entries', 0)
-        html += f"""
+    if sites:
+        for site, info in sites.items():
+            status_class = 'ok' if info.get('status') == 'ok' else 'fail'
+            status_text = '✅ 成功' if info.get('status') == 'ok' else '❌ 失败'
+            entries = info.get('entries', 0)
+            html += f"""
                 <div class="health-item">
                     <div><strong>{site.upper()}</strong></div>
                     <div class="status {status_class}">{status_text}</div>
                     <div>条目: {entries}</div>
                 </div>
         """
-    if not sites:
+    else:
         html += '<div class="no-data">暂无健康数据</div>'
 
     html += """
@@ -466,7 +467,6 @@ def generate_gallery():
 </body>
 </html>
 """
-    # 关键：添加动态时间戳注释，确保每次生成内容不同
     html += f'\n<!-- 生成时间: {datetime.now().isoformat()} -->\n'
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html)
