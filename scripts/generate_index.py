@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-生成最终展示页面 (docs/index.html)
-功能：截图展示、词云、健康状态、发布频率图表、EPUB下载、夜间模式、PWA支持
+生成两个页面：
+- docs/index.html   : 主页，显示所有HTML源码文件列表
+- docs/gallery.html : 画廊页，显示截图、词云、图表、健康状态等
 """
 
 import os
@@ -10,7 +11,120 @@ import re
 from datetime import datetime
 from collections import defaultdict
 
-def generate_index():
+# ---------- 辅助函数 ----------
+def parse_html_filename(filename):
+    """解析HTML文件名，返回 (站点, 日期时间字符串, 格式化显示) 或 None"""
+    # 格式: site_YYYYMMDD_HHMMSS.html
+    parts = filename.split('_')
+    if len(parts) >= 3 and parts[-1].endswith('.html'):
+        site = parts[0]
+        # 时间戳可能是 YYYYMMDD_HHMMSS 或 YYYYMMDD_HHMMSS
+        ts = parts[1] + '_' + parts[2].replace('.html', '')
+        # 验证时间戳格式
+        if re.match(r'^\d{8}_\d{6}$', ts):
+            date_part = ts[:8]
+            time_part = ts[9:15]
+            display = f"{date_part[:4]}-{date_part[4:6]}-{date_part[6:8]} {time_part[:2]}:{time_part[2:4]}:{time_part[4:6]}"
+            return {'site': site.upper(), 'timestamp': ts, 'display': display, 'filename': filename}
+    return None
+
+def generate_homepage():
+    """生成新主页 index.html，显示HTML文件列表"""
+    html_dir = 'docs/html'
+    html_files = []
+    if os.path.exists(html_dir):
+        for f in os.listdir(html_dir):
+            if f.endswith('.html'):
+                parsed = parse_html_filename(f)
+                if parsed:
+                    html_files.append(parsed)
+        # 按时间倒序
+        html_files.sort(key=lambda x: x['timestamp'], reverse=True)
+
+    now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    output_path = 'docs/index.html'
+
+    # 构建HTML
+    html = f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新闻源码存档</title>
+    <style>
+        * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+        body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; background: #f0f2f5; padding: 20px; transition: background 0.3s, color 0.3s; }}
+        body.dark {{ background: #1a1a2e; color: #eee; }}
+        .container {{ max-width: 1200px; margin: 0 auto; }}
+        .header {{ display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 20px; }}
+        h1 {{ margin: 0; }}
+        .nav-link {{ font-size: 18px; background: #007bff; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; }}
+        .nav-link:hover {{ background: #0056b3; }}
+        .section-title {{ font-size: 24px; margin: 20px 0 15px; border-bottom: 2px solid #ddd; padding-bottom: 8px; }}
+        body.dark .section-title {{ border-bottom-color: #444; }}
+        .file-grid {{ display: flex; flex-wrap: wrap; gap: 10px; }}
+        .file-item {{ background: white; border-radius: 6px; padding: 8px 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); display: inline-flex; align-items: center; }}
+        body.dark .file-item {{ background: #2a2a4a; }}
+        .file-item a {{ text-decoration: none; color: #007bff; }}
+        body.dark .file-item a {{ color: #66b0ff; }}
+        .file-item .site {{ font-weight: bold; margin-right: 8px; }}
+        .file-item .time {{ color: #666; font-size: 0.9em; }}
+        body.dark .file-item .time {{ color: #aaa; }}
+        .no-data {{ text-align: center; font-size: 18px; color: #999; margin-top: 50px; }}
+        .theme-toggle {{ position: fixed; top: 20px; right: 20px; background: rgba(255,255,255,0.8); border: none; border-radius: 50%; width: 40px; height: 40px; font-size: 20px; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }}
+        body.dark .theme-toggle {{ background: rgba(0,0,0,0.6); color: #fff; }}
+        @media (max-width: 600px) {{ .header {{ flex-direction: column; align-items: flex-start; gap: 10px; }} }}
+    </style>
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
+    <div class="container">
+        <div class="header">
+            <h1>📄 新闻源码存档</h1>
+            <a class="nav-link" href="./gallery.html">🖼️ 查看截图面板</a>
+        </div>
+        <div class="info" style="text-align:center; color:#666; margin-bottom:20px;">最后更新: {now_str}</div>
+
+        <div class="section-title">📂 已保存的HTML文件（点击查看）</div>
+        <div class="file-grid">
+"""
+    if not html_files:
+        html += '            <div class="no-data">暂无HTML文件</div>'
+    else:
+        # 限制显示最近200个（防止页面过长）
+        for item in html_files[:200]:
+            html += f"""
+            <div class="file-item">
+                <span class="site">{item['site']}</span>
+                <a href="./html/{item['filename']}" target="_blank">{item['display']}</a>
+            </div>
+        """
+        if len(html_files) > 200:
+            html += f'            <div class="file-item" style="background:transparent; box-shadow:none;">... 还有 {len(html_files)-200} 个文件</div>'
+
+    html += """
+        </div>
+    </div>
+    <script>
+        function toggleTheme() {
+            document.body.classList.toggle('dark');
+            localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+        }
+        if (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.body.classList.add('dark');
+        }
+    </script>
+</body>
+</html>
+"""
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(html)
+    print(f"✅ 主页已生成: {output_path}")
+
+
+# ---------- 原主页（gallery.html）生成函数 ----------
+def generate_gallery():
+    """生成画廊页 gallery.html，包含截图、词云、图表、健康状态等"""
     screenshot_dir = 'docs/screenshots'
     json_dir = 'docs/json'
     image_dir = 'docs/images'
@@ -18,9 +132,9 @@ def generate_index():
     archive_dir = 'docs/archives'
     health_path = 'docs/health.json'
     freq_path = 'docs/freq.json'
-    output_path = 'docs/index.html'
+    output_path = 'docs/gallery.html'
 
-    # 1. 获取截图列表并解析日期/时间
+    # 1. 截图
     if not os.path.exists(screenshot_dir):
         screenshot_files = []
     else:
@@ -38,60 +152,60 @@ def generate_index():
                 'filename': f,
                 'timestamp': f"{date_str}_{time_str}"
             })
-    # 排序
     sorted_dates = sorted(date_groups.keys(), reverse=True)
     for d in date_groups:
         date_groups[d].sort(key=lambda x: x['timestamp'], reverse=True)
 
-    # 2. 获取词云图片（最新）
+    # 2. 词云
     wordcloud_images = []
     if os.path.exists(image_dir):
         wc_files = [f for f in os.listdir(image_dir) if f.startswith('wordcloud_') and f.endswith('.png')]
         if wc_files:
             wc_files.sort(reverse=True)
-            wordcloud_images = wc_files  # 所有词云
+            wordcloud_images = wc_files
 
-    # 3. 获取EPUB文件列表
+    # 3. EPUB
     epub_files = []
     if os.path.exists(epub_dir):
         epub_files = [f for f in os.listdir(epub_dir) if f.endswith('.epub')]
         epub_files.sort(reverse=True)
 
-    # 4. 获取归档ZIP列表
+    # 4. 归档ZIP
     zip_files = []
     if os.path.exists(archive_dir):
         zip_files = [f for f in os.listdir(archive_dir) if f.endswith('.zip')]
         zip_files.sort(reverse=True)
 
-    # 5. 加载健康状态
+    # 5. 健康状态
     health_data = {}
     if os.path.exists(health_path):
         with open(health_path, 'r', encoding='utf-8') as f:
             health_data = json.load(f)
 
-    # 6. 加载频率数据（用于图表）
+    # 6. 频率数据
     freq_data = {}
     if os.path.exists(freq_path):
         with open(freq_path, 'r', encoding='utf-8') as f:
             freq_data = json.load(f)
 
-    # 构建HTML
     now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    # ----- 开始构建HTML字符串 -----
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>新闻监控面板</title>
+    <title>新闻监控 - 截图面板</title>
     <link rel="manifest" href="./manifest.json">
     <style>
         * {{ box-sizing: border-box; margin: 0; padding: 0; }}
         body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; background: #f0f2f5; padding: 20px; transition: background 0.3s, color 0.3s; }}
         body.dark {{ background: #1a1a2e; color: #eee; }}
         .container {{ max-width: 1400px; margin: 0 auto; }}
-        h1 {{ text-align: center; margin-bottom: 10px; }}
+        .header {{ display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 10px; }}
+        h1 {{ margin: 0; }}
+        .nav-link {{ font-size: 16px; background: #28a745; color: white; padding: 6px 14px; border-radius: 4px; text-decoration: none; }}
+        .nav-link:hover {{ background: #218838; }}
         .info {{ text-align: center; color: #666; margin-bottom: 20px; }}
         body.dark .info {{ color: #aaa; }}
         .controls {{ text-align: center; margin-bottom: 30px; }}
@@ -104,7 +218,7 @@ def generate_index():
         body.dark .section-title {{ border-bottom-color: #444; }}
         .gallery {{ display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }}
         .card {{ background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 15px; max-width: 800px; width: 100%; }}
-        body.dark .card {{ background: #2a2a4a; box-shadow: 0 2px 8px rgba(0,0,0,0.3); }}
+        body.dark .card {{ background: #2a2a4a; }}
         .card img {{ width: 100%; height: auto; border-radius: 4px; border: 1px solid #ddd; cursor: pointer; }}
         body.dark .card img {{ border-color: #444; }}
         .card .info {{ margin-top: 8px; font-size: 14px; color: #555; text-align: center; }}
@@ -124,13 +238,16 @@ def generate_index():
         .chart-container {{ max-width: 600px; margin: 0 auto; }}
         .theme-toggle {{ position: fixed; top: 20px; right: 20px; background: rgba(255,255,255,0.8); border: none; border-radius: 50%; width: 40px; height: 40px; font-size: 20px; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }}
         body.dark .theme-toggle {{ background: rgba(0,0,0,0.6); color: #fff; }}
-        @media (max-width: 600px) {{ .health-grid {{ grid-template-columns: 1fr 1fr; }} }}
+        @media (max-width: 600px) {{ .health-grid {{ grid-template-columns: 1fr 1fr; }} .header {{ flex-direction: column; align-items: flex-start; gap: 10px; }} }}
     </style>
 </head>
 <body>
     <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
     <div class="container">
-        <h1>📸 新闻监控面板</h1>
+        <div class="header">
+            <h1>📸 监控面板</h1>
+            <a class="nav-link" href="./index.html">📄 返回文件列表</a>
+        </div>
         <div class="info">最后更新: {now_str}</div>
 
         <!-- 健康状态 -->
@@ -138,7 +255,6 @@ def generate_index():
             <div class="section-title">🔍 健康状态</div>
             <div class="health-grid">
 """
-    # 健康状态
     sites = health_data.get('sites', {})
     for site, info in sites.items():
         status_class = 'ok' if info.get('status') == 'ok' else 'fail'
@@ -165,7 +281,7 @@ def generate_index():
                 <label for="dateSelect">日期：</label>
                 <select id="dateSelect" onchange="updateTimeOptions()">
                     <option value="">-- 全部 --</option>
-    """
+"""
     for date in sorted_dates:
         display = f"{date[:4]}-{date[4:6]}-{date[6:8]}"
         html += f'                    <option value="{date}">{display}</option>\n'
@@ -178,8 +294,7 @@ def generate_index():
                 <span id="countInfo"></span>
             </div>
             <div id="gallery" class="gallery">
-    """
-    # 生成截图卡片
+"""
     all_items = []
     for date in sorted_dates:
         all_items.extend(date_groups[date])
@@ -204,9 +319,9 @@ def generate_index():
         <div class="section">
             <div class="section-title">☁️ 热词云</div>
             <div style="text-align:center;">
-    """
+"""
     if wordcloud_images:
-        latest_wc = wordcloud_images[0]  # 最新
+        latest_wc = wordcloud_images[0]
         html += f'                <img src="./images/{latest_wc}" alt="词云" style="max-width:100%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);">'
     else:
         html += '<div class="no-data">暂无词云</div>'
@@ -227,9 +342,9 @@ def generate_index():
             <div class="section-title">📥 下载</div>
             <div class="downloads">
                 <span style="font-weight:bold;">EPUB：</span>
-    """
+"""
     if epub_files:
-        for epub in epub_files[:5]:  # 显示最近5个
+        for epub in epub_files[:5]:
             html += f'<a href="./epub/{epub}" download>{epub}</a> '
     else:
         html += '<span>暂无</span>'
@@ -237,7 +352,7 @@ def generate_index():
             </div>
             <div class="downloads" style="margin-top:10px;">
                 <span style="font-weight:bold;">历史归档：</span>
-    """
+"""
     if zip_files:
         for z in zip_files[:5]:
             html += f'<a href="./archives/{z}" download>{z}</a> '
@@ -249,7 +364,6 @@ def generate_index():
                 <a href="./latest.json" download>最新JSON</a>
             </div>
         </div>
-
     </div>
 
     <!-- 模态框 -->
@@ -357,11 +471,15 @@ def generate_index():
 </body>
 </html>
 """
-
-    # 写入文件
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html)
-    print(f"✅ 索引页面生成成功: {output_path}")
+    print(f"✅ 画廊页已生成: {output_path}")
+
+
+# ---------- 主函数 ----------
+def main():
+    generate_homepage()
+    generate_gallery()
 
 if __name__ == '__main__':
-    generate_index()
+    main()
