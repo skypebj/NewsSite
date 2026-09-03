@@ -1,6 +1,6 @@
 {
   "date": "20260903",
-  "total": 35,
+  "total": 6,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,265 +33,48 @@
   },
   "entries": [
     {
-      "title": "Toxic haze from Indonesia spreads to Malaysia and Philippines as wildfires rage",
+      "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
       "link": "",
-      "summary": "Millions in South East Asia are affected by toxic haze as wildfires burn in Indonesia's Sumatra and Kalimantan.",
+      "summary": "With military haircuts and moustaches, the US sailors stood out against the flip-flops of the usual Pattaya crowd, writes the BBC's Jonathan Head.",
       "published": "",
-      "title_zh": "随着野火肆虐，有毒烟雾从印度尼西亚蔓延到马来西亚和菲律宾",
-      "summary_zh": "由于印度尼西亚苏门答腊岛和加里曼丹岛发生野火，东南亚数百万人受到有毒雾霾的影响。"
+      "title_zh": "购物到酒吧：亚伯拉罕·林肯号航空母舰水手经过 250 天的航行后在泰国放松身心",
+      "summary_zh": "英国广播公司 (BBC) 的乔纳森·海德 (Jonathan Head) 写道，留着军装发型和小胡子的美国水兵在芭堤雅普通人字拖人群中脱颖而出。"
     },
     {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
       "link": "",
-      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"In God we trust\".",
+      "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
       "published": "",
-      "title_zh": "特朗普1美元硬币使他成为一个世纪以来首位使用美元货币的在世总统",
-      "summary_zh": "美国造币厂特别版印有特朗普的肖像以及“我们相信上帝”字样。"
+      "title_zh": "金赞扬伦敦“史无前例”的贝叶挂毯展览",
+      "summary_zh": "英国和法国领导人将在大英博物馆观看历史悠久的贝叶挂毯展览。"
     },
     {
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "link": "",
-      "summary": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "link": "https://www.nbcnews.com/world/asia/xi-visits-egypt-china-seeks-deeper-influence-mideast-rcna595814",
+      "summary": "",
       "published": "",
-      "title_zh": "荷兰将数十亿黄金运往伦敦以应对“危机准备”",
-      "summary_zh": "荷兰央行从美国和加拿大撤回了部分黄金储备，称这是因为“地缘政治动荡加剧”。"
+      "title_zh": "习近平访问埃及，中国寻求在中东加深影响力"
     },
     {
-      "title": "Watch: From Star Wars to Banksy, the art is with you at new Lucas Museum",
-      "link": "",
-      "summary": "The museum, founded Star Wars creator George Lucas and his wife, will feature more than 1,200 works of art.",
-      "published": "",
-      "title_zh": "Watch: From Star Wars to Banksy, the art is with you at new Lucas Museum",
-      "summary_zh": "该博物馆由《星球大战》创作者乔治·卢卡斯 (George Lucas) 和他的妻子创办，将展出 1,200 多件艺术品。"
-    },
-    {
-      "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-      "link": "",
-      "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-      "published": "",
-      "title_zh": "西班牙抗议政府处理休达移民危机",
-      "summary_zh": "西班牙反对党指责总理佩德罗·桑切斯抛弃休达居民。"
-    },
-    {
-      "title": "Will the Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "link": "",
-      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-      "published": "",
-      "title_zh": "林赛·克兰西案的审判会以无效审判告终吗？以下是陪审团的选择",
-      "summary_zh": "陪审员在决定被控谋杀三个孩子的前护士的命运时有五个选择。"
-    },
-    {
-      "title": "Why Nepal floods should worry India",
-      "link": "",
-      "summary": "The disaster comes as a warning as climate change raises shared Himalayan risks.",
-      "published": "",
-      "title_zh": "为什么尼泊尔洪水应该让印度担忧",
-      "summary_zh": "这场灾难是对气候变化引发的喜马拉雅山共同风险的警告。"
-    },
-    {
-      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
-      "link": "",
-      "summary": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.",
-      "published": "",
-      "title_zh": "“人群高喊我们偷了某人的生殖器”——社交媒体上传播致命谣言",
-      "summary_zh": "BBC 在收集六个非洲国家的数据后发现，已有 80 多人在暴徒暴力中丧生。"
-    },
-    {
-      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-      "link": "",
-      "summary": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
-      "published": "",
-      "title_zh": "维多利亚·贝克汉姆 (Victoria Beckham) 如何扭转她的时装公司并实现盈利",
-      "summary_zh": "这位前身为 Posh Spice 的流行歌星花了近二十年的时间才扭亏为盈。"
-    },
-    {
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "link": "",
-      "summary": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
-      "published": "",
-      "title_zh": "沙佩维尔大屠杀幸存者在南非开始争取正义的法律斗争",
-      "summary_zh": "1960 年至少有 69 人被枪杀，但无人受到起诉，受害者希望获得赔偿。"
-    },
-    {
-      "title": "Chasing a perfect sleep score? You could be making it worse",
-      "link": "",
-      "summary": "The things you're doing to make your sleep better could actually be making your sleep worse.",
-      "published": "",
-      "title_zh": "追求完美的睡眠分数？你可能会让事情变得更糟",
-      "summary_zh": "你为改善睡眠而做的事情实际上可能会让你的睡眠变得更糟。"
-    },
-    {
-      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-      "link": "",
-      "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
-      "published": "",
-      "title_zh": "马耳他大亨因策划谋杀著名记者而被判无罪",
-      "summary_zh": "达芙妮·卡鲁阿娜·加利齐亚 (Daphne Caruana Galizia) 在 2017 年被汽车炸弹炸死之前，揭露了马耳他的腐败和洗钱计划。"
-    },
-    {
-      "title": "Almost half of households do not see benefits of economic growth, report says",
-      "link": "",
-      "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
-      "published": "",
-      "title_zh": "报告称，近一半家庭没有看到经济增长的好处",
-      "summary_zh": "分析发现，英格兰北部和南部家庭的平均消费能力存在“明显”差距。"
-    },
-    {
-      "title": "Rocky Horror star Tim Curry's cause of death revealed",
-      "link": "",
-      "summary": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
-      "published": "",
-      "title_zh": "洛基恐怖明星蒂姆·库里的死因揭晓",
-      "summary_zh": "根据他在洛杉矶县的死亡证明，这位英国演员患有严重的疾病。"
-    },
-    {
-      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-      "link": "",
-      "summary": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time.",
-      "published": "",
-      "title_zh": "美国与委内瑞拉石油交易背后的多彩石油大亨亚历杭德罗·贝当古是谁？",
-      "summary_zh": "这位 46 岁的国际阴谋人物显然拥有在正确的时间出现在正确的地点的本领。"
-    },
-    {
-      "title": "Sabalenka earns 53-minute US Open win - but tension still shows",
-      "link": "",
-      "summary": "Two-time defending champion Aryna Sabalenka cruises into the US Open third round before a spiky exchange with a journalist.",
-      "published": "",
-      "title_zh": "萨巴伦卡赢得美国公开赛 53 分钟胜利，但紧张局势依然存在",
-      "summary_zh": "两届卫冕冠军阿琳娜·萨巴伦卡 (Aryna Sabalenka) 顺利进入美国公开赛第三轮，随后与记者进行了激烈的交流。"
-    },
-    {
-      "title": "Police officers among 'multiple victims' shot in Minneapolis; suspected gunman dead",
+      "title": "Retired judge reveals wild card that could tilt a Lindsay Clancy retrial to the defense",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "明尼阿波利斯“多名受害者”中的警察遭到枪击；疑似枪手死亡"
+      "title_zh": "退休法官透露了通配符，这可能会使林赛·克兰西的重审向辩方倾斜"
     },
     {
-      "title": "Judge tosses federal lawsuit on a technicality, clearing path for boys in female sports",
+      "title": "Pentagon orders mandatory testosterone tests for male troops 30 and older",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法官驳回联邦诉讼，为男孩参与女子运动扫清道路"
+      "title_zh": "五角大楼下令对 30 岁及以上男性士兵进行强制性睾丸激素测试"
     },
     {
-      "title": "Filmmaker cheers banking exec's stabbing with a chilling social media tribute",
+      "title": "Youth football coaches brawl during game in latest string of incidents nationwide",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "电影制片人通过社交媒体致敬银行高管被刺事件"
-    },
-    {
-      "title": "Major airline turns back 4 minutes after takeoff over pilot incapacitation",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大型航空公司因飞行员丧失工作能力而在起飞后 4 分钟返航"
-    },
-    {
-      "title": "Joe Rogan warns that high-profile case is a sign the world has gone crazy",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "乔·罗根警告说，备受瞩目的案件表明世界已经疯狂"
-    },
-    {
-      "title": "Tim Curry's cause of death revealed one week after the actor died at age 80",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "蒂姆·库里 (Tim Curry) 去世一周后去世，享年 80 岁"
-    },
-    {
-      "title": "Trump reveals scale of US attack on Iran, signals military is ready to unleash another",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普透露美国对伊朗的袭击规模，暗示军方准备发动另一次袭击"
-    },
-    {
-      "title": "US military boards alleged narco-terrorist vessel — then sends it to bottom of Pacific",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国军方登上涉嫌贩毒恐怖分子的船只，然后将其送往太平洋海底"
-    },
-    {
-      "title": "Rear Admiral joins Tyrus to expose what hides in 73% of unexplored ocean",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "海军少将与 Tyrus 一起揭露隐藏在 73% 未开发海洋中的秘密"
-    },
-    {
-      "title": "GUTFELD:Democrats are trying to get ahead of the mess before it’s too late",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "古菲尔德：民主党正试图在为时已晚之前摆脱混乱"
-    },
-    {
-      "title": "Emmitt Smith accused of running 'Ponzi scheme' that bilked tribe out of $2.5M",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃米特·史密斯 (Emmitt Smith) 被指控经营“庞氏骗局”，骗取部落 250 万美元"
-    },
-    {
-      "title": "McDonald's brings the heat with limited-time offering fans say should be permanent",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "McDonald's brings the heat with limited-time offering fans say should be permanent"
-    },
-    {
-      "title": "Rory McIlroy makes surprising admission about his future PGA Tour schedule",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "罗里·麦克罗伊令人惊讶地承认他未来的美巡赛日程"
-    },
-    {
-      "title": "Maine high court gives father power to restrict daughter’s church attendance",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "缅因州高等法院赋予父亲限制女儿去教堂的权力"
-    },
-    {
-      "title": "3 dead, including suspect, in Minneapolis apartment building shooting that wounded 5 others",
-      "link": "https://www.nbcnews.com/news/us-news/multiple-people-officers-shot-minneapolis-rcna595798",
-      "summary": "",
-      "published": "",
-      "title_zh": "明尼阿波利斯公寓楼枪击案造成 3 人死亡，其中包括嫌疑人，造成 5 人受伤"
-    },
-    {
-      "title": "Born in a bunker: How Ukraine delivers its babies underground, safe from Russian strikes",
-      "link": "https://www.nbcnews.com/world/ukraine/ukrainian-maternity-ward-underground-bunker-babies-are-born-shielded-r-rcna595724",
-      "summary": "",
-      "published": "",
-      "title_zh": "出生在地堡里：乌克兰如何在地下分娩，免受俄罗斯袭击"
-    },
-    {
-      "title": "USS Lincoln’s thousands of service personnel swap boots for flip-flops during Thailand R&R",
-      "link": "https://www.nbcnews.com/world/asia/uss-abraham-lincoln-sailors-shore-leave-pattaya-thailand-rcna595665",
-      "summary": "",
-      "published": "",
-      "title_zh": "林肯号航空母舰数千名服役人员在泰国休整期间将靴子换成人字拖"
-    },
-    {
-      "title": "Presented with bleak polling, the White House moves to make the midterms about Trump",
-      "link": "https://www.nbcnews.com/politics/elections/presented-bleak-polling-white-house-moves-make-midterms-trump-rcna594583",
-      "summary": "",
-      "published": "",
-      "title_zh": "民意调查惨淡，白宫采取行动让中期选举围绕特朗普"
-    },
-    {
-      "title": "Virginia couple arrested after 5-year-old nonverbal daughter is found dead in South Carolina waters",
-      "link": "https://www.nbcnews.com/news/us-news/virginia-couple-arrested-daughter-found-dead-south-carolina-rcna595786",
-      "summary": "",
-      "published": "",
-      "title_zh": "弗吉尼亚州夫妇5岁不会说话的女儿在南卡罗来纳州水域被发现死亡后被捕"
+      "title_zh": "全国范围内发生的最新一系列青少年足球教练在比赛中斗殴的事件"
     }
   ]
 }
