@@ -1,6 +1,6 @@
 {
   "date": "20260903",
-  "total": 42,
+  "total": 32,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "bbc": {
       "status": "ok",
-      "entries": 0
+      "entries": 10
     },
     "apnews": {
       "status": "ok",
@@ -33,310 +33,238 @@
   },
   "entries": [
     {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "link": "",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+      "title": "DOJ asks Supreme Court to allow Trump’s action on mail-in ballots to proceed ahead of midterms",
+      "link": "https://www.nbcnews.com/politics/trump-administration/justice-department-usps-supreme-court-action-mail-ballots-elections-rcna595924",
+      "summary": "",
       "published": "",
-      "title_zh": "官员称，巴勒斯坦青少年在定居者对西岸村庄的袭击中丧生",
-      "summary_zh": "穆加耶委员会表示，他们试图阻止定居者偷羊，但以色列军方表示，他们向以色列军队投掷石块。"
+      "title_zh": "司法部要求最高法院允许特朗普在中期选举前对邮寄选票采取行动"
     },
     {
-      "title": "Data centres are booming in Australia - but at what cost?",
+      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections",
+      "link": "https://www.nbcnews.com/politics/2026-election/missouri-supreme-court-rules-gop-drawn-map-cant-used-november-election-rcna595688",
+      "summary": "",
+      "published": "",
+      "title_zh": "密苏里州最高法院裁定共和党绘制的新地图不能用于 11 月选举"
+    },
+    {
+      "title": "Feds charge ICE officer with lying to investigators in the shooting of Venezuelan immigrant",
+      "link": "https://www.nbcnews.com/news/us-news/federal-prosecutors-charge-ice-officer-lying-investigators-shooting-ve-rcna595975",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦调查局指控 ICE 官员在枪击委内瑞拉移民事件中向调查人员撒谎"
+    },
+    {
+      "title": "FBI investigates alleged breach of IDs after hackers claim Hegseth driver’s license",
+      "link": "https://www.nbcnews.com/tech/security/fbi-investigates-alleged-breach-ids-hackers-claim-hegseth-drivers-lice-rcna595871",
+      "summary": "",
+      "published": "",
+      "title_zh": "黑客索取赫格斯驾驶执照后，联邦调查局 (FBI) 调查涉嫌身份泄露事件"
+    },
+    {
+      "title": "Inside Ukraine’s underground school shielding children from Russian bombs",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraines-underground-school-shielding-children-russian-bombs-rcna595872",
+      "summary": "",
+      "published": "",
+      "title_zh": "乌克兰地下学校内部保护儿童免受俄罗斯炸弹袭击"
+    },
+    {
+      "title": "Court says Trump admin lost before the Supreme Court and has now lost once again",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Court says Trump admin lost before the Supreme Court and has now lost once again"
+    },
+    {
+      "title": "Israel makes major battlefield move after Iran warned what could come next",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Israel makes major battlefield move after Iran warned what could come next"
+    },
+    {
+      "title": "Harris gives surprising response to Dems asking her to 'stay away' from races",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "哈里斯对民主党要求她“远离”竞选的回应令人惊讶"
+    },
+    {
+      "title": "Jelly Roll warned his political views could alienate the country music audience",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Jelly Roll 警告他的政治观点可能会疏远乡村音乐观众"
+    },
+    {
+      "title": "Musician, pregnant wife and 3-year-old daughter shot and killed inside home",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "音乐家、怀孕的妻子和3岁的女儿在家中被枪杀"
+    },
+    {
+      "title": "WATCH:SWAT vehicle rams tractor in dramatic takedown during Oregon standoff",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看：俄勒冈州对峙期间，特警车辆撞上拖拉机，戏剧性地被击落"
+    },
+    {
+      "title": "Clancy’s attorney reveals new details about jury note after explosive courtroom showdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克兰西的律师在爆炸性的法庭摊牌后透露了陪审团记录的新细节"
+    },
+    {
+      "title": "Trump's Smithsonian showdown takes dramatic turn as new warning emerges",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着新警告的出现，特朗普的史密森尼摊牌发生戏剧性转变"
+    },
+    {
+      "title": "Jeffries threatens rogue Democrats after they side with Republicans in key vote",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Jeffries threatens rogue Democrats after they side with Republicans in key vote"
+    },
+    {
+      "title": "Sydney Sweeney plants a kiss on Scooter Braun during Venice gondola ride",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "悉尼·斯威尼 (Sydney Sweeney) 在威尼斯缆车之旅中亲吻了斯库特·布劳恩 (Scooter Braun)"
+    },
+    {
+      "title": "Enes Kanter Freedom files lawsuit against Sky following ejection, ban after altercation with Natasha Cloud",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃内斯·坎特 (Enes Kanter Freedom) 在与娜塔莎·克劳德 (Natasha Cloud) 发生口角后被驱逐、禁止后对天空提起诉讼"
+    },
+    {
+      "title": "2-year-old girl falls from Sky Ride before it starts as aunt jumps off to help",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "2-year-old girl falls from Sky Ride before it starts as aunt jumps off to help"
+    },
+    {
+      "title": "Virginia mom appeals conviction after letting 5-year-old walk alone",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "弗吉尼亚州妈妈因让5岁孩子独自行走而上诉"
+    },
+    {
+      "title": "Former Broncos draft pick found dead after haunting farewell message",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前野马队选秀球员在令人难忘的告别信息后被发现死亡"
+    },
+    {
+      "title": "Seattle axes $50K police bonuses while sitting hundreds of officers short",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "西雅图削减了 5 万美元的警察奖金，但数百名警察却缺钱"
+    },
+    {
+      "title": "DeSantis says Tiger Woods should be allowed to do one thing during suspension",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "德桑蒂斯表示应该允许老虎伍兹在禁赛期间做一件事"
+    },
+    {
+      "title": "Vance reveals who gave him diet tips behind his slimmer look at White House briefing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "万斯在白宫简报会上透露谁给了他饮食秘诀，让他看起来更苗条"
+    },
+    {
+      "title": "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding",
+      "link": "",
+      "summary": "Iran has accused the US of a war crime after officials said a missile strike killed four people, including two children, at a wedding celebration.",
+      "published": "",
+      "title_zh": "观看：JD 万斯对涉嫌袭击伊朗婚礼表示“极其怀疑”",
+      "summary_zh": "伊朗指责美国犯有战争罪，此前官员称导弹袭击在一场婚礼上造成四人死亡，其中包括两名儿童。"
+    },
+    {
+      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "link": "",
+      "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+      "published": "",
+      "title_zh": "特朗普暗示，由于缺乏伊朗战争支持，美国不会在福克兰群岛问题上支持英国",
+      "summary_zh": "美国总统表示，在他与伊朗持续的战争中，英国没有“帮助我”。"
+    },
+    {
+      "title": "AI data centres are booming in Australia - but at what cost?",
       "link": "",
       "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
       "published": "",
-      "title_zh": "数据中心在澳大利亚蓬勃发展 - 但代价是什么？",
+      "title_zh": "澳大利亚的人工智能数据中心正在蓬勃发展——但代价是什么？",
       "summary_zh": "支持者表示，数据中心将带来就业机会，但其他人则担心它们会占用资源，同时提供的优势却很少。"
     },
     {
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
       "link": "",
-      "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+      "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
       "published": "",
-      "title_zh": "Nvidia 斥资 129 亿美元收购人工智能平台 Hugging Face",
-      "summary_zh": "这笔交易使英伟达能够控制领先的开源人工智能平台和开发者社区。"
+      "title_zh": "ICE 特工被指控在镇压期间谎称射杀委内瑞拉男子",
+      "summary_zh": "这名 ICE 官员面临与 1 月份明尼苏达州枪击事件有关的联邦指控。"
     },
     {
-      "title": "Lindsay Clancy's defence lawyer has heated exchange with judge as court resumes",
+      "title": "How the brain of a fly may help explain human behaviour",
       "link": "",
-      "summary": "The 36-year-old former nurse does not dispute killing her three children, but her lawyer argues she was suffering from postpartum psychosis.",
+      "summary": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
       "published": "",
-      "title_zh": "法庭恢复审理时，林赛·克兰西的辩护律师与法官进行了激烈的交流",
-      "summary_zh": "这位 36 岁的前护士对杀害她的三个孩子没有异议，但她的律师辩称她患有产后精神病。"
+      "title_zh": "苍蝇的大脑如何帮助解释人类行为",
+      "summary_zh": "比较雄性和雌性果蝇的大脑可能会改变我们对基因如何塑造行为的理解，包括我们自己的行为。"
     },
     {
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
       "link": "",
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
       "published": "",
-      "title_zh": "联合国警告各国做好应对厄尔尼诺现象的准备",
-      "summary_zh": "世界气象组织警告说，自然天气现象可能会给全球经济带来破坏。"
+      "title_zh": "陷入困境的西班牙首相坚称休达危机发生前没有事先发出警告",
+      "summary_zh": "佩德罗·桑切斯告诉议会，在数千人参加西班牙城市的抗议活动后，认为政府什么都不知道、什么也没做的想法是荒谬的。"
     },
     {
-      "title": "Another White House renovation? A look at Trump's new helipad",
+      "title": "Watch: Trump $1 commemorative coin goes on sale",
       "link": "",
-      "summary": "The facility will be the first of its kind at the White House - though critics feel it alters the property's historic grounds.",
+      "summary": "The US Mint began selling gold-coloured $1(£0.74) coins featuring President Donald Trump's likeness to mark the country's 250th anniversary.",
       "published": "",
-      "title_zh": "白宫再次翻修？看看特朗普的新直升机停机坪",
-      "summary_zh": "该设施将是白宫首个此类设施，尽管批评者认为它改变了白宫的历史场地。"
+      "title_zh": "观看：特朗普 1 美元纪念币发售",
+      "summary_zh": "美国造币厂开始销售印有唐纳德·特朗普总统肖像的 1 美元（0.74 英镑）金色硬币，以纪念该国成立 250 周年。"
     },
     {
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
       "link": "",
-      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+      "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
       "published": "",
-      "title_zh": "由于打击行动限制了小船供应，海峡走私团伙诉诸“巨型橡皮艇”",
-      "summary_zh": "英国广播公司(BBC)的一项调查发现，由于小船短缺，曾经相互竞争的犯罪团伙被迫联手合作。"
+      "title_zh": "审判听到安东尼·约书亚的司机在致命事故前试图超车",
+      "summary_zh": "阿德尼伊·莫博拉吉·卡约德 (Adeniyi Mobolaji Kayode) 在尼日利亚被指控犯有危险驾驶致人死亡等罪行。"
     },
     {
-      "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
+      "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
       "link": "",
-      "summary": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
+      "summary": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
       "published": "",
-      "title_zh": "阿米莉亚·迪莫登伯格 (Amelia Dimoldenberg) 将关闭鸡肉店 Date",
-      "summary_zh": "阿米莉亚·迪莫登伯格 (Amelia Dimoldenberg) 宣布她将结束十多年后广受欢迎的 YouTube 系列节目。"
+      "title_zh": "多莉·帕顿 (Dolly Parton) 在遭受破坏后在好莱坞星光大道上获得新星",
+      "summary_zh": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off."
     },
     {
-      "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
+      "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
       "link": "",
-      "summary": "Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.",
+      "summary": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
       "published": "",
-      "title_zh": "列支敦士登议员不顾否决威胁，投票通过堕胎合法化",
-      "summary_zh": "公民倡议的组织者表示，他们得到了民众的支持，尽管全能的君主表示他将否决这项立法。"
-    },
-    {
-      "title": "Judge blocks another effort by Trump to limit birthright citizenship",
-      "link": "",
-      "summary": "A judge cited the earlier Supreme Court ruling blocking Trump's effort as precedent for blocking it again.",
-      "published": "",
-      "title_zh": "法官阻止特朗普另一项限制出生公民权的努力",
-      "summary_zh": "一名法官援引最高法院早些时候阻止特朗普努力的裁决作为再次阻止特朗普努力的先例。"
-    },
-    {
-      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-      "link": "",
-      "summary": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
-      "published": "",
-      "title_zh": "洛基恐怖明星蒂姆·库里的死因被揭露为冠状动脉疾病",
-      "summary_zh": "根据他在洛杉矶县的死亡证明，这位英国演员患有严重的疾病。"
-    },
-    {
-      "title": "Breaking down Chelsea's staggering 39 summer exits",
-      "link": "",
-      "summary": "Chelsea are believed to have recouped more than £500m this summer by either selling or loaning out a staggering 39 players.",
-      "published": "",
-      "title_zh": "解析切尔西夏季 39 场令人震惊的出局",
-      "summary_zh": "据信，切尔西今年夏天通过出售或租借多达 39 名球员，收回了超过 5 亿英镑的收入。"
-    },
-    {
-      "title": "HAPPENING NOW: New note from Clancy jury after deadlock; Clancy and lawyers at sidebar",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "现在发生的事情：克兰西陪审团在僵局后发出新的说明；侧边栏的克兰西和律师"
-    },
-    {
-      "title": "Trump issues fiery warning over 'treasonous' reports on key US weapons stockpile",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普对美国主要武器库存的“叛国”报道发出严厉警告"
-    },
-    {
-      "title": "'Mount Everest of shipwrecks' draws divers as legendary wreck slowly disappears",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着传奇沉船慢慢消失，“沉船中的珠穆朗玛峰”吸引了潜水员"
-    },
-    {
-      "title": "Spanish PM points finger at two countries as tens of thousands rage in his own streets",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "西班牙总理指责两国，数万人在他自己的街道上愤怒"
-    },
-    {
-      "title": "Dem gov in hot seat after 'inexcusable' immigration move leads to red state man's death",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "“不可原谅的”移民行动导致红州人死亡后，民主党政府陷入困境"
-    },
-    {
-      "title": "Christian LGBT star busted by feds after alleged threats to kill Trump, inner circle",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "基督教 LGBT 明星因涉嫌威胁杀死特朗普及其核心圈子而被联邦抓获"
-    },
-    {
-      "title": "SEC files bombshell lawsuit against LSU, Kiffin amid eligibility hearing",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国证券交易委员会在资格听证会上对路易斯安那州立大学和基芬提起重磅诉讼"
-    },
-    {
-      "title": "Officers leap into action after 70-year-old woman allegedly opens fire inside police dept",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "据称 70 岁妇女在警察局内开枪后，警方立即采取行动"
-    },
-    {
-      "title": "GOP senator Thom Tillis calls for Trump to replace War Secretary Pete Hegseth",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党参议员汤姆·蒂利斯呼吁特朗普取代战争部长皮特·赫格斯"
-    },
-    {
-      "title": "Investigation reveals who’s driving the fight against data centers and Flock cameras",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "调查揭示了谁在推动针对数据中心和 Flock 摄像头的斗争"
-    },
-    {
-      "title": "'Deadpool' star's brutal take on a beloved American era sparks outrage",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "《死侍》明星对深受喜爱的美国时代的残酷演绎引发了愤怒"
-    },
-    {
-      "title": "Ex-NFL star Alphonso Smith Jr's chilling last post warned 'This is it'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前 NFL 球星小阿方索·史密斯在最后一篇令人不寒而栗的帖子中警告说“就是这样”"
-    },
-    {
-      "title": "Deadly mosquito-borne virus claims first life in major US city as cases spread",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着病例的蔓延，致命的蚊媒病毒夺走了美国主要城市的第一个生命"
-    },
-    {
-      "title": "Sabalenka tells reporter 'think before you say stuff' in fiery US Open presser",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "萨巴伦卡在激烈的美国公开赛新闻发布会上告诉记者“说话之前先三思”"
-    },
-    {
-      "title": "Bride keeps smiling after wedding photos take a shocking turn",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "婚纱照发生惊人转变后，新娘微笑不已"
-    },
-    {
-      "title": "NASCAR has a new most popular driver, and his TikTok girlfriend is causing problems",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "NASCAR 迎来了一位新的最受欢迎车手，他的 TikTok 女友引发了问题"
-    },
-    {
-      "title": "Cubs star pitcher suffers epic dugout meltdown after being removed from game",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "小熊队明星投手在被从比赛中除名后遭受了史诗般的休息崩溃"
-    },
-    {
-      "title": "ICE agent nabbed on federal rap for allegedly lying about Minneapolis shooting",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "ICE 特工因涉嫌对明尼阿波利斯枪击事件撒谎而被联邦指控"
-    },
-    {
-      "title": "Judge spells out why accused Charlie Kirk assassin still faces potential death penalty",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "法官阐明为何被指控的查理·柯克刺客仍面临死刑"
-    },
-    {
-      "title": "Reactions pour in after fresh preview for upcoming 'Harry Potter' series",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "即将上映的《哈利·波特》系列的新预览后反应热烈"
-    },
-    {
-      "title": "Vance defends Trump’s stance on data centers amid bipartisan backlash",
-      "link": "https://www.nbcnews.com/news/trump-hit-campaign-trail-low-gop-voter-enthusiasm-rcna595859",
-      "summary": "",
-      "published": "",
-      "title_zh": "万斯在两党强烈反对下捍卫特朗普对数据中心的立场"
-    },
-    {
-      "title": "Elon Musk’s super PAC dives into midterms to bolster GOP in battleground races",
-      "link": "https://www.nbcnews.com/politics/2026-election/elon-musk-super-pac-midterms-republicans-rcna595909",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃隆·马斯克的超级政治行动委员会深入中期选举，在战场竞选中支持共和党"
-    },
-    {
-      "title": "Lindsay Clancy jury remains deadlocked on 6th day of deliberations as mistrial looms",
-      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-jury-remains-deadlocked-6th-day-deliberations-mistrial-rcna595884",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西 (Lindsay Clancy) 陪审团在第六天的审议中仍陷入僵局，因为审判即将结束"
-    },
-    {
-      "title": "The unspoken testimony in the Lindsay Clancy trial",
-      "link": "https://www.nbcnews.com/video/the-unspoken-testimony-in-the-lindsay-clancy-trial-269020741781",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西审判中的无声证词"
-    },
-    {
-      "title": "What the jury must consider while deciding Clancy’s fate",
-      "link": "https://www.nbcnews.com/video/what-the-jury-must-consider-while-deciding-lindsay-clancy-s-fate-269171781774",
-      "summary": "",
-      "published": "",
-      "title_zh": "陪审团在决定克兰西的命运时必须考虑什么"
-    },
-    {
-      "title": "What is the Tuey-Rodriguez instruction the judge gave jurors?",
-      "link": "https://www.nbcnews.com/now/video/what-is-the-tuey-rodriguez-instruction-the-judge-gave-in-the-lindsey-clancy-trial-269230149592",
-      "summary": "",
-      "published": "",
-      "title_zh": "法官向陪审员发出的 Tuey-Rodriguez 指示是什么？"
-    },
-    {
-      "title": "Fox News parts ways with Maria Bartiromo",
-      "link": "https://www.nbcnews.com/business/media/fox-news-maria-bartiromo-rcna595954",
-      "summary": "",
-      "published": "",
-      "title_zh": "福克斯新闻与玛丽亚·巴蒂罗莫分道扬镳"
-    },
-    {
-      "title": "After NBA punishes Clippers, league insiders debate whether penalties were enough",
-      "link": "https://www.nbcnews.com/sports/nba/nba-punishes-clippers-league-insiders-debate-whether-penalties-enough-rcna595855",
-      "summary": "",
-      "published": "",
-      "title_zh": "NBA处罚快船队后，联盟内部人士争论处罚是否足够"
-    },
-    {
-      "title": "OpenAI releases new model that it says triggered internal security measures",
-      "link": "https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940",
-      "summary": "",
-      "published": "",
-      "title_zh": "OpenAI 发布新模型，据称触发了内部安全措施"
-    },
-    {
-      "title": "In Nepal, mourners hold symbolic cremation for missing loved ones",
-      "link": "https://www.nbcnews.com/world/asia/nepal-mourners-hold-symbolic-cremation-missing-loved-ones-rcna595850",
-      "summary": "",
-      "published": "",
-      "title_zh": "在尼泊尔，哀悼者为失踪亲人举行象征性火葬"
+      "title_zh": "国际足联指责欧足联对因凡蒂诺进行“抹黑”",
+      "summary_zh": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors."
     }
   ]
 }
