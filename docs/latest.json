@@ -1,20 +1,8 @@
 {
   "date": "20260904",
-  "total": 30,
+  "total": 37,
   "sources": {
-    "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
-    "fox": {
-      "status": "ok",
-      "entries": 0
-    },
-    "nytimes": {
-      "status": "ok",
-      "entries": 0
-    },
-    "theguardian": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -22,238 +10,298 @@
       "status": "ok",
       "entries": 0
     },
-    "apnews": {
+    "nytimes": {
       "status": "ok",
       "entries": 0
     },
-    "cnn": {
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "GOP candidate gets busted after allegedly trying to plant drugs on his political rival",
+      "title": "Two trapped workers pulled alive from Nepal tunnel more than a week after deadly floods",
+      "link": "https://www.nbcnews.com/world/asia/two-trapped-workers-rescued-alive-tunnel-nepal-rcna596050",
+      "summary": "",
+      "published": "",
+      "title_zh": "致命洪水一周多后，两名被困工人从尼泊尔隧道中被救出"
+    },
+    {
+      "title": "Democrats mobilize to combat potential disruption of midterms",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-mobilize-unprecedented-defense-election-disruption-rcna594946",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党动员起来应对中期选举的潜在干扰"
+    },
+    {
+      "title": "First midterm ballots set to go in the mail amid uncertainty over Trump’s executive order",
+      "link": "https://www.nbcnews.com/politics/2026-election/first-midterm-ballots-set-go-mail-uncertainty-trumps-executive-order-rcna595522",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于特朗普行政命令的不确定性，第一批中期选票将邮寄"
+    },
+    {
+      "title": "Price of diesel hits all-time high as wars in Iran, Ukraine constrict global supply",
+      "link": "https://www.nbcnews.com/business/energy/diesel-hits-all-time-high-iran-ukraine-trump-rcna595998",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗和乌克兰战争限制全球供应，柴油价格创历史新高"
+    },
+    {
+      "title": "JD Vance says conflict with Iran is not a ‘war’",
+      "link": "https://www.nbcnews.com/nightly-news/video/vance-says-conflict-with-iran-is-not-a-war-269299269778",
+      "summary": "",
+      "published": "",
+      "title_zh": "JD万斯表示与伊朗的冲突不是“战争”"
+    },
+    {
+      "title": "U.S. added 162,000 jobs in August, while wage growth continued to lag inflation",
+      "link": "https://www.nbcnews.com/business/economy/august-jobs-report-trump-inflation-rcna595974",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国8月新增就业岗位16.2万个，工资增长继续落后于通胀"
+    },
+    {
+      "title": "Netflix bets on Alix Earle as creator drama makes the leap to reality TV",
+      "link": "https://www.nbcnews.com/pop-culture/tv/netflix-alix-earle-reality-tv-youtube-alex-cooper-rcna595567",
+      "summary": "",
+      "published": "",
+      "title_zh": "Netflix 押注阿利克斯·厄尔 (Alix Earle) 创作电视剧，有望进军真人秀节目"
+    },
+    {
+      "title": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
+      "link": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
+      "summary": "",
+      "published": "",
+      "title_zh": "最严格的州人工智能法律背后的立法者敦促科技公司放慢脚步"
+    },
+    {
+      "title": "Her sister donated part of her liver. Now stem cells may free her from lifelong drugs.",
+      "link": "https://www.nbcnews.com/health/health-news/clinical-trial-aims-give-organ-transplant-patients-lives-free-harsh-dr-rcna595580",
+      "summary": "",
+      "published": "",
+      "title_zh": "她的姐姐捐献了部分肝脏。现在，干细胞可能使她摆脱终生药物的困扰。"
+    },
+    {
+      "title": "Trump trade chief reveals demand that sank Canada's 'best deal in the world'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党候选人因涉嫌试图向其政治对手植入毒品而被捕"
+      "title_zh": "特朗普贸易主管揭露了导致加拿大“世界上最好的协议”失败的要求"
     },
     {
-      "title": "Popular travel item could be rejected at airport security under little-known TSA rule",
+      "title": "Trump keeps Iran in suspense as Vance hints at what could come next",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "根据运输安全管理局鲜为人知的规定，热门旅行物品可能会在机场安检时被拒绝"
+      "title_zh": "特朗普让伊朗悬而未决，万斯暗示接下来会发生什么"
     },
     {
-      "title": "Judge makes crucial ruling on whether athletes with NFL ties can play college football",
+      "title": "Professor's redesigned study reveals who's really buying weapons in America",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法官对与 NFL 相关的运动员是否可以参加大学橄榄球做出重要裁决"
+      "title_zh": "教授重新设计的研究揭示了谁真正在美国购买武器"
     },
     {
-      "title": "Lindsay Clancy jury wraps day six with bombshell one-juror standoff",
+      "title": "School district can suspend kids for using 'wrong' pronoun just once, lawsuit warns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西陪审团以爆炸性的一名陪审员对峙结束第六天"
+      "title_zh": "诉讼警告称，学区可以因孩子使用“错误”代词一次而停学"
     },
     {
-      "title": "Costco members wake up to major change involving popular shopping perk",
+      "title": "Jelly Roll picked a fight with Trump fans and may have Bud Lighted himself",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Costco 会员意识到涉及流行购物福利的重大变化"
+      "title_zh": "果冻卷与特朗普粉丝打架，巴德可能点燃了自己"
     },
     {
-      "title": "US military took down around 100 suspected cartel drones at southern border in August",
+      "title": "Harry, Meghan's school warning letters raise issue they ‘cannot control’: experts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "8月，美军在南部边境击落了约100架涉嫌贩毒集团的无人机"
+      "title_zh": "哈里和梅根的学校警告信引发了他们“无法控制”的问题：专家"
     },
     {
-      "title": "Midwest farm faces backlash after honoring Charlie Kirk with corn maze display",
+      "title": "Baker accuses driver of stealing cinnamon rolls — then cops uncover Border Patrol plot",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中西部农场在以玉米迷宫展示纪念查理·柯克后面临强烈反对"
+      "title_zh": "贝克指控司机偷肉桂卷，然后警察揭露了边境巡逻队的阴谋"
     },
     {
-      "title": "Master plumber makes case for trades after building $1M business in two years",
+      "title": "Karen Read attorney reveals reality for Clancy defense as jury remains deadlocked",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "水管工大师在两年内建立了 100 万美元的业务后提出了交易的理由"
+      "title_zh": "凯伦·里德律师揭示了克兰西辩护的现实，陪审团仍陷入僵局"
     },
     {
-      "title": "Missing cinnamon rolls mystery solved after delivery driver nabbed by Border Patrol",
+      "title": "Job growth rebounded in August with solid gains",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "送货司机被边境巡逻队抓获后，肉桂卷失踪之谜得以解开"
+      "title_zh": "八月份就业增长强劲反弹"
     },
     {
-      "title": "Jennifer Aniston faces 'very deep' fear with boyfriend Jim Curtis by her side",
+      "title": "Labor Day appliance deals: Save up to 57% on vacuums, air fryers, ice makers and more",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "詹妮弗·安妮斯顿面对男友吉姆·柯蒂斯在她身边的“非常深”的恐惧"
+      "title_zh": "劳动节电器优惠：吸尘器、空气炸锅、制冰机等产品最高可节省 57%"
     },
     {
-      "title": "Rural standoff takes dramatic turn as SWAT vehicle pins suspect on tractor",
+      "title": "29.5-point favorite Scarlet Knights crumble in worst defeat of the Schiano era",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特警车辆将嫌疑人钉在拖拉机上，农村对峙发生戏剧性转变"
+      "title_zh": "29.5分的热门猩红骑士队遭遇斯基亚诺时代最惨重的失败"
     },
     {
-      "title": "TUNE IN:'Mr Beast' talks about his new book with James Patterson on FOX & Friends",
+      "title": "NANCY GRACE:No one is wearing a special T-shirt for the Clancy children",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "收看：“野兽先生”与詹姆斯·帕特森在《福克斯与朋友》节目中谈论他的新书"
+      "title_zh": "NANCY GRACE：没有人为 Clancy 孩子们穿一件特殊的 T 恤"
     },
     {
-      "title": "Kim Zolciak's son, 15, indicted on 7 counts after sexual battery allegations",
+      "title": "Harris gives unexpected response to Dems asking her to 'stay away' from races",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Kim Zolciak 15 岁儿子因性侵犯指控被起诉 7 项罪名"
+      "title_zh": "哈里斯对民主党要求她“远离”竞选的回应出人意料"
     },
     {
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+      "title": "Ted Cruz names ‘most powerful Democrat’ on Capitol Hill as party fractures",
       "link": "",
-      "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+      "summary": "",
       "published": "",
-      "title_zh": "法官拒绝罢免林赛·克兰西审判中的陪审员，紧张局势加剧",
-      "summary_zh": "法官决定不撤销三重谋杀案中的顽固分子后，辩护律师感到不安。"
+      "title_zh": "特德·克鲁兹任命国会山“最有权势的民主党人”为政党分裂"
     },
     {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "title": "UMass player obliterates poor woman on sidelines after wild interception",
       "link": "",
-      "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+      "summary": "",
       "published": "",
-      "title_zh": "万斯称，美国正在调查导弹是否击中伊朗婚礼",
-      "summary_zh": "伊朗红新月会（IRCS）表示，周二，一枚导弹的弹片击中了仪式，造成四人死亡。"
+      "title_zh": "麻州大学球员在疯狂拦截后在场边杀死了可怜的女人"
     },
     {
-      "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+      "title": "Wayfair's Labor Day sale: Save on Le Creuset, Serta and more, with deals up to 82% off",
       "link": "",
-      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+      "summary": "",
       "published": "",
-      "title_zh": "由于福克兰群岛与英国的争端加剧，阿根廷将制裁石油公司",
-      "summary_zh": "哈维尔·米莱重申了英国对英国海外领土的主权要求，并表示“变革之风”有利于它。"
+      "title_zh": "Wayfair 劳动节特卖：Le Creuset、Serta 等商品折扣高达 82%"
     },
     {
-      "title": "Could robots be the future of theme parks?",
+      "title": "'Layer upon layer of miracles': How Nepal survivors were rescued from tunnel",
       "link": "",
-      "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+      "summary": "From searching for a buried entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
       "published": "",
-      "title_zh": "机器人会成为主题公园的未来吗？",
-      "summary_zh": "银河机器人公园是韩国的一个占地 16,500 平方米的场馆，内有随着韩国流行歌曲翩翩起舞的人形机器人等景点。"
+      "title_zh": "“层层奇迹”：尼泊尔幸存者如何从隧道中获救",
+      "summary_zh": "从寻找埋藏的入口到炸毁汽车大小的岩石，救援人员必须克服多重挑战才能找到幸存者。"
     },
     {
-      "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+      "title": "US diesel prices hit an all-time-high",
       "link": "",
-      "summary": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
+      "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
       "published": "",
-      "title_zh": "观看：法庭内林赛·克兰西的律师要求法官罢免陪审员",
-      "summary_zh": "陪审团现在面临三重谋杀案审判的第七天审议。"
+      "title_zh": "美国柴油价格创历史新高",
+      "summary_zh": "自二月底伊朗冲突爆发以来，燃料价格飙升，反映出批发石油价格的飙升。"
     },
     {
-      "title": "Is India's internet boom running into an undersea problem?",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
       "link": "",
-      "summary": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
+      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
       "published": "",
-      "title_zh": "印度的互联网繁荣是否遇到了海底问题？",
-      "summary_zh": "印度 18 条洲际电缆中至少有 13 条在距孟买 Versova 海滩 6 公里范围内登陆。"
+      "title_zh": "《No 10》称，在阿根廷重申主权主张后，英国对福克兰群岛的支持“坚定不移”",
+      "summary_zh": "阿根廷总统哈维尔·米莱发表上述言论之际，他表示“变革之风”有利于阿根廷对英国海外领土的主权主张。"
     },
     {
-      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
+      "title": "Jury in Lindsay Clancy trial to resume deliberations for seventh day",
       "link": "",
-      "summary": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
+      "summary": "Tensions flared in court on Thursday after Clancy's defence team asked for a juror to be removed.",
       "published": "",
-      "title_zh": "尼泊尔隧道救援人员用木筏和无人机搜寻幸存者",
-      "summary_zh": "南亚记者阿扎德·莫希里 (Azadeh Moshiri) 正在一条隧道现场，救援人员仍希望在那里找到尼泊尔-西藏洪水后的幸存者。"
+      "title_zh": "林赛·克兰西审判陪审团将在第七天恢复审议",
+      "summary_zh": "周四，在克兰西的辩护团队要求撤换一名陪审员后，法庭上的紧张气氛加剧。"
     },
     {
-      "title": "Kenya's chai tea lovers are not happy as the nation's cows run dry",
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "link": "",
+      "summary": "After renewed strikes this week, does either side have an exit strategy?",
+      "published": "",
+      "title_zh": "美伊冲突如何结束？三位专家各抒己见",
+      "summary_zh": "本周再次发动罢工后，双方是否有退出策略？"
+    },
+    {
+      "title": "Europe targeted in summer campaign of sabotage and Russia is the chief suspect",
+      "link": "",
+      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "published": "",
+      "title_zh": "欧洲成为夏季破坏活动的目标，俄罗斯是主要嫌疑人",
+      "summary_zh": "德国指责俄罗斯对莱比锡机场的袭击负责，但其他地方也发生了一系列可疑事件。"
+    },
+    {
+      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
       "link": "",
       "summary": "Supermarket shelves are emptying, sellers are rationing supplies and prices are rising.",
       "published": "",
-      "title_zh": "肯尼亚的奶茶爱好者对这个国家的奶牛干涸感到不高兴",
+      "title_zh": "肯尼亚的奶牛干涸，奶茶爱好者并不满意",
       "summary_zh": "超市货架空空荡荡，卖家实行配给，价格上涨。"
     },
     {
-      "title": "How Gloria Steinem changed the lives of generations of women",
+      "title": "'I lost my savings after a job interview scam'",
       "link": "",
-      "summary": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
+      "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
       "published": "",
-      "title_zh": "格洛丽亚·斯泰纳姆如何改变了几代女性的生活",
-      "summary_zh": "这位开拓性的女权主义者大声疾呼堕胎、同性婚姻和女性同工同酬的合法化，但她的激进主义并非没有遭到强烈反对。"
+      "title_zh": "“我在一次求职面试骗局后失去了积蓄”",
+      "summary_zh": "求职者，尤其是 Z 世代，正成为虚假、有陷阱的招聘应用程序的目标。"
     },
     {
-      "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
       "link": "",
-      "summary": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+      "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
       "published": "",
-      "title_zh": "“格罗米特几乎就是一只猫！”：阿德曼 50 周年的秘密",
-      "summary_zh": "阿德曼 50 岁生日，讲述了像猫一样的《格罗米特》、沉默的肖恩和《小鸡快跑》的奥斯卡遗产。"
+      "title_zh": "100 位影响力人士受邀参加美国网球公开赛引发有关“网球礼仪”的辩论",
+      "summary_zh": "由于比赛中断事件，影响者和内容创作者的行为已成为今年美国公开赛的主要话题。"
     },
     {
-      "title": "Weekly quiz: What has been named TikTok's song of the summer in the UK?",
+      "title": "Canada unveils new $20 bill featuring portrait of King Charles",
       "link": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "summary": "The vertical banknote features King Charles III, the first new monarch to appear on a Canadian banknote in more than 70 years.",
       "published": "",
-      "title_zh": "每周测验：哪首 TikTok 英国夏季歌曲被评为？",
-      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+      "title_zh": "加拿大推出印有查尔斯国王肖像的新版20加元钞票",
+      "summary_zh": "垂直纸币上印有国王查理三世 (King Charles III)，他是 70 多年来第一位出现在加拿大纸币上的新君主。"
     },
     {
-      "title": "Three farmers detained by Israel in Lebanon, village leader says",
+      "title": "British army told to stop non-essential training exercises to save money",
       "link": "",
-      "summary": "The detentions were reported to the US-led International Monitoring and Implementation Mechanism but Israeli military has not commented.",
+      "summary": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures.",
       "published": "",
-      "title_zh": "村长称，以色列在黎巴嫩拘留了三名农民",
-      "summary_zh": "这些拘留事件已报告给美国领导的国际监测和执行机制，但以色列军方尚未发表评论。"
+      "title_zh": "英国陆军被告知停止非必要的训练演习以节省开支",
+      "summary_zh": "由于成本压力，不准备部署的英国部队已被告知减少训练演习。"
     },
     {
-      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
+      "title": "How 'unique' Bellingham is thriving in Mourinho's system",
       "link": "",
-      "summary": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
+      "summary": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
       "published": "",
-      "title_zh": "印度尼西亚约 2,000 人在享用免费校餐后生病",
-      "summary_zh": "在对该计划的批评越来越多的情况下，当局正在调查几起疑似疫情。"
-    },
-    {
-      "title": "How Gloria Steinem’s Ms. magazine became the voice of the women’s movement",
-      "link": "https://www.nbcnews.com/news/us-news/gloria-steinems-magazine-became-voice-womens-movement-rcna595874",
-      "summary": "",
-      "published": "",
-      "title_zh": "格洛丽亚·斯泰纳姆的《女士》杂志如何成为妇女运动的代言人"
-    },
-    {
-      "title": "Minneapolis suspect was involved in child custody exchange when he started shooting, authorities say",
-      "link": "https://www.nbcnews.com/news/us-news/minneapolis-suspect-was-involved-child-custody-exchange-started-shooti-rcna595958",
-      "summary": "",
-      "published": "",
-      "title_zh": "当局称，明尼阿波利斯嫌疑人在开枪时参与了儿童监护权交换"
-    },
-    {
-      "title": "Before 5-year-old’s death, parents had a history of child abuse charges and drugs",
-      "link": "https://www.nbcnews.com/news/us-news/5-year-olds-death-parents-history-child-abuse-charges-drugs-rcna596017",
-      "summary": "",
-      "published": "",
-      "title_zh": "5岁孩子去世前，父母有虐待儿童指控和吸毒史"
-    },
-    {
-      "title": "Ex-Fox Sports analyst Mark Sanchez plans guilty plea to charges after 2025 fight",
-      "link": "https://www.nbcnews.com/sports/nfl/sports-analyst-mark-sanchez-plans-guilty-plea-charges-rcna596023",
-      "summary": "",
-      "published": "",
-      "title_zh": "前福克斯体育分析师马克·桑切斯计划在 2025 年比赛后认罪"
+      "title_zh": "贝林汉姆如何在穆里尼奥的体系中蓬勃发展",
+      "summary_zh": "裘德·贝林汉姆看起来很健康，并准备好在世界杯上继续努力，他的目标是在穆里尼奥的带领下在皇家马德里重新找回自己的最佳状态。"
     }
   ]
 }
