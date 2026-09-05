@@ -1,6 +1,6 @@
 {
   "date": "20260905",
-  "total": 22,
+  "total": 25,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -33,162 +33,184 @@
   },
   "entries": [
     {
-      "title": "What different world maps get right - and what they get wrong",
-      "link": "",
-      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "title": "In Tibet, China grapples with flooding aftermath at the ‘roof of the world’",
+      "link": "https://www.nbcnews.com/world/china/tibet-china-grapples-flooding-aftermath-roof-world-rcna596228",
+      "summary": "",
       "published": "",
-      "title_zh": "不同的世界地图哪些是正确的，哪些是错误的",
-      "summary_zh": "随着联合国采用新的世界地图来反映非洲的真实面积，让我们仔细看看不同地图的正确和错误。"
+      "title_zh": "在西藏，中国在“世界屋脊”努力应对洪灾后果"
     },
     {
-      "title": "England's Michael Owen doesn't tell his children he loves them - how big a deal is that?",
-      "link": "",
-      "summary": "His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are.",
+      "title": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080",
+      "summary": "",
       "published": "",
-      "title_zh": "英格兰的迈克尔·欧文没有告诉他的孩子他爱他们——这有什么大不了的？",
-      "summary_zh": "他的评论引发了有关育儿、性别和文化以及这三个简单词的重要性的讨论。"
+      "title_zh": "多莉·帕顿 (Dolly Parton) 的妹妹猛烈抨击自偶像去世以来“假人工智能垃圾”充斥互联网"
     },
     {
-      "title": "Temperature exceeds 40C in parts of Europe  - is a September heatwave likely for UK?",
-      "link": "",
-      "summary": "Parts of central and southern Europe have seen temperatures above 40C this week. As things warm up in the UK, is there a heatwave on the way?",
+      "title": "‘Cradle’ of health",
+      "link": "https://www.nbcnews.com/world/europe/clancy-postpartum-psychosis-uk-treatment-rcna594470",
+      "summary": "",
       "published": "",
-      "title_zh": "欧洲部分地区气温超过 40 摄氏度——英国 9 月可能出现热浪吗？",
-      "summary_zh": "本周中欧和南欧部分地区气温超过 40 摄氏度。随着英国天气变暖，热浪即将来临吗？"
+      "title_zh": "健康的“摇篮”"
     },
     {
-      "title": "Build-up to third Test between South Africa and New Zealand",
-      "link": "",
-      "summary": "Live text commentary as South Africa face New Zealand in the third Test in Johannesburg with the series level at one game apiece",
-      "published": "",
-      "title_zh": "南非和新西兰之间第三次测试的准备工作",
-      "summary_zh": "南非队在约翰内斯堡举行的第三次测试赛中对阵新西兰队，系列赛各胜一场，现场文字评论"
-    },
-    {
-      "title": "Iran targets US Navy ships, gets costly response from American forces",
+      "title": "Hegseth issues ultimatum to Iran after US warships evade attacks: ‘It’s simple’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗瞄准美国海军舰艇，美军做出代价高昂的回应"
+      "title_zh": "美国军舰躲避袭击后赫格斯向伊朗发出最后通牒：“很简单”"
     },
     {
-      "title": "Ex-Fetterman staffers promise more damaging details after blistering report",
+      "title": "Trump warns Lindsay Clancy 'there'll be a price' after jury deadlocks in murder trial",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前费特曼员工在激烈的报告后承诺提供更多具有破坏性的细节"
+      "title_zh": "陪审团在谋杀案审判中陷入僵局后，特朗普警告林赛·克兰西“这是有代价的”"
     },
     {
-      "title": "Mayor demands sanctuary rollback after crash allegedly involving illegal migrant",
+      "title": "Former adult industry insider reveals how platforms are targeting and addicting men",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "市长要求在涉嫌涉及非法移民的事故后撤回庇护所"
+      "title_zh": "前成人行业内部人士揭示平台如何针对男性并使男性上瘾"
     },
     {
-      "title": "Patrick Clancy breaks silence after hung jury in Lindsay Clancy murder trial",
+      "title": "Alabama high school QB shatters state record with pass that left fans speechless",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "帕特里克·克兰西在林赛·克兰西谋杀案审判中陪审团悬而未决后打破沉默"
+      "title_zh": "阿拉巴马州高中四分卫打破州纪录，传球让球迷哑口无言"
     },
     {
-      "title": "Razor-thin upset spares employers from far-left nominee, but concerns linger",
+      "title": "Detransitioner appeals malpractice case after state law change",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "微弱的不安使雇主免受极左提名人的影响，但担忧依然存在"
+      "title_zh": "州法律变更后，转业者对医疗事故案件提出上诉"
     },
     {
-      "title": "Inside the forgotten restaurants that fed generations of Americans before fast food",
+      "title": "Students warn new grading policy will leave freshmen unprepared to succeed",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在快餐出现之前，那些被遗忘的餐馆曾为几代美国人提供食物"
+      "title_zh": "学生警告新的评分政策将使新生对成功做好准备"
     },
     {
-      "title": "Popular burger chain CEO says Americans’ demand for fast-food value is 'intensifying'",
+      "title": "FBI sting leads to prison time for state political operative pictured with top Democrats",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "受欢迎的汉堡连锁店首席执行官表示美国人对快餐价值的需求正在“加剧”"
+      "title_zh": "与民主党高层合影的州政治特工因联邦调查局刺探而入狱"
     },
     {
-      "title": "SCOTUS case tests Arizona voter roll rules as election groups warn of noncitizen voting",
+      "title": "Marriage warning sign that may be worse than fighting — and 4 ways to turn things around",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "最高法院案件测试亚利桑那州选民名册规则，选举组织警告非公民投票"
+      "title_zh": "婚姻警告信号可能比争吵更糟糕——以及扭转局面的 4 种方法"
     },
     {
-      "title": "Father surviving on four hours of sleep fires back at Dems' 'exhausting' claim",
+      "title": "ESPN ripped by fans for horrific 'College GameDay' decision: 'Ruined the show!'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "父亲仅靠四个小时的睡眠幸存下来，回击民主党“令人筋疲力尽”的说法"
+      "title_zh": "ESPN 因“大学比赛日”的可怕决定而遭到球迷猛烈抨击：“毁了演出！”"
     },
     {
-      "title": "Deli owner raises hundreds of thousands to reward good students",
+      "title": "Spencer Pratt takes gloves off in blistering attack on Hollywood star George Clooney",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "熟食店老板筹集数十万奖励优秀学生"
+      "title_zh": "斯宾塞·普拉特脱下手套对好莱坞明星乔治·克鲁尼进行猛烈攻击"
     },
     {
-      "title": "Well-connected Dem operative handed federal sentence after FBI child sex abuse sting",
+      "title": "Labor Day appliance deals: Save up to 57% on vacuums, air fryers, blenders and more",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦调查局儿童性虐待案后，人脉广泛的民主党特工被判联邦刑"
+      "title_zh": "劳动节电器优惠：吸尘器、空气炸锅、搅拌机等产品最高可节省 57%"
     },
     {
-      "title": "How Dolly Parton used authentic wit to beat Hollywood critics to the punchline",
+      "title": "Rick Moranis among stars who gave up fame before shocking Hollywood returns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "多莉·帕顿如何用真实的智慧击败好莱坞评论家的笑点"
+      "title_zh": "瑞克·莫拉尼斯 (Rick Moranis) 是在令人震惊的好莱坞回归之前放弃名气的明星之一"
     },
     {
-      "title": "JD Vance's mom says she refused Hollywood's attempt to underpay for her story",
+      "title": "Miss America contestant reveals surprising day job",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "JD万斯的妈妈说她拒绝了好莱坞为她的故事支付过低费用的企图"
+      "title_zh": "美国小姐参赛者透露令人惊讶的日常工作"
     },
     {
-      "title": "Grandfather found unconscious as 'black widow' poisoning plot unravels: cops",
+      "title": "Americans fed up with fast-food prices are sending chains a clear message, CEO says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“黑寡妇”中毒阴谋败露，祖父被发现昏迷不醒：警察"
+      "title_zh": "首席执行官表示，厌倦了快餐价格的美国人正在向连锁店发出明确的信息"
     },
     {
-      "title": "U.S. strikes 3 Iranian oil tankers after Iran targets warships, U.S. military says",
-      "link": "https://www.nbcnews.com/world/iran/us-strikes-3-iranian-oil-tankers-iran-targets-rcna596222",
+      "title": "JD Vance’s mom details what she wouldn't budge on when Hollywood came calling",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国军方称，伊朗袭击军舰后，美国袭击了三艘伊朗油轮"
+      "title_zh": "JD 万斯的妈妈详述了当好莱坞召唤时她不会让步的事情"
     },
     {
-      "title": "How parent activists pushed schools to restrict AI and screen time — and won",
-      "link": "https://www.nbcnews.com/news/education/parent-activists-pushed-schools-ai-screen-time-won-rcna595683",
+      "title": "Hosts who ridiculed Vance get the history of blood libel wrong on air",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "家长积极分子如何推动学校限制人工智能和屏幕时间——并取得胜利"
+      "title_zh": "嘲笑万斯的主持人在广播中弄错了血腥诽谤的历史"
     },
     {
-      "title": "Tesla says emergency responders may need to push new Cybercab with no steering wheel",
-      "link": "https://www.nbcnews.com/tech/tech-news/tesla-cybercab-no-steering-wheel-emergency-plan-push-musk-austin-rcna595741",
+      "title": "Best Labor Day Apple deals: Up to 83% off AirPods, iPads, MacBooks and more",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特斯拉表示紧急救援人员可能需要推出没有方向盘的新型 Cyber​​cab"
+      "title_zh": "Apple 劳动节最佳优惠：AirPods、iPad、MacBook 等产品最高 83% 折扣"
     },
     {
-      "title": "A deliveryman rang the bell. Then a judge’s son was killed.",
-      "link": "https://www.nbcnews.com/dateline/video/sneak-peek-the-grudge-andrea-canning-reports-on-the-daniel-anderl-case-friday-dateline-269106245570",
-      "summary": "",
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "link": "",
+      "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
       "published": "",
-      "title_zh": "一名送货员按响了门铃。然后，一名法官的儿子被杀。"
+      "title_zh": "美国特使在莫斯科会见普京并就乌克兰问题举行会谈",
+      "summary_zh": "特朗普总统表示，他的特使史蒂夫·威特科夫和贾里德·库什纳“带来了结束战争的提案”。"
+    },
+    {
+      "title": "Disruption at Port of Dover due to 'stop the boats' protest",
+      "link": "",
+      "summary": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
+      "published": "",
+      "title_zh": "多佛港因“停船”抗议而中断",
+      "summary_zh": "政府表示谴责“多佛的行为”及其造成的长达数小时的混乱。"
+    },
+    {
+      "title": "Indian state gives taxi and tuk-tuk drivers a year to learn local language",
+      "link": "",
+      "summary": "A new rule making it mandatory for drivers to learn Marathi or lose their licence had sparked protests.",
+      "published": "",
+      "title_zh": "印度政府给予出租车和嘟嘟车司机一年的时间学习当地语言",
+      "summary_zh": "一项新规定强制司机学习马拉地语，否则吊销驾照，引发了抗议。"
+    },
+    {
+      "title": "King and Queen join Highland games fans at Braemar Gathering",
+      "link": "",
+      "summary": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
+      "published": "",
+      "title_zh": "国王和王后与高地游戏迷一起参加布雷马聚会",
+      "summary_zh": "国王和王后观看了皇家迪赛德年度活动中的高地舞蹈、抛掷马铃薯和管乐队等活动。"
+    },
+    {
+      "title": "Man City maintain 100% start with win over Coventry",
+      "link": "",
+      "summary": "Manchester City highlight their early season credentials by maintaining their winning record after three Premier League games.",
+      "published": "",
+      "title_zh": "曼城战胜考文垂保持100%开局",
+      "summary_zh": "曼城在三场英超比赛后保持了胜利记录，凸显了他们赛季初期的实力。"
     }
   ]
 }
