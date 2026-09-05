@@ -1,6 +1,6 @@
 {
   "date": "20260905",
-  "total": 25,
+  "total": 20,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -33,184 +33,150 @@
   },
   "entries": [
     {
-      "title": "In Tibet, China grapples with flooding aftermath at the ‘roof of the world’",
-      "link": "https://www.nbcnews.com/world/china/tibet-china-grapples-flooding-aftermath-roof-world-rcna596228",
-      "summary": "",
-      "published": "",
-      "title_zh": "在西藏，中国在“世界屋脊”努力应对洪灾后果"
-    },
-    {
-      "title": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080",
-      "summary": "",
-      "published": "",
-      "title_zh": "多莉·帕顿 (Dolly Parton) 的妹妹猛烈抨击自偶像去世以来“假人工智能垃圾”充斥互联网"
-    },
-    {
-      "title": "‘Cradle’ of health",
-      "link": "https://www.nbcnews.com/world/europe/clancy-postpartum-psychosis-uk-treatment-rcna594470",
-      "summary": "",
-      "published": "",
-      "title_zh": "健康的“摇篮”"
-    },
-    {
-      "title": "Hegseth issues ultimatum to Iran after US warships evade attacks: ‘It’s simple’",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
       "link": "",
-      "summary": "",
+      "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
       "published": "",
-      "title_zh": "美国军舰躲避袭击后赫格斯向伊朗发出最后通牒：“很简单”"
+      "title_zh": "美国称其军舰成为目标后击落了三艘伊朗油轮",
+      "summary_zh": "伊朗官方媒体报道称，德黑兰对三艘美国附属船只发动了报复性袭击；美国尚未发表评论。"
     },
     {
-      "title": "Trump warns Lindsay Clancy 'there'll be a price' after jury deadlocks in murder trial",
+      "title": "Prince William to attend King Harald's funeral in Norway",
       "link": "",
-      "summary": "",
+      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
       "published": "",
-      "title_zh": "陪审团在谋杀案审判中陷入僵局后，特朗普警告林赛·克兰西“这是有代价的”"
+      "title_zh": "威廉王子将出席挪威国王哈拉尔的葬礼",
+      "summary_zh": "威尔士亲王将于下周代表国王出席在奥斯陆举行的哈拉尔五世葬礼。"
     },
     {
-      "title": "Former adult industry insider reveals how platforms are targeting and addicting men",
+      "title": "What next for Lindsay Clancy?",
       "link": "",
-      "summary": "",
+      "summary": "The US mother accused of murder is likely to remain in a mental health facility as lawyers weigh their next steps.",
       "published": "",
-      "title_zh": "前成人行业内部人士揭示平台如何针对男性并使男性上瘾"
+      "title_zh": "林赛·克兰西的下一步是什么？",
+      "summary_zh": "这位被指控谋杀的美国母亲可能会继续留在精神病院，律师正在权衡下一步行动。"
     },
     {
-      "title": "Alabama high school QB shatters state record with pass that left fans speechless",
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
       "link": "",
-      "summary": "",
+      "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
       "published": "",
-      "title_zh": "阿拉巴马州高中四分卫打破州纪录，传球让球迷哑口无言"
+      "title_zh": "泰特兄弟在罗马尼亚被正式起诉贩卖人口和性犯罪",
+      "summary_zh": "安德鲁·泰特和特里斯坦·泰特目前被关押在迈阿密监狱，他们因单独的指控而反对引渡到英国，并否认所有指控。"
     },
     {
-      "title": "Detransitioner appeals malpractice case after state law change",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "link": "",
-      "summary": "",
+      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "published": "",
-      "title_zh": "州法律变更后，转业者对医疗事故案件提出上诉"
+      "title_zh": "德国极右翼选择党在东部选举中首次尝到权力的滋味",
+      "summary_zh": "如果该党在萨克森-安哈特州赢得绝对多数席位，这将是自第二次世界大战以来极右翼政党首次在德国掌握州级权力。"
     },
     {
-      "title": "Students warn new grading policy will leave freshmen unprepared to succeed",
+      "title": "Taylor crowns career in stylish Croke Park triumph",
       "link": "",
-      "summary": "",
+      "summary": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
       "published": "",
-      "title_zh": "学生警告新的评分政策将使新生对成功做好准备"
+      "title_zh": "泰勒在时尚的克罗克公园获胜，为职业生涯加冕",
+      "summary_zh": "凯蒂·泰勒以三届无可争议的世界冠军的身份结束了辉煌的职业生涯，克罗克公园向爱尔兰最伟大的体育人物之一进行了最隆重的告别。"
     },
     {
-      "title": "FBI sting leads to prison time for state political operative pictured with top Democrats",
+      "title": "Trump-aligned super PAC to spend $10 million in Texas Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-aligned-super-pac-ads-spend-10-million-texas-senate-race-paxton-rcna596261",
+      "summary": "",
+      "published": "",
+      "title_zh": "与特朗普结盟的超级政治行动委员会将斥资 1000 万美元参加德克萨斯州参议员竞选"
+    },
+    {
+      "title": "Eyewitness stunned as pilots perish: 'Hadn't been airborne more than three minutes'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "与民主党高层合影的州政治特工因联邦调查局刺探而入狱"
+      "title_zh": "飞行员遇难目击者震惊：“升空时间不超过三分钟”"
     },
     {
-      "title": "Marriage warning sign that may be worse than fighting — and 4 ways to turn things around",
+      "title": "UN adopts Equal Earth map as lone US vote calls it 'radical ideological project'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "婚姻警告信号可能比争吵更糟糕——以及扭转局面的 4 种方法"
+      "title_zh": "联合国通过平等地球地图，美国唯一投票称其为“激进的意识形态项目”"
     },
     {
-      "title": "ESPN ripped by fans for horrific 'College GameDay' decision: 'Ruined the show!'",
+      "title": "Bunnie Xo’s heartbreak confession post-divorce leaves little to the imagination",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "ESPN 因“大学比赛日”的可怕决定而遭到球迷猛烈抨击：“毁了演出！”"
+      "title_zh": "Bunnie Xo 离婚后心碎的告白让人难以想象"
     },
     {
-      "title": "Spencer Pratt takes gloves off in blistering attack on Hollywood star George Clooney",
+      "title": "The message behind the US tanker strikes: Iran is running out of room",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "斯宾塞·普拉特脱下手套对好莱坞明星乔治·克鲁尼进行猛烈攻击"
+      "title_zh": "美国油轮袭击背后传递的信息：伊朗已经没有空间了"
     },
     {
-      "title": "Labor Day appliance deals: Save up to 57% on vacuums, air fryers, blenders and more",
+      "title": "Brooke Hogan issues 'final warning' to mom Linda as bitter family feud erupts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "劳动节电器优惠：吸尘器、空气炸锅、搅拌机等产品最高可节省 57%"
+      "title_zh": "随着激烈的家庭不和爆发，布鲁克·霍根向妈妈琳达发出“最后警告”"
     },
     {
-      "title": "Rick Moranis among stars who gave up fame before shocking Hollywood returns",
+      "title": "Michigan State lineman pulls off the most disgusting block in college football",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "瑞克·莫拉尼斯 (Rick Moranis) 是在令人震惊的好莱坞回归之前放弃名气的明星之一"
+      "title_zh": "密歇根州立大学边裁完成了大学橄榄球中最恶心的拦网"
     },
     {
-      "title": "Miss America contestant reveals surprising day job",
+      "title": "Dems erupt after anti-Israel journalist calls Hakeem Jeffries an ‘AIPAC monkey’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国小姐参赛者透露令人惊讶的日常工作"
+      "title_zh": "反以色列记者称哈基姆·杰弗里斯为“AIPAC 猴子”后，民主党爆发"
     },
     {
-      "title": "Americans fed up with fast-food prices are sending chains a clear message, CEO says",
+      "title": "Comedian brings back beloved routine after two decades and crowds go wild",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "首席执行官表示，厌倦了快餐价格的美国人正在向连锁店发出明确的信息"
+      "title_zh": "喜剧演员在二十年后重拾人们喜爱的日常，观众疯狂"
     },
     {
-      "title": "JD Vance’s mom details what she wouldn't budge on when Hollywood came calling",
+      "title": "Your daily coffee habit could be taking a toll on your bones, new study suggests",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "JD 万斯的妈妈详述了当好莱坞召唤时她不会让步的事情"
+      "title_zh": "新研究表明，你每天喝咖啡的习惯可能会对你的骨骼造成损害"
     },
     {
-      "title": "Hosts who ridiculed Vance get the history of blood libel wrong on air",
+      "title": "Grocery store owner arrested in India in alleged $600K SNAP fraud scheme",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "嘲笑万斯的主持人在广播中弄错了血腥诽谤的历史"
+      "title_zh": "杂货店老板因涉嫌 60 万美元 SNAP 欺诈计划在印度被捕"
     },
     {
-      "title": "Best Labor Day Apple deals: Up to 83% off AirPods, iPads, MacBooks and more",
+      "title": "Christie Brinkley reveals her secret for getting grown kids home every weekend",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Apple 劳动节最佳优惠：AirPods、iPad、MacBook 等产品最高 83% 折扣"
+      "title_zh": "克里斯蒂·布林克利透露了她每个周末送成年孩子回家的秘诀"
     },
     {
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "title": "North Carolina Senate candidate reportedly put former gang member on justice task force",
       "link": "",
-      "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+      "summary": "",
       "published": "",
-      "title_zh": "美国特使在莫斯科会见普京并就乌克兰问题举行会谈",
-      "summary_zh": "特朗普总统表示，他的特使史蒂夫·威特科夫和贾里德·库什纳“带来了结束战争的提案”。"
+      "title_zh": "据报道，北卡罗来纳州参议院候选人将前帮派成员纳入司法工作组"
     },
     {
-      "title": "Disruption at Port of Dover due to 'stop the boats' protest",
+      "title": "The best Labor Day sales are here — save up to 80% at Best Buy, SharkNinja and more",
       "link": "",
-      "summary": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
+      "summary": "",
       "published": "",
-      "title_zh": "多佛港因“停船”抗议而中断",
-      "summary_zh": "政府表示谴责“多佛的行为”及其造成的长达数小时的混乱。"
-    },
-    {
-      "title": "Indian state gives taxi and tuk-tuk drivers a year to learn local language",
-      "link": "",
-      "summary": "A new rule making it mandatory for drivers to learn Marathi or lose their licence had sparked protests.",
-      "published": "",
-      "title_zh": "印度政府给予出租车和嘟嘟车司机一年的时间学习当地语言",
-      "summary_zh": "一项新规定强制司机学习马拉地语，否则吊销驾照，引发了抗议。"
-    },
-    {
-      "title": "King and Queen join Highland games fans at Braemar Gathering",
-      "link": "",
-      "summary": "The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.",
-      "published": "",
-      "title_zh": "国王和王后与高地游戏迷一起参加布雷马聚会",
-      "summary_zh": "国王和王后观看了皇家迪赛德年度活动中的高地舞蹈、抛掷马铃薯和管乐队等活动。"
-    },
-    {
-      "title": "Man City maintain 100% start with win over Coventry",
-      "link": "",
-      "summary": "Manchester City highlight their early season credentials by maintaining their winning record after three Premier League games.",
-      "published": "",
-      "title_zh": "曼城战胜考文垂保持100%开局",
-      "summary_zh": "曼城在三场英超比赛后保持了胜利记录，凸显了他们赛季初期的实力。"
+      "title_zh": "劳动节最佳促销活动就在这里——Best Buy、SharkNinja 等可节省高达 80% 的费用"
     }
   ]
 }
