@@ -1,6 +1,6 @@
 {
   "date": "20260905",
-  "total": 28,
+  "total": 22,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -33,210 +33,162 @@
   },
   "entries": [
     {
-      "title": "Violent squatters terrorize apt owner with guns, drugs, assaults in major US city",
+      "title": "What different world maps get right - and what they get wrong",
+      "link": "",
+      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "published": "",
+      "title_zh": "不同的世界地图哪些是正确的，哪些是错误的",
+      "summary_zh": "随着联合国采用新的世界地图来反映非洲的真实面积，让我们仔细看看不同地图的正确和错误。"
+    },
+    {
+      "title": "England's Michael Owen doesn't tell his children he loves them - how big a deal is that?",
+      "link": "",
+      "summary": "His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are.",
+      "published": "",
+      "title_zh": "英格兰的迈克尔·欧文没有告诉他的孩子他爱他们——这有什么大不了的？",
+      "summary_zh": "他的评论引发了有关育儿、性别和文化以及这三个简单词的重要性的讨论。"
+    },
+    {
+      "title": "Temperature exceeds 40C in parts of Europe  - is a September heatwave likely for UK?",
+      "link": "",
+      "summary": "Parts of central and southern Europe have seen temperatures above 40C this week. As things warm up in the UK, is there a heatwave on the way?",
+      "published": "",
+      "title_zh": "欧洲部分地区气温超过 40 摄氏度——英国 9 月可能出现热浪吗？",
+      "summary_zh": "本周中欧和南欧部分地区气温超过 40 摄氏度。随着英国天气变暖，热浪即将来临吗？"
+    },
+    {
+      "title": "Build-up to third Test between South Africa and New Zealand",
+      "link": "",
+      "summary": "Live text commentary as South Africa face New Zealand in the third Test in Johannesburg with the series level at one game apiece",
+      "published": "",
+      "title_zh": "南非和新西兰之间第三次测试的准备工作",
+      "summary_zh": "南非队在约翰内斯堡举行的第三次测试赛中对阵新西兰队，系列赛各胜一场，现场文字评论"
+    },
+    {
+      "title": "Iran targets US Navy ships, gets costly response from American forces",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国大城市暴力占屋者用枪支、毒品和袭击恐吓房主"
+      "title_zh": "伊朗瞄准美国海军舰艇，美军做出代价高昂的回应"
     },
     {
-      "title": "Trump trade fight with Canada takes new turn with latest DOJ move",
+      "title": "Ex-Fetterman staffers promise more damaging details after blistering report",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Trump trade fight with Canada takes new turn with latest DOJ move"
+      "title_zh": "前费特曼员工在激烈的报告后承诺提供更多具有破坏性的细节"
     },
     {
-      "title": "American Airlines passenger arrested after being duct-taped to seat midflight",
+      "title": "Mayor demands sanctuary rollback after crash allegedly involving illegal migrant",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国航空乘客在飞行途中被胶带粘在座位上被捕"
+      "title_zh": "市长要求在涉嫌涉及非法移民的事故后撤回庇护所"
     },
     {
-      "title": "Trump sends warning to Iran as new oil routes threaten critical waterway's role",
+      "title": "Patrick Clancy breaks silence after hung jury in Lindsay Clancy murder trial",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普向伊朗发出警告，因为新的石油路线威胁到关键水道的作用"
+      "title_zh": "帕特里克·克兰西在林赛·克兰西谋杀案审判中陪审团悬而未决后打破沉默"
     },
     {
-      "title": "State AG files emergency Supreme Court petition over new congressional map",
+      "title": "Razor-thin upset spares employers from far-left nominee, but concerns linger",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "State AG就新国会地图向最高法院提交紧急请愿书"
+      "title_zh": "微弱的不安使雇主免受极左提名人的影响，但担忧依然存在"
     },
     {
-      "title": "Clancy defense lawyer should have been held in contempt, Nancy Grace says",
+      "title": "Inside the forgotten restaurants that fed generations of Americans before fast food",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "南希·格雷斯说，克兰西的辩护律师应该被视为藐视法庭"
+      "title_zh": "在快餐出现之前，那些被遗忘的餐馆曾为几代美国人提供食物"
     },
     {
-      "title": "Socialist plan could force Amazon to flee New York City",
+      "title": "Popular burger chain CEO says Americans’ demand for fast-food value is 'intensifying'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Socialist plan could force Amazon to flee New York City"
+      "title_zh": "受欢迎的汉堡连锁店首席执行官表示美国人对快餐价值的需求正在“加剧”"
     },
     {
-      "title": "Labor Day sales are here — save up to 80% at Best Buy, Kate Spade Outlet and more",
+      "title": "SCOTUS case tests Arizona voter roll rules as election groups warn of noncitizen voting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "劳动节促销来了——Best Buy、Kate Spade Outlet 等折扣高达 80%"
+      "title_zh": "最高法院案件测试亚利桑那州选民名册规则，选举组织警告非公民投票"
     },
     {
-      "title": "Harry, Meghan's UK return may be 'trial run' as they seek 'best of both worlds': expert",
+      "title": "Father surviving on four hours of sleep fires back at Dems' 'exhausting' claim",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "哈里和梅根返回英国可能是“试运行”，因为他们寻求“两全其美”：专家"
+      "title_zh": "父亲仅靠四个小时的睡眠幸存下来，回击民主党“令人筋疲力尽”的说法"
     },
     {
-      "title": "JOE CONCHA:The US Open doesn’t need this",
+      "title": "Deli owner raises hundreds of thousands to reward good students",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔·孔查：美网不需要这个"
+      "title_zh": "熟食店老板筹集数十万奖励优秀学生"
     },
     {
-      "title": "Key NATO ally confronts a growing Russian threat hiding in plain sight across Europe",
+      "title": "Well-connected Dem operative handed federal sentence after FBI child sex abuse sting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "北约主要盟友面临着俄罗斯日益增长的威胁，这些威胁隐藏在整个欧洲的视线范围内"
+      "title_zh": "联邦调查局儿童性虐待案后，人脉广泛的民主党特工被判联邦刑"
     },
     {
-      "title": "Trump’s Pentagon shake-up revives a presidential tradition packed with firings",
+      "title": "How Dolly Parton used authentic wit to beat Hollywood critics to the punchline",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普的五角大楼改组复兴了充满解雇的总统传统"
+      "title_zh": "多莉·帕顿如何用真实的智慧击败好莱坞评论家的笑点"
     },
     {
-      "title": "Dad rejects Dem sympathy to their faces: 'Not one of you guys called me'",
+      "title": "JD Vance's mom says she refused Hollywood's attempt to underpay for her story",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "爸爸当面拒绝民主党的同情：“你们没有人给我打电话”"
+      "title_zh": "JD万斯的妈妈说她拒绝了好莱坞为她的故事支付过低费用的企图"
     },
     {
-      "title": "Best Labor Day mattress deals: Save up to 82% on Saatva, Helix, Nectar and more",
+      "title": "Grandfather found unconscious as 'black widow' poisoning plot unravels: cops",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "劳动节最佳床垫优惠：Saatva、Helix、Nectar 等产品最高可节省 82%"
+      "title_zh": "“黑寡妇”中毒阴谋败露，祖父被发现昏迷不醒：警察"
     },
     {
-      "title": "Families suing Roblox face a fight over the fine print",
-      "link": "https://www.nbcnews.com/tech/tech-news/families-suing-roblox-face-fight-fine-print-rcna595601",
+      "title": "U.S. strikes 3 Iranian oil tankers after Iran targets warships, U.S. military says",
+      "link": "https://www.nbcnews.com/world/iran/us-strikes-3-iranian-oil-tankers-iran-targets-rcna596222",
       "summary": "",
       "published": "",
-      "title_zh": "起诉 Roblox 的家庭面临细则之争"
+      "title_zh": "美国军方称，伊朗袭击军舰后，美国袭击了三艘伊朗油轮"
     },
     {
-      "title": "Rescuers in Nepal pull out two more people alive 10 days after devastating floods",
-      "link": "https://www.nbcnews.com/world/asia/rescuers-nepal-pull-two-people-alive-devastating-floods-rcna596217",
+      "title": "How parent activists pushed schools to restrict AI and screen time — and won",
+      "link": "https://www.nbcnews.com/news/education/parent-activists-pushed-schools-ai-screen-time-won-rcna595683",
       "summary": "",
       "published": "",
-      "title_zh": "尼泊尔发生毁灭性洪水十天后，救援人员又救出了两人"
+      "title_zh": "家长积极分子如何推动学校限制人工智能和屏幕时间——并取得胜利"
     },
     {
-      "title": "Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz",
-      "link": "https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982",
+      "title": "Tesla says emergency responders may need to push new Cybercab with no steering wheel",
+      "link": "https://www.nbcnews.com/tech/tech-news/tesla-cybercab-no-steering-wheel-emergency-plan-push-musk-austin-rcna595741",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在最高法院大获全胜，NBA给予重罚：新闻测验"
+      "title_zh": "特斯拉表示紧急救援人员可能需要推出没有方向盘的新型 Cyber​​cab"
     },
     {
-      "title": "In China, drinks come with AI tokens and coffee is served by robots",
-      "link": "https://www.nbcnews.com/world/asia/china-drinks-come-ai-tokens-coffee-served-robots-rcna593071",
+      "title": "A deliveryman rang the bell. Then a judge’s son was killed.",
+      "link": "https://www.nbcnews.com/dateline/video/sneak-peek-the-grudge-andrea-canning-reports-on-the-daniel-anderl-case-friday-dateline-269106245570",
       "summary": "",
       "published": "",
-      "title_zh": "在中国，饮料带有人工智能代币，咖啡由机器人提供"
-    },
-    {
-      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "link": "",
-      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-      "published": "",
-      "title_zh": "林赛·克兰西谋杀案审判让美国对她是受害者还是罪犯产生了分歧",
-      "summary_zh": "一些人说，这起案件揭示了母亲们的心理健康问题，而另一些人则认为这不是谋杀的借口。"
-    },
-    {
-      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-      "link": "",
-      "summary": "Hundreds of demonstrators, wearing black with their faces covered, caused delays to traffic reaching the port.",
-      "published": "",
-      "title_zh": "蒙面“停船”抗议者封锁道路，造成多佛港混乱",
-      "summary_zh": "数百名身穿黑衣、蒙着脸的示威者造成到达港口的交通延误。"
-    },
-    {
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "link": "",
-      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-      "published": "",
-      "title_zh": "美国特使在乌克兰会谈前抵达莫斯科",
-      "summary_zh": "史蒂夫·威特科夫和贾里德·库什纳将于周日前往乌克兰之前与俄罗斯举行会谈。"
-    },
-    {
-      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
-      "link": "",
-      "summary": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
-      "published": "",
-      "title_zh": "为什么林肯号航空母舰出现在泰国时看起来如此生锈？",
-      "summary_zh": "当亚伯拉罕·林肯号航空母舰本周停靠在泰国时，一些人很快就批评了它的状况。"
-    },
-    {
-      "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
-      "link": "",
-      "summary": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
-      "published": "",
-      "title_zh": "对新型减肥药的渴望如何助长了假药行业",
-      "summary_zh": "一种仍在临床试验中的药物的假冒版本充斥着黑市。"
-    },
-    {
-      "title": "How might Lindsay Clancy’s case have unfolded in another country?",
-      "link": "",
-      "summary": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
-      "published": "",
-      "title_zh": "林赛·克兰西的案件在另一个国家可能会如何展开？",
-      "summary_zh": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children."
-    },
-    {
-      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-      "link": "",
-      "summary": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
-      "published": "",
-      "title_zh": "维珍航空的布兰森表示，由于“愚蠢的领导人”发动战争，机票价格上涨",
-      "summary_zh": "中东紧张局势阻碍了石油生产和运输，导致汽车和航空燃油价格飙升。"
-    },
-    {
-      "title": "Rock stars gather on tiny Scottish island for world stone skimming championships",
-      "link": "",
-      "summary": "Some 400 challengers and 2,000 spectators are expected at the world stone skimming championships.",
-      "published": "",
-      "title_zh": "摇滚明星聚集在苏格兰小岛上参加世界撇石锦标赛",
-      "summary_zh": "预计世界撇石锦标赛将有约 400 名挑战者和 2,000 名观众参加。"
-    },
-    {
-      "title": "Cambridge launches review into support for Jason Arday before death",
-      "link": "",
-      "summary": "The University of Cambridge says the review will look at its \"decision-making and actions\" before the former professor's death.",
-      "published": "",
-      "title_zh": "剑桥大学对贾森·阿迪生前的支持展开审查",
-      "summary_zh": "剑桥大学表示，审查将着眼于这位前教授去世前的“决策和行动”。"
-    },
-    {
-      "title": "Russell fastest from Hamilton in Monza final practice",
-      "link": "",
-      "summary": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary of final practice for the Italian Grand Prix.",
-      "published": "",
-      "title_zh": "拉塞尔在蒙扎决赛练习中领先汉密尔顿",
-      "summary_zh": "关注实时文本更新并收听 BBC Radio 5 Sports Extra 对意大利大奖赛最后练习的评论。"
+      "title_zh": "一名送货员按响了门铃。然后，一名法官的儿子被杀。"
     }
   ]
 }
