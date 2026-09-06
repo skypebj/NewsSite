@@ -1,6 +1,6 @@
 {
   "date": "20260906",
-  "total": 34,
+  "total": 18,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,251 +33,135 @@
   },
   "entries": [
     {
-      "title": "Netanyahu threatens Iran with 'blow beyond anything it can imagine,' vows to 'complete' mission",
+      "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport",
+      "link": "https://www.nbcnews.com/news/us-news/amazon-plane-crash-miami-rcna596369",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚马逊品牌货机在迈阿密机场冲出跑道导致五人死亡"
+    },
+    {
+      "title": "Poll: Cracks emerge in GOP support for Trump and his handling of the Iran war",
+      "link": "https://www.nbcnews.com/politics/trump-administration/poll-cracks-emerge-gop-support-trump-handling-iran-war-rcna596068",
+      "summary": "",
+      "published": "",
+      "title_zh": "民意调查：共和党对特朗普及其处理伊朗战争的支持出现裂痕"
+    },
+    {
+      "title": "Armed person confronts Ohio gubernatorial candidate Amy Acton at event, campaign says",
+      "link": "https://www.nbcnews.com/politics/2026-election/armed-person-confronts-ohio-gubernatorial-candidate-amy-acton-event-ca-rcna596395",
+      "summary": "",
+      "published": "",
+      "title_zh": "Armed person confronts Ohio gubernatorial candidate Amy Acton at event, campaign says"
+    },
+    {
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "link": "",
+      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "published": "",
+      "title_zh": "泽伦斯基表示，在与美国特使会谈后，他预计战争将持续到冬季",
+      "summary_zh": "史蒂夫·威特科夫和贾里德·库什纳前往基辅后，没有宣布重大突破。"
+    },
+    {
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "link": "",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "published": "",
+      "title_zh": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "summary_zh": "德国选择党称赞这是一个“历史性的结果”，预计将赢得 44% 的选票，远远领先于保守党的 17%。"
+    },
+    {
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "published": "",
+      "title_zh": "和谈富有象征意义，但俄罗斯和乌克兰之间的根本分歧仍然存在",
+      "summary_zh": "詹姆斯·兰代尔写道，尽管美国特使与普京和泽伦斯基进行了会谈，但基辅的预期是战斗将继续下去。"
+    },
+    {
+      "title": "Antonelli 'walks over water' for win that will go down in F1 folklore",
+      "link": "",
+      "summary": "Kimi Antonelli delivered one of the great F1 drives to win the Italian Grand Prix and leave Mercedes' team-mate George Russell's title hopes almost a lost cause.",
+      "published": "",
+      "title_zh": "安东内利“跨水而行”获胜，这将载入F1民间传说",
+      "summary_zh": "基米·安东内利 (Kimi Antonelli) 凭借 F1 的精彩表现之一赢得了意大利大奖赛的胜利，让梅赛德斯的队友乔治·拉塞尔 (George Russell) 的冠军希望几乎落空。"
+    },
+    {
+      "title": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
+      "link": "",
+      "summary": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
+      "published": "",
+      "title_zh": "中场有两名右后卫——尽管花费了 3.49 亿英镑，切尔西还是缺人吗？",
+      "summary_zh": "切尔西周日以 2-1 负于冠军阿森纳的比赛结束了，两名右后卫在中场并肩作战 - 他们是如何做到这一点的？"
+    },
+    {
+      "title": "Five dead, others seriously wounded after Amazon cargo plane crashes in Miami",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "内塔尼亚胡威胁伊朗“将对其进行超乎想象的打击”，并发誓要“完成”使命"
+      "title_zh": "亚马逊货机在迈阿密坠毁，造成五人死亡，其他人重伤"
     },
     {
-      "title": "Angry locals block famous beach as mass tourism protests escalate at vacation hot spot",
+      "title": "Mom convicted for letting her kid walk alone to collect goose feathers in gated community",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着度假热点的大规模旅游抗议升级，愤怒的当地人封锁了著名的海滩"
+      "title_zh": "妈妈因让孩子独自行走在封闭社区收集鹅毛而被定罪"
     },
     {
-      "title": "Mamdani under fire after symbolic 9/11 pen goes to former al Qaeda defense lawyer",
+      "title": "Bullet rips through Sam’s Club wall and kills worker doing inventory",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前基地组织辩护律师收到象征性的 9/11 钢笔后，马姆达尼受到批评"
+      "title_zh": "子弹穿过山姆会员店的墙壁，杀死了库存工人"
     },
     {
-      "title": "'Sick to my stomach,' Broncos defender says as controversial call ends dream",
+      "title": "James Franklin questions 'un-American' flag thrown for high-fiving cadets",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "野马队后卫表示，“我的胃感到恶心”，因为有争议的判罚结束了梦想"
+      "title_zh": "詹姆斯·富兰克林质疑为学员击掌而抛出的“非美国”旗帜"
     },
     {
-      "title": "'Prison Break' star reveals the type of scripts he tosses straight 'in the garbage'",
+      "title": "White House reposts Trump's 'New Mexico' name wipeout with zero context",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《越狱》明星透露了他直接“扔进垃圾桶”的剧本类型"
+      "title_zh": "白宫重新发布了特朗普的“新墨西哥”名字删除内容，背景为零"
     },
     {
-      "title": "Donna Mills, 85, reveals jaw-dropping workout regimen and surprising snack obsession",
+      "title": "Republican senator breaks ranks, urging Trump to swap out the Pentagon chief",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "85 岁的唐娜·米尔斯 (Donna Mills) 透露了令人惊叹的锻炼方案和令人惊讶的零食痴迷"
+      "title_zh": "共和党参议员打破常规，敦促特朗普更换五角大楼负责人"
     },
     {
-      "title": "Vance's mom reacts to Taylor Swift's diss to VP's 'childless cat ladies' comment",
+      "title": "Tourists refuse to flee as apex predators reclaim a beloved summer retreat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "万斯的妈妈对泰勒·斯威夫特对副总裁“没有孩子的猫女士”评论的不满做出了反应"
+      "title_zh": "顶级掠食者夺回了人们喜爱的避暑胜地，游客拒绝逃离"
     },
     {
-      "title": "Immigrant family business could be wiped out as NYC's taxpayer-backed rival moves in",
+      "title": "LSU coach showed up in style with two SI Swimsuit models for first game",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着纽约市纳税人支持的竞争对手进入，移民家族企业可能会被消灭"
+      "title_zh": "LSU 教练带着两位 SI 泳装模特亮相首场比赛"
     },
     {
-      "title": "A father's final gift reveals the labor no paycheck, no applause ever captures",
+      "title": "The simple daily habit that can reignite attraction in a long-term relationship",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一位父亲的最后一份礼物揭示了他的劳动没有薪水，也没有赢得掌声"
+      "title_zh": "简单的日常习惯可以重新点燃长期关系中的吸引力"
     },
     {
-      "title": "Sanders pushes 'death penalty' for crucial US industry that could favor China, Russia",
+      "title": "Amazon Outlet's secret Labor Day sale: Save up to 54% on AirPods, DeWalt tools and more",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "桑德斯推动对美国关键工业的“死刑”，这可能有利于中国和俄罗斯"
-    },
-    {
-      "title": "Lawler camp says Conley was 'exposed' after she refused to disavow DSA on CNN",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "劳勒阵营称康利在拒绝在 CNN 上否认 DSA 后“暴露”"
-    },
-    {
-      "title": "Foster mom accused of trading teenage girl for monkey avoids time behind bars",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "被指控用少女换猴子的养母避免入狱"
-    },
-    {
-      "title": "Doctor warns of health risks after tennis star halts match over alleged marijuana smell",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "网球明星因涉嫌大麻气味而暂停比赛后，医生警告健康风险"
-    },
-    {
-      "title": "‘Serious’ recall expands to more than a dozen states for frozen household staple",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "“严重”召回范围扩大到十几个州的冷冻家庭主食"
-    },
-    {
-      "title": "MIKE DAVIS:Roberts joins liberal justices to gut Trump's underground WH bunker",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "迈克·戴维斯：罗伯茨与自由派法官一起摧毁特朗普的白宫地下掩体"
-    },
-    {
-      "title": "Jayden Daniels' NIL legal threat turns the Baton Rouge crowd against him",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杰登丹尼尔斯的零法律威胁使巴吞鲁日人群反对他"
-    },
-    {
-      "title": "Kate Spade Outlet handbags are up to 80% off for Labor Day, with styles from $28",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Kate Spade Outlet 手袋劳动节最高 80% 折扣，款式起价 28 美元"
-    },
-    {
-      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "link": "",
-      "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
-      "published": "",
-      "title_zh": "美国特使在与普京会面后在基辅与泽连斯基举行会谈",
-      "summary_zh": "史蒂夫·威特科夫告诉记者，美国团队对“实质性”且重要的讨论感到“鼓舞”。"
-    },
-    {
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "link": "",
-      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-      "published": "",
-      "title_zh": "数十人担心被困在德里倒塌的建筑中",
-      "summary_zh": "据信，这座五层旅馆倒塌时，里面有多达 50 人。"
-    },
-    {
-      "title": "Jamaica to bring slavery reparations petition to King Charles",
-      "link": "",
-      "summary": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
-      "published": "",
-      "title_zh": "牙买加向查尔斯国王提出奴隶制赔偿请愿书",
-      "summary_zh": "国王将被要求向枢密院司法委员会提出三个问题。"
-    },
-    {
-      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "link": "",
-      "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "published": "",
-      "title_zh": "火山喷发导致17万名乘客滞留印尼",
-      "summary_zh": "火山喷发后，雅加达附近空域发现火山灰，导致超过 17 万名乘客滞留。"
-    },
-    {
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "link": "",
-      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "published": "",
-      "title_zh": "伊朗警告称将对美国袭击做出“更快、更严厉、更痛苦的反应”",
-      "summary_zh": "此前一天，华盛顿表示，针对德黑兰袭击该地区的美国军舰，美国对伊朗油轮进行了袭击。"
-    },
-    {
-      "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-      "link": "",
-      "summary": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
-      "published": "",
-      "title_zh": "为什么蒙特利尔一家著名的三明治店被迫更换苏打水",
-      "summary_zh": "蒙特利尔最著名的熟食店之一施瓦茨已经更换了黑樱桃苏打水的供应商。"
-    },
-    {
-      "title": "Police slow to respond to protest at UK port, says council boss",
-      "link": "",
-      "summary": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
-      "published": "",
-      "title_zh": "议会主席表示，警方对英国港口的抗议反应迟缓",
-      "summary_zh": "这位领导人表示，这场“组织得异常良好”的抗议活动“让多个机构陷入困境”。"
-    },
-    {
-      "title": "140 migrants in single dinghy rescued in English Channel",
-      "link": "",
-      "summary": "They were transferred onto two lifeboats and taken to shore in the UK.",
-      "published": "",
-      "title_zh": "140名单艇移民在英吉利海峡获救",
-      "summary_zh": "他们被转移到两艘救生艇上并被带到英国岸边。"
-    },
-    {
-      "title": "Odegaard sinks Chelsea in London derby thriller",
-      "link": "",
-      "summary": "Reigning champions Arsenal come from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
-      "published": "",
-      "title_zh": "厄德高在惊心动魄的伦敦德比中击败切尔西",
-      "summary_zh": "卫冕冠军阿森纳在酋长球场举行的一场激动人心的伦敦德比中后来居上击败了斥巨资的切尔西。"
-    },
-    {
-      "title": "Poll: A polarized America unites behind deep concerns about AI",
-      "link": "https://www.nbcnews.com/politics/politics-news/poll-polarized-america-unites-deep-concerns-ai-rcna595525",
-      "summary": "",
-      "published": "",
-      "title_zh": "民意调查：两极分化的美国团结在对人工智能的深切担忧之下"
-    },
-    {
-      "title": "As Trump pushes for data centers, voters in key midterm races say they don’t want them",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-data-centers-voters-key-midterm-races-rcna594914",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着特朗普推动数据中心建设，关键中期选举的选民表示他们不想要它们"
-    },
-    {
-      "title": "Rep. Jamie Raskin says impeachment isn’t a ‘fetish’ for Democrats but ‘a critical tool’",
-      "link": "https://www.nbcnews.com/politics/congress/jamie-raskin-trump-impeachment-democrats-priorities-house-rcna596335",
-      "summary": "",
-      "published": "",
-      "title_zh": "众议员杰米·拉斯金表示，弹劾不是民主党的“迷恋”，而是“一个重要工具”"
-    },
-    {
-      "title": "Sen. John Kennedy criticizes the Trump administration’s approach to Putin",
-      "link": "https://www.nbcnews.com/politics/congress/john-kennedy-criticizes-trump-administration-approach-putin-inflation-rcna596333",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员约翰·肯尼迪批评特朗普政府对普京的态度"
-    },
-    {
-      "title": "Trump administration asks Supreme Court to restrict mail-in voting for a third time",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-administration-supreme-court-mail-ballot-restrictions-appeal-rcna596346",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普政府第三次要求最高法院限制邮寄投票"
-    },
-    {
-      "title": "Americans paid $20,000 to move to Europe. Some say the ‘white glove’ service was a ‘nightmare.’",
-      "link": "https://www.nbcnews.com/tech/internet/lux-nomads-americans-move-abroad-rcna595310",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国人支付2万美元移居欧洲。有人说“白手套”服务是一场“噩梦”。"
-    },
-    {
-      "title": "Far-right AfD party has big lead in Germany regional election, exit polls suggest",
-      "link": "https://www.nbcnews.com/world/germany/germanys-far-right-afd-eyes-landmark-state-victory-saxony-anhalt-votes-rcna596325",
-      "summary": "",
-      "published": "",
-      "title_zh": "出口民调显示极右翼德国选择党在德国地区选举中大幅领先"
-    },
-    {
-      "title": "Megan Moroney reflects on writing songs that resonate with fans",
-      "link": "https://www.nbcnews.com/video/megan-moroney-on-her-journey-to-country-music-stardom-and-writing-songs-that-resonate-with-fans-269242949674",
-      "summary": "",
-      "published": "",
-      "title_zh": "梅根·莫罗尼 (Megan Moroney) 反思创作与歌迷产生共鸣的歌曲"
+      "title_zh": "Amazon Outlet 劳动节秘密促销：购买 AirPods、DeWalt 工具等产品可节省高达 54%"
     }
   ]
 }
