@@ -1,6 +1,6 @@
 {
   "date": "20260906",
-  "total": 33,
+  "total": 22,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,197 +33,143 @@
   },
   "entries": [
     {
-      "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
-      "link": "https://www.nbcnews.com/world/russia/us-envoys-witkoff-kushner-visit-moscow-new-push-peace-russia-ukraine-rcna596221",
-      "summary": "",
-      "published": "",
-      "title_zh": "普京在克里姆林宫会见美国特使，就结束乌克兰战争重新举行会谈"
-    },
-    {
-      "title": "Republicans struggle to unite in Georgia’s key races after bruising primaries",
-      "link": "https://www.nbcnews.com/politics/2026-election/republicans-struggle-unite-georgias-key-races-bruising-primaries-rcna595579",
-      "summary": "",
-      "published": "",
-      "title_zh": "Republicans struggle to unite in Georgia’s key races after bruising primaries"
-    },
-    {
-      "title": "Making of a mascot: 100,000 fans, a college football stadium and one very good dog",
-      "link": "https://www.nbcnews.com/sports/college-football/making-mascot-100000-fans-college-football-stadium-one-good-dog-rcna595770",
-      "summary": "",
-      "published": "",
-      "title_zh": "制作吉祥物：10万名球迷、一个大学橄榄球场和一只非常好的狗"
-    },
-    {
-      "title": "Hurricane Lowell threatens Hawaiian islands with life-threatening surf",
-      "link": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294",
-      "summary": "",
-      "published": "",
-      "title_zh": "洛厄尔飓风威胁夏威夷群岛，带来危及生命的海浪"
-    },
-    {
-      "title": "U.N. General Assembly endorses a new world map that shows Africa’s size more accurately",
-      "link": "https://www.nbcnews.com/world/africa/un-general-assembly-endorses-new-world-map-shows-africas-size-accurate-rcna596305",
-      "summary": "",
-      "published": "",
-      "title_zh": "联合国大会批准新的世界地图，更准确地显示非洲的面积"
-    },
-    {
-      "title": "Neck-and-neck Texas Senate contest just got a massive super PAC injection",
+      "title": "Karmelo Anthony asks donors to dig deeper after family’s massive fundraising haul",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "势均力敌的德克萨斯州参议院竞选刚刚获得了超级政治行动委员会的大规模注入"
+      "title_zh": "卡梅洛·安东尼 (Karmelo Anthony) 呼吁捐助者在家族大规模筹款后进行更深入的挖掘"
     },
     {
-      "title": "Miami does it again, and college football is absolutely losing its mind",
+      "title": "Iran vows 'faster, heavier and more painful response' after US strikes multiple oil tankers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Miami does it again, and college football is absolutely losing its mind"
+      "title_zh": "美国袭击多艘油轮后，伊朗誓言“更快、更严厉、更痛苦的反应”"
     },
     {
-      "title": "Judge orders MS-13 killer known as ‘the witch’ freed from California ICE lockup",
+      "title": "Kushner, Witkoff set for Kyiv talks after Putin meeting in US push for peace",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法官下令将被称为“女巫”的 MS-13 杀手从加州 ICE 拘留所释放"
+      "title_zh": "普京在美国会面推动和平后，库什纳和维特科夫准备进行基辅会谈"
     },
     {
-      "title": "Steelers' Aaron Rodgers hopes to support 'pregnant wife' after final NFL season",
+      "title": "MIKE DAVIS: Roberts joins liberal justices to gut Trump's underground WH bunker",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "钢人队的亚伦·罗杰斯希望在 NFL 赛季结束后支持“怀孕的妻子”"
+      "title_zh": "迈克·戴维斯：罗伯茨与自由派法官一起摧毁特朗普的白宫地下掩体"
     },
     {
-      "title": "Netanyahu says Israel can strike Iran 'at any moment' as campaign nears completion",
+      "title": "Dems flock to posh island getaway dripping with wealthy donors ahead of midterms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "内塔尼亚胡表示，随着战役接近完成，以色列可以“随时”打击伊朗"
+      "title_zh": "民主党在中期选举前涌入豪华岛屿度假，那里挤满了富有的捐助者"
     },
     {
-      "title": "Dr Phil weighs in after mistrial declared in Lindsay Clancy case: 'What can we learn?'",
+      "title": "Germany braces for political earthquake as far-right party eyes historic win",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "菲尔博士在林赛·克兰西案宣布无效审判后发表了自己的看法：“我们能学到什么？”"
+      "title_zh": "德国准备迎接政治地震，极右翼政党期待历史性胜利"
     },
     {
-      "title": "Pizza shop allegedly hid massive meth operation in bizarre California drug case",
+      "title": "Controversial call gives Michigan time to beat Western Michigan with Hail Mary",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州离奇毒品案中，披萨店涉嫌隐藏大规模冰毒经营"
+      "title_zh": "有争议的电话让密歇根州有时间用万福玛丽击败西密歇根州"
     },
     {
-      "title": "Michigan narrowly avoids another season-opening upset with win over Western Michigan",
+      "title": "Pushy influencers increasingly rejected at tourist hot spots as outrage grows",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "密歇根队战胜西密歇根队，险些避免了另一个赛季揭幕战的失利"
+      "title_zh": "随着愤怒的加剧，咄咄逼人的影响者在旅游热点越来越被拒绝"
     },
     {
-      "title": "Kennedy Center official blames decades of neglect after partial ceiling collapse",
+      "title": "HexClad's Labor Day sale is here: Save up to 52% on Gordon Ramsay-approved cookware",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肯尼迪中心官员将部分天花板倒塌归咎于几十年来的忽视"
+      "title_zh": "HexClad 劳动节特卖来了：购买戈登·拉姆齐 (Gordon Ramsay) 认可的炊具可节省高达 52%"
     },
     {
-      "title": "Tennis star Aryna Sabalenka stops US Open match over alleged marijuana smell",
+      "title": "Jessie James Decker rocks bikini in before-and-after photos of fitness transformation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "网球明星阿琳娜·萨巴伦卡因涉嫌大麻气味而停止美国网球公开赛比赛"
+      "title_zh": "杰西·詹姆斯·德克尔 (Jessie James Decker) 健身前后对比基尼照"
     },
     {
-      "title": "Trump's top negotiators meet with Putin as US pushes to end Russia-Ukraine war",
+      "title": "Enes Kanter Freedom has some advice for the next WNBA commissioner",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普高级谈判代表会见普京，美国推动结束俄罗斯-乌克兰战争"
+      "title_zh": "埃内斯·坎特·弗里德姆 (Enes Kanter Freedom) 对下一任 WNBA 专员提出了一些建议"
     },
     {
-      "title": "The accidental origin of Animal Style will forever change your burger order",
+      "title": "Forced to wed an Al-Qaeda member, she fled with her daughter and has a chilling warning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Animal Style 的偶然起源将永远改变您的汉堡订单"
+      "title_zh": "被迫与基地组织成员结婚，她带着女儿逃离，并收到令人不寒而栗的警告"
     },
     {
-      "title": "Tennessee's Neyland Stadium sings an incredible tribute to the late Dolly Parton",
-      "link": "",
+      "title": "USS Lincoln sailors delight in the ‘simple stuff’ during first break in months in Thailand",
+      "link": "https://www.nbcnews.com/world/asia/uss-abraham-lincoln-leaves-thailand-port-visit-pattaya-iran-war-rcna596309",
       "summary": "",
       "published": "",
-      "title_zh": "田纳西州的尼兰体育场向已故的多莉·帕顿致敬"
+      "title_zh": "林肯号航空母舰水手们在泰国数月来的首次休息期间享受“简单的东西”"
     },
     {
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "title": "Colin Kaepernick on his political evolution — and the politician he says is ‘moving the needle’",
+      "link": "https://www.nbcnews.com/sports/nfl/colin-kaepernick-political-evolution-current-politician-believes-movin-rcna595980",
+      "summary": "",
       "published": "",
-      "title_zh": "随着冲突爆发，美国和伊朗对船只进行报复性袭击",
-      "summary_zh": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
+      "title_zh": "科林·卡佩尼克 (Colin Kaepernick) 谈他的政治演变——以及他所说的正在“推动变革”的政客"
     },
     {
-      "title": "Taylor crowns boxing career in stylish Croke Park triumph",
-      "link": "",
-      "summary": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
+      "title": "U.S. envoys Witkoff and Kushner arrive in Kyiv after peace talks in Moscow",
+      "link": "https://www.nbcnews.com/world/ukraine/us-envoys-witkoff-kushner-set-arrive-kyiv-peace-talks-moscow-rcna596324",
+      "summary": "",
       "published": "",
-      "title_zh": "泰勒在克罗克公园时尚的胜利中为拳击生涯加冕",
-      "summary_zh": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells."
+      "title_zh": "美国特使维特科夫和库什纳在莫斯科和谈后抵达基辅"
     },
     {
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "link": "",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "title": "‘I’m going to fight’: How Afghan girls are defying the Taliban to learn online",
+      "link": "https://www.nbcnews.com/world/afghanistan/afghanistan-taliban-women-education-ban-fight-back-online-rcna593301",
+      "summary": "",
       "published": "",
-      "title_zh": "埃及毒品案11人被判处死刑 电视节目主持人",
-      "summary_zh": "莎拉·哈利法因其处理犯罪问题的电视节目《碟中谍》而闻名。"
+      "title_zh": "“我要战斗”：阿富汗女孩如何反抗塔利班并在线学习"
     },
     {
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "title": "Aviation faces hotter, stormier skies - and passengers might have to accept more disruption",
       "link": "",
       "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
       "published": "",
-      "title_zh": "航空业面临着更炎热、更暴风雨的天空——乘客可能不得不接受更多的干扰",
-      "summary_zh": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
+      "title_zh": "航空业面临更炎热、更暴风雨的天空——乘客可能不得不接受更多的干扰",
+      "summary_zh": "随着气候变化影响的加剧，人们是否将不得不越来越多地接受更多的延误和改道？"
     },
     {
-      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
       "link": "",
-      "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "published": "",
-      "title_zh": "乌克兰大多数俄语城市考虑在艺术领域禁止语言",
-      "summary_zh": "乌克兰第三大城市敖德萨本周决定是否在公共场合禁止音乐和文学中的俄语内容。"
+      "title_zh": "埃及毒品案12人被判处死刑 电视节目主持人",
+      "summary_zh": "莎拉·哈利法因其处理犯罪问题的电视节目《碟中谍》而闻名。"
     },
     {
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
       "link": "",
-      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
       "published": "",
-      "title_zh": "观看：64 岁尼泊尔妇女在被泥土掩埋的家中被发现还活着的那一刻",
-      "summary_zh": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house."
+      "title_zh": "印尼火山喷发致15万名乘客滞留",
+      "summary_zh": "火山喷发后，雅加达附近空域发现火山灰，导致超过 15 万名乘客滞留。"
     },
     {
-      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
-      "link": "",
-      "summary": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
-      "published": "",
-      "title_zh": "“他是生命线”——海地护理人员在美国被解雇后，家庭一片茫然",
-      "summary_zh": "海地移民占本已不堪重负的家庭护理劳动力的很大一部分。"
-    },
-    {
-      "title": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
-      "link": "",
-      "summary": "The pop star's first album since 2021 deals with the mental health fallout of perimenopause.",
-      "published": "",
-      "title_zh": "娜塔莉·安博莉亚谈她最糟糕的试镜：“我记得感觉很恶心”",
-      "summary_zh": "The pop star's first album since 2021 deals with the mental health fallout of perimenopause."
-    },
-    {
-      "title": "The next James Bond: the (00)7 questions fans want answered",
+      "title": "The next James Bond: The (00)7 questions fans want answered",
       "link": "",
       "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
       "published": "",
@@ -231,52 +177,20 @@
       "summary_zh": "最近有猜测称，有关丹尼尔·克雷格继任者的消息可能即将公布。"
     },
     {
-      "title": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
+      "title": "Heathrow Airport train services resume after trackside fire disruption",
       "link": "",
-      "summary": "The comedian is making his stage acting debut and says he wants to move away from social content.",
+      "summary": "There were severe delays and cancellations on Saturday, with no trains between central London and the airport.",
       "published": "",
-      "title_zh": "为什么 Munya Chawawa 从社交界“跳槽”到莎士比亚",
-      "summary_zh": "这位喜剧演员即将首次登台表演，并表示他想摆脱社交内容。"
+      "title_zh": "希思罗机场火车服务在轨道旁火灾中断后恢复",
+      "summary_zh": "周六发生严重延误和取消，伦敦市中心和机场之间没有火车。"
     },
     {
-      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+      "title": "Championship: Terrible own goal brings Birmingham level against Wolves",
       "link": "",
-      "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
+      "summary": "Follow live text commentary and radio analysis from Birmingham City v Wolverhampton Wanderers in the Championship.",
       "published": "",
-      "title_zh": "奈杰尔·法拉奇 (Nigel Farage) 告诉 BBC，他在秘密拍摄的外国捐助者会谈期间“没有在听”",
-      "summary_zh": "这位改革派领导人还告诉英国广播公司的劳拉·昆斯伯格，他的家人正在“恳求”他辞职。"
-    },
-    {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "link": "",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "published": "",
-      "title_zh": "特朗普签署命令取消对灰狼的濒危物种保护",
-      "summary_zh": "美国总统表示，此举将帮助牧场主，但自然资源保护主义者表示，这可能会破坏恢复种群数量的努力。"
-    },
-    {
-      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
-      "link": "",
-      "summary": "The US rapper rolled back the years for more than two hours at the first of his two shows in London.",
-      "published": "",
-      "title_zh": "劳伦·希尔 (Lauryn Hill)、怀克里夫 (Wyclef) 和吉格斯 (Giggs) 成为 Jay-Z 期待已久的英国演出的惊喜嘉宾",
-      "summary_zh": "这位美国说唱歌手在伦敦举行的两场演出中的第一场演出中用两个多小时回溯了岁月。"
-    },
-    {
-      "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
-      "link": "",
-      "summary": "Severe delays and cancellations are set to continue, with no trains between central London and the airport.",
-      "published": "",
-      "title_zh": "草地火灾导致所有前往希思罗机场的火车停运，造成严重破坏",
-      "summary_zh": "严重的延误和取消预计还会继续，伦敦市中心和机场之间没有火车。"
-    },
-    {
-      "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-      "link": "",
-      "summary": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
-      "published": "",
-      "title_zh": "费尔南德斯和恩迪亚耶在曼城首秀中展现出希望的迹象",
-      "summary_zh": "曼城在战胜考文垂的比赛中为价值1.85亿英镑的截止日天才球员提供了英超首秀，而主教练恩佐·马雷斯卡将会很享受他所看到的一切。"
+      "title_zh": "英冠：糟糕的乌龙球让伯明翰扳平狼队",
+      "summary_zh": "关注锦标赛中伯明翰城对阵狼队的实时文字评论和广播分析。"
     }
   ]
 }
