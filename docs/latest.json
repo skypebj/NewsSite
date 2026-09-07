@@ -1,6 +1,6 @@
 {
   "date": "20260907",
-  "total": 32,
+  "total": 20,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,239 +33,149 @@
   },
   "entries": [
     {
-      "title": "Hundreds remain missing as China clears Tibet border port erased by deadly flood",
-      "link": "https://www.nbcnews.com/world/asia/tibet-nepal-border-rescue-rare-access-gyirong-rcna596132",
+      "title": "Victims of Miami plane crash were in a cleaning-company van and an SUV, officials said",
+      "link": "https://www.nbcnews.com/news/us-news/victims-amazon-branded-plane-crash-van-suv-rcna596502",
       "summary": "",
       "published": "",
-      "title_zh": "中国清理被致命洪水淹没的西藏边境口岸，仍有数百人失踪"
+      "title_zh": "官员称，迈阿密空难的遇难者乘坐的是一辆清洁公司的货车和一辆SUV"
     },
     {
-      "title": "King Charles confirms Harry and Meghan will not be working royals after U.K. return",
-      "link": "https://www.nbcnews.com/world/united-kingdom/king-charles-harry-meghan-working-royals-uk-return-california-rcna596470",
+      "title": "Jewish voters have long backed Democrats. Key midterm races are testing that support.",
+      "link": "https://www.nbcnews.com/politics/2026-election/jewish-voters-question-democratic-candidates-key-senate-races-congress-rcna595543",
       "summary": "",
       "published": "",
-      "title_zh": "查尔斯国王确认哈里和梅根返回英国后将不再担任王室成员"
+      "title_zh": "犹太选民长期以来一直支持民主党。关键的中期选举正在测试这种支持。"
     },
     {
-      "title": "Nathan Fielder’s surprise Elizabeth Holmes documentary debuts at Telluride",
-      "link": "https://www.nbcnews.com/pop-culture/movies/elizabeth-holmes-nathan-fielder-documentary-you-can-see-everything-rcna596457",
+      "title": "Ohio Democrat Amy Acton reflects on a ‘rough day’ as witnesses recall ‘frightening’ confrontation",
+      "link": "https://www.nbcnews.com/politics/2026-election/ohio-democrat-amy-acton-reflects-rough-day-witnesses-recall-frightenin-rcna596492",
       "summary": "",
       "published": "",
-      "title_zh": "内森·菲尔德 (Nathan Fielder) 出人意料的伊丽莎白·霍尔姆斯 (Elizabeth Holmes) 纪录片在特柳赖德 (Telluride) 首映"
+      "title_zh": "俄亥俄州民主党人艾米·阿克顿回顾了“艰难的一天”，目击者回忆起“可怕的”对抗"
     },
     {
-      "title": "173+ Labor Day sales that are actually worth shopping — deals up to 75% off end tonight",
-      "link": "https://www.nbcnews.com/select/shopping/best-labor-day-sales-2026-rcna596415",
-      "summary": "",
-      "published": "",
-      "title_zh": "超过 173 种劳动节促销商品确实值得购物——今晚优惠高达 75%"
-    },
-    {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "link": "",
-      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-      "published": "",
-      "title_zh": "调查人员开始调查货机冲出迈阿密跑道的原因",
-      "summary_zh": "亚马逊飞机在迈阿密国际机场降落后冲出跑道，造成五人死亡、五人受伤。"
-    },
-    {
-      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-      "link": "",
-      "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-      "published": "",
-      "title_zh": "数千人在塞尔维亚参加“波斯尼亚屠夫”拉特科·姆拉迪奇的葬礼",
-      "summary_zh": "姆拉迪奇在 20 世纪 90 年代波斯尼亚战争期间因种族灭绝罪被判入狱，欧盟警告塞尔维亚不要美化这位被定罪的战犯。"
-    },
-    {
-      "title": "King makes clear Harry and Meghan remain non-working royals",
-      "link": "",
-      "summary": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
-      "published": "",
-      "title_zh": "金明确表示哈里和梅根仍然是非工作王室成员",
-      "summary_zh": "王室消息人士称，这封信已发送给哈里王子的团队、政府、军方和上尉。"
-    },
-    {
-      "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-      "link": "",
-      "summary": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-      "published": "",
-      "title_zh": "绿洲：不要在愤怒中回头评论 - 情感纪录片掩盖了困难的东西",
-      "summary_zh": "这部电影捕捉到了绿洲乐队回归的喜悦，但未能探讨他们重聚的故事。"
-    },
-    {
-      "title": "Why did the FBI not follow evidence of alleged Saudi agent’s role in 9/11?",
-      "link": "",
-      "summary": "Omar al-Bayoumi has always denied being an extremist and a Saudi spy.",
-      "published": "",
-      "title_zh": "为什么联邦调查局没有追踪涉嫌沙特特工在 9/11 事件中所扮演角色的证据？",
-      "summary_zh": "奥马尔·巴尤米一直否认自己是极端分子和沙特间谍。"
-    },
-    {
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "link": "",
-      "summary": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "published": "",
-      "title_zh": "俄罗斯全天候空袭基辅空袭警报创历史新高",
-      "summary_zh": "学校、企业和公共交通都在应对俄罗斯空袭的激增。"
-    },
-    {
-      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "link": "",
-      "summary": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
-      "published": "",
-      "title_zh": "OpenAI 首席科学家警告称，没有人对人工智能的后果做好准备",
-      "summary_zh": "这篇文章发布之际，该公司发布了 GPT-6 Astra，据称这是其迄今为止最强大的产品。"
-    },
-    {
-      "title": "Pilot killed in small plane crash near regional airport in Florida",
-      "link": "",
-      "summary": "The National Transportation Safety Board has identified the plane as a Mooney M20F aircraft, a four-seater propeller plane.",
-      "published": "",
-      "title_zh": "飞行员在佛罗里达州地区机场附近的小型飞机失事中丧生",
-      "summary_zh": "美国国家运输安全委员会已确认这架飞机为穆尼 M20F 飞机，这是一架四座螺旋桨飞机。"
-    },
-    {
-      "title": "UK chancellor refuses to rule out tax hikes in October Budget",
-      "link": "",
-      "summary": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "published": "",
-      "title_zh": "英国财政大臣拒绝排除十月预算中加税的可能性",
-      "summary_zh": "约翰·希利 (John Healey) 在他的第一份预算案发布之前详细介绍了在英国更广泛地推动经济增长的计划。"
-    },
-    {
-      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "link": "",
-      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-      "published": "",
-      "title_zh": "布隆迪人在打击未注册商人之前急于离开肯尼亚",
-      "summary_zh": "肯尼亚将开始实施限制外国人经营小规模企业的措施。"
-    },
-    {
-      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-      "link": "",
-      "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
-      "published": "",
-      "title_zh": "埃克莱斯顿因携带猎枪进入葡萄牙被警察拦下",
-      "summary_zh": "前一级方程式赛车老板伯尼·埃克莱斯顿表示，他带着一把打算在飞碟射击比赛中使用的猎枪抵达葡萄牙一个机场，随后被官员拦住。"
-    },
-    {
-      "title": "Iran nuclear showdown takes dangerous turn as US turns up the heat, Tehran issues new threat",
+      "title": "NTSB reveals if crew survived Amazon cargo jet disaster as it shares details about victims",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国加剧伊朗核摊牌，德黑兰发出新威胁"
+      "title_zh": "NTSB 公布了亚马逊货机灾难中机组人员是否幸存，并分享了受害者的详细信息"
     },
     {
-      "title": "Fans go wild as college football team revives iconic chant that the left deemed racist",
+      "title": "Lane Kiffin says he purposefully let Clemson suffer in visiting locker room",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学橄榄球队重唱被左派视为种族主义者的标志性口号，球迷们疯狂了"
+      "title_zh": "莱恩·基芬说他故意让克莱姆森在访问更衣室时受苦"
     },
     {
-      "title": "Rob Lowe lost out on Hollywood’s biggest roles and blames A-list 'nemesis'",
+      "title": "Google pulls profile after one-star mob floods page over slain conservative's memorial",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗伯·劳失去了好莱坞最重要的角色，并指责一线明星的“宿敌”"
+      "title_zh": "一星暴民淹没被害保守派纪念碑页面后，谷歌撤回了个人资料"
     },
     {
-      "title": "Two counties under health alert after viral illness climbs to 41 statewide cases",
+      "title": "Amazon Outlet's Labor Day sale ends tonight: Up to 70% off AirPods, cooling pillows and more",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "全州病毒性疾病病例增至 41 例，两个县处于健康警报状态"
+      "title_zh": "Amazon Outlet 劳动节特卖今晚结束：AirPods、凉爽枕头等商品最高 70% 折扣"
     },
     {
-      "title": "Frustrated cruise passengers demand refunds after abrupt cancellation: ‘Utter disaster’",
+      "title": "Christine Taylor reveals the embarrassing demand she got landing her 'Brady Bunch' role",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "突然取消后沮丧的游轮乘客要求退款：“彻底的灾难”"
+      "title_zh": "克里斯汀·泰勒 (Christine Taylor) 透露了她获得“布雷迪邦奇 (Brady Bunch)”角色的尴尬要求"
     },
     {
-      "title": "Buckingham Palace shuts down hopes for a Prince Harry and Meghan Markle comeback",
+      "title": "9/11 mastermind's confession tossed and the feds are letting it go without a fight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "白金汉宫关闭了哈里王子和梅根·马克尔复出的希望"
+      "title_zh": "9/11主谋的供词被推翻，联邦调查局不战而屈人之兵"
     },
     {
-      "title": "Family celebrates as notorious killers get new shot at freedom sooner than expected",
+      "title": "Jimmy John's employee charged after 14-year-old girl shot during dispute",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "臭名昭著的杀手比预期更早获得自由，家人庆祝"
+      "title_zh": "吉米·约翰 (Jimmy John) 的员工因纠纷中 14 岁女孩被枪杀而被指控"
     },
     {
-      "title": "Governor's policy under fire after illegal immigrant fleeing ICE slams into mayor's wife",
+      "title": "Suspected fireworks explosion in Mexico kills 10 at religious festival",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "逃离 ICE 的非法移民撞向市长妻子后，州长的政策受到批评"
+      "title_zh": "墨西哥宗教节日疑似烟花爆炸造成10人死亡"
     },
     {
-      "title": "Burning Man's final days shadowed by festival-goers' back-to-back deaths",
+      "title": "Trump says Bombardier should manufacture planes in the United States",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "火人节的最后几天，参加节日的人接连死亡，蒙上了阴影"
+      "title_zh": "特朗普表示庞巴迪应该在美国生产飞机"
     },
     {
-      "title": "Last-minute Labor Day sales: Save up to 80% at QVC, Best Buy, Kate Spade Outlet and more",
+      "title": "Olivia Dunne serves LSU drinks as Lane Kiffin leads Tigers to victory",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "劳动节最后一刻促销：QVC、Best Buy、Kate Spade Outlet 等折扣高达 80%"
+      "title_zh": "奥利维亚·邓恩 (Olivia Dunne) 为路易斯安那州立大学 (LSU) 提供饮品，莱恩·基芬 (Lane Kiffin) 带领老虎队取得胜利"
     },
     {
-      "title": "Usha Vance's advice to Charlie Kirk's widow is now 'seared into' her heart",
+      "title": "SEC's 16-0 start in week one makes case for edge over the Big Ten",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乌莎·万斯对查理·柯克遗孀的建议现已“烙印”在她的心里"
+      "title_zh": "SEC 在第一周取得 16-0 的开局，证明了其在十大联盟中的优势"
     },
     {
-      "title": "Switch to a Google Pixel for free with these T-Mobile offers",
+      "title": "Undrafted, unbothered, and now leading Los Angeles on a boat with bikini-clad girlfriend",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "通过这些 T-Mobile 优惠免费切换到 Google Pixel"
+      "title_zh": "落选秀，无忧无虑，现在和穿比基尼的女朋友一起在船上带领洛杉矶"
     },
     {
-      "title": "Luxury real estate CEO gives blunt response as NYC rents soar amid new pied-à-terre tax",
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
       "link": "",
-      "summary": "",
+      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
       "published": "",
-      "title_zh": "纽约市租金因新的临时住所税而飙升，豪华房地产首席执行官做出直言不讳的回应"
+      "title_zh": "随着定居者袭击事件的增多，巴勒斯坦家长担心孩子们在学校的生命安全",
+      "summary_zh": "今年三名学生被杀后，被占领的约旦河西岸的一名校长安装了新的铁丝网。"
     },
     {
-      "title": "Trump targets Bombardier, says aircraft maker should build planes in US",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "link": "",
-      "summary": "",
+      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
       "published": "",
-      "title_zh": "特朗普瞄准庞巴迪，称飞机制造商应在美国制造飞机"
+      "title_zh": "德国极右翼选择党表示“民主要求”政党在州选举获胜后与他们合作",
+      "summary_zh": "极右翼政党在距离多数席位仅差三个席位后正试图在该州组建政府。"
     },
     {
-      "title": "'Happy Days' and The Office' star seen shopping in LA as she turns 71",
+      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
       "link": "",
-      "summary": "",
+      "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
       "published": "",
-      "title_zh": "《快乐时光》和《办公室》明星 71 岁生日时在洛杉矶购物"
+      "title_zh": "德国选择党的历史性进步对于德国和欧洲其他国家来说有多重要？",
+      "summary_zh": "英国广播公司欧洲编辑卡蒂亚·阿德勒认为，极右翼在萨克森-安哈尔特州的胜利给欧盟和传统政党敲响了警钟。"
     },
     {
-      "title": "Dropout accused of blowing $240M Bitcoin haul on Ferraris and $4M club nights",
+      "title": "'It's disappointing': Americans react to record high Labor Day fuel prices",
       "link": "",
-      "summary": "",
+      "summary": "Petrol prices have never topped $4 (£2.96) per gallon on Labor Day, but it's still below the record of $5.02 (£3.71) a gallon set in June 2022.",
       "published": "",
-      "title_zh": "辍学生被指控在法拉利和 400 万美元的俱乐部之夜中挥霍了 2.4 亿美元的比特币"
+      "title_zh": "“这令人失望”：美国人对创纪录的劳动节燃油价格的反应",
+      "summary_zh": "劳动节期间汽油价格从未突破每加仑 4 美元（2.96 英镑），但仍低于 2022 年 6 月创下的每加仑 5.02 美元（3.71 英镑）的纪录。"
     },
     {
-      "title": "Last-chance Labor Day appliance deals: Save up to 57% on vacuums, coffee makers and more",
+      "title": "Can Kane buck history and win Ballon d'Or?",
       "link": "",
-      "summary": "",
+      "summary": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
       "published": "",
-      "title_zh": "劳动节电器最后机会优惠：吸尘器、咖啡机等产品最高可节省 57%"
+      "title_zh": "凯恩能否打破历史并赢得金球奖？",
+      "summary_zh": "历史表明，金球奖得主都是那些最近捧起足球界最重要奖杯之一的人。哈里·凯恩能否成为罕见的例外？"
     }
   ]
 }
