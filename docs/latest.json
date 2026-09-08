@@ -1,6 +1,6 @@
 {
   "date": "20260908",
-  "total": 43,
+  "total": 25,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,321 +33,185 @@
   },
   "entries": [
     {
-      "title": "SEC accuses LSU of letting Kiffin run wild as expulsion vote coming Thursday",
+      "title": "Supreme Court rejects Missouri Republicans’ request to use new congressional map",
+      "link": "https://www.nbcnews.com/politics/supreme-court/rejects-missouri-republicans-request-use-new-congressional-map-midterm-rcna596454",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院驳回密苏里州共和党使用新国会地图的请求"
+    },
+    {
+      "title": "U.S. strikes Iranian tankers after attempted attacks on Navy warship",
+      "link": "https://www.nbcnews.com/world/iran/us-strikes-iranian-tankers-attempted-missile-attacks-navy-warship-rcna596699",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国在企图袭击海军军舰后袭击了伊朗油轮"
+    },
+    {
+      "title": "Lindsay Clancy juror ‘admitted he had reasonable doubt,’ foreperson says",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-juror-admitted-reasonable-doubt-foreperson-says-rcna596693",
+      "summary": "",
+      "published": "",
+      "title_zh": "陪审员林赛·克兰西“承认他有合理的怀疑”，领头人说"
+    },
+    {
+      "title": "LIV Golf files for bankruptcy as it attempts to restart in 2027",
+      "link": "https://www.nbcnews.com/sports/golf/liv-golf-files-bankruptcy-attempts-restart-2027-rcna332014",
+      "summary": "",
+      "published": "",
+      "title_zh": "LIV Golf 申请破产，试图在 2027 年重启"
+    },
+    {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "",
+      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "published": "",
+      "title_zh": "保罗·亚当斯：英以关系处于几十年来的最低点",
+      "summary_zh": "以色列对伦敦与被占领约旦河西岸以色列定居点的贸易禁令的反应表明了这一时刻的重要性。"
+    },
+    {
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "link": "",
+      "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "published": "",
+      "title_zh": "OpenAI 称其在 88 小时内破解了 90 年前的数学难题",
+      "summary_zh": "OpenAI 声称它解决了部分纳维-斯托克斯方程，很快就引发了争议。"
+    },
+    {
+      "title": "The firms turning recruitment into X Factor-style competitions",
+      "link": "",
+      "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+      "published": "",
+      "title_zh": "公司将招聘变成 X Factor 式的竞赛",
+      "summary_zh": "申请者必须在舞台上向评委团和观众展示他们的想法。但这令人兴奋还是不公平？"
+    },
+    {
+      "title": "LIV files for bankruptcy protection with $45m owed to players",
+      "link": "",
+      "summary": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States.",
+      "published": "",
+      "title_zh": "LIV 申请破产保护 欠玩家 4500 万美元",
+      "summary_zh": "在美国申请破产保护后，LIV Golf 仍打算明年初开始新的联赛。"
+    },
+    {
+      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "link": "",
+      "summary": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
+      "published": "",
+      "title_zh": "沙特阿拉伯誓言在胡塞武装袭击城市和能源设施后做出回应",
+      "summary_zh": "沙特当局称，伊朗支持的也门组织的袭击已造成 73 人受伤，并引发石油设施火灾。"
+    },
+    {
+      "title": "Bouaddi impresses on first start - have Man City found 'a gem'?",
+      "link": "",
+      "summary": "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.",
+      "published": "",
+      "title_zh": "布阿迪首次首发就给人留下了深刻的印象——曼城找到了“宝石”吗？",
+      "summary_zh": "阿尤布·布阿迪 (Ayyoub Bouaddi) 在曼城首次首发时在欧冠联赛中的成熟表现掩盖了他的年龄，这表明了俱乐部为何如此热衷于签下这位 18 岁的球员。"
+    },
+    {
+      "title": "Three jurors break silence on what really deadlocked the Lindsay Clancy murder case",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国证券交易委员会指责路易斯安那州立大学放任基芬疯狂，周四将进行开除投票"
+      "title_zh": "三名陪审员打破沉默，揭开林赛·克兰西谋杀案陷入僵局的真正原因"
     },
     {
-      "title": "Jelly Roll uninvited to law enforcement fundraiser after politically charged Kimmel show",
+      "title": "US forces strike 'multiple' Iranian tankers tied to IRGC after attempted attack on Navy warship",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在受到政治指控的金梅尔秀后，果冻卷未受邀参加执法筹款活动"
+      "title_zh": "美军在企图袭击海军军舰后袭击了与伊斯兰革命卫队绑在一起的“多艘”伊朗油轮"
     },
     {
-      "title": "Man slips a paper to a top official mid-speech and it spectacularly backfires",
+      "title": "New details emerge on Biden's cancer treatment as he delivers urgent warning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一名男子在演讲中向高级官员塞了一张纸，结果却适得其反"
+      "title_zh": "拜登发出紧急警告，有关癌症治疗的新细节浮出水面"
     },
     {
-      "title": "Iranian president takes swipe at Trump, makes prediction about the war's outcome",
+      "title": "Karmelo Anthony texts reveal ominous message hours before Austin Metcalf murder",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗总统猛烈抨击特朗普，对战争结果做出预测"
+      "title_zh": "卡梅罗·安东尼在奥斯汀·梅特卡夫谋杀案发生前几小时发短信透露了不祥的信息"
     },
     {
-      "title": "Victims identified in fatal Amazon cargo jet crash at Miami airport",
+      "title": "NIL's latest money grab could be the cut that finally kills college football",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈阿密机场亚马逊货机坠毁事故确认遇难者身份"
+      "title_zh": "NIL最新的资金攫取可能会最终扼杀大学橄榄球"
     },
     {
-      "title": "Adidas issues apology after ad featuring disabled Israeli vet leads to boycott calls",
+      "title": "Clerk who influenced jurors sparked the Supreme Court move that torched his convictions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿迪达斯因以色列残疾兽医广告引发抵制呼吁而道歉"
+      "title_zh": "影响陪审员的书记员引发了最高法院的行动，从而毁掉了他的信念"
     },
     {
-      "title": "Students too frightened to sign up after TPUSA officers get anonymous death warnings",
+      "title": "Labor Day sales you can still shop: Save up to 80% at QVC, Best Buy, Wayfair and more",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "TPUSA 官员收到匿名死亡警告后，学生们不敢报名"
+      "title_zh": "您仍然可以购物的劳动节促销：在 QVC、Best Buy、Wayfair 等处节省高达 80%"
     },
     {
-      "title": "Families of 9/11 victims send message to NYC Mayor Mamdani",
+      "title": "SCOTUS rejects Missouri GOP bid to use revised congressional map in midterms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "9/11受害者家属向纽约市市长马姆达尼致信"
+      "title_zh": "最高法院拒绝密苏里州共和党在中期选举中使用修订后的国会地图的提议"
     },
     {
-      "title": "Smithsonian leader Lonnie Bunch stepping down amid fight over museum direction",
+      "title": "Craig Carton, Michael Rapaport dish on their shared dislike for LeBron James: 'Dead to me'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "史密森学会领导人朗尼·邦奇在博物馆方向之争中辞职"
+      "title_zh": "克雷格·卡顿和迈克尔·拉帕波特谈到了他们对勒布朗·詹姆斯的共同厌恶：“对我来说死了”"
     },
     {
-      "title": "Amazon Labor Day deals are still live — these are the ones we'd actually buy",
+      "title": "Amazon knocks $131 off a Shark vacuum, 47% off a Keurig, plus other deals at 40% off or more",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "亚马逊劳动节优惠仍然有效——这些是我们实际购买的商品"
+      "title_zh": "亚马逊 Shark 吸尘器立减 131 美元，Keurig 立减 47%，其他优惠价为 40% 或以上"
     },
     {
-      "title": "Football program drops stunning new uniforms honoring 9/11 victims",
+      "title": "'Full House' star files for divorce after nearly 29 years of marriage",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "足球项目推出令人惊叹的新球衣纪念 9/11 受害者"
+      "title_zh": "《欢乐满屋》明星结婚近 29 年后提出离婚"
     },
     {
-      "title": "Two rogue Democrats blindside their own leaders, triggering a rare joint condemnation",
+      "title": "Nicolas Cage's Malibu driveway collapses, creating a massive sinkhole outside his home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "两名流氓民主党人出其不意地打击了自己的领导人，引发罕见的联合谴责"
+      "title_zh": "尼古拉斯·凯奇的马里布车道倒塌，在他家外面形成了一个巨大的天坑"
     },
     {
-      "title": "United flight attendant catches baby before fall, holds child so exhausted mom can sleep",
+      "title": "Fetterman faces mounting backlash as an unlikely ally comes to his defense",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美联航空姐在婴儿摔倒前抱住孩子，让疲惫的妈妈可以入睡"
+      "title_zh": "费特曼面临越来越多的强烈反对，因为一个不太可能的盟友为他辩护"
     },
     {
-      "title": "School district sued for letting kids change names, identities without parental consent",
+      "title": "First AP Top 25 poll of college football season delivers expected shuffling",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "学区因未经父母同意而让孩子更改姓名和身份而被起诉"
+      "title_zh": "美联社首个大学橄榄球赛季前 25 名民意调查显示预期的洗牌"
     },
     {
-      "title": "59 sex offenders busted in Jacksonville after 500-plus compliance checks",
+      "title": "Pamela Anderson’s desperate health battle forced her to empty her bank account",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "经过 500 多项合规检查后，59 名性犯罪者在杰克逊维尔被捕"
-    },
-    {
-      "title": "Drug appears to turn back the clock as patients show signs of younger biological age",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着患者表现出更年轻的生物年龄的迹象，药物似乎可以让时光倒流"
-    },
-    {
-      "title": "GOP mayor issues dire warning on socialism as Texas business boom surges",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着德克萨斯州商业繁荣激增，共和党市长对社会主义发出可怕警告"
-    },
-    {
-      "title": "American retailer closes 25 stores to boost its overall profitability",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国零售商关闭 25 家门店以提高整体盈利能力"
-    },
-    {
-      "title": "Kate Spade Outlet's Labor Day sale is still live — save up to 81%, with styles from $28",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Kate Spade Outlets 劳动节促销仍在进行中 — 最高可节省 81%，款式起价 28 美元"
-    },
-    {
-      "title": "New Hampshire Senate primary election results",
-      "link": "https://www.nbcnews.com/politics/2026-primary-elections/new-hampshire-senate-results",
-      "summary": "",
-      "published": "",
-      "title_zh": "新罕布什尔州参议院初选结果"
-    },
-    {
-      "title": "New Hampshire House primary election results",
-      "link": "https://www.nbcnews.com/politics/2026-primary-elections/new-hampshire-house-results",
-      "summary": "",
-      "published": "",
-      "title_zh": "新罕布什尔州众议院初选结果"
-    },
-    {
-      "title": "New Hampshire governor primary election results",
-      "link": "https://www.nbcnews.com/politics/2026-primary-elections/new-hampshire-governor-results",
-      "summary": "",
-      "published": "",
-      "title_zh": "新罕布什尔州州长初选结果"
-    },
-    {
-      "title": "Smithsonian Secretary Lonnie Bunch is leaving amid tensions with Trump",
-      "link": "https://www.nbcnews.com/politics/politics-news/smithsonian-secretary-lonnie-bunch-leaving-fights-trump-rcna596615",
-      "summary": "",
-      "published": "",
-      "title_zh": "史密森学会秘书朗尼·邦奇因与特朗普关系紧张而离职"
-    },
-    {
-      "title": "Homeland security chief sows confusion over ICE body cameras",
-      "link": "https://www.nbcnews.com/politics/immigration/homeland-security-chief-sows-confusion-ice-body-cameras-rcna595920",
-      "summary": "",
-      "published": "",
-      "title_zh": "国土安全部负责人对 ICE 随身摄像机制造混乱"
-    },
-    {
-      "title": "Russian drone and missile strikes in Kyiv kill 2 people, ending pause for U.S. talks",
-      "link": "https://www.nbcnews.com/world/ukraine/russian-drone-missile-strikes-ukrainian-capital-kill-2-people-ending-p-rcna596538",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄罗斯无人机和导弹袭击基辅造成两人死亡，结束了美国谈判的暂停"
-    },
-    {
-      "title": "Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial",
-      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-defense-attorney-kevin-reddington-speaks-mistrial-seeks-rcna596553",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西的律师在州审判无效后首次接受采访时请求特朗普赦免"
-    },
-    {
-      "title": "Ebola continues spreading out-of-control as money and resources pour into Congo",
-      "link": "https://www.nbcnews.com/health/health-news/ebola-outpaces-containment-efforts-despite-money-supplies-rcna595512",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着资金和资源涌入刚果，埃博拉病毒继续失控蔓延"
-    },
-    {
-      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-      "link": "",
-      "summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
-      "published": "",
-      "title_zh": "在西岸，枣农权衡英国制裁对以色列定居者的影响",
-      "summary_zh": "巴勒斯坦人强烈支持禁止定居点货物，但以色列政府表示这是一个“大错误”。"
-    },
-    {
-      "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-      "link": "",
-      "summary": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
-      "published": "",
-      "title_zh": "马姆达尼说，9/11 袭击后，纽约人被“欺骗”，说空气有毒",
-      "summary_zh": "新发布的文件显示，袭击发生后几个月，毒素仍然存在，但官员告诉人们，这是安全的。"
-    },
-    {
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "link": "",
-      "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-      "published": "",
-      "title_zh": "卡尼表示，随着加拿大反击关税，美国贸易战“将付出代价”",
-      "summary_zh": "加拿大的关税高达 50%，将适用于价值近 200 亿美元的美国产品，从钢铁到 T 恤。"
-    },
-    {
-      "title": "Sapporo to move some beer production from Canada to US after tariffs",
-      "link": "",
-      "summary": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
-      "published": "",
-      "title_zh": "关税后札幌将部分啤酒生产从加拿大转移到美国",
-      "summary_zh": "由于关税影响，这家日本啤酒制造商计划将无酒精啤酒酿造从加拿大转移到美国"
-    },
-    {
-      "title": "Renoir paintings worth millions stolen in French museum heist",
-      "link": "",
-      "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
-      "published": "",
-      "title_zh": "雷诺阿价值数百万画作在法国博物馆抢劫中被盗",
-      "summary_zh": "这是欧洲一系列备受瞩目的艺术品盗窃案中的最新一起，再次使博物馆和画廊的安全成为人们关注的焦点。"
-    },
-    {
-      "title": "Trump shares misleading video of King and fainting worker",
-      "link": "",
-      "summary": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
-      "published": "",
-      "title_zh": "特朗普分享了金和晕倒工人的误导性视频",
-      "summary_zh": "总统分享了一段误导性视频，视频中似乎显示查尔斯耸耸肩，从一名在王室访问期间晕倒的男子身边走开。"
-    },
-    {
-      "title": "How Alcaraz can single-handedly end American dreams",
-      "link": "",
-      "summary": "Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way.",
-      "published": "",
-      "title_zh": "阿尔卡拉斯如何单枪匹马地终结美国梦",
-      "summary_zh": "三名美国人有机会成为自 2003 年以来第一位本土美国公开赛男子冠军。但卡洛斯·阿尔卡拉斯阻碍了这一进程。"
-    },
-    {
-      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
-      "link": "",
-      "summary": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
-      "published": "",
-      "title_zh": "英国反对的以色列提议的约旦河西岸定居点在哪里？",
-      "summary_zh": "BBC 中东记者露西·威廉森在被占领的约旦河西岸靠近以色列拟建地点的地区进行报道。"
-    },
-    {
-      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season",
-      "link": "",
-      "summary": "Who are favourites to reach the Super Bowl and who will be the surprise standouts? BBC's NFL experts make their predictions for the 2026 season - and so can you.",
-      "published": "",
-      "title_zh": "谁将进入超级碗？- NFL 2026 赛季预测",
-      "summary_zh": "谁最有希望进入超级碗，谁将成为令人惊讶的佼佼者？BBC 的 NFL 专家对 2026 赛季做出了预测 - 您也可以。"
-    },
-    {
-      "title": "Lucky toddler has a narrow escape after running into speeding traffic",
-      "link": "",
-      "summary": "Security camera footage shows a supermarket employee racing into action as a toddler runs towards moving traffic in Puebla, Mexico.",
-      "published": "",
-      "title_zh": "幸运的小孩在遇到超速交通后侥幸逃脱",
-      "summary_zh": "监控录像显示，在墨西哥普埃布拉，一名超市员工冲向一名幼儿，一名超市员工冲向流动的交通。"
-    },
-    {
-      "title": "Hungary expels 10 Russian diplomats as relations worsen",
-      "link": "",
-      "summary": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance.",
-      "published": "",
-      "title_zh": "关系恶化匈牙利驱逐10名俄罗斯外交官",
-      "summary_zh": "多年来，匈牙利被视为俄罗斯在欧盟最亲密的盟友，但新政府放弃了亲克里姆林宫的立场。"
-    },
-    {
-      "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-      "link": "",
-      "summary": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid.",
-      "published": "",
-      "title_zh": "医疗慈善机构警告说，苏丹的医疗保健系统在削减开支后濒临崩溃",
-      "summary_zh": "无国界医生组织敦促世界领导人增加资金，帮助数百万需要援助的人。"
-    },
-    {
-      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
-      "link": "",
-      "summary": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
-      "published": "",
-      "title_zh": "十四人因最致命的海峡小船灾难而接受审判",
-      "summary_zh": "2021 年 11 月 24 日，他们的小艇倾覆，至少 30 名男女和儿童溺水身亡。"
-    },
-    {
-      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-      "link": "",
-      "summary": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
-      "published": "",
-      "title_zh": "电网遭受一系列袭击后，破坏嫌疑人在德国被捕",
-      "summary_zh": "据报道，嫌疑人在信件中声称对变电站袭击事件负责。"
-    },
-    {
-      "title": "US Open: Tiafoe saves set point against Michelsen in all-American quarter-final",
-      "link": "",
-      "summary": "Frances Tiafoe plays Alex Michelsen in all-American clash as men's quarter-finals get under way at US Open.",
-      "published": "",
-      "title_zh": "美国公开赛：蒂亚福在全美四分之一决赛中对阵米歇尔森挽救盘点",
-      "summary_zh": "美国公开赛男子四分之一决赛即将开始，弗朗西斯·蒂亚福将在全美对阵中对阵亚历克斯·米歇尔森。"
-    },
-    {
-      "title": "I was fired from The Voice - I didn't want to leave, says Sir Tom Jones",
-      "link": "",
-      "summary": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
-      "published": "",
-      "title_zh": "汤姆·琼斯爵士说，我被《好声音》解雇了——我不想离开",
-      "summary_zh": "自 2012 年首届比赛以来，这位威尔士歌手一直在比赛中担任断断续续的教练。"
+      "title_zh": "帕梅拉·安德森（Pamela Anderson）绝望的健康斗争迫使她掏空银行账户"
     }
   ]
 }
