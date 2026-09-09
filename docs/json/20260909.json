@@ -1,8 +1,12 @@
 {
   "date": "20260909",
-  "total": 41,
+  "total": 40,
   "sources": {
     "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
       "status": "ok",
       "entries": 0
     },
@@ -11,10 +15,6 @@
       "entries": 0
     },
     "nbcnews": {
-      "status": "ok",
-      "entries": 0
-    },
-    "nytimes": {
       "status": "ok",
       "entries": 0
     },
@@ -33,307 +33,296 @@
   },
   "entries": [
     {
-      "title": "Foreign secretary rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-      "link": "",
-      "summary": "The foreign secretary disagrees with the UK's chief rabbi who warns sanctions on Israeli settlements could put British Jews at greater risk.",
-      "published": "",
-      "title_zh": "外交大臣拒绝首席拉比关于制裁行动后英国犹太人面临更大危险的说法",
-      "summary_zh": "这位外交大臣不同意英国首席拉比的观点，后者警告称，对以色列定居点的制裁可能会让英国犹太人面临更大的风险。"
-    },
-    {
-      "title": "Royals and diplomats in Oslo to pay final tribute to late King Harald V",
-      "link": "",
-      "summary": "The late monarch died last month aged 89. Ukraine's President Volodymyr Zelensky and King Abdullah II of Jordan are also in attendance at today's service.",
-      "published": "",
-      "title_zh": "王室成员和外交官在奥斯陆向已故国王哈拉尔五世致以最后的敬意",
-      "summary_zh": "这位已故君主上个月去世，享年 89 岁。乌克兰总统弗拉基米尔·泽伦斯基和约旦国王阿卜杜拉二世也出席了今天的葬礼。"
-    },
-    {
-      "title": "Reigning Miss Austria Lucia Sisic dies aged 22",
-      "link": "",
-      "summary": "Tributes have been paid to Lucia Sisic, who had a lifelong experience with a heart condition.",
-      "published": "",
-      "title_zh": "现任奥地利小姐露西娅·西西克去世，享年 22 岁",
-      "summary_zh": "我们向终生患有心脏病的露西娅·西西奇致敬。"
-    },
-    {
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "link": "",
-      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-      "published": "",
-      "title_zh": "美国将禁止进口部分加拿大酒类、乳制品和摩托车",
-      "summary_zh": "这是长期贸易战中的最新一次罢工，发生在加拿大对美国商品征收反关税之后。"
-    },
-    {
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "link": "",
-      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "published": "",
-      "title_zh": "“一直萦绕在我的脑海中”——25 年后，9/11 事件对失去亲人的人来说仍然是一种痛苦",
-      "summary_zh": "随着 25 周年纪念日的临近，对所谓的袭击策划者接受审判的等待仍在继续。"
-    },
-    {
-      "title": "I'm 27 and I've already written my will - here's why",
-      "link": "",
-      "summary": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-      "published": "",
-      "title_zh": "我 27 岁了，我已经写下了遗嘱 - 这就是原因",
-      "summary_zh": "对于许多年轻人来说，立遗嘱似乎没有必要，但这就是为什么您不应该推迟立遗嘱的原因。"
-    },
-    {
-      "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
-      "link": "",
-      "summary": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
-      "published": "",
-      "title_zh": "天坑出现在马里布的家外，被认为属于尼古拉斯·凯奇",
-      "summary_zh": "据地方当局称，周二早上，这栋海滨房屋的车道倒塌。"
-    },
-    {
-      "title": "Should promotion depend on how workers use AI?",
-      "link": "",
-      "summary": "More companies are tying career progression to AI use: is that fair?",
-      "published": "",
-      "title_zh": "晋升是否应该取决于员工如何使用人工智能？",
-      "summary_zh": "越来越多的公司将职业发展与人工智能的使用联系起来：这公平吗？"
-    },
-    {
-      "title": "British-Israeli relations at lowest ebb in decades",
-      "link": "",
-      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is, writes Paul Adams.",
-      "published": "",
-      "title_zh": "英以关系陷入数十年来最低点",
-      "summary_zh": "保罗·亚当斯写道，以色列对伦敦与被占领约旦河西岸以色列定居点的贸易禁令的反应表明了这一时刻的重要性。"
-    },
-    {
-      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "link": "",
-      "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
-      "published": "",
-      "title_zh": "因版权问题白宫下架俄罗斯方块风格的“Build The Wall”游戏",
-      "summary_zh": "俄罗斯方块公司表示，他们非常严肃地对待“版权侵权行为”，并且没有参与该游戏。"
-    },
-    {
-      "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
-      "link": "",
-      "summary": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudslides.",
-      "published": "",
-      "title_zh": "观看：飓风洛厄尔袭击夏威夷西部，树木倒塌和洪水泛滥",
-      "summary_zh": "周一和周二，这场风暴给该岛部分地区带来了破坏性的大风和暴雨，引发了人们对山洪和泥石流的担忧。"
-    },
-    {
-      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-      "link": "",
-      "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-      "published": "",
-      "title_zh": "印度森林中发现小猩猩引发贩运调查",
-      "summary_zh": "这些极度濒危的猿类是在印度东部奥里萨邦远离其自然栖息地的地方发现的。"
-    },
-    {
-      "title": "Mamdani, Jon Stewart reveal new 9/11 documents",
-      "link": "",
-      "summary": "The New York City mayor released 170,000 documents that show officials had concerns about air quality after the 9/11 attacks.",
-      "published": "",
-      "title_zh": "马姆达尼 (Mamdani) 和乔恩·斯图尔特 (Jon Stewart) 公布了新的 9/11 文件",
-      "summary_zh": "纽约市市长公布了 170,000 份文件，显示官员们在 9/11 袭击后对空气质量表示担忧。"
-    },
-    {
-      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "link": "",
-      "summary": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-      "published": "",
-      "title_zh": "韩国离婚协议创纪录 大亨将向前妻支付18.7亿美元",
-      "summary_zh": "数十亿美元的赔偿标志着该国历史上最大的离婚和解协议。"
-    },
-    {
-      "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
-      "link": "",
-      "summary": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time.",
-      "published": "",
-      "title_zh": "谢尔顿在最新的美国公开赛中击败阿尔卡拉兹进入半决赛",
-      "summary_zh": "卡洛斯·阿尔卡拉斯 (Carlos Alcaraz) 在四分之一决赛中以五盘戏剧性的比分输给本·谢尔顿 (Ben Shelton) 的美国公开赛冠军卫冕之旅于当地时间 03:34 结束。"
-    },
-    {
-      "title": "Where do PSG rank among Europe's greatest football dynasties?",
-      "link": "",
-      "summary": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-      "published": "",
-      "title_zh": "巴黎圣日耳曼在欧洲最伟大的足球王朝中排名第几？",
-      "summary_zh": "巴黎圣日耳曼队的目标是连续第三次夺得欧冠冠军，但与欧洲最具统治力的俱乐部相比，他们的排名如何呢？"
-    },
-    {
-      "title": "Iran failed to hit US Navy destroyers as American forces destroy 10 Iranian tankers: CENTCOM",
+      "title": "Trump clears up mystery after emergency slide deploys from new Air Force One at Andrews",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美军摧毁10艘伊朗油轮，伊朗未能击中美国海军驱逐舰：中央司令部"
+      "title_zh": "安德鲁斯新空军一号部署紧急滑梯后，特朗普揭开了谜团"
     },
     {
-      "title": "Obama-era official goes down in crucial House primary after rival gets key endorsement",
+      "title": "Michael Jordan's four-word warning went ignored and cost Nike shareholders $200B",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥巴马时代官员在竞争对手获得关键支持后在关键的众议院初选中下台"
+      "title_zh": "迈克尔·乔丹的四个字警告被忽视，耐克股东损失 $200B"
     },
     {
-      "title": "NFL legend built a 4,100-acre Wisconsin cattle empire from five cows",
+      "title": "Witness reveals what Amazon cargo jet pilot reportedly told wife after deadly crash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 传奇人物用五头牛建立了占地 4,100 英亩的威斯康星州养牛帝国"
+      "title_zh": "目击者透露了亚马逊货运飞机飞行员在致命事故后告诉妻子的话"
     },
     {
-      "title": "Black Michigan Dem rep goes nuclear on El-Sayed with dire plea to voters before midterms",
+      "title": "Illegal immigrant's alleged 'vicious' attack on elderly woman sends sheriff into rage",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "密歇根州黑人民主党代表对埃尔赛义德进行核攻击，并在中期选举前向选民发出可怕的恳求"
+      "title_zh": "非法移民涉嫌“恶意”袭击老年妇女，令治安官勃然大怒"
     },
     {
-      "title": "Filmmaker warns Canada’s slow decline offers cautionary tale for Americans",
+      "title": "MLB star uncorks 105-mph throw to nail runner at home in one of fastest throws ever",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "电影制片人警告加拿大的缓慢衰退给美国人敲响了警钟"
+      "title_zh": "MLB 球星在主场以 105 英里/小时的速度向钉子跑者投掷，这是有史以来最快的投掷之一"
     },
     {
-      "title": "Chief Justice issues statement on outgoing Smithsonian head who was under pressure from White House",
+      "title": "Bone-chilling trailer dropped for new WWII film led by famous director",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "首席大法官就迫于白宫压力即将卸任的史密森学会主席发表声明"
+      "title_zh": "著名导演执导的新二战电影发布令人毛骨悚然的预告片"
     },
     {
-      "title": "Deadly drugs, kidnappings trigger warning for Americans traveling to famed destination",
+      "title": "Federal judge's choice of words draws fierce backlash after major court ruling",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "致命毒品和绑架引发对前往著名目的地旅行的美国人的警告"
+      "title_zh": "联邦法官的措辞选择在重大法院裁决后引起强烈反对"
     },
     {
-      "title": "Experts say Clancy's Trump pardon gambit may be aimed at something else entirely",
+      "title": "TLC mom reveals someone paid $2,000 for a truly bizarre adult content request",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家表示，克兰西的特朗普赦免策略可能完全是为了别的目的"
+      "title_zh": "TLC 妈妈透露，有人为一个真正奇怪的成人内容请求支付了 2,000 美元"
     },
     {
-      "title": "American men's tennis may have a new face after thrilling late-night upset at US Open",
+      "title": "Apple introduces new iPhone design during its annual fall keynote event",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国网球公开赛深夜惊心动魄后，美国男子网球可能会换新面孔"
+      "title_zh": "Apple 在年度秋季主题活动中推出新 iPhone 设计"
     },
     {
-      "title": "Legendary agent has sage advice for rookie Fernando Mendoza after Raiders benching",
+      "title": "President Trump reveals when he believes the Iran war will end",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "传奇经纪人在突袭者队替补席上为新秀费尔南多·门多萨提供了明智的建议"
+      "title_zh": "特朗普总统透露他何时相信伊朗战争将会结束"
     },
     {
-      "title": "Republicans play their biggest cards yet with historic event as Election Day is just weeks away",
+      "title": "Blue-city police chief has an unusual term for known gun violence suspects on streets",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "距离选举日仅几周之遥，共和党人在历史性事件中打出了迄今为止最大的牌"
+      "title_zh": "蓝城警察局长对街头已知的枪支暴力嫌疑人有一个不寻常的术语"
     },
     {
-      "title": "SEAN HANNITY:The last person I want raising my kids is some socialist lunatic",
+      "title": "Prince George follows Prince William’s path at Eton as monarchy enters new era: expert",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肖恩·汉尼蒂：我最不想养育我的孩子的人是某个社会主义疯子"
+      "title_zh": "随着君主制进入新时代，乔治王子追随威廉王子在伊顿公学的道路：专家"
     },
     {
-      "title": "New study uncovers unexpected mental health concerns for weight-loss drug users",
+      "title": "NYPD boosts security for Jewish High Holy Days and 25th anniversary of 9/11",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新研究揭示了减肥药物使用者意想不到的心理健康问题"
+      "title_zh": "纽约警察局加强犹太圣日和 9/11 25 周年纪念日的安全"
     },
     {
-      "title": "Michael Rapaport says he's been heckled on NYC streets with antisemitic slurs",
+      "title": "Sanders' 32-hour workweek push could cost workers jobs, critic warns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克尔·拉帕波特 (Michael Rapaport) 表示，他在纽约街头遭到反犹太主义诽谤质问"
+      "title_zh": "批评者警告称，桑德斯推动每周工作 32 小时可能会导致工人失业"
     },
     {
-      "title": "Trump hammers Canada with sweeping ban on imports as trade fight escalates",
+      "title": "College students trade alcohol for ‘wellness darties’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着贸易战升级，特朗普全面禁止进口，猛烈抨击加拿大"
+      "title_zh": "大学生用酒精换取“健康达斯”"
     },
     {
-      "title": "Data center backlash is everywhere. The biggest pro-AI group is ready to fight back.",
-      "link": "https://www.nbcnews.com/politics/2026-election/data-center-backlash-everywhere-biggest-ai-group-getting-ready-fight-rcna596593",
+      "title": "'Alien harboring' accusations fly as DC-area county spends taxpayer funds to blunt ICE",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "数据中心的强烈反对无处不在。最大的支持人工智能团体已准备好反击。"
+      "title_zh": "随着华盛顿地区县花费纳税人资金削弱 ICE，“外星人窝藏”指控四起"
     },
     {
-      "title": "Rhode Island’s Democratic governor may fall in his primary because of a bridge",
-      "link": "https://www.nbcnews.com/politics/2026-election/rhode-islands-democratic-governor-may-fall-primary-bridge-rcna596557",
+      "title": "Accused wife killer Barry Morphew's bond soars to $10M over alleged hit-and-run",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗德岛州民主党州长可能因桥梁原因在初选中落败"
+      "title_zh": "被指控杀害妻子的巴里·莫菲 (Barry Morphew) 因涉嫌肇事逃逸罪名保释金飙升至 1000 万美元"
     },
     {
-      "title": "Oil hits $100 a barrel for first time in months as Middle East conflict intensifies again",
-      "link": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752",
+      "title": "ESPN analyst says perception of Dianna Russini-Mike Vrabel scandal is unfair to women",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中东冲突再次加剧，油价数月来首次触及每桶100美元"
+      "title_zh": "ESPN 分析师表示，戴安娜·鲁西尼-迈克·弗拉贝尔丑闻的看法对女性不公平"
     },
     {
-      "title": "‘Die here or leave’: Palestinians fear spiking settler violence will only get worse as Israeli elections near",
-      "link": "https://www.nbcnews.com/world/israel/west-bank-settler-violence-israel-palestinian-netanyahu-election-trump-rcna596442",
+      "title": "Anthropic researcher gives alarming response to ex-employee's accusations against the AI company",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“死在这里或离开”：巴勒斯坦人担心，随着以色列选举临近，定居者的暴力行为只会变得更糟"
+      "title_zh": "人类研究人员对前雇员对人工智能公司的指控做出了令人震惊的回应"
     },
     {
-      "title": "American Ben Shelton outduels defending champ Alcaraz in latest-ever U.S. Open finish",
-      "link": "https://www.nbcnews.com/sports/tennis/ben-shelton-carlos-alcaraz-latest-ever-us-open-quarter-final-rcna596746",
+      "title": "Apple announces long-awaited foldable phone, iPhone Duo",
+      "link": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652",
       "summary": "",
       "published": "",
-      "title_zh": "美国选手本·谢尔顿 (Ben Shelton) 在最新一届美国公开赛中击败卫冕冠军阿尔卡拉兹 (Alcaraz)"
+      "title_zh": "苹果发布期待已久的可折叠手机 iPhone Duo"
     },
     {
-      "title": "Tesla Cybercab draws concern from Texas fire department over lack of steering wheel",
-      "link": "https://www.nbcnews.com/tech/tech-news/tesla-cybercab-no-steering-wheel-worries-austin-firefighters-rcna596658",
+      "title": "First GOP midterm convention kicks off, with Trump to keynote",
+      "link": "https://www.nbcnews.com/politics/donald-trump/first-gop-midterm-convention-kicks-trump-keynote-tonight-rcna596764",
       "summary": "",
       "published": "",
-      "title_zh": "特斯拉 Cyber​​cab 因缺少方向盘而引起德克萨斯州消防部门的关注"
+      "title_zh": "第一次共和党中期代表大会开幕，特朗普发表主题演讲"
     },
     {
-      "title": "The $21 billion problem regulators missed in Mark Walter’s insurance empire",
-      "link": "https://www.nbcnews.com/business/business-news/21-billion-problem-regulators-missed-mark-walters-insurance-empire-rcna595774",
+      "title": "Missouri court opens contempt probe into Republican official over redistricting fight",
+      "link": "https://www.nbcnews.com/politics/elections/missouri-court-opens-contempt-probe-republican-official-redistricting-rcna596803",
       "summary": "",
       "published": "",
-      "title_zh": "监管机构忽视了马克·沃尔特 (Mark Walter) 保险帝国价值 210 亿美元的问题"
+      "title_zh": "密苏里州法院对共和党官员因选区重新划分之争展开藐视法庭调查"
     },
     {
-      "title": "Hostile policies restrict international students’ study in the U.S.",
-      "link": "https://www.nbcnews.com/data-graphics/fewer-international-students-expected-campuses-fall-2026-rcna595981",
+      "title": "Rhode Island governor primary election results",
+      "link": "https://www.nbcnews.com/politics/2026-primary-elections/rhode-island-governor-results",
       "summary": "",
       "published": "",
-      "title_zh": "敌对政策限制国际学生在美国学习"
+      "title_zh": "罗德岛州州长初选结果"
     },
     {
-      "title": "The X factor that could decide the NFL’s first game in Australia — jet lag",
-      "link": "https://www.nbcnews.com/sports/nfl/nfl-australia-san-francisco-49ers-los-angeles-rams-football-rcna594794",
+      "title": "Rhode Island Senate primary election results",
+      "link": "https://www.nbcnews.com/politics/2026-primary-elections/rhode-island-senate-results",
       "summary": "",
       "published": "",
-      "title_zh": "可能决定 NFL 在澳大利亚首场比赛的 X 因素——时差"
+      "title_zh": "罗德岛州参议院初选结果"
     },
     {
-      "title": "Years before Nepal floods, scientists pitched a novel warning system based on seismic signals",
-      "link": "https://www.nbcnews.com/science/science-news/nepal-floods-early-warning-system-seismic-signals-himalaya-rcna595926",
+      "title": "Rhode Island House primary election results",
+      "link": "https://www.nbcnews.com/politics/2026-primary-elections/rhode-island-house-results",
       "summary": "",
       "published": "",
-      "title_zh": "尼泊尔洪水发生前几年，科学家提出了一种基于地震信号的新型预警系统"
+      "title_zh": "罗德岛州众议院初选结果"
+    },
+    {
+      "title": "Lindsay Clancy’s attorney details her mental state after mistrial",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancys-attorney-details-mental-state-mistrial-rcna596776",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西的律师详细描述了她在误审后的精神状态"
+    },
+    {
+      "title": "Trump administration proposes excluding huge swath of immigrants from U.S. census",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-census-immigrants-voting-rcna596856",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普政府提议将大量移民排除在美国人口普查之外"
+    },
+    {
+      "title": "An Anthropic safety researcher resigned with a warning about AI",
+      "link": "https://www.nbcnews.com/tech/tech-news/anthropic-safety-researcher-resigned-warning-rapid-ai-development-gamb-rcna596767",
+      "summary": "",
+      "published": "",
+      "title_zh": "一位人类安全研究员因人工智能警告而辞职"
+    },
+    {
+      "title": "Watch: Norway bids farewell to King Harald",
+      "link": "",
+      "summary": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+      "published": "",
+      "title_zh": "观看：挪威告别哈拉尔国王",
+      "summary_zh": "经过13天的全国哀悼后，数万人走上街头表达哀悼。"
+    },
+    {
+      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+      "link": "",
+      "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+      "published": "",
+      "title_zh": "公开记录显示，特朗普向娜塔莉·哈普和另外两名助手赠送了 45,000 美元现金礼物",
+      "summary_zh": "白宫称向哈普和其他三人提供的现金礼物是个人的且合法的。"
+    },
+    {
+      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+      "link": "",
+      "summary": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+      "published": "",
+      "title_zh": "黑人妇女被发现吊在密西西比树上几周后，母亲要求答案",
+      "summary_zh": "她要求提供有关塔西亚·福琼（Tasia Fortune）遭遇的信息，这一要求得到了震惊的当地人的回应。"
+    },
+    {
+      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+      "link": "",
+      "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+      "published": "",
+      "title_zh": "泰特兄弟将继续被关押在美国监狱，以抗击被引渡到英国",
+      "summary_zh": "一名联邦法官拒绝他们保释，称美国和英国双重公民的财富和频繁的国际旅行“构成了典型的逃亡风险”。"
+    },
+    {
+      "title": "Apple unveils its first folding iPhone",
+      "link": "",
+      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "published": "",
+      "title_zh": "苹果推出首款折叠式 iPhone",
+      "summary_zh": "苹果在一次活动中展示了 iPhone 近 20 年来首次重大设计变化。"
+    },
+    {
+      "title": "'Emotional rollercoaster': Lindsay Clancy jurors speak out on what led to mistrial",
+      "link": "",
+      "summary": "The three jurors said after 40 hours, a lone male juror wouldn't agree with the rest of the panel to find Clancy not guilty by reason of insanity.",
+      "published": "",
+      "title_zh": "“情绪过山车”：林赛·克兰西陪审员畅谈导致无效审判的原因",
+      "summary_zh": "三名陪审员表示，40 小时后，一名男性陪审员不同意陪审团其他成员的观点，认为克兰西因精神错乱而无罪。"
+    },
+    {
+      "title": "Super Bowl rematch to open new season - your guide to NFL's key games",
+      "link": "",
+      "summary": "With the 2026 NFL season set to start on Wednesday, here are all the key dates and fixtures on the road to Super Bowl 61.",
+      "published": "",
+      "title_zh": "超级碗复赛拉开新赛季序幕 - NFL 关键比赛指南",
+      "summary_zh": "2026 年 NFL 赛季将于周三开始，以下是通往第 61 届超级碗的所有关键日期和赛程。"
+    },
+    {
+      "title": "What next for LIV Golf's star players, and its fight for survival?",
+      "link": "",
+      "summary": "Golf's main tours are expecting a lot of interest in rejoining from LIV golfers – but the path back might not be so easy.",
+      "published": "",
+      "title_zh": "LIV Golf 的明星球员的下一步是什么以及他们的生存之战？",
+      "summary_zh": "高尔夫的主要巡回赛预计 LIV 高尔夫球手会对重新加入产生很大的兴趣，但回归之路可能并不那么容易。"
+    },
+    {
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "link": "",
+      "summary": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+      "published": "",
+      "title_zh": "监管机构称朝鲜已建造两层铀浓缩设施",
+      "summary_zh": "国际原子能机构表示，该设施引起“严重关注”。"
+    },
+    {
+      "title": "British man charged with assisting Russian intelligence service",
+      "link": "",
+      "summary": "Joshua Cammidge, 31, will appear before a  court on Thursday accused of two offences under the National Security Act.",
+      "published": "",
+      "title_zh": "英国男子被控协助俄罗斯情报部门",
+      "summary_zh": "31 岁的约书亚·卡米奇 (Joshua Cammidge) 将于周四出庭受审，被指控犯有两项违反《国家安全法》的罪行。"
+    },
+    {
+      "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
+      "link": "",
+      "summary": "The former Dallas Cowboys Cheerleader overcomes criticism of stunt casting for her Chicago debut.",
+      "published": "",
+      "title_zh": "达拉斯牛仔啦啦队明星在名人选角争吵后在百老汇给人留下了深刻的印象",
+      "summary_zh": "这位前达拉斯牛仔啦啦队长在芝加哥首秀中克服了对特技选角的批评。"
+    },
+    {
+      "title": "EFL Cup: Watson, 16, makes Chelsea debut against Leeds in third round",
+      "link": "",
+      "summary": "Follow live as Chelsea host fellow Premier League side Leeds in the third round of the Carabao Cup.",
+      "published": "",
+      "title_zh": "联赛杯：16岁的沃森在切尔西第三轮对阵利兹联的比赛中首次亮相",
+      "summary_zh": "关注切尔西在卡拉宝杯第三轮比赛中主场迎战英超球队利兹联的直播。"
     }
   ]
 }
