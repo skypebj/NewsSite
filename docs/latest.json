@@ -1,6 +1,6 @@
 {
   "date": "20260910",
-  "total": 40,
+  "total": 30,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,296 +33,222 @@
   },
   "entries": [
     {
-      "title": "Trump's $5,000 giveaway pledge to all American adults comes with a major caveat",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "link": "",
+      "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "published": "",
+      "title_zh": "数据显示，飞行员在致命坠机前警告亚马逊货机速度太快",
+      "summary_zh": "一名飞行员向另一名飞行员讲述了飞机“超速”的情况，但即使警报响起，对方的反应也参差不齐。"
+    },
+    {
+      "title": "Trump promises to send $500 to nearly 1 million Americans for Obamacare 'overcharges'",
+      "link": "",
+      "summary": "Eligible Americans in 30 states would begin receiving payments in October, funded by a surplus of fees, the White House said.",
+      "published": "",
+      "title_zh": "特朗普承诺向近 100 万美国人支付 500 美元，以应对奥巴马医改“多收费”",
+      "summary_zh": "白宫表示，30 个州符合条件的美国人将于 10 月份开始收到由盈余费用资助的付款。"
+    },
+    {
+      "title": "US airport security weighs major changes 25 years after 9/11",
+      "link": "",
+      "summary": "The Transportation Security Administration (TSA) is reversing policies put in place after 9/11.",
+      "published": "",
+      "title_zh": "9/11 事件发生 25 年后，美国机场安全面临重大变化",
+      "summary_zh": "美国运输安全管理局 (TSA) 正在撤销 9/11 事件后实施的政策。"
+    },
+    {
+      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "link": "",
+      "summary": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
+      "published": "",
+      "title_zh": "“我们从未找到他”：寻找归零地遗骸的工作仍在继续",
+      "summary_zh": "自袭击发生以来，纽约官员正在利用新的、复杂的技术寻找 1,000 多名受害者的踪迹。"
+    },
+    {
+      "title": "Four killed and 60 injured in Russian strike on shopping centre, Ukraine says",
+      "link": "",
+      "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+      "published": "",
+      "title_zh": "乌克兰称俄罗斯袭击购物中心造成4人死亡、60人受伤",
+      "summary_zh": "据当地媒体报道，巴甫洛赫拉德市中心的袭击是俄罗斯几天内对购物中心的第三次袭击。"
+    },
+    {
+      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "link": "",
+      "summary": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
+      "published": "",
+      "title_zh": "“人们践踏我”：菲律宾渡轮火灾幸存者回忆九死一生",
+      "summary_zh": "一名幸存者告诉英国广播公司，渡轮在热门旅游景点科隆附近起火，船上一片混乱。"
+    },
+    {
+      "title": "Russia to open more cultural centres in Africa as it seeks to broaden influence",
+      "link": "",
+      "summary": "These centres will promote the Russian language, education, science and culture.",
+      "published": "",
+      "title_zh": "俄罗斯将在非洲开设更多文化中心以扩大影响力",
+      "summary_zh": "这些中心将推广俄语、教育、科学和文化。"
+    },
+    {
+      "title": "Two arrested in London on suspicion of assisting Iran's intelligence service",
+      "link": "",
+      "summary": "Police say the arrests are not connected to incidents linked to Jewish and Iranian communities in London earlier this year.",
+      "published": "",
+      "title_zh": "两人因涉嫌协助伊朗情报部门在伦敦被捕",
+      "summary_zh": "警方表示，此次逮捕与今年早些时候伦敦犹太人和伊朗社区发生的事件无关。"
+    },
+    {
+      "title": "Two former DHS secretaries call for a new public safety agency",
+      "link": "https://www.nbcnews.com/politics/immigration/two-former-dhs-secretaries-call-new-public-safety-agency-rcna597020",
+      "summary": "",
+      "published": "",
+      "title_zh": "两名前国土安全部部长呼吁成立新的公共安全机构"
+    },
+    {
+      "title": "Hillary Clinton warns the U.S. has let its guard down on terrorism 25 years after 9/11",
+      "link": "https://www.nbcnews.com/politics/politics-news/hillary-clinton-terrorism-warning-9-11-rcna597051",
+      "summary": "",
+      "published": "",
+      "title_zh": "希拉里·克林顿警告说，9/11 事件发生 25 年后，美国放松了对恐怖主义的警惕"
+    },
+    {
+      "title": "George W. Bush remembers becoming a ‘wartime president’ on 9/11",
+      "link": "https://www.nbcnews.com/news/us-news/george-w-bush-911-attacks-former-president-25th-anniversary-rcna597056",
+      "summary": "",
+      "published": "",
+      "title_zh": "乔治·W·布什 (George W. Bush) 记得在 9/11 事件中成为“战时总统”"
+    },
+    {
+      "title": "Prosecutor who led ‘grand conspiracy’ probe of Trump targets resigns without charging anyone",
+      "link": "https://www.nbcnews.com/politics/justice-department/prosecutor-led-grand-conspiracy-probe-trump-targets-resigns-charging-a-rcna597123",
+      "summary": "",
+      "published": "",
+      "title_zh": "领导针对特朗普目标的“大阴谋”调查的检察官在没有指控任何人的情况下辞职"
+    },
+    {
+      "title": "Iran-backed rebels sweep toward sudden control over key strait, imperiling global trade",
+      "link": "https://www.nbcnews.com/world/middle-east/houthis-bab-el-mandeb-strait-yemen-saudi-arabia-iran-war-hormuz-energy-rcna596970",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗支持的叛乱分子突然控制了关键海峡，危及全球贸易"
+    },
+    {
+      "title": "Heart damage may occur from getting too much light at night while we sleep, study finds",
+      "link": "https://www.nbcnews.com/health/heart-health/heart-damage-light-exposure-too-much-at-night-research-rcna596695",
+      "summary": "",
+      "published": "",
+      "title_zh": "研究发现，夜间睡觉时接受过多光线可能会导致心脏损伤"
+    },
+    {
+      "title": "Prestigious law school faces explosive claims of racial favoritism in admissions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普向所有美国成年人免费赠送 5,000 美元的承诺附带一个重要警告"
+      "title_zh": "著名法学院面临招生种族歧视的爆炸性指控"
     },
     {
-      "title": "US military flexes its muscles as ships redirected in the Strait of Hormuz nears huge number",
+      "title": "Terror group seizes key territory, threatens second global shipping chokepoint",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着大量船只在霍尔木兹海峡改道，美军大显身手"
+      "title_zh": "恐怖组织占领关键领土，威胁第二个全球航运阻塞点"
     },
     {
-      "title": "Aaron Rodgers goes nuclear on 'no fun' Danica Patrick after explosive claims",
+      "title": "High school 'groper' thought he was free — then DHS dropped the hammer",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "亚伦·罗杰斯在爆炸性指控后对“毫无乐趣”的丹妮卡·帕特里克进行了核攻击"
+      "title_zh": "高中“猥亵者”以为自己自由了，然后国土安全部放弃了锤子"
     },
     {
-      "title": "Homeless Skid Row residents allegedly paid to forge voter signatures in ballot scheme",
+      "title": "Trump vows $5,000 payout to every adult American but there's one big catch",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据称，无家可归的贫民窟居民在投票计划中花钱伪造选民签名"
+      "title_zh": "特朗普誓言向每个成年美国人支付 5,000 美元，但有一个大问题"
     },
     {
-      "title": "Lindsay Clancy's attorney makes a bold move that could end her case for good",
+      "title": "'Morning Joe' panel joins hands in on-air mock prayer for Sen Tim Scott",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西的律师做出了一个大胆的举动，可能会永远结束她的案件"
+      "title_zh": "“早安乔”小组携手为参议员蒂姆·斯科特进行模拟祈祷"
     },
     {
-      "title": "Graphic torture scene in popular TV series prompts star to speak out on social media",
+      "title": "GOP puts controversial streamer at center of Senate campaign attack",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "热门电视剧中的酷刑场景促使明星在社交媒体上发声"
+      "title_zh": "共和党将有争议的彩带置于参议院竞选攻击的中心"
     },
     {
-      "title": "TSA weighs end to one of flying's most hated rules for some travelers",
+      "title": "Major Seattle executives urge city leadership to implement swift changes",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国运输安全管理局考虑终止一些旅客最讨厌的飞行规则之一"
+      "title_zh": "西雅图主要高管敦促市领导层迅速实施变革"
     },
     {
-      "title": "Iran war costs US households $860 each as energy prices surge: economist",
+      "title": "Christian economist shares Kirk's educational mission for young Americans",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "经济学家：伊朗战争导致能源价格飙升，每户美国家庭损失860美元"
+      "title_zh": "基督教经济学家分享柯克对美国年轻人的教育使命"
     },
     {
-      "title": "Zohran Mamdani faces new demand to skip 9/11 memorial amid growing backlash",
+      "title": "Artists bolting from Seinfeld festival branded real losers in 'woke' drama",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于强烈反对，佐兰·马姆达尼 (Zohran Mamdani) 面临新的要求，要求他跳过 9/11 纪念活动"
+      "title_zh": "从宋飞音乐节逃离的艺术家在“醒来”的戏剧中被称为真正的失败者"
     },
     {
-      "title": "Charlie Kirk's ten most iconic moments that inspired a new generation of conservatives",
+      "title": "Four victims found shot inside North Carolina home, police investigating",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "查理·柯克激励新一代保守派的十大最具标志性的时刻"
+      "title_zh": "北卡罗来纳州家中发现四名受害者中枪，警方正在调查"
     },
     {
-      "title": "Billy Joel says he's 'not going anywhere' after revealing the cause of NPH diagnosis",
+      "title": "Fatwa call gets applause as Senate hopeful El-Sayed receives hero’s welcome",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "比利·乔尔 (Billy Joel) 表示，在透露 NPH 诊断原因后，他“哪儿也不去”"
+      "title_zh": "法特瓦呼吁获得掌声，参议院候选人埃尔赛义德受到英雄般的欢迎"
     },
     {
-      "title": "Lindsay Clancy fixation, alleged poison plot raise questions about mom’s mental state",
+      "title": "Stephen Siller kin retrace 9/11 hero's tunnel run on 25th anniversary",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西的痴迷、涉嫌投毒阴谋引发了人们对妈妈精神状态的质疑"
+      "title_zh": "斯蒂芬·西勒金回顾 9/11 英雄隧道奔跑 25 周年"
     },
     {
-      "title": "Trump admin moves to scrap 60-day grace period for foreign workers who lose jobs",
+      "title": "Gen Z voters rethink priorities as economic concerns grow",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普政府取消对失业外国工人的 60 天宽限期"
+      "title_zh": "随着经济担忧加剧，Z 世代选民重新考虑优先事项"
     },
     {
-      "title": "British celebrity quit California over 'libbies' and blazes, now feeds deer in Georgia",
+      "title": "Dolly Parton's sister Stella reveals the last thing the singer asked of her before death",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "英国名人因“libbies”和火灾而离开加州，现在在佐治亚州喂鹿"
+      "title_zh": "多莉·帕顿的妹妹斯特拉透露了这位歌手在去世前问她的最后一件事"
     },
     {
-      "title": "Former teacher exposes ideology in teacher training programs",
+      "title": "Here's who would pay for Trump's $5,000 dividend checks under GOP senator's plan",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前教师揭露教师培训计划中的意识形态"
+      "title_zh": "根据共和党参议员的计划，谁将为特朗普支付 5,000 美元的股息支票"
     },
     {
-      "title": "Alcohol tied to unexpected cancer death patterns in younger and older adults",
+      "title": "Longtime ESPN anchor finally opens up about her firing: 'I lost it'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "酒精与年轻人和老年人的意外癌症死亡模式有关"
-    },
-    {
-      "title": "Cockpit audio captures Amazon cargo pilot's warning before deadly crash",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "驾驶舱音频捕捉到亚马逊货运飞行员在致命事故发生前发出的警告"
-    },
-    {
-      "title": "Michigan man, 20, killed by apparent lightning strike days after moving to Florida",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "密歇根州 20 岁男子在搬到佛罗里达州几天后被明显雷击身亡"
-    },
-    {
-      "title": "Supreme Court rules on state's redrawn congressional map backed by Trump",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "最高法院对特朗普支持的州重新绘制的国会地图做出裁决"
-    },
-    {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "",
-      "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "published": "",
-      "title_zh": "特朗普真的能为每个美国成年人支付 5000 美元吗？",
-      "summary_zh": "分析人士质疑美国总统大选年的提议是否可行、合法或负担得起。"
-    },
-    {
-      "title": "Drone display recreates the Twin Towers over New York City",
-      "link": "",
-      "summary": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-      "published": "",
-      "title_zh": "无人机展示重现纽约市上空的双子塔",
-      "summary_zh": "组织者表示，展览中的 2,977 架无人机中的每一架都代表 9/11 袭击的受害者。"
-    },
-    {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "link": "",
-      "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-      "published": "",
-      "title_zh": "随着中东担忧升级，石油、天然气和借贷成本飙升",
-      "summary_zh": "由于有迹象表明伊朗战争不会很快得到解决，油价跃升至每桶 105 美元。"
-    },
-    {
-      "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
-      "link": "",
-      "summary": "Visitors tell the BBC it was a \"real privilege\" to be among the first to see the tapestry in England.",
-      "published": "",
-      "title_zh": "贝叶挂毯首次在大英博物馆向英国公众亮相",
-      "summary_zh": "参观者告诉英国广播公司，能够成为第一批在英格兰看到挂毯的人是一种“真正的荣幸”。"
-    },
-    {
-      "title": "Four takeaways from Republican midterms convention",
-      "link": "",
-      "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
-      "published": "",
-      "title_zh": "共和党中期大会的四个要点",
-      "summary_zh": "这位美国总统谈到了他一再提及的许多主题，其中还夹杂着一些令人惊讶的内容。"
-    },
-    {
-      "title": "We spent $31,000 on fertility treatment - now our embryos will be destroyed",
-      "link": "",
-      "summary": "Nat and Nik Fraser-Edwards want a change in the law so once an embryo has been made, a donor can't withdraw consent.",
-      "published": "",
-      "title_zh": "我们在生育治疗上花费了 31,000 美元 - 现在我们的胚胎将被摧毁",
-      "summary_zh": "纳特·弗雷泽-爱德华兹和尼克·弗雷泽-爱德华兹希望修改法律，这样一旦胚胎被制造出来，捐赠者就不能撤回同意。"
-    },
-    {
-      "title": "Algeria to sever diplomatic ties with UAE",
-      "link": "",
-      "summary": "The Algerian foreign ministry did not give a reason for the move but said it had exhausted all means.",
-      "published": "",
-      "title_zh": "阿尔及利亚将与阿联酋断绝外交关系",
-      "summary_zh": "阿尔及利亚外交部没有给出此举的理由，但表示已用尽一切手段。"
-    },
-    {
-      "title": "Drug use may have begun 25,000 years ago in Indonesia, research finds",
-      "link": "",
-      "summary": "Scientists have found evidence that early human foragers in Indonesia were using the betel nut as a drug.",
-      "published": "",
-      "title_zh": "研究发现印度尼西亚吸毒可能始于 25,000 年前",
-      "summary_zh": "科学家发现证据表明印度尼西亚早期人类采集者使用槟榔作为药物。"
-    },
-    {
-      "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-      "link": "",
-      "summary": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-      "published": "",
-      "title_zh": "观看：贝叶挂毯展览值得大肆宣传吗？",
-      "summary_zh": "人们纷纷涌向大英博物馆参观贝叶挂毯，这是自近 1000 年前创作以来首次在英国公开展出。"
-    },
-    {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "link": "",
-      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
-      "published": "",
-      "title_zh": "受欢迎的电视新闻主持人被选为乌干达国王继任者后王室出现裂痕",
-      "summary_zh": "奥约国王的家人称，他留下了一份遗嘱，指定他的小儿子为托罗王国的继承人。"
-    },
-    {
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "link": "",
-      "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-      "published": "",
-      "title_zh": "菲律宾渡轮发生“令人心碎”的火灾，造成5人死亡、86人失踪",
-      "summary_zh": "火灾发生在该船接近目的地巴拉望岛旅游热点科隆岛时。"
-    },
-    {
-      "title": "England's push for two-day win halted by weather",
-      "link": "",
-      "summary": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
-      "published": "",
-      "title_zh": "英格兰队争取两天胜利的努力因天气而停止",
-      "summary_zh": "英格兰队在与巴基斯坦队的最后一场测试赛中争取为期两天的胜利的冲锋仅因埃德巴斯顿的降雨而停止。"
-    },
-    {
-      "title": "Supreme Court blocks Missouri’s attempt to use newly drawn GOP congressional map",
-      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-missouris-attempt-use-newly-drawn-republican-cong-rcna596857",
-      "summary": "",
-      "published": "",
-      "title_zh": "最高法院阻止密苏里州使用新绘制的共和党国会地图的尝试"
-    },
-    {
-      "title": "Vance calls on GOP in battleground states to ‘nationalize’ the midterms",
-      "link": "https://www.nbcnews.com/politics/jd-vance/vance-battleground-state-republicans-nationalize-midterms-rcna597070",
-      "summary": "",
-      "published": "",
-      "title_zh": "万斯呼吁战场州的共和党将中期选举“国有化”"
-    },
-    {
-      "title": "Jimmy Kimmel says show won’t air James Talarico interview on TV, citing FCC threats",
-      "link": "https://www.nbcnews.com/politics/trump-administration/jimmy-kimmel-abc-tv-show-wont-air-james-talarico-interview-fcc-threats-rcna596994",
-      "summary": "",
-      "published": "",
-      "title_zh": "吉米·金梅尔表示，以联邦通信委员会威胁为由，该节目不会在电视上播出詹姆斯·塔拉里科的采访"
-    },
-    {
-      "title": "Government-linked accounts tried to use Claude for work that could lead to bioweapons, Anthropic says",
-      "link": "https://www.nbcnews.com/tech/tech-news/anthropic-state-linked-scientists-banned-regions-used-claude-virus-res-rcna596859",
-      "summary": "",
-      "published": "",
-      "title_zh": "Anthropic 表示，与政府相关的账户试图利用克劳德从事可能产生生物武器的工作"
-    },
-    {
-      "title": "Siblings who lost their FDNY father on 9/11 describe the ‘deep void’ of loss",
-      "link": "https://www.nbcnews.com/politics/national-security/siblings-lost-fdny-father-911-describe-deep-void-loss-rcna595584",
-      "summary": "",
-      "published": "",
-      "title_zh": "9/11 事件中失去纽约消防局父亲的兄弟姐妹描述了失去亲人的“深深的空虚”"
-    },
-    {
-      "title": "‘I wasn’t really seeing this’: Photographers recall capturing the chaos of 9/11",
-      "link": "https://www.nbcnews.com/news/photo/september-11-attacks-images-photographers-reflect-rcna596691",
-      "summary": "",
-      "published": "",
-      "title_zh": "“我并没有真正看到这一点”：摄影师回忆捕捉 9/11 的混乱场面"
-    },
-    {
-      "title": "‘We felt defeated’: Lindsay Clancy juror provides new details about the lone holdout",
-      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-juror-reveals-new-details-lone-holdout-caused-mistrial-rcna596995",
-      "summary": "",
-      "published": "",
-      "title_zh": "“我们感到失败”：林赛·克兰西陪审员提供了有关孤独坚持者的新细节"
-    },
-    {
-      "title": "Oil prices surge to $107 for the first time since May as bond yields jump",
-      "link": "https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着债券收益率飙升，油价自 5 月份以来首次飙升至 107 美元"
-    },
-    {
-      "title": "Spice Girls fans feel duped after social media tease wasn’t for tour, but a music re-release",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/spice-girls-fans-feel-duped-social-media-tease-wasnt-tour-music-re-rel-rcna597035",
-      "summary": "",
-      "published": "",
-      "title_zh": "在社交媒体上调侃不是为了巡演而是为了重新发行音乐后，辣妹粉丝们感到被骗了"
+      "title_zh": "ESPN 资深主播终于公开谈论自己被解雇的事：“我失去了它”"
     }
   ]
 }
