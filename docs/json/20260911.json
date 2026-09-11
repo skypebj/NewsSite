@@ -24,7 +24,7 @@
     },
     "bbc": {
       "status": "ok",
-      "entries": 0
+      "entries": 8
     },
     "apnews": {
       "status": "ok",
@@ -33,265 +33,264 @@
   },
   "entries": [
     {
-      "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
-      "link": "",
-      "summary": "They carry distinct memories not from the day itself, but from the moment  - years later - they learned about the attacks.",
-      "published": "",
-      "title_zh": "Z 世代回忆起第一次得知 9/11 事件“令人深感痛苦、恐惧”",
-      "summary_zh": "他们所承载的清晰记忆不是来自当天本身，而是来自几年后他们得知袭击事件的那一刻。"
-    },
-    {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "",
-      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "published": "",
-      "title_zh": "胡塞武装声称在也门取得重大进展并加强对红海航线的控制",
-      "summary_zh": "据报道，伊朗支持的胡塞武装还占领了主要航线上的战略岛屿佩林。"
-    },
-    {
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "link": "",
-      "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "published": "",
-      "title_zh": "胡塞武装的进展将如何打击全球贸易和石油价格",
-      "summary_zh": "也门胡塞武装占领了曼德海峡附近的领土——这是石油和全球航运的重要贸易门户。"
-    },
-    {
-      "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
-      "link": "",
-      "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
-      "published": "",
-      "title_zh": "因心脏缺陷拒绝堕胎的代孕妈妈向美国最高法院提起监护权争夺战",
-      "summary_zh": "她逃到德克萨斯州，那里堕胎是非法的，现在希望获得四个星期大婴儿的监护权。"
-    },
-    {
-      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "link": "",
-      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-      "published": "",
-      "title_zh": "挪威公主阿斯特丽德在参加弟弟哈拉尔国王的葬礼两天后去世",
-      "summary_zh": "新国王哈康八世在向姨妈致敬时表示，阿斯特丽德公主“以热情和尽职的方式代表了王室”。"
-    },
-    {
-      "title": "'I survived the epicentre of 9/11 - I'm so lucky'",
-      "link": "",
-      "summary": "Paul Berriff says his life expectancy has been cut short because of being buried under rubble.",
-      "published": "",
-      "title_zh": "“我从 9/11 的震中幸存下来 - 我很幸运”",
-      "summary_zh": "保罗·贝里夫说，由于被埋在废墟下，他的预期寿命缩短了。"
-    },
-    {
-      "title": "In 9/11 remarks, Trump links war with Iran",
-      "link": "",
-      "summary": "At the Pentagon 9/11 commemorations, President Trump praised the military and highlighted how their work is continuing with the war in Iran.",
-      "published": "",
-      "title_zh": "特朗普在 9/11 讲话中将战争与伊朗联系起来",
-      "summary_zh": "在五角大楼 9/11 纪念活动上，特朗普总统赞扬了军方，并强调了他们在伊朗战争中继续开展的工作。"
-    },
-    {
-      "title": "The man who bought an island, hired hitmen and throttled a theatregoer",
-      "link": "",
-      "summary": "Malcolm Potier is beginning his third spell in jail after attacking the woman at a Queen musical.",
-      "published": "",
-      "title_zh": "那个买了一座岛、雇佣了杀手并勒死了一个去剧院的人的人",
-      "summary_zh": "马尔科姆·波蒂尔在女王音乐剧中袭击一名女子后，将开始他的第三次入狱。"
-    },
-    {
-      "title": "Watch: Céline Dion duets with fan ahead of Paris comeback concert",
-      "link": "",
-      "summary": "The Canadian singer - who was diagnosed with an incurable condition four years ago - has been interacting with fans outside her hotel.",
-      "published": "",
-      "title_zh": "观看：席琳·迪翁在巴黎复出演唱会前与歌迷二重唱",
-      "summary_zh": "这位加拿大歌手四年前被诊断出患有不治之症，她一直在酒店外与粉丝互动。"
-    },
-    {
-      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
-      "link": "",
-      "summary": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
-      "published": "",
-      "title_zh": "男子败诉，追回为前女友购买奢华礼物的 369,000 美元",
-      "summary_zh": "新加坡高等法院做出了对这名女子有利的裁决，法官称这名男子甚至在他们在一起之前就“心甘情愿”地给她送了很多礼物。"
-    },
-    {
-      "title": "9/11 mourners unload on Mamdani's Ground Zero appearance: 'Should have skipped it'",
-      "link": "",
+      "title": "Mamdani highlights the resilience and unity of New York City",
+      "link": "https://www.nbcnews.com/now/video/mamdani-highlights-the-resilience-and-unity-of-new-york-city-on-9-11-anniversary-269741125642",
       "summary": "",
       "published": "",
-      "title_zh": "9/11 哀悼者在马姆达尼的“归零地”露面中卸货：“应该跳过它”"
+      "title_zh": "马姆达尼强调纽约市的韧性和团结"
     },
     {
-      "title": "Mideast nation urges Trump to unleash US military power after terror group gains ground",
-      "link": "",
+      "title": "Honoring the man with the red bandana who saved dozens of lives",
+      "link": "https://www.nbcnews.com/now/video/honoring-the-man-with-the-red-bandana-who-saved-many-lives-during-9-11-269741637841",
       "summary": "",
       "published": "",
-      "title_zh": "中东国家敦促特朗普在恐怖组织得势后释放美国军事力量"
+      "title_zh": "纪念这位戴着红色头巾的男子，他拯救了数十人的生命"
     },
     {
-      "title": "Trump makes sweeping declaration as America marks 25 years since 9/11 attacks",
-      "link": "",
+      "title": "Victim’s son says the tragedy should not be used to ‘spread hate’",
+      "link": "https://www.nbcnews.com/video/9-11-victim-s-son-says-the-tragedy-should-not-be-used-to-spread-hate-269736517739",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在美国纪念 9/11 袭击 25 周年之际发表全面声明"
+      "title_zh": "受害者儿子表示悲剧不应被用来“传播仇恨”"
     },
     {
-      "title": "Engineer stabbed to death on park bench after visiting mom at nursing home",
+      "title": "Trump recalls acts of heroism aboard United 93 at Pentagon ceremony",
+      "link": "https://www.nbcnews.com/video/pentagon-9-11-ceremony-trump-recalls-acts-of-heroism-aboard-united-93-269721157939",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在五角大楼仪式上回忆了联合航空 93 上的英雄事迹"
+    },
+    {
+      "title": "Landmark anniversary marked at three crash sites",
+      "link": "https://www.nbcnews.com/now/video/landmark-9-11-anniversary-marked-in-new-york-pentagon-and-shanksville-ceremonies-269734981550",
+      "summary": "",
+      "published": "",
+      "title_zh": "三个坠机地点纪念具有里程碑意义的周年纪念日"
+    },
+    {
+      "title": "First responder’s tattoo",
+      "link": "https://www.nbcnews.com/dateline/video/first-responder-s-tattoo-269712965937",
+      "summary": "",
+      "published": "",
+      "title_zh": "急救人员的纹身"
+    },
+    {
+      "title": "September 11 through the lens of a paramedic",
+      "link": "https://www.nbcnews.com/dateline/video/september-11-through-the-lens-of-a-paramedic-269712965933",
+      "summary": "",
+      "published": "",
+      "title_zh": "护理人员镜头下的 9 月 11 日"
+    },
+    {
+      "title": "Cameraman shares his experience working near the scene",
+      "link": "https://www.nbcnews.com/dateline/video/cameraman-shares-his-experience-working-near-the-scene-on-9-11-269711941930",
+      "summary": "",
+      "published": "",
+      "title_zh": "摄影师分享他在现场附近工作的经历"
+    },
+    {
+      "title": "Jenna Bush Hager shares the story of a Secret Service agent",
+      "link": "https://www.today.com/video/jenna-bush-hager-sheinelle-jones-remember-9-11-25-years-later-269725253669",
+      "summary": "",
+      "published": "",
+      "title_zh": "珍娜·布什·海格分享特勤局特工的故事"
+    },
+    {
+      "title": "FBI agent died of cancer after 9/11 Pentagon response. His widow tells his story.",
+      "link": "https://www.nbcnews.com/video/widow-shares-story-of-fbi-agent-who-died-of-cancer-after-9-11-269729349747",
+      "summary": "",
+      "published": "",
+      "title_zh": "9/11 五角大楼响应后，FBI 特工因癌症去世。他的遗孀讲述了他的故事。"
+    },
+    {
+      "title": "Moment of silence held for those lost to health effects",
+      "link": "https://www.nbcnews.com/video/new-moment-of-silence-held-for-those-lost-to-9-11-health-effects-269728325980",
+      "summary": "",
+      "published": "",
+      "title_zh": "为那些因健康影响而丧生的人默哀"
+    },
+    {
+      "title": "Teacher who lost her father shares an inspiring story of hope",
+      "link": "https://www.today.com/video/teacher-who-lost-dad-on-9-11-shares-story-of-overcoming-grief-269729861621",
+      "summary": "",
+      "published": "",
+      "title_zh": "失去父亲的老师分享了一个鼓舞人心的希望故事"
+    },
+    {
+      "title": "Son of 9/11 victim honors mother’s legacy with new book",
+      "link": "https://www.today.com/video/son-of-9-11-victim-honors-mother-s-legacy-with-new-book-269727813651",
+      "summary": "",
+      "published": "",
+      "title_zh": "9/11 受害者的儿子以新书纪念母亲的遗产"
+    },
+    {
+      "title": "Al Roker honors WNBC’s Bill Steckman",
+      "link": "https://www.today.com/video/al-roker-honors-wnbc-s-bill-steckman-who-died-on-9-11-269727301748",
+      "summary": "",
+      "published": "",
+      "title_zh": "Al Roker 向 WNBC 的 Bill Steckman 致敬"
+    },
+    {
+      "title": "CIA releases 71 presidential briefs revealing what intel knew before 9/11 attacks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "工程师去疗养院探望妈妈后在公园长椅上被刺死"
+      "title_zh": "中央情报局 (CIA) 发布 71 份总统简报，揭示 9/11 袭击之前英特尔所掌握的信息"
     },
     {
-      "title": "Footage sheds light on cause of the fan brawl at Patriots-Seahawks game",
+      "title": "At Ground Zero, 9/11 families turn to Trump as Obama’s old decision resurfaces",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "视频揭示了爱国者队与海鹰队比赛中球迷争吵的原因"
+      "title_zh": "在“归零地”，9/11 家庭转向特朗普，因为奥巴马的旧决定重新出现"
     },
     {
-      "title": "US puts Americans on alert over terror threat at major vacation hot spot",
+      "title": "NFL fans erupt over league's completely 'un-American' season-opening decision",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国让美国人对主要度假热点的恐怖威胁保持警惕"
+      "title_zh": "NFL球迷对联盟完全“非美国式”的赛季开幕决定感到愤怒"
     },
     {
-      "title": "AOC’s ‘modern-day lynchings’ claim undercut as official findings telling different story",
+      "title": "Grand Slam champ turns victory speech into racial grandstanding at US Open",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "AOC 的“现代私刑”主张被削弱，因为官方调查结果讲述了不同的故事"
+      "title_zh": "大满贯冠军在美国网球公开赛上将胜利演讲变成了种族哗众取宠"
     },
     {
-      "title": "Bone-chilling preview gives glimpse of new series starring A-list actor",
+      "title": "US targets al-Qaeda leaders as Iran emerges at center of new terror warning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "令人不寒而栗的预览让我们一睹一线演员主演的新剧"
+      "title_zh": "伊朗成为新恐怖警告的中心，美国瞄准基地组织领导人"
     },
     {
-      "title": "9/11 widow calls out Obama at Ground Zero as families demand Trump release Saudi files",
+      "title": "AOC, Mamdani interaction caught on camera at 9/11 memorial sparks fury",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "9/11 遗孀在归零地大声疾呼奥巴马，家人要求特朗普公布沙特文件"
+      "title_zh": "AOC 与 Mamdani 在 9/11 纪念活动上的互动引发愤怒"
     },
     {
-      "title": "Lone holdout juror in Lindsay Clancy trial was only Black person on the jury",
+      "title": "Common coffee and tea habit linked to higher risk of specific type of cancer",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西审判中唯一坚持不懈的陪审员是陪审团中唯一的黑人"
+      "title_zh": "常见的咖啡和茶习惯与特定类型癌症的较高风险有关"
     },
     {
-      "title": "Lost city where Jesus performed miracles has finally been identified, expert says",
+      "title": "Nike continues to faceplant with hideous new NBA alternate jersey reveal",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家称耶稣创造奇迹的失落城市终于被确定"
+      "title_zh": "耐克继续推出丑陋的新 NBA 备用球衣"
     },
     {
-      "title": "RNC attendees reveal their 2028 presidential picks ahead of midterms",
+      "title": "‘Antifa’ professor who fled US over political atmosphere after Kirk murder pens book",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "RNC 与会者在中期选举前揭晓 2028 年总统人选"
+      "title_zh": "“Antifa”教授在柯克谋杀案后因政治气氛逃离美国"
     },
     {
-      "title": "Sophie Cunningham addresses perception that she is the 'sex symbol' of the WNBA",
+      "title": "Afghan terror suspect deported under a court that sat dormant for three decades",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 回应了人们对她是 WNBA“性感象征”的看法"
+      "title_zh": "阿富汗恐怖嫌疑人被搁置三十年的法庭驱逐出境"
     },
     {
-      "title": "49ers star goes viral for sharing hilarious 'cracker' compliment he got in Australia",
+      "title": "RNC unloads on Harris after she accuses Republicans of 'cheating' ahead of midterms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "49人队球星因分享他在澳大利亚获得的搞笑“精彩”赞美而走红"
+      "title_zh": "哈里斯指责共和党人在中期选举前“作弊”，共和党全国委员会对哈里斯进行了猛烈抨击"
     },
     {
-      "title": "Jayhawks invoke Civil War slavery angle to fire up fans and it went sideways",
+      "title": "25 years after 9/11, NYPD commissioner reveals what keeps New York on guard",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "松鸦鹰队援引内战奴隶制的角度来煽动球迷，结果却走向了一边倒"
+      "title_zh": "9/11 事件 25 年后，纽约市警察局局长揭示了纽约保持警惕的原因"
     },
     {
-      "title": "DeSantis issues warning on Trump pledge to disburse $5K dividends to Americans",
+      "title": "What the Steelers QB claims his ex-fiancée confessed just after their engagement",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "德桑蒂斯对特朗普承诺向美国人发放 5000 美元股息发出警告"
+      "title_zh": "钢人队四分卫声称他的前未婚妻在订婚后不久就承认了这一点"
     },
     {
-      "title": "‘Did you get cancer yet?’: 25 years after 9/11, more and more people are getting sick",
-      "link": "https://www.nbcnews.com/health/cancer/-get-cancer-yet-25-years-911-people-are-getting-sick-rcna596778",
+      "title": "NY Times accused of framing Muslims as true victims of 9/11 in anniversary coverage",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“你得癌症了吗？”：9/11 事件发生 25 年后，越来越多的人患病"
+      "title_zh": "《纽约时报》被指控在周年纪念报道中将穆斯林描述为 9/11 的真正受害者"
     },
     {
-      "title": "",
-      "link": "https://www.nbcnews.com/video/25-years-ago-tom-brokaw-anchors-9-11-nbc-news-special-report-269709893899",
-      "summary": "",
-      "published": ""
-    },
-    {
-      "title": "Previously classified 9/11 documents released by CIA",
-      "link": "https://www.nbcnews.com/news/us-news/previously-classified-911-documents-released-cia-25th-anniversary-atta-rcna597262",
-      "summary": "",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "link": "",
+      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
       "published": "",
-      "title_zh": "中央情报局 (CIA) 此前发布的 9/11 机密文件"
+      "title_zh": "在臭名昭著的黑手党谋杀母亲事件中作证指控父亲的妇女惨死",
+      "summary_zh": "丹尼斯·科斯科就她母亲在意大利被谋杀一事出庭作证，指控强大的光荣会家族和她自己的父亲。"
     },
     {
-      "title": "Strikes shut down key Saudi pipeline as Iran-backed Houthis tighten grip on crucial shipping lane",
-      "link": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
-      "summary": "",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "link": "",
+      "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "published": "",
-      "title_zh": "随着伊朗支持的胡塞武装加强对重要航道的控制，罢工关闭了沙特的主要管道"
+      "title_zh": "胡塞武装在也门的闪电推进可能会给伊朗战争带来危险的新层面",
+      "summary_zh": "叛乱分子占领了也门战略海岸线，这是该组织多年来最令人印象深刻的军事政变。"
     },
     {
-      "title": "Lutnick says Trump’s $5,000 checks for Americans wouldn’t rely on taxpayer funds",
-      "link": "https://www.nbcnews.com/business/economy/lutnick-trump-5000-check-taxpayer-funds-rcna597092",
-      "summary": "",
+      "title": "US Open semi-finals: Zverev beats Khachanov",
+      "link": "",
+      "summary": "French Open champion and top seed Alexander Zverev faces Karen Khachanov.",
       "published": "",
-      "title_zh": "卢特尼克表示，特朗普为美国人提供的 5000 美元支票不会依赖纳税人的资金"
+      "title_zh": "美网半决赛：兹维列夫击败卡查诺夫",
+      "summary_zh": "法网冠军、头号种子亚历山大·兹维列夫将对阵凯伦·卡恰诺夫。"
     },
     {
-      "title": "Trump loyalist probing Mar-a-Lago search says DOJ tensions sparked his resignation",
-      "link": "https://www.nbcnews.com/politics/justice-department/trump-loyalist-probing-mar-lago-search-says-doj-tensions-sparked-resig-rcna597225",
-      "summary": "",
+      "title": "People long for simpler times, say Practical Magic reboot stars",
+      "link": "",
+      "summary": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
       "published": "",
-      "title_zh": "特朗普的忠实追随者正在调查海湖庄园，称司法部的紧张局势引发了他的辞职"
+      "title_zh": "《实用魔法》重启明星表示，人们渴望简单的时光",
+      "summary_zh": "女演员麦茜·威廉姆斯和乔伊·金将出演这部 1998 年奇幻浪漫喜剧的续集。"
     },
     {
-      "title": "CIA officer charged in gold bars case working toward a plea deal",
-      "link": "https://www.nbcnews.com/politics/justice-department/cia-officer-charged-gold-bars-case-working-plea-deal-rcna597260",
-      "summary": "",
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "link": "",
+      "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
       "published": "",
-      "title_zh": "中央情报局官员在金条案中被指控致力于达成认罪协议"
+      "title_zh": "法国一男子威胁斩首儿子老师，被判入狱",
+      "summary_zh": "一名小学女老师在课堂上管教他的儿子，父亲威胁要杀了他。"
     },
     {
-      "title": "Ring lights, selfies and TikToks: How the U.S. Open is adapting to a changing media landscape",
-      "link": "https://www.nbcnews.com/sports/tennis/us-open-tennis-influencer-content-creator-rcna596725",
-      "summary": "",
+      "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
+      "link": "",
+      "summary": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
       "published": "",
-      "title_zh": "环形灯、自拍和 TikTok：美国公开赛如何适应不断变化的媒体格局"
+      "title_zh": "文件显示，中央情报局在 9/11 事件前几年就曾警告过“爆炸性飞机”的威胁",
+      "summary_zh": "该情报机构公布了 71 份解密的总统简报，其中一份显示，该机构认为基地组织的计划已被极端分子“广为人知”。"
     },
     {
-      "title": "Apple TV looks to cement its ascendance at the Emmys",
-      "link": "https://www.nbcnews.com/pop-culture/tv/apple-tv-looks-cement-ascendance-emmys-rcna597258",
-      "summary": "",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "link": "",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
       "published": "",
-      "title_zh": "Apple TV 希望巩固其在艾美奖颁奖典礼上的优势"
+      "title_zh": "六名被指控浪漫诈骗的尼日利亚人将被引渡到美国",
+      "summary_zh": "南非警方称，这六人将在美国面临电汇欺诈和洗钱指控。"
     },
     {
-      "title": "Democrats put new emphasis on early and in-person voting amid mail ballot concerns",
-      "link": "https://www.nbcnews.com/politics/2026-election/democrats-put-new-emphasis-early-person-voting-mail-ballot-concerns-rcna596829",
-      "summary": "",
+      "title": "West Ham outclass Wrexham to top Championship",
+      "link": "",
+      "summary": "West Ham United are back on top of the Championship after sweeping aside Wrexham with a fourth successive victory.",
       "published": "",
-      "title_zh": "由于对邮寄选票的担忧，民主党人重新强调提前和亲自投票"
+      "title_zh": "西汉姆联击败雷克瑟姆登顶英冠",
+      "summary_zh": "西汉姆联队以四连胜横扫雷克瑟姆队，重返英冠榜首。"
     }
   ]
 }
