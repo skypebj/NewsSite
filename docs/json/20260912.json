@@ -1,6 +1,6 @@
 {
   "date": "20260912",
-  "total": 25,
+  "total": 36,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,188 +33,268 @@
   },
   "entries": [
     {
-      "title": "Saudi shutdown of key pipeline limits oil flow as Yemen hits back against Houthis",
-      "link": "https://www.nbcnews.com/world/middle-east/saudi-arabia-shutdown-key-pipeline-limits-oil-flow-yemen-houthis-rcna597362",
-      "summary": "",
-      "published": "",
-      "title_zh": "也门反击胡塞武装，沙特关闭主要管道限制石油流动"
-    },
-    {
-      "title": "U.S. says Palestinians won’t be forced out of Gaza, but experts warn of possible coercion",
-      "link": "https://www.nbcnews.com/world/gaza/trump-gaza-plan-palestinians-forced-out-rcna596543",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国表示巴勒斯坦人不会被迫离开加沙，但专家警告可能会出现胁迫"
-    },
-    {
-      "title": "Ben Shelton makes history with win over fellow American Tiafoe to reach U.S. Open final",
-      "link": "https://www.nbcnews.com/sports/tennis/ben-shelton-beats-frances-tiafoe-play-alexander-zverev-us-open-title-rcna597348",
-      "summary": "",
-      "published": "",
-      "title_zh": "本谢尔顿击败美国同胞蒂亚福进入美国公开赛决赛创造历史"
-    },
-    {
-      "title": "Your health insurance bills are about to go up",
-      "link": "https://www.nbcnews.com/health/health-news/aca-medicare-work-health-insurance-cost-rise-2027-rcna597069",
-      "summary": "",
-      "published": "",
-      "title_zh": "您的健康保险费用即将上涨"
-    },
-    {
-      "title": "U.S. Army investigates bullying of Haitian student forced to wear ICE ankle monitor",
-      "link": "https://www.nbcnews.com/news/us-news/army-investigates-bullying-wright-state-blamed-haitian-student-pierre-rcna596114",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国陆军调查海地学生被迫佩戴 ICE 脚踝监视器的欺凌行为"
-    },
-    {
-      "title": "Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz",
-      "link": "https://www.nbcnews.com/news/news-quiz/apple-iphone-duo-news-quiz-rcna597233",
-      "summary": "",
-      "published": "",
-      "title_zh": "苹果推出可折叠 iPhone，美国男子希望结束美国网球公开赛荒：新闻测验"
-    },
-    {
-      "title": "Donald Trump says unified Ireland would be a 'great thing' on two-day visit to country",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
       "link": "",
-      "summary": "The president says he doesn't want to \"cause any problems\" but he'd \"love to see\" a unified Ireland.",
+      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
       "published": "",
-      "title_zh": "唐纳德·特朗普在为期两天的爱尔兰访问中表示，统一的爱尔兰将是一件“伟大的事情”",
-      "summary_zh": "总统表示，他不想“造成任何问题”，但他“乐于看到”统一的爱尔兰。"
+      "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
+      "summary_zh": "最近一系列关于人工智能危险的严厉警告遭到了高管和投资者的怀疑。"
     },
     {
-      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "title": "French officials investigate if malicious act caused train derailment",
       "link": "",
-      "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
       "published": "",
-      "title_zh": "格莱美奖获得者美国说唱歌手 Lil Durk 在雇佣谋杀案审判中被无罪释放",
-      "summary_zh": "这位芝加哥说唱歌手于 2024 年被捕，被指控参与枪击案，导致竞争对手说唱歌手 Quando Rondo 的表弟身亡。"
+      "title_zh": "法国官员调查是否恶意行为导致火车脱轨",
+      "summary_zh": "官员称，周五一列客运列车相撞，造成 44 人受伤，在铁轨上发现了铁轨碎片。"
     },
     {
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "title": "Reform receives second £36m donation in two days as crypto investor matches record",
       "link": "",
-      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
       "published": "",
-      "title_zh": "“这就像一只狗向我们放行”——对肯尼亚镇压外国贸易商的担忧",
-      "summary_zh": "随着受惊的移民逃离该国，当局一直在努力控制影响。"
+      "title_zh": "Reform 两天内收到第二笔 3600 万英镑捐款，加密货币投资者创历史新高",
+      "summary_zh": "该党表示，这笔资金将使其能够在“公平的竞争环境”下进行下一次选举，而竞争对手则再次呼吁限制个人捐款。"
     },
     {
-      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "link": "",
-      "summary": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "published": "",
-      "title_zh": "五分钟偷雷诺阿的作品：为什么整个欧洲的博物馆盗窃行为变得越来越大胆",
-      "summary_zh": "艺术犯罪调查人员和安全专家表示，欧洲各地画廊的盗窃行为正变得更加明目张胆。"
+      "title_zh": "沙特阿拉伯在伊拉克发动无人机袭击后关闭了主要石油管道",
+      "summary_zh": "伊拉克撤换了一名军事指挥官，并对来自与伊朗接壤地区的袭击事件展开调查。"
     },
     {
-      "title": "American Shelton to face Zverev in US Open final",
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
       "link": "",
-      "summary": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
+      "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
       "published": "",
-      "title_zh": "美国选手谢尔顿将在美国公开赛决赛中迎战兹维列夫",
-      "summary_zh": "本·谢尔顿在全美公开赛半决赛中击败弗朗西斯·蒂亚福，赢得周日决赛对阵头号种子亚历山大·兹维列夫的席位。"
+      "title_zh": "特朗普访问爱尔兰期间表示，统一的爱尔兰将是“太棒了”",
+      "summary_zh": "特朗普在与爱尔兰领导人迈克尔·马丁会面时发表了上述言论，但唐宁街表示将“坚持耶稣受难日协议”。"
     },
     {
-      "title": "'Never, ever forget':  US marks 25th anniversary of 9/11 attacks",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
       "link": "",
-      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
       "published": "",
-      "title_zh": "“永远，永远忘记”：美国纪念 9/11 袭击 25 周年",
-      "summary_zh": "在纽约、五角大楼和宾夕法尼亚州，举行了庄严的仪式来纪念这一具有里程碑意义的周年纪念日。"
+      "title_zh": "席琳·迪翁粉丝为巴黎复出演唱会做准备",
+      "summary_zh": "周六，这位加拿大歌手离开酒店时，粉丝们向她致意。"
     },
     {
-      "title": "Solheim Cup: Hull & Woad together again as Europe lead into fourballs session",
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "link": "",
+      "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+      "published": "",
+      "title_zh": "十几岁男孩在阿拉斯加水域漂流数天后获救",
+      "summary_zh": "这名 15 岁男孩获救，而倾覆渔船上的另外两名乘客，即他的兄弟和表弟，则死亡。"
+    },
+    {
+      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+      "link": "",
+      "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+      "published": "",
+      "title_zh": "随着改革土地“令人目瞪口呆”的捐款，伯纳姆和巴德诺克复兴了红色与蓝色政治",
+      "summary_zh": "劳拉·昆斯伯格 (Laura Kuenssberg) 写道，随着改革派在民意调查中倒退，工党和保守党重新发现了熟悉的政治分歧"
+    },
+    {
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "link": "",
+      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "published": "",
+      "title_zh": "菲律宾渡轮火灾死亡人数上升至76人，仍有更多人失踪",
+      "summary_zh": "该国海岸警卫队表示，由于有毒烟雾和挥之不去的高温，接近这艘烧毁的船只的速度已经放缓。"
+    },
+    {
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "link": "",
+      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "published": "",
+      "title_zh": "联合国官员告诉BBC，乌克兰面临自俄罗斯全面入侵以来“最艰难的冬天”",
+      "summary_zh": "一名联合国高级官员告诉英国广播公司，要争分夺秒地确保冬季获得电力和水。"
+    },
+    {
+      "title": "England survive scare to sweep Test series against Pakistan",
+      "link": "",
+      "summary": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+      "published": "",
+      "title_zh": "英格兰队在对阵巴基斯坦的系列赛中横扫对手",
+      "summary_zh": "英格兰队在一场巨大的恐慌中幸存下来，最终以八个三柱门的优势赢得了对巴基斯坦的第三次测试，并以 3-0 横扫巴基斯坦。"
+    },
+    {
+      "title": "Solheim Cup: Europe and US locked at 8-8 heading into Sunday's singles - reaction",
       "link": "",
       "summary": "Follow live radio commentary and text updates from day two of the Solheim Cup at Bernardus Golf Club in the Netherlands.",
       "published": "",
-      "title_zh": "索尔海姆杯：赫尔和沃德再次齐聚，欧洲进入四球赛",
+      "title_zh": "索尔海姆杯：周日单打比赛欧洲队与美国队战成8-8 - 反应",
       "summary_zh": "关注荷兰贝尔纳杜斯高尔夫俱乐部索尔海姆杯第二天的现场广播评论和文字更新。"
     },
     {
-      "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
-      "link": "",
-      "summary": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+      "title": "Sam Altman backs Anthropic CEO’s call to slow down the global AI race",
+      "link": "https://www.nbcnews.com/news/us-news/anthropic-ceo-dario-amodei-ai-development-rcna597383",
+      "summary": "",
       "published": "",
-      "title_zh": "“公牛的红布”——萨巴伦卡赢得美国公开赛的额外动力",
-      "summary_zh": "阿琳娜·萨巴伦卡 (Aryna Sabalenka) 的世界第一排名输给了埃琳娜·瑞巴金娜 (Elena Rybakina)，但她有机会在美国公开赛决赛中复仇。"
+      "title_zh": "Sam Altman 支持 Anthropic 首席执行官减缓全球人工智能竞赛的呼吁"
     },
     {
-      "title": "Championship: Goalless so far in three games - Bolton v Cardiff, Derby v Blues and West Brom v QPR",
-      "link": "",
-      "summary": "Follow live text commentary and score updates from 10 games in the Championship.",
+      "title": "Trump says he would ‘love’ to see a united Ireland during visit for golf tournament",
+      "link": "https://www.nbcnews.com/world/ireland/trump-united-ireland-visit-golf-tournament-rcna597366",
+      "summary": "",
       "published": "",
-      "title_zh": "英冠：迄今为止三场比赛未进球——博尔顿对阵卡迪夫城、德比郡对阵蓝军以及西布朗对阵女王公园巡游者",
-      "summary_zh": "关注锦标赛 10 场比赛的实时文字评论和比分更新。"
+      "title_zh": "特朗普表示，他“很高兴”在访问高尔夫锦标赛期间看到一个统一的爱尔兰"
     },
     {
-      "title": "Another major lake targeted for name change following Trump's renaming orders",
+      "title": "How L.L.Bean is navigating the trade war — and keeping its Canadian customers close",
+      "link": "https://www.nbcnews.com/business/ceo-interviews/llbean-us-canada-trade-war-trump-rcna596850",
+      "summary": "",
+      "published": "",
+      "title_zh": "L.L.Bean 如何应对贸易战并与加拿大客户保持密切联系"
+    },
+    {
+      "title": "GOP governor candidates who cast doubt on the 2020 election are changing their tune",
+      "link": "https://www.nbcnews.com/politics/2026-election/gop-governor-candidates-cast-doubt-2020-election-changing-tune-rcna596630",
+      "summary": "",
+      "published": "",
+      "title_zh": "对 2020 年选举表示怀疑的共和党州长候选人正在改变态度"
+    },
+    {
+      "title": "MAGA super PAC chief says he's ‘cautiously optimistic’ about midterms",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-james-blair-cautiously-optimistic-midterms-scoop-podcast-rcna596830",
+      "summary": "",
+      "published": "",
+      "title_zh": "MAGA超级政治行动委员会主席表示他对中期选举持“谨慎乐观”态度"
+    },
+    {
+      "title": "Dem governor's pardon of convicted felon torpedos a major SCOTUS fight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普下达重命名令后，另一个主要湖泊将更名"
+      "title_zh": "民主党州长赦免被定罪的重罪犯鱼雷是最高法院的一场重大斗争"
     },
     {
-      "title": "Trump puts timeline on end to Iran war, says Tehran is holding out for one reason",
+      "title": "Iran issues ultimatum, refuses US talks until every demand is met: 'No negotiations'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普设定了结束伊朗战争的时间表，称德黑兰坚持这样做有一个原因"
+      "title_zh": "伊朗发出最后通牒，拒绝美国谈判，直到满足所有要求：“不进行谈判”"
     },
     {
-      "title": "Detransitioner says school ‘slowly manipulated’ gender identity before finding Jesus",
+      "title": "Texas football fans ruthlessly boo senator, including one specific chant",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "脱变者称学校在找到耶稣之前“慢慢操纵”性别认同"
+      "title_zh": "德克萨斯州球迷无情地嘘参议员，其中包括一首特定的口号"
     },
     {
-      "title": "NYC Council moves to yank press passes from 'Luigi Mangione fangirls'",
+      "title": "Ex-Dem mayor hit with $13M judgment in sexual assault case involving 7 women",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约市议会采取行动，取消“Luigi Mangione 粉丝”的记者通行证"
+      "title_zh": "前民主党市长因涉及 7 名女性的性侵犯案被判 1300 万美元"
     },
     {
-      "title": "Trump says he would 'love' to see Ireland unified as one nation",
+      "title": "Army linguist reveals the interrogation trick that made a detainee's jaw drop",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普表示他“乐意”看到爱尔兰统一为一个国家"
+      "title_zh": "陆军语言学家揭示了令被拘留者惊掉下巴的审讯技巧"
     },
     {
-      "title": "Hard-charging DA who rarely deals may make 'exception' in Clancy murder case: attorney",
+      "title": "Experts warn frequent nighttime urination may signal certain health issues",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "律师：极少交易的严厉检察官可能会在克兰西谋杀案中“例外”"
+      "title_zh": "专家警告夜间频繁排尿可能预示着某些健康问题"
     },
     {
-      "title": "Erika Kirk's public forgiveness of her husband's killer praised by novelist",
+      "title": "Republican ban leaves blue county supervisor fuming over blocked poverty pilot",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃里卡·柯克公开宽恕杀害她丈夫的凶手，受到小说家赞扬"
+      "title_zh": "共和党禁令让蓝色县主管对贫困试点项目受阻感到愤怒"
     },
     {
-      "title": "President Trump has unleashed our intelligence community, GOP lawmaker says",
+      "title": "Mackenzie Phillips' bedroom confession comes as Sharon Stone, Teri Hatcher open up",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党议员表示，特朗普总统释放了我们的情报界"
+      "title_zh": "莎朗·斯通、泰瑞·海切尔在麦肯齐·菲利普斯的卧室里坦白"
     },
     {
-      "title": "Girl Scout Cookies going to the dogs as vet warns against 'unintentionally overfeeding'",
+      "title": "Bill Maher drops the hammer on rapper Macklemore over Gaza, says 'You don't know s---'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "女童子军饼干送给狗，兽医警告不要“无意中过度喂食”"
+      "title_zh": "比尔·马赫 (Bill Maher) 在加沙问题上向说唱歌手麦克勒莫尔 (Macklemore) 挥拳，称“你不知道——”"
     },
     {
-      "title": "EXCLUSIVE:Jeanine Pirro sits down with Kayleigh McEnany today at 10AM",
+      "title": "OutKick's Craig Carton exposes the reason behind Nike's stock collapse",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "独家报道：Jeanine Pirro 今天上午 10 点与 Kayleigh McEnany 坐下来"
+      "title_zh": "OutKick 的克雷格·卡顿 (Craig Carton) 揭露耐克股价暴跌背后的原因"
+    },
+    {
+      "title": "Dem gubernatorial candidate crew bumps cameraman who dared ask about ducking debate",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党州长候选人工作人员撞见敢于回避辩论的摄影师"
+    },
+    {
+      "title": "Lady Gaga welcomes first baby after saying she was 'at war' over motherhood: report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Lady Gaga 表示她正在为母性“交战”，并迎来了第一个孩子：报告"
+    },
+    {
+      "title": "The universe’s design points to a Creator that atheism cannot explain away",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "宇宙的设计指向了无神论无法解释的造物主"
+    },
+    {
+      "title": "Intel chief warns radical terror plotters are weaponizing the web to strike inside the US",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "英特尔负责人警告激进恐怖策划者正在将网络武器化以袭击美国境内"
+    },
+    {
+      "title": "Liam Neeson explains what drew him to his new CIA thriller 'The Fix'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "连姆·尼森解释了是什么吸引他观看他的新中央情报局惊悚片《修复》"
+    },
+    {
+      "title": "Texas’s $40M gamble gets its first gut check as Arch Manning faces the heat",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿奇·曼宁 (Arch Manning) 面临困境，德克萨斯州 4000 万美元的赌博首次受到考验"
+    },
+    {
+      "title": "High school phenom hits blazing speed, makes defense look like a Pop Warner team",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "高中天才球员速度惊人，让防守看起来像波普华纳队"
+    },
+    {
+      "title": "Golf cart tours outrage locals in major tourist city: 'It's not a theme park'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "高尔夫球车旅游激怒了主要旅游城市的当地人：“这不是主题公园”"
+    },
+    {
+      "title": "Teen stranded atop overturned boat after days in frigid sea as tragedy unfolds",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "悲剧发生后，青少年在寒冷的大海中呆了几天后被困在翻倒的船上"
     }
   ]
 }
