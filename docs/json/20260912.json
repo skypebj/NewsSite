@@ -1,6 +1,6 @@
 {
   "date": "20260912",
-  "total": 24,
+  "total": 25,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,183 +33,188 @@
   },
   "entries": [
     {
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "link": "",
-      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "published": "",
-      "title_zh": "菲律宾渡轮火灾死亡人数升至35人，仍有数十人失踪",
-      "summary_zh": "该国海岸警卫队表示，由于有毒烟雾和挥之不去的高温，接近这艘烧毁的船只的速度已经放缓。"
-    },
-    {
-      "title": "Close race in Sweden as hard right eyes role in government",
-      "link": "",
-      "summary": "Prime Minister Ulf Kristersson has promised cabinet jobs for the Sweden Democrats, but the rival left-wing bloc has a narrow lead in the polls.",
-      "published": "",
-      "title_zh": "瑞典的竞选势均力敌，右眼在政府中发挥着强硬的作用",
-      "summary_zh": "瑞典首相乌尔夫·克里斯特森承诺为瑞典民主党提供内阁职位，但对手左翼集团在民意调查中以微弱优势领先。"
-    },
-    {
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "link": "",
-      "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-      "published": "",
-      "title_zh": "密西西比州黑人妇女被发现吊死在树上被捕",
-      "summary_zh": "八月，塔西娅·福琼的尸体在密西西比州一处废弃房屋的空地上被发现。"
-    },
-    {
-      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-      "link": "",
-      "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
-      "published": "",
-      "title_zh": "当登山者 Nirmal Purja 因雪崩丧生时，他的朋友们面临着最艰巨的任务",
-      "summary_zh": "登山者 Mingma G 向 BBC 讲述了为将他最亲密的朋友的尸体带回家而进行的攀登过程。"
-    },
-    {
-      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-      "link": "",
-      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
-      "published": "",
-      "title_zh": "PlayStation 与 18 级金刚狼游戏进行赌博 - 它会得到回报吗？",
-      "summary_zh": "BBC 的汤姆·格肯 (Tom Gerken) 扮演了《蜘蛛侠》制作商 Insomniac 推出的备受期待的超级英雄游戏。"
-    },
-    {
-      "title": "I never got to experience my baby's scan but blind parents like me can now feel them",
-      "link": "",
-      "summary": "New innovations and workarounds are constantly being made to support blind parents in the challenges they face.",
-      "published": "",
-      "title_zh": "我从未体验过我宝宝的扫描，但像我这样的盲人父母现在可以感受到它们",
-      "summary_zh": "新的创新和解决方法不断涌现，以支持盲人父母应对他们所面临的挑战。"
-    },
-    {
-      "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
-      "link": "",
-      "summary": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
-      "published": "",
-      "title_zh": "消防队员说这种抗氧化剂帮助了他们 - 他们的工会警告说这可能有风险",
-      "summary_zh": "近年来，谷胱甘肽是一种抗氧化剂，已被用于治疗美国一些最大的野火。"
-    },
-    {
-      "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics in the UK",
-      "link": "",
-      "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
-      "published": "",
-      "title_zh": "蒙面男子、卡车和路障：英国反移民活动人士如何改变策略",
-      "summary_zh": "爱国者平台希望建立一批工人阶级选民来影响右翼政党。"
-    },
-    {
-      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
-      "link": "",
-      "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
-      "published": "",
-      "title_zh": "我们追踪他们的生活已有六十年了 - 现在 7 Up 的明星们即将退出",
-      "summary_zh": "《70 Up》是系列剧的最后一部，该系列剧始于 1964 年，讲述了 14 个人的生活。"
-    },
-    {
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "link": "",
-      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "published": "",
-      "title_zh": "香港天安门活动人士被判最高七年监禁",
-      "summary_zh": "香港曾经是中国领土上唯一人们可以聚集纪念1989年镇压的地方之一。"
-    },
-    {
-      "title": "West Ham thrash Wrexham to top Championship",
-      "link": "",
-      "summary": "West Ham United are back on top of the Championship after outclassing Wrexham with a fourth successive victory.",
-      "published": "",
-      "title_zh": "西汉姆联击败雷克瑟姆夺得冠军",
-      "summary_zh": "西汉姆联队以四连胜击败雷克瑟姆队，重返英冠榜首。"
-    },
-    {
-      "title": "9/11 voicemails recorded unfolding tragedy",
-      "link": "https://www.nbcnews.com/nightly-news/video/america-remembers-the-voices-of-september-11-120618565756",
+      "title": "Saudi shutdown of key pipeline limits oil flow as Yemen hits back against Houthis",
+      "link": "https://www.nbcnews.com/world/middle-east/saudi-arabia-shutdown-key-pipeline-limits-oil-flow-yemen-houthis-rcna597362",
       "summary": "",
       "published": "",
-      "title_zh": "9/11 语音邮件记录了正在发生的悲剧"
+      "title_zh": "也门反击胡塞武装，沙特关闭主要管道限制石油流动"
     },
     {
-      "title": "Rare look at how the reflecting pools are maintained",
-      "link": "https://www.today.com/video/meet-the-team-tasked-with-maintaining-the-9-11-reflecting-pools-247360581980",
+      "title": "U.S. says Palestinians won’t be forced out of Gaza, but experts warn of possible coercion",
+      "link": "https://www.nbcnews.com/world/gaza/trump-gaza-plan-palestinians-forced-out-rcna596543",
       "summary": "",
       "published": "",
-      "title_zh": "难得看看倒影池是如何维护的"
+      "title_zh": "美国表示巴勒斯坦人不会被迫离开加沙，但专家警告可能会出现胁迫"
     },
     {
-      "title": "They were at school blocks from ground zero on 9/11. Students reflect 20 years later.",
-      "link": "https://www.nbcnews.com/video/they-were-at-school-blocks-from-ground-zero-on-9-11-students-reflect-20-years-later-part-1-121902149862",
+      "title": "Ben Shelton makes history with win over fellow American Tiafoe to reach U.S. Open final",
+      "link": "https://www.nbcnews.com/sports/tennis/ben-shelton-beats-frances-tiafoe-play-alexander-zverev-us-open-title-rcna597348",
       "summary": "",
       "published": "",
-      "title_zh": "9/11 那天，他们从零开始就在学校街区。20年后，学生们反思。"
+      "title_zh": "本谢尔顿击败美国同胞蒂亚福进入美国公开赛决赛创造历史"
     },
     {
-      "title": "Remembering an unsung rescue dog of 9/11",
-      "link": "https://www.today.com/video/remembering-an-unsung-rescue-dog-of-9-11-120654405671",
+      "title": "Your health insurance bills are about to go up",
+      "link": "https://www.nbcnews.com/health/health-news/aca-medicare-work-health-insurance-cost-rise-2027-rcna597069",
       "summary": "",
       "published": "",
-      "title_zh": "纪念 9/11 事件中的无名救援犬"
+      "title_zh": "您的健康保险费用即将上涨"
     },
     {
-      "title": "Hero known as ‘man in the red bandana’ awarded Presidential Medal of Freedom",
-      "link": "https://www.nbcnews.com/nightly-news/video/9-11-hero-known-as-man-in-the-red-bandana-awarded-presidential-medal-of-freedom-269512261566",
+      "title": "U.S. Army investigates bullying of Haitian student forced to wear ICE ankle monitor",
+      "link": "https://www.nbcnews.com/news/us-news/army-investigates-bullying-wright-state-blamed-haitian-student-pierre-rcna596114",
       "summary": "",
       "published": "",
-      "title_zh": "被称为“红头巾男子”的英雄荣获总统自由勋章"
+      "title_zh": "美国陆军调查海地学生被迫佩戴 ICE 脚踝监视器的欺凌行为"
     },
     {
-      "title": "How a 9/11 photo brought two people together",
-      "link": "https://www.today.com/video/how-a-9-11-photo-brought-two-people-together-120582725769",
+      "title": "Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/apple-iphone-duo-news-quiz-rcna597233",
       "summary": "",
       "published": "",
-      "title_zh": "一张 9/11 的照片如何让两个人走到一起"
+      "title_zh": "苹果推出可折叠 iPhone，美国男子希望结束美国网球公开赛荒：新闻测验"
     },
     {
-      "title": "Officer recounts surviving World Trade Center tower collapse",
-      "link": "https://www.today.com/video/officer-recounts-surviving-9-11-world-trade-center-tower-collapse-120396357983",
-      "summary": "",
+      "title": "Donald Trump says unified Ireland would be a 'great thing' on two-day visit to country",
+      "link": "",
+      "summary": "The president says he doesn't want to \"cause any problems\" but he'd \"love to see\" a unified Ireland.",
       "published": "",
-      "title_zh": "官员讲述世贸中心塔楼倒塌事件中幸存的情况"
+      "title_zh": "唐纳德·特朗普在为期两天的爱尔兰访问中表示，统一的爱尔兰将是一件“伟大的事情”",
+      "summary_zh": "总统表示，他不想“造成任何问题”，但他“乐于看到”统一的爱尔兰。"
     },
     {
-      "title": "From the archives: George W. Bush’s Oval Office speech on 9/11",
-      "link": "https://www.nbcnews.com/now/video/from-the-archives-george-w-bush-s-oval-office-speech-on-9-11-68719685777",
-      "summary": "",
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "link": "",
+      "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
       "published": "",
-      "title_zh": "档案摘录：乔治·W·布什 9 月 11 日在椭圆形办公室的演讲"
+      "title_zh": "格莱美奖获得者美国说唱歌手 Lil Durk 在雇佣谋杀案审判中被无罪释放",
+      "summary_zh": "这位芝加哥说唱歌手于 2024 年被捕，被指控参与枪击案，导致竞争对手说唱歌手 Quando Rondo 的表弟身亡。"
     },
     {
-      "title": "Man arrested in connection with death of Tasia Fortune in Mississippi",
-      "link": "https://www.nbcnews.com/news/us-news/man-arrested-connection-death-tasia-fortune-mississippi-rcna597326",
-      "summary": "",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "link": "",
+      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
       "published": "",
-      "title_zh": "密西西比州一名男子因与塔西娅·福琼（Tasia Fortune）之死有关而被捕"
+      "title_zh": "“这就像一只狗向我们放行”——对肯尼亚镇压外国贸易商的担忧",
+      "summary_zh": "随着受惊的移民逃离该国，当局一直在努力控制影响。"
     },
     {
-      "title": "El-Sayed ignites firestorm after sharing 9/11 message on social media",
+      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "link": "",
+      "summary": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
+      "published": "",
+      "title_zh": "五分钟偷雷诺阿的作品：为什么整个欧洲的博物馆盗窃行为变得越来越大胆",
+      "summary_zh": "艺术犯罪调查人员和安全专家表示，欧洲各地画廊的盗窃行为正变得更加明目张胆。"
+    },
+    {
+      "title": "American Shelton to face Zverev in US Open final",
+      "link": "",
+      "summary": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
+      "published": "",
+      "title_zh": "美国选手谢尔顿将在美国公开赛决赛中迎战兹维列夫",
+      "summary_zh": "本·谢尔顿在全美公开赛半决赛中击败弗朗西斯·蒂亚福，赢得周日决赛对阵头号种子亚历山大·兹维列夫的席位。"
+    },
+    {
+      "title": "'Never, ever forget':  US marks 25th anniversary of 9/11 attacks",
+      "link": "",
+      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "published": "",
+      "title_zh": "“永远，永远忘记”：美国纪念 9/11 袭击 25 周年",
+      "summary_zh": "在纽约、五角大楼和宾夕法尼亚州，举行了庄严的仪式来纪念这一具有里程碑意义的周年纪念日。"
+    },
+    {
+      "title": "Solheim Cup: Hull & Woad together again as Europe lead into fourballs session",
+      "link": "",
+      "summary": "Follow live radio commentary and text updates from day two of the Solheim Cup at Bernardus Golf Club in the Netherlands.",
+      "published": "",
+      "title_zh": "索尔海姆杯：赫尔和沃德再次齐聚，欧洲进入四球赛",
+      "summary_zh": "关注荷兰贝尔纳杜斯高尔夫俱乐部索尔海姆杯第二天的现场广播评论和文字更新。"
+    },
+    {
+      "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+      "link": "",
+      "summary": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+      "published": "",
+      "title_zh": "“公牛的红布”——萨巴伦卡赢得美国公开赛的额外动力",
+      "summary_zh": "阿琳娜·萨巴伦卡 (Aryna Sabalenka) 的世界第一排名输给了埃琳娜·瑞巴金娜 (Elena Rybakina)，但她有机会在美国公开赛决赛中复仇。"
+    },
+    {
+      "title": "Championship: Goalless so far in three games - Bolton v Cardiff, Derby v Blues and West Brom v QPR",
+      "link": "",
+      "summary": "Follow live text commentary and score updates from 10 games in the Championship.",
+      "published": "",
+      "title_zh": "英冠：迄今为止三场比赛未进球——博尔顿对阵卡迪夫城、德比郡对阵蓝军以及西布朗对阵女王公园巡游者",
+      "summary_zh": "关注锦标赛 10 场比赛的实时文字评论和比分更新。"
+    },
+    {
+      "title": "Another major lake targeted for name change following Trump's renaming orders",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃尔-赛义德在社交媒体上分享 9/11 消息后引发轩然大波"
+      "title_zh": "特朗普下达重命名令后，另一个主要湖泊将更名"
     },
     {
-      "title": "Firefighter erupts on Elmo-clad protester just steps from Ground Zero ceremony",
+      "title": "Trump puts timeline on end to Iran war, says Tehran is holding out for one reason",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "消防员向距离归零仪式仅几步之遥的穿着 Elmo 的抗议者发起攻击"
+      "title_zh": "特朗普设定了结束伊朗战争的时间表，称德黑兰坚持这样做有一个原因"
     },
     {
-      "title": "Tom Giordano recalls rushing to Ground Zero as an FDNY captain on 9/11",
+      "title": "Detransitioner says school ‘slowly manipulated’ gender identity before finding Jesus",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "汤姆·佐丹奴 (Tom Giordano) 回忆起 9 月 11 日作为纽约消防局队长冲向归零地的情景"
+      "title_zh": "脱变者称学校在找到耶稣之前“慢慢操纵”性别认同"
     },
     {
-      "title": "Major airport board unanimously backs renaming in honor of country legend Dolly Parton",
+      "title": "NYC Council moves to yank press passes from 'Luigi Mangione fangirls'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "主要机场董事会一致支持重新命名以纪念乡村传奇人物多莉·帕顿"
+      "title_zh": "纽约市议会采取行动，取消“Luigi Mangione 粉丝”的记者通行证"
+    },
+    {
+      "title": "Trump says he would 'love' to see Ireland unified as one nation",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普表示他“乐意”看到爱尔兰统一为一个国家"
+    },
+    {
+      "title": "Hard-charging DA who rarely deals may make 'exception' in Clancy murder case: attorney",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "律师：极少交易的严厉检察官可能会在克兰西谋杀案中“例外”"
+    },
+    {
+      "title": "Erika Kirk's public forgiveness of her husband's killer praised by novelist",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃里卡·柯克公开宽恕杀害她丈夫的凶手，受到小说家赞扬"
+    },
+    {
+      "title": "President Trump has unleashed our intelligence community, GOP lawmaker says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党议员表示，特朗普总统释放了我们的情报界"
+    },
+    {
+      "title": "Girl Scout Cookies going to the dogs as vet warns against 'unintentionally overfeeding'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "女童子军饼干送给狗，兽医警告不要“无意中过度喂食”"
+    },
+    {
+      "title": "EXCLUSIVE:Jeanine Pirro sits down with Kayleigh McEnany today at 10AM",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "独家报道：Jeanine Pirro 今天上午 10 点与 Kayleigh McEnany 坐下来"
     }
   ]
 }
