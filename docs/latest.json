@@ -1,6 +1,6 @@
 {
   "date": "20260913",
-  "total": 33,
+  "total": 24,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,244 +33,179 @@
   },
   "entries": [
     {
-      "title": "Johnson says Congress could work with Trump to deliver $5,000 checks but there are no guarantees",
-      "link": "https://www.nbcnews.com/politics/congress/johnson-congress-work-deliver-5000-checks-trump-midterm-elections-rcna597459",
+      "title": "Here’s the biggest news you missed this weekend",
+      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-september-13-rcna597407",
       "summary": "",
       "published": "",
-      "title_zh": "约翰逊表示国会可以与特朗普合作发放 5000 美元支票，但没有任何保证"
+      "title_zh": "这是您本周末错过的最大新闻"
     },
     {
-      "title": "Anthropic whistleblower: Congress should let AI companies regulate themselves for now",
-      "link": "https://www.nbcnews.com/tech/security/anthropic-whistleblower-congress-ai-companies-regulation-rcna597465",
+      "title": "Alexander Zverev overtakes Ben Shelton to win U.S. Open final",
+      "link": "https://www.nbcnews.com/sports/tennis/alexander-zverev-overtakes-ben-shelton-win-us-open-final-rcna597470",
       "summary": "",
       "published": "",
-      "title_zh": "人类告密者：国会现在应该让人工智能公司自我监管"
+      "title_zh": "亚历山大·兹维列夫 (Alexander Zverev) 超越本·谢尔顿 (Ben Shelton) 赢得美国公开赛决赛"
     },
     {
-      "title": "Pennsylvania woman dies from measles complications, state’s third death this year",
-      "link": "https://www.nbcnews.com/health/health-news/pennsylvania-woman-dies-measles-rcna597490",
+      "title": "Female athletes hit back at Sydney Sweeney’s sexualized ‘just sports’ ad",
+      "link": "https://www.nbcnews.com/sports/sports/female-athletes-hit-back-sydney-sweeneys-sexualized-just-sports-ad-rcna597489",
       "summary": "",
       "published": "",
-      "title_zh": "宾夕法尼亚州妇女死于麻疹并发症，这是该州今年第三例死亡"
+      "title_zh": "女运动员回击西德尼·斯威尼（Sydney Sweeney）的性化“只是体育”广告"
     },
     {
-      "title": "Hormuz, Houthis and pipeline strikes: Saudi Arabia’s list of big problems is growing",
-      "link": "https://www.nbcnews.com/world/saudi-arabia/hormuz-houthis-pipeline-strikes-saudi-arabias-list-big-problems-growin-rcna597361",
-      "summary": "",
-      "published": "",
-      "title_zh": "霍尔木兹、胡塞武装和管道袭击：沙特阿拉伯的重大问题清单越来越长"
-    },
-    {
-      "title": "Why are Americans so tired so often? New CDC report highlights who is feeling it most",
-      "link": "https://www.nbcnews.com/health/mental-health/fatigue-symptoms-adults-women-cdc-report-rcna596827",
-      "summary": "",
-      "published": "",
-      "title_zh": "为什么美国人经常感到疲倦？疾病预防控制中心的新报告强调了谁感受最深"
-    },
-    {
-      "title": "There’s a major flaw in the Protect College Sports Act, athlete advocates say",
-      "link": "https://www.nbcnews.com/sports/ncaa/s-major-flaw-protect-college-sports-act-athlete-advocates-say-rcna596921",
-      "summary": "",
-      "published": "",
-      "title_zh": "运动员倡导者称，《保护大学体育法》存在重大缺陷"
-    },
-    {
-      "title": "Celine Dion makes triumphant return in Paris after six years sidelined by rare diagnosis",
-      "link": "https://www.nbcnews.com/pop-culture/music/celine-dion-triumphant-return-paris-rare-condition-rcna597461",
-      "summary": "",
-      "published": "",
-      "title_zh": "席琳·迪翁因罕见诊断缺席六年后在巴黎凯旋归来"
-    },
-    {
-      "title": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
+      "title": "Iran's president issues fiery challenge to US as war enters dangerous new phase",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普告诉泽伦斯基在袭击俄罗斯期间停止做“一件事”"
+      "title_zh": "随着战争进入危险的新阶段，伊朗总统向美国发出激烈挑战"
     },
     {
-      "title": "Female passenger undresses on flight, engages in 'indecent acts,' crew says",
+      "title": "Frantic audio reveals race to find congressman after plane vanished into lake",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "机组人员称女乘客在飞机上脱衣服有“不雅行为”"
+      "title_zh": "飞机消失在湖中后，疯狂的音频揭示了寻找国会议员的竞赛"
     },
     {
-      "title": "Actor flees his 'failed' home state, calls it ‘literally and figuratively on fire’",
+      "title": "Trump unloads on AOC and Mamdani over viral Ground Zero ceremony interaction",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "演员逃离了他“失败”的家乡，称其“名副其实地着火”"
+      "title_zh": "特朗普因“归零地”仪式互动而大肆抨击 AOC 和马姆达尼"
     },
     {
-      "title": "Beloved country singer dies at 56, leaving behind wife, six children",
+      "title": "Ilhan Omar's citizenship status under microscope amid alleged immigration fraud",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "深受喜爱的乡村歌手去世，享年 56 岁，留下妻子和六个孩子"
+      "title_zh": "伊尔汗·奥马尔（Ilhan Omar）的公民身份因涉嫌移民欺诈而受到密切关注"
     },
     {
-      "title": "Steve Sarkisian's brief ESPN postgame answer after epic win divides the internet",
+      "title": "Trump responds to pardon request for Lindsay Clancy following high profile mistrial",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "史蒂夫·萨基西安 (Steve Sarkisian) 在史诗般的胜利后对 ESPN 赛后的简短回答在互联网上引起了分歧"
+      "title_zh": "特朗普在备受瞩目的误审后回应林赛·克兰西的赦免请求"
     },
     {
-      "title": "Jesus' crucifixion account may get new context from ring misread for years",
+      "title": "Caitlin Clark's emergence off the bench electrifies US World Cup victory over France",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "多年来对戒指的误读，耶稣受难的叙述可能会得到新的背景"
+      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 替补登场，助美国队战胜法国队"
     },
     {
-      "title": "Caitlin Clark's impact on World Cup prompts surprising statement by FIBA chief",
+      "title": "Joanna Gaines says 'soul weariness' led to decision to walk away from 'Fixer Upper'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯特琳·克拉克对世界杯的影响促使国际篮联主席发表令人惊讶的声明"
+      "title_zh": "乔安娜·盖恩斯 (Joanna Gaines) 表示，“灵魂厌倦”导致她决定放弃“Fixer Upper”"
     },
     {
-      "title": "Popular weight-loss drugs linked to severe vitamin deficiency that can damage the brain",
+      "title": "Hasan Piker doubles down on claiming he hates America during livestream",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "流行的减肥药与严重维生素缺乏有关，维生素缺乏会损害大脑"
+      "title_zh": "哈桑·派克在直播中加倍声称他讨厌美国"
     },
     {
-      "title": "GOP women sound alarm as Clancy backlash revives calls to repeal 19th Amendment",
+      "title": "Ms Rachel faces mounting scrutiny after pushing genocide label and bias charges",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克兰西的强烈反对再次呼吁废除第十九修正案，共和党女性发出警报"
+      "title_zh": "雷切尔女士在提出种族灭绝标签和偏见指控后面临越来越严格的审查"
     },
     {
-      "title": "Trump announcement on Irish whiskey tariffs sends crowd into a frenzy",
+      "title": "CDC issues nationwide alert over potential rabies exposure",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普宣布对爱尔兰威士忌征收关税令人群陷入疯狂"
+      "title_zh": "疾病预防控制中心就潜在的狂犬病暴露发出全国警报"
     },
     {
-      "title": "Trump's rapid response calls liberal journalist a 'sick, deluded freak'",
+      "title": "Hayden Panettiere's boyfriend Brian Hickerson handcuffed after altercation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普的快速反应称自由派记者是“病态的、受骗的怪胎”"
+      "title_zh": "海顿·潘妮蒂尔的男友布莱恩·希克森在争吵后被戴上手铐"
     },
     {
-      "title": "Police respond to Wisconsin lake where GOP candidate swam from submerging plane",
+      "title": "Lions avoid franchise-worst collapse as Saints' 2-point conversion in OT goes awry",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警方对威斯康星州湖区做出反应，共和党候选人从淹没的飞机中游出"
+      "title_zh": "由于圣徒队在加时赛中的两分转换出现失误，雄狮队避免了球队最糟糕的崩溃"
     },
     {
-      "title": "Yemeni citizens describe 'hysterical panic' as Iran-backed Houthis advance",
+      "title": "Meghan Markle gives rare look inside family’s new life following UK move",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "也门民众形容伊朗支持的胡塞武装推进时“歇斯底里的恐慌”"
+      "title_zh": "梅根·马克尔罕见地回顾了搬到英国后家庭的新生活"
     },
     {
-      "title": "Arrest cuts against Dem story on death of Black woman found hanging in South",
+      "title": "Chick-fil-A is one of America's most exclusive franchises with a surprising startup cost",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党关于黑人妇女在南方被发现上吊死亡的报道遭到逮捕"
+      "title_zh": "Chick-fil-A 是美国最独特的特许经营店之一，其启动成本令人惊讶"
     },
     {
-      "title": "Angry cruise passengers clash over ‘rude’ luggage habit that divides travelers",
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
       "link": "",
-      "summary": "",
+      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
       "published": "",
-      "title_zh": "愤怒的邮轮乘客因“粗鲁”的行李习惯发生冲突，导致旅客分裂"
+      "title_zh": "预测称，周日投票后瑞典政党集团打成平手",
+      "summary_zh": "瑞典公共广播公司 SVT 表示，50% 的选票已清点完毕，两大集团的票数仅相差 20,000 张。"
     },
     {
-      "title": "Embattled Browns QB throws interception mere five snaps into 2026 season",
+      "title": "US Open final: Zverev beats Shelton to claim second Grand Slam title of year - reaction",
       "link": "",
-      "summary": "",
+      "summary": "Alexander Zverev beats Ben Shelton to win the US Open and claim his second Grand Slam title - follow live.",
       "published": "",
-      "title_zh": "陷入困境的布朗队四分卫在 2026 赛季开场仅五次就被拦截"
+      "title_zh": "美国公开赛决赛：兹维列夫击败谢尔顿夺得今年第二个大满贯冠军 - 反应",
+      "summary_zh": "亚历山大·兹维列夫 (Alexander Zverev) 击败本·谢尔顿 (Ben Shelton) 赢得美国公开赛冠军，并获得他的第二个大满贯冠军 - 关注直播。"
     },
     {
-      "title": "These 5 versions of the Apple AirPods are all on sale right now — starting at just $99",
+      "title": "Will record donations to Reform go down as a moment of UK political change?",
       "link": "",
-      "summary": "",
+      "summary": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
       "published": "",
-      "title_zh": "这 5 个版本的 Apple AirPods 现已全部发售 - 起价仅为 99 美元"
+      "title_zh": "随着英国政治变革的时刻，对改革的创纪录捐款是否会减少？",
+      "summary_zh": "杰克·芬威克写道，安迪·伯纳姆可能会面临进一步改变政党捐赠规则的新压力。"
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
       "link": "",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
       "published": "",
-      "title_zh": "特朗普以与中国竞争为由淡化人工智能风险警告",
-      "summary_zh": "美国总统表示，“负面力量”正在表达对“不会发生的事情”的担忧。"
+      "title_zh": "美国国会议员飞机被迫降落在湖上后游到安全地带",
+      "summary_zh": "众议员汤姆·蒂芙尼乘坐的小型飞机出现机械故障，迫使飞行员紧急迫降在威斯康星州的一个湖上。"
     },
     {
-      "title": "Meghan shares glimpse of family life after Sussexes return to UK",
+      "title": "UK PM Andy Burnham finishes Great North Run half marathon in under two hours",
       "link": "",
-      "summary": "It's the first time the Duchess of Sussex had posted her family on her Instagram grid since they return to the UK last month.",
+      "summary": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
       "published": "",
-      "title_zh": "梅根分享苏塞克斯夫妇返回英国后的家庭生活",
-      "summary_zh": "这是苏塞克斯公爵夫人自上个月返回英国以来第一次在 Instagram 上发布家人的动态。"
+      "title_zh": "英国首相安迪·伯纳姆在两小时内完成了大北跑半程马拉松",
+      "summary_zh": "今年的赛事有 63,000 人参加半程马拉松，其中包括总理。"
     },
     {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "title": "Lamine Yamal scores twice as Barcelona maintain perfect start",
       "link": "",
-      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "summary": "Barcelona continued their perfect start to the La Liga season with a 4-2 win at Levante.",
       "published": "",
-      "title_zh": "人们对人工智能“减速”会是什么样子提出了越来越多的疑问",
-      "summary_zh": "虽然加快人工智能开发速度听起来像是一个快速解决方案，但它远非一个简单的解决方案。"
+      "title_zh": "拉明·亚马尔梅开二度 巴萨保持完美开局",
+      "summary_zh": "巴塞罗那4-2战胜莱万特，延续了西甲赛季的完美开局。"
     },
     {
-      "title": "US secretly flew London embassy staffer out of country over child abuse image allegations",
+      "title": "Kane scores 150th Bayern goal in win over Elversberg",
       "link": "",
-      "summary": "The individual worked at the US embassy in Vauxhall, south London, had diplomatic protection, despite not being a diplomat.",
+      "summary": "Harry Kane scores his 150th goal for Bayern Munich to help the German champions  narrowly defeat Bundesliga new boys Elversberg.",
       "published": "",
-      "title_zh": "美国因虐待儿童形象指控秘密将伦敦大使馆工作人员接机出境",
-      "summary_zh": "此人在伦敦南部沃克斯豪尔的美国大使馆工作，尽管不是外交官，但仍受到外交保护。"
-    },
-    {
-      "title": "US Open final: Zverev leads Shelton by break in first set - listen & follow",
-      "link": "",
-      "summary": "Alexander Zverev bids for his second Grand Slam of the year as Ben Shelton looks to end America's long wait for a men's singles champion in the US Open final - follow live.",
-      "published": "",
-      "title_zh": "美国公开赛决赛：兹维列夫首盘破发领先谢尔顿 - 聆听并关注",
-      "summary_zh": "亚历山大·兹维列夫 (Alexander Zverev) 力争今年第二个大满贯，而本·谢尔顿 (Ben Shelton) 则希望结束美国队对美网决赛男单冠军的漫长等待 - 敬请关注。"
-    },
-    {
-      "title": "From struggling to walk to lifting trophy - how Rybakina triumphed at US Open",
-      "link": "",
-      "summary": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one.",
-      "published": "",
-      "title_zh": "从艰难行走到举起奖杯——雷巴基娜如何在美国公开赛上获胜",
-      "summary_zh": "埃琳娜·瑞巴基娜 (Elena Rybakina) 抵达纽约后，脚部受伤，无法正常行走。她作为美国公开赛冠军和新的世界第一离开了这座城市。"
-    },
-    {
-      "title": "Europe must endure winter of hardship to keep pressure on Putin, UK PM's security adviser says",
-      "link": "",
-      "summary": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
-      "published": "",
-      "title_zh": "英国首相安全顾问表示，欧洲必须经历艰难的冬天才能对普京施加压力",
-      "summary_zh": "乔纳森·鲍威尔在罕见的公开讲话中表示，现在还不是欧洲国家“放松警惕”的时候。"
-    },
-    {
-      "title": "Boks power & All Blacks of old - what did we learn from series?",
-      "link": "",
-      "summary": "What did we learn from South Africa's Rugby's Greatest Rivalry series victory over New Zealand?",
-      "published": "",
-      "title_zh": "Boks power 和老牌全黑队 - 我们从系列赛中学到了什么？",
-      "summary_zh": "我们从南非橄榄球最伟大对抗系列赛战胜新西兰学到了什么？"
-    },
-    {
-      "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
-      "link": "",
-      "summary": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
-      "published": "",
-      "title_zh": "McInnes 在《Old Firm gobsmacker》中展现了团结和强度",
-      "summary_zh": "BBC 苏格兰首席体育记者汤姆·英格利希 (Tom English) 分析了流浪者队在埃布罗克斯球场以令人信服的方式击败老牌球队凯尔特人队的比赛。"
+      "title_zh": "拜仁战胜埃尔弗斯贝格，凯恩攻入第150球",
+      "summary_zh": "哈里·凯恩打入拜仁慕尼黑队的第 150 粒进球，帮助德国冠军球队险胜德甲新秀埃尔弗斯贝里。"
     }
   ]
 }
