@@ -1,6 +1,6 @@
 {
   "date": "20260913",
-  "total": 20,
+  "total": 30,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,155 +33,227 @@
   },
   "entries": [
     {
-      "title": "Vessel struck by unknown projectile in Strait of Hormuz as Iran president vows regime 'won't surrender'",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "link": "",
+      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "published": "",
+      "title_zh": "俄罗斯寻求乌克兰 2024 年入侵后数百人失踪的答案",
+      "summary_zh": "官员称，2024 年库尔斯克攻势后仍有 300 多名俄罗斯人失踪，但没有人真正知道真实数字。"
+    },
+    {
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "link": "",
+      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "published": "",
+      "title_zh": "伊朗战争重塑金砖国家关系，但也暴露分歧",
+      "summary_zh": "金砖国家成员一致认为，他们需要一个新的全球秩序，但很难回答应该用什么来取代它以及如何实现这一秩序。"
+    },
+    {
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "link": "",
+      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "published": "",
+      "title_zh": "印度尼西亚渡轮在爪哇海倾覆 造成6人死亡、130人失踪",
+      "summary_zh": "船只和直升机正在搜寻因遭遇恶劣天气而在 Virgo Transport 8 号船上失踪的人员。"
+    },
+    {
+      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
+      "link": "",
+      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
+      "published": "",
+      "title_zh": "一些牙医说越来越多的年轻人磨牙——你是其中之一吗？",
+      "summary_zh": "我们中有数百万人这样做，尽管很少有人意识到我们这样做 - 但获得正确的治疗可以改变生活。"
+    },
+    {
+      "title": "Five night sky events to look out for this autumn",
+      "link": "",
+      "summary": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
+      "published": "",
+      "title_zh": "今年秋天值得关注的五个夜空事件",
+      "summary_zh": "从流星雨到十一月的超级月亮，秋季夜空中有许多令人印象深刻的景象。"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "published": "",
+      "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
+      "summary_zh": "这一呼吁发出之际，人们越来越担心人工智能模型可能会在全球范围内造成严重损害。"
+    },
+    {
+      "title": "Ryan Garcia crushes overmatched Conor Benn in two rounds to defend WBC welterweight title",
+      "link": "",
+      "summary": "Ryan Garcia crushed Briton Conor Benn with a ruthless second-round stoppage to retain his WBC welterweight crown in a world title mismatch in Las Vegas.",
+      "published": "",
+      "title_zh": "瑞安·加西亚（Ryan Garcia）两回合击败康纳·本（Conor Benn）卫冕WBC次中量级冠军",
+      "summary_zh": "瑞安·加西亚 (Ryan Garcia) 在第二轮比赛中以残酷的绝杀击败了英国人康纳·本 (Conor Benn)，在拉斯维加斯的一场世界冠军争夺战中卫冕了 WBC 次中量级冠军。"
+    },
+    {
+      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+      "link": "",
+      "summary": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+      "published": "",
+      "title_zh": "瑟尔沃尔的报告会改变关于露西·莱比的争论吗？",
+      "summary_zh": "对这位前护士的调查预计会发现她所在的医院未能确保患者安全。"
+    },
+    {
+      "title": "Premier League: Coventry bidding for first points as they host Brighton",
+      "link": "",
+      "summary": "Listen to BBC Radio 5 Live commentary and follow live text commentary, score updates and match stats as Coventry City take on Brighton & Hove Albion in the Premier League.",
+      "published": "",
+      "title_zh": "英超联赛：考文垂主场迎战布莱顿，争取首分",
+      "summary_zh": "收听 BBC 广播 5 台直播评论并关注考文垂城在英超联赛中迎战布莱顿的实时文字评论、比分更新和比赛统计数据。"
+    },
+    {
+      "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
+      "link": "",
+      "summary": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
+      "published": "",
+      "title_zh": "固定v流体——马雷斯卡和卡里克的相反方法",
+      "summary_zh": "恩佐·马雷斯卡和迈克尔·卡里克将在周日的曼彻斯特德比中正面交锋，他们的球队设置截然不同。"
+    },
+    {
+      "title": "WSL: Liverpool Tottenham and Brighton play after Chelsea thrash Man Utd",
+      "link": "",
+      "summary": "Follow live text updates of three games in the Women's Super League and watch Arsenal against Crystal Palace from 14:45 BST.",
+      "published": "",
+      "title_zh": "WSL：切尔西击败曼联后，利物浦托特纳姆热刺队和布莱顿队进行比赛",
+      "summary_zh": "关注女子超级联赛三场比赛的实时文字更新，并从英国夏令时 14:45 观看阿森纳对阵水晶宫的比赛。"
+    },
+    {
+      "title": "Solheim Cup: Hull wins first point with Europe dominating decisive singles",
+      "link": "",
+      "summary": "Listen to BBC Radio 5 Sports Extra commentary from the third day of the Solheim Cup at Bernardus Golf Club in Cromvoirt, Netherlands.",
+      "published": "",
+      "title_zh": "索尔海姆杯：赫尔城夺得首分，欧洲队主宰决定性单打",
+      "summary_zh": "在荷兰克罗姆沃特的贝尔纳杜斯高尔夫俱乐部收听索尔海姆杯第三天的 BBC 广播电台 5 体育额外评论。"
+    },
+    {
+      "title": "Scottish League Cup: Rangers overwhelm Celtic in quarter-final - draw coming up",
+      "link": "",
+      "summary": "Listen to Sportsound and follow live text commentary, score updates and match report from Rangers vs Celtic in the Premier Sports Cup.",
+      "published": "",
+      "title_zh": "苏格兰联赛杯：流浪者队在四分之一决赛中击败凯尔特人队 - 抽签即将进行",
+      "summary_zh": "收听 Sportsound 并关注英超体育杯流浪者队与凯尔特人队的实时文字评论、比分更新和比赛报告。"
+    },
+    {
+      "title": "HAPPENING NOW: President Trump attends Irish Open in Ireland",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗总统发誓政权“不会投降”，霍尔木兹海峡船只被不明弹丸击中"
+      "title_zh": "现在发生的事情：特朗普总统出席在爱尔兰举行的爱尔兰公开赛"
     },
     {
-      "title": "Dad dies after horrifying cruise ship accident while celebrating son’s wedding",
+      "title": "GOP women sound alarm as Lindsay Clancy backlash revives calls to repeal 19th Amendment",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "父亲在庆祝儿子婚礼时发生可怕的游轮事故后死亡"
+      "title_zh": "GOP women sound alarm as Lindsay Clancy backlash revives calls to repeal 19th Amendment"
     },
     {
-      "title": "'Reacher' star and wife announce split after 20 years in joint Instagram post",
+      "title": "Texas stuns Ohio State after erasing 20-point deficit in unforgettable comeback",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《雷彻》明星和妻子在 Instagram 上联合发文宣布分手 20 年后"
+      "title_zh": "得克萨斯州队在令人难忘的逆转中消除了 20 分的落后，击败了俄亥俄州立大学"
     },
     {
-      "title": "Accused 'right-hand man' of Somali dictator found living in Ohio: report",
+      "title": "No microwaves, hand-cracked eggs power Southern upstart past every major rival",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被指控为索马里独裁者的“得力助手”被发现居住在俄亥俄州：报告"
+      "title_zh": "没有微波炉，手打鸡蛋让南方新贵超越了所有主要竞争对手"
     },
     {
-      "title": "WATCH:Knife-wielding man charges cop before single deadly shot in crowded park",
+      "title": "The $70M movie Warner wanted gone is proving Hollywood wrong",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看：持刀男子在拥挤的公园里向警察开枪，然后开枪致命"
+      "title_zh": "华纳想要的价值 7000 万美元的电影被证明好莱坞是错误的"
     },
     {
-      "title": "Costco selling viral Halloween treat with jaw-dropping number of calories",
+      "title": "American greatness, unity are at stake as Clark and Reese face calls to start World Cup",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "好市多 (Costco) 热销万圣节美食，卡路里含量令人瞠目结舌"
+      "title_zh": "克拉克和里斯面临世界杯开赛呼吁，美国的伟大和团结都受到威胁"
     },
     {
-      "title": "Woman pumping gas engulfed in fireball after stranger allegedly lit the fuel: police",
+      "title": "Nike may have made one costly mistake: ticking off female shoppers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据称陌生人点燃燃料后，女子抽气被火球吞没：警方"
+      "title_zh": "耐克可能犯了一个代价高昂的错误：激怒女性购物者"
     },
     {
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "title": "Iran says one person killed after unknown projectile slams ship in strategic strait",
       "link": "",
-      "summary": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "published": "",
-      "title_zh": "阿富汗妇女首次使用“外国恐怖分子”法庭被驱逐出美国",
-      "summary_zh": "这位合法的美国居民从未被指控犯罪，但由于她的家庭与恐怖主义有联系而被驱逐出境。"
-    },
-    {
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "link": "",
-      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "published": "",
-      "title_zh": "几十年来最好的朋友 - 直到 DNA 测试显示她们是姐妹",
-      "summary_zh": "Meena Geltink 和 Minal Tijssen 于 20 世纪 80 年代从孟买的孤儿院被收养，并在荷兰长大。"
-    },
-    {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "",
-      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-      "published": "",
-      "title_zh": "他们在发布有关查理·柯克的帖子后失去了工作，但有些人并不后悔",
-      "summary_zh": "柯克遇刺后被解雇的一些人从雇主那里赢得了巨额和解，另一些人则不得不从头开始。"
-    },
-    {
-      "title": "Indonesian ferry carrying 243 people reported missing in Java Sea",
-      "link": "",
-      "summary": "The nation's search and rescue team said it lost contact with the Virgo Transport 8 in the early hours of Sunday morning.",
-      "published": "",
-      "title_zh": "载有243人的印尼渡轮在爪哇海失踪",
-      "summary_zh": "该国搜救队表示，周日凌晨与 Virgo Transport 8 号失去联系。"
-    },
-    {
-      "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
-      "link": "",
-      "summary": "Thousands turned out to witness Céline Dion perform in Paris on Saturday, her first show after a six year illness-induced hiatus.",
-      "published": "",
-      "title_zh": "“她回来了”：席琳·迪翁巴黎复出演唱会后，歌迷们载歌载舞、哭泣",
-      "summary_zh": "周六，数千人前来观看席琳·迪翁在巴黎的表演，这是她因病中断六年后的首场演出。"
-    },
-    {
-      "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-      "link": "",
-      "summary": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
-      "published": "",
-      "title_zh": "迪尔吉特·多桑吉 (Diljit Dosanjh) 在著名的温布利拱门下创造历史",
-      "summary_zh": "温布利体育场将迪尔吉特·多桑吉 (Diljit Dosanjh) 称为第一位在这个标志性音乐场馆主唱的旁遮普歌手。"
-    },
-    {
-      "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
-      "link": "",
-      "summary": "Tom Felton talks about taking on Broadway, Rupert Grint following his footsteps and a new Harry Potter generation.",
-      "published": "",
-      "title_zh": "汤姆·费尔顿：我很高兴看到鲁珀特·格林特再次扮演罗恩·韦斯莱",
-      "summary_zh": "汤姆·费尔顿谈到了挑战百老汇、鲁珀特·格林特追随他的脚步以及新一代哈利·波特。"
-    },
-    {
-      "title": "Fire at nursing home in Chile kills 16 residents",
-      "link": "",
-      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-      "published": "",
-      "title_zh": "智利疗养院发生火灾 16人死亡",
-      "summary_zh": "智利中部阿劳卡尼亚地区的家中有十人被疏散。"
-    },
-    {
-      "title": "Record heatwaves in France set to make champagne stronger",
-      "link": "",
-      "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
-      "published": "",
-      "title_zh": "法国创纪录的热浪将使香槟变得更烈",
-      "summary_zh": "在一次不同寻常的收获后，酿酒师可以生产出酒精度高达 15% 的起泡酒，从而生产出更甜的葡萄。"
-    },
-    {
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "link": "",
-      "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "published": "",
-      "title_zh": "评论家庆祝席琳迪翁在巴黎的“高风险”复出演出",
-      "summary_zh": "这位加拿大标志性歌手因健康问题中断六年后，于周六在巴黎拉开了她期待已久的复出演出。"
-    },
-    {
-      "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-      "link": "",
-      "summary": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.",
-      "published": "",
-      "title_zh": "“今天的比赛没有受到保护”——阿尔特塔怒不可遏，但阿森纳幸存下来",
-      "summary_zh": "阿森纳以 2-0 的比分战胜了桑德兰，但米克尔·阿尔特塔对可能导致球队失利的点球感到愤怒。"
-    },
-    {
-      "title": "Elena Rybakina dethrones Aryna Sabalenka to win her first U.S. Open title",
-      "link": "https://www.nbcnews.com/sports/tennis/elena-rybakina-dethrones-aryna-sabalenka-win-first-us-open-title-rcna597423",
       "summary": "",
       "published": "",
-      "title_zh": "埃琳娜·瑞巴基娜 (Elena Rybakina) 击败阿琳娜·萨巴伦卡 (Aryna Sabalenka)，赢得她的首个美国公开赛冠军"
+      "title_zh": "伊朗称不明弹丸在战略海峡击中船只造成一人死亡"
     },
     {
-      "title": "Alleged trespasser stopped outside Kamala Harris’ Malibu home",
-      "link": "https://www.nbcnews.com/politics/kamala-harris/alleged-trespasser-stopped-kamala-harris-malibu-home-rcna597427",
+      "title": "Suburban killer's execution puts a vulnerable profession on high alert",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "涉嫌侵入者在卡马拉哈里斯马里布的家外被拦截"
+      "title_zh": "郊区杀手的处决使脆弱的职业处于高度戒备状态"
+    },
+    {
+      "title": "192 House Democrats voted against condemning socialism and the fallout is just starting",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "192 名众议院民主党人投票反对谴责社会主义，其后果才刚刚开始"
+    },
+    {
+      "title": "Zachary Levi says California is 'literally and figuratively on fire' after Texas move",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "扎卡里·莱维 (Zachary Levi) 表示，德克萨斯州搬迁后，加州“名副其实地着火”"
+    },
+    {
+      "title": "Democrat sparks outrage after calling for violence against Trump supporters",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党呼吁对特朗普支持者使用暴力后引发愤怒"
+    },
+    {
+      "title": "GOP governor candidate swims from sinking plane after emergency lake landing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党州长候选人紧急迫降湖面后从沉没的飞机中游出"
+    },
+    {
+      "title": "Bessent dared the bond market to ‘bet against’ him. It did — and it appears to be winning.",
+      "link": "https://www.nbcnews.com/business/markets/bessent-bond-traders-bet-rcna597044",
+      "summary": "",
+      "published": "",
+      "title_zh": "贝森特敢于让债券市场“对赌”他。它确实做到了——而且它似乎正在获胜。"
+    },
+    {
+      "title": "Thirst traps for democracy: Content creators go risqué to recruit people to work the polls",
+      "link": "https://www.nbcnews.com/tech/internet/influencers-content-creators-poll-workers-risque-rcna597004",
+      "summary": "",
+      "published": "",
+      "title_zh": "对民主的渴求陷阱：内容创作者冒失地招募人员参与投票"
+    },
+    {
+      "title": "A tale of two new bridges as North Korea balances deeper ties with China and Russia",
+      "link": "https://www.nbcnews.com/world/north-korea/north-korea-new-bridges-china-russia-kim-jong-un-economy-war-rcna597180",
+      "summary": "",
+      "published": "",
+      "title_zh": "朝鲜平衡与中国和俄罗斯更深层次关系时的两座新桥梁的故事"
+    },
+    {
+      "title": "Benny Blanco opens up about failure, success, music and marriage",
+      "link": "https://www.nbcnews.com/video/benny-blanco-opens-up-about-failure-success-music-and-marriage-269740613827",
+      "summary": "",
+      "published": "",
+      "title_zh": "本尼·布兰科畅谈失败、成功、音乐和婚姻"
     }
   ]
 }
