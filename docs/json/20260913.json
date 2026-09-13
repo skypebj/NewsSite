@@ -1,6 +1,6 @@
 {
   "date": "20260913",
-  "total": 30,
+  "total": 33,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,227 +33,244 @@
   },
   "entries": [
     {
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "link": "",
-      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "title": "Johnson says Congress could work with Trump to deliver $5,000 checks but there are no guarantees",
+      "link": "https://www.nbcnews.com/politics/congress/johnson-congress-work-deliver-5000-checks-trump-midterm-elections-rcna597459",
+      "summary": "",
       "published": "",
-      "title_zh": "俄罗斯寻求乌克兰 2024 年入侵后数百人失踪的答案",
-      "summary_zh": "官员称，2024 年库尔斯克攻势后仍有 300 多名俄罗斯人失踪，但没有人真正知道真实数字。"
+      "title_zh": "约翰逊表示国会可以与特朗普合作发放 5000 美元支票，但没有任何保证"
     },
     {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "link": "",
-      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "title": "Anthropic whistleblower: Congress should let AI companies regulate themselves for now",
+      "link": "https://www.nbcnews.com/tech/security/anthropic-whistleblower-congress-ai-companies-regulation-rcna597465",
+      "summary": "",
       "published": "",
-      "title_zh": "伊朗战争重塑金砖国家关系，但也暴露分歧",
-      "summary_zh": "金砖国家成员一致认为，他们需要一个新的全球秩序，但很难回答应该用什么来取代它以及如何实现这一秩序。"
+      "title_zh": "人类告密者：国会现在应该让人工智能公司自我监管"
     },
     {
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "link": "",
-      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "title": "Pennsylvania woman dies from measles complications, state’s third death this year",
+      "link": "https://www.nbcnews.com/health/health-news/pennsylvania-woman-dies-measles-rcna597490",
+      "summary": "",
       "published": "",
-      "title_zh": "印度尼西亚渡轮在爪哇海倾覆 造成6人死亡、130人失踪",
-      "summary_zh": "船只和直升机正在搜寻因遭遇恶劣天气而在 Virgo Transport 8 号船上失踪的人员。"
+      "title_zh": "宾夕法尼亚州妇女死于麻疹并发症，这是该州今年第三例死亡"
     },
     {
-      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
-      "link": "",
-      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
+      "title": "Hormuz, Houthis and pipeline strikes: Saudi Arabia’s list of big problems is growing",
+      "link": "https://www.nbcnews.com/world/saudi-arabia/hormuz-houthis-pipeline-strikes-saudi-arabias-list-big-problems-growin-rcna597361",
+      "summary": "",
       "published": "",
-      "title_zh": "一些牙医说越来越多的年轻人磨牙——你是其中之一吗？",
-      "summary_zh": "我们中有数百万人这样做，尽管很少有人意识到我们这样做 - 但获得正确的治疗可以改变生活。"
+      "title_zh": "霍尔木兹、胡塞武装和管道袭击：沙特阿拉伯的重大问题清单越来越长"
     },
     {
-      "title": "Five night sky events to look out for this autumn",
-      "link": "",
-      "summary": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
+      "title": "Why are Americans so tired so often? New CDC report highlights who is feeling it most",
+      "link": "https://www.nbcnews.com/health/mental-health/fatigue-symptoms-adults-women-cdc-report-rcna596827",
+      "summary": "",
       "published": "",
-      "title_zh": "今年秋天值得关注的五个夜空事件",
-      "summary_zh": "从流星雨到十一月的超级月亮，秋季夜空中有许多令人印象深刻的景象。"
+      "title_zh": "为什么美国人经常感到疲倦？疾病预防控制中心的新报告强调了谁感受最深"
     },
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "title": "There’s a major flaw in the Protect College Sports Act, athlete advocates say",
+      "link": "https://www.nbcnews.com/sports/ncaa/s-major-flaw-protect-college-sports-act-athlete-advocates-say-rcna596921",
+      "summary": "",
       "published": "",
-      "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-      "summary_zh": "这一呼吁发出之际，人们越来越担心人工智能模型可能会在全球范围内造成严重损害。"
+      "title_zh": "运动员倡导者称，《保护大学体育法》存在重大缺陷"
     },
     {
-      "title": "Ryan Garcia crushes overmatched Conor Benn in two rounds to defend WBC welterweight title",
-      "link": "",
-      "summary": "Ryan Garcia crushed Briton Conor Benn with a ruthless second-round stoppage to retain his WBC welterweight crown in a world title mismatch in Las Vegas.",
+      "title": "Celine Dion makes triumphant return in Paris after six years sidelined by rare diagnosis",
+      "link": "https://www.nbcnews.com/pop-culture/music/celine-dion-triumphant-return-paris-rare-condition-rcna597461",
+      "summary": "",
       "published": "",
-      "title_zh": "瑞安·加西亚（Ryan Garcia）两回合击败康纳·本（Conor Benn）卫冕WBC次中量级冠军",
-      "summary_zh": "瑞安·加西亚 (Ryan Garcia) 在第二轮比赛中以残酷的绝杀击败了英国人康纳·本 (Conor Benn)，在拉斯维加斯的一场世界冠军争夺战中卫冕了 WBC 次中量级冠军。"
+      "title_zh": "席琳·迪翁因罕见诊断缺席六年后在巴黎凯旋归来"
     },
     {
-      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-      "link": "",
-      "summary": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
-      "published": "",
-      "title_zh": "瑟尔沃尔的报告会改变关于露西·莱比的争论吗？",
-      "summary_zh": "对这位前护士的调查预计会发现她所在的医院未能确保患者安全。"
-    },
-    {
-      "title": "Premier League: Coventry bidding for first points as they host Brighton",
-      "link": "",
-      "summary": "Listen to BBC Radio 5 Live commentary and follow live text commentary, score updates and match stats as Coventry City take on Brighton & Hove Albion in the Premier League.",
-      "published": "",
-      "title_zh": "英超联赛：考文垂主场迎战布莱顿，争取首分",
-      "summary_zh": "收听 BBC 广播 5 台直播评论并关注考文垂城在英超联赛中迎战布莱顿的实时文字评论、比分更新和比赛统计数据。"
-    },
-    {
-      "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
-      "link": "",
-      "summary": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
-      "published": "",
-      "title_zh": "固定v流体——马雷斯卡和卡里克的相反方法",
-      "summary_zh": "恩佐·马雷斯卡和迈克尔·卡里克将在周日的曼彻斯特德比中正面交锋，他们的球队设置截然不同。"
-    },
-    {
-      "title": "WSL: Liverpool Tottenham and Brighton play after Chelsea thrash Man Utd",
-      "link": "",
-      "summary": "Follow live text updates of three games in the Women's Super League and watch Arsenal against Crystal Palace from 14:45 BST.",
-      "published": "",
-      "title_zh": "WSL：切尔西击败曼联后，利物浦托特纳姆热刺队和布莱顿队进行比赛",
-      "summary_zh": "关注女子超级联赛三场比赛的实时文字更新，并从英国夏令时 14:45 观看阿森纳对阵水晶宫的比赛。"
-    },
-    {
-      "title": "Solheim Cup: Hull wins first point with Europe dominating decisive singles",
-      "link": "",
-      "summary": "Listen to BBC Radio 5 Sports Extra commentary from the third day of the Solheim Cup at Bernardus Golf Club in Cromvoirt, Netherlands.",
-      "published": "",
-      "title_zh": "索尔海姆杯：赫尔城夺得首分，欧洲队主宰决定性单打",
-      "summary_zh": "在荷兰克罗姆沃特的贝尔纳杜斯高尔夫俱乐部收听索尔海姆杯第三天的 BBC 广播电台 5 体育额外评论。"
-    },
-    {
-      "title": "Scottish League Cup: Rangers overwhelm Celtic in quarter-final - draw coming up",
-      "link": "",
-      "summary": "Listen to Sportsound and follow live text commentary, score updates and match report from Rangers vs Celtic in the Premier Sports Cup.",
-      "published": "",
-      "title_zh": "苏格兰联赛杯：流浪者队在四分之一决赛中击败凯尔特人队 - 抽签即将进行",
-      "summary_zh": "收听 Sportsound 并关注英超体育杯流浪者队与凯尔特人队的实时文字评论、比分更新和比赛报告。"
-    },
-    {
-      "title": "HAPPENING NOW: President Trump attends Irish Open in Ireland",
+      "title": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "现在发生的事情：特朗普总统出席在爱尔兰举行的爱尔兰公开赛"
+      "title_zh": "特朗普告诉泽伦斯基在袭击俄罗斯期间停止做“一件事”"
     },
     {
-      "title": "GOP women sound alarm as Lindsay Clancy backlash revives calls to repeal 19th Amendment",
+      "title": "Female passenger undresses on flight, engages in 'indecent acts,' crew says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "GOP women sound alarm as Lindsay Clancy backlash revives calls to repeal 19th Amendment"
+      "title_zh": "机组人员称女乘客在飞机上脱衣服有“不雅行为”"
     },
     {
-      "title": "Texas stuns Ohio State after erasing 20-point deficit in unforgettable comeback",
+      "title": "Actor flees his 'failed' home state, calls it ‘literally and figuratively on fire’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "得克萨斯州队在令人难忘的逆转中消除了 20 分的落后，击败了俄亥俄州立大学"
+      "title_zh": "演员逃离了他“失败”的家乡，称其“名副其实地着火”"
     },
     {
-      "title": "No microwaves, hand-cracked eggs power Southern upstart past every major rival",
+      "title": "Beloved country singer dies at 56, leaving behind wife, six children",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "没有微波炉，手打鸡蛋让南方新贵超越了所有主要竞争对手"
+      "title_zh": "深受喜爱的乡村歌手去世，享年 56 岁，留下妻子和六个孩子"
     },
     {
-      "title": "The $70M movie Warner wanted gone is proving Hollywood wrong",
+      "title": "Steve Sarkisian's brief ESPN postgame answer after epic win divides the internet",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "华纳想要的价值 7000 万美元的电影被证明好莱坞是错误的"
+      "title_zh": "史蒂夫·萨基西安 (Steve Sarkisian) 在史诗般的胜利后对 ESPN 赛后的简短回答在互联网上引起了分歧"
     },
     {
-      "title": "American greatness, unity are at stake as Clark and Reese face calls to start World Cup",
+      "title": "Jesus' crucifixion account may get new context from ring misread for years",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克拉克和里斯面临世界杯开赛呼吁，美国的伟大和团结都受到威胁"
+      "title_zh": "多年来对戒指的误读，耶稣受难的叙述可能会得到新的背景"
     },
     {
-      "title": "Nike may have made one costly mistake: ticking off female shoppers",
+      "title": "Caitlin Clark's impact on World Cup prompts surprising statement by FIBA chief",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "耐克可能犯了一个代价高昂的错误：激怒女性购物者"
+      "title_zh": "凯特琳·克拉克对世界杯的影响促使国际篮联主席发表令人惊讶的声明"
     },
     {
-      "title": "Iran says one person killed after unknown projectile slams ship in strategic strait",
+      "title": "Popular weight-loss drugs linked to severe vitamin deficiency that can damage the brain",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗称不明弹丸在战略海峡击中船只造成一人死亡"
+      "title_zh": "流行的减肥药与严重维生素缺乏有关，维生素缺乏会损害大脑"
     },
     {
-      "title": "Suburban killer's execution puts a vulnerable profession on high alert",
+      "title": "GOP women sound alarm as Clancy backlash revives calls to repeal 19th Amendment",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "郊区杀手的处决使脆弱的职业处于高度戒备状态"
+      "title_zh": "克兰西的强烈反对再次呼吁废除第十九修正案，共和党女性发出警报"
     },
     {
-      "title": "192 House Democrats voted against condemning socialism and the fallout is just starting",
+      "title": "Trump announcement on Irish whiskey tariffs sends crowd into a frenzy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "192 名众议院民主党人投票反对谴责社会主义，其后果才刚刚开始"
+      "title_zh": "特朗普宣布对爱尔兰威士忌征收关税令人群陷入疯狂"
     },
     {
-      "title": "Zachary Levi says California is 'literally and figuratively on fire' after Texas move",
+      "title": "Trump's rapid response calls liberal journalist a 'sick, deluded freak'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "扎卡里·莱维 (Zachary Levi) 表示，德克萨斯州搬迁后，加州“名副其实地着火”"
+      "title_zh": "特朗普的快速反应称自由派记者是“病态的、受骗的怪胎”"
     },
     {
-      "title": "Democrat sparks outrage after calling for violence against Trump supporters",
+      "title": "Police respond to Wisconsin lake where GOP candidate swam from submerging plane",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党呼吁对特朗普支持者使用暴力后引发愤怒"
+      "title_zh": "警方对威斯康星州湖区做出反应，共和党候选人从淹没的飞机中游出"
     },
     {
-      "title": "GOP governor candidate swims from sinking plane after emergency lake landing",
+      "title": "Yemeni citizens describe 'hysterical panic' as Iran-backed Houthis advance",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党州长候选人紧急迫降湖面后从沉没的飞机中游出"
+      "title_zh": "也门民众形容伊朗支持的胡塞武装推进时“歇斯底里的恐慌”"
     },
     {
-      "title": "Bessent dared the bond market to ‘bet against’ him. It did — and it appears to be winning.",
-      "link": "https://www.nbcnews.com/business/markets/bessent-bond-traders-bet-rcna597044",
+      "title": "Arrest cuts against Dem story on death of Black woman found hanging in South",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贝森特敢于让债券市场“对赌”他。它确实做到了——而且它似乎正在获胜。"
+      "title_zh": "民主党关于黑人妇女在南方被发现上吊死亡的报道遭到逮捕"
     },
     {
-      "title": "Thirst traps for democracy: Content creators go risqué to recruit people to work the polls",
-      "link": "https://www.nbcnews.com/tech/internet/influencers-content-creators-poll-workers-risque-rcna597004",
+      "title": "Angry cruise passengers clash over ‘rude’ luggage habit that divides travelers",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "对民主的渴求陷阱：内容创作者冒失地招募人员参与投票"
+      "title_zh": "愤怒的邮轮乘客因“粗鲁”的行李习惯发生冲突，导致旅客分裂"
     },
     {
-      "title": "A tale of two new bridges as North Korea balances deeper ties with China and Russia",
-      "link": "https://www.nbcnews.com/world/north-korea/north-korea-new-bridges-china-russia-kim-jong-un-economy-war-rcna597180",
+      "title": "Embattled Browns QB throws interception mere five snaps into 2026 season",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "朝鲜平衡与中国和俄罗斯更深层次关系时的两座新桥梁的故事"
+      "title_zh": "陷入困境的布朗队四分卫在 2026 赛季开场仅五次就被拦截"
     },
     {
-      "title": "Benny Blanco opens up about failure, success, music and marriage",
-      "link": "https://www.nbcnews.com/video/benny-blanco-opens-up-about-failure-success-music-and-marriage-269740613827",
+      "title": "These 5 versions of the Apple AirPods are all on sale right now — starting at just $99",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "本尼·布兰科畅谈失败、成功、音乐和婚姻"
+      "title_zh": "这 5 个版本的 Apple AirPods 现已全部发售 - 起价仅为 99 美元"
+    },
+    {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "published": "",
+      "title_zh": "特朗普以与中国竞争为由淡化人工智能风险警告",
+      "summary_zh": "美国总统表示，“负面力量”正在表达对“不会发生的事情”的担忧。"
+    },
+    {
+      "title": "Meghan shares glimpse of family life after Sussexes return to UK",
+      "link": "",
+      "summary": "It's the first time the Duchess of Sussex had posted her family on her Instagram grid since they return to the UK last month.",
+      "published": "",
+      "title_zh": "梅根分享苏塞克斯夫妇返回英国后的家庭生活",
+      "summary_zh": "这是苏塞克斯公爵夫人自上个月返回英国以来第一次在 Instagram 上发布家人的动态。"
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "published": "",
+      "title_zh": "人们对人工智能“减速”会是什么样子提出了越来越多的疑问",
+      "summary_zh": "虽然加快人工智能开发速度听起来像是一个快速解决方案，但它远非一个简单的解决方案。"
+    },
+    {
+      "title": "US secretly flew London embassy staffer out of country over child abuse image allegations",
+      "link": "",
+      "summary": "The individual worked at the US embassy in Vauxhall, south London, had diplomatic protection, despite not being a diplomat.",
+      "published": "",
+      "title_zh": "美国因虐待儿童形象指控秘密将伦敦大使馆工作人员接机出境",
+      "summary_zh": "此人在伦敦南部沃克斯豪尔的美国大使馆工作，尽管不是外交官，但仍受到外交保护。"
+    },
+    {
+      "title": "US Open final: Zverev leads Shelton by break in first set - listen & follow",
+      "link": "",
+      "summary": "Alexander Zverev bids for his second Grand Slam of the year as Ben Shelton looks to end America's long wait for a men's singles champion in the US Open final - follow live.",
+      "published": "",
+      "title_zh": "美国公开赛决赛：兹维列夫首盘破发领先谢尔顿 - 聆听并关注",
+      "summary_zh": "亚历山大·兹维列夫 (Alexander Zverev) 力争今年第二个大满贯，而本·谢尔顿 (Ben Shelton) 则希望结束美国队对美网决赛男单冠军的漫长等待 - 敬请关注。"
+    },
+    {
+      "title": "From struggling to walk to lifting trophy - how Rybakina triumphed at US Open",
+      "link": "",
+      "summary": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one.",
+      "published": "",
+      "title_zh": "从艰难行走到举起奖杯——雷巴基娜如何在美国公开赛上获胜",
+      "summary_zh": "埃琳娜·瑞巴基娜 (Elena Rybakina) 抵达纽约后，脚部受伤，无法正常行走。她作为美国公开赛冠军和新的世界第一离开了这座城市。"
+    },
+    {
+      "title": "Europe must endure winter of hardship to keep pressure on Putin, UK PM's security adviser says",
+      "link": "",
+      "summary": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
+      "published": "",
+      "title_zh": "英国首相安全顾问表示，欧洲必须经历艰难的冬天才能对普京施加压力",
+      "summary_zh": "乔纳森·鲍威尔在罕见的公开讲话中表示，现在还不是欧洲国家“放松警惕”的时候。"
+    },
+    {
+      "title": "Boks power & All Blacks of old - what did we learn from series?",
+      "link": "",
+      "summary": "What did we learn from South Africa's Rugby's Greatest Rivalry series victory over New Zealand?",
+      "published": "",
+      "title_zh": "Boks power 和老牌全黑队 - 我们从系列赛中学到了什么？",
+      "summary_zh": "我们从南非橄榄球最伟大对抗系列赛战胜新西兰学到了什么？"
+    },
+    {
+      "title": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
+      "link": "",
+      "summary": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at Ibrox.",
+      "published": "",
+      "title_zh": "McInnes 在《Old Firm gobsmacker》中展现了团结和强度",
+      "summary_zh": "BBC 苏格兰首席体育记者汤姆·英格利希 (Tom English) 分析了流浪者队在埃布罗克斯球场以令人信服的方式击败老牌球队凯尔特人队的比赛。"
     }
   ]
 }
