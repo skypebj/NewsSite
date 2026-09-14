@@ -1,6 +1,6 @@
 {
   "date": "20260914",
-  "total": 32,
+  "total": 35,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -16,7 +16,7 @@
     },
     "nbcnews": {
       "status": "ok",
-      "entries": 8
+      "entries": 0
     },
     "fox": {
       "status": "ok",
@@ -33,238 +33,261 @@
   },
   "entries": [
     {
-      "title": "WNBA fumes after NASCAR star states the obvious about Sophie Cunningham",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "link": "",
+      "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "published": "",
+      "title_zh": "山洪暴发中断半程马拉松，淹没汽车",
+      "summary_zh": "纽约、新泽西和康涅狄格州部分地区遭遇山洪暴发，导致水上救援、驾车者被困以及半程马拉松运动员与洪水作斗争。"
+    },
+    {
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "link": "",
+      "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "published": "",
+      "title_zh": "调查人员发现，移民被关在佛罗里达州“鳄鱼恶魔岛”的小型户外笼子里",
+      "summary_zh": "国土安全部检查人员表示，他们发现移民拘留中心违反了卫生、医疗、食品和安全的基本标准。"
+    },
+    {
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "link": "",
+      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "published": "",
+      "title_zh": "野狗长途跋涉2500英里穿越赞比亚寻找伴侣",
+      "summary_zh": "科学家表示，三兄弟破纪录的旅程为野生动物在日益增长的压力下生存带来了希望。"
+    },
+    {
+      "title": "TV's biggest stars to walk red carpet ahead of 78th Emmy Awards",
+      "link": "",
+      "summary": "US medical drama The Pitt and comedy Hacks lead the nominations for this year's Primetime Emmy Awards.",
+      "published": "",
+      "title_zh": "电视巨星在第 78 届艾美奖颁奖典礼前走红毯",
+      "summary_zh": "美国医疗剧《皮特》和喜剧《黑客》在今年黄金时段艾美奖提名中领跑。"
+    },
+    {
+      "title": "Left in the dark - will fans ever get to hear live VAR audio?",
+      "link": "",
+      "summary": "VAR is nearly 10 years old, and yet the game is still a long way off being allowed to broadcast the audio live to supporters.",
+      "published": "",
+      "title_zh": "被蒙在鼓里——球迷们能听到现场VAR音频吗？",
+      "summary_zh": "VAR已经有近10年历史了，但距离允许向支持者现场直播比赛还有很长的路要走。"
+    },
+    {
+      "title": "Valve's Steam Frame is excellent - but at over $1,000 is VR still too expensive?",
+      "link": "",
+      "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
+      "published": "",
+      "title_zh": "Valve 的 Steam Frame 非常出色，但 1,000 多美元的 VR 是否仍然太贵了？",
+      "summary_zh": "BBC 的 Tom Gerken 正在亲身体验最新的虚拟现实耳机。"
+    },
+    {
+      "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+      "link": "",
+      "summary": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
+      "published": "",
+      "title_zh": "麦克莫尔在“自由巴勒斯坦”演讲后退出艾德·希兰巡演",
+      "summary_zh": "这位美国说唱歌手在发表批评以色列的言论后遭到犹太团体的谴责。"
+    },
+    {
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "link": "",
+      "summary": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "published": "",
+      "title_zh": "Hyrox 为运动员弄脏后允许比赛继续进行而道歉",
+      "summary_zh": "一些人对卫生问题提出了担忧，而另一些人则赞扬了参赛者完成比赛并克服逆境的决心。"
+    },
+    {
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "link": "",
+      "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+      "published": "",
+      "title_zh": "马来西亚男孩因精神错乱谋杀女学生被判无罪",
+      "summary_zh": "近一年前，这名 16 岁少年被杀震惊了马来西亚，并引发了社交媒体的争论。"
+    },
+    {
+      "title": "UK PM Burnham cancels engagements after death of father",
+      "link": "",
+      "summary": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+      "published": "",
+      "title_zh": "英国首相伯纳姆在父亲去世后取消活动",
+      "summary_zh": "伯纳姆此前曾表示，他的父亲并不知道他因患有阿尔茨海默氏症而成为总理。"
+    },
+    {
+      "title": "Oasis return confirmed as band announces second leg of reunion tour",
+      "link": "",
+      "summary": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
+      "published": "",
+      "title_zh": "绿洲回归确认，乐队宣布重聚巡演第二站",
+      "summary_zh": "经过数周的预告后，乐队宣布了他们的热门重聚巡演的第二波演出。"
+    },
+    {
+      "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
+      "link": "",
+      "summary": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
+      "published": "",
+      "title_zh": "“这就是体育界女性的样子”——亨特带头回应斯威尼广告",
+      "summary_zh": "英国短跑运动员艾米·亨特是众多女运动员之一，他们批评女演员西德尼·斯威尼主演的有争议的博彩广告。"
+    },
+    {
+      "title": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-rejects-ai-guardrails-rcna597700",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普称人工智能不需要护栏，只需要“高智商”总统"
+    },
+    {
+      "title": "Macklemore says he was dropped from Ed Sheeran tour after Robert Kraft organized boycott",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/macklemore-says-was-dropped-ed-sheeran-tour-patriots-owner-robert-kraf-rcna597736",
+      "summary": "",
+      "published": "",
+      "title_zh": "麦克莫尔表示，在罗伯特·克拉夫特组织抵制后，他被从艾德·希兰巡演中除名"
+    },
+    {
+      "title": "Bob Mackie, legendary designer who dressed Cher and Diana Ross, dies at 87",
+      "link": "https://www.nbcnews.com/news/obituaries/bob-mackie-dead-87-legendary-fashion-designer-cher-diana-ross-dies-rcna597730",
+      "summary": "",
+      "published": "",
+      "title_zh": "为 Cher 和 Diana Ross 设计服装的传奇设计师 Bob Mackie 去世，享年 87 岁"
+    },
+    {
+      "title": "How Ukraine’s futuristic war could get ‘much worse,’ according to ex-Google CEO",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-russia-drone-war-eric-schmidt-google-rcna597661",
+      "summary": "",
+      "published": "",
+      "title_zh": "谷歌前首席执行官表示，乌克兰的未来战争可能会变得“更加糟糕”"
+    },
+    {
+      "title": "Man pleads not guilty, denied bond for charges in Tasia Fortune’s murder",
+      "link": "https://www.nbcnews.com/news/us-news/man-pleads-not-guilty-denied-bond-charges-tasia-fortunes-murder-rcna597669",
+      "summary": "",
+      "published": "",
+      "title_zh": "男子不认罪，但因塔西亚·福琼谋杀案的指控被拒绝保释"
+    },
+    {
+      "title": "Proof of citizenship at the ballot box could happen without a single Democrat vote",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纳斯卡明星说出关于索菲·坎宁安的明显事实后，WNBA 感到愤怒"
+      "title_zh": "无需民主党投票即可在投票箱中提供公民身份证明"
     },
     {
-      "title": "Trump lashes out at 'sick conspiracy' as AI's biggest names sound the alarm",
+      "title": "White House leaves online lefty crying foul after leveling him for attack on female aide",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "人工智能巨头敲响警钟，特朗普猛烈抨击“病态阴谋”"
+      "title_zh": "白宫因左撇子袭击女助手而在网上大喊犯规"
     },
     {
-      "title": "NFL star's celebration gets flagged and may have handed the Eagles a win",
+      "title": "NASCAR star says quiet part out loud about Sophie Cunningham",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 球星的庆祝动作被标记，可能为老鹰队带来了一场胜利"
+      "title_zh": "纳斯卡明星大声说出关于索菲·坎宁安的安静部分"
     },
     {
-      "title": "Woman receives devastating diagnosis after ignoring ‘normal’ symptoms",
+      "title": "Johnson signals imminent White House showdown with AI giants over responsibility",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "妇女在忽视“正常”症状后收到毁灭性的诊断"
+      "title_zh": "约翰逊暗示白宫即将与人工智能巨头就责任问题摊牌"
     },
     {
-      "title": "Caitlin Clark makes clear how she feels about Angel Reese after World Cup victory",
+      "title": "Iran-backed Houthis build multibillion-dollar network despite US sanctions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 在世界杯获胜后明确表达了她对安吉尔·里斯 (Angel Reese) 的感受"
+      "title_zh": "尽管美国制裁，伊朗支持的胡塞武装仍建立了数十亿美元的网络"
     },
     {
-      "title": "Islam convention attendees surprised by El-Sayed's stance on LGBTQ issues",
+      "title": "Manson follower dies in prison at 83, one of cult leader's so-called top lieutenants",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊斯兰大会与会者对埃尔赛义德在 LGBTQ 问题上的立场感到惊讶"
+      "title_zh": "曼森追随者在狱中去世，享年 83 岁，是邪教领袖的所谓高级副手之一"
     },
     {
-      "title": "Trump responds to China allegedly assisting Iran before  deadly attack on US troops",
+      "title": "NFL star's costly celebration prompts eyebrow-raising response from his quarterback",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普回应中国涉嫌在美军遭致命袭击前协助伊朗"
+      "title_zh": "NFL 球星昂贵的庆祝动作引发了四分卫的惊讶反应"
     },
     {
-      "title": "Dark discovery from legendary leader's reign reveals soldiers’ remains in wells, pits",
+      "title": "Danny DeVito reveals 'crudité and cocaine' fueled legendary 'Taxi' bashes",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "传奇领袖统治时期的黑暗发现揭示了井坑中士兵的遗骸"
+      "title_zh": "丹尼·德维托透露“生菜和可卡因”助长了传奇的“出租车”狂欢"
     },
     {
-      "title": "PayPal pioneer drops $40M to crush socialist wave sweeping key state races",
+      "title": "Winner forces organization to look at protocols after she soils herself during race",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "PayPal先驱斥资4000万美元镇压席卷关键州竞选的社会主义浪潮"
+      "title_zh": "获胜者在比赛中弄脏自己后迫使组织查看协议"
     },
     {
-      "title": "Super Bowl champion coach admits he was 'quitting' until wife hit him with reality check",
+      "title": "WATCH LIVE:Rep Al Green holds press conference after triggering Trump impeachment resolution",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "超级碗冠军教练承认他正在“退出”，直到妻子用现实检验来打击他"
+      "title_zh": "观看直播：众议员艾尔·格林在触发特朗普弹劾决议后召开新闻发布会"
     },
     {
-      "title": "Taylor Sheridan stuns viewers with unbelievably brutal gunfight scene",
+      "title": "Left-wing outlet attacks Jennifer Sey, XX-XY Athletics for defending women’s sports",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒·谢里丹以令人难以置信的残酷枪战场面震惊观众"
+      "title_zh": "左翼媒体攻击 XX-XY Athletics 的 Jennifer Sey 捍卫女子运动"
     },
     {
-      "title": "Family weeps hearing 'he's alive' as rescuers pull Alaska youth from icy waters",
+      "title": "Kaepernick says his mom misunderstood his 'blackness' by asking him to date Taylor Swift",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "当救援人员将阿拉斯加年轻人从冰冷的水域中救出时，家人听到“他还活着”而哭泣"
+      "title_zh": "卡佩尼克表示，他的妈妈要求他与泰勒·斯威夫特约会，从而误解了他的“黑人身份”"
     },
     {
-      "title": "Europe's savage bus taunt has Team USA wishing they'd skipped the Saturday beer",
+      "title": "Voters share what they think about the 'Trump dividend' after president's controversial pledge",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "欧洲的野蛮巴士嘲讽让美国队希望他们没有参加周六的啤酒"
+      "title_zh": "在总统做出有争议的承诺后，选民们分享了他们对“特朗普红利”的看法"
     },
     {
-      "title": "Older Americans reveal their go-to casual dining chain as one restaurant stands out",
+      "title": "Maher warns California voters will 'accept failure' over ditching Democrats",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一家餐厅脱颖而出，年长的美国人透露了他们常去的休闲餐饮连锁店"
+      "title_zh": "马赫警告加州选民将“接受失败”抛弃民主党"
     },
     {
-      "title": "Dire warnings about AI shock Congress, but action is unlikely before the election",
-      "link": "https://www.nbcnews.com/politics/congress/warnings-ai-danger-congress-action-unlikely-election-rcna597230",
+      "title": "Trump foe Al Green to force House-wide vote on impeaching Trump this week",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "关于人工智能的可怕警告震惊了国会，但在大选前不太可能采取行动"
+      "title_zh": "特朗普的敌人艾尔·格林本周将迫使众议院就弹劾特朗普进行投票"
     },
     {
-      "title": "China dismisses AI slowdown calls and blasts ‘fearmongering’ from U.S. tech leaders",
-      "link": "https://www.nbcnews.com/world/china/china-ai-slowdown-trump-amodei-altman-threat-cold-war-rcna597631",
+      "title": "Legendary Hollywood designer Bob Mackie's cause of death revealed",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中国驳回人工智能放缓的呼吁，并谴责美国科技领导人的“危言耸听”"
+      "title_zh": "好莱坞传奇设计师鲍勃·麦基的死因揭晓"
     },
     {
-      "title": "10-year Treasury yield tops 5% as oil surges and diesel hits all-time high",
-      "link": "https://www.nbcnews.com/business/business-news/diesel-oil-prices-jump-saudi-pipeline-shut-hormuz-talks-postponed-iran-rcna597579",
+      "title": "Friend's pistol saves pinned moose scout in a terrifying Alaska wilderness ordeal",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "油价飙升、柴油创历史新高 10年期国债收益率突破5%"
+      "title_zh": "在可怕的阿拉斯加荒野考验中，朋友的手枪拯救了被困的驼鹿侦察兵"
     },
     {
-      "title": "DHS watchdog finds immigrants held at ‘Alligator Alcatraz’ in outdoor cages the size of phone booths",
-      "link": "https://www.nbcnews.com/politics/national-security/dhs-watchdog-immigrants-held-outdoor-cages-size-phone-booths-alligator-rcna593917",
+      "title": "Talarico instantly names favorite TX drag queen, a performer who ‘works with children’",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "国土安全部监管机构发现移民被关押在电话亭大小的户外笼子里"
-    },
-    {
-      "title": "A new NFL season is here. Defenses, beware?",
-      "link": "https://www.nbcnews.com/sports/nfl/nfl-offenses-week-1-baltimore-ravens-chicago-bears-minnesota-vikings-rcna597626",
-      "summary": "",
-      "published": "",
-      "title_zh": "新的 NFL 赛季即将到来。防御，要小心吗？"
-    },
-    {
-      "title": "Second federal judge freezes Trump mail ballot order with Supreme Court poised to weigh in",
-      "link": "https://www.nbcnews.com/politics/2026-election/second-federal-judge-freezes-trump-mail-ballot-order-supreme-court-rcna597633",
-      "summary": "",
-      "published": "",
-      "title_zh": "第二位联邦法官冻结特朗普邮寄选票令，最高法院准备介入"
-    },
-    {
-      "title": "Elena Rybakina, the world’s No. 1 tennis player, shares her secret to being calm",
-      "link": "https://www.nbcnews.com/sports/tennis/elena-rybakina-worlds-no-1-tennis-player-shares-secret-calm-rcna597614",
-      "summary": "",
-      "published": "",
-      "title_zh": "世界排名第一的网球运动员埃琳娜·瑞巴基娜 (Elena Rybakina) 分享她保持冷静的秘诀"
-    },
-    {
-      "title": "The 2026 Emmys air tonight. Here’s what to expect, how to watch and who’s hosting.",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/emmys-2026-time-host-how-watch-streaming-channel-rcna597317",
-      "summary": "",
-      "published": "",
-      "title_zh": "2026 年艾美奖今晚播出。以下是您所期待的内容、观看方式以及主持人。"
-    },
-    {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "link": "",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "published": "",
-      "title_zh": "中国批评其在人工智能方面存在“恶意竞争”的观点",
-      "summary_zh": "在此之前，Anthropic 首席执行官呼吁放慢人工智能的发展，但这样做会阻碍中国在竞争中取得领先。"
-    },
-    {
-      "title": "London musical cancelled after Ariana Grande and Jonathan Bailey pull out",
-      "link": "",
-      "summary": "Sunday in the Park With George was supposed to make its debut next year at the Barbican.",
-      "published": "",
-      "title_zh": "爱莉安娜·格兰德 (Ariana Grande) 和乔纳森·贝利 (Jonathan Bailey) 退出后，伦敦音乐剧取消",
-      "summary_zh": "《周日公园与乔治》原定于明年在巴比肯艺术中心首次亮相。"
-    },
-    {
-      "title": "Watch: Could Russian strike on train mark an escalation?",
-      "link": "",
-      "summary": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
-      "published": "",
-      "title_zh": "观看：俄罗斯对火车的袭击是否会标志着升级？",
-      "summary_zh": "鲍里斯·约翰逊和欧洲高级官员离开该地区后不久，一架俄罗斯无人机撞上了火车，没有造成人员伤亡的报道。"
-    },
-    {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "",
-      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "published": "",
-      "title_zh": "鲍里斯·约翰逊和欧洲高级官员离开车站后不久，俄罗斯撞上了乌克兰火车",
-      "summary_zh": "这位前英国首相表示：“我不知道是什么扭曲的逻辑促使普京今天早上炸毁了波兰边境上一辆静止的乌克兰机车”。"
-    },
-    {
-      "title": "Athletes tell Sydney Sweeney 'this is what women in sport look like' after controversial ad",
-      "link": "",
-      "summary": "British sprinter Amy Hunt is among the female athletes who have criticised the controversial betting advert.",
-      "published": "",
-      "title_zh": "在有争议的广告后，运动员告诉西德尼·斯威尼“这就是体育界女性的样子”",
-      "summary_zh": "英国短跑运动员艾米·亨特是批评这则有争议的博彩广告的女运动员之一。"
-    },
-    {
-      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-      "link": "",
-      "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
-      "published": "",
-      "title_zh": "为什么人们担心人工智能可能威胁人类？这种担心有多真实？",
-      "summary_zh": "对人工智能的生存恐惧再次浮现——这是你需要知道的。"
-    },
-    {
-      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-      "link": "",
-      "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
-      "published": "",
-      "title_zh": "炭疽导致数十只动物死亡，赞比亚人警告不要食用死去的野生动物",
-      "summary_zh": "至少有 12 人因食用野生动物尸体上受炭疽感染的肉而正在接受治疗。"
-    },
-    {
-      "title": "Amazon pauses work with cargo firm after fatal crash",
-      "link": "",
-      "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
-      "published": "",
-      "title_zh": "致命事故后亚马逊暂停与货运公司的合作",
-      "summary_zh": "这架 21 Air 运营的喷气式飞机在迈阿密国际机场冲出跑道，撞上了几辆车。"
-    },
-    {
-      "title": "Farage says £72m Reform donations legal 'today' as government seeks to change law",
-      "link": "",
-      "summary": "Asked if the donations would still be allowed if the law changed, the Reform leader tells the BBC: \"Retrospectively declaring donations illegal – that simply cannot be.\"",
-      "published": "",
-      "title_zh": "法拉奇表示，随着政府寻求修改法律，7200万英镑的改革捐款“今天”合法",
-      "summary_zh": "当被问及如果法律改变是否仍允许捐款时，这位改革领导人告诉英国广播公司：“追溯性地宣布捐款非法——这根本不可能。”"
-    },
-    {
-      "title": "Familiar questions for Man Utd, now Carrick must find answers",
-      "link": "",
-      "summary": "After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick.",
-      "published": "",
-      "title_zh": "曼联熟悉的问题，现在卡里克必须找到答案",
-      "summary_zh": "在四场英超比赛取得一场胜利后，曼联和主教练迈克尔·卡里克面临的问题越来越多。"
+      "title_zh": "塔拉里科立即提名最受欢迎的德克萨斯州变装皇后，一位“与孩子们一起工作”的表演者"
     }
   ]
 }
