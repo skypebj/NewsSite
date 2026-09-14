@@ -16,7 +16,7 @@
     },
     "nbcnews": {
       "status": "ok",
-      "entries": 0
+      "entries": 8
     },
     "fox": {
       "status": "ok",
@@ -33,244 +33,238 @@
   },
   "entries": [
     {
-      "title": "Their coach wants to break the NFL’s single-season scoring record. So far, so good.",
-      "link": "https://www.nbcnews.com/sports/nfl/chicago-bears-carolina-panthers-caleb-williams-ben-johnson-nfl-results-rcna597167",
+      "title": "WNBA fumes after NASCAR star states the obvious about Sophie Cunningham",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "他们的教练想要打破 NFL 的单赛季得分记录。到目前为止，一切都很好。"
+      "title_zh": "纳斯卡明星说出关于索菲·坎宁安的明显事实后，WNBA 感到愤怒"
     },
     {
-      "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran",
-      "link": "https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-jet-was-shot-down-iran-rcna597585",
+      "title": "Trump lashes out at 'sick conspiracy' as AI's biggest names sound the alarm",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "空军军官回忆飞机在伊朗上空被击落后“自由落体”"
+      "title_zh": "人工智能巨头敲响警钟，特朗普猛烈抨击“病态阴谋”"
     },
     {
-      "title": "Giants’ offense rolls over the Cowboys to give coach John Harbaugh a 28-20 win in his debut",
-      "link": "https://www.nbcnews.com/sports/nfl/giants-cowboys-result-nfl-jim-harbaugh-rcna597623",
+      "title": "NFL star's celebration gets flagged and may have handed the Eagles a win",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "巨人队的进攻碾压牛仔队，主帅约翰·哈博 (John Harbaugh) 在他的首秀中以 28-20 获胜"
+      "title_zh": "NFL 球星的庆祝动作被标记，可能为老鹰队带来了一场胜利"
     },
     {
-      "title": "Texas Republicans call out railroad commissioner candidate over racist post",
-      "link": "https://www.nbcnews.com/politics/elections/texas-republicans-call-railroad-commissioner-candidate-racist-social-m-rcna597581",
+      "title": "Woman receives devastating diagnosis after ignoring ‘normal’ symptoms",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "德克萨斯州共和党人因种族主义职位而呼吁铁路专员候选人"
+      "title_zh": "妇女在忽视“正常”症状后收到毁灭性的诊断"
     },
     {
-      "title": "Amazon suspends use of 21 Air, cargo carrier involved in fatal Miami crash",
-      "link": "https://www.nbcnews.com/news/us-news/amazon-suspends-use-21-air-cargo-carrier-involved-fatal-miami-crash-rcna597593",
+      "title": "Caitlin Clark makes clear how she feels about Angel Reese after World Cup victory",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "亚马逊暂停使用参与迈阿密致命空难的 21 Air 货运公司"
+      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 在世界杯获胜后明确表达了她对安吉尔·里斯 (Angel Reese) 的感受"
     },
     {
-      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "title": "Islam convention attendees surprised by El-Sayed's stance on LGBTQ issues",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊斯兰大会与会者对埃尔赛义德在 LGBTQ 问题上的立场感到惊讶"
+    },
+    {
+      "title": "Trump responds to China allegedly assisting Iran before  deadly attack on US troops",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普回应中国涉嫌在美军遭致命袭击前协助伊朗"
+    },
+    {
+      "title": "Dark discovery from legendary leader's reign reveals soldiers’ remains in wells, pits",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "传奇领袖统治时期的黑暗发现揭示了井坑中士兵的遗骸"
+    },
+    {
+      "title": "PayPal pioneer drops $40M to crush socialist wave sweeping key state races",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "PayPal先驱斥资4000万美元镇压席卷关键州竞选的社会主义浪潮"
+    },
+    {
+      "title": "Super Bowl champion coach admits he was 'quitting' until wife hit him with reality check",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "超级碗冠军教练承认他正在“退出”，直到妻子用现实检验来打击他"
+    },
+    {
+      "title": "Taylor Sheridan stuns viewers with unbelievably brutal gunfight scene",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒·谢里丹以令人难以置信的残酷枪战场面震惊观众"
+    },
+    {
+      "title": "Family weeps hearing 'he's alive' as rescuers pull Alaska youth from icy waters",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "当救援人员将阿拉斯加年轻人从冰冷的水域中救出时，家人听到“他还活着”而哭泣"
+    },
+    {
+      "title": "Europe's savage bus taunt has Team USA wishing they'd skipped the Saturday beer",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "欧洲的野蛮巴士嘲讽让美国队希望他们没有参加周六的啤酒"
+    },
+    {
+      "title": "Older Americans reveal their go-to casual dining chain as one restaurant stands out",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "一家餐厅脱颖而出，年长的美国人透露了他们常去的休闲餐饮连锁店"
+    },
+    {
+      "title": "Dire warnings about AI shock Congress, but action is unlikely before the election",
+      "link": "https://www.nbcnews.com/politics/congress/warnings-ai-danger-congress-action-unlikely-election-rcna597230",
+      "summary": "",
+      "published": "",
+      "title_zh": "关于人工智能的可怕警告震惊了国会，但在大选前不太可能采取行动"
+    },
+    {
+      "title": "China dismisses AI slowdown calls and blasts ‘fearmongering’ from U.S. tech leaders",
+      "link": "https://www.nbcnews.com/world/china/china-ai-slowdown-trump-amodei-altman-threat-cold-war-rcna597631",
+      "summary": "",
+      "published": "",
+      "title_zh": "中国驳回人工智能放缓的呼吁，并谴责美国科技领导人的“危言耸听”"
+    },
+    {
+      "title": "10-year Treasury yield tops 5% as oil surges and diesel hits all-time high",
+      "link": "https://www.nbcnews.com/business/business-news/diesel-oil-prices-jump-saudi-pipeline-shut-hormuz-talks-postponed-iran-rcna597579",
+      "summary": "",
+      "published": "",
+      "title_zh": "油价飙升、柴油创历史新高 10年期国债收益率突破5%"
+    },
+    {
+      "title": "DHS watchdog finds immigrants held at ‘Alligator Alcatraz’ in outdoor cages the size of phone booths",
+      "link": "https://www.nbcnews.com/politics/national-security/dhs-watchdog-immigrants-held-outdoor-cages-size-phone-booths-alligator-rcna593917",
+      "summary": "",
+      "published": "",
+      "title_zh": "国土安全部监管机构发现移民被关押在电话亭大小的户外笼子里"
+    },
+    {
+      "title": "A new NFL season is here. Defenses, beware?",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-offenses-week-1-baltimore-ravens-chicago-bears-minnesota-vikings-rcna597626",
+      "summary": "",
+      "published": "",
+      "title_zh": "新的 NFL 赛季即将到来。防御，要小心吗？"
+    },
+    {
+      "title": "Second federal judge freezes Trump mail ballot order with Supreme Court poised to weigh in",
+      "link": "https://www.nbcnews.com/politics/2026-election/second-federal-judge-freezes-trump-mail-ballot-order-supreme-court-rcna597633",
+      "summary": "",
+      "published": "",
+      "title_zh": "第二位联邦法官冻结特朗普邮寄选票令，最高法院准备介入"
+    },
+    {
+      "title": "Elena Rybakina, the world’s No. 1 tennis player, shares her secret to being calm",
+      "link": "https://www.nbcnews.com/sports/tennis/elena-rybakina-worlds-no-1-tennis-player-shares-secret-calm-rcna597614",
+      "summary": "",
+      "published": "",
+      "title_zh": "世界排名第一的网球运动员埃琳娜·瑞巴基娜 (Elena Rybakina) 分享她保持冷静的秘诀"
+    },
+    {
+      "title": "The 2026 Emmys air tonight. Here’s what to expect, how to watch and who’s hosting.",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/emmys-2026-time-host-how-watch-streaming-channel-rcna597317",
+      "summary": "",
+      "published": "",
+      "title_zh": "2026 年艾美奖今晚播出。以下是您所期待的内容、观看方式以及主持人。"
+    },
+    {
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "link": "",
+      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "published": "",
+      "title_zh": "中国批评其在人工智能方面存在“恶意竞争”的观点",
+      "summary_zh": "在此之前，Anthropic 首席执行官呼吁放慢人工智能的发展，但这样做会阻碍中国在竞争中取得领先。"
+    },
+    {
+      "title": "London musical cancelled after Ariana Grande and Jonathan Bailey pull out",
+      "link": "",
+      "summary": "Sunday in the Park With George was supposed to make its debut next year at the Barbican.",
+      "published": "",
+      "title_zh": "爱莉安娜·格兰德 (Ariana Grande) 和乔纳森·贝利 (Jonathan Bailey) 退出后，伦敦音乐剧取消",
+      "summary_zh": "《周日公园与乔治》原定于明年在巴比肯艺术中心首次亮相。"
+    },
+    {
+      "title": "Watch: Could Russian strike on train mark an escalation?",
       "link": "",
       "summary": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
       "published": "",
-      "title_zh": "观看：为什么俄罗斯对乌克兰-波兰边境附近火车的袭击可能标志着事态升级",
+      "title_zh": "观看：俄罗斯对火车的袭击是否会标志着升级？",
       "summary_zh": "鲍里斯·约翰逊和欧洲高级官员离开该地区后不久，一架俄罗斯无人机撞上了火车，没有造成人员伤亡的报道。"
     },
     {
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "",
-      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "published": "",
-      "title_zh": "瑞典左翼集团以微弱优势领先，大选势均力敌",
-      "summary_zh": "瑞典选举当局的部分计票结果预计，左翼反对派集团将赢得三个席位的多数席位。"
+      "title_zh": "鲍里斯·约翰逊和欧洲高级官员离开车站后不久，俄罗斯撞上了乌克兰火车",
+      "summary_zh": "这位前英国首相表示：“我不知道是什么扭曲的逻辑促使普京今天早上炸毁了波兰边境上一辆静止的乌克兰机车”。"
     },
     {
-      "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
+      "title": "Athletes tell Sydney Sweeney 'this is what women in sport look like' after controversial ad",
       "link": "",
-      "summary": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet.",
+      "summary": "British sprinter Amy Hunt is among the female athletes who have criticised the controversial betting advert.",
       "published": "",
-      "title_zh": "皮特有望获得 25 项艾美奖 - 但该剧最大的粉丝是现实生活中的医生",
-      "summary_zh": "医学界人士表示，HBO Max 讲述美国医院急诊室的节目是迄今为止最真实的医疗剧。"
+      "title_zh": "在有争议的广告后，运动员告诉西德尼·斯威尼“这就是体育界女性的样子”",
+      "summary_zh": "英国短跑运动员艾米·亨特是批评这则有争议的博彩广告的女运动员之一。"
     },
     {
-      "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
       "link": "",
-      "summary": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.",
+      "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
       "published": "",
-      "title_zh": "为什么新一波朝鲜士兵可能会参加俄罗斯在乌克兰的战争",
-      "summary_zh": "英国广播公司 (BBC) 的昆汀·萨默维尔 (Quentin Sommerville) 写道，朝鲜将继续派遣士兵参加俄罗斯战争，但前提是这样做有利可图。"
+      "title_zh": "为什么人们担心人工智能可能威胁人类？这种担心有多真实？",
+      "summary_zh": "对人工智能的生存恐惧再次浮现——这是你需要知道的。"
     },
     {
-      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
       "link": "",
-      "summary": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+      "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
       "published": "",
-      "title_zh": "喜马拉雅山融化速度加快，印度经济“面临风险”",
-      "summary_zh": "一份新报告警告说，喜马拉雅冰川融化速度加快，威胁着印度的水、经济和社区。"
+      "title_zh": "炭疽导致数十只动物死亡，赞比亚人警告不要食用死去的野生动物",
+      "summary_zh": "至少有 12 人因食用野生动物尸体上受炭疽感染的肉而正在接受治疗。"
     },
     {
-      "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
+      "title": "Amazon pauses work with cargo firm after fatal crash",
       "link": "",
-      "summary": "While Carney has ruled out EU membership, the Canadian leader says he wants to pursue a \"unique alliance\" with Brussels.",
+      "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
       "published": "",
-      "title_zh": "随着与美国的贸易战加剧，卡尼着眼于与欧盟建立“独特联盟”",
-      "summary_zh": "虽然卡尼排除了加入欧盟的可能性，但这位加拿大领导人表示，他希望与布鲁塞尔建立“独特的联盟”。"
+      "title_zh": "致命事故后亚马逊暂停与货运公司的合作",
+      "summary_zh": "这架 21 Air 运营的喷气式飞机在迈阿密国际机场冲出跑道，撞上了几辆车。"
     },
     {
-      "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+      "title": "Farage says £72m Reform donations legal 'today' as government seeks to change law",
       "link": "",
-      "summary": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
+      "summary": "Asked if the donations would still be allowed if the law changed, the Reform leader tells the BBC: \"Retrospectively declaring donations illegal – that simply cannot be.\"",
       "published": "",
-      "title_zh": "艾美奖：如何观看、谁获得提名以及为何缺少激烈的竞争",
-      "summary_zh": "牛肉明星奥斯卡·伊萨克和凯瑞·穆里根是在洛杉矶举行的颁奖典礼上的提名者之一。"
+      "title_zh": "法拉奇表示，随着政府寻求修改法律，7200万英镑的改革捐款“今天”合法",
+      "summary_zh": "当被问及如果法律改变是否仍允许捐款时，这位改革领导人告诉英国广播公司：“追溯性地宣布捐款非法——这根本不可能。”"
     },
     {
-      "title": "Why I'm doing a September reset and how you can create a new routine",
+      "title": "Familiar questions for Man Utd, now Carrick must find answers",
       "link": "",
-      "summary": "It's the month when many of us embark on a new chapter so here's how to start strong and keep the good habits.",
+      "summary": "After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick.",
       "published": "",
-      "title_zh": "为什么我要进行九月重置以及如何创建新的例行公事",
-      "summary_zh": "这是我们许多人开启新篇章的月份，因此以下是如何坚强开始并保持良好习惯的方法。"
-    },
-    {
-      "title": "Carney gambles on the world's biggest investors betting on Canada",
-      "link": "",
-      "summary": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
-      "published": "",
-      "title_zh": "卡尼押注全球最大投资者押注加拿大",
-      "summary_zh": "在与美国的贸易战期间，总理利用他在全球金融领域的人脉，邀请一些世界上最大的投资者来到加拿大。"
-    },
-    {
-      "title": "I had 11 years of chemotherapy for a cancer I didn't have",
-      "link": "",
-      "summary": "Becky Jones is among more than 40 people taking legal action against a hospital trust.",
-      "published": "",
-      "title_zh": "我为自己没有患过的癌症接受了 11 年的化疗",
-      "summary_zh": "贝基·琼斯 (Becky Jones) 是对一家医院信托基金采取法律行动的 40 多人之一。"
-    },
-    {
-      "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
-      "link": "",
-      "summary": "A collection of historic, forgotten items have been found during the restoration of the London royal residence.",
-      "published": "",
-      "title_zh": "白金汉宫的工作揭示了可追溯到 1800 年代的日常物品宝库",
-      "summary_zh": "在修复伦敦王室住所期间，发现了一系列被遗忘的历史物品。"
-    },
-    {
-      "title": "UK committee calls for bill to address AI threat to human rights",
-      "link": "",
-      "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
-      "published": "",
-      "title_zh": "英国委员会呼吁通过法案解决人工智能对人权的威胁",
-      "summary_zh": "由国会议员和同行组成的跨党派小组发现了现有法律似乎未涵盖的人权风险。"
-    },
-    {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "link": "",
-      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "published": "",
-      "title_zh": "特朗普表示，结束为期两天的访问后，他将取消所有爱尔兰威士忌关税",
-      "summary_zh": "在爱尔兰共和国蒸馏的威士忌面临 15% 的标准关税，适用于进入美国的欧盟商品。"
-    },
-    {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "link": "",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "published": "",
-      "title_zh": "土耳其警方突袭同性恋酒吧和 LGBTQ+ 活动人士的住所，拘留了数十人",
-      "summary_zh": "土耳其的人权组织指责政府利用家庭价值观运动来针对 LGBTQ+ 群体。"
-    },
-    {
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "link": "",
-      "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
-      "published": "",
-      "title_zh": "加拿大传奇拳击手乔治·丘瓦洛去世，享年 89 岁",
-      "summary_zh": "这位重量级冠军与穆罕默德·阿里和乔·弗雷泽等人较量，并以从未被击倒或击倒而闻名。"
-    },
-    {
-      "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
-      "link": "",
-      "summary": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game.",
-      "published": "",
-      "title_zh": "墨菲：智慧和韧性是马雷斯卡曼城获胜的关键",
-      "summary_zh": "每日比赛评论员丹尼·墨菲解释了曼城如何在老特拉福德击败曼联，尽管比赛大部分时间只有 10 人上阵。"
-    },
-    {
-      "title": "Trump weighs in on China spying following report on deadly Iran strike",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗致命袭击事件报道后，特朗普对中国间谍活动发表评论"
-    },
-    {
-      "title": "Ex-Pentagon official warns rebels just walked into a 'kill box' on seized island",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前五角大楼官员警告叛军刚刚走进被占领岛屿的“杀戮箱”"
-    },
-    {
-      "title": "Helmet flies off and a chilling involuntary response follows brutal two-hit sequence",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "头盔飞落，残酷的两次打击后出现令人不寒而栗的无意识反应"
-    },
-    {
-      "title": "Accused NC killers meet violent end in crash after multistate manhunt",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "被指控的北卡罗来纳州杀手在多州追捕后在车祸中遭遇暴力结局"
-    },
-    {
-      "title": "High school football coach arrested after students make troubling campus discovery",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "学生发现令人不安的校园事件后，高中橄榄球教练被捕"
-    },
-    {
-      "title": "Air Force colonel shot down over Iran reveals desperate prayer in fight to survive",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在伊朗被击落的空军上校透露为生存而绝望的祈祷"
-    },
-    {
-      "title": "Giants honor 9/11 heroes before emotional Sunday Night Football opener against Cowboys",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "巨人队在激动人心的周日晚间橄榄球揭幕战对阵牛仔队之前向 9/11 英雄致敬"
-    },
-    {
-      "title": "Pink slams Macklemore over pro-Palestinian comments",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "平克猛烈抨击麦克莫尔的亲巴勒斯坦言论"
-    },
-    {
-      "title": "Sinister 'Cat in the Hat' trend puts schools nationwide on alert as police hunt copycats",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "险恶的“戴帽子的猫”趋势让全国学校处于戒备状态，警方追捕模仿者"
-    },
-    {
-      "title": "Maryland dad blamed 'Satan' after 2-month-old daughter died from horrific head trauma",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "马里兰州两个月大女儿死于可怕的头部创伤后，父亲指责“撒旦”"
-    },
-    {
-      "title": "Cowboys flagged after linebacker blasts Giants QB out of bounds, brawl erupts",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "线卫将巨人队四分卫轰出界外，牛仔队陷入斗殴"
+      "title_zh": "曼联熟悉的问题，现在卡里克必须找到答案",
+      "summary_zh": "在四场英超比赛取得一场胜利后，曼联和主教练迈克尔·卡里克面临的问题越来越多。"
     }
   ]
 }
