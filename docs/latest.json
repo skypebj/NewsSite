@@ -1,6 +1,6 @@
 {
   "date": "20260915",
-  "total": 43,
+  "total": 34,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,321 +33,254 @@
   },
   "entries": [
     {
-      "title": "Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet",
+      "title": "US ally vows retaliation after Iran-backed terror group launches attacks in three cities",
       "link": "",
-      "summary": "Celebrities walked a blue version of the traditional red carpet ahead of the primetime show honouring the best shows in US television.",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：赛琳娜·戈麦斯、赞达亚等明星点亮艾美奖红毯",
-      "summary_zh": "在表彰美国电视最佳节目的黄金时段节目之前，名人们走上了传统红地毯的蓝色版本。"
+      "title_zh": "伊朗支持的恐怖组织对三个城市发动袭击后，美国盟友誓言进行报复"
     },
     {
-      "title": "Why cash continues to thrive even as India's digital payments grow",
+      "title": "Supreme Court justices shred 'Hail Mary' challenge to federal ballot mail rules",
       "link": "",
-      "summary": "Digital payments are booming, yet cash remains deeply embedded in the economy in India, central bank data shows.",
+      "summary": "",
       "published": "",
-      "title_zh": "为什么即使印度数字支付不断增长，现金仍继续蓬勃发展",
-      "summary_zh": "央行数据显示，数字支付正在蓬勃发展，但现金仍然深深植根于印度经济中。"
+      "title_zh": "最高法院法官驳回了对联邦选票邮寄规则的“万福玛丽”挑战"
     },
     {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "title": "Popular steakhouse chain responds after employee takes video of disturbing conditions",
       "link": "",
-      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普表示人工智能安全担心是“骗局”，因为他拒绝了加强保障措施的呼吁",
-      "summary_zh": "在美国总统发表上述言论之前，Anthropic 联合创始人杰克·克拉克 (Jack Clark) 告诉 BBC，人工智能“终止开关”可能需要是强制性的。"
+      "title_zh": "受欢迎的牛排连锁店在员工拍摄令人不安的情况的视频后做出回应"
     },
     {
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "title": "Dem-run city has very different story one year after Trump sent in reinforcements",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普派出援军一年后，民主党管理的城市发生了截然不同的故事"
+    },
+    {
+      "title": "Costco hikes price on popular item — and limits how much shoppers can buy",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Costco 提高热门商品的价格，并限制购物者的购买数量"
+    },
+    {
+      "title": "Former coach sounds alarm over Nike-linked program's definition of 'girls'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前教练对耐克相关项目对“女孩”的定义发出警告"
+    },
+    {
+      "title": "Trump warns of ‘hoax’ in surprise call to tech CEO during major summit",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在重大峰会期间突然致电科技公司首席执行官，警告“骗局”"
+    },
+    {
+      "title": "Taxpayer-funded exhibit labels first president 'town destroyer,' accuses US of genocide",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "纳税人资助的展览将第一任总统称为“城镇破坏者”，指责美国种族灭绝"
+    },
+    {
+      "title": "WATCH LIVE:FBI Director Kash Patel confronts lawmakers in high-profile oversight hearing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看直播：联邦调查局局长卡什·帕特尔在备受瞩目的监督听证会上与立法者对峙"
+    },
+    {
+      "title": "NATO jets blast suspected explosive-laden intruder in historic Baltic first",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "北约战机首次在波罗的海历史性地击落疑似携带爆炸物的入侵者"
+    },
+    {
+      "title": "Gracie Hunt shares heartfelt message to Chiefs fans ahead of season kickoff",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "格雷西·亨特在赛季开始前向酋长队球迷分享衷心的信息"
+    },
+    {
+      "title": "FBI arrests Pennsylvania man accused of plotting violent ISIS attack with rifle",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦调查局 (FBI) 逮捕了宾夕法尼亚州一名男子，该男子被控策划用步枪策划暴力 ISIS 袭击"
+    },
+    {
+      "title": "Denver lost a stunner after a secret aging QB plan quietly unraveled",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "丹佛在一项秘密的老化四分卫计划悄然揭晓后失去了一个令人震惊的人"
+    },
+    {
+      "title": "Trump's latest midterm 'publicity stunt' is getting a reality check from voters",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普最新的中期“宣传噱头”正在接受选民的现实检验"
+    },
+    {
+      "title": "Internet unleashes fury on Ohio Dem after parroting debunked claim against White people",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在重复针对白人的被揭穿的指控后，互联网引发了对俄亥俄州民主党的愤怒"
+    },
+    {
+      "title": "Lawmakers host ‘Pro-Human’ event to address bipartisan AI fears",
+      "link": "https://www.nbcnews.com/news/politics-blog-rcna597886",
+      "summary": "",
+      "published": "",
+      "title_zh": "立法者举办“亲人类”活动，以解决两党对人工智能的担忧"
+    },
+    {
+      "title": "If guardrails burst the AI bubble, we could all feel the pain",
+      "link": "https://www.nbcnews.com/business/economy/guardrails-burst-ai-bubble-amodei-trump-rcna597664",
+      "summary": "",
+      "published": "",
+      "title_zh": "如果护栏刺破了人工智能泡沫，我们都能感受到痛苦"
+    },
+    {
+      "title": "FBI Director Kash Patel testifies at Senate hearing",
+      "link": "https://www.nbcnews.com/news/kash-patel-hearing-rcna597908",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦调查局局长卡什·帕特尔在参议院听证会上作证"
+    },
+    {
+      "title": "The Data Dive: Steve Kornacki on the Texas voters giving Democrats hope",
+      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-kornacki-texas-voters-giving-democrats-hope-rcna597822",
+      "summary": "",
+      "published": "",
+      "title_zh": "数据潜水：史蒂夫·科纳基 (Steve Kornacki) 谈德克萨斯州选民给民主党带来希望"
+    },
+    {
+      "title": "More than a half-billion dollars pours into the battle for the House — mostly in just 15 districts",
+      "link": "https://www.nbcnews.com/politics/2026-election/half-billion-dollars-pours-battle-house-mostly-just-15-districts-rcna597080",
+      "summary": "",
+      "published": "",
+      "title_zh": "超过 5 亿美元投入众议院争夺战——大部分集中在 15 个选区"
+    },
+    {
+      "title": "Putin-linked Russian oligarch paid for Donald Trump Jr.’s lavish island wedding party",
+      "link": "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-russian-oligarch-umar-kremlev-ties-putin-wedding-celeb-rcna597735",
+      "summary": "",
+      "published": "",
+      "title_zh": "与普京有联系的俄罗斯寡头为小唐纳德·特朗普的奢华岛屿婚礼提供了资金"
+    },
+    {
+      "title": "Harry and Meghan change their children’s school over security concerns",
+      "link": "https://www.nbcnews.com/world/united-kingdom/harry-meghan-children-change-schools-security-concerns-archie-lilibet-rcna597862",
+      "summary": "",
+      "published": "",
+      "title_zh": "出于安全考虑，哈里和梅根改变了孩子的学校"
+    },
+    {
+      "title": "AI regulation faces political deadlock as calls grow for US Congress to act",
       "link": "",
       "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
       "published": "",
-      "title_zh": "随着要求国会采取行动的呼声越来越高，人工智能监管面临政治僵局",
+      "title_zh": "随着要求美国国会采取行动的呼声越来越高，人工智能监管面临政治僵局",
       "summary_zh": "由于特朗普的反对和国会的分歧，尽管压力越来越大，新的人工智能安全立法不太可能很快通过。"
     },
     {
-      "title": "China tightens travel restrictions for citizens",
+      "title": "US confirms for first time it has deployed space weapons",
       "link": "",
-      "summary": "Observers say the new rules will further tighten the Chinese government's control over its citizens.",
+      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
       "published": "",
-      "title_zh": "中国收紧公民旅行限制",
-      "summary_zh": "观察人士表示，新规定将进一步加强中国政府对其公民的控制。"
+      "title_zh": "美国首次确认部署太空武器",
+      "summary_zh": "美国空军部长表示，这些武器是保卫国家免受敌人行动所必需的。"
     },
     {
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "title": "Hospital where killer nurse Lucy Letby worked could have prevented some baby deaths, inquiry finds",
       "link": "",
-      "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+      "summary": "Lady Justice Thirlwall's inquiry finds there was a \"complete failure to protect babies\" at the Countess of Chester Hospital.",
       "published": "",
-      "title_zh": "最高法院阻止特朗普限制邮寄选票的计划",
-      "summary_zh": "特朗普政府已要求法院解除联邦法官对邮寄选票新规则的临时阻止。"
+      "title_zh": "调查发现，杀手护士露西·莱比工作的医院本可以避免一些婴儿死亡",
+      "summary_zh": "瑟尔沃尔法官的调查发现，切斯特伯爵夫人医院“完全未能保护婴儿”。"
     },
     {
-      "title": "Mitch McConnell returns to Senate after three-month absence",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
       "link": "",
-      "summary": "The Republican senator, absent since June, has faced questions about transparency around his health.",
+      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
       "published": "",
-      "title_zh": "米奇·麦康奈尔缺席三个月后重返参议院",
-      "summary_zh": "这位共和党参议员自六月以来一直缺席，他的健康状况一直面临着透明度问题。"
+      "title_zh": "威尔士演员马修·里斯双夺艾美奖历史",
+      "summary_zh": "他成为第一个在著名的电视颁奖典礼上在一晚内获得两项男主角奖的人。"
     },
     {
-      "title": "Emmys 2026: The winners and nominees in full",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
       "link": "",
-      "summary": "Zendaya, Noah Wyle, Sarah Snook and Colman Domingo are among the stars nominated for acting prizes.",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
       "published": "",
-      "title_zh": "2026 年艾美奖：获奖者和提名者完整名单",
-      "summary_zh": "赞达亚、诺亚·怀尔、莎拉·斯努克和科尔曼·多明戈都是获得表演奖提名的明星。"
+      "title_zh": "丹麦称俄罗斯军舰向军用直升机发射照明弹",
+      "summary_zh": "丹麦首相指责俄罗斯“鲁莽”行为，而克里姆林宫尚未发表评论。"
     },
     {
-      "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
+      "title": "Home Alone and Schitt's Creek stars pay tribute to late Catherine O'Hara",
       "link": "",
-      "summary": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar.",
+      "summary": "Tributes were also paid at the Emmy Awards to Dolly Parton, James Van Der Beek and Tim Curry.",
       "published": "",
-      "title_zh": "图片中：洛杉矶艾美奖红地毯上的明星",
-      "summary_zh": "最新热门电视节目的明星们将在美国电视日历上最盛大的夜晚亮相。"
+      "title_zh": "《小鬼当家》和《Schitt's Creek》明星向已故的凯瑟琳·奥哈拉致敬",
+      "summary_zh": "艾美奖颁奖典礼上还向多莉·帕顿、詹姆斯·范德比克和蒂姆·库里致敬。"
     },
     {
-      "title": "Watch: ‘Great’ or ‘alarming’ - Should AI be reined in?",
+      "title": "Superstars and broken records: 2026 Emmy highlights",
+      "link": "",
+      "summary": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
+      "published": "",
+      "title_zh": "超级巨星和打破的记录：2026 年艾美奖亮点",
+      "summary_zh": "第 78 届黄金时段艾美奖颁奖典礼由《法律与秩序》明星玛莉丝卡·哈吉塔在洛杉矶孔雀剧院主持。"
+    },
+    {
+      "title": "Memorable moments from the Emmys and everything you couldn't see on TV",
+      "link": "",
+      "summary": "Backstage, the winners continued the celebrations off-screen and addressed some of the ceremony's most viral moments.",
+      "published": "",
+      "title_zh": "艾美奖的难忘时刻以及您在电视上看不到的一切",
+      "summary_zh": "在后台，获奖者们在银幕外继续庆祝活动，并讲述了颁奖典礼上一些最热门的时刻。"
+    },
+    {
+      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
       "link": "",
       "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
       "published": "",
-      "title_zh": "观看：“伟大”还是“令人震惊”——人工智能应该受到控制吗？",
+      "title_zh": "“伟大”还是“令人震惊”——人工智能应该受到控制吗？",
       "summary_zh": "英国广播公司向华盛顿特区的人们询问了该技术的快速发展以及它是否像一些专家警告的那样对人类构成威胁。"
     },
     {
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
       "link": "",
-      "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+      "summary": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles.",
       "published": "",
-      "title_zh": "我得到了 5,000 美元的报酬，搬到了一个我从未听说过的地方",
-      "summary_zh": "搬迁计划为那些想要离开大城市过上更便宜、更安静的生活的人们提供支持。"
+      "title_zh": "从玛丽莲·梦露到萨布丽娜·卡彭特 - 鲍勃·麦基的图片设计",
+      "summary_zh": "碧昂丝、雪儿、埃尔顿·约翰和麦莉·赛勒斯都曾穿过 Mackie 的闪亮套装。"
     },
     {
-      "title": "Watch: Why Harry and Meghan's security in the UK to be reviewed",
+      "title": "Indian police detain driver who hit female biker in viral video",
       "link": "",
-      "summary": "The Duke and Duchess of Sussex are going to be given a review of their publicly-funded security after their return to live in the UK.",
+      "summary": "The incident has sparked a broader discussion about the harassment and hostility faced by female motorcyclists.",
       "published": "",
-      "title_zh": "观看：为什么哈利和梅根在英国的安全要受到审查",
-      "summary_zh": "苏塞克斯公爵和公爵夫人返回英国生活后，将对其公共资助的安全进行审查。"
+      "title_zh": "印度警方拘留了视频中殴打女骑手的司机",
+      "summary_zh": "这一事件引发了关于女性摩托车手所面临的骚扰和敌意的更广泛讨论。"
     },
     {
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "title": "US drinks giant completes purchase of viral Au Vodka brand for £300m",
       "link": "",
-      "summary": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "summary": "International spirits brand Sazerac has completed its purchase of Au Vodka for a reported £300m",
       "published": "",
-      "title_zh": "以色列部长威胁要取消加沙纪录片制片人的公民身份",
-      "summary_zh": "影片指责以色列军队在加沙大规模屠杀平民，以色列官员表示这可能构成叛国罪。"
-    },
-    {
-      "title": "Farage says £72m donations to Reform Party are compliant 'with the law today'",
-      "link": "",
-      "summary": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
-      "published": "",
-      "title_zh": "法拉奇表示，向改革党捐赠的 7200 万英镑符合“当今的法律”",
-      "summary_zh": "部长们正在寻求将英国侨民的捐款年度上限设定为 10 万英镑，这一上限可追溯到 2026 年 3 月 25 日。"
-    },
-    {
-      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-      "link": "",
-      "summary": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-      "published": "",
-      "title_zh": "小唐纳德·特朗普和贝蒂娜·特朗普表示，普京盟友支付了一些婚礼庆祝活动的费用作为“礼物”",
-      "summary_zh": "这对夫妇在 Instagram 上发布的帖子称，他们在巴哈马举行的两个晚上的婚礼庆祝活动的部分费用是由奥马尔·克雷姆列夫 (Umar Kremlev) 资助的。"
-    },
-    {
-      "title": "Mass nesting brings swarms of turtles to Mexican beach",
-      "link": "",
-      "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
-      "published": "",
-      "title_zh": "大规模筑巢将成群的海龟带到墨西哥海滩",
-      "summary_zh": "保护区官员称，48 小时内，数千只海龟抵达瓦哈卡州的拉埃斯科比拉海滩。"
-    },
-    {
-      "title": "Ex-Dem insider exposes what Harris told top donors days before Biden dropped out",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前民主党内部人士揭露了哈里斯在拜登退出前几天对顶级捐助者所说的话"
-    },
-    {
-      "title": "House passes bill that could radically change how millions of Americans deal with cash",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "众议院通过法案可能从根本上改变数百万美国人处理现金的方式"
-    },
-    {
-      "title": "Supreme Court blocks Trump mail-ballot rules from taking effect before midterms",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "最高法院阻止特朗普邮寄选票规则在中期选举前生效"
-    },
-    {
-      "title": "Zohran Mamdani drops stunning claim as New York launches new Trump lawsuit",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着纽约发起新的特朗普诉讼，佐兰·马姆达尼 (Zohran Mamdani) 放弃了令人震惊的指控"
-    },
-    {
-      "title": "Georgia mayor, 23, ousted 10 months after making history as state’s youngest mayor",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "佐治亚州23岁市长在创造该州最年轻市长历史10个月后被罢黜"
-    },
-    {
-      "title": "Michael J. Fox greeted with standing ovation for his moving speech at Emmys",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "迈克尔·J·福克斯在艾美奖上的感人演讲赢得全场起立鼓掌"
-    },
-    {
-      "title": "Inside the ‘Trojan horse’ networks Congress says US adversaries use to subvert America",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "国会称美国对手利用“特洛伊木马”网络颠覆美国"
-    },
-    {
-      "title": "Eight NFL venues revolt and send pro-Palestinian opener packing from remaining dates",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "八个 NFL 场馆发生骚乱，亲巴勒斯坦的揭幕战剩余日期被打包"
-    },
-    {
-      "title": "Anthropic whistleblower reveals what he fears most about artificial intelligence",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "人类告密者揭示了他对人工智能最担心的事情"
-    },
-    {
-      "title": "Reba McEntire takes the stage to sing Dolly Parton's classic song at Emmys",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "瑞芭·麦肯泰尔在艾美奖颁奖典礼上登台演唱多莉·帕顿的经典歌曲"
-    },
-    {
-      "title": "Dozens missing after ferry sinks in rough seas as officials probe possible negligence",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "渡轮在波涛汹涌的大海中沉没，数十人失踪，官员调查可能存在疏忽"
-    },
-    {
-      "title": "Tyrus meets the stunning reptile known for taking down rattlesnakes",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "泰勒斯遇见了以击倒响尾蛇而闻名的令人惊叹的爬行动物"
-    },
-    {
-      "title": "GREG GUTFELD:This will follow them everywhere",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "GREG GUTFELD：这将跟随他们到任何地方"
-    },
-    {
-      "title": "Female athletes get riled up over provocative Sydney Sweeney sports ad",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "悉尼·斯威尼 (Sydney Sweeney) 的挑衅性体育广告激怒了女运动员"
-    },
-    {
-      "title": "Common bedroom mistake could be quietly taking a toll on your health, experts say",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "专家称，常见的卧室错误可能会悄悄损害您的健康"
-    },
-    {
-      "title": "Costco shoppers hit with motor oil price hike and new purchase limits",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Costco 购物者因机油价格上涨和新的购买限制而受到打击"
-    },
-    {
-      "title": "Mahomes rushes for a TD on his first drive back and the NFL should be scared",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "马霍姆斯在第一次反击中就冲向达阵，NFL应该感到害怕"
-    },
-    {
-      "title": "California gov makes shocking 2028 decision that hangs on whether Harris enters race",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "加州政府做出令人震惊的 2028 年决定，这取决于哈里斯是否参加竞选"
-    },
-    {
-      "title": "Supreme Court says Trump can’t enforce new mail-in ballot regulation",
-      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-trump-cannot-enforce-new-mail-ballot-regulation-rcna596088",
-      "summary": "",
-      "published": "",
-      "title_zh": "最高法院称特朗普无法执行新的邮寄选票规定"
-    },
-    {
-      "title": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit",
-      "link": "https://www.nbcnews.com/politics/donald-trump/nvidia-ceo-jensen-huang-ai-speakerphone-all-hands-meeting-rcna597761",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普致电 Nvidia 首席执行官谈论人工智能，并在行业峰会期间被接通免提电话"
-    },
-    {
-      "title": "AI CEOs want to ‘pace’ the industry. That may not mean slowing down.",
-      "link": "https://www.nbcnews.com/tech/tech-news/ai-ceo-pace-industry-slow-not-mean-dario-amodei-chatgpt-anthropic-rcna597205",
-      "summary": "",
-      "published": "",
-      "title_zh": "人工智能首席执行官希望引领行业“步伐”。这可能并不意味着放慢速度。"
-    },
-    {
-      "title": "‘Widow’s Bay’ caps triumphant Emmy Awards night with best comedy win",
-      "link": "https://www.nbcnews.com/pop-culture/awards/emmys-2026-live-updates-red-carpet-fashion-watch-mariska-hargitay-host-rcna597805",
-      "summary": "",
-      "published": "",
-      "title_zh": "《寡妇湾》荣获最佳喜剧奖，为艾美奖之夜画上圆满句号"
-    },
-    {
-      "title": "See the best looks of the night",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/red-carpet-emmys-photos-looks-2026-rcna597760",
-      "summary": "",
-      "published": "",
-      "title_zh": "欣赏当晚最美的造型"
-    },
-    {
-      "title": "Mitch McConnell returns to the Senate after three-month absence",
-      "link": "https://www.nbcnews.com/politics/congress/mitch-mcconnell-returns-senate-three-month-absence-rcna597815",
-      "summary": "",
-      "published": "",
-      "title_zh": "米奇·麦康奈尔缺席三个月后重返参议院"
-    },
-    {
-      "title": "EPA to repeal limits on greenhouse gas emissions from power plants",
-      "link": "https://www.nbcnews.com/science/climate-change/epa-repeals-limits-emissions-power-plants-rcna597741",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国环保局将废除发电厂温室气体排放限制"
-    },
-    {
-      "title": "Gavin Newsom says he won’t run for president in 2028 if Kamala Harris does",
-      "link": "https://www.nbcnews.com/politics/2028-election/gavin-newsom-says-wont-run-2028-kamala-harris-rcna597825",
-      "summary": "",
-      "published": "",
-      "title_zh": "加文·纽瑟姆 (Gavin Newsom) 表示，如果卡马拉·哈里斯 (Kamala Harris) 竞选 2028 年总统，他将不会竞选"
-    },
-    {
-      "title": "Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions",
-      "link": "https://www.nbcnews.com/politics/national-security/pentagon-watchdog-says-iran-war-led-munitions-shortfall-rcna597019",
-      "summary": "",
-      "published": "",
-      "title_zh": "五角大楼监察长称伊朗战争导致美国弹药短缺"
+      "title_zh": "美国饮料巨头以 3 亿英镑完成对热门品牌 Au Vodka 的收购",
+      "summary_zh": "国际烈酒品牌 Sazerac 已完成对 Au Vodka 的收购，据报道价值 3 亿英镑"
     }
   ]
 }
