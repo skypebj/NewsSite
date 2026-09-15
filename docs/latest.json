@@ -1,6 +1,6 @@
 {
   "date": "20260915",
-  "total": 34,
+  "total": 44,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,254 +33,327 @@
   },
   "entries": [
     {
-      "title": "US ally vows retaliation after Iran-backed terror group launches attacks in three cities",
+      "title": "Supreme Court pushes back against Trump and GOP ahead of the midterm elections",
+      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-pushes-back-trump-gop-ahead-midterm-elections-rcna595375",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院在中期选举前反对特朗普和共和党"
+    },
+    {
+      "title": "Trump’s handpicked Kennedy Center board again votes to close venue, calling it ‘unsafe’",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trumps-handpicked-kennedy-center-board-votes-close-venue-renovations-rcna597921",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普亲自挑选的肯尼迪中心董事会再次投票决定关闭场地，称其“不安全”"
+    },
+    {
+      "title": "Iran war driving up inflation for Americans, CBO report says",
+      "link": "https://www.nbcnews.com/politics/national-security/iran-war-driving-inflation-americans-cbo-report-says-rcna597978",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国国会预算办公室报告称，伊朗战争推高美国人通胀"
+    },
+    {
+      "title": "Ed Sheeran addresses Macklemore’s tour exit amid Robert Kraft boycott claims",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/macklemore-draws-support-celebs-politicians-dispute-robert-kraft-pales-rcna597907",
+      "summary": "",
+      "published": "",
+      "title_zh": "艾德·希兰 (Ed Sheeran) 在罗伯特·卡夫 (Robert Kraft) 抵制索赔中谈到麦克莫尔 (Macklemore) 的巡演退出"
+    },
+    {
+      "title": "U.S. and China face grave AI risks, but mutual distrust stalls cooperation",
+      "link": "https://www.nbcnews.com/world/asia/china-ai-risks-agree-slowdown-us-tech-rcna597859",
+      "summary": "",
+      "published": "",
+      "title_zh": "中美面临严重人工智能风险，互不信任阻碍合作"
+    },
+    {
+      "title": "Nick Reiner prosecutors won’t seek death penalty in the killing of Rob and Michele Reiner, DA says",
+      "link": "https://www.nbcnews.com/news/us-news/nick-reiner-prosecutors-wont-seek-death-penalty-killing-parents-rob-mi-rcna597931",
+      "summary": "",
+      "published": "",
+      "title_zh": "地方检察官表示，尼克·雷纳检察官不会就杀害罗伯·雷纳和米歇尔·雷纳的案件寻求死刑"
+    },
+    {
+      "title": "Pennsylvania teen dies from measles complications, health officials report",
+      "link": "https://www.nbcnews.com/health/health-news/pennsylvania-teen-dies-measles-complications-coroner-cdc-2026-rcna597980",
+      "summary": "",
+      "published": "",
+      "title_zh": "卫生官员报告称，宾夕法尼亚州青少年死于麻疹并发症"
+    },
+    {
+      "title": "Five key takeaways from inside the Emmys — and what they say about TV’s new era",
+      "link": "https://www.nbcnews.com/pop-culture/tv/emmys-2026-apple-tv-wins-widows-bay-stephen-colbert-mariska-hargitay-rcna597892",
+      "summary": "",
+      "published": "",
+      "title_zh": "艾美奖内部的五个关键要点——以及他们对电视新时代的看法"
+    },
+    {
+      "title": "Competition co-founder apologizes after athlete allowed to continue despite defecating on herself",
+      "link": "https://www.nbcnews.com/news/us-news/hyrox-apologizes-athlete-wietrzyk-allowed-continue-defecating-rcna597897",
+      "summary": "",
+      "published": "",
+      "title_zh": "运动员在自己身上排便后仍允许继续比赛，比赛联合创始人道歉"
+    },
+    {
+      "title": "'We don't need new laws,' Nvidia boss says of AI as he calls for self-regulation",
+      "link": "",
+      "summary": "Top AI leaders have been speaking publicly for the first time since the AI slowdown debate emerged this week. Sam Altman will be speaking in a few hours.",
+      "published": "",
+      "title_zh": "英伟达老板在谈到人工智能时表示：“我们不需要新的法律”，并呼吁自我监管",
+      "summary_zh": "自本周人工智能放缓争论出现以来，人工智能领域的顶尖领导人首次公开发表讲话。萨姆·奥尔特曼将在几个小时后发表讲话。"
+    },
+    {
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "published": "",
+      "title_zh": "五角大楼检查员证实伊朗战争导致美国弹药短缺",
+      "summary_zh": "尽管唐纳德·特朗普总统声称美国的供应“几乎是无限的”，但检查员还发现了补给瓶颈。"
+    },
+    {
+      "title": "Nick Reiner will not face death penalty if convicted of killing parents, prosecutors say",
+      "link": "",
+      "summary": "Nick Reiner is accused of murdering his parents, Hollywood director Rob Reiner and his wife Michele Reiner.",
+      "published": "",
+      "title_zh": "检察官称，如果尼克·雷纳杀害父母罪名成立，他不会面临死刑",
+      "summary_zh": "尼克·雷纳被指控谋杀了他的父母、好莱坞导演罗布·雷纳和他的妻子米歇尔·雷纳。"
+    },
+    {
+      "title": "What weapon could the US have put into space?",
+      "link": "",
+      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "published": "",
+      "title_zh": "美国可以将什么武器送入太空？",
+      "summary_zh": "美国的这一声明表明了地球轨道上现代战争领域的不断发展。"
+    },
+    {
+      "title": "'Maybe they'll shoot you' - Carney recalls Trump's gift of White House key",
+      "link": "",
+      "summary": "The Canadian prime minister said the exchange “sums up” the Canada-US relationship.",
+      "published": "",
+      "title_zh": "“也许他们会开枪射杀你”——卡尼回忆起特朗普赠送的白宫钥匙",
+      "summary_zh": "加拿大总理表示，这次交流“总结”了加美关系。"
+    },
+    {
+      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
+      "link": "",
+      "summary": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.",
+      "published": "",
+      "title_zh": "卫星图像显示造成沙特重要石油管道关闭的严重损坏",
+      "summary_zh": "专家告诉 BBC 核实，该管道的关闭可能会导致石油供应量减少多达 360 万桶/日。"
+    },
+    {
+      "title": "Pokémon fans prepare for 'biggest day in a decade'",
+      "link": "",
+      "summary": "Collectors are eagerly awaiting the first release of the 30th anniversary Pokémon trading cards.",
+      "published": "",
+      "title_zh": "神奇宝贝粉丝为“十年来最重要的一天”做准备",
+      "summary_zh": "收藏家们热切等待 30 周年纪念版神奇宝贝集换卡的首次发布。"
+    },
+    {
+      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
+      "link": "",
+      "summary": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
+      "published": "",
+      "title_zh": "关于艾美奖历史创造者马修·里斯你可能不知道的五件事",
+      "summary_zh": "这位威尔士演员成为第一个在艾美奖颁奖典礼上一晚获得两项男主角奖的人。"
+    },
+    {
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "link": "",
+      "summary": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
+      "published": "",
+      "title_zh": "乌克兰邮政工人在俄罗斯炮火下运送生命线",
+      "summary_zh": "国家邮政服务机构为距离前线仅数英里的人们提供养老金、药品和信件。"
+    },
+    {
+      "title": "London mayor Sadiq Khan sworn into House of Lords",
+      "link": "",
+      "summary": "The mayor of London has become Lord Khan of Tooting.",
+      "published": "",
+      "title_zh": "伦敦市长萨迪克·汗宣誓就任上议院议员",
+      "summary_zh": "伦敦市长已成为图廷汗勋爵。"
+    },
+    {
+      "title": "Former England footballer Raheem Sterling admits dangerous driving after crash",
+      "link": "",
+      "summary": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+      "published": "",
+      "title_zh": "前英格兰足球运动员拉希姆·斯特林承认车祸后危险驾驶",
+      "summary_zh": "这位前英格兰边锋在五月份驾驶兰博基尼撞上了高速公路的护栏。"
+    },
+    {
+      "title": "Lockerbie bombing intended 'to inflict pain and horror', US court told",
+      "link": "",
+      "summary": "The US government is arguing that relatives of the victims should be allowed to give evidence during the Libyan suspect's trial.",
+      "published": "",
+      "title_zh": "美国法院称洛克比爆炸事件旨在“造成痛苦和恐怖”",
+      "summary_zh": "美国政府主张应允许受害者亲属在利比亚嫌疑人的审判期间提供证据。"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "",
+      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "published": "",
+      "title_zh": "涉嫌蓄意破坏导致荷兰铁路严重中断",
+      "summary_zh": "周二，在多个地点的铁轨上发现物体后，火车被取消或延误。"
+    },
+    {
+      "title": "Watch: Helicopter hovers feet from cliff face during rescue",
+      "link": "",
+      "summary": "The video shows a helicopter holding steady mere feet from a cliff face in the Sierra Nevada mountains while a rescue team secures an injured climber.",
+      "published": "",
+      "title_zh": "观看：救援期间直升机在悬崖表面盘旋",
+      "summary_zh": "视频显示，一架直升机在距离内华达山脉悬崖仅几英尺的地方保持稳定，救援队正在保护一名受伤的登山者。"
+    },
+    {
+      "title": "Brilliant Brook hits unbeaten 114 as England post 254-4",
+      "link": "",
+      "summary": "Follow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the first T20 in Southampton.",
+      "published": "",
+      "title_zh": "辉煌布鲁克打出114不败，英格兰队以254-4领先",
+      "summary_zh": "关注英格兰队在南安普顿举行的首场 T20 比赛中对阵斯里兰卡队的实时文字、BBC 广播电台 5 直播体育评论和比赛中的视频集锦。"
+    },
+    {
+      "title": "Twins dragged from beds now facing execution after torture by Iranian regime, family says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗支持的恐怖组织对三个城市发动袭击后，美国盟友誓言进行报复"
+      "title_zh": "家人称，双胞胎被从床上拖下来，在遭受伊朗政权的酷刑后面临处决"
     },
     {
-      "title": "Supreme Court justices shred 'Hail Mary' challenge to federal ballot mail rules",
+      "title": "Voters in one of America's poorest cities push back hard on Trump's $5K promise",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "最高法院法官驳回了对联邦选票邮寄规则的“万福玛丽”挑战"
+      "title_zh": "美国最贫困城市之一的选民强烈反对特朗普的 5000 美元承诺"
     },
     {
-      "title": "Popular steakhouse chain responds after employee takes video of disturbing conditions",
+      "title": "Newt Gingrich warns the 2026 midterms will shock America",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "受欢迎的牛排连锁店在员工拍摄令人不安的情况的视频后做出回应"
+      "title_zh": "纽特·金里奇警告 2026 年中期选举将震惊美国"
     },
     {
-      "title": "Dem-run city has very different story one year after Trump sent in reinforcements",
+      "title": "Massie drops eight impeachment articles against Hegseth on House floor",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普派出援军一年后，民主党管理的城市发生了截然不同的故事"
+      "title_zh": "马西在众议院撤销了八项针对赫格斯的弹劾条款"
     },
     {
-      "title": "Costco hikes price on popular item — and limits how much shoppers can buy",
+      "title": "New details emerge on attempted Trump assassin as federal files reveal hidden alias",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Costco 提高热门商品的价格，并限制购物者的购买数量"
+      "title_zh": "联邦文件揭露隐藏的别名，有关刺杀特朗普的新细节浮出水面"
     },
     {
-      "title": "Former coach sounds alarm over Nike-linked program's definition of 'girls'",
+      "title": "Savage bear attack leaves wounded Montana hunter with horrifying option",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前教练对耐克相关项目对“女孩”的定义发出警告"
+      "title_zh": "野蛮的熊袭击让受伤的蒙大拿州猎人面临可怕的选择"
     },
     {
-      "title": "Trump warns of ‘hoax’ in surprise call to tech CEO during major summit",
+      "title": "Trump warns SCOTUS rejection 'will likely cost me dearly' after stunning rebuke",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在重大峰会期间突然致电科技公司首席执行官，警告“骗局”"
+      "title_zh": "特朗普警告最高法院的拒绝“可能会让我付出高昂的代价”"
     },
     {
-      "title": "Taxpayer-funded exhibit labels first president 'town destroyer,' accuses US of genocide",
+      "title": "Errant drive sparks ugly altercation, leaving one victim knocked unconscious",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纳税人资助的展览将第一任总统称为“城镇破坏者”，指责美国种族灭绝"
+      "title_zh": "错误驾驶引发丑陋争吵，导致一名受害者昏迷不醒"
     },
     {
-      "title": "WATCH LIVE:FBI Director Kash Patel confronts lawmakers in high-profile oversight hearing",
+      "title": "Firestorm erupts over Smithsonian's newest location for controversial museum",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：联邦调查局局长卡什·帕特尔在备受瞩目的监督听证会上与立法者对峙"
+      "title_zh": "史密森尼博物馆最新选址引发争议"
     },
     {
-      "title": "NATO jets blast suspected explosive-laden intruder in historic Baltic first",
+      "title": "Senate Majority Leader Thune declines to endorse Trump's take on AI fears",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "北约战机首次在波罗的海历史性地击落疑似携带爆炸物的入侵者"
+      "title_zh": "参议院多数党领袖图恩拒绝支持特朗普对人工智能担忧的看法"
     },
     {
-      "title": "Gracie Hunt shares heartfelt message to Chiefs fans ahead of season kickoff",
+      "title": "Trump-backed crypto bill fails to launch as Dems, Republicans unite to block it",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "格雷西·亨特在赛季开始前向酋长队球迷分享衷心的信息"
+      "title_zh": "特朗普支持的加密货币法案因民主党和共和党联合阻止而未能启动"
     },
     {
-      "title": "FBI arrests Pennsylvania man accused of plotting violent ISIS attack with rifle",
+      "title": "Rapper gets outpouring of support from liberal activists after being dropped from tour",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦调查局 (FBI) 逮捕了宾夕法尼亚州一名男子，该男子被控策划用步枪策划暴力 ISIS 袭击"
+      "title_zh": "说唱歌手在巡演中被除名后得到了自由活动人士的大力支持"
     },
     {
-      "title": "Denver lost a stunner after a secret aging QB plan quietly unraveled",
+      "title": "Facebook co-founder Dustin Moskovitz's 'effective altruism' network tied to AI regulation push",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "丹佛在一项秘密的老化四分卫计划悄然揭晓后失去了一个令人震惊的人"
+      "title_zh": "Facebook 联合创始人达斯汀·莫斯科维茨 (Dustin Moskovitz) 的“有效利他主义”网络与人工智能监管推动相关"
     },
     {
-      "title": "Trump's latest midterm 'publicity stunt' is getting a reality check from voters",
+      "title": "Carnegie Mellon promises 'swift action' against professor Uju Anya over social media posts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普最新的中期“宣传噱头”正在接受选民的现实检验"
+      "title_zh": "卡内基梅隆大学承诺针对社交媒体帖子对 Uju Anya 教授采取“迅速行动”"
     },
     {
-      "title": "Internet unleashes fury on Ohio Dem after parroting debunked claim against White people",
+      "title": "Waiters beware: The worst tipping states in America revealed",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在重复针对白人的被揭穿的指控后，互联网引发了对俄亥俄州民主党的愤怒"
+      "title_zh": "服务员要小心：美国最不给小费的州揭晓"
     },
     {
-      "title": "Lawmakers host ‘Pro-Human’ event to address bipartisan AI fears",
-      "link": "https://www.nbcnews.com/news/politics-blog-rcna597886",
+      "title": "Kennedy Center board votes to immediately close main building over safety, financial concerns",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "立法者举办“亲人类”活动，以解决两党对人工智能的担忧"
+      "title_zh": "出于安全和财务考虑，肯尼迪中心董事会投票决定立即关闭主楼"
     },
     {
-      "title": "If guardrails burst the AI bubble, we could all feel the pain",
-      "link": "https://www.nbcnews.com/business/economy/guardrails-burst-ai-bubble-amodei-trump-rcna597664",
+      "title": "Family of the holdout juror in Lindsay Clancy's murder trial breaks silence",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "如果护栏刺破了人工智能泡沫，我们都能感受到痛苦"
+      "title_zh": "林赛·克兰西谋杀案审判中坚持不懈的陪审员家人打破沉默"
     },
     {
-      "title": "FBI Director Kash Patel testifies at Senate hearing",
-      "link": "https://www.nbcnews.com/news/kash-patel-hearing-rcna597908",
+      "title": "Congress puts foreign ‘Trojan horse’ operations under the microscope",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦调查局局长卡什·帕特尔在参议院听证会上作证"
+      "title_zh": "国会将外国“特洛伊木马”行动置于显微镜下"
     },
     {
-      "title": "The Data Dive: Steve Kornacki on the Texas voters giving Democrats hope",
-      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-kornacki-texas-voters-giving-democrats-hope-rcna597822",
+      "title": "Jim Harbaugh has startling confession after the Chargers' stunning loss to Cardinals",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "数据潜水：史蒂夫·科纳基 (Steve Kornacki) 谈德克萨斯州选民给民主党带来希望"
+      "title_zh": "在闪电队惨败给红雀队后，吉姆·哈博的坦白令人震惊"
     },
     {
-      "title": "More than a half-billion dollars pours into the battle for the House — mostly in just 15 districts",
-      "link": "https://www.nbcnews.com/politics/2026-election/half-billion-dollars-pours-battle-house-mostly-just-15-districts-rcna597080",
+      "title": "How does Nike define what a 'girl' is? Former coach exposes what the company is teaching",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "超过 5 亿美元投入众议院争夺战——大部分集中在 15 个选区"
-    },
-    {
-      "title": "Putin-linked Russian oligarch paid for Donald Trump Jr.’s lavish island wedding party",
-      "link": "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-russian-oligarch-umar-kremlev-ties-putin-wedding-celeb-rcna597735",
-      "summary": "",
-      "published": "",
-      "title_zh": "与普京有联系的俄罗斯寡头为小唐纳德·特朗普的奢华岛屿婚礼提供了资金"
-    },
-    {
-      "title": "Harry and Meghan change their children’s school over security concerns",
-      "link": "https://www.nbcnews.com/world/united-kingdom/harry-meghan-children-change-schools-security-concerns-archie-lilibet-rcna597862",
-      "summary": "",
-      "published": "",
-      "title_zh": "出于安全考虑，哈里和梅根改变了孩子的学校"
-    },
-    {
-      "title": "AI regulation faces political deadlock as calls grow for US Congress to act",
-      "link": "",
-      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "published": "",
-      "title_zh": "随着要求美国国会采取行动的呼声越来越高，人工智能监管面临政治僵局",
-      "summary_zh": "由于特朗普的反对和国会的分歧，尽管压力越来越大，新的人工智能安全立法不太可能很快通过。"
-    },
-    {
-      "title": "US confirms for first time it has deployed space weapons",
-      "link": "",
-      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-      "published": "",
-      "title_zh": "美国首次确认部署太空武器",
-      "summary_zh": "美国空军部长表示，这些武器是保卫国家免受敌人行动所必需的。"
-    },
-    {
-      "title": "Hospital where killer nurse Lucy Letby worked could have prevented some baby deaths, inquiry finds",
-      "link": "",
-      "summary": "Lady Justice Thirlwall's inquiry finds there was a \"complete failure to protect babies\" at the Countess of Chester Hospital.",
-      "published": "",
-      "title_zh": "调查发现，杀手护士露西·莱比工作的医院本可以避免一些婴儿死亡",
-      "summary_zh": "瑟尔沃尔法官的调查发现，切斯特伯爵夫人医院“完全未能保护婴儿”。"
-    },
-    {
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "link": "",
-      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-      "published": "",
-      "title_zh": "威尔士演员马修·里斯双夺艾美奖历史",
-      "summary_zh": "他成为第一个在著名的电视颁奖典礼上在一晚内获得两项男主角奖的人。"
-    },
-    {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "published": "",
-      "title_zh": "丹麦称俄罗斯军舰向军用直升机发射照明弹",
-      "summary_zh": "丹麦首相指责俄罗斯“鲁莽”行为，而克里姆林宫尚未发表评论。"
-    },
-    {
-      "title": "Home Alone and Schitt's Creek stars pay tribute to late Catherine O'Hara",
-      "link": "",
-      "summary": "Tributes were also paid at the Emmy Awards to Dolly Parton, James Van Der Beek and Tim Curry.",
-      "published": "",
-      "title_zh": "《小鬼当家》和《Schitt's Creek》明星向已故的凯瑟琳·奥哈拉致敬",
-      "summary_zh": "艾美奖颁奖典礼上还向多莉·帕顿、詹姆斯·范德比克和蒂姆·库里致敬。"
-    },
-    {
-      "title": "Superstars and broken records: 2026 Emmy highlights",
-      "link": "",
-      "summary": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
-      "published": "",
-      "title_zh": "超级巨星和打破的记录：2026 年艾美奖亮点",
-      "summary_zh": "第 78 届黄金时段艾美奖颁奖典礼由《法律与秩序》明星玛莉丝卡·哈吉塔在洛杉矶孔雀剧院主持。"
-    },
-    {
-      "title": "Memorable moments from the Emmys and everything you couldn't see on TV",
-      "link": "",
-      "summary": "Backstage, the winners continued the celebrations off-screen and addressed some of the ceremony's most viral moments.",
-      "published": "",
-      "title_zh": "艾美奖的难忘时刻以及您在电视上看不到的一切",
-      "summary_zh": "在后台，获奖者们在银幕外继续庆祝活动，并讲述了颁奖典礼上一些最热门的时刻。"
-    },
-    {
-      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
-      "link": "",
-      "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
-      "published": "",
-      "title_zh": "“伟大”还是“令人震惊”——人工智能应该受到控制吗？",
-      "summary_zh": "英国广播公司向华盛顿特区的人们询问了该技术的快速发展以及它是否像一些专家警告的那样对人类构成威胁。"
-    },
-    {
-      "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
-      "link": "",
-      "summary": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles.",
-      "published": "",
-      "title_zh": "从玛丽莲·梦露到萨布丽娜·卡彭特 - 鲍勃·麦基的图片设计",
-      "summary_zh": "碧昂丝、雪儿、埃尔顿·约翰和麦莉·赛勒斯都曾穿过 Mackie 的闪亮套装。"
-    },
-    {
-      "title": "Indian police detain driver who hit female biker in viral video",
-      "link": "",
-      "summary": "The incident has sparked a broader discussion about the harassment and hostility faced by female motorcyclists.",
-      "published": "",
-      "title_zh": "印度警方拘留了视频中殴打女骑手的司机",
-      "summary_zh": "这一事件引发了关于女性摩托车手所面临的骚扰和敌意的更广泛讨论。"
-    },
-    {
-      "title": "US drinks giant completes purchase of viral Au Vodka brand for £300m",
-      "link": "",
-      "summary": "International spirits brand Sazerac has completed its purchase of Au Vodka for a reported £300m",
-      "published": "",
-      "title_zh": "美国饮料巨头以 3 亿英镑完成对热门品牌 Au Vodka 的收购",
-      "summary_zh": "国际烈酒品牌 Sazerac 已完成对 Au Vodka 的收购，据报道价值 3 亿英镑"
+      "title_zh": "耐克如何定义“女孩”？前教练揭露公司所教的内容"
     }
   ]
 }
