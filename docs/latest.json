@@ -1,6 +1,6 @@
 {
   "date": "20260916",
-  "total": 26,
+  "total": 35,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,195 +33,262 @@
   },
   "entries": [
     {
-      "title": "Several killed, one hospitalized after news helicopter crashes in Los Angeles",
+      "title": "Federal Reserve to announce interest rate decision as Trump calls for a cut",
+      "link": "https://www.nbcnews.com/business/economy/trump-federal-reserve-warsh-interest-rates-rcna597896",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普呼吁降息 美联储将宣布利率决定"
+    },
+    {
+      "title": "How Kraft Heinz is keeping its legacy brands affordable to cost-conscious shoppers",
+      "link": "https://www.nbcnews.com/business/ceo-interviews/kraft-heinz-cahillane-legacy-brands-affordable-rcna597899",
+      "summary": "",
+      "published": "",
+      "title_zh": "卡夫亨氏如何让注重成本的购物者负担得起其传统品牌"
+    },
+    {
+      "title": "War-damaged Gaza building collapses, killing 20 people and trapping nearly 100",
+      "link": "https://www.nbcnews.com/world/gaza/war-damaged-gaza-building-collapses-killing-12-people-seeking-shelter-rcna598080",
+      "summary": "",
+      "published": "",
+      "title_zh": "受战争破坏的加沙建筑倒塌，造成20人死亡、近100人被困"
+    },
+    {
+      "title": "Democratic group aims to recruit AI whistleblowers to run for office",
+      "link": "https://www.nbcnews.com/tech/tech-news/democratic-group-aims-recruit-ai-researchers-run-office-rcna597836",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党组织旨在招募人工智能举报人竞选公职"
+    },
+    {
+      "title": "Charlie Kirk’s family says security failures by Utah officials led to his assassination",
+      "link": "https://www.nbcnews.com/news/us-news/charlie-kirks-family-says-security-failures-utah-officials-led-assassi-rcna598101",
+      "summary": "",
+      "published": "",
+      "title_zh": "查理·柯克的家人表示，犹他州官员的安全失误导致他被暗杀"
+    },
+    {
+      "title": "Trump’s surgeon general nominee to face Senate grilling",
+      "link": "https://www.nbcnews.com/health/health-news/trumps-surgeon-general-nominee-face-senate-grilling-rcna598107",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普的卫生局局长提名人将面临参议院质询"
+    },
+    {
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "published": "",
+      "title_zh": "OpenAI 老板表示世界“有理由害怕”但应该信任人工智能公司",
+      "summary_zh": "萨姆·奥尔特曼和其他科技公司首席执行官表示，随着人们对人工智能对人类构成的威胁的担忧与日俱增，人们有动机限制人工智能的进步。"
+    },
+    {
+      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+      "link": "",
+      "summary": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
+      "published": "",
+      "title_zh": "淡季迷失在富士山？你必须为你的救援付出代价",
+      "summary_zh": "淡季期间在日本最著名的山上迷路的人将被收取该费用。"
+    },
+    {
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "link": "",
+      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "published": "",
+      "title_zh": "救援人员称，受战争破坏的加沙建筑倒塌，21 人中有 8 名儿童死亡",
+      "summary_zh": "去年，一栋建筑在以色列袭击中被击中，废墟下有数十人失踪，该建筑曾居住着约 10 个家庭。"
+    },
+    {
+      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+      "link": "",
+      "summary": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+      "published": "",
+      "title_zh": "音乐界的好人先生如何导致艾德·希兰职业生涯的最大危机",
+      "summary_zh": "希兰试图远离政治和争议，但这种立场遭到了批评。"
+    },
+    {
+      "title": "Why Trump is all-in on AI despite the warnings",
+      "link": "",
+      "summary": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
+      "published": "",
+      "title_zh": "为什么特朗普不顾警告仍全力发展人工智能",
+      "summary_zh": "美国总统已将这个问题推到了美国政治的最前沿——甚至冒着失去支持者的风险。"
+    },
+    {
+      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "link": "",
+      "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+      "published": "",
+      "title_zh": "新闻直升机在洛杉矶坠毁，三名记者和飞行员丧生",
+      "summary_zh": "NBCLA 新闻直升机当时正在致命巴士事故现场附近飞行。"
+    },
+    {
+      "title": "Do you feel guilty when calling in sick at work? This might be why...",
+      "link": "",
+      "summary": "As many as half of people report working when sick. The reasons for this are complex, experts say.",
+      "published": "",
+      "title_zh": "当你请病假时，你会感到内疚吗？这可能就是为什么...",
+      "summary_zh": "多达一半的人表示生病时仍在工作。专家表示，造成这种情况的原因很复杂。"
+    },
+    {
+      "title": "We managed to get jobs after uni - here's how we're keeping them",
+      "link": "",
+      "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+      "published": "",
+      "title_zh": "大学毕业后我们设法找到了工作——这就是我们如何保住它们",
+      "summary_zh": "四位最近刚开始工作的人分享了他们的秘诀，了解如何帮助他们顺利过渡并度过最初的几天。"
+    },
+    {
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
+      "link": "",
+      "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
+      "published": "",
+      "title_zh": "加拿大吸引全球最富有投资者的五个要点",
+      "summary_zh": "1 万亿美元的销售宣传，160 多个项目，在与美国激烈的贸易战中转向欧盟——首届加拿大投资峰会的要点。"
+    },
+    {
+      "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
+      "link": "",
+      "summary": "The Trump-appointed board was blocked from adding the inscription \"Renovated and Restored by President Donald J. Trump\".",
+      "published": "",
+      "title_zh": "特朗普称肯尼迪中心将关闭，法院裁定他的名字不得出现​​在大楼内",
+      "summary_zh": "特朗普任命的董事会被禁止添加“由唐纳德·J·特朗普总统翻新和恢复”的铭文。"
+    },
+    {
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "link": "",
+      "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+      "published": "",
+      "title_zh": "英国正在讨论加入加拿大领导的全球国防银行",
+      "summary_zh": "该计划的支持者表示，该银行将使政府能够获得更便宜的贷款用于国防项目。"
+    },
+    {
+      "title": "Magazine that was 132 years overdue returned to US library",
+      "link": "",
+      "summary": "Concord Public Library said it would have incurred a $12,055 overdue fine, had there not been a temporary fine freeze in place.",
+      "published": "",
+      "title_zh": "逾期132年的杂志归还美国图书馆",
+      "summary_zh": "康科德公共图书馆表示，如果没有临时冻结罚款，它将被征收 12,055 美元的逾期罚款。"
+    },
+    {
+      "title": "Maresca criticises focus on controversial Manchester derby winner",
+      "link": "",
+      "summary": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner has overshadowed his side's win at Manchester United.",
+      "published": "",
+      "title_zh": "马雷斯卡批评关注有争议的曼彻斯特德比冠军",
+      "summary_zh": "曼城主教练恩佐·马雷斯卡表示，围绕埃尔林·哈兰德的获胜者的争议给他的球队在曼联的胜利蒙上了阴影，这“非常糟糕”。"
+    },
+    {
+      "title": "Police chief’s text looms large as Kirk family puts university on notice",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新闻直升机在洛杉矶坠毁，造成多人死亡，一人住院"
+      "title_zh": "柯克家族向大学发出警告，警察局长的文字显得尤为突出"
     },
     {
-      "title": "Even a glimpse is enough, expert warns as Tehran eyes captured US equipment",
+      "title": "Republicans break with Trump, hand Democrats victory over Iran war powers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家警告称，德黑兰的眼睛捕获了美国设备，即使是一瞥就足够了"
+      "title_zh": "共和党与特朗普决裂，让民主党战胜伊朗战争力量"
     },
     {
-      "title": "Airport X-ray shows terrifying object taped in carry-on to skip checked baggage fee",
+      "title": "NFL defender penalized again after doubling down on banned eyeblack messages",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "机场X光检查显示随身行李中贴有可怕物体以避免托运行李费"
+      "title_zh": "NFL 后卫在加倍禁止黑眼信息后再次受到处罚"
     },
     {
-      "title": "Common antibiotic linked to higher risk of death in adults, major study finds",
+      "title": "Trump would-be assassin's bizarre nightly habits emerge in newly released FBI files",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "重大研究发现，普通抗生素与成年人死亡风险较高有关"
+      "title_zh": "联邦调查局新公布的文件显示，特朗普潜在暗杀者的奇怪夜间习惯"
     },
     {
-      "title": "Google DeepMind researcher steps down, warning AI has potential to 'kill us all'",
+      "title": "Beloved reporter, pilot identified as victims of deadly Los Angeles crash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "谷歌 DeepMind 研究员辞职，警告人工智能有可能“杀死我们所有人”"
+      "title_zh": "敬爱的记者、飞行员被确认为洛杉矶致命坠机事件的受害者"
     },
     {
-      "title": "Fourth person dies from flesh-eating bacteria, officials issue raw oyster warning",
+      "title": "Rare cancer cases strike in California community as families demand answers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "第四人死于食肉细菌，官员发出生牡蛎警告"
+      "title_zh": "加州社区发生罕见癌症病例，家人要求答案"
     },
     {
-      "title": "Arizona man's $475K home reportedly auctioned for $8K over less than $1,000 in HOA dues",
+      "title": "Far-left activists questioned on motives ahead of foreign influence hearing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据报道，亚利桑那州男子价值 47.5 万美元的房屋以 8,000 美元的价格拍卖，其中 HOA 费用不到 1,000 美元"
+      "title_zh": "极左活动人士在外国影响力听证会前受到动机质疑"
     },
     {
-      "title": "Activists booted from Capitol Hill stage a ready-made 43-second clip within hours",
+      "title": "Trump's AI race with China could become the biggest mistake of our time",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "从国会山赶来的活动人士在数小时内制作了一段现成的 43 秒剪辑"
+      "title_zh": "特朗普与中国的人工智能竞赛可能成为我们这个时代最大的错误"
     },
     {
-      "title": "Republican upsets party-backed rival to challenge first openly trans member of Congress",
+      "title": "No government on Earth can ban what this Israeli organization is building",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党击败党内支持的竞争对手，挑战第一位公开跨性别的国会议员"
+      "title_zh": "地球上没有任何政府可以禁止这个以色列组织正在建造的东西"
     },
     {
-      "title": "Seven Republicans rebel against Trump, vote with Dems to rein in Iran war powers",
+      "title": "New military footage pulls back curtain on daring rescue deep inside Iran",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "七名共和党人反对特朗普，与民主党一起投票以控制伊朗战争权力"
+      "title_zh": "新的军事镜头拉开了伊朗深处大胆救援的帷幕"
     },
     {
-      "title": "Former mob boss says Washington has adopted the Mafia playbook",
+      "title": "How a tiff with Trump could have a US ally joining new alliance",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前黑帮老大表示华盛顿已采用黑手党剧本"
+      "title_zh": "与特朗普的争执如何让美国盟友加入新联盟"
     },
     {
-      "title": "GUTFELD:The media thinks the biggest threat to women's sports is hot chicks",
+      "title": "European country's proposed law is 'deeply racist toward Jews,' activist warns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "GUTFELD：媒体认为女子运动最大的威胁是辣妹"
+      "title_zh": "活动人士警告说，欧洲国家拟议的法律“对犹太人存在严重的种族主义”"
     },
     {
-      "title": "Missing Ohio teenage girl found at former teacher's home after 263 days",
+      "title": "Dangerous opioid detected in America's illicit drug supply",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "俄亥俄州失踪少女263天后在前教师家中被发现"
+      "title_zh": "美国非法药物供应中发现危险阿片类药物"
     },
     {
-      "title": "Couple slain days into marriage by illegal trucker prompts Dem mother's admission",
+      "title": "Macklemore’s controversial past resurfaces after Ed Sheeran tour ouster",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "夫妇结婚几天后被非法卡车司机杀害促使民主党母亲承认"
+      "title_zh": "艾德·希兰巡演被驱逐后，麦克莫尔备受争议的过去重新浮出水面"
     },
     {
-      "title": "3 dead after news helicopter crashes while covering fatal L.A. bus collision",
-      "link": "https://www.nbcnews.com/news/us-news/helicopter-crashes-los-angeles-chatsworth-rcna598061",
+      "title": "Harry, Meghan changing kids' school suddenly echoes Sussexes' constant upheaval: expert",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新闻直升机在报道洛杉矶公交车致命事故时坠毁，造成 3 人死亡"
+      "title_zh": "哈里梅根突然改变孩子的学校与苏塞克斯的持续剧变相呼应：专家"
     },
     {
-      "title": "Bernie Sanders, Steve Bannon and Hollywood unite at AI risk summit",
-      "link": "https://www.nbcnews.com/tech/tech-news/bernie-sanders-steve-bannon-hollywood-unite-ai-risk-summit-human-rcna597689",
+      "title": "Scientists uncover 66-million-year-old T rex footprints trail unlike any found before",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伯尼·桑德斯、史蒂夫·班农和好莱坞联合参加人工智能风险峰会"
-    },
-    {
-      "title": "Would-be Trump assassin practiced shooting a day before attempt in Pennsylvania, documents show",
-      "link": "https://www.nbcnews.com/news/us-news/trump-butler-pennsylvania-assassination-attempt-fbi-documents-rcna597986",
-      "summary": "",
-      "published": "",
-      "title_zh": "文件显示，潜在的特朗普暗杀者在宾夕法尼亚州行刺前一天进行了射击练习"
-    },
-    {
-      "title": "Locked offices and millions in donations: Inside India's little-known political parties",
-      "link": "",
-      "summary": "Little-known political parties are receiving millions in donations despite limited electoral activity.",
-      "published": "",
-      "title_zh": "上锁的办公室和数百万捐款：印度鲜为人知的政党内部",
-      "summary_zh": "尽管选举活动有限，但鲜为人知的政党却收到了数百万美元的捐款。"
-    },
-    {
-      "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
-      "link": "",
-      "summary": "The NBCLA news helicopter was reportedly flying near the scene of a fatal bus crash.",
-      "published": "",
-      "title_zh": "洛杉矶新闻直升机在报道致命巴士相撞事故时坠毁，造成三人死亡",
-      "summary_zh": "据报道，NBCLA 新闻直升机当时正在致命巴士事故现场附近飞行。"
-    },
-    {
-      "title": "Maduro ally pleads guilty in $195m money laundering case in US court",
-      "link": "",
-      "summary": "Alex Saab, a former aide to the ex-Venezuelan president, agrees to \"co-operate fully\" with US prosecutors.",
-      "published": "",
-      "title_zh": "马杜罗盟友在美国法庭认罪 1.95 亿美元洗钱案",
-      "summary_zh": "委内瑞拉前总统的前助手亚历克斯·萨博同意与美国检察官“充分合作”。"
-    },
-    {
-      "title": "Japan to charge rescue fee on Mount Fuji during off season",
-      "link": "",
-      "summary": "The fee is among a series of measures Yamanashi prefecture is introducing to deter reckless climbers.",
-      "published": "",
-      "title_zh": "日本将在淡季期间收取富士山救援费",
-      "summary_zh": "这笔费用是山梨县为阻止鲁莽登山者而采取的一系列措施之一。"
-    },
-    {
-      "title": "Carney's new love-in with EU has everything to do with Trump",
-      "link": "",
-      "summary": "The Canadian PM heads to Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst.",
-      "published": "",
-      "title_zh": "Carney's new love-in with EU has everything to do with Trump",
-      "summary_zh": "加拿大总理本周前往斯特拉斯堡寻求“独特的联盟”——而且有一个明显的催化剂。"
-    },
-    {
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-      "link": "",
-      "summary": "The global AI race is being hit by very localised political and environmental concerns",
-      "published": "",
-      "title_zh": "为什么世界末日警告并不是人工智能巨头的唯一威胁",
-      "summary_zh": "全球人工智能竞赛正受到非常局部的政治和环境问题的打击"
-    },
-    {
-      "title": "Watch: Republican senator presses Kash Patel on bestiality in bizarre exchange",
-      "link": "",
-      "summary": "Patel defended the FBI's updated hiring policy allowing applicants with a history of bestiality to qualify for a role in the law enforcement agency.",
-      "published": "",
-      "title_zh": "观看：共和党参议员就奇怪的交流中的兽交问题向卡什·帕特尔施压",
-      "summary_zh": "帕特尔为联邦调查局最新的招聘政策辩护，该政策允许有兽交历史的申请人有资格在执法机构任职。"
-    },
-    {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "link": "",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-      "published": "",
-      "title_zh": "阿曼称油轮在霍尔木兹海峡遇袭后两名水手失踪",
-      "summary_zh": "伊朗称盖亚号油轮触雷后起火，但美国称油轮先是被导弹击中，然后又被无人机击中。"
-    },
-    {
-      "title": "South African president vows justice as more women's bodies found near Johannesburg",
-      "link": "",
-      "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-      "published": "",
-      "title_zh": "约翰内斯堡附近发现更多女性尸体，南非总统誓言伸张正义",
-      "summary_zh": "警方尚未将死亡与连环杀手联系起来，但正在调查这种可能性。"
+      "title_zh": "科学家发现了 6600 万年前的霸王龙足迹，与之前发现的任何足迹都不一样"
     }
   ]
 }

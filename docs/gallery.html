@@ -56,7 +56,7 @@
             <h1>📸 监控面板</h1>
             <a class="nav-link" href="./index.html">📄 返回文件列表</a>
         </div>
-        <div class="info">最后更新: 2026-09-16 04:40:02</div>
+        <div class="info">最后更新: 2026-09-16 13:30:37</div>
 
         <!-- 健康状态 -->
         <div class="section">
@@ -148,6 +148,51 @@
             </div>
             <div id="gallery" class="gallery">
 
+                <div class="card" data-date="20260916" data-time="132723" data-site="bbc">
+                    <img src="./screenshots/bbc_20260916_132723.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>BBC</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="cnn">
+                    <img src="./screenshots/cnn_20260916_132723.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>CNN</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="nbcnews">
+                    <img src="./screenshots/nbcnews_20260916_132723.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NBCNEWS</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="nytimes">
+                    <img src="./screenshots/nytimes_20260916_132723.png" alt="nytimes 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NYTIMES</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="reuters">
+                    <img src="./screenshots/reuters_20260916_132723.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="washingtonpost">
+                    <img src="./screenshots/washingtonpost_20260916_132723.png" alt="washingtonpost 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>WASHINGTONPOST</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="fox">
+                    <img src="./screenshots/fox_20260916_132723.png" alt="fox 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>FOX</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="theguardian">
+                    <img src="./screenshots/theguardian_20260916_132723.png" alt="theguardian 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>THEGUARDIAN</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
+                <div class="card" data-date="20260916" data-time="132723" data-site="apnews">
+                    <img src="./screenshots/apnews_20260916_132723.png" alt="apnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>APNEWS</strong> - 2026-09-16 13:27:23</div>
+                </div>
+            
                 <div class="card" data-date="20260916" data-time="043605" data-site="apnews">
                     <img src="./screenshots/apnews_20260916_043605.png" alt="apnews 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>APNEWS</strong> - 2026-09-16 04:36:05</div>
@@ -4278,7 +4323,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"04": 26};
+            const freqData = {"13": 35};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);
@@ -4304,4 +4349,4 @@
 </body>
 </html>
 
-<!-- 生成时间: 2026-09-16T04:40:02.217086 -->
+<!-- 生成时间: 2026-09-16T13:30:37.394547 -->
