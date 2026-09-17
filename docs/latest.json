@@ -1,6 +1,6 @@
 {
   "date": "20260917",
-  "total": 43,
+  "total": 30,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,320 +33,226 @@
   },
   "entries": [
     {
-      "title": "Rubio takes behind-the-scenes role on Iran, while keeping options open for the future",
-      "link": "https://www.nbcnews.com/politics/trump-administration/marco-rubio-role-iran-war-keeping-options-open-future-rcna596618",
-      "summary": "",
-      "published": "",
-      "title_zh": "卢比奥在伊朗问题上扮演幕后角色，同时为未来保留选择余地"
-    },
-    {
-      "title": "Trump officials discussing possible replacements for Pentagon’s No. 2",
-      "link": "https://www.nbcnews.com/politics/national-security/trump-officials-discussing-possible-replacements-pentagons-no-2-rcna597716",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普官员讨论五角大楼二号人物的可能替代者"
-    },
-    {
-      "title": "White House withdraws Trump’s nominee to lead ICE",
-      "link": "https://www.nbcnews.com/politics/immigration/white-house-withdraws-trumps-nominee-lead-ice-rcna598386",
-      "summary": "",
-      "published": "",
-      "title_zh": "白宫撤回特朗普领导 ICE 的提名"
-    },
-    {
-      "title": "Several Republicans start to distance themselves from Trump as the midterms near",
-      "link": "https://www.nbcnews.com/politics/2026-election/several-republicans-start-distance-trump-midterms-rcna598334",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着中期选举临近，一些共和党人开始与特朗普保持距离"
-    },
-    {
-      "title": "New wild cat species is identified for first time in 100 years, researchers say",
-      "link": "https://www.nbcnews.com/science/environment/new-wild-cat-species-identified-rcna598113",
-      "summary": "",
-      "published": "",
-      "title_zh": "研究人员称，100年来首次发现新的野猫物种"
-    },
-    {
-      "title": "How Canada and the E.U. are teaming up to counter Trump",
-      "link": "https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284",
-      "summary": "",
-      "published": "",
-      "title_zh": "加拿大和欧盟如何联手对抗特朗普"
-    },
-    {
-      "title": "Robotaxi emergency phone numbers found disconnected and unstaffed",
-      "link": "https://www.nbcnews.com/tech/tech-news/robotaxi-self-driving-car-taxi-robo-av-autonomous-cybercab-waymo-texas-rcna597835",
-      "summary": "",
-      "published": "",
-      "title_zh": "Robotaxi紧急电话号码被发现已断开且无人接听"
-    },
-    {
-      "title": "Stocks and bonds rally after Fed hikes rates and oil prices fall",
-      "link": "https://www.nbcnews.com/business/markets/stocks-bonds-fed-hikes-oil-prices-rcna598310",
-      "summary": "",
-      "published": "",
-      "title_zh": "美联储加息和油价下跌后股市和债券上涨"
-    },
-    {
-      "title": "Matthew Lillard ‘ashamed’ he returned to ‘Scream’ after Melissa Barrera fired for Israel-Gaza posts",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/matthew-lillard-ashamed-returned-scream-franchise-melissa-barrera-fire-rcna598313",
-      "summary": "",
-      "published": "",
-      "title_zh": "在梅丽莎·巴雷拉因以色列-加沙职位被解雇后，马修·利拉德“羞愧”地回到了“尖叫”"
-    },
-    {
-      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-      "link": "",
-      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
-      "published": "",
-      "title_zh": "对加拿大欧盟“准成员国”的热情言辞，但没有任何保证",
-      "summary_zh": "卡蒂亚·阿德勒（Katya Adler）写道，这个想法能否落地尚不确定，更不用说成为其他国家的蓝图了。"
-    },
-    {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "",
-      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "published": "",
-      "title_zh": "联合国专家表示有理由相信美国在伊朗袭击中犯下了战争罪",
-      "summary_zh": "美国尚未承认二月份对米纳布一所小学和拉默德一所体育场馆进行的致命袭击。"
-    },
-    {
-      "title": "Swedish PM Kristersson resigns after election loss",
-      "link": "",
-      "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-      "published": "",
-      "title_zh": "瑞典首相克里斯特森在选举失败后辞职",
-      "summary_zh": "马格达莱娜·安德森领导的左翼反对党似乎将组建下一届政府。"
-    },
-    {
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "link": "",
-      "summary": "The comments were made at a summit in Scotland with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-      "published": "",
-      "title_zh": "查尔斯国王警告人工智能落入坏人之手的“生存危险”",
-      "summary_zh": "这些评论是在苏格兰举行的一次峰会上发表的，与会者包括 Nvidia、OpenAI 和 Anthropic 等人工智能巨头。"
-    },
-    {
-      "title": "Charles sounded 'giddily elated' in phone call after Diana's death, her brother claims in new book",
-      "link": "",
-      "summary": "Earl Spencer has written a memoir about his sister's life and death. Buckingham Palace issued a strong rebuttal against its claims on Wednesday.",
-      "published": "",
-      "title_zh": "戴安娜王妃的弟弟在新书中称，查尔斯在戴安娜王妃去世后打电话时听起来“欣喜若狂”",
-      "summary_zh": "斯宾塞伯爵写了一本关于他妹妹的生与死的回忆录。白金汉宫周三对其说法进行了强烈反驳。"
-    },
-    {
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "link": "",
-      "summary": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
-      "published": "",
-      "title_zh": "经核实的视频显示也门上空被击落的沙特战斗机残骸",
-      "summary_zh": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down."
-    },
-    {
-      "title": "Ed Sheeran's tour in 'damage control mode' after Macklemore backlash",
-      "link": "",
-      "summary": "US stadium owner Robert Kraft says Sheeran asked him to match his own $2m (£1.5m) donation for \"aid in the region\".",
-      "published": "",
-      "title_zh": "在麦克莫尔强烈反对后，艾德·希兰的巡演进入“损害控制模式”",
-      "summary_zh": "美国体育场老板罗伯特·克拉夫特 (Robert Kraft) 表示，希兰要求他捐出 200 万美元（150 万英镑）的捐款，用于“对该地区的援助”。"
-    },
-    {
-      "title": "GTA 6 soundtrack reveal revives digital release debate",
-      "link": "",
-      "summary": "Fred Again, PinkPantheress and Travis Scott provide new music for the blockbuster - but not all fans are happy.",
-      "published": "",
-      "title_zh": "GTA 6 原声带揭晓再次引发数字发行争论",
-      "summary_zh": "Fred Again、PinkPantheress 和 Travis Scott 为这部大片提供了新音乐 - 但并非所有粉丝都感到高兴。"
-    },
-    {
-      "title": "New York has a food waste problem. South Korea has already solved it",
-      "link": "",
-      "summary": "South Korea has cut household food waste going to landfills from 97% to almost nothing.",
-      "published": "",
-      "title_zh": "纽约存在食物浪费问题。韩国已经解决了",
-      "summary_zh": "韩国已将进入垃圾填埋场的家庭食物垃圾从 97% 减少到几乎为零。"
-    },
-    {
-      "title": "Human remains identified as UK mum missing since 2019",
-      "link": "",
-      "summary": "A 56-year-old man is arrested after the remains of Joanne Sheen were found almost seven years after she went missing.",
-      "published": "",
-      "title_zh": "遗骸被确认为自 2019 年以来失踪的英国妈妈",
-      "summary_zh": "乔安妮·辛 (Joanne Sheen) 失踪近七年后，她的遗体被发现，一名 56 岁男子被捕。"
-    },
-    {
-      "title": "One dead after torrential rain and flash floods hit Barcelona region",
-      "link": "",
-      "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
-      "published": "",
-      "title_zh": "巴塞罗那地区遭遇暴雨和山洪袭击，造成一人死亡",
-      "summary_zh": "洪水给西班牙东北部的巴伦西亚和加泰罗尼亚造成了大范围的破坏。"
-    },
-    {
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-      "link": "",
-      "summary": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-      "published": "",
-      "title_zh": "栖息着 500 只鳄鱼的河流被选为奥运会赛艇比赛场地",
-      "summary_zh": "一条栖息着约 500 条咸水鳄鱼的河流获准主办 2032 年布里斯班奥运会和残奥会赛艇和皮划艇比赛。"
-    },
-    {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "published": "",
-      "title_zh": "微软警告称，不受控制的人工智能可能会导致“硅物种”与人类竞争",
-      "summary_zh": "穆斯塔法·苏莱曼 (Mustafa Suleyman) 表示，他相信竞争对手人工智能公司 Anthropic 实际上是在教克劳德“可能是有意识的”。"
-    },
-    {
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "link": "",
-      "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-      "published": "",
-      "title_zh": "Hyrox 运动员为弄脏自己后继续比赛道歉",
-      "summary_zh": "乔安娜·维茨克(Joanna Wietrzyk)在上周参加比赛后也放弃了在健身比赛中的胜利。"
-    },
-    {
-      "title": "Europa League: Scales deflects in cross to give Ferencvaros lead over Celtic",
-      "link": "",
-      "summary": "Listen to Sportsound and follow live text commentary, score updates and match report from Celtic vs Ferencvaros in the Uefa Europa League.",
-      "published": "",
-      "title_zh": "欧罗巴联赛：斯凯尔斯传中偏转，费伦茨瓦罗斯领先凯尔特人",
-      "summary_zh": "收听 Sportsound 并关注欧足联欧洲联赛中凯尔特人队对阵费伦茨瓦罗斯队的实时文字评论、比分更新和比赛报告。"
-    },
-    {
-      "title": "Unearthed audio exposes stunning El-Sayed admission about his healthcare pitch",
+      "title": "Sen Peters says he's 'praying' as black smoke rises from downed military aircraft",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "出土的音频揭露了埃尔赛义德对他的医疗保健宣传的惊人承认"
+      "title_zh": "参议员彼得斯表示，当被击落的军用飞机升起黑烟时，他正在“祈祷”"
     },
     {
-      "title": "President Trump hints at a 'big decision coming up' on the war in Iran",
+      "title": "US economy lands an unexpected new record, fueling cheers from Capitol Hill",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普总统暗示将就伊朗战争做出“重大决定”"
+      "title_zh": "美国经济意外创下新纪录，国会山欢呼雀跃"
     },
     {
-      "title": "Trouble is brewing for the average homeowner, real estate execs warn",
+      "title": "Mackenzie Phillips says heartbreaking letter confirmed darkest family secret",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "房地产高管警告说，普通房主正在面临麻烦"
+      "title_zh": "麦肯齐·菲利普斯说这封令人心碎的信证实了最黑暗的家庭秘密"
     },
     {
-      "title": "Warden reveals Texas death row inmate's sobering response moments before lethal injection",
+      "title": "Mamdani warns New Yorkers new public toilets could open on you mid-use",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "监狱长透露德克萨斯州死囚在注射死刑前的清醒反应"
+      "title_zh": "马姆达尼警告纽约人新的公共厕所可能会在使用过程中向你开放"
     },
     {
-      "title": "States falling behind in literacy share a striking common thread, new analysis finds",
+      "title": "Socialist mayor's awkward response scrutinized after police chief's nervous glances",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新分析发现，识字率落后的国家有一个惊人的共同点"
+      "title_zh": "在警察局长紧张的目光后，社会党市长尴尬的反应受到审视"
     },
     {
-      "title": "'Reacher' star Alan Ritchson admits blackmail nightmare nearly killed him",
+      "title": "Ed Sheeran's music pulled from radio station following Macklemore controversy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《雷彻》明星艾伦·里奇森承认勒索噩梦差点杀了他"
+      "title_zh": "由于麦克莫尔争议，艾德·希兰的音乐从广播电台撤下"
     },
     {
-      "title": "Lane Kiffin's daughter disgusted by 'vulgar' bed sheet banners around campus",
+      "title": "Majority of voters say Trump's Iran military move was the wrong call",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "莱恩·基芬的女儿对校园周围“粗俗”的床单横幅感到厌恶"
+      "title_zh": "大多数选民表示特朗普对伊朗的军事行动是错误的"
     },
     {
-      "title": "CDC reveals widespread health problem affecting more than 7 in 10 American adults",
+      "title": "New Yorker torched for claiming women can be 'kind of pregnant' in viral X post",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "CDC 揭示了影响超过十分之七的美国成年人的广泛健康问题"
+      "title_zh": "《纽约客》因在病毒式 X 帖子中声称女性可能“有点怀孕”而遭到抨击"
     },
     {
-      "title": "Congress stalls on AI regulation as Rand Paul blocks Kennedy's 'kill switch' bill",
+      "title": "Trump faces a new MAGA headache as Salazar fires warning shot on immigration",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于兰德·保罗阻止肯尼迪的“终止开关”法案，国会搁置人工智能监管"
+      "title_zh": "萨拉查对移民发出警告，特朗普面临新的“MAGA”头痛"
     },
     {
-      "title": "Search for missing hiker takes tragic turn after investigators get crucial new clue",
+      "title": "Fox poll reveals the GOP's iron grip on a signature issue is evaporating",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "调查人员获得重要的新线索后，寻找失踪徒步旅行者的行动发生了悲剧性的转变"
+      "title_zh": "福克斯民意调查显示共和党对标志性问题的铁腕控制正在消失"
     },
     {
-      "title": "Dem who called opponent 'most corrupt politician' faces 'blatant corruption' allegations",
+      "title": "Elizabeth Siders clutches belly in court while pleading not guilty to abuse charges",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "称对手为“最腐败政客”的民主党面临“公然腐败”指控"
+      "title_zh": "伊丽莎白·西德斯在法庭上捂着肚子，对虐待指控表示无罪"
     },
     {
-      "title": "California AG says he doesn't want Paramount to leave state amid lawsuit",
+      "title": "El-Sayed's left-wing ally's shocking claim about US puts radical ties back in spotlight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州总检察长表示，他不希望派拉蒙在诉讼中离开该州"
+      "title_zh": "赛义德的左翼盟友对美国的令人震惊的言论使激进关系重新成为人们关注的焦点"
     },
     {
-      "title": "Trump's $5,000 dividend promise faces trouble with GOP lawmakers in Congress",
+      "title": "White House asking voters for patience on cost of living, inflation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普的 5,000 美元股息承诺在国会面临共和党议员的麻烦"
+      "title_zh": "白宫要求选民对生活成本和通货膨胀保持耐心"
     },
     {
-      "title": "Trainer has BLUNT message for female fitness influencers shaming Sydney Sweeney",
+      "title": "Trump allies pile on GOP lawmaker who criticized president's signature policy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "教练对羞辱悉尼·斯威尼的女性健身影响者发出直言不讳的信息"
+      "title_zh": "特朗普的盟友批评批评总统签名政策的共和党议员"
     },
     {
-      "title": "California bullet train consultants expensed tiki bars and jet trips",
+      "title": "Meyer Lansky's grandson reveals the chilling childhood moment he knew the truth",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州子弹头列车顾问花费了提基酒吧和喷气式飞机旅行的费用"
+      "title_zh": "迈耶·兰斯基的孙子讲述了他知道真相的令人心寒的童年时刻"
     },
     {
-      "title": "Police find trove of images, possible human ashes in home tied to 7 missing women",
+      "title": "Why Canadians are ready for closer ties with Europe",
       "link": "",
-      "summary": "",
+      "summary": "People the BBC spoke to are excited by the prospect of working and studying in the EU, a suggestion Carney made this week.",
       "published": "",
-      "title_zh": "警方在家中发现大量照片，可能与 7 名失踪妇女有关"
+      "title_zh": "为什么加拿大人准备与欧洲建立更紧密的关系",
+      "summary_zh": "英国广播公司采访的人们对卡尼本周提出的在欧盟工作和学习的前景感到兴奋。"
     },
     {
-      "title": "MS NOW host tells far-left streamer she'd tell Dem candidates to absolutely disavow him",
+      "title": "Watch: Can humpback whales experience grief?",
       "link": "",
-      "summary": "",
+      "summary": "Rare footage captured by researchers off Australia's Gold Coast suggests humpback whale mothers may experience grief when their calves die.",
       "published": "",
-      "title_zh": "MS NOW 主持人告诉极左流媒体，她会告诉民主党候选人绝对否认他"
+      "title_zh": "观看：座头鲸能经历悲伤吗？",
+      "summary_zh": "研究人员在澳大利亚黄金海岸捕捉到的罕见镜头表明，座头鲸母亲在幼崽死亡时可能会感到悲伤。"
     },
     {
-      "title": "Hunters descend on White House as Trump prepares a major hunting and fishing shake-up",
+      "title": "Five missing women feared dead after images and videos found in Philadelphia home",
       "link": "",
-      "summary": "",
+      "summary": "Police say a trove of disturbing video evidence has been found in the home, though no human remains have been discovered.",
       "published": "",
-      "title_zh": "特朗普准备对狩猎和渔业进行重大调整，狩猎者涌入白宫"
+      "title_zh": "在费城家中发现图像和视频后，五名失踪妇女恐已死亡",
+      "summary_zh": "警方表示，在家中发现了大量令人不安的视频证据，但尚未发现人类遗骸。"
     },
     {
-      "title": "Illegal alien faces deportation after Kelce, other pro athletes lose millions in Ponzi scheme",
+      "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
       "link": "",
+      "summary": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+      "published": "",
+      "title_zh": "斯宾塞伯爵称，戴安娜去世后，查尔斯“听起来欣喜若狂”",
+      "summary_zh": "白金汉宫强烈反驳已故威尔士王妃弟弟在新书中的说法。"
+    },
+    {
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "link": "",
+      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "published": "",
+      "title_zh": "战争已过半年，美国允许伊朗代表团出席在纽约举行的联合国会议",
+      "summary_zh": "据英国广播公司了解，伊朗总统马苏德·佩泽什基安和外交部长阿巴斯·阿拉格奇是获准进入美国的代表之一。"
+    },
+    {
+      "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "link": "",
+      "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "published": "",
+      "title_zh": "这条奥林匹克河里有 500 条鳄鱼 - 但这不是主要问题",
+      "summary_zh": "尽管人们对这条赛道及其居民表示担忧，但昆士兰州的菲茨罗伊河仍被选为 2032 年奥运会举办地。"
+    },
+    {
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "link": "",
+      "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
+      "published": "",
+      "title_zh": "罗森伯格：俄罗斯选举不会有什么意外，但对克里姆林宫来说很重要",
+      "summary_zh": "这次投票的结果毫无疑问，但对于克里姆林宫来说，这仍然是一个重要时刻。"
+    },
+    {
+      "title": "RTÉ to boycott Eurovision for second year in a row",
+      "link": "",
+      "summary": "In a statement, RTÉ said it feels Ireland's participation \"cannot be justified given the appalling and ongoing loss of lives in Gaza\".",
+      "published": "",
+      "title_zh": "RTÉ 连续第二年抵制欧洲歌唱大赛",
+      "summary_zh": "RTÉ 在一份声明中表示，它认为爱尔兰的参与“鉴于加沙地区令人震惊且持续的生命损失”是不合理的。"
+    },
+    {
+      "title": "England crush Sri Lanka to seal T20 series win",
+      "link": "",
+      "summary": "England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.",
+      "published": "",
+      "title_zh": "英格兰队击败斯里兰卡队锁定T20系列赛冠军",
+      "summary_zh": "英格兰队轻松地追上了低于标准杆的146杆目标，以六个三柱门击败了斯里兰卡队，并在还剩一场比赛的情况下锁定了三场T20系列赛。"
+    },
+    {
+      "title": "Bournemouth hold on to win at Sociedad on European bow",
+      "link": "",
+      "summary": "Bournemouth hold on to claim a famous win at Real Sociedad in the first European match in the club's history.",
+      "published": "",
+      "title_zh": "伯恩茅斯在欧洲联赛中继续击败皇家社会",
+      "summary_zh": "伯恩茅斯在俱乐部历史上的第一场欧洲比赛中战胜了皇家社会队，取得了一场著名的胜利。"
+    },
+    {
+      "title": "'Just the beginning' - Samba, 17, steals Man City show",
+      "link": "",
+      "summary": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
+      "published": "",
+      "title_zh": "“这只是开始”——17 岁的桑巴抢尽曼城风头",
+      "summary_zh": "弗洛伊德·桑巴精彩的首秀在阿提哈德球场抢尽风头，但也抢走了曼彻斯特另一位备受瞩目的少年的头条新闻。"
+    },
+    {
+      "title": "The big questions for Tuchel's first England squad since World Cup",
+      "link": "",
+      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "published": "",
+      "title_zh": "图赫尔世界杯后首支英格兰队面临的重大问题",
+      "summary_zh": "在托马斯·图切尔周五公布世界杯以来的第一支阵容之前，英国广播公司体育频道探讨了英格兰主帅面临的重大问题。"
+    },
+    {
+      "title": "Trump administration weighs drastic cut to U.S. forces in Europe of 25,000 or more",
+      "link": "https://www.nbcnews.com/politics/national-security/pentagon-weighs-pulling-nearly-third-us-forces-europe-rcna597722",
       "summary": "",
       "published": "",
-      "title_zh": "凯尔斯和其他职业运动员在庞氏骗局中损失数百万美元后，非法外国人面临驱逐出境"
+      "title_zh": "特朗普政府考虑大幅削减驻欧美军2.5万人或更多"
+    },
+    {
+      "title": "‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate the tech",
+      "link": "https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330",
+      "summary": "",
+      "published": "",
+      "title_zh": "“人工智能教父”警告国会还有“也许一年”的时间来监管这项技术"
+    },
+    {
+      "title": "Former ‘Alligator Alcatraz’ detainee says he was placed in phone booth-sized cage for 15 hours",
+      "link": "https://www.nbcnews.com/news/us-news/former-alligator-alcatraz-detainee-says-was-placed-phone-booth-sized-c-rcna598013",
+      "summary": "",
+      "published": "",
+      "title_zh": "前“鳄鱼恶魔岛”被拘留者称，他被关在电话亭大小的笼子里 15 个小时"
     }
   ]
 }
