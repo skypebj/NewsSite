@@ -1,6 +1,6 @@
 {
   "date": "20260917",
-  "total": 36,
+  "total": 42,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,271 +33,314 @@
   },
   "entries": [
     {
-      "title": "House passes bill to shield consumers from data center price hikes on energy",
-      "link": "https://www.nbcnews.com/politics/congress/house-passes-bill-shield-consumers-data-center-price-hikes-energy-rcna597683",
-      "summary": "",
-      "published": "",
-      "title_zh": "众议院通过法案保护消费者免受数据中心能源价格上涨的影响"
-    },
-    {
-      "title": "AI companies say they can regulate themselves",
-      "link": "https://www.nbcnews.com/tech/social-media/ai-dario-altman-social-media-zuckerberg-self-regulation-congress-rcna598176",
-      "summary": "",
-      "published": "",
-      "title_zh": "人工智能公司表示他们可以自我监管"
-    },
-    {
-      "title": "The insular AI economy is driving U.S. growth but risks leaving everyone else behind",
-      "link": "https://www.nbcnews.com/business/economy/ai-economy-growth-jobs-housing-rcna598010",
-      "summary": "",
-      "published": "",
-      "title_zh": "孤立的人工智能经济正在推动美国增长，但也有可能将其他国家抛在后面"
-    },
-    {
-      "title": "What we know about the three lives lost in the NBCLA helicopter crash",
-      "link": "https://www.nbcnews.com/news/us-news/nbcla-news-helicopter-crash-eliana-moreno-george-marciniw-tributes-rcna598071",
-      "summary": "",
-      "published": "",
-      "title_zh": "我们对 NBCLA 直升机失事中三人丧生的了解"
-    },
-    {
-      "title": "Macklemore has a bigger platform after being dropped from tour as Ed Sheeran suffers fallout",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/macklemore-even-bigger-platform-dropped-tour-ed-sheeran-suffers-fallou-rcna598104",
-      "summary": "",
-      "published": "",
-      "title_zh": "由于埃德·希兰（Ed Sheeran）遭受影响而退出巡演后，麦克莫尔（Macklemore）拥有了更大的平台"
-    },
-    {
-      "title": "Merriam-Webster gives its dictionary a ‘glow-up’ with 1,400 new words and definitions",
-      "link": "https://www.nbcnews.com/news/us-news/merriam-webster-gives-dictionary-glow-1400-new-words-definitions-rcna598097",
-      "summary": "",
-      "published": "",
-      "title_zh": "Merriam-Webster 为其词典增添了 1,400 个新单词和定义"
-    },
-    {
-      "title": "Travis Kelce was among the victims of a man’s multi-million dollar Ponzi scheme",
-      "link": "https://www.nbcnews.com/news/us-news/travis-kelce-victim-multi-million-dollar-ponzi-scheme-rcna598243",
-      "summary": "",
-      "published": "",
-      "title_zh": "特拉维斯·凯尔斯是一名男子数百万美元庞氏骗局的受害者之一"
-    },
-    {
-      "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+      "title": "Canada becoming EU ‘associate member’ would be positive move, Carney says",
       "link": "",
-      "summary": "The 0.25% increase comes despite fierce opposition from the US president, who has called for rates to be cut.",
+      "summary": "The PM says Canada having closer EU links would also make it a more “effective partner” of the US, adding no-one will tell his country who it can strike agreements with.",
       "published": "",
-      "title_zh": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
-      "summary_zh": "尽管美国总统强烈反对并呼吁降息，但利率还是上涨了 0.25%。"
+      "title_zh": "卡尼表示，加拿大成为欧盟“准成员”将是积极举措",
+      "summary_zh": "总理表示，加拿大与欧盟的联系更密切也将使其成为美国更“有效的合作伙伴”，并补充说没有人会告诉加拿大可以与谁达成协议。"
     },
     {
-      "title": "Lena Dunham announces birth of first baby via surrogacy",
+      "title": "India faces 100% tariff threat over Russian oil after US House vote",
       "link": "",
-      "summary": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
+      "summary": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
       "published": "",
-      "title_zh": "莉娜邓纳姆宣布通过代孕生下第一个孩子",
-      "summary_zh": "这位作家兼演员在周三《Vogue》杂志发表的一篇专栏文章中宣布了她女儿的出生。"
+      "title_zh": "美国众议院投票后印度面临对俄罗斯石油100%关税威胁",
+      "summary_zh": "特朗普的关税威胁使印度的俄罗斯石油战略及其进入美国市场的机会陷入了新的困境。"
     },
     {
-      "title": "No fire alarms or sprinklers at Pakistan neonatal unit where fire killed 14, report finds",
-      "link": "",
-      "summary": "A firefighter tells the BBC that rescuers had said many doors near the unit were locked, obstructing their route to the babies.",
-      "published": "",
-      "title_zh": "报告发现，巴基斯坦新生儿病房没有火灾警报器或喷水装置，火灾造成 14 人死亡",
-      "summary_zh": "一名消防员告诉 BBC，救援人员表示，该单元附近的许多门都被锁住，阻碍了他们前往婴儿的路线。"
-    },
-    {
-      "title": "Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+      "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
       "link": "",
       "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
       "published": "",
-      "title_zh": "罗伯特·克拉夫特表示，在麦克勒莫尔的强烈反对后，埃德·希兰要求他捐赠 200 万美元的援助",
+      "title_zh": "体育场老板罗伯特·克拉夫特表示，在麦克勒莫尔强烈反对后，埃德·希兰要求他捐赠 200 万美元援助",
       "summary_zh": "此前，麦克勒莫尔承诺为巴勒斯坦事业提供 100 万美元，并要求这位大亨兑现这笔金额。"
     },
     {
-      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
       "link": "",
-      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
       "published": "",
-      "title_zh": "Snapchat 老板告诉 BBC 愿意对青少年设置时间限制",
-      "summary_zh": "埃文·斯皮格尔在接受英国广播公司采访时表示，这将是“该行业向前迈出的重要一步”。"
+      "title_zh": "白金汉宫与斯宾塞伯爵就戴安娜书中的说法发生口水战",
+      "summary_zh": "这场争吵可能会给王室成员拥挤的一天蒙上阴影——国王、威廉王子和哈里王子都出席活动。"
     },
     {
-      "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
+      "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
       "link": "",
-      "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
       "published": "",
-      "title_zh": "新加坡“诺克斯堡”内举行 20 亿美元脏钱拍卖",
-      "summary_zh": "英国广播公司 (BBC) 走进一处戒备森严的仓库，查看警方查获的、目前正在拍卖的奢侈品。"
+      "title_zh": "英国广播公司发现，阿萨德政权策划绑架美国记者奥斯汀·泰斯数周",
+      "summary_zh": "消息人士称，奥斯汀·泰斯的绑架得到了叙利亚前领导人巴沙尔·阿萨德的批准。"
     },
     {
-      "title": "Watch: How will higher interest rates impact US consumers?",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
       "link": "",
-      "summary": "The BBC's Samira Hussain looks at the factors considered in the increase by the Federal Reserve and what it could mean for the US economy.",
+      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
       "published": "",
-      "title_zh": "观察：更高的利率将如何影响美国消费者？",
-      "summary_zh": "BBC 的萨米拉·侯赛因 (Samira Hussain) 探讨了美联储加息时考虑的因素以及这对美国经济可能意味着什么。"
+      "title_zh": "南非警方调查一系列死亡事件时发现第九具女性尸体",
+      "summary_zh": "南非警方警告不要假设所有杀戮都是相互关联的，但许多妇女感到害怕。"
     },
     {
-      "title": "How escalating Saudi oil crisis could drive up prices everywhere",
+      "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
       "link": "",
-      "summary": "BBC Verify's Ben Chu examines what impact rising energy costs could have on the global economy.",
+      "summary": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
       "published": "",
-      "title_zh": "不断升级的沙特石油危机如何推高世界各地的价格",
-      "summary_zh": "BBC verify 的 Ben Chu 研究了能源成本上升可能对全球经济产生的影响。"
+      "title_zh": "我在 LinkedIn 上发送了 200 条消息并找到了一份工作：如何建立人际网络",
+      "summary_zh": "从咖啡聊天到 LinkedIn 消息，以下是如何通过人际网络找到下一份工作。"
     },
     {
-      "title": "Three killed in Swiss Alps light aircraft crash",
+      "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
       "link": "",
-      "summary": "Authorities say the plane took off from the Rhône Valley and collided with a mountain slope about 10 minutes later.",
+      "summary": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
       "published": "",
-      "title_zh": "瑞士阿尔卑斯山轻型飞机失事 三人丧生",
-      "summary_zh": "当局称，这架飞机从罗讷河谷起飞，大约10分钟后与山坡相撞。"
+      "title_zh": "一支带来希望的队伍……四个月后，哈马斯袭击了以色列",
+      "summary_zh": "以色列黄金一代足球运动员在体育和社会方面的潜力能否实现？"
     },
     {
-      "title": "Fiji declares HIV a national emergency as cases surge",
+      "title": "Mum's Facebook kidney plea prompts 'mind-blowing' gift from total stranger",
       "link": "",
-      "summary": "One in 60 adults in the tiny Pacific nation of less than a million people are living with the virus.",
+      "summary": "A woman has undergone a lifesaving transplant after receiving a kidney from a stranger who saw her post on social media.",
       "published": "",
-      "title_zh": "随着病例激增，斐济宣布艾滋病毒进入国家紧急状态",
-      "summary_zh": "在这个人口不足百万的太平洋小国，每 60 名成年人中就有 1 人感染了这种病毒。"
+      "title_zh": "妈妈在 Facebook 上的肾脏恳求促使完全陌生的人收到了“令人兴奋”的礼物",
+      "summary_zh": "一名妇女在从一位在社交媒体上看到她的帖子的陌生人那里接受了肾脏移植后，接受了挽救生命的移植手术。"
     },
     {
-      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "title": "Why caffeine makes some people buzz - and others barely notice",
       "link": "",
-      "summary": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+      "summary": "Scientists say it all depend on caffeine habits, lifestyle and one factor we have no control over: our genes.",
       "published": "",
-      "title_zh": "科学突破开发出半人半鼠大脑",
-      "summary_zh": "斯坦福大学的研究人员对小鼠进行了基因改造，使其能够接收人类脑细胞并发挥作用。"
+      "title_zh": "Why caffeine makes some people buzz - and others barely notice",
+      "summary_zh": "科学家表示，这一切都取决于咖啡因的习惯、生活方式以及我们无法控制的一个因素：我们的基因。"
     },
     {
-      "title": "UK prosecutors file for extradition of the Tate brothers from the US",
+      "title": "Aztec document goes on display in Mexico after 186 years abroad",
       "link": "",
-      "summary": "The brothers are facing a total of 59 charges in the UK, including rape. Both men deny any wrongdoing.",
+      "summary": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
       "published": "",
-      "title_zh": "英国检察官申请从美国引渡泰特兄弟",
-      "summary_zh": "兄弟俩在英国总共面临 59 项指控，其中包括强奸。两人均否认有任何不当行为。"
+      "title_zh": "阿兹特克文献在国外 186 年后在墨西哥展出",
+      "summary_zh": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico."
     },
     {
-      "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
+      "title": "Abducted South African journalist found dead with gunshot wounds",
       "link": "",
-      "summary": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
+      "summary": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
       "published": "",
-      "title_zh": "博利和沃尔特将切尔西股份出售给克利尔莱克",
-      "summary_zh": "随着董事长托德·博利 (Todd Boehly)、董事马克·沃尔特 (Mark Walter) 和汉斯约格·怀斯 (Hansjorg Wyss) 出售其在俱乐部的股份，Clearlake Capital 获得了切尔西的完全控制权。"
+      "title_zh": "被绑架的南非记者被发现身亡，身上有枪伤",
+      "summary_zh": "资深广播员欧文·恩德洛夫 (Owen Ndlovu) 在约翰内斯堡附近被武装分子绑架数小时后，他的尸体被发现。"
     },
     {
-      "title": "Abraham strikes twice as Villa sink struggling Coventry",
+      "title": "EU announces plan to restrict social media access for under-15s",
       "link": "",
-      "summary": "Tammy Abraham strikes in either half as Aston Villa reach the EFL Cup fourth round with victory at Coventry City.",
+      "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
       "published": "",
-      "title_zh": "亚伯拉罕梅开二度，维拉击败苦苦挣扎的考文垂",
-      "summary_zh": "塔米·亚伯拉罕在上下半场各进一球，帮助阿斯顿维拉战胜考文垂城晋级联赛杯第四轮。"
+      "title_zh": "欧盟宣布计划限制 15 岁以下青少年使用社交媒体",
+      "summary_zh": "根据该计划，只有 15 岁以上的儿童才能建立自己的社交媒体帐户。"
     },
     {
-      "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
       "link": "",
-      "summary": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
+      "summary": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
       "published": "",
-      "title_zh": "维斯塔潘在表演赛中14圈超越100名业余卡丁车选手",
-      "summary_zh": "四届 F1 世界冠军马克斯·维斯塔潘 (Max Verstappen) 在银石赛道举行的卡丁车表演赛中仅用 14 圈就超越了 100 名业余车手。"
+      "title_zh": "尼泊尔将利用新的洪水研究向联合国气候灾害基金索赔数百万美元",
+      "summary_zh": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month."
     },
     {
-      "title": "Passengers descend into horror as violent shaking tears plane cabin apart",
+      "title": "No fire alarms or sprinklers at Pakistan hospital ward where 14 babies died, report finds",
+      "link": "",
+      "summary": "A firefighter tells the BBC that rescuers had said many doors near the unit were locked, obstructing their route to the babies.",
+      "published": "",
+      "title_zh": "报告发现，14名婴儿死亡的巴基斯坦医院病房没有火灾警报器或喷水装置",
+      "summary_zh": "一名消防员告诉 BBC，救援人员表示，该单元附近的许多门都被锁住，阻碍了他们前往婴儿的路线。"
+    },
+    {
+      "title": "Chelsea news conference: Alonso on 'important day' as Clearlake take full control",
+      "link": "",
+      "summary": "All the latest from Thursday's Premier League news conferences including Chelsea boss Xabi Alonso.",
+      "published": "",
+      "title_zh": "切尔西新闻发布会：阿隆索迎来“重要的一天”，克利尔莱克完全掌控比赛",
+      "summary_zh": "周四英超新闻发布会上的所有最新消息，包括切尔西主帅哈维·阿隆索。"
+    },
+    {
+      "title": "Kraft outwits Macklemore with massive pledge before rapper could weaponize the challenge",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "飞机机舱剧烈摇晃，乘客陷入恐惧"
+      "title_zh": "在说唱歌手能够将挑战武器化之前，卡夫以巨大的承诺战胜了麦克勒莫尔"
     },
     {
-      "title": "Vance warns of worldwide crisis if US makes one major move in Iran",
+      "title": "China hits back at sweeping bill named after late senator that would target Iran, Russia",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "万斯警告称，如果美国在伊朗采取重大行动，全球将面临危​​机"
+      "title_zh": "中国反击以已故参议员命名的针对伊朗和俄罗斯的全面法案"
     },
     {
-      "title": "WATCH:Democrat candidate seen sobbing, praying in patrol car after DUI arrest",
+      "title": "Scammers are coming for your money. Here’s the one thing you must never do",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看：民主党候选人酒后驾车被捕后在巡逻车里哭泣、祈祷"
+      "title_zh": "骗子会来骗你的钱。这是你绝对不能做的一件事"
     },
     {
-      "title": "Travis Kelce among pro athletes defrauded in massive Ponzi scheme scandal",
+      "title": "Man says 'lion diet' wiped out decades of depression and inflammation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特拉维斯·凯尔斯（Travis Kelce）等职业运动员在大规模庞氏骗局丑闻中被诈骗"
+      "title_zh": "男子称“狮子饮食”消除了数十年的抑郁症和炎症"
     },
     {
-      "title": "Young newlyweds killed in freak accident just three months into their marriage",
+      "title": "Left-wing columnist launches smear of Sydney Sweeney and Arch Manning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "年轻新婚夫妇结婚仅三个月就在离奇事故中丧生"
+      "title_zh": "左翼专栏作家抹黑西德尼·斯威尼和阿奇·曼宁"
     },
     {
-      "title": "NCAA says clock review protocol was mishandled in Michigan’s win over Western Michigan",
+      "title": "Warden asks Texas death row inmate for final statement moments before lethal injection",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NCAA 表示密歇根州战胜西密歇根州的比赛中时钟审查协议处理不当"
+      "title_zh": "典狱长要求德克萨斯州死囚在注射死刑前作最后陈述"
     },
     {
-      "title": "Foreign adversaries use ‘clandestine tools’ and 'poison' against America",
+      "title": "'American Idol' says goodbye to Hollywood as production company announces move",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "外国对手对美国使用“秘密工具”和“毒药”"
+      "title_zh": "《美国偶像》制作公司宣布搬迁，告别好莱坞"
     },
     {
-      "title": "Trump threatens new European tariffs as Canada explores deeper EU ties",
+      "title": "Portland establishment ousts customers over attire, then a deeper look gets ugly",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着加拿大探索更深层次的欧盟关系，特朗普威胁对欧洲征收新关税"
+      "title_zh": "波特兰的企业因着装而驱逐顾客，然后更深层次的外观就会变得丑陋"
     },
     {
-      "title": "Inmate learns his sentence — then chaos kicks off inside Ohio courthouse",
+      "title": "Fitness competition changes rules after winner’s bathroom accident sparks controversy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "囚犯得知自己的判决后，俄亥俄州法院内一片混乱"
+      "title_zh": "优胜者如厕事故引发争议 健身比赛改变规则"
     },
     {
-      "title": "Sam Leavitt injury bombshell sends LSU-Ole Miss showdown into uncertain territory",
+      "title": "Homeowners are getting an unexpected payoff in the nation’s data center capital",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "萨姆·莱维特的伤病重磅炸弹让路易斯安那州立大学与密西西比大学的对决陷入了不确定的境地"
+      "title_zh": "房主在国家数据中心之都获得了意想不到的回报"
     },
     {
-      "title": "Tyrus sits down with Michael Franzese to talk Mafia, prison and redemption",
+      "title": "Dem megadonor eyes socialist firebrand for 2028 while taking dig at Harris",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒斯与迈克尔·弗兰泽斯坐下来谈论黑手党、监狱和救赎"
+      "title_zh": "民主党巨额捐助者在挖苦哈里斯的同时，着眼于2028年的社会主义煽动者"
     },
     {
-      "title": "Treasure hunter eyes new targets after faint signal leads to massive shipwreck find",
+      "title": "Coordinated arson attack suspected as nightmare fires grip vacation paradise",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "微弱信号导致大规模沉船发现后，寻宝者寻找新目标"
+      "title_zh": "噩梦般的大火席卷度假天堂，疑似协同纵火袭击"
     },
     {
-      "title": "Former FBI agent exposes secret account would-be Trump assassin tried to hide",
+      "title": "Brandon Johnson's viral rooftop video draws a blistering response from critics",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前联邦调查局特工揭露了潜在的特朗普暗杀者试图隐藏的秘密账户"
+      "title_zh": "布兰登·约翰逊在屋顶上疯传的视频引起了批评者的强烈反应"
     },
     {
-      "title": "Stars say separation is 'right move' for family after almost 10 years of marriage",
+      "title": "GREG GUTFELD:Taylor Sheridan's values must horrify Hollywood execs",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "明星们表示，结婚近十年后，分居对于家庭来说是“正确的举动”"
+      "title_zh": "格雷格·古菲尔德：泰勒·谢里登的价值观一定会让好莱坞高管感到震惊"
+    },
+    {
+      "title": "Experts puzzled by Supreme Court's unreasoned order blocking rule on mail-in ballots",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家对最高法院无理命令阻止邮寄选票规则感到困惑"
+    },
+    {
+      "title": "Helicopter swoops in to pull two people in their 80s from a flooded car",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "直升机俯冲，从被淹的汽车中救出两名 80 多岁的人"
+    },
+    {
+      "title": "Craig Carton compares Sydney Sweeney haters and Lindsay Clancy supporters",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克雷格·卡顿比较了悉尼·斯威尼的讨厌者和林赛·克兰西的支持者"
+    },
+    {
+      "title": "Research suggests this cheap kitchen staple could end your bathroom woes",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "研究表明这种廉价的厨房主食可以解决你的浴室问题"
+    },
+    {
+      "title": "Explosive report reveals pipeline stacking deck against conservatives in courtrooms",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "爆炸性报告揭示了法庭上反对保守派的管道堆叠平台"
+    },
+    {
+      "title": "OpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it",
+      "link": "https://www.nbcnews.com/tech/tech-news/openai-new-incidents-concerning-behavior-model-misalignment-rcna598277",
+      "summary": "",
+      "published": "",
+      "title_zh": "OpenAI 标记了 6 起新的“令人担忧”行为事件，并公布了追踪计划"
+    },
+    {
+      "title": "Most Americans think AI is doing more harm than good in schools",
+      "link": "https://www.nbcnews.com/politics/politics-news/poll-americans-think-ai-harm-good-schools-rcna597777",
+      "summary": "",
+      "published": "",
+      "title_zh": "大多数美国人认为人工智能在学校弊大于利"
+    },
+    {
+      "title": "Huawei unveils new chip technologies as Chinese firm steps up AI race with Nvidia",
+      "link": "https://www.nbcnews.com/world/china/huawei-unveils-new-chip-technologies-chinese-firm-steps-ai-race-nvidia-rcna598288",
+      "summary": "",
+      "published": "",
+      "title_zh": "华为推出新芯片技术，中国公司加大与英伟达的人工智能竞赛"
+    },
+    {
+      "title": "In a deadly building collapse, Gaza feels the lasting damage of Israeli attacks",
+      "link": "https://www.nbcnews.com/world/gaza/deadly-building-collapse-gaza-highlights-dire-conditions-caused-israel-rcna598180",
+      "summary": "",
+      "published": "",
+      "title_zh": "在致命的建筑物倒塌中，加沙感受到以色列袭击造成的持久损害"
+    },
+    {
+      "title": "How Kraft Heinz plans to revitalize its brands (without changing them too much)",
+      "link": "https://www.nbcnews.com/business/ceo-interviews/kraft-heinz-plans-revitalize-brands-rcna597901",
+      "summary": "",
+      "published": "",
+      "title_zh": "卡夫亨氏计划如何振兴其品牌（不做太多改变）"
+    },
+    {
+      "title": "King Charles issues fiery response to Princess Diana’s brother over claims in new book",
+      "link": "https://www.nbcnews.com/world/united-kingdom/king-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-rcna598287",
+      "summary": "",
+      "published": "",
+      "title_zh": "查尔斯国王就新书中的说法对戴安娜王妃的弟弟做出了激烈回应"
+    },
+    {
+      "title": "Here’s who’ll be on ‘SNL’ when season 52 starts next week",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/snl-season-52-cast-rcna588129",
+      "summary": "",
+      "published": "",
+      "title_zh": "以下是下周第 52 季开始时将出现在《SNL》中的人"
     }
   ]
 }
