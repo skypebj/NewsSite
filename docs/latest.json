@@ -1,6 +1,6 @@
 {
   "date": "20260918",
-  "total": 35,
+  "total": 40,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,263 +33,298 @@
   },
   "entries": [
     {
-      "title": "US ally makes decision on whether it will join military operations in key oil route",
+      "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
+      "link": "https://www.nbcnews.com/tech/security/hackers-breach-openai-rcna598518",
+      "summary": "",
+      "published": "",
+      "title_zh": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns"
+    },
+    {
+      "title": "Exclusive: Trump’s AI whisperer to attend state dinner with Xi Jinping",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-ai-whisperer-david-sacks-state-dinner-xi-jinping-rcna598581",
+      "summary": "",
+      "published": "",
+      "title_zh": "Exclusive: Trump’s AI whisperer to attend state dinner with Xi Jinping"
+    },
+    {
+      "title": "Gas prices approach highest level this year with just weeks to go before midterms",
+      "link": "https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523",
+      "summary": "",
+      "published": "",
+      "title_zh": "距离中期选举仅几周时间，天然气价格接近今年最高水平"
+    },
+    {
+      "title": "Russians vote in Kremlin-controlled election stalked by unease over Putin’s Ukraine war",
+      "link": "https://www.nbcnews.com/world/russia/russians-vote-kremlin-controlled-election-stalked-unease-putins-ukrain-rcna598291",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄罗斯人在克里姆林宫控制的选举中投票，对普京的乌克兰战争感到不安"
+    },
+    {
+      "title": "Singer-songwriter and Broadway composer Duncan Sheik dies at 56",
+      "link": "https://www.nbcnews.com/news/obituaries/singer-songwriter-broadway-composer-duncan-sheik-dead-56-rcna598308",
+      "summary": "",
+      "published": "",
+      "title_zh": "创作型歌手、百老汇作曲家邓肯·谢赫去世，享年 56 岁"
+    },
+    {
+      "title": "Kim Kardashian’s new health scare: What is Esophagitis?",
+      "link": "https://www.nbcnews.com/health/health-news/kim-kardashians-new-health-scare-esophagitis-rcna598519",
+      "summary": "",
+      "published": "",
+      "title_zh": "金·卡戴珊的新健康恐慌：什么是食管炎？"
+    },
+    {
+      "title": "Iran sends chilling message as Trump threatens new strike on buried nuclear site",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国盟友决定是否加入关键石油路线的军事行动"
+      "title_zh": "特朗普威胁对埋藏的核设施发动新的打击，伊朗发出令人不寒而栗的信息"
     },
     {
-      "title": "Federal judges reveal private coordination behind Trump immigration cases",
+      "title": "Mayor tells Christian pastor 'you are not welcome here' in his own town",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦法官透露特朗普移民案件背后的私人协调"
+      "title_zh": "市长告诉基督教牧师他自己的城镇“这里不欢迎你”"
     },
     {
-      "title": "Man loses weight eating only food from popular chain for 25 days — but pays a price",
+      "title": "Socialist pledging to bring Mexico’s 'fight' to Congress faces calls for federal probe",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "男子连续 25 天只吃热门连锁店的食物成功减肥，但也付出了代价"
+      "title_zh": "社会主义者承诺将墨西哥的“斗争”提交国会，面临联邦调查的呼吁"
     },
     {
-      "title": "Holdout juror tells different story of what happened in Lindsay Clancy jury room",
+      "title": "'90s hitmaker dead at 56, leaves behind wife and 7-year-old daughter",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "坚持不懈的陪审员讲述了林赛·克兰西陪审室发生的不同故事"
+      "title_zh": "90 年代热门歌手去世，享年 56 岁，留下妻子和 7 岁女儿"
     },
     {
-      "title": "200K troops leave service yearly and critical infrastructure desperately needs them",
+      "title": "Buffalo Bills fans pay eye-opening prices for beer and food at stadium opener",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "每年有 20 万士兵退役，关键基础设施迫切需要他们"
+      "title_zh": "Buffalo Bills fans pay eye-opening prices for beer and food at stadium opener"
     },
     {
-      "title": "Crockett ripped by her own party for honoring singer with notorious history of violence",
+      "title": "Clancy holdout juror hailed as 'hero' tells different story of what unfolded in jury room",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克罗克特因表彰具有臭名昭著的暴力历史的歌手而遭到自己所在政党的痛斥"
+      "title_zh": "Clancy holdout juror hailed as 'hero' tells different story of what unfolded in jury room"
     },
     {
-      "title": "Home linked to 7 missing women, late resident's potential 'serial killer' memoir investigated",
+      "title": "Newsom signs 'kill switch' executive order, warning 'the stakes are too high'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "与七名失踪妇女有关的家，已故居民的潜在“连环杀手”回忆录受到调查"
+      "title_zh": "Newsom signs 'kill switch' executive order, warning 'the stakes are too high'"
     },
     {
-      "title": "She was booked for alleged theft. Her mugshot is going viral for another reason",
+      "title": "America's housing report card crowns Midwest city the top metro market",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "她因涉嫌盗窃而被立案。她的照片走红还有另一个原因"
+      "title_zh": "美国住房成绩单使中西部城市成为顶级地铁市场"
     },
     {
-      "title": "Warren Buffett makes major move at Berkshire Hathaway after decades at the helm",
+      "title": "Family real estate fortune funneled $3.2M into CodePink and far-left causes",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "掌舵伯克希尔·哈撒韦公司几十年后，沃伦·巴菲特做出重大变动"
+      "title_zh": "Family real estate fortune funneled $3.2M into CodePink and far-left causes"
     },
     {
-      "title": "SEAN HANNITY:Far-left Democrats literally want to 'shred' our construction",
+      "title": "Ilhan Omar grilled on criminal investigation confirmed by Border Czar Tom Homan",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肖恩·汉尼蒂：极左民主党人确实想“粉碎”我们的建设"
+      "title_zh": "伊尔汗·奥马尔因边境沙皇汤姆·霍曼证实的刑事调查而受到盘问"
     },
     {
-      "title": "Sophie Cunningham says what other female athletes won't about Sydney Sweeney's nude ad",
+      "title": "Texas college giant makes a stunning move on majors at center of culture-war fight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 表示，其他女运动员不会对西德尼·斯威尼 (Sydney Sweeney) 的裸体广告表示不满"
+      "title_zh": "德克萨斯大学巨头在文化战争斗争中心的专业上做出了惊人的举动"
     },
     {
-      "title": "Ancient church believed to be 1,000 years old emerges after students make key find",
+      "title": "Judge says Trump anti-weaponization issues 'alive and kicking' despite DOJ push",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "学生们的重要发现后，被认为有1000年历史的古老教堂出现了"
+      "title_zh": "法官称，尽管司法部极力推动，特朗普的反武器化问题仍“活跃”"
     },
     {
-      "title": "What Robert Kraft's Macklemore ban over anti-Israel rant shows the world",
+      "title": "Robert De Niro gets teary-eyed as actress thanks him for speaking 'truth to power'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗伯特·克拉夫特因反以色列言论而对麦克莫尔实施禁令向世界展示了什么"
+      "title_zh": "罗伯特·德尼罗在女演员感谢他“向权力说出真相”时热泪盈眶"
     },
     {
-      "title": "Rapper Nicki Minaj joins Laura Ingraham for an exclusive interview at 7PM ET",
+      "title": "Airline captain dies during overnight layover as pilot rest practices face scrutiny",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "说唱歌手尼基·米娜 (Nicki Minaj) 与劳拉·英格拉汉姆 (Laura Ingraham) 于东部时间晚上 7 点接受独家采访"
+      "title_zh": "航空公司机长在过夜停留期间死亡，飞行员休息做法面临审查"
     },
     {
-      "title": "Former ESPN analyst accuses network of leaking his firing to OutKick to 'humiliate' him",
+      "title": "Republican lawmaker warns of 'Chernobyl moment' — and urges immediate action",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前 ESPN 分析师指责网络将他的解雇信息泄露给 OutKick 以“羞辱”他"
+      "title_zh": "共和党议员警告“切尔诺贝利时刻”，并敦促立即采取行动"
     },
     {
-      "title": "Three dead and eight injured in Philippines school shooting",
+      "title": "Rapaport calls Mamdani 'two-bit con man' and torches his wife at Jewish rally",
       "link": "",
-      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+      "summary": "",
       "published": "",
-      "title_zh": "菲律宾校园枪击案三死八伤",
-      "summary_zh": "枪手是该国自六月以来第三起校园枪击事件的死者之一。"
+      "title_zh": "拉帕波特称马姆达尼为“两位骗子”，并在犹太集会上焚烧了他的妻子"
     },
     {
-      "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+      "title": "Dem candidate who called for ‘attack on US soil’ rejected by her own party",
       "link": "",
-      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西坚持不懈的陪审员毫不怀疑她故意杀害了自己的孩子",
-      "summary_zh": "这是这位拒绝站在其他人一边并宣告克兰西无罪的陪审员第一次公开谈论他的决定。"
+      "title_zh": "Dem candidate who called for ‘attack on US soil’ rejected by her own party"
     },
     {
-      "title": "New wild cat species discovered - with only one known living member",
+      "title": "Country music star says 'awful' divorce left her vulnerable and leaning into scripture",
       "link": "",
-      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "summary": "",
       "published": "",
-      "title_zh": "发现新的野猫物种——只有一种已知的现存成员",
-      "summary_zh": "一种长期被误认为亲戚的斑点野猫在玻利维亚被鉴定为新物种。"
+      "title_zh": "乡村音乐明星表示“可怕的”离婚让她变得脆弱并倾向于圣经"
     },
     {
-      "title": "Police begin operation to move migrants from Ceuta beaches",
+      "title": "TUNE IN:Nicki Minaj joins Laura Ingraham for an exclusive interview at 7PM ET",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "收看：妮琪·米娜 (Nicki Minaj) 与劳拉·英格拉汉姆 (Laura Ingraham) 于东部时间晚上 7 点接受独家采访"
+    },
+    {
+      "title": "Stream Ruthless Behind the Scenes: RNC 2026 exclusively on Fox Nation",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Stream Ruthless Behind the Scenes: RNC 2026 exclusively on Fox Nation"
+    },
+    {
+      "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+      "link": "",
+      "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+      "published": "",
+      "title_zh": "观看：戴安娜王妃去世后，查尔斯在电话中“勃然大怒”",
+      "summary_zh": "厄尔·斯宾塞 (Earl Spencer) 接受了英国广播公司 (BBC) 的劳拉·昆斯伯格 (Laura Kuenssberg) 独家采访，谈论了他在一本新书中提出的主张。"
+    },
+    {
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "link": "",
+      "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+      "published": "",
+      "title_zh": "沃伦·巴菲特在伯克希尔工作了 60 年后卸任——“父亲，时间总是胜利”",
+      "summary_zh": "自 1965 年掌权以来，巴菲特将一家陷入困境的纺织厂发展成为一家全球性的企业集团。"
+    },
+    {
+      "title": "Shots heard as police start moving migrants from Ceuta beaches",
       "link": "",
       "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
       "published": "",
-      "title_zh": "警方开始行动从休达海滩转移移民",
+      "title_zh": "当警察开始从休达海滩转移移民时听到枪声",
       "summary_zh": "据报道，周五早上，警方向空中开枪，当时他们正在努力控制人群，争先恐后地在帐篷营地占据一席之地。"
     },
     {
-      "title": "In a border city stadium, US NFL fans sing Canada anthem with gusto",
+      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
       "link": "",
-      "summary": "The BBC's Robin Levinson-King spoke to Buffalo Bills fans at a home game about why the Canadian anthem is being played.",
+      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
       "published": "",
-      "title_zh": "在边境城市体育场，美国 NFL 球迷热情高唱加拿大国歌",
-      "summary_zh": "BBC 的罗宾·莱文森-金 (Robin Levinson-King) 在主场比赛中向布法罗比尔队 (Buffalo Bills) 球迷讲述了为什么要演奏加拿大国歌。"
+      "title_zh": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "summary_zh": "这是这位拒绝站在其他人一边并宣告克兰西无罪的陪审员第一次公开谈论他的决定。"
     },
     {
-      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "link": "",
-      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "published": "",
-      "title_zh": "巴基斯坦清真寺遭满载炸药车辆冲撞 至少16人死亡",
-      "summary_zh": "一名高级警官称，周五祈祷期间，一辆满载炸药的车辆撞向一座清真寺建筑。"
+      "title_zh": "马克龙表示，俄罗斯对欧洲的混合攻击正在加剧",
+      "summary_zh": "法国总统表示，他已责成政府保护关键基础设施和国防工业场所。"
     },
     {
-      "title": "War may be coming. Is UK psychologically ready?",
+      "title": "Uber ordered to pay $40m to family of woman killed after driver left her on highway",
       "link": "",
-      "summary": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
+      "summary": "The 23-year-old was returning home with a friend who got sick in the car when the Uber driver allegedly ordered them to get out of the vehicle on a California highway.",
       "published": "",
-      "title_zh": "战争可能即将来临。英国心理准备好了吗？",
-      "summary_zh": "军方和政府表示冲突风险正在增加，但我们可能还没有做好心理准备"
+      "title_zh": "司机将女子遗弃在高速公路上身亡，Uber 被责令向其家人支付 4000 万美元",
+      "summary_zh": "这名 23 岁的男子正与一位在车里生病的朋友回家，据称 Uber 司机在加州高速公路上命令他们下车。"
     },
     {
-      "title": "US fans with Ed Sheeran tickets are left torn by Macklemore controversy",
+      "title": "Why an American football game played the Canadian national anthem",
       "link": "",
-      "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
+      "summary": "The field in Buffalo was decked out with the flags of both countries, as tensions simmer and a trade war escalates.",
       "published": "",
-      "title_zh": "持有艾德·希兰门票的美国球迷因麦克勒莫尔的争议而陷入困境",
-      "summary_zh": "对于希兰本周末的下一场演出，一些持票人表示，他们对于去演出有两种想法。"
+      "title_zh": "为什么美式橄榄球比赛要奏加拿大国歌",
+      "summary_zh": "随着紧张局势的加剧和贸易战的升级，布法罗的球场上挂满了两国的国旗。"
     },
     {
-      "title": "Weekly quiz: Why did women's sports stars criticise actress Sydney Sweeney?",
+      "title": "Resident Evil: The video game adaptation with a lot to prove",
       "link": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "summary": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
       "published": "",
-      "title_zh": "每周测验：为什么女子体育明星批评女演员西德尼·斯威尼？",
-      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+      "title_zh": "《生化危机》：视频游戏改编版还有很多值得证明的地方",
+      "summary_zh": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him."
     },
     {
-      "title": "See tiny organisms on show in microscopic video competition",
+      "title": "Football club apologises for United 93 shirt advert",
       "link": "",
-      "summary": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
+      "summary": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
       "published": "",
-      "title_zh": "观看微观视频比赛中展示的微小生物",
-      "summary_zh": "获奖视频展示了患有罕见遗传病的儿童呼吸道中存在微小的毛发状结构，称为纤毛。"
+      "title_zh": "足球俱乐部为曼联93球衣广告道歉",
+      "summary_zh": "牛津联队为这张图片道歉，该图片带有 9/11 袭击中使用的一架飞机的呼号。"
     },
     {
-      "title": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
+      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
       "link": "",
-      "summary": "The rock band will not be stopping at Worthy Farm despite being on tour at that time next summer.",
+      "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
       "published": "",
-      "title_zh": "组织者 Emily Eavis 证实，Oasis 将不会成为 2027 年格拉斯顿伯里音乐节的主角",
-      "summary_zh": "尽管明年夏天这个时候摇滚乐队正在进行巡演，但他们不会在沃西农场停留。"
+      "title_zh": "41岁的罗纳尔多入选世界杯以来首支葡萄牙队名单",
+      "summary_zh": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 入选葡萄牙新任主帅豪尔赫·热苏斯 (Jorge Jesus) 为即将到来的国家联赛挑选的第一阵容。"
     },
     {
-      "title": "UK's 'dismal' Eurovision song choices to be examined by MPs",
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
       "link": "",
-      "summary": "It comes after the UK's entry Look Mum No Computer came last in May's final, scoring just one point.",
+      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
       "published": "",
-      "title_zh": "英国“惨淡”的欧洲歌唱大赛歌曲选择将由国会议员审查",
-      "summary_zh": "此前，英国参赛作品《Look Mum No Computer》在 5 月份的决赛中仅获得一分，垫底。"
+      "title_zh": "数十名涉嫌非法采矿者在尼日利亚拘留期间死亡",
+      "summary_zh": "当局将死亡与疾病联系起来，但情报报告和被告亲属对此提出了争议。"
     },
     {
-      "title": "Zara Larsson criticises White House for using her song in deportation video",
+      "title": "Watch: Sixth batch of UFO files includes orbs from 1952",
       "link": "",
-      "summary": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+      "summary": "The footage was filmed by a US Navy officer who reported the group of bright airborne objects to the Air Force's UFO investigation programme.",
       "published": "",
-      "title_zh": "扎拉·拉尔森批评白宫在驱逐视频中使用她的歌曲",
-      "summary_zh": "在艺术家称拉尔森的《午夜太阳》剪辑“非人化”后，白宫将其从其中一卷中删除。"
+      "title_zh": "观看：第六批 UFO 文件包括 1952 年的球体",
+      "summary_zh": "这段视频是由一名美国海军军官拍摄的，他向空军的不明飞行物调查计划报告了这群明亮的空中物体。"
     },
     {
-      "title": "Premier League news conferences: Carrick & Iraola latest plus De Zerbi updates",
+      "title": "North Korean anthem played for South Korea at Asian Games",
       "link": "",
-      "summary": "All the latest from the day's Premier League news conferences including updates from Carrick & Iraola.",
+      "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
       "published": "",
-      "title_zh": "英超新闻发布会：卡里克和伊劳拉最新动态以及德泽尔比更新",
-      "summary_zh": "当天英超新闻发布会的所有最新消息，包括卡里克和伊劳拉的最新消息。"
+      "title_zh": "亚运会韩国队奏响朝鲜国歌",
+      "summary_zh": "组织者为在日本亚运会上为韩国男子曲棍球队演奏朝鲜国歌而道歉。"
     },
     {
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
-      "link": "https://www.nbcnews.com/business/business-news/warren-buffett-steps-down-chairman-berkshire-hathaway-rcna598503",
-      "summary": "",
+      "title": "Bundesliga: Bayern Munich v Union Berlin",
+      "link": "",
+      "summary": "Watch TV coverage, follow live text commentary, score updates and match stats as Bayern Munich take on Union Berlin in the German Bundesliga.",
       "published": "",
-      "title_zh": "沃伦·巴菲特辞去伯克希尔·哈撒韦公司董事长职务"
-    },
-    {
-      "title": "From drafting bills to writing birthday songs: How Congress is using AI",
-      "link": "https://www.nbcnews.com/politics/congress/how-congress-uses-ai-doomsday-warnings-artificial-intelligence-rcna598018",
-      "summary": "",
-      "published": "",
-      "title_zh": "从起草法案到写生日歌曲：国会如何使用人工智能"
-    },
-    {
-      "title": "Iranians rally by the hundreds of thousands in biggest show of defiance since war began",
-      "link": "https://www.nbcnews.com/world/iran/iranians-rally-hundreds-thousands-biggest-show-defiance-war-began-rcna598500",
-      "summary": "",
-      "published": "",
-      "title_zh": "数十万伊朗人集会，这是战争开始以来最大规模的反抗行为"
-    },
-    {
-      "title": "‘Swagger on a trillion’: The booming business of styling NFL players",
-      "link": "https://www.nbcnews.com/sports/nfl/nfl-fashion-style-dak-prescott-jalen-hurts-tee-higgins-rcna597118",
-      "summary": "",
-      "published": "",
-      "title_zh": "“昂首阔步”：NFL 球员造型生意蓬勃发展"
-    },
-    {
-      "title": "Princess Diana’s brother says King Charles sounded ‘giddily elated’ after her death",
-      "link": "https://www.nbcnews.com/world/united-kingdom/princess-dianas-brother-says-king-charles-sounded-giddily-elated-death-rcna598499",
-      "summary": "",
-      "published": "",
-      "title_zh": "戴安娜王妃的弟弟表示，查尔斯国王在她去世后听起来“欣喜若狂”"
-    },
-    {
-      "title": "Holdout Lindsay Clancy juror will not be giving interviews, his attorney says",
-      "link": "https://www.nbcnews.com/news/us-news/holdout-lindsay-clancy-juror-will-not-giving-interviews-attorney-says-rcna598495",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·克兰西 (Lindsay Clancy) 的律师表示，他的陪审员将不会接受采访"
+      "title_zh": "德甲：拜仁慕尼黑 VS 柏林联合",
+      "summary_zh": "观看电视报道、关注实时文字评论、比分更新和比赛统计数据，观看拜仁慕尼黑在德甲联赛中迎战柏林联合队的比赛。"
     }
   ]
 }
