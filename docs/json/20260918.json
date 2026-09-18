@@ -1,6 +1,6 @@
 {
   "date": "20260918",
-  "total": 34,
+  "total": 35,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,255 +33,263 @@
   },
   "entries": [
     {
-      "title": "Josh Shapiro urges swift AI rules, says relying on tech companies is ‘flat-out wrong’",
-      "link": "https://www.nbcnews.com/politics/2028-election/josh-shapiro-urges-swift-ai-rules-says-relying-tech-companies-flat-wro-rcna598363",
-      "summary": "",
-      "published": "",
-      "title_zh": "乔什·夏皮罗敦促迅速制定人工智能规则，称依赖科技公司是“完全错误的”"
-    },
-    {
-      "title": "Salvadorans with TPS don’t know how long their protections will last",
-      "link": "https://www.nbcnews.com/news/us-news/salvadorans-tps-dont-know-long-protections-will-last-dont-panic-advoca-rcna598098",
-      "summary": "",
-      "published": "",
-      "title_zh": "拥有 TPS 的萨尔瓦多人不知道他们的保护能持续多久"
-    },
-    {
-      "title": "‘Seismic shift’: Todd Blanche’s political appearances shatter another DOJ norm",
-      "link": "https://www.nbcnews.com/politics/justice-department/seismic-shift-todd-blanches-political-appearances-shatter-another-doj-rcna598342",
-      "summary": "",
-      "published": "",
-      "title_zh": "“重大转变”：托德·布兰奇的政治表现打破了司法部的另一个规范"
-    },
-    {
-      "title": "Driver charged with 2nd-degree murder in L.A. bus crash that news helicopter was covering",
-      "link": "https://www.nbcnews.com/news/us-news/driver-charged-2nd-degree-murder-la-bus-crash-news-helicopter-rcna598400",
-      "summary": "",
-      "published": "",
-      "title_zh": "新闻直升机报道的洛杉矶巴士事故中，司机被控二级谋杀"
-    },
-    {
-      "title": "In speech to anti-vaccine group, Kennedy promises a ‘friend at the White House’",
-      "link": "https://www.nbcnews.com/health/health-news/kennedy-speech-anti-vaccine-group-rcna598421",
-      "summary": "",
-      "published": "",
-      "title_zh": "在向反疫苗组织发表讲话时，肯尼迪承诺成为“白宫的朋友”"
-    },
-    {
-      "title": "Josh Allen opens the Bills’ new stadium with a 5-TD outing in a 41-31 win over the Lions",
-      "link": "https://www.nbcnews.com/sports/nfl/buffalo-bills-detroit-lions-nfl-josh-allen-jared-goff-result-rcna598480",
-      "summary": "",
-      "published": "",
-      "title_zh": "乔什·艾伦以 5 次达阵为比尔队的新球场揭幕，球队以 41-31 战胜雄狮队"
-    },
-    {
-      "title": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump threat looms",
+      "title": "US ally makes decision on whether it will join military operations in key oil route",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着特朗普威胁的临近，伊朗深埋核设施出现了新的活动"
+      "title_zh": "美国盟友决定是否加入关键石油路线的军事行动"
     },
     {
-      "title": "Rescue crews battle severe storm to reach trapped couple and encounter grim scene",
+      "title": "Federal judges reveal private coordination behind Trump immigration cases",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "救援人员奋力救出被困夫妇，遭遇严峻风暴"
+      "title_zh": "联邦法官透露特朗普移民案件背后的私人协调"
     },
     {
-      "title": "87% of producers say they'd hire and raise pay if one broken process got fixed",
+      "title": "Man loses weight eating only food from popular chain for 25 days — but pays a price",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "87% 的生产商表示，如果某个损坏的流程得到修复，他们会雇用员工并加薪"
+      "title_zh": "男子连续 25 天只吃热门连锁店的食物成功减肥，但也付出了代价"
     },
     {
-      "title": "Senate hopeful claimed Trump voters' lives 'suck so f---ing bad' in leaked tape",
+      "title": "Holdout juror tells different story of what happened in Lindsay Clancy jury room",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "参议院希望在泄露的录音中声称特朗普选民的生活“糟透了”"
+      "title_zh": "坚持不懈的陪审员讲述了林赛·克兰西陪审室发生的不同故事"
     },
     {
-      "title": "Attorney says client was 'essentially pregnant for the better part of two decades'",
+      "title": "200K troops leave service yearly and critical infrastructure desperately needs them",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "律师称客户“在二十年的大部分时间里基本上都怀孕了”"
+      "title_zh": "每年有 20 万士兵退役，关键基础设施迫切需要他们"
     },
     {
-      "title": "'White Lotus' actress Alexandra Daddario wows in bikini after split from husband",
+      "title": "Crockett ripped by her own party for honoring singer with notorious history of violence",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《白莲花》女演员亚历山德拉·达达里奥在与丈夫分手后穿着比基尼令人惊叹"
+      "title_zh": "克罗克特因表彰具有臭名昭著的暴力历史的歌手而遭到自己所在政党的痛斥"
     },
     {
-      "title": "Brutal MLB collision leaves New York Mets first baseman  motionless on the field",
+      "title": "Home linked to 7 missing women, late resident's potential 'serial killer' memoir investigated",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国职业棒球大联盟（MLB）残酷碰撞导致纽约大都会队一垒手在球场上一动不动"
+      "title_zh": "与七名失踪妇女有关的家，已故居民的潜在“连环杀手”回忆录受到调查"
     },
     {
-      "title": "Cleric loses interfaith award over bin Laden remarks: 'Totally taken out of context'",
+      "title": "She was booked for alleged theft. Her mugshot is going viral for another reason",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "牧师因本·拉登言论而失去跨信仰奖：“完全断章取义”"
+      "title_zh": "她因涉嫌盗窃而被立案。她的照片走红还有另一个原因"
     },
     {
-      "title": "Juror who blocked Lindsay Clancy verdict disputes fellow jurors' claims: report",
+      "title": "Warren Buffett makes major move at Berkshire Hathaway after decades at the helm",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阻止林赛·克兰西判决的陪审员对其他陪审员的主张提出异议：报告"
+      "title_zh": "掌舵伯克希尔·哈撒韦公司几十年后，沃伦·巴菲特做出重大变动"
     },
     {
-      "title": "Hunter says alleged Bigfoot body found in Adirondacks produced stunning DNA clues",
+      "title": "SEAN HANNITY:Far-left Democrats literally want to 'shred' our construction",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "亨特称在阿迪朗达克山脉发现的所谓大脚怪尸体提供了令人震惊的 DNA 线索"
+      "title_zh": "肖恩·汉尼蒂：极左民主党人确实想“粉碎”我们的建设"
     },
     {
-      "title": "Dashcam captures horrifying moment news helicopter plunges from sky",
+      "title": "Sophie Cunningham says what other female athletes won't about Sydney Sweeney's nude ad",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "行车记录仪捕捉到直升机从天而降的可怕瞬间"
+      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 表示，其他女运动员不会对西德尼·斯威尼 (Sydney Sweeney) 的裸体广告表示不满"
     },
     {
-      "title": "Dem governor quietly axes plans to protect girls' sports without announcing it",
+      "title": "Ancient church believed to be 1,000 years old emerges after students make key find",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党州长在未宣布的情况下悄悄取消了保护女孩体育的计划"
+      "title_zh": "学生们的重要发现后，被认为有1000年历史的古老教堂出现了"
     },
     {
-      "title": "Paige Spiranac has a simple message for all the Sydney Sweeney haters",
+      "title": "What Robert Kraft's Macklemore ban over anti-Israel rant shows the world",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "佩吉·斯皮拉纳克（Paige Spiranac）向所有讨厌悉尼理发师的人传达了一条简单的信息"
+      "title_zh": "罗伯特·克拉夫特因反以色列言论而对麦克莫尔实施禁令向世界展示了什么"
     },
     {
-      "title": "Trump-backed Republican sends president a blunt warning on one of his signature issues",
+      "title": "Rapper Nicki Minaj joins Laura Ingraham for an exclusive interview at 7PM ET",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普支持的共和党人就他的标志性问题之一向总统发出直言不讳的警告"
+      "title_zh": "说唱歌手尼基·米娜 (Nicki Minaj) 与劳拉·英格拉汉姆 (Laura Ingraham) 于东部时间晚上 7 点接受独家采访"
     },
     {
-      "title": "Hasan Piker makes explosive claim about a nuclear Iran in Axios interview",
+      "title": "Former ESPN analyst accuses network of leaking his firing to OutKick to 'humiliate' him",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "哈桑·皮克 (Hasan Piker) 在 Axios 采访中对伊朗核问题发表爆炸性言论"
+      "title_zh": "前 ESPN 分析师指责网络将他的解雇信息泄露给 OutKick 以“羞辱”他"
     },
     {
-      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "title": "Three dead and eight injured in Philippines school shooting",
       "link": "",
-      "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
       "published": "",
-      "title_zh": "日本将利率提高至31年来新高以抑制物价上涨",
-      "summary_zh": "由于高能源价格推高通胀，世界各国央行纷纷加息。"
+      "title_zh": "菲律宾校园枪击案三死八伤",
+      "summary_zh": "枪手是该国自六月以来第三起校园枪击事件的死者之一。"
     },
     {
-      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
       "link": "",
-      "summary": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
+      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
       "published": "",
-      "title_zh": "卡尼提出在欧盟生活和工作的长远计划，加拿大人梦想欧洲",
-      "summary_zh": "多伦多人对移居欧盟的可能性感到兴奋，尽管短期内不太可能。"
+      "title_zh": "林赛·克兰西坚持不懈的陪审员毫不怀疑她故意杀害了自己的孩子",
+      "summary_zh": "这是这位拒绝站在其他人一边并宣告克兰西无罪的陪审员第一次公开谈论他的决定。"
     },
     {
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "title": "New wild cat species discovered - with only one known living member",
       "link": "",
-      "summary": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
+      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
       "published": "",
-      "title_zh": "美国向沙特出售F-35战机为何引发争议",
-      "summary_zh": "沙特阿拉伯多年来一直游说美国购买世界上最先进的战斗机 F35。"
+      "title_zh": "发现新的野猫物种——只有一种已知的现存成员",
+      "summary_zh": "一种长期被误认为亲戚的斑点野猫在玻利维亚被鉴定为新物种。"
     },
     {
-      "title": "US fans with Ed Sheeran tickets are left 'torn' by Macklemore controversy",
+      "title": "Police begin operation to move migrants from Ceuta beaches",
       "link": "",
-      "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
+      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
       "published": "",
-      "title_zh": "持有艾德·希兰门票的美国球迷因麦克勒莫尔的争议而“痛苦”",
-      "summary_zh": "对于希兰本周末的下一场演出，一些持票人表示，他们对于去演出有两种想法。"
+      "title_zh": "警方开始行动从休达海滩转移移民",
+      "summary_zh": "据报道，周五早上，警方向空中开枪，当时他们正在努力控制人群，争先恐后地在帐篷营地占据一席之地。"
     },
     {
-      "title": "India's hospital boom is improving access but pricing millions out of critical care",
+      "title": "In a border city stadium, US NFL fans sing Canada anthem with gusto",
       "link": "",
-      "summary": "Indian hospitals have attracted billions in funding, but the gap between public and private care is widening.",
+      "summary": "The BBC's Robin Levinson-King spoke to Buffalo Bills fans at a home game about why the Canadian anthem is being played.",
       "published": "",
-      "title_zh": "印度医院的蓬勃发展改善了就医机会，但导致数百万人无法享受重症监护服务",
-      "summary_zh": "印度医院吸引了数十亿美元的资金，但公立和私立医疗服务之间的差距正在扩大。"
+      "title_zh": "在边境城市体育场，美国 NFL 球迷热情高唱加拿大国歌",
+      "summary_zh": "BBC 的罗宾·莱文森-金 (Robin Levinson-King) 在主场比赛中向布法罗比尔队 (Buffalo Bills) 球迷讲述了为什么要演奏加拿大国歌。"
     },
     {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
       "link": "",
-      "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
       "published": "",
-      "title_zh": "“这是我们的公司”：尼日利亚人在疯狂购买股票后炫耀石油财富",
-      "summary_zh": "许多尼日利亚人购买了他们人生中的第一笔股票——非洲首富阿利科·丹格特 (Aliko Dangote) 拥有的炼油厂的股票。"
+      "title_zh": "巴基斯坦清真寺遭满载炸药车辆冲撞 至少16人死亡",
+      "summary_zh": "一名高级警官称，周五祈祷期间，一辆满载炸药的车辆撞向一座清真寺建筑。"
     },
     {
-      "title": "White House withdraws Trump's ICE nominee as Republican senator objects",
-      "link": "",
-      "summary": "One senator from Trump's party blocked the bid as he demands information about the fatal killings of US citizens by immigration enforcement.",
-      "published": "",
-      "title_zh": "由于共和党参议员反对，白宫撤回了特朗普的 ICE 提名",
-      "summary_zh": "特朗普所在政党的一名参议员阻止了这一提议，因为他要求提供有关移民执法机构杀害美国公民的信息。"
-    },
-    {
-      "title": "Royal row intensifies after fresh claims in Diana's brother book",
-      "link": "",
-      "summary": "Diana’s brother has published fresh claims about King Charles saying he was \"giddily elated\" in a phone call after the death of the Princess of Wales.",
-      "published": "",
-      "title_zh": "戴安娜兄弟书中的新指控后，王室争吵加剧",
-      "summary_zh": "戴安娜王妃的兄弟发表了有关查尔斯国王的新说法，称他在威尔士王妃去世后的电话中“欣喜若狂”。"
-    },
-    {
-      "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
-      "link": "",
-      "summary": "Since 2023, hundreds of thousands of Afghans have been deported from Pakistan and over two million have left.",
-      "published": "",
-      "title_zh": "“彻底绝望”：阿富汗女医学生担心被从巴基斯坦遣送回国",
-      "summary_zh": "自2023年以来，已有数十万阿富汗人被驱逐出巴基斯坦，其中超过200万人已经离开。"
-    },
-    {
-      "title": "Judge orders Trump to give 30 days' notice before any 'demolition' at Kennedy Center",
-      "link": "",
-      "summary": "The order comes after Trump was photographed onboard Air Force One looking at a poster that appeared to tout the demolition of the site.",
-      "published": "",
-      "title_zh": "法官命令特朗普在“拆除”肯尼迪中心之前提前 30 天通知",
-      "summary_zh": "该命令是在特朗普被拍到在空军一号上看着一张似乎宣扬拆除该地点的海报之后发出的。"
-    },
-    {
-      "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
-      "link": "",
-      "summary": "The mother of two young children was kidnapped last week in the middle of the day in the main city, Blantyre.",
-      "published": "",
-      "title_zh": "英国妇女在马拉维枪战中获救，四名绑架嫌疑人死亡",
-      "summary_zh": "上周中午，两个孩子的母亲在主要城市布兰太尔被绑架。"
-    },
-    {
-      "title": "War may be coming. Is the UK psychologically ready?",
+      "title": "War may be coming. Is UK psychologically ready?",
       "link": "",
       "summary": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
       "published": "",
-      "title_zh": "战争可能即将来临。英国做好心理准备了吗？",
+      "title_zh": "战争可能即将来临。英国心理准备好了吗？",
       "summary_zh": "军方和政府表示冲突风险正在增加，但我们可能还没有做好心理准备"
     },
     {
-      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "title": "US fans with Ed Sheeran tickets are left torn by Macklemore controversy",
       "link": "",
-      "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
       "published": "",
-      "title_zh": "在中国被监禁的美国学者的妻子要求特朗普在习近平会议上提高逮捕力度",
-      "summary_zh": "西尔维娅·辛（Sylvia Zin）是在中国被监禁的人的家属之一，他们正在特朗普下周接待该国领导人时寻求帮助。"
+      "title_zh": "持有艾德·希兰门票的美国球迷因麦克勒莫尔的争议而陷入困境",
+      "summary_zh": "对于希兰本周末的下一场演出，一些持票人表示，他们对于去演出有两种想法。"
+    },
+    {
+      "title": "Weekly quiz: Why did women's sports stars criticise actress Sydney Sweeney?",
+      "link": "",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "",
+      "title_zh": "每周测验：为什么女子体育明星批评女演员西德尼·斯威尼？",
+      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+    },
+    {
+      "title": "See tiny organisms on show in microscopic video competition",
+      "link": "",
+      "summary": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
+      "published": "",
+      "title_zh": "观看微观视频比赛中展示的微小生物",
+      "summary_zh": "获奖视频展示了患有罕见遗传病的儿童呼吸道中存在微小的毛发状结构，称为纤毛。"
+    },
+    {
+      "title": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
+      "link": "",
+      "summary": "The rock band will not be stopping at Worthy Farm despite being on tour at that time next summer.",
+      "published": "",
+      "title_zh": "组织者 Emily Eavis 证实，Oasis 将不会成为 2027 年格拉斯顿伯里音乐节的主角",
+      "summary_zh": "尽管明年夏天这个时候摇滚乐队正在进行巡演，但他们不会在沃西农场停留。"
+    },
+    {
+      "title": "UK's 'dismal' Eurovision song choices to be examined by MPs",
+      "link": "",
+      "summary": "It comes after the UK's entry Look Mum No Computer came last in May's final, scoring just one point.",
+      "published": "",
+      "title_zh": "英国“惨淡”的欧洲歌唱大赛歌曲选择将由国会议员审查",
+      "summary_zh": "此前，英国参赛作品《Look Mum No Computer》在 5 月份的决赛中仅获得一分，垫底。"
+    },
+    {
+      "title": "Zara Larsson criticises White House for using her song in deportation video",
+      "link": "",
+      "summary": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+      "published": "",
+      "title_zh": "扎拉·拉尔森批评白宫在驱逐视频中使用她的歌曲",
+      "summary_zh": "在艺术家称拉尔森的《午夜太阳》剪辑“非人化”后，白宫将其从其中一卷中删除。"
+    },
+    {
+      "title": "Premier League news conferences: Carrick & Iraola latest plus De Zerbi updates",
+      "link": "",
+      "summary": "All the latest from the day's Premier League news conferences including updates from Carrick & Iraola.",
+      "published": "",
+      "title_zh": "英超新闻发布会：卡里克和伊劳拉最新动态以及德泽尔比更新",
+      "summary_zh": "当天英超新闻发布会的所有最新消息，包括卡里克和伊劳拉的最新消息。"
+    },
+    {
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway",
+      "link": "https://www.nbcnews.com/business/business-news/warren-buffett-steps-down-chairman-berkshire-hathaway-rcna598503",
+      "summary": "",
+      "published": "",
+      "title_zh": "沃伦·巴菲特辞去伯克希尔·哈撒韦公司董事长职务"
+    },
+    {
+      "title": "From drafting bills to writing birthday songs: How Congress is using AI",
+      "link": "https://www.nbcnews.com/politics/congress/how-congress-uses-ai-doomsday-warnings-artificial-intelligence-rcna598018",
+      "summary": "",
+      "published": "",
+      "title_zh": "从起草法案到写生日歌曲：国会如何使用人工智能"
+    },
+    {
+      "title": "Iranians rally by the hundreds of thousands in biggest show of defiance since war began",
+      "link": "https://www.nbcnews.com/world/iran/iranians-rally-hundreds-thousands-biggest-show-defiance-war-began-rcna598500",
+      "summary": "",
+      "published": "",
+      "title_zh": "数十万伊朗人集会，这是战争开始以来最大规模的反抗行为"
+    },
+    {
+      "title": "‘Swagger on a trillion’: The booming business of styling NFL players",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-fashion-style-dak-prescott-jalen-hurts-tee-higgins-rcna597118",
+      "summary": "",
+      "published": "",
+      "title_zh": "“昂首阔步”：NFL 球员造型生意蓬勃发展"
+    },
+    {
+      "title": "Princess Diana’s brother says King Charles sounded ‘giddily elated’ after her death",
+      "link": "https://www.nbcnews.com/world/united-kingdom/princess-dianas-brother-says-king-charles-sounded-giddily-elated-death-rcna598499",
+      "summary": "",
+      "published": "",
+      "title_zh": "戴安娜王妃的弟弟表示，查尔斯国王在她去世后听起来“欣喜若狂”"
+    },
+    {
+      "title": "Holdout Lindsay Clancy juror will not be giving interviews, his attorney says",
+      "link": "https://www.nbcnews.com/news/us-news/holdout-lindsay-clancy-juror-will-not-giving-interviews-attorney-says-rcna598495",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西 (Lindsay Clancy) 的律师表示，他的陪审员将不会接受采访"
     }
   ]
 }
