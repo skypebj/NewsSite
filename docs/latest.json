@@ -1,6 +1,6 @@
 {
   "date": "20260919",
-  "total": 32,
+  "total": 14,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,238 +33,105 @@
   },
   "entries": [
     {
-      "title": "China and Russia checkmated after Trump seals Greenland security deal, expert says",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "published": "",
+      "title_zh": "北约欢迎格陵兰岛协议，特朗普称该协议将赋予美国“永久安全控制权”",
+      "summary_zh": "在唐纳德·特朗普几个月来威胁吞并该领土后，丹麦和美国达成协议。"
+    },
+    {
+      "title": "Boardroom revolt at Tata sets stage for period of prolonged upheaval",
+      "link": "",
+      "summary": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "published": "",
+      "title_zh": "塔塔董事会的叛乱为长期动荡奠定了基础",
+      "summary_zh": "塔塔董事会围绕董事长重新任命和上市命令的斗争愈演愈烈。"
+    },
+    {
+      "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
+      "link": "",
+      "summary": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+      "published": "",
+      "title_zh": "从几乎被遗忘到欧洲 - 布莱顿以时尚方式庆祝 125 周年",
+      "summary_zh": "从默默无闻、几乎被遗忘到英超联赛和欧洲——布莱顿庆祝其成立 125 周年。"
+    },
+    {
+      "title": "Iran war crisis deepens as Houthi attacks could draw another military power into fight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家称，特朗普签署格陵兰安全协议后，中国和俄罗斯陷入僵局"
+      "title_zh": "伊朗战争危机加深，胡塞武装袭击可能会吸引另一个军事强国加入战斗"
     },
     {
-      "title": "Homelessness fraud cases in major city expose deeper issue than stolen millions, watchdog warns",
+      "title": "Pro-Palestinian protesters target Ed Sheeran’s concert after Macklemore removed from tour",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "监管机构警告称，主要城市的无家可归者欺诈案件暴露出比被盗数百万美元更严重的问题"
+      "title_zh": "麦克莫尔被取消巡演后，亲巴勒斯坦抗议者将艾德·希兰的演唱会作为目标"
     },
     {
-      "title": "John Ritter's widow opens up about fatal mistake that cost actor his life",
+      "title": "Tim Tebow nearly storms off set over 'most derogatory thing I have ever heard'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "约翰·里特的遗孀讲述了导致演员丧生的致命错误"
+      "title_zh": "蒂姆·蒂博 (Tim Tebow) 差点因“我听过的最侮辱性的事情”而愤愤不平"
     },
     {
-      "title": "Entire high school football team suspended as principal warns 'line was crossed'",
+      "title": "One of the most requested comebacks ever hits restaurants starting Sept 28",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "校长警告“越界”，整个高中橄榄球队停赛"
+      "title_zh": "自 9 月 28 日起，最受欢迎的回归活动之一将登陆餐厅"
     },
     {
-      "title": "'Airborne attack' hits key US partner as Iran war threatens new regional flashpoint",
+      "title": "Brady warned us 20 years ago and now another NFL legend is echoing those words",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗战争威胁新的地区热点，“空降袭击”袭击美国主要伙伴"
+      "title_zh": "布雷迪 20 年前警告过我们，现在另一位 NFL 传奇人物正在呼应这些话"
     },
     {
-      "title": "Bill Maher resurrects Macklemore’s ‘Jew’ costume amid Ed Sheeran tour feud",
+      "title": "1 in 60 adults has HIV as popular honeymoon destination faces national crisis",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Bill Maher resurrects Macklemore’s ‘Jew’ costume amid Ed Sheeran tour feud"
+      "title_zh": "热门蜜月目的地面临国家危机，每 60 名成年人中有 1 人感染艾滋病毒"
     },
     {
-      "title": "Carrot Top hospitalized as Las Vegas residency abruptly cancels shows",
+      "title": "Clay Aiken says he 'died inside' after Rosie O'Donnell outed him on live TV",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拉斯维加斯驻场演出突然取消，Carrot Top 入院治疗"
+      "title_zh": "克莱·艾肯 (Clay Aiken) 表示，在罗西·奥唐纳 (Rosie O'Donnell) 在电视直播中揭发他之后，他“死在了心里”"
     },
     {
-      "title": "Richard Branson’s wife could have survived with crucial medication, coroner finds",
+      "title": "Trump launches 'AI Force,' says 'Only High IQ individuals need apply'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "验尸官发现，理查德·布兰森的妻子如果服用重要的药物就可以活下来"
+      "title_zh": "特朗普推出“人工智能部队”，称“只有高智商的人才需要申请”"
     },
     {
-      "title": "Paramount is eyeing life beyond Hollywood — and two states are in the spotlight",
+      "title": "Arkansas fans stay away as Georgia routs Razorbacks in nearly empty stadium",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "派拉蒙着眼于好莱坞以外的生活——两个州成为焦点"
+      "title_zh": "阿肯色州球迷远离佐治亚州，在几乎空无一人的体育场内击败剃刀鲸队"
     },
     {
-      "title": "Networks embrace their latest form of panic – the AI apocalypse",
+      "title": "Bill Belichick leaves ESPN reporter feeling like she 'made it out alive'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "网络拥抱最新形式的恐慌——人工智能启示录"
+      "title_zh": "比尔·贝利切克 (Bill Belichick) 让 ESPN 记者感觉自己“活了下来”"
     },
     {
-      "title": "Pat McAfee triggers outrage after 'College GameDay' patriotic moment goes viral",
+      "title": "SPAM's newest flavor embraces buzzy trend but divides fans: 'Absolutely not'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "帕特·迈克菲在“大学比赛日”爱国时刻走红后引发愤怒"
-    },
-    {
-      "title": "Former ESPN anchor under fire for racism accusations aimed at Caitlin Clark fans",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前 ESPN 主播因针对凯特琳·克拉克粉丝的种族主义指控而受到抨击"
-    },
-    {
-      "title": "Costco brings back a fan-favorite food court treat after years off the menu",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Costco 推出多年以来深受粉丝喜爱的美食广场美食"
-    },
-    {
-      "title": "Vulgar Lane Kiffin chant heard in living rooms throughout the country on College GameDay",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大学比赛日，全国各地的客厅里都能听到粗俗的莱恩·基芬口号"
-    },
-    {
-      "title": "Newly released UFO files reveal eerie footage of unexplained objects over Utah",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "新发布的不明飞行物文件揭示了犹他州上空不明物体的怪异镜头"
-    },
-    {
-      "title": "Wealthy family's wiretaps suggest they thought they'd gotten away with murder",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "富裕家庭的窃听显示他们认为自己逃脱了谋杀罪"
-    },
-    {
-      "title": "Tropical disease spread by mosquitoes claims first recorded death in US state",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "蚊子传播的热带疾病导致美国州首例死亡病例"
-    },
-    {
-      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-      "link": "",
-      "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-      "published": "",
-      "title_zh": "利雅得机场附近冒烟后，胡塞武装声称袭击了沙特首都",
-      "summary_zh": "哈立德国王国际机场事件造成了数小时的航班中断，并且发生在也门与胡塞叛军的冲突不断升级之际。"
-    },
-    {
-      "title": "Watch: Princess Diana's brother says he is telling the truth about a phone call with Charles after her death",
-      "link": "",
-      "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
-      "published": "",
-      "title_zh": "观看：戴安娜王妃的弟弟说他在戴安娜王妃去世后与查尔斯的电话中说的是实话",
-      "summary_zh": "厄尔·斯宾塞 (Earl Spencer) 接受了英国广播公司 (BBC) 的劳拉·昆斯伯格 (Laura Kuenssberg) 独家采访，谈论了他在一本新书中提出的主张。"
-    },
-    {
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "link": "",
-      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "published": "",
-      "title_zh": "特朗普禁止一些媒体后，记者被拒绝进入白宫",
-      "summary_zh": "据媒体报道，CNN、MS NOW 和 Politico 记者的白宫记者证被没收。"
-    },
-    {
-      "title": "Analysis: Trump escalates media fight after week of setbacks",
-      "link": "",
-      "summary": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-      "published": "",
-      "title_zh": "分析：特朗普在经历一周的挫折后升级了媒体斗争",
-      "summary_zh": "英国广播公司 (BBC) 的安东尼·祖彻 (Anthony Zurcher) 写道，四面楚歌的特朗普在与新闻媒体的斗争中注入了新的尖酸刻薄。"
-    },
-    {
-      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "link": "",
-      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
-      "published": "",
-      "title_zh": "“受够了”：约翰内斯堡附近发生一系列谋杀案后妇女抗议",
-      "summary_zh": "此后，警方成立了一个工作组来调查这起谋杀案，并敦促肯普顿公园地区的妇女避免独自行走或跑步，“尤其是在偏远地区”。"
-    },
-    {
-      "title": "Ed Sheeran set to play first concert since Macklemore controversy",
-      "link": "",
-      "summary": "The show in Philadelphia comes after Ed Sheeran dropped rapper Macklemore from his tour over pro-Palestinian comments.",
-      "published": "",
-      "title_zh": "艾德·希兰将举办自麦克莫尔争议以来的首场音乐会",
-      "summary_zh": "费城的这场演出是在艾德·希兰因亲巴勒斯坦言论而将说唱歌手麦克勒莫尔从他的巡演中除名之后举行的。"
-    },
-    {
-      "title": "Bitter row over Diana book brings back unhappy times for royals",
-      "link": "",
-      "summary": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death.",
-      "published": "",
-      "title_zh": "戴安娜王妃的书引发的激烈争吵让王室成员重拾不愉快的时光",
-      "summary_zh": "王室目前的许多麻烦都可以追溯到当时的威尔士王妃去世后的后果。"
-    },
-    {
-      "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
-      "link": "",
-      "summary": "The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing.",
-      "published": "",
-      "title_zh": "从“古板”到时尚——现在穿玛莎百货的衣服酷吗？",
-      "summary_zh": "该零售商本周举办了首届伦敦时装周秀，庆祝服装生产 100 周年。"
-    },
-    {
-      "title": "Would Australians support a smart glasses ban?",
-      "link": "",
-      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
-      "published": "",
-      "title_zh": "澳大利亚人会支持智能眼镜禁令吗？",
-      "summary_zh": "由于澳大利亚考虑禁止在政府办公室使用智能眼镜，英国广播公司询问了悉尼人的想法。"
-    },
-    {
-      "title": "Arsenal handed first loss by brilliant Brighton",
-      "link": "",
-      "summary": "Arsenal suffer their first defeat of the season as they are stunned by Brighton, who put three past the champions at Amex Stadium.",
-      "published": "",
-      "title_zh": "阿森纳首场失利不敌布莱顿",
-      "summary_zh": "阿森纳遭遇了本赛季的首场失利，他们在美国运通球场输给了布莱顿，后者三场比赛击败了冠军球队。"
-    },
-    {
-      "title": "News organizations banned from the White House",
-      "link": "https://www.nbcnews.com/politics/white-house/ms-now-journalists-denied-access-white-house-trump-announced-ban-rcna598677",
-      "summary": "",
-      "published": "",
-      "title_zh": "新闻机构被禁止进入白宫"
-    },
-    {
-      "title": "Inside the California church scandal that is TikTok’s latest obsession",
-      "link": "https://www.nbcnews.com/news/us-news/california-church-scandal-tiktoks-latest-obsession-rcna598587",
-      "summary": "",
-      "published": "",
-      "title_zh": "加州教堂丑闻是 TikTok 最新关注的焦点"
-    },
-    {
-      "title": "After Greenland threats, Trump settles for a deal that avoids further angering allies",
-      "link": "https://www.nbcnews.com/world/greenland/greenland-threats-trump-settles-deal-avoids-angering-allies-rcna598670",
-      "summary": "",
-      "published": "",
-      "title_zh": "在格陵兰岛受到威胁后，特朗普达成了一项避免进一步激怒盟友的协议"
-    },
-    {
-      "title": "Democratic Gov. Katie Hobbs leans into a GOP-friendly message in Arizona",
-      "link": "https://www.nbcnews.com/politics/2026-election/democratic-gov-katie-hobbs-leans-gop-friendly-message-arizona-rcna598336",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党州长凯蒂·霍布斯在亚利桑那州倾向于共和党友好的信息"
-    },
-    {
-      "title": "Which party will win on affordability?",
-      "link": "https://www.nbcnews.com/video/which-party-will-win-on-affordability-270089285661",
-      "summary": "",
-      "published": "",
-      "title_zh": "哪一方会在负担能力方面获胜？"
+      "title_zh": "SPAM 的最新口味迎合了流行趋势，但粉丝们却意见不一：“绝对不是”"
     }
   ]
 }
