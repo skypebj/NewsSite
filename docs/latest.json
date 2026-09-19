@@ -1,6 +1,6 @@
 {
   "date": "20260919",
-  "total": 25,
+  "total": 32,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,190 +33,238 @@
   },
   "entries": [
     {
-      "title": "Kirk family’s powerful evidence faces legal twist that could upend wrongful death case, experts warn",
+      "title": "China and Russia checkmated after Trump seals Greenland security deal, expert says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家警告说，柯克家族的有力证据面临法律扭曲，可能会推翻非正常死亡案件"
+      "title_zh": "专家称，特朗普签署格陵兰安全协议后，中国和俄罗斯陷入僵局"
     },
     {
-      "title": "Five years after her daughter's remains were found, Nichole Schmidt has a plea",
+      "title": "Homelessness fraud cases in major city expose deeper issue than stolen millions, watchdog warns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "女儿遗体被发现五年后，妮可·施密特提出请求"
+      "title_zh": "监管机构警告称，主要城市的无家可归者欺诈案件暴露出比被盗数百万美元更严重的问题"
     },
     {
-      "title": "Clancy juror who wouldn't budge hires a familiar Trump attorney to fight back",
+      "title": "John Ritter's widow opens up about fatal mistake that cost actor his life",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "不肯让步的克兰西陪审员聘请了一位熟悉的特朗普律师进行反击"
+      "title_zh": "约翰·里特的遗孀讲述了导致演员丧生的致命错误"
     },
     {
-      "title": "Sen hopeful's favorite narrative crumbles after detail in latest ad puts him in hot seat",
+      "title": "Entire high school football team suspended as principal warns 'line was crossed'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "最新广告中的细节让森希望最喜欢的叙事崩溃，让他陷入困境"
+      "title_zh": "校长警告“越界”，整个高中橄榄球队停赛"
     },
     {
-      "title": "Rogue ChatGPT agent hacked its way out and struck a real company, exec warns",
+      "title": "'Airborne attack' hits key US partner as Iran war threatens new regional flashpoint",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "高管警告称，流氓 ChatGPT 代理黑客入侵并袭击了一家真正的公司"
+      "title_zh": "伊朗战争威胁新的地区热点，“空降袭击”袭击美国主要伙伴"
     },
     {
-      "title": "'I'm out': California wealth tax sparks stark business warning from entrepreneurs",
+      "title": "Bill Maher resurrects Macklemore’s ‘Jew’ costume amid Ed Sheeran tour feud",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "'I'm out': California wealth tax sparks stark business warning from entrepreneurs"
+      "title_zh": "Bill Maher resurrects Macklemore’s ‘Jew’ costume amid Ed Sheeran tour feud"
     },
     {
-      "title": "Ole Miss fans prepare for Lane Kiffin’s emotional return to Oxford for LSU showdown",
+      "title": "Carrot Top hospitalized as Las Vegas residency abruptly cancels shows",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "密西西比大学球迷为莱恩·基芬激动地重返牛津参加路易斯安那州立大学对决做好准备"
+      "title_zh": "拉斯维加斯驻场演出突然取消，Carrot Top 入院治疗"
     },
     {
-      "title": "STEPHEN MILLER:Democratic socialists want to ‘strip’ America apart",
+      "title": "Richard Branson’s wife could have survived with crucial medication, coroner finds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "斯蒂芬·米勒：民主社会主义者想要“剥离”美国"
+      "title_zh": "验尸官发现，理查德·布兰森的妻子如果服用重要的药物就可以活下来"
     },
     {
-      "title": "Beloved restaurant chain known for ice cream now operates in only a handful of states",
+      "title": "Paramount is eyeing life beyond Hollywood — and two states are in the spotlight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "以冰淇淋闻名的深受喜爱的连锁餐厅现在仅在少数几个州运营"
+      "title_zh": "派拉蒙着眼于好莱坞以外的生活——两个州成为焦点"
     },
     {
-      "title": "Missouri woman indicted over alleged death threats to Austin Metcalf's family",
+      "title": "Networks embrace their latest form of panic – the AI apocalypse",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Missouri woman indicted over alleged death threats to Austin Metcalf's family"
+      "title_zh": "网络拥抱最新形式的恐慌——人工智能启示录"
     },
     {
-      "title": "Gemini AI guessed passwords — until one opened a real company's system",
+      "title": "Pat McAfee triggers outrage after 'College GameDay' patriotic moment goes viral",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Gemini AI 猜测密码——直到有人打开真实公司的系统"
+      "title_zh": "帕特·迈克菲在“大学比赛日”爱国时刻走红后引发愤怒"
     },
     {
-      "title": "What might an AI doomsday look like? Experts have given it some thought",
-      "link": "https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950",
+      "title": "Former ESPN anchor under fire for racism accusations aimed at Caitlin Clark fans",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "人工智能的末日会是什么样子？专家们对此进行了一些思考"
+      "title_zh": "前 ESPN 主播因针对凯特琳·克拉克粉丝的种族主义指控而受到抨击"
     },
     {
-      "title": "A rapper gets the boot, and the Fed raises interest rates: The news quiz",
-      "link": "https://www.nbcnews.com/news/news-quiz/macklemore-news-quiz-rcna598434",
+      "title": "Costco brings back a fan-favorite food court treat after years off the menu",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "说唱歌手被解雇，美联储加息：新闻测验"
+      "title_zh": "Costco 推出多年以来深受粉丝喜爱的美食广场美食"
     },
     {
-      "title": "What do the Houthis want? The threat to Saudi oil may be about more than just helping Iran",
-      "link": "https://www.nbcnews.com/world/yemen/houthis-want-threat-saudi-oil-may-just-helping-iran-rcna598470",
+      "title": "Vulgar Lane Kiffin chant heard in living rooms throughout the country on College GameDay",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "胡塞武装想要什么？对沙特石油的威胁可能不仅仅是帮助伊朗"
+      "title_zh": "大学比赛日，全国各地的客厅里都能听到粗俗的莱恩·基芬口号"
     },
     {
-      "title": "Google's Gemini AI hacked three companies in security test",
+      "title": "Newly released UFO files reveal eerie footage of unexplained objects over Utah",
       "link": "",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "summary": "",
       "published": "",
-      "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
-      "summary_zh": "一位谷歌官员告诉英国广播公司，人工智能模型访问了互联网并猜测了三个网站的凭据。"
+      "title_zh": "新发布的不明飞行物文件揭示了犹他州上空不明物体的怪异镜头"
     },
     {
-      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "title": "Wealthy family's wiretaps suggest they thought they'd gotten away with murder",
       "link": "",
-      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "summary": "",
       "published": "",
-      "title_zh": "鲨鱼袭击事件引发西澳大利亚罕见的杀戮令，受害者被命名",
-      "summary_zh": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him."
+      "title_zh": "富裕家庭的窃听显示他们认为自己逃脱了谋杀罪"
     },
     {
-      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+      "title": "Tropical disease spread by mosquitoes claims first recorded death in US state",
       "link": "",
-      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "summary": "",
       "published": "",
-      "title_zh": "“还有多少尸体？”两个月内发现九名妇女死亡，南非陷入悲痛和恐惧",
-      "summary_zh": "迪内奥·莫塔帕内 (Dineo Motapane) 是最近九名受害者之一，他们的死亡让整个国家因针对妇女的暴力行为而遭受创伤。"
+      "title_zh": "蚊子传播的热带疾病导致美国州首例死亡病例"
     },
     {
-      "title": "'Enough is enough': Vigils held for murdered women in South Africa",
+      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+      "link": "",
+      "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "published": "",
+      "title_zh": "利雅得机场附近冒烟后，胡塞武装声称袭击了沙特首都",
+      "summary_zh": "哈立德国王国际机场事件造成了数小时的航班中断，并且发生在也门与胡塞叛军的冲突不断升级之际。"
+    },
+    {
+      "title": "Watch: Princess Diana's brother says he is telling the truth about a phone call with Charles after her death",
+      "link": "",
+      "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+      "published": "",
+      "title_zh": "观看：戴安娜王妃的弟弟说他在戴安娜王妃去世后与查尔斯的电话中说的是实话",
+      "summary_zh": "厄尔·斯宾塞 (Earl Spencer) 接受了英国广播公司 (BBC) 的劳拉·昆斯伯格 (Laura Kuenssberg) 独家采访，谈论了他在一本新书中提出的主张。"
+    },
+    {
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "link": "",
+      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "published": "",
+      "title_zh": "特朗普禁止一些媒体后，记者被拒绝进入白宫",
+      "summary_zh": "据媒体报道，CNN、MS NOW 和 Politico 记者的白宫记者证被没收。"
+    },
+    {
+      "title": "Analysis: Trump escalates media fight after week of setbacks",
+      "link": "",
+      "summary": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+      "published": "",
+      "title_zh": "分析：特朗普在经历一周的挫折后升级了媒体斗争",
+      "summary_zh": "英国广播公司 (BBC) 的安东尼·祖彻 (Anthony Zurcher) 写道，四面楚歌的特朗普在与新闻媒体的斗争中注入了新的尖酸刻薄。"
+    },
+    {
+      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
       "link": "",
       "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
       "published": "",
-      "title_zh": "“受够了”：南非为被谋杀的妇女举行守夜活动",
+      "title_zh": "“受够了”：约翰内斯堡附近发生一系列谋杀案后妇女抗议",
       "summary_zh": "此后，警方成立了一个工作组来调查这起谋杀案，并敦促肯普顿公园地区的妇女避免独自行走或跑步，“尤其是在偏远地区”。"
     },
     {
-      "title": "'I'm telling the truth': Princess Diana's brother defends claims he makes about King Charles in new book",
+      "title": "Ed Sheeran set to play first concert since Macklemore controversy",
       "link": "",
-      "summary": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+      "summary": "The show in Philadelphia comes after Ed Sheeran dropped rapper Macklemore from his tour over pro-Palestinian comments.",
       "published": "",
-      "title_zh": "“我说的是实话”：戴安娜王妃的弟弟为他在新书中对查尔斯国王的说法进行了辩护",
-      "summary_zh": "戴安娜王妃的弟弟告诉英国广播公司的劳拉·昆斯伯格，“我们很快就会忘记她”，这“正是”当时的威尔士亲王所说的。"
+      "title_zh": "艾德·希兰将举办自麦克莫尔争议以来的首场音乐会",
+      "summary_zh": "费城的这场演出是在艾德·希兰因亲巴勒斯坦言论而将说唱歌手麦克勒莫尔从他的巡演中除名之后举行的。"
     },
     {
-      "title": "Millions without power as Cuba hit by latest major blackout",
+      "title": "Bitter row over Diana book brings back unhappy times for royals",
       "link": "",
-      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "summary": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death.",
       "published": "",
-      "title_zh": "古巴最近发生大停电，数百万人断电",
-      "summary_zh": "由于美国的封锁加剧了燃料短缺，大范围停电变得越来越普遍。"
+      "title_zh": "戴安娜王妃的书引发的激烈争吵让王室成员重拾不愉快的时光",
+      "summary_zh": "王室目前的许多麻烦都可以追溯到当时的威尔士王妃去世后的后果。"
     },
     {
-      "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+      "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
       "link": "",
-      "summary": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
+      "summary": "The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing.",
       "published": "",
-      "title_zh": "黛西·埃德加·琼斯：当谈到爱情时，我尝试隐藏我的情感",
-      "summary_zh": "这位女演员说，在现实生活中，她就像《理智与情感》中扮演的角色一样。"
+      "title_zh": "从“古板”到时尚——现在穿玛莎百货的衣服酷吗？",
+      "summary_zh": "该零售商本周举办了首届伦敦时装周秀，庆祝服装生产 100 周年。"
     },
     {
-      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "title": "Would Australians support a smart glasses ban?",
       "link": "",
-      "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
       "published": "",
-      "title_zh": "我在爱尔兰相亲节上找到了爱情 - 我希望其他人也能这样做",
-      "summary_zh": "玛丽·廷比（Mary Timby）去年心血来潮飞往爱尔兰，在一次相亲节上认识了男友。"
+      "title_zh": "澳大利亚人会支持智能眼镜禁令吗？",
+      "summary_zh": "由于澳大利亚考虑禁止在政府办公室使用智能眼镜，英国广播公司询问了悉尼人的想法。"
     },
     {
-      "title": "Could AI wipe out humans and how might it do it?",
+      "title": "Arsenal handed first loss by brilliant Brighton",
       "link": "",
-      "summary": "Cyber Correspondent Joe Tidy looks at some of the scenarios being imagined and assesses how likely they are.",
+      "summary": "Arsenal suffer their first defeat of the season as they are stunned by Brighton, who put three past the champions at Amex Stadium.",
       "published": "",
-      "title_zh": "人工智能会消灭人类吗？它会如何做到这一点？",
-      "summary_zh": "网络记者乔·蒂迪（Joe Tidy）研究了想象中的一些场景，并评估了它们的可能性。"
+      "title_zh": "阿森纳首场失利不敌布莱顿",
+      "summary_zh": "阿森纳遭遇了本赛季的首场失利，他们在美国运通球场输给了布莱顿，后者三场比赛击败了冠军球队。"
     },
     {
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "link": "",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "title": "News organizations banned from the White House",
+      "link": "https://www.nbcnews.com/politics/white-house/ms-now-journalists-denied-access-white-house-trump-announced-ban-rcna598677",
+      "summary": "",
       "published": "",
-      "title_zh": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "summary_zh": "一名四岁儿童在袭击中丧生，枪手还向警察设施开火。"
+      "title_zh": "新闻机构被禁止进入白宫"
     },
     {
-      "title": "Apology after North Korean anthem played for South Korea at Asian Games",
-      "link": "",
-      "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+      "title": "Inside the California church scandal that is TikTok’s latest obsession",
+      "link": "https://www.nbcnews.com/news/us-news/california-church-scandal-tiktoks-latest-obsession-rcna598587",
+      "summary": "",
       "published": "",
-      "title_zh": "亚运会韩国队奏朝鲜国歌后道歉",
-      "summary_zh": "组织者为在日本亚运会上为韩国男子曲棍球队演奏朝鲜国歌而道歉。"
+      "title_zh": "加州教堂丑闻是 TikTok 最新关注的焦点"
+    },
+    {
+      "title": "After Greenland threats, Trump settles for a deal that avoids further angering allies",
+      "link": "https://www.nbcnews.com/world/greenland/greenland-threats-trump-settles-deal-avoids-angering-allies-rcna598670",
+      "summary": "",
+      "published": "",
+      "title_zh": "在格陵兰岛受到威胁后，特朗普达成了一项避免进一步激怒盟友的协议"
+    },
+    {
+      "title": "Democratic Gov. Katie Hobbs leans into a GOP-friendly message in Arizona",
+      "link": "https://www.nbcnews.com/politics/2026-election/democratic-gov-katie-hobbs-leans-gop-friendly-message-arizona-rcna598336",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党州长凯蒂·霍布斯在亚利桑那州倾向于共和党友好的信息"
+    },
+    {
+      "title": "Which party will win on affordability?",
+      "link": "https://www.nbcnews.com/video/which-party-will-win-on-affordability-270089285661",
+      "summary": "",
+      "published": "",
+      "title_zh": "哪一方会在负担能力方面获胜？"
     }
   ]
 }
