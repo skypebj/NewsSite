@@ -1,6 +1,6 @@
 {
   "date": "20260919",
-  "total": 27,
+  "total": 25,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -33,204 +33,190 @@
   },
   "entries": [
     {
-      "title": "Trump says son has paid back Putin ally for partly funding wedding festivities",
+      "title": "Kirk family’s powerful evidence faces legal twist that could upend wrongful death case, experts warn",
       "link": "",
-      "summary": "Daughter in-law Bettina Trump confirms that Umar Kremlev partially funded two nights of their three-day festivities on a private island in the Bahamas.",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普称儿子已偿还普京盟友为婚礼提供的部分资金",
-      "summary_zh": "儿媳贝蒂娜·特朗普证实，奥马尔·克雷姆列夫为他们在巴哈马群岛一座私人岛屿举行的为期三天的庆祝活动中的两晚提供了部分资金。"
+      "title_zh": "专家警告说，柯克家族的有力证据面临法律扭曲，可能会推翻非正常死亡案件"
     },
     {
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "title": "Five years after her daughter's remains were found, Nichole Schmidt has a plea",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "女儿遗体被发现五年后，妮可·施密特提出请求"
+    },
+    {
+      "title": "Clancy juror who wouldn't budge hires a familiar Trump attorney to fight back",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "不肯让步的克兰西陪审员聘请了一位熟悉的特朗普律师进行反击"
+    },
+    {
+      "title": "Sen hopeful's favorite narrative crumbles after detail in latest ad puts him in hot seat",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "最新广告中的细节让森希望最喜欢的叙事崩溃，让他陷入困境"
+    },
+    {
+      "title": "Rogue ChatGPT agent hacked its way out and struck a real company, exec warns",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "高管警告称，流氓 ChatGPT 代理黑客入侵并袭击了一家真正的公司"
+    },
+    {
+      "title": "'I'm out': California wealth tax sparks stark business warning from entrepreneurs",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "'I'm out': California wealth tax sparks stark business warning from entrepreneurs"
+    },
+    {
+      "title": "Ole Miss fans prepare for Lane Kiffin’s emotional return to Oxford for LSU showdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "密西西比大学球迷为莱恩·基芬激动地重返牛津参加路易斯安那州立大学对决做好准备"
+    },
+    {
+      "title": "STEPHEN MILLER:Democratic socialists want to ‘strip’ America apart",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "斯蒂芬·米勒：民主社会主义者想要“剥离”美国"
+    },
+    {
+      "title": "Beloved restaurant chain known for ice cream now operates in only a handful of states",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "以冰淇淋闻名的深受喜爱的连锁餐厅现在仅在少数几个州运营"
+    },
+    {
+      "title": "Missouri woman indicted over alleged death threats to Austin Metcalf's family",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Missouri woman indicted over alleged death threats to Austin Metcalf's family"
+    },
+    {
+      "title": "Gemini AI guessed passwords — until one opened a real company's system",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Gemini AI 猜测密码——直到有人打开真实公司的系统"
+    },
+    {
+      "title": "What might an AI doomsday look like? Experts have given it some thought",
+      "link": "https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950",
+      "summary": "",
+      "published": "",
+      "title_zh": "人工智能的末日会是什么样子？专家们对此进行了一些思考"
+    },
+    {
+      "title": "A rapper gets the boot, and the Fed raises interest rates: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/macklemore-news-quiz-rcna598434",
+      "summary": "",
+      "published": "",
+      "title_zh": "说唱歌手被解雇，美联储加息：新闻测验"
+    },
+    {
+      "title": "What do the Houthis want? The threat to Saudi oil may be about more than just helping Iran",
+      "link": "https://www.nbcnews.com/world/yemen/houthis-want-threat-saudi-oil-may-just-helping-iran-rcna598470",
+      "summary": "",
+      "published": "",
+      "title_zh": "胡塞武装想要什么？对沙特石油的威胁可能不仅仅是帮助伊朗"
+    },
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "link": "",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "published": "",
+      "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+      "summary_zh": "一位谷歌官员告诉英国广播公司，人工智能模型访问了互联网并猜测了三个网站的凭据。"
+    },
+    {
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "link": "",
+      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "published": "",
+      "title_zh": "鲨鱼袭击事件引发西澳大利亚罕见的杀戮令，受害者被命名",
+      "summary_zh": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him."
+    },
+    {
+      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
       "link": "",
       "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
       "published": "",
-      "title_zh": "被谋杀妇女的可怕发现在南非引发恐惧",
+      "title_zh": "“还有多少尸体？”两个月内发现九名妇女死亡，南非陷入悲痛和恐惧",
       "summary_zh": "迪内奥·莫塔帕内 (Dineo Motapane) 是最近九名受害者之一，他们的死亡让整个国家因针对妇女的暴力行为而遭受创伤。"
     },
     {
-      "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+      "title": "'Enough is enough': Vigils held for murdered women in South Africa",
       "link": "",
-      "summary": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
+      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
       "published": "",
-      "title_zh": "当一棵心爱的树开始枯萎时，当地人怀疑他们中间有一个杀手",
-      "summary_zh": "邻居们为拯救一棵珍贵的银杏而展开斗争，但他们却遇到了意想不到的敌人。"
+      "title_zh": "“受够了”：南非为被谋杀的妇女举行守夜活动",
+      "summary_zh": "此后，警方成立了一个工作组来调查这起谋杀案，并敦促肯普顿公园地区的妇女避免独自行走或跑步，“尤其是在偏远地区”。"
     },
     {
-      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "title": "'I'm telling the truth': Princess Diana's brother defends claims he makes about King Charles in new book",
       "link": "",
-      "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+      "summary": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
       "published": "",
-      "title_zh": "克里·肯尼迪：如果肯尼迪中心被拆除，“这将是一场悲剧”",
-      "summary_zh": "当抗议者聚集在会场谴责拆除威胁时，英国广播公司 (BBC) 的凯特里奥娜·佩里 (Caitriona Perry) 与已故总统的侄女进行了交谈。"
+      "title_zh": "“我说的是实话”：戴安娜王妃的弟弟为他在新书中对查尔斯国王的说法进行了辩护",
+      "summary_zh": "戴安娜王妃的弟弟告诉英国广播公司的劳拉·昆斯伯格，“我们很快就会忘记她”，这“正是”当时的威尔士亲王所说的。"
     },
     {
-      "title": "Everything we know about the Ed Sheeran and Macklemore controversy",
+      "title": "Millions without power as Cuba hit by latest major blackout",
       "link": "",
-      "summary": "Here's what led to the controversy surrounding singer Ed Sheeran's tour and all the twists since rapper Macklemore was dropped over pro-Palestinian comments.",
+      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
       "published": "",
-      "title_zh": "我们所知道的有关艾德·希兰和麦克莫尔争议的一切",
-      "summary_zh": "这就是围绕歌手艾德·希兰 (Ed Sheeran) 巡演引发争议的原因，以及自说唱歌手麦克莫尔 (Macklemore) 因亲巴勒斯坦言论而被解雇以来的所有曲折。"
+      "title_zh": "古巴最近发生大停电，数百万人断电",
+      "summary_zh": "由于美国的封锁加剧了燃料短缺，大范围停电变得越来越普遍。"
     },
     {
-      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
       "link": "",
-      "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+      "summary": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
       "published": "",
-      "title_zh": "四分钟警告还不够：俄罗斯新的无情导弹战术让基辅居民精疲力尽",
-      "summary_zh": "对乌克兰首都的袭击日益频繁和凶猛，让许多人感到紧张。"
+      "title_zh": "黛西·埃德加·琼斯：当谈到爱情时，我尝试隐藏我的情感",
+      "summary_zh": "这位女演员说，在现实生活中，她就像《理智与情感》中扮演的角色一样。"
     },
     {
-      "title": "We've been transatlantic pen pals for 70 years and are now more like sisters",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
       "link": "",
-      "summary": "Kathleen Bonthron and Shirley Hedtke were age 10 and 11 when their friendship began to blossom in letters sent between Scotland and the US.",
+      "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
       "published": "",
-      "title_zh": "我们已经是跨大西洋笔友 70 年了，现在更像姐妹了",
-      "summary_zh": "凯瑟琳·邦特隆 (Kathleen Bonthron) 和雪莉·赫特克 (Shirley Hedtke) 分别在 10 岁和 11 岁的时候，他们的友谊在苏格兰和美国之间寄来的信件中开始绽放。"
+      "title_zh": "我在爱尔兰相亲节上找到了爱情 - 我希望其他人也能这样做",
+      "summary_zh": "玛丽·廷比（Mary Timby）去年心血来潮飞往爱尔兰，在一次相亲节上认识了男友。"
     },
     {
-      "title": "Earl Spencer's Diana book opens old wounds royals would rather forget",
+      "title": "Could AI wipe out humans and how might it do it?",
       "link": "",
-      "summary": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then Princess of Wales' death.",
+      "summary": "Cyber Correspondent Joe Tidy looks at some of the scenarios being imagined and assesses how likely they are.",
       "published": "",
-      "title_zh": "斯宾塞伯爵的戴安娜王妃之书揭开了王室成员宁愿忘记的旧伤",
-      "summary_zh": "王室目前的许多麻烦都可以追溯到当时的威尔士王妃去世后的后果。"
+      "title_zh": "人工智能会消灭人类吗？它会如何做到这一点？",
+      "summary_zh": "网络记者乔·蒂迪（Joe Tidy）研究了想象中的一些场景，并评估了它们的可能性。"
     },
     {
-      "title": "Watch: Aztec codex on display in Mexico for first time in 186 years",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
       "link": "",
-      "summary": "Mexicans celebrate the return of a centuries-old document that tells the story of the Aztec civilisation and its fall after the arrival of Spanish conquistadors.",
+      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
       "published": "",
-      "title_zh": "观看：阿兹特克抄本 186 年来首次在墨西哥展出",
-      "summary_zh": "墨西哥人庆祝一份具有数百年历史的文献的回归，该文献讲述了阿兹特克文明及其在西班牙征服者到来后衰落的故事。"
+      "title_zh": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "summary_zh": "一名四岁儿童在袭击中丧生，枪手还向警察设施开火。"
     },
     {
-      "title": "Hodgkinson powers to Athlos win in speed suit",
+      "title": "Apology after North Korean anthem played for South Korea at Asian Games",
       "link": "",
-      "summary": "Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut.",
+      "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
       "published": "",
-      "title_zh": "霍奇金森穿着速度服助力 Athlos 获胜",
-      "summary_zh": "基利·霍奇金森 (Keely Hodgkinson) 身穿全身速度服取得胜利，随后在 Athlos 伦敦首秀中荣获蒂芙尼 (Tiffany & Co) 皇冠。"
-    },
-    {
-      "title": "Ireland's relationship with UK under Burnham off to 'very good start'",
-      "link": "",
-      "summary": "The visit came days after US President Donald Trump made comments about supporting a \"unified Ireland\".",
-      "published": "",
-      "title_zh": "伯纳姆领导下的爱尔兰与英国关系有了“良好的开端”",
-      "summary_zh": "这次访问是在美国总统唐纳德·特朗普发表有关支持“统一的爱尔兰”的言论几天后进行的。"
-    },
-    {
-      "title": "Another blackout plagues communist nation as fuel shortages bite hard",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "由于燃料短缺严重，另一次停电困扰着共产主义国家"
-    },
-    {
-      "title": "Iran makes surprise diplomatic play as war with US puts region on knife-edge",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗与美国的战争使该地区陷入刀锋之际，伊朗做出了令人惊讶的外交举动"
-    },
-    {
-      "title": "Fans baffled by the A-lister who won't defend a famous friend amid tour chaos",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "这位一线明星在巡演混乱中不为著名朋友辩护，令粉丝们感到困惑"
-    },
-    {
-      "title": "Johnson lets House out early, Rep Massie offers speculation as to why",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "约翰逊提前让众议院出局，众议员马西猜测原因"
-    },
-    {
-      "title": "Lawmakers reveal stakes in nation's explosive AI race: ‘China’s going to eat our lunch’",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "立法者揭示了国家爆炸性人工智能竞赛的利害关系：“中国将吃掉我们的午餐”"
-    },
-    {
-      "title": "'GUTFELD!':Are moms for hire destined to backfire?",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "“GUTFELD！”：雇佣妈妈注定会适得其反吗？"
-    },
-    {
-      "title": "Sorority alumnae battle national leaders in court after being 'given a brother'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "联谊会校友在“被赐予兄弟”后在法庭上与国家领导人进行斗争"
-    },
-    {
-      "title": "Hiker battles agonizing injury on grueling climb, resets dislocated shoulder himself",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "徒步旅行者在艰苦的攀爬中与痛苦的伤势作斗争，自己复位了脱臼的肩膀"
-    },
-    {
-      "title": "Gold-star rating couldn't save UCLA grad abandoned on a busy roadside",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "金星评级无法拯救被遗弃在繁忙路边的加州大学洛杉矶分校毕业生"
-    },
-    {
-      "title": "The doomers, the dreamers and Xi: Trump hears from all sides on AI",
-      "link": "https://www.nbcnews.com/politics/donald-trump/doomers-dreamers-xi-trump-ai-david-sacks-jensen-huang-rcna598602",
-      "summary": "",
-      "published": "",
-      "title_zh": "厄运者、梦想家和习近平：特朗普听取了各方关于人工智能的意见"
-    },
-    {
-      "title": "Google says its AI model gained unauthorized access to three outside systems",
-      "link": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
-      "summary": "",
-      "published": "",
-      "title_zh": "谷歌表示其人工智能模型未经授权访问了三个外部系统"
-    },
-    {
-      "title": "Trump announces Greenland deal granting the U.S. ‘permanent control’ over its security",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-announces-agreement-denmark-secure-permanent-control-greenlands-rcna598641",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普宣布格陵兰岛协议授予美国对其安全的“永久控制权”"
-    },
-    {
-      "title": "The first mRNA flu shot is now available. Here’s who can get it.",
-      "link": "https://www.nbcnews.com/health/health-news/mrna-flu-vaccine-moderna-mflusiva-explained-rcna598524",
-      "summary": "",
-      "published": "",
-      "title_zh": "第一种 mRNA 流感疫苗现已上市。谁可以得到它。"
-    },
-    {
-      "title": "A mother and daughter plotted to poison a husband, officials say. Had they done it before?",
-      "link": "https://www.nbcnews.com/news/us-news/mother-daughter-plotted-poison-husband-officials-say-rcna598044",
-      "summary": "",
-      "published": "",
-      "title_zh": "官员称，一对母女密谋毒害丈夫。他们以前做过吗？"
-    },
-    {
-      "title": "Ponzi schemer who defrauded Travis Kelce allegedly tried to marry U.S. citizen to avoid deportation",
-      "link": "https://www.nbcnews.com/news/us-news/ponzi-schemer-defrauded-travis-kelce-tried-avoid-deportation-rcna598335",
-      "summary": "",
-      "published": "",
-      "title_zh": "诈骗特拉维斯·凯尔斯的庞氏骗局据称试图与美国公民结婚以避免被驱逐出境"
-    },
-    {
-      "title": "Toys ‘R’ Us is opening 120 new stores as grownup collectors fuel toy sales",
-      "link": "https://www.nbcnews.com/business/consumer/toys-r-us-opening-120-new-stores-rcna598543",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着成年收藏家推动玩具销售，玩具反斗城将开设 120 家新店"
+      "title_zh": "亚运会韩国队奏朝鲜国歌后道歉",
+      "summary_zh": "组织者为在日本亚运会上为韩国男子曲棍球队演奏朝鲜国歌而道歉。"
     }
   ]
 }
