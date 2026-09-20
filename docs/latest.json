@@ -1,6 +1,6 @@
 {
   "date": "20260920",
-  "total": 33,
+  "total": 20,
   "sources": {
     "bbc": {
       "status": "ok",
@@ -33,247 +33,149 @@
   },
   "entries": [
     {
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "link": "",
-      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "published": "",
-      "title_zh": "市长称，乌克兰发射了数百架无人机，这是对莫斯科最大规模的袭击",
-      "summary_zh": "莫斯科市长表示，隔夜的袭击中有 450 架无人机被击落，造成两人死亡。"
-    },
-    {
-      "title": "Not all AI workers think the tech could kill everyone",
-      "link": "",
-      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-      "published": "",
-      "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-      "summary_zh": "在文字交流和对话中，多名曾在领先公司工作过的人对这些警告表示怀疑。"
-    },
-    {
-      "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-      "link": "",
-      "summary": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
-      "published": "",
-      "title_zh": "观看：情感丰富的斯宾塞伯爵说他每天都想念妹妹戴安娜",
-      "summary_zh": "“这也是我的绝唱。我来这里不是为了谈论戴安娜，这是我的最后一句话，庆祝她”，厄尔·斯宾塞告诉主持人劳拉·昆斯伯格。"
-    },
-    {
-      "title": "Trump says triumphal arch will be military complex with drones and snipers",
-      "link": "",
-      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "published": "",
-      "title_zh": "特朗普称凯旋门将成为配备无人机和狙击手的军事综合体",
-      "summary_zh": "特朗普表示，更新的计划是应美国军方的要求并出于国家安全目的。"
-    },
-    {
-      "title": "Yu, 13, wins record-breaking first major swimming gold medal",
-      "link": "",
-      "summary": "China’s Yu Zidi, 13, wins a record‑breaking 200m women’s butterfly gold at the Asian Games in Tokyo.",
-      "published": "",
-      "title_zh": "13岁的余勇破纪录夺得首枚大满贯游泳金牌",
-      "summary_zh": "13岁的中国选手余子迪在东京亚运会上破纪录地赢得了2亿米女子蝶泳金牌。"
-    },
-    {
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "link": "",
-      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "published": "",
-      "title_zh": "特朗普称美国将组建“人工智能部队”并任命人工智能沙皇",
-      "summary_zh": "在有关新兴技术的警告之际，总统表示，他的政府“不会以任何方式阻碍或扼杀经济增长”。"
-    },
-    {
-      "title": "Ex-England player Townsend unhurt after being run over by pitch roller",
-      "link": "",
-      "summary": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
-      "published": "",
-      "title_zh": "Ex-England player Townsend unhurt after being run over by pitch roller",
-      "summary_zh": "前英格兰边锋安德罗斯·汤森德开玩笑说，在泰国比赛前发生的奇怪事件后，客场对阵斯托克城的比赛“毕竟没有那么糟糕”。"
-    },
-    {
-      "title": "Cunha rescues point for Man Utd at Fulham",
-      "link": "",
-      "summary": "Matheus Cunha's deflected strike rescues a point for Manchester United late on to deny Fulham a first Premier League win of the season.",
-      "published": "",
-      "title_zh": "库尼亚在富勒姆为曼联挽救一分",
-      "summary_zh": "马修斯·库尼亚的射门偏出为曼联挽救了一分，阻止富勒姆本赛季首场英超胜利。"
-    },
-    {
-      "title": "Littler could boycott Dutch events over booing",
-      "link": "",
-      "summary": "Luke Littler threatens a boycott of playing in the Netherlands after being booed and whistled at the World Series of Darts Finals in Amsterdam.",
-      "published": "",
-      "title_zh": "利特勒可能因嘘声而抵制荷兰赛事",
-      "summary_zh": "卢克·利特勒在阿姆斯特丹举行的世界飞镖系列赛决赛中受到嘘声和吹口哨后威胁要抵制在荷兰的比赛。"
-    },
-    {
-      "title": "Impressive defence seals solid start at Liverpool for Iraola",
-      "link": "",
-      "summary": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a hard-fought win at Bournemouth.",
-      "published": "",
-      "title_zh": "令人印象深刻的防守为伊劳拉在利物浦取得了良好的开局",
-      "summary_zh": "利物浦的防守看起来不错，但在对阵伯恩茅斯的艰苦胜利后，安多尼·伊劳拉需要他的攻击手提供更多帮助。"
-    },
-    {
-      "title": "Atletico beat 10-man Real in feisty Madrid derby",
-      "link": "",
-      "summary": "Atletico Madrid move above Real in La Liga with 2-1 derby win over their 10-man neighbours",
-      "published": "",
-      "title_zh": "马竞在激烈的马德里德比中击败 10 人的皇马",
-      "summary_zh": "马德里竞技在西甲联赛中以 2-1 的德比战胜了他们的 10 人邻居，超越了皇马"
-    },
-    {
-      "title": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-      "link": "",
-      "summary": "Manchester City head into the international break in a jubilant mood after enjoying the perfect 24 hours this weekend.",
-      "published": "",
-      "title_zh": "马雷斯卡完美的24小时，曼城向阿森纳施压",
-      "summary_zh": "曼城在享受了这个周末完美的24小时后，满怀喜悦地迎接国际比赛日。"
-    },
-    {
-      "title": "Sen. John Barrasso claims Trump isn’t violating the Constitution by banning reporters",
-      "link": "https://www.nbcnews.com/politics/white-house/john-barrasso-says-trump-isnt-violating-constitution-banning-reporters-rcna598785",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员约翰巴拉索声称特朗普禁止记者并没有违反宪法"
-    },
-    {
-      "title": "Most voters say Trump has hurt the economy as competitive midterm election looms",
-      "link": "https://www.nbcnews.com/politics/2026-election/poll-voters-say-trump-hurt-economy-competitive-midterm-election-looms-rcna597868",
-      "summary": "",
-      "published": "",
-      "title_zh": "大多数选民表示，随着竞争激烈的中期选举临近，特朗普损害了经济"
-    },
-    {
-      "title": "Trump says his proposed arch will include a military complex housing drones and snipers",
-      "link": "https://www.nbcnews.com/politics/white-house/trump-proposed-arch-military-complex-housing-drones-snipers-rcna598770",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普表示，他提议的拱门将包括一个容纳无人机和狙击手的军事综合体"
-    },
-    {
-      "title": "She was ‘petrified’ of her ex-husband before she vanished. Now her case is linked to 6 other women.",
-      "link": "https://www.nbcnews.com/news/us-news/philadelphia-raymond-horsch-house-victims-rcna598408",
-      "summary": "",
-      "published": "",
-      "title_zh": "在她消失之前，她对她的前夫感到“恐惧”。现在她的案件与另外六名女性有关。"
-    },
-    {
-      "title": "Trump lays out three options for Iran after regime sends list of war-ending demands",
+      "title": "ICE shooting rocks Texas city as Democratic congressman slams agency",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在伊朗政权发出结束战争要求清单后，特朗普为伊朗提出了三个选择"
+      "title_zh": "民主党国会议员猛烈抨击 ICE 枪击事件，德克萨斯州城市发生枪击事件"
     },
     {
-      "title": "Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
+      "title": "Expert warns Xi is quietly organizing troops 'for battle' before DC summit",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "俄罗斯文件揭示了涵盖核、金融和航空的全面伊朗计划"
+      "title_zh": "专家警告习近平在华盛顿峰会前悄悄组织军队“战斗”"
     },
     {
-      "title": "Green Bay teammates watch in silence as star receiver wheeled away with no updates",
+      "title": "DHS chief Mullin clashes with top Democrat over stunning immigration claim",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "绿湾队的队友们默默地看着明星接球手在没有任何更新的情况下离开"
+      "title_zh": "国土安全部负责人穆林与民主党高层就令人震惊的移民主张发生冲突"
     },
     {
-      "title": "Why Trump zeroed in on Greenland — and why it matters in 3 maps",
+      "title": "1619 Project creator admits 'I had not chosen her' after daughter's gut-punch verdict",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "为什么特朗普把矛头指向格陵兰岛——以及为什么它在三张地图中很重要"
+      "title_zh": "1619项目创建者在女儿受到严厉判决后承认“我没有选择她”"
     },
     {
-      "title": "Aaron Rodgers' road to a secret wedding began with his 'biggest regret'",
+      "title": "Popular wellness treatment leaves some clients with an unexpected aftermath",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "亚伦·罗杰斯的秘密婚礼之路始于他的“最大遗憾”"
+      "title_zh": "流行的健康治疗给一些客户带来了意想不到的后果"
     },
     {
-      "title": "Tamales have quietly disappeared from Mexican restaurant menus",
+      "title": "Cops wipe out homecoming chaos with massive 650-roll toilet paper roll haul",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "玉米粉蒸肉已悄然从墨西哥餐厅菜单中消失"
+      "title_zh": "警察大量运输 650 卷厕纸消除返校节混乱"
     },
     {
-      "title": "DHS boss fires back at Dem who says ICE arrests pose 'no threat to public safety'",
+      "title": "Frankie Muniz says he's hit 'rock bottom' while estranged wife posts cryptic message",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "国土安全部老板回击民主党称 ICE 逮捕“不会对公共安全构成威胁”"
+      "title_zh": "弗兰基·穆尼斯 (Frankie Muniz) 表示，他的生活陷入了“谷底”，而分居的妻子却发布了神秘的信息"
     },
     {
-      "title": "Kevin Costner fuels dating buzz after grocery run with woman 31 years younger",
+      "title": "Bears in crisis mode after their franchise signal-caller is carted to the locker room",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯文·科斯特纳 (Kevin Costner) 与年轻 31 岁的女子一起经营杂货店，引发约会热潮"
+      "title_zh": "在他们的特许信号呼叫者被送往更衣室后，熊队陷入危机模式"
     },
     {
-      "title": "Ed Sheeran delivers emotional apology at first show since Macklemore fallout",
+      "title": "Sent home from hospital too soon, couple's baby arrived in a KFC parking lot",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "艾德·希兰 (Ed Sheeran) 在麦克莫尔事件后的首场演出中情绪激动地道歉"
+      "title_zh": "出院太早，夫妇俩的孩子到达肯德基停车场"
     },
     {
-      "title": "Blue-collar workers emerge as the backbone of America’s tech boom",
+      "title": "Week 3 AP Poll dominated by SEC programs with Ole Miss surging into Top 5",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "蓝领工人成为美国科技繁荣的支柱"
+      "title_zh": "第三周 AP 民意调查以 SEC 节目为主，Ole Miss 飙升至前 5 名"
     },
     {
-      "title": "Comedian unloads on female athletes blasting Sydney Sweeney's nearly nude ad",
+      "title": "Faith and close friends helped country singer stay strong through divorce",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "喜剧演员抨击女运动员抨击西德尼·斯威尼近乎裸体的广告"
+      "title_zh": "信仰和亲密朋友帮助乡村歌手在离婚后保持坚强"
     },
     {
-      "title": "Greg Schiano knocks over field marker in one of the wildest meltdowns of the year",
+      "title": "Keenan Allen, who will suit up for Colts vs Chiefs, blew insane BAC in arrest: report",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "格雷格·斯基亚诺（Greg Schiano）在今年最疯狂的崩溃之一中撞倒了现场标记"
+      "title_zh": "基南·艾伦将参加小马队对阵酋长队的比赛，他在被捕时爆发了疯狂的 BAC：报告"
     },
     {
-      "title": "Rapper Nicki Minaj gets candid with Laura Ingraham over her Trump support",
+      "title": "Jalen Hurts engineers miracle drive to steal victory over Titans in final seconds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Rapper Nicki Minaj gets candid with Laura Ingraham over her Trump support"
+      "title_zh": "杰伦·赫特工程师在最后几秒奇迹般地战胜了泰坦队"
     },
     {
-      "title": "Single gunshot hits woman, officer near Notre Dame campus after tailgate",
-      "link": "",
+      "title": "ICE officer shoots man in Austin, Texas, officials say",
+      "link": "https://www.nbcnews.com/news/us-news/ice-shooting-austin-texas-rcna598870",
       "summary": "",
       "published": "",
-      "title_zh": "巴黎圣母院校园附近的一名女子和警官在尾门后遭到枪击"
+      "title_zh": "官员称，ICE 官员在德克萨斯州奥斯汀开枪射杀一名男子"
     },
     {
-      "title": "Titans show up dressed like clowns before facing the Eagles while reeling",
-      "link": "",
+      "title": "The Bears’ offense took a historic step back. And that’s not the worst part.",
+      "link": "https://www.nbcnews.com/sports/nfl/chicago-bears-caleb-williams-injury-minnesota-vikings-injury-rcna598855",
       "summary": "",
       "published": "",
-      "title_zh": "Titans show up dressed like clowns before facing the Eagles while reeling"
+      "title_zh": "熊队的进攻出现了历史性的后退。这还不是最糟糕的部分。"
     },
     {
-      "title": "Mississippi gov burns Lane Kiffin and LSU on social media after losing to Ole Miss",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
       "link": "",
-      "summary": "",
+      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
       "published": "",
-      "title_zh": "密西西比州政府在输给密西西比大学后在社交媒体上烧毁了莱恩·基芬和路易斯安那州立大学"
+      "title_zh": "巴基斯坦前总理伊姆兰·汗的妹妹被捕",
+      "summary_zh": "阿莉玛·哈努姆被指控在全国范围内的抗议活动之前动员她哥哥的支持者。"
     },
     {
-      "title": "Homeowner finds record-breaking treasure after hitting something strange in yard",
+      "title": "13-year-old swimmer wins gold and sets record at Asian Games",
       "link": "",
-      "summary": "",
+      "summary": "China's swimming \"sensation\" Yu Zidi wins the 200m women’s butterfly in Tokyo - breaking her own record.",
       "published": "",
-      "title_zh": "房主在院子里撞到奇怪的东西后发现破纪录的宝藏"
+      "title_zh": "13岁游泳运动员亚运夺金创纪录",
+      "summary_zh": "中国游泳“轰动”于子迪在东京赢得女子200米蝶泳冠军，打破了她自己保持的纪录。"
+    },
+    {
+      "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
+      "link": "",
+      "summary": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
+      "published": "",
+      "title_zh": "内维尔称曼联“可悲”，但卡里克坚持信念",
+      "summary_zh": "加里·内维尔称曼联“可悲”，但主帅迈克尔·卡里克在挽回富勒姆的平局后仍保持信念。"
+    },
+    {
+      "title": "Elvira loses nerve as Spaun triumphs at Wentworth",
+      "link": "",
+      "summary": "Manuel Elvira choked back the tears as an elated JJ Spaun celebrated becoming only the third US player to win the BMW PGA Championship at Wentworth.",
+      "published": "",
+      "title_zh": "斯潘在温特沃斯取得胜利后，埃尔维拉失去了勇气",
+      "summary_zh": "当 JJ Spaun 兴高采烈地庆祝自己成为第三位在温特沃斯赢得 BMW PGA 锦标赛的美国选手时，Manuel Elvira 强忍住泪水。"
+    },
+    {
+      "title": "What have we learned from the Premier League so far?",
+      "link": "",
+      "summary": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "published": "",
+      "title_zh": "到目前为止，我们从英超联赛中学到了什么？",
+      "summary_zh": "随着国际比赛日的到来，英国广播公司体育频道 (BBC Sport) 回顾了英超赛季的前几周。"
     }
   ]
 }
