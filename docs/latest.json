@@ -1,10 +1,10 @@
 {
   "date": "20260921",
-  "total": 28,
+  "total": 39,
   "sources": {
     "bbc": {
       "status": "ok",
-      "entries": 0
+      "entries": 12
     },
     "theguardian": {
       "status": "ok",
@@ -33,212 +33,289 @@
   },
   "entries": [
     {
-      "title": "Sneaker giant pulls ad campaign, apologizes for 'deeply upsetting' racial imagery",
+      "title": "'Un-American' Omar bill sparks firestorm once details come to light",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "运动鞋巨头撤回广告活动，为“令人深感不安”的种族形象道歉"
+      "title_zh": "“非美国人”奥马尔法案细节曝光后引发轩然大波"
     },
     {
-      "title": "DHS sources reveal new details about man shot by ICE as protests escalate",
+      "title": "Presley Gerber, the son of supermodel Cindy Crawford, dead at age 27",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着抗议活动升级，国土安全部消息人士透露了 ICE 枪杀男子的新细节"
+      "title_zh": "超级名模辛迪·克劳馥之子普雷斯利·格伯去世，享年 27 岁"
     },
     {
-      "title": "Americans in Iran get urgent warning from embassy as escalation fears rise",
+      "title": "All 10 ActBlue staffers plead the Fifth as GOP vows probe is 'far from over'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着局势升级的担忧加剧，在伊朗的美国人收到大使馆的紧急警告"
+      "title_zh": "共和党誓言调查“远未结束”，所有 10 名 ActBlue 工作人员都为第五次辩护"
     },
     {
-      "title": "Patrick Clancy reveals if Lindsay asked for his forgiveness after killing their kids",
+      "title": "Iran warns of ‘astonishing’ arsenal if US strikes again",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "帕特里克·克兰西透露林赛在杀死孩子后是否请求他的原谅"
+      "title_zh": "伊朗警告称，如果美国再次发动袭击，伊朗将拥有“惊人”的军火库"
     },
     {
-      "title": "Cruise passenger jumps overboard from Carnival Panorama off Mexico’s coast",
+      "title": "Rock frontman sends pointed message after Macklemore ousted from Sheeran tour",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "游轮乘客从墨西哥海岸嘉年华全景号跳船"
+      "title_zh": "麦克莫尔被希兰巡演驱逐后，摇滚主唱发出尖锐的信息"
     },
     {
-      "title": "Commanders' season teetering on the brink after star signal-caller leaves at halftime",
+      "title": "NASCAR wives make explosive accusations about driver after violent pit road fight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "明星信号员中场休息后离开，指挥官的赛季摇摇欲坠"
+      "title_zh": "纳斯卡车赛妻子在维修站暴力斗殴后对司机提出爆炸性指控"
     },
     {
-      "title": "Taylor Swift has savage celebration after Travis Kelce scores touchdown",
+      "title": "Dem senator's El-Sayed answer fuels speculation on just how deep party fracture runs",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特拉维斯·凯尔斯触地得分后，泰勒·斯威夫特疯狂庆祝"
+      "title_zh": "民主党参议员埃尔-赛义德的回答引发了人们对政党分歧到底有多深的猜测"
     },
     {
-      "title": "Ozzy Osbourne's son takes a much different approach to parenting his five children",
+      "title": "Tourists seeking 'dramatic' photo on isolated beach trapped by incoming tide",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥兹·奥斯本的儿子以截然不同的方式抚养他的五个孩子"
+      "title_zh": "游客在被潮水困住的偏僻海滩上寻找“戏剧性”照片"
     },
     {
-      "title": "China expert warns the US is in a 'very dangerous period' ahead of Xi meeting",
+      "title": "Car manufacturers recalling hundreds of thousands of SUVs over major issue",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中国专家警告习近平会议前美国正处于“非常危险的时期”"
+      "title_zh": "汽车制造商因重大问题召回数十万辆SUV"
     },
     {
-      "title": "Judge Judy has blunt warning about what happens next in Lindsay Clancy case",
+      "title": "Beijing caught using AI to build surveillance dossiers on worshippers inside America",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "朱迪法官直言不讳地警告林赛·克兰西案接下来会发生什么"
+      "title_zh": "北京被发现利用人工智能对美国境内的信徒建立监控档案"
     },
     {
-      "title": "Cubs' wild card push threatened after third baseman rushed to Cincinnati hospital",
+      "title": "Olivia Miles dethrones Caitlin Clark as the WNBA's top rookie scorer in big win",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "三垒手被送往辛辛那提医院后，小熊队的外卡争夺受到威胁"
+      "title_zh": "奥利维亚·迈尔斯 (Olivia Miles) 击败凯特琳·克拉克 (Caitlin Clark)，成为 WNBA 最佳新秀得分手"
     },
     {
-      "title": "Mystics' youth squad hands the Fever a brutal wake-up before Minnesota showdown",
+      "title": "Ring girl roasts Lane Kiffin following Ole Miss loss with Halloween costume jab",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "神秘队青年队在明尼苏达对决前残酷地唤醒了狂热队"
+      "title_zh": "继奥莱小姐失利后，戒指女孩用万圣节服装刺痛了莱恩·基芬"
     },
     {
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
+      "title": "What Taylor Swift shouted at haters after Travis Kelce scores a touchdown",
       "link": "",
-      "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-      "published": "",
-      "title_zh": "英国广播公司发现，因性虐待而被判入狱的教师在印度尼西亚提前秘密释放",
-      "summary_zh": "英国广播公司（BBC）录制的卧底录像显示，他在服刑不到一半后已被释放。"
-    },
-    {
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "link": "",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "published": "",
-      "title_zh": "加拿大部长告诉 BBC，英国应该与加拿大“合作”建立新的欧洲联盟",
-      "summary_zh": "此前，欧盟委员会主席提议为加拿大成为欧盟准成员“打开大门”。"
-    },
-    {
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results is far from clear",
-      "link": "",
-      "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-      "published": "",
-      "title_zh": "俄罗斯选举几乎没有什么意外——但克里姆林宫如何利用选举结果还远不清楚",
-      "summary_zh": "英国广播公司的史蒂夫·罗森伯格写道，弗拉基米尔·普京可能会利用这一结果来要求大多数俄罗斯人支持在乌克兰进行的所谓特别军事行动。"
-    },
-    {
-      "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
-      "link": "",
-      "summary": "Workers in northern Sri Lanka accidentally uncovered the country's largest mass grave – and reopened wounds from its civil war.",
-      "published": "",
-      "title_zh": "工人们发现了人类遗骸，并挖掘出了一个埋有 572 人的乱葬坑",
-      "summary_zh": "斯里兰卡北部的工人们意外地发现了该国最大的集体坟墓，并重新揭开了内战造成的伤口。"
-    },
-    {
-      "title": "Brigitte Bardot's ballet flats and diamond rings to be sold at auction",
-      "link": "",
-      "summary": "Many of the film star's personal items, on sale in Paris, are priced at under €100.",
-      "published": "",
-      "title_zh": "碧姬·芭杜 (Brigitte Bardot) 的芭蕾平底鞋和钻戒将在拍卖会上出售",
-      "summary_zh": "这位电影明星的许多个人物品在巴黎出售，价格都在 100 欧元以下。"
-    },
-    {
-      "title": "Watch: Dramatic moment a cargo ship crashes into another vessel",
-      "link": "",
-      "summary": "Verified footage appears to show a cargo ship colliding with a fishing boat near Singapore, with investigators still working to establish exactly when and how the crash happened.",
-      "published": "",
-      "title_zh": "观看：一艘货船撞上另一艘船的戏剧性时刻",
-      "summary_zh": "经核实的镜头似乎显示一艘货船在新加坡附近与一艘渔船相撞，调查人员仍在努力确定事故发生的确切时间和方式。"
-    },
-    {
-      "title": "What food items should you stock up on in case of an emergency?",
-      "link": "",
-      "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
-      "published": "",
-      "title_zh": "应该储备哪些食物以备不时之需？",
-      "summary_zh": "极端天气可能正在改变我们的购物方式，英国政府敦促人们储备罐头食品。"
-    },
-    {
-      "title": "Why a new Pakistan-China border pact has irked India",
-      "link": "",
-      "summary": "A China-Pakistan border pact challenges India's territorial claims and deepens strategic concerns over disputed Kashmir.",
-      "published": "",
-      "title_zh": "为什么新的巴基斯坦-中国边界协议激怒了印度",
-      "summary_zh": "中巴边界协定挑战了印度的领土主张，并加深了对有争议的克什米尔的战略担忧。"
-    },
-    {
-      "title": "Smart beds and motion sensors - is this the future of dementia care?",
-      "link": "",
-      "summary": "Jyoti and Bharat Patel are testing dementia technology including sensors in socks, their bed and around the house.",
-      "published": "",
-      "title_zh": "智能床和运动传感器——这是痴呆症护理的未来吗？",
-      "summary_zh": "乔蒂和巴拉特·帕特尔正在测试痴呆症技术，包括袜子、床和房子周围的传感器。"
-    },
-    {
-      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-      "link": "",
-      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
-      "published": "",
-      "title_zh": "希腊82岁男子与76岁男子因躺椅发生海滩打斗身亡",
-      "summary_zh": "一名目击者称，现场非常混乱，海滩的另一端都能听到尖叫声。"
-    },
-    {
-      "title": "ICE agent shoots and wounds man in Texas as locals demand answers",
-      "link": "",
-      "summary": "Protests broke out after a Venezuelan man was taken to hospital with a gunshot wound in his torso.",
-      "published": "",
-      "title_zh": "当地人要求答案，ICE 特工在得克萨斯州开枪打伤一名男子",
-      "summary_zh": "一名躯干受​​枪伤的委内瑞拉男子被送往医院后，抗议活动爆发。"
-    },
-    {
-      "title": "UK PM hails Greenland deal ahead of expected first Trump meeting",
-      "link": "",
-      "summary": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
-      "published": "",
-      "title_zh": "英国首相在特朗普首次会面之前对格陵兰岛协议表示欢迎",
-      "summary_zh": "尽管伯纳姆赞扬了该协议，但自由民主党领导人埃德·戴维称其为特朗普的“假装”胜利。"
-    },
-    {
-      "title": "Here’s the biggest news you missed this weekend",
-      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-september-20-rcna598436",
       "summary": "",
       "published": "",
-      "title_zh": "这是您本周末错过的最大新闻"
+      "title_zh": "特拉维斯·凯尔斯达阵后泰勒·斯威夫特对仇恨者大喊大叫"
     },
     {
-      "title": "Patrick Mahomes and Kenneth Walker shine as Chiefs beat Colts 33-30 in OT",
-      "link": "https://www.nbcnews.com/sports/nfl/patrick-mahomes-kenneth-walker-harrison-butker-nfl-chiefs-colts-rcna598927",
+      "title": "18 suspects in killing of Haiti president extradited to Florida",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "帕特里克·马霍姆斯和肯尼思·沃克大放异彩，酋长队在加时赛中以 33-30 击败小马队"
+      "title_zh": "杀害海地总统的18名嫌疑人被引渡到佛罗里达州"
     },
     {
-      "title": "Mic check: Hollywood Bowl vocals get a tuneup with help from machine learning",
-      "link": "https://www.nbcnews.com/news/us-news/hollywood-bowl-vocals-get-tuneup-help-machine-learning-rcna598472",
+      "title": "Patrick Clancy reveals if Lindsay asked for forgiveness after killing their kids",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "麦克风检查：好莱坞碗的人声在机器学习的帮助下得到调整"
+      "title_zh": "帕特里克·克兰西透露林赛在杀死孩子后是否请求宽恕"
     },
     {
-      "title": "New Found Glory founder and guitarist Chad Gilbert dead at 45",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/chad-gilbert-new-found-glory-founder-guitarist-dies-rcna598857",
+      "title": "Spaun wins BMW PGA with 'chip on my shoulder' after Presidents Cup snub",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "New Found Glory 创始人兼吉他手查德·吉尔伯特去世，享年 45 岁"
+      "title_zh": "斯潘在总统杯冷落后赢得宝马 PGA 冠军"
+    },
+    {
+      "title": "Human bones found during kitchen renovation trigger unexpected crime investigation",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "厨房装修过程中发现的人骨引发意外的犯罪调查"
+    },
+    {
+      "title": "Racing icon says he's hit 'rock bottom' while estranged wife posts cryptic message",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "赛车偶像说他已经跌入“谷底”，而分居的妻子却发布了神秘的信息"
+    },
+    {
+      "title": "CNN, Politico and MS NOW sue the Trump administration over ban on White House coverage",
+      "link": "https://www.nbcnews.com/politics/trump-administration/cnn-politico-ms-now-plan-sue-trump-administration-ban-white-house-cove-rcna598912",
+      "summary": "",
+      "published": "",
+      "title_zh": "CNN、Politico 和 MS NOW 就白宫报道禁令起诉特朗普政府"
+    },
+    {
+      "title": "Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way.",
+      "link": "https://www.nbcnews.com/politics/2026-election/elon-musk-texas-senate-race-republicans-rcna596670",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃隆·马斯克 (Elon Musk) 在德克萨斯州参议院竞选中低调行事。共和党人喜欢这样。"
+    },
+    {
+      "title": "What would Jesus do about data centers? Pastors take the debate to pulpits.",
+      "link": "https://www.nbcnews.com/news/us-news/jesus-data-centers-religion-pastors-ai-debate-pulpits-rcna594721",
+      "summary": "",
+      "published": "",
+      "title_zh": "耶稣会对数据中心做什么？牧师们将辩论带到讲坛上。"
+    },
+    {
+      "title": "Cindy Crawford’s son, model Presley Gerber, dies at 27",
+      "link": "https://www.nbcnews.com/news/us-news/presley-gerber-son-cindy-crawford-dies-27-rcna598952",
+      "summary": "",
+      "published": "",
+      "title_zh": "辛迪·克劳馥 (Cindy Crawford) 儿子、模特普雷斯利·格伯 (Presley Gerber) 去世，享年 27 岁"
+    },
+    {
+      "title": "Tehran warns of ‘new weapons’ as Trump weighs meeting with Iranian president",
+      "link": "https://www.nbcnews.com/world/middle-east/trump-wiping-out-iran-warns-new-weapons-rcna598954",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普考虑与伊朗总统会面，德黑兰警告“新武器”"
+    },
+    {
+      "title": "Details of alleged Russian spy murder plots are exposed in new indictment",
+      "link": "https://www.nbcnews.com/politics/national-security/details-alleged-russian-spy-murder-plots-are-exposed-new-indictment-rcna598391",
+      "summary": "",
+      "published": "",
+      "title_zh": "新起诉书揭露了涉嫌俄罗斯间谍谋杀阴谋的细节"
+    },
+    {
+      "title": "Scrutiny of the holdout juror in Lindsay Clancy’s trial could have wider implications",
+      "link": "https://www.nbcnews.com/news/us-news/scrutiny-holdout-juror-lindsay-clancys-trial-wider-implications-rcna598211",
+      "summary": "",
+      "published": "",
+      "title_zh": "对林赛·克兰西审判中坚持不懈的陪审员的审查可能会产生更广泛的影响"
+    },
+    {
+      "title": "Sole survivor: A young daughter left behind after the Nepal floods",
+      "link": "https://www.nbcnews.com/video/sole-survivor-a-daughter-left-behind-after-the-nepal-floods-270137413722",
+      "summary": "",
+      "published": "",
+      "title_zh": "唯一幸存者：尼泊尔洪水后留下的小女儿"
+    },
+    {
+      "title": "The Chiefs and Patrick Mahomes look like their old selves, but now with new help",
+      "link": "https://www.nbcnews.com/sports/nfl/chiefs-patrick-mahomes-look-old-selves-now-new-help-rcna598929",
+      "summary": "",
+      "published": "",
+      "title_zh": "酋长队和帕特里克·马霍姆斯看起来就像以前的自己，但现在有了新的帮助"
+    },
+    {
+      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+      "link": "",
+      "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
+      "published": "",
+      "title_zh": "吉布提难民营内有数千名逃离也门胡塞武装的人",
+      "summary_zh": "也门西海岸的战斗导致数千人乘船穿越曼德海峡逃离。"
+    },
+    {
+      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+      "link": "",
+      "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
+      "published": "",
+      "title_zh": "辛迪·克劳馥 (Cindy Crawford) 儿子普雷斯利·格伯 (Presley Gerber) 去世，享年 27 岁",
+      "summary_zh": "在模特去世后的“非常困难和痛苦的时期”，他的家人要求保护隐私。"
+    },
+    {
+      "title": "Protests as ICE agent shoots and wounds Venezuelan DoorDash driver in Texas",
+      "link": "",
+      "summary": "Protests broke out in Austin after a Venezuelan delivery driver was taken to hospital with a gunshot wound in his torso.",
+      "published": "",
+      "title_zh": "德克萨斯州 ICE 特工开枪打伤委内瑞拉 DoorDash 司机引发抗议",
+      "summary_zh": "一名委内瑞拉送货司机躯干中枪被送往医院后，奥斯汀爆发了抗议活动。"
+    },
+    {
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "link": "",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "published": "",
+      "title_zh": "CNN、MS NOW 和 Politico 将针对特朗普的白宫禁令提起诉讼",
+      "summary_zh": "美国主要电视网随后暂停了特朗普前往纽约参加联合国峰会期间的白宫电视报道。"
+    },
+    {
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "link": "",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "published": "",
+      "title_zh": "强台风“杜鹃”袭击日本，数百万人敦促撤离",
+      "summary_zh": "该国气象机构曾警告称，“生命面临迫在眉睫的威胁”，但目前大多数地区的警告级别已被下调。"
+    },
+    {
+      "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
+      "link": "",
+      "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
+      "published": "",
+      "title_zh": "“远未达到最佳状态”到“观看比赛很有趣”——英超球队新赛季开局排名",
+      "summary_zh": "联赛赛季已经进行了五场比赛，到目前为止，英超联赛中哪些球队给人留下了深刻的印象，哪些球队令人失望？"
+    },
+    {
+      "title": "Steve Rosenberg: 'No surprises' as results emerge in Russian parliamentary election",
+      "link": "",
+      "summary": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
+      "published": "",
+      "title_zh": "史蒂夫·罗森伯格：俄罗斯议会选举结果“并不令人意外”",
+      "summary_zh": "初步结果表明，克里姆林宫支持的统一俄罗斯党有望保住宪法多数席位。"
+    },
+    {
+      "title": "Watch: BBC tracks down abusive teacher secretly released early",
+      "link": "",
+      "summary": "BBC Eye has discovered a teacher who was imprisoned for sexually assaulting a student in Indonesia has been secretly released early.",
+      "published": "",
+      "title_zh": "观看：BBC 追踪提前秘密释放的虐待老师",
+      "summary_zh": "BBC Eye发现，印度尼西亚一名因性侵学生而入狱的教师已提前秘密释放。"
+    },
+    {
+      "title": "The teen fossil hunter who was trapped in a cave",
+      "link": "",
+      "summary": "After the incident, Fred Topliffe lived an accomplished life which included more cave exploration.",
+      "published": "",
+      "title_zh": "被困在山洞里的青少年化石猎人",
+      "summary_zh": "事件发生后，弗雷德·托普利夫过上了充实的生活，其中包括更多的洞穴探险。"
+    },
+    {
+      "title": "Ryan Reynolds and Rob Mac buy historic Wrexham football pub",
+      "link": "",
+      "summary": "The Turf is a regular feature on the Welcome to Wrexham Disney documentary series.",
+      "published": "",
+      "title_zh": "瑞安·雷诺兹 (Ryan Reynolds) 和罗布·麦克 (Rob Mac) 收购了历史悠久的雷克瑟姆足球酒吧",
+      "summary_zh": "《草皮》是迪士尼纪录片系列《欢迎来到雷克瑟姆》的常规专题片。"
+    },
+    {
+      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+      "link": "",
+      "summary": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
+      "published": "",
+      "title_zh": "谷歌因违反 GDPR 被爱尔兰数据监管机构罚款 4.03 亿欧元",
+      "summary_zh": "六年前，在几个欧洲消费者权益组织提出投诉后，对这家科技巨头发起了调查。"
+    },
+    {
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "link": "",
+      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+      "published": "",
+      "title_zh": "中美在特习峰会前讨论人工智能安全计划",
+      "summary_zh": "在本周的特习峰会之前，美国和中国高级官员周日在纽约举行会谈。"
     }
   ]
 }
