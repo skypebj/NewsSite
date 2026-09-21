@@ -1,10 +1,10 @@
 {
   "date": "20260921",
-  "total": 39,
+  "total": 34,
   "sources": {
     "bbc": {
       "status": "ok",
-      "entries": 12
+      "entries": 0
     },
     "theguardian": {
       "status": "ok",
@@ -33,289 +33,254 @@
   },
   "entries": [
     {
-      "title": "'Un-American' Omar bill sparks firestorm once details come to light",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "“非美国人”奥马尔法案细节曝光后引发轩然大波"
-    },
-    {
-      "title": "Presley Gerber, the son of supermodel Cindy Crawford, dead at age 27",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "超级名模辛迪·克劳馥之子普雷斯利·格伯去世，享年 27 岁"
-    },
-    {
-      "title": "All 10 ActBlue staffers plead the Fifth as GOP vows probe is 'far from over'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党誓言调查“远未结束”，所有 10 名 ActBlue 工作人员都为第五次辩护"
-    },
-    {
-      "title": "Iran warns of ‘astonishing’ arsenal if US strikes again",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗警告称，如果美国再次发动袭击，伊朗将拥有“惊人”的军火库"
-    },
-    {
-      "title": "Rock frontman sends pointed message after Macklemore ousted from Sheeran tour",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "麦克莫尔被希兰巡演驱逐后，摇滚主唱发出尖锐的信息"
-    },
-    {
-      "title": "NASCAR wives make explosive accusations about driver after violent pit road fight",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "纳斯卡车赛妻子在维修站暴力斗殴后对司机提出爆炸性指控"
-    },
-    {
-      "title": "Dem senator's El-Sayed answer fuels speculation on just how deep party fracture runs",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党参议员埃尔-赛义德的回答引发了人们对政党分歧到底有多深的猜测"
-    },
-    {
-      "title": "Tourists seeking 'dramatic' photo on isolated beach trapped by incoming tide",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "游客在被潮水困住的偏僻海滩上寻找“戏剧性”照片"
-    },
-    {
-      "title": "Car manufacturers recalling hundreds of thousands of SUVs over major issue",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "汽车制造商因重大问题召回数十万辆SUV"
-    },
-    {
-      "title": "Beijing caught using AI to build surveillance dossiers on worshippers inside America",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "北京被发现利用人工智能对美国境内的信徒建立监控档案"
-    },
-    {
-      "title": "Olivia Miles dethrones Caitlin Clark as the WNBA's top rookie scorer in big win",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "奥利维亚·迈尔斯 (Olivia Miles) 击败凯特琳·克拉克 (Caitlin Clark)，成为 WNBA 最佳新秀得分手"
-    },
-    {
-      "title": "Ring girl roasts Lane Kiffin following Ole Miss loss with Halloween costume jab",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "继奥莱小姐失利后，戒指女孩用万圣节服装刺痛了莱恩·基芬"
-    },
-    {
-      "title": "What Taylor Swift shouted at haters after Travis Kelce scores a touchdown",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特拉维斯·凯尔斯达阵后泰勒·斯威夫特对仇恨者大喊大叫"
-    },
-    {
-      "title": "18 suspects in killing of Haiti president extradited to Florida",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杀害海地总统的18名嫌疑人被引渡到佛罗里达州"
-    },
-    {
-      "title": "Patrick Clancy reveals if Lindsay asked for forgiveness after killing their kids",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "帕特里克·克兰西透露林赛在杀死孩子后是否请求宽恕"
-    },
-    {
-      "title": "Spaun wins BMW PGA with 'chip on my shoulder' after Presidents Cup snub",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "斯潘在总统杯冷落后赢得宝马 PGA 冠军"
-    },
-    {
-      "title": "Human bones found during kitchen renovation trigger unexpected crime investigation",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "厨房装修过程中发现的人骨引发意外的犯罪调查"
-    },
-    {
-      "title": "Racing icon says he's hit 'rock bottom' while estranged wife posts cryptic message",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "赛车偶像说他已经跌入“谷底”，而分居的妻子却发布了神秘的信息"
-    },
-    {
-      "title": "CNN, Politico and MS NOW sue the Trump administration over ban on White House coverage",
-      "link": "https://www.nbcnews.com/politics/trump-administration/cnn-politico-ms-now-plan-sue-trump-administration-ban-white-house-cove-rcna598912",
-      "summary": "",
-      "published": "",
-      "title_zh": "CNN、Politico 和 MS NOW 就白宫报道禁令起诉特朗普政府"
-    },
-    {
-      "title": "Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way.",
-      "link": "https://www.nbcnews.com/politics/2026-election/elon-musk-texas-senate-race-republicans-rcna596670",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃隆·马斯克 (Elon Musk) 在德克萨斯州参议院竞选中低调行事。共和党人喜欢这样。"
-    },
-    {
-      "title": "What would Jesus do about data centers? Pastors take the debate to pulpits.",
-      "link": "https://www.nbcnews.com/news/us-news/jesus-data-centers-religion-pastors-ai-debate-pulpits-rcna594721",
-      "summary": "",
-      "published": "",
-      "title_zh": "耶稣会对数据中心做什么？牧师们将辩论带到讲坛上。"
-    },
-    {
-      "title": "Cindy Crawford’s son, model Presley Gerber, dies at 27",
-      "link": "https://www.nbcnews.com/news/us-news/presley-gerber-son-cindy-crawford-dies-27-rcna598952",
-      "summary": "",
-      "published": "",
-      "title_zh": "辛迪·克劳馥 (Cindy Crawford) 儿子、模特普雷斯利·格伯 (Presley Gerber) 去世，享年 27 岁"
-    },
-    {
-      "title": "Tehran warns of ‘new weapons’ as Trump weighs meeting with Iranian president",
-      "link": "https://www.nbcnews.com/world/middle-east/trump-wiping-out-iran-warns-new-weapons-rcna598954",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普考虑与伊朗总统会面，德黑兰警告“新武器”"
-    },
-    {
-      "title": "Details of alleged Russian spy murder plots are exposed in new indictment",
-      "link": "https://www.nbcnews.com/politics/national-security/details-alleged-russian-spy-murder-plots-are-exposed-new-indictment-rcna598391",
-      "summary": "",
-      "published": "",
-      "title_zh": "新起诉书揭露了涉嫌俄罗斯间谍谋杀阴谋的细节"
-    },
-    {
-      "title": "Scrutiny of the holdout juror in Lindsay Clancy’s trial could have wider implications",
-      "link": "https://www.nbcnews.com/news/us-news/scrutiny-holdout-juror-lindsay-clancys-trial-wider-implications-rcna598211",
-      "summary": "",
-      "published": "",
-      "title_zh": "对林赛·克兰西审判中坚持不懈的陪审员的审查可能会产生更广泛的影响"
-    },
-    {
-      "title": "Sole survivor: A young daughter left behind after the Nepal floods",
-      "link": "https://www.nbcnews.com/video/sole-survivor-a-daughter-left-behind-after-the-nepal-floods-270137413722",
-      "summary": "",
-      "published": "",
-      "title_zh": "唯一幸存者：尼泊尔洪水后留下的小女儿"
-    },
-    {
-      "title": "The Chiefs and Patrick Mahomes look like their old selves, but now with new help",
-      "link": "https://www.nbcnews.com/sports/nfl/chiefs-patrick-mahomes-look-old-selves-now-new-help-rcna598929",
-      "summary": "",
-      "published": "",
-      "title_zh": "酋长队和帕特里克·马霍姆斯看起来就像以前的自己，但现在有了新的帮助"
-    },
-    {
-      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-      "link": "",
-      "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
-      "published": "",
-      "title_zh": "吉布提难民营内有数千名逃离也门胡塞武装的人",
-      "summary_zh": "也门西海岸的战斗导致数千人乘船穿越曼德海峡逃离。"
-    },
-    {
-      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
-      "link": "",
-      "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-      "published": "",
-      "title_zh": "辛迪·克劳馥 (Cindy Crawford) 儿子普雷斯利·格伯 (Presley Gerber) 去世，享年 27 岁",
-      "summary_zh": "在模特去世后的“非常困难和痛苦的时期”，他的家人要求保护隐私。"
-    },
-    {
-      "title": "Protests as ICE agent shoots and wounds Venezuelan DoorDash driver in Texas",
-      "link": "",
-      "summary": "Protests broke out in Austin after a Venezuelan delivery driver was taken to hospital with a gunshot wound in his torso.",
-      "published": "",
-      "title_zh": "德克萨斯州 ICE 特工开枪打伤委内瑞拉 DoorDash 司机引发抗议",
-      "summary_zh": "一名委内瑞拉送货司机躯干中枪被送往医院后，奥斯汀爆发了抗议活动。"
-    },
-    {
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "link": "",
       "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
       "published": "",
-      "title_zh": "CNN、MS NOW 和 Politico 将针对特朗普的白宫禁令提起诉讼",
-      "summary_zh": "美国主要电视网随后暂停了特朗普前往纽约参加联合国峰会期间的白宫电视报道。"
+      "title_zh": "CNN、MS NOW 和 Politico 对特朗普的白宫禁令提起诉讼",
+      "summary_zh": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit."
     },
     {
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
       "link": "",
-      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "summary": "Paramount has reached a settlement with the US states in a lawsuit challenging its $110bn merger with Warner Bros",
       "published": "",
-      "title_zh": "强台风“杜鹃”袭击日本，数百万人敦促撤离",
-      "summary_zh": "该国气象机构曾警告称，“生命面临迫在眉睫的威胁”，但目前大多数地区的警告级别已被下调。"
+      "title_zh": "派拉蒙与美国各州达成和解诉讼，为与华纳兄弟 1100 亿美元的合并扫清道路",
+      "summary_zh": "Paramount has reached a settlement with the US states in a lawsuit challenging its $110bn merger with Warner Bros"
     },
     {
-      "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
+      "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
       "link": "",
-      "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
+      "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
       "published": "",
-      "title_zh": "“远未达到最佳状态”到“观看比赛很有趣”——英超球队新赛季开局排名",
-      "summary_zh": "联赛赛季已经进行了五场比赛，到目前为止，英超联赛中哪些球队给人留下了深刻的印象，哪些球队令人失望？"
+      "title_zh": "辛迪·克劳馥儿子普雷斯利·格伯因疑似吸毒过量死亡接受调查",
+      "summary_zh": "在模特去世后的“非常困难和痛苦的时期”，他的家人要求保护隐私。"
     },
     {
-      "title": "Steve Rosenberg: 'No surprises' as results emerge in Russian parliamentary election",
+      "title": "Flights delayed at major US airports after cable cut by construction workers",
       "link": "",
-      "summary": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
+      "summary": "A US aviation official says the damage was caused in New Jersey, prompting delays in New York City, Boston and Philadelphia.",
       "published": "",
-      "title_zh": "史蒂夫·罗森伯格：俄罗斯议会选举结果“并不令人意外”",
-      "summary_zh": "初步结果表明，克里姆林宫支持的统一俄罗斯党有望保住宪法多数席位。"
+      "title_zh": "建筑工人剪断电缆导致美国主要机场航班延误",
+      "summary_zh": "一名美国航空官员表示，损坏是在新泽西州造成的，导致纽约市、波士顿和费城的航班延误。"
     },
     {
-      "title": "Watch: BBC tracks down abusive teacher secretly released early",
+      "title": "Two charged with woman's murder as South Africa police investigate eight other bodies found",
       "link": "",
-      "summary": "BBC Eye has discovered a teacher who was imprisoned for sexually assaulting a student in Indonesia has been secretly released early.",
+      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
       "published": "",
-      "title_zh": "观看：BBC 追踪提前秘密释放的虐待老师",
-      "summary_zh": "BBC Eye发现，印度尼西亚一名因性侵学生而入狱的教师已提前秘密释放。"
+      "title_zh": "南非警方调查发现的另外八具尸体，两人被控谋杀妇女",
+      "summary_zh": "贾布里莱·恩廷​​巴 (Jabulile Ntimba) 的尸体是最近在约翰内斯堡东部地区发现的第九具尸体。"
     },
     {
-      "title": "The teen fossil hunter who was trapped in a cave",
+      "title": "British Museum bans visitors from photographing Bayeux Tapestry",
       "link": "",
-      "summary": "After the incident, Fred Topliffe lived an accomplished life which included more cave exploration.",
+      "summary": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change.",
       "published": "",
-      "title_zh": "被困在山洞里的青少年化石猎人",
-      "summary_zh": "事件发生后，弗雷德·托普利夫过上了充实的生活，其中包括更多的洞穴探险。"
+      "title_zh": "British Museum bans visitors from photographing Bayeux Tapestry",
+      "summary_zh": "游客们停下来给这幅 68m 中世纪刺绣拍照，并阻碍了其他人，促使规则发生变化。"
     },
     {
-      "title": "Ryan Reynolds and Rob Mac buy historic Wrexham football pub",
+      "title": "Chiefs back in business as star QBs go down - five things from NFL week two",
       "link": "",
-      "summary": "The Turf is a regular feature on the Welcome to Wrexham Disney documentary series.",
+      "summary": "Patrick Mahomes and the Kansas City Chiefs look back to their best but Caleb Williams and Jayden Daniels suffer serious injuries. Here's what you need to know from week two in the NFL.",
       "published": "",
-      "title_zh": "瑞安·雷诺兹 (Ryan Reynolds) 和罗布·麦克 (Rob Mac) 收购了历史悠久的雷克瑟姆足球酒吧",
-      "summary_zh": "《草皮》是迪士尼纪录片系列《欢迎来到雷克瑟姆》的常规专题片。"
+      "title_zh": "随着明星四分卫的衰落，酋长们重新开始营业——NFL第二周的五件事",
+      "summary_zh": "帕特里克·马霍姆斯和堪萨斯城酋长队回顾了他们的最佳状态，但凯莱布·威廉姆斯和杰登·丹尼尔斯遭受了严重的伤病。以下是 NFL 比赛第二周您需要了解的内容。"
     },
     {
-      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+      "title": "London Fashion Week 2026: The five trends we'll see in spring",
       "link": "",
-      "summary": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
+      "summary": "As London Fashion Week comes to a close, here are the biggest trends for your wardrobe.",
       "published": "",
-      "title_zh": "谷歌因违反 GDPR 被爱尔兰数据监管机构罚款 4.03 亿欧元",
-      "summary_zh": "六年前，在几个欧洲消费者权益组织提出投诉后，对这家科技巨头发起了调查。"
+      "title_zh": "London Fashion Week 2026: The five trends we'll see in spring",
+      "summary_zh": "随着伦敦时装周即将结束，以下是您衣橱的最大趋势。"
     },
     {
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "title": "Cate Blanchett asks theatre audience to stop filming during show",
       "link": "",
-      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+      "summary": "The A-list actress is the latest star to ask fans to put their phones away during performances.",
       "published": "",
-      "title_zh": "中美在特习峰会前讨论人工智能安全计划",
-      "summary_zh": "在本周的特习峰会之前，美国和中国高级官员周日在纽约举行会谈。"
+      "title_zh": "凯特·布兰切特要求剧院观众在演出期间停止拍摄",
+      "summary_zh": "这位一线女演员是最新一位要求粉丝在演出期间把手机收起来的明星。"
+    },
+    {
+      "title": "Specialist courts for rape cases to be rolled out in England and Wales",
+      "link": "",
+      "summary": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
+      "published": "",
+      "title_zh": "英格兰和威尔士将设立专门审理强奸案的法庭",
+      "summary_zh": "政府表示，资金将使受害者能够远程观看诉讼程序，并通过视频链接在单独的房间提供证据。"
+    },
+    {
+      "title": "Infantino proposes external review of Fifa governance",
+      "link": "",
+      "summary": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's governing body.",
+      "published": "",
+      "title_zh": "Infantino proposes external review of Fifa governance",
+      "summary_zh": "国际足联主席詹尼·因凡蒂诺提议对世界足球管理机构的治理进行外部审查。"
+    },
+    {
+      "title": "Palmer & Rice among five withdrawals from England squad",
+      "link": "",
+      "summary": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches.",
+      "published": "",
+      "title_zh": "帕尔默和赖斯等五人退出英格兰队",
+      "summary_zh": "蒂诺·利夫拉门托、科比·麦努、科尔·帕尔默、马库斯·拉什福德和德克兰·赖斯都退出了英格兰队即将举行的国家联赛比赛的阵容。"
+    },
+    {
+      "title": "Spanberger sparks outrage after slipping in transgender sports rule changes",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Spanberger sparks outrage after slipping in transgender sports rule changes"
+    },
+    {
+      "title": "Minnesota Dem's viral hijab video goes from bad to worse as new allegations surface",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着新指控的浮出水面，明尼苏达州民主党的头巾视频在网上疯传"
+    },
+    {
+      "title": "Routine airport screening takes unexpected turn after TSA officer spots unusual detail",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Routine airport screening takes unexpected turn after TSA officer spots unusual detail"
+    },
+    {
+      "title": "Trump reportedly called off strikes on terror group amid inner circle pushback",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，特朗普在内部圈子的抵制下取消了对恐怖组织的打击"
+    },
+    {
+      "title": "Police investigate 'suspected overdose' in death of Presley Gerber at 27",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "27 岁的普雷斯利·格伯 (Presley Gerber) 死亡，警方调查“疑似吸毒过量”"
+    },
+    {
+      "title": "Murdaugh defense says unknown male DNA was never run through key test",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "默多辩护称未知男性DNA从未经过关键测试"
+    },
+    {
+      "title": "Macklemore gets new high-profile Capitol Hill ally amid fallout over Ed Sheeran tour",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在艾德·希兰巡演的余波中，麦克莫尔获得了新的备受瞩目的国会山盟友"
+    },
+    {
+      "title": "White House TV pool to suspend coverage of Trump events, issue joint statement",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "白宫电视台暂停报道特朗普事件并发表联合声明"
+    },
+    {
+      "title": "Tech CEO addresses warnings that AI could end the world by 2030",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "科技公司首席执行官回应人工智能可能在 2030 年毁灭世界的警告"
+    },
+    {
+      "title": "Surgery still a consideration for Daniels after he dislocates the same elbow once more",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "丹尼尔斯的肘部再次脱臼后，手术仍然是他的考虑因素"
+    },
+    {
+      "title": "Transportation secretary reveals what caused gridlock at major US airports",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "交通部长揭示美国主要机场出现拥堵的原因"
+    },
+    {
+      "title": "Pritzker dodges on Piker's influence in party, says he doesn't want to talk about him",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "普利兹克回避派克在党内的影响力，表示不想谈论他"
+    },
+    {
+      "title": "Blue state's voluntary newborn nurse visits trigger online eruption: 'What?'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "蓝州新生儿护士自愿探访引发网友热议：“什么？”"
+    },
+    {
+      "title": "The explosive moment two NASCAR stars came to blows at Bristol Motor Speedway",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "两名纳斯卡明星在布里斯托尔赛车场发生冲突的爆炸性时刻"
+    },
+    {
+      "title": "Georgia district pulls classic novel over graphic scene as critics claim 'censorship'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乔治亚地区将经典小说从图像场景中撤下，批评者声称“审查制度”"
+    },
+    {
+      "title": "Mamdani's post mourning inmate's death sparks fury when internet sees his rap sheet",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "当互联网上看到马姆达尼的犯罪记录时，他的哀悼囚犯之死的帖子引发了愤怒"
+    },
+    {
+      "title": "'Extremely dangerous' Chinese human smuggling attempt intercepted near Florida coast",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“极其危险”的中国人口走私企图在佛罗里达州海岸附近被拦截"
+    },
+    {
+      "title": "After 11-1 deadlock, Clancy defense seeks sweeping probe into lone holdout",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "11-1僵局后，克兰西防守寻求全面调查孤独的顽固分子"
+    },
+    {
+      "title": "SEE IT:‘American Idol’ murder suspect has viral reaction as jury sees scene photos",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "看一下：“美国偶像”谋杀案嫌疑人在陪审团看到现场照片时出现病毒式反应"
+    },
+    {
+      "title": "Paramount reaches deal with California, other states over Warner merger",
+      "link": "https://www.nbcnews.com/business/media/paramount-reaches-settlement-states-warner-bros-discovery-merger-rcna598645",
+      "summary": "",
+      "published": "",
+      "title_zh": "派拉蒙与加州及其他州就华纳合并达成协议"
+    },
+    {
+      "title": "Flights halted out of Newark, Philadelphia and NYC after air traffic equipment failure",
+      "link": "https://www.nbcnews.com/news/us-news/flights-delayed-newark-philadelphia-faa-orders-ground-stops-rcna599020",
+      "summary": "",
+      "published": "",
+      "title_zh": "空中交通设备故障后，从纽瓦克、费城和纽约出发的航班暂停"
+    },
+    {
+      "title": "CDC’s teen behavior report focuses on nutrition, downplays sex and drug use",
+      "link": "https://www.nbcnews.com/health/health-news/teen-behavior-cdc-report-nutrition-mental-health-sex-rcna598037",
+      "summary": "",
+      "published": "",
+      "title_zh": "疾病预防控制中心的青少年行为报告重点关注营养，淡化性和药物使用"
     }
   ]
 }
