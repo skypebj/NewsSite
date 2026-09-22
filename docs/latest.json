@@ -1,12 +1,8 @@
 {
   "date": "20260922",
-  "total": 39,
+  "total": 36,
   "sources": {
-    "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
-    "theguardian": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -14,7 +10,11 @@
       "status": "ok",
       "entries": 0
     },
-    "cnn": {
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
       "status": "ok",
       "entries": 0
     },
@@ -22,302 +22,279 @@
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "apnews": {
       "status": "ok",
       "entries": 0
     },
-    "apnews": {
+    "fox": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "SOON:Trump to put the United Nations 'on a diet' as he takes the world stage",
+      "title": "Byron Donalds scrubs most Trump references from new campaign site",
+      "link": "https://www.nbcnews.com/politics/2026-election/byron-donalds-scrubs-trump-references-new-campaign-site-florida-govern-rcna599251",
+      "summary": "",
+      "published": "",
+      "title_zh": "拜伦·唐纳德斯删除了新竞选网站上大多数提及特朗普的内容"
+    },
+    {
+      "title": "Passenger says United ‘trapped’ her next to a man who masturbated on flight. Then the airline let him leave.",
+      "link": "https://www.nbcnews.com/news/us-news/passenger-says-united-trapped-man-masturbated-flight-airline-let-leave-rcna599076",
+      "summary": "",
+      "published": "",
+      "title_zh": "乘客称，美联航将她“困”在一名在飞机上自慰的男子身边。然后航空公司就让他离开了。"
+    },
+    {
+      "title": "Hayden Panettiere died from accidental overdose of drugs, including fentanyl, coroner says",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/hayden-panettiere-died-fentanyl-overdose-coroner-says-rcna593657",
+      "summary": "",
+      "published": "",
+      "title_zh": "验尸官称，海顿·潘妮蒂尔死于意外服用过量药物，包括芬太尼"
+    },
+    {
+      "title": "‘I should be dead’: Jeremy Renner reflects on near-death experience on ‘Before & After with Lester Holt’",
+      "link": "https://www.nbcnews.com/video/jeremy-renner-on-before-after-with-lester-holt-podcast-i-should-be-dead-270297669573",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我应该死了”：杰瑞米·雷纳在《与莱斯特·霍尔特的前后》中反思濒死体验"
+    },
+    {
+      "title": "Video shows injured man on the ground after ICE mistakenly targets him",
+      "link": "https://www.nbcnews.com/news/us-news/video-shows-injured-man-ground-ice-mistakenly-targets-rcna599188",
+      "summary": "",
+      "published": "",
+      "title_zh": "视频显示 ICE 误将受伤男子作为目标后倒在地上"
+    },
+    {
+      "title": "9 women, 9 murders: South Africa confronts gender-based violence crisis",
+      "link": "https://www.nbcnews.com/world/africa/south-africa-women-murdered-gender-based-violence-crisis-rcna598955",
+      "summary": "",
+      "published": "",
+      "title_zh": "9名妇女，9起谋杀案：南非面临性别暴力危机"
+    },
+    {
+      "title": "House Dem leader erupts after moderate colleague defies party in must-win House race",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "很快：特朗普在登上世界舞台时将让联合国“节食”"
+      "title_zh": "众议院民主党领袖在温和派同事在必须获胜的众议院竞选中公然反抗政党后爆发"
     },
     {
-      "title": "Media calls Austin protests 'spontaneous' but Fox News Digital probe reveals who coordinated it",
+      "title": "Highly contagious virus hits major US airport as officials warn of possible exposure",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "媒体称奥斯汀抗议活动是“自发的”，但福克斯新闻数字调查揭示了是谁协调的"
+      "title_zh": "高度传染性病毒袭击美国主要机场，官员警告可能接触病毒"
     },
     {
-      "title": "Fox News Power Rankings: For the Democrats, where could it possibly go wrong?",
+      "title": "Thousands owed up to $5K each in largest municipal payout of its kind ever",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "福克斯新闻权力排行榜：对于民主党来说，哪里可能出错？"
+      "title_zh": "数千人每人欠债高达 5,000 美元，这是有史以来同类市政支出中最大的一笔"
     },
     {
-      "title": "Chicago commuters are hit with a bold new Florida billboard campaign",
+      "title": "Five top takeaways from President Trump's high-stakes UN speech to the world",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "芝加哥通勤者受到佛罗里达州大胆的新广告牌活动的打击"
+      "title_zh": "特朗普总统在联合国向世界发表的高风险演讲的五个要点"
     },
     {
-      "title": "Grand jury report sheds new light on Nolan Wells' death off Mississippi coast",
+      "title": "Trump's top diplomat quietly picked up a powerful new White House position",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大陪审团报告为诺兰·威尔斯在密西西比海岸的死亡提供了新的线索"
+      "title_zh": "特朗普的最高外交官悄然担任白宫新一职"
     },
     {
-      "title": "Two prime ministers join Trump for historic signing after sovereignty dispute",
+      "title": "Netanyahu says he will 'tell the truth' about Mamdani during UN speech",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "主权争端后两位总理与特朗普一起签署历史性协议"
+      "title_zh": "内塔尼亚胡表示他将在联合国演讲中“说出有关马姆达尼的真相”"
     },
     {
-      "title": "GOP warns booming industry is hitting Americans' wallets, but Washington isn't the fix",
+      "title": "Ex-ABC reporter says Biden health scoop was stopped cold by network higher-ups",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党警告蓬勃发展的工业正在打击美国人的钱包，但华盛顿不是解决办法"
+      "title_zh": "前美国广播公司记者称拜登健康独家新闻被网络高层冷落"
     },
     {
-      "title": "Rubio says Trump willing to meet Iran’s president as world leaders arrive in NYC",
+      "title": "Hayden Panettiere cause of death revealed one month after actress' passing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卢比奥表示特朗普愿意在世界领导人抵达纽约时会见伊朗总统"
+      "title_zh": "海顿·潘妮蒂尔去世一个月后死因揭晓"
     },
     {
-      "title": "Presley Gerber’s death puts addiction treatment safety in the spotlight",
+      "title": "Trump ditches 'artificial intelligence' for new name, draws line on global control",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "普雷斯利·格伯的去世使成瘾治疗的安全性成为人们关注的焦点"
+      "title_zh": "特朗普放弃“人工智能”换新名字，划清全球控制界限"
     },
     {
-      "title": "Hegseth's new battlefield test aimed at making generals warfighters – not bureaucrats",
+      "title": "Over 1.1 million ObamaCare enrollees had no Social Security number, Dr. Oz reveals",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "赫格斯的新战场测试旨在使将军成为战士，而不是官僚"
+      "title_zh": "奥兹博士透露，超过 110 万奥巴马医改参保者没有社会安全号码"
     },
     {
-      "title": "Accused wife-killer escapes death penalty after fleeing to a country with no execution",
+      "title": "Alexandria Ocasio-Cortez admits gender and race weigh on potential 2028 bid",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被指控的杀妻凶手逃到一个没有执行死刑的国家后逃脱了死刑"
+      "title_zh": "亚历山大·奥卡西奥-科尔特斯 (Alexandria Ocasio-Cortez) 承认性别和种族对 2028 年申办可能产生影响"
     },
     {
-      "title": "‘Gutfeld!’: Dems don’t want to let another crisis go to waste",
+      "title": "Sister of missing DC mom speaks out after ex’s arrest reveals ‘horrifying’ abuse",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“Gutfeld！”：民主党不想让另一场危机白白浪费"
+      "title_zh": "华盛顿失踪妈妈的妹妹在前夫被捕后揭露“可怕”的虐待行为"
     },
     {
-      "title": "Chinese coast guard rams Philippine ship in latest South China Sea confrontation",
+      "title": "Granddaughter says Canadian grandma cried before assisted death: ‘I made a mistake’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中国海警在最新南海对抗中冲撞菲律宾船只"
+      "title_zh": "孙女说加拿大奶奶在安乐死前哭了：“我犯了一个错误”"
     },
     {
-      "title": "Legendary saying about ancient Rome challenged by sweeping new study",
+      "title": "‘Clavicular’ faces new legal trouble over night with teen at Cape Cod family home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "关于古罗马的传说受到全面新研究的挑战"
+      "title_zh": "“锁骨”与青少年在科德角家中过夜面临新的法律麻烦"
     },
     {
-      "title": "Monster Hurricane Polo rapidly intensifies to max Category 5 storm in 24 hours",
+      "title": "Democrats riding toward a blue wave — but three wild cards could sink it",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "怪物飓风波罗在 24 小时内迅速增强至最大 5 级风暴"
+      "title_zh": "民主党正驶向蓝色浪潮——但三张通配符可能会击垮它"
     },
     {
-      "title": "What to expect as world leaders descend on New York - and who won't be there",
+      "title": "Taylor Swift's cryptic countdown had fans spiraling before big reveal",
       "link": "",
-      "summary": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-      "published": "",
-      "title_zh": "世界领导人齐聚纽约会发生什么——谁不会出席",
-      "summary_zh": "英国广播公司 (BBC) 的莎拉·史密斯 (Sarah Smith) 概述了特朗普将与哪些世界领导人会面以及议程上预期的关键议题。"
-    },
-    {
-      "title": "No criminal charges in death of black Mississippi teenager, grand jury says",
-      "link": "",
-      "summary": "Nolan Wells' family had raised alarm that he ended up dead \"after going out on a boat with three young white men\".",
-      "published": "",
-      "title_zh": "大陪审团称，密西西比州黑人少年的死亡没有受到刑事指控",
-      "summary_zh": "诺兰·威尔斯的家人对他“与三名年轻白人一起出海后”死亡表示震惊。"
-    },
-    {
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "link": "",
-      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-      "published": "",
-      "title_zh": "斯里兰卡法院判处 15 名复活节周日爆炸案男子有罪",
-      "summary_zh": "2019 年的袭击袭击了三座教堂和三家豪华酒店，造成 270 人死亡。"
-    },
-    {
-      "title": "To Kill A Mockingbird first edition found in UK charity shop",
-      "link": "",
-      "summary": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-      "published": "",
-      "title_zh": "英国慈善商店发现《杀死一只知更鸟》第一版",
-      "summary_zh": "美国原版《杀死一只知更鸟》在伦敦西部的乐施会商店中被发现。"
-    },
-    {
-      "title": "How Trump's media ban sparked a broadcaster boycott",
-      "link": "",
-      "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-      "published": "",
-      "title_zh": "特朗普的媒体禁令如何引发广播公司抵制",
-      "summary_zh": "白宫新闻界处于唐纳德·特朗普总统与电视网络之间主要争执的中心。它是什么？"
-    },
-    {
-      "title": "Can you take the 'London' out of London Fashion Week?",
-      "link": "",
-      "summary": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-      "published": "",
-      "title_zh": "你能把“伦敦”从伦敦时装周中剔除吗？",
-      "summary_zh": "今年推出了一项旨在表明伦敦时装周“比伦敦更大”的举措 - 但这会产生影响吗？"
-    },
-    {
-      "title": "Inside Scotland's wildcat HQ - 'It's like Big Brother for cats'",
-      "link": "",
-      "summary": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
-      "published": "",
-      "title_zh": "苏格兰野猫总部内部——“这就像猫的老大哥”",
-      "summary_zh": "拯救野猫组织的合作伙伴正在密切关注最新的圈养野猫，并将其释放到凯恩戈姆山脉。"
-    },
-    {
-      "title": "Spain battles climate change on several fronts",
-      "link": "",
-      "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-      "published": "",
-      "title_zh": "西班牙在多个方面应对气候变化",
-      "summary_zh": "夏季的野火和热浪凸显了该国经济面临的威胁。"
-    },
-    {
-      "title": "Watch: Ukraine's race to counter new jet-powered Russian drones",
-      "link": "",
-      "summary": "Russia's new drones are harder to intercept, making recent attacks on Ukraine even more devastating.",
-      "published": "",
-      "title_zh": "观看：乌克兰对抗俄罗斯新型喷气式无人机的竞赛",
-      "summary_zh": "俄罗斯的新型无人机更难拦截，这使得最近对乌克兰的袭击更具破坏性。"
-    },
-    {
-      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
-      "link": "",
-      "summary": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
-      "published": "",
-      "title_zh": "强台风“杜娟”袭击日本造成四人死亡",
-      "summary_zh": "风暴给东京及周边地区带来大雨和强风后离开日本。"
-    },
-    {
-      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-      "link": "",
-      "summary": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-      "published": "",
-      "title_zh": "派拉蒙与美国各州达成和解诉讼，为与华纳兄弟 1100 亿美元的合并扫清道路",
-      "summary_zh": "该协议包括每年制作 30 部电影的协议，否则派拉蒙将被迫出售其公司的部分股份。"
-    },
-    {
-      "title": "Apple Music to open concert venue at London HQ",
-      "link": "",
-      "summary": "The tech giant has built its own concert hall, but says its not in competition with small venues.",
-      "published": "",
-      "title_zh": "Apple Music 将在伦敦总部开设音乐会场地",
-      "summary_zh": "这家科技巨头已经建造了自己的音乐厅，但表示不与小型场馆竞争。"
-    },
-    {
-      "title": "UK to help refuel Saudi jets countering Houthi attacks",
-      "link": "",
-      "summary": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
-      "published": "",
-      "title_zh": "英国帮助沙特飞机加油应对胡塞武装袭击",
-      "summary_zh": "英国表示，应沙特阿拉伯的要求，它将为“防御”行动提供空中加油。"
-    },
-    {
-      "title": "Outrage in India over viral video of teen molested and her friend beaten",
-      "link": "",
-      "summary": "Three minors were arrested after videos capturing the assault went viral in India, sparking anger.",
-      "published": "",
-      "title_zh": "印度青少年被猥亵、朋友被殴打的视频在网上疯传，引发愤怒",
-      "summary_zh": "袭击事件的视频在印度疯传，引发愤怒，三名未成年人被捕。"
-    },
-    {
-      "title": "Inside Russia’s industry of forced POW videos",
-      "link": "https://www.nbcnews.com/tech/misinformation/russia-ukraine-pow-video-propaganda-rcna598593",
       "summary": "",
       "published": "",
-      "title_zh": "俄罗斯强迫战俘视频产业内部"
+      "title_zh": "泰勒·斯威夫特神秘的倒计时让粉丝在大揭秘之前激增"
     },
     {
-      "title": "Trump to address the United Nations General Assembly as Iran war rumbles on",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085",
+      "title": "Nolan Wells' death case flips as cleared friends put accusers on notice after ruling",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗战争愈演愈烈之际，特朗普将在联合国大会上发表讲话"
+      "title_zh": "诺兰·威尔斯的死亡案发生逆转，无罪的朋友在裁决后通知原告"
     },
     {
-      "title": "Oil prices tumble to 2-week low on hopes for critical pipeline reopening and Iran diplomacy",
-      "link": "https://www.nbcnews.com/business/business-news/oil-prices-fall-saudi-pipeline-iran-hormuz-trump-talks-rcna599166",
+      "title": "Inside Presley Gerber's famous family, from Cindy Crawford to sister Kaia Gerber",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于关键管道重新开放和伊朗外交的希望，油价跌至两周低点"
+      "title_zh": "走进普雷斯利·格伯的著名家庭，从辛迪·克劳馥到妹妹凯亚·格伯"
     },
     {
-      "title": "Rubio defends Trump’s ban on three media organizations",
-      "link": "https://www.nbcnews.com/politics/trump-administration/rubio-defends-trump-white-house-ban-cnn-politico-ms-now-rcna599169",
-      "summary": "",
+      "title": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
+      "link": "",
+      "summary": "Members of Iran's delegation walked out during the president's speech in New York.",
       "published": "",
-      "title_zh": "卢比奥为特朗普对三个媒体组织的禁令进行辩护"
+      "title_zh": "特朗普告诉联合国他对是否“消灭”伊朗或达成和平协议有“重大决定”",
+      "summary_zh": "总统在纽约发表讲话期间，伊朗代表团成员退场。"
     },
     {
-      "title": "How Josh Shapiro changed his tune on data centers",
-      "link": "https://www.nbcnews.com/politics/2026-election/josh-shapiro-changed-tune-data-centers-rcna597696",
-      "summary": "",
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "link": "",
+      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
       "published": "",
-      "title_zh": "乔什·夏皮罗 (Josh Shapiro) 如何改变对数据中心的看法"
+      "title_zh": "发展中的厄尔尼诺现象在预期峰值前几周达到创纪录的最强",
+      "summary_zh": "科学家表示，目前正在发展的厄尔尼诺现象是有记录以来最强烈的，世界各地已经感受到了天气影响。"
     },
     {
-      "title": "The Data Dive: Steve Kornacki on why Democrats are optimistic about flipping Ohio",
-      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-democrats-are-optimistic-flipping-ohio-rcna599121",
-      "summary": "",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "link": "",
+      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
       "published": "",
-      "title_zh": "数据潜水：史蒂夫·科尔纳基（Steve Kornacki）谈为什么民主党人对推翻俄亥俄州持乐观态度"
+      "title_zh": "根据与丹麦的新协议，美国将在格陵兰岛建立两个军事基地",
+      "summary_zh": "联合国大会上签署的防务协议还重申了丹麦对其半自治北极领土的主权。"
     },
     {
-      "title": "DoorDash driver shot by ICE and detained in Texas says he still has bullet in his back",
-      "link": "https://www.nbcnews.com/news/us-news/venezuelan-man-shot-ice-texas-says-s-pain-still-bullet-back-rcna598999",
-      "summary": "",
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "link": "",
+      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
       "published": "",
-      "title_zh": "DoorDash 司机被 ICE 枪杀并在德克萨斯州被拘留，他说他的背部仍然有子弹"
+      "title_zh": "尸检显示海顿·潘妮蒂尔死于吸毒过量",
+      "summary_zh": "这位童星的死亡被裁定为意外事故，她体内含有芬太尼、Xanax、一种肌肉松弛剂和抗精神病药物。"
     },
     {
-      "title": "No criminal charges in death of Nolan Wells, grand jury finds",
-      "link": "https://www.nbcnews.com/news/us-news/no-criminal-charges-death-nolan-wells-grand-jury-finds-rcna599152",
-      "summary": "",
+      "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
+      "link": "",
+      "summary": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
       "published": "",
-      "title_zh": "大陪审团裁定诺兰·威尔斯之死没有刑事指控"
+      "title_zh": "“Looksmaxxing”影响者锁骨在马萨诸塞州被控强奸",
+      "summary_zh": "当局称，布雷登·彼得斯在五月袭击一名妇女之前对她下药。他否认这些指控。"
     },
     {
-      "title": "Princess Diana’s brother reopens royal wounds as bombshell memoir goes on sale",
-      "link": "https://www.nbcnews.com/world/united-kingdom/princess-diana-brother-memoir-on-sale-king-charles-response-crash-rcna598977",
-      "summary": "",
+      "title": "Four holidays a year: Meet the pensioners spending the kids' inheritance",
+      "link": "",
+      "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
       "published": "",
-      "title_zh": "戴安娜王妃的弟弟随着爆炸性回忆录的发售，重新揭开了王室的创伤"
+      "title_zh": "一年四个假期：认识一下花掉孩子遗产的养老金领取者",
+      "summary_zh": "这种现象是退休人员把所有的钱都花在充分享受生活上。"
     },
     {
-      "title": "‘Looksmaxxing’ influencer Clavicular charged with rape in Massachusetts",
-      "link": "https://www.nbcnews.com/news/us-news/clavicular-looksmaxxing-charged-rape-massachusetts-rcna599130",
-      "summary": "",
+      "title": "I couldn't cook when I left home – but these easy recipes became my go-to",
+      "link": "",
+      "summary": "Former culinary-challenged students share four low cost meals they think everyone can master.",
       "published": "",
-      "title_zh": "“Looksmaxxing”影响者锁骨在马萨诸塞州被控强奸"
+      "title_zh": "当我离开家时，我不会做饭——但这些简单的食谱成了我的首选",
+      "summary_zh": "以前在烹饪方面遇到困难的学生分享了四顿他们认为每个人都能掌握的低成本餐点。"
+    },
+    {
+      "title": "Watch: Moment Trump rebrands Artificial Intelligence to Super Intelligence",
+      "link": "",
+      "summary": "President Donald Trump announced at the UN General Assembly that all US government documents will now refer to Artificial Intelligence as Super Intelligence.",
+      "published": "",
+      "title_zh": "观看：特朗普将人工智能重新命名为超级智能的那一刻",
+      "summary_zh": "唐纳德·特朗普总统在联合国大会上宣布，所有美国政府文件现在都将人工智能称为“超级智能”。"
+    },
+    {
+      "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
+      "link": "",
+      "summary": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
+      "published": "",
+      "title_zh": "肖恩·康纳利爵士的家人计划在爱丁堡新建电影制作中心",
+      "summary_zh": "它将以詹姆斯·邦德演员的名字命名，他在成为好莱坞明星之前曾在苏格兰首都担任送奶工。"
+    },
+    {
+      "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+      "link": "",
+      "summary": "Past Booker winners Marlon James and Douglas Stuart are among the nominees for this year's award.",
+      "published": "",
+      "title_zh": "布克奖评委在评选“斗争”后公布入围小说",
+      "summary_zh": "过去的布克奖获得者马龙·詹姆斯和道格拉斯·斯图尔特是今年该奖项的提名者之一。"
+    },
+    {
+      "title": "Doctor in court to face Rwanda genocide charges in UK",
+      "link": "",
+      "summary": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
+      "published": "",
+      "title_zh": "医生在英国出庭面临卢旺达种族灭绝指控",
+      "summary_zh": "英国对 1994 年的杀戮事件进行了为期七年的调查后，文森特·布朗博士被指控。"
+    },
+    {
+      "title": "Who will start for England at Euro 2028? BBC Sport's predictions",
+      "link": "",
+      "summary": "As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028.",
+      "published": "",
+      "title_zh": "谁将代表英格兰队参加 2028 年欧洲杯？BBC体育频道的预测",
+      "summary_zh": "随着英格兰队准备周六迎战世界冠军西班牙队，BBC 体育频道的专家预测谁将在 2028 年欧洲杯上为三狮军团首发。"
     }
   ]
 }
