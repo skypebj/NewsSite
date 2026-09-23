@@ -1,12 +1,8 @@
 {
   "date": "20260923",
-  "total": 24,
+  "total": 36,
   "sources": {
-    "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
-    "theguardian": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -14,7 +10,11 @@
       "status": "ok",
       "entries": 0
     },
-    "cnn": {
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
       "status": "ok",
       "entries": 0
     },
@@ -22,193 +22,281 @@
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "apnews": {
       "status": "ok",
       "entries": 0
     },
-    "apnews": {
+    "fox": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
+      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+      "link": "",
+      "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
+      "published": "",
+      "title_zh": "观看：特朗普和习近平将在美国土地上会面——有什么利害关系？",
+      "summary_zh": "BBC 驻华记者和美国编辑在华盛顿特区举行特习会之前，向您解释您需要了解的一切。"
+    },
+    {
+      "title": "US must take action on spiralling debt costs, IMF head tells BBC",
       "link": "",
       "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
       "published": "",
-      "title_zh": "国际货币基金组织总裁告诉 BBC，随着全球冲击推高借贷成本，富裕国家必须削减债务",
+      "title_zh": "国际货币基金组织负责人告诉BBC，美国必须对不断上升的债务成本采取行动",
       "summary_zh": "克里斯塔利娜·格奥尔基耶娃在接受英国广播公司采访时表示，经济冲击已将“债务水平推高，就像阶梯一样，而不是通往天堂”。"
     },
     {
-      "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
       "link": "",
-      "summary": "The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at \"China speed\", says one worker.",
+      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
       "published": "",
-      "title_zh": "特朗普和习近平谈话时，中国正在大力推进其人工智能雄心",
-      "summary_zh": "一名工作人员表示，BBC 访问了内蒙古，北京的人工智能基础设施正在以“中国速度”发展。"
+      "title_zh": "特朗普发出“歼灭”威胁后，美国和伊朗举行自六月以来的首次会谈",
+      "summary_zh": "这是自六月份停火协议破裂以来的首次会谈，双方时断时续地交火。"
     },
     {
-      "title": "'Extremely dangerous' Hurricane Polo intensifies to rare category 5 storm",
+      "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
       "link": "",
-      "summary": "The storm's sudden intensification off the coast of Mexico is \"truly remarkable\", the US hurricane monitoring agency said.",
+      "summary": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
       "published": "",
-      "title_zh": "“极其危险”飓风波罗加剧为罕见的 5 级风暴",
-      "summary_zh": "美国飓风监测机构表示，墨西哥沿岸风暴的突然加剧“确实令人震惊”。"
+      "title_zh": "斯特里廷告诉 BBC，英国将因缺乏美国支持而审查查戈斯群岛协议",
+      "summary_zh": "在唐纳德·特朗普告诉安迪·伯纳姆这笔交易“糟糕”后，国防部长韦斯·斯特里廷证实了这一审查。"
     },
     {
-      "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+      "title": "'My eyelids became infected - I was scared to sleep'",
       "link": "",
-      "summary": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+      "summary": "Three women describe what happened when they travelled abroad for cheap \"bleph\" eyelid surgery.",
       "published": "",
-      "title_zh": "特朗普将人工智能重新命名为“超级智能”会流行吗？",
-      "summary_zh": "一些与总统关系密切的人已经开始使用这个词，但专家表示这个词不太可能流行起来。"
+      "title_zh": "“我的眼睑被感染了——我不敢睡觉”",
+      "summary_zh": "三名女性描述了她们出国做廉价“双眼皮”手术时发生的事情。"
     },
     {
-      "title": "Child ketamine users in UK getting bladder damage describe 'peeing a jellyfish'",
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
       "link": "",
-      "summary": "Doctors running the UK's first and only dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
+      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
       "published": "",
-      "title_zh": "英国儿童氯胺酮使用者膀胱受损，描述“在水母上撒尿”",
-      "summary_zh": "英国第一家也是唯一一家专门为氯胺酮膀胱儿童提供服务的 NHS 诊所的医生们表示，他们接诊的患者年仅 13 岁。"
+      "title_zh": "飓风波罗降级，但在墨西哥海岸仍然“非常强大”",
+      "summary_zh": "太平洋上的大风暴是由厄尔尼诺天气现象引起的温暖海水驱动的。"
     },
     {
-      "title": "India is producing more green energy - but wasting a lot of it",
+      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
       "link": "",
-      "summary": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
+      "summary": "As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around.",
       "published": "",
-      "title_zh": "印度正在生产更多的绿色能源，但也浪费了很多能源",
-      "summary_zh": "印度已迅速实现发电脱碳，但其成果因输电短缺而受到抑制。"
+      "title_zh": "德国的救世主？克洛普如何扭转命运",
+      "summary_zh": "当尤尔根·克洛普 (Jurgen Klopp) 为他作为德国队主教练的第一场比赛做准备时，英国广播公司体育频道 (BBC Sport) 关注了他们如何努力扭转命运。"
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
       "link": "",
-      "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
       "published": "",
-      "title_zh": "欧洲汽车制造商正陷入危机。战争的威胁会拯救他们吗？",
-      "summary_zh": "欧洲各地的汽车业高管希望重整军备能够帮助他们再次展示其工业实力。"
+      "title_zh": "罕见地看到远程机房推动了中国人工智能的繁荣",
+      "summary_zh": "BBC在内蒙古正在建设数十个中国数据中心，中国的目标是在人工智能领域引领世界。"
     },
     {
-      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+      "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
       "link": "",
-      "summary": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+      "summary": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
       "published": "",
-      "title_zh": "“我没有浮力辅助装置”：没有爸爸妈妈银行的生活",
-      "summary_zh": "三个 20 多岁的年轻人告诉 BBC 新闻，他们如何在没有父母支持的情况下度过生活。"
+      "title_zh": "克里斯·梅森：从房间内部看，伯纳姆如何在第一次特朗普会议中幸存下来",
+      "summary_zh": "BBC 政治编辑克里斯·梅森 (Chris Mason) 写道，伯纳姆一开始似乎很紧张，因为他知道与特朗普的这些接触可能会产生多大的爆炸性影响。"
     },
     {
-      "title": "I was close to joining Liverpool in 2016 - Mbappe",
+      "title": "Eleven killed in mass shooting at house in South Africa",
       "link": "",
-      "summary": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
+      "summary": "One of those killed is believed to be a pregnant woman, police said.",
       "published": "",
-      "title_zh": "姆巴佩：2016 年我就差点加盟利物浦",
-      "summary_zh": "基利安·姆巴佩表示，他的妈妈是尤尔根·克洛普的“超级粉丝”，希望她的儿子搬到默西塞德郡。"
+      "title_zh": "南非一住宅发生大规模枪击事件 11人死亡",
+      "summary_zh": "警方称，其中一名死者据信是一名孕妇。"
     },
     {
-      "title": "Pollock left money on table to stay at Saints - Hearn",
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
       "link": "",
-      "summary": "Henry Pollock turned down rival offers worth much more than his Northampton extension, which will earn him over £400,000 a year, says adviser Eddie Hearn.",
+      "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
       "published": "",
-      "title_zh": "波洛克留下了留在圣徒-赫恩的钱",
-      "summary_zh": "顾问埃迪·赫恩表示，亨利·波洛克拒绝了竞争对手的报价，其价值远高于他在北安普顿的续约，这将使他每年赚取超过 40 万英镑。"
+      "title_zh": "南苏丹总统在该国首次选举前解散政府",
+      "summary_zh": "南苏丹自 2011 年独立以来一直没有举行过选举 - 民意调查已两次被推迟。"
     },
     {
-      "title": "Shocking brawl over lounge chairs at famous beach leaves a man dead, others facing charges",
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "link": "",
+      "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
+      "published": "",
+      "title_zh": "自马杜罗被捕以来，特朗普首次会见美国支持的委内瑞拉总统",
+      "summary_zh": "罗德里格斯被特朗普精心挑选，委内瑞拉领导人被捕并被带到美国"
+    },
+    {
+      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+      "link": "",
+      "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
+      "published": "",
+      "title_zh": "为《邻居们》中凯莉婚礼配乐的摇滚明星愤怒的安德森去世，享年 79 岁",
+      "summary_zh": "他是摇滚乐队 Rose Tattoo 的主唱，但因他的独唱热门单曲《突然》而闻名。"
+    },
+    {
+      "title": "Pocognoli has 'positive nervousness' for Scotland debut",
+      "link": "",
+      "summary": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
+      "published": "",
+      "title_zh": "波科尼奥利对苏格兰首秀感到“积极紧张”",
+      "summary_zh": "苏格兰主教练塞巴斯蒂安·波科尼奥利承认，在他执掌国家队的第一场比赛——周六在卢布尔雅那对阵斯洛文尼亚的国联比赛——之前感到“积极的紧张”。"
+    },
+    {
+      "title": "Iranian president to address U.N. after Trump’s threats",
+      "link": "https://www.nbcnews.com/news/trump-welcome-chinese-president-xi-jinping-rcna599368",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普威胁后伊朗总统将在联合国发表讲话"
+    },
+    {
+      "title": "CNN, Politico and MS NOW to face off with Trump administration in court over White House ban",
+      "link": "https://www.nbcnews.com/politics/trump-administration/cnn-politico-ms-now-trump-court-white-house-media-ban-rcna599269",
+      "summary": "",
+      "published": "",
+      "title_zh": "CNN、Politico 和 MS NOW 将就白宫禁令在法庭上与特朗普政府对峙"
+    },
+    {
+      "title": "New campaign aims to help millions at risk of losing Medicaid coverage",
+      "link": "https://www.nbcnews.com/politics/politics-news/new-campaign-help-millions-risk-losing-medicaid-work-requirements-rcna598149",
+      "summary": "",
+      "published": "",
+      "title_zh": "新活动旨在帮助数百万人面临失去医疗补助覆盖的风险"
+    },
+    {
+      "title": "Dolly Parton’s estate accuses her nephew of threatening to destroy his aunt’s legacy",
+      "link": "https://www.nbcnews.com/news/us-news/dolly-partons-estate-accuses-nephew-threatening-destroy-aunts-legacy-rcna599184",
+      "summary": "",
+      "published": "",
+      "title_zh": "多莉帕顿的遗产指控她的侄子威胁要毁掉他姨妈的遗产"
+    },
+    {
+      "title": "Supreme Court declines to intervene in custody case involving newborn with heart condition",
+      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-declines-intervene-custody-case-involving-newborn-heart-rcna597043",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院拒绝干预涉及心脏病新生儿的监护案"
+    },
+    {
+      "title": "Netflix turns Willy Wonka’s chocolate factory into a real-life ‘social experiment’",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-willy-wonka-golden-ticket-reality-show-ai-gene-wilder-rcna598920",
+      "summary": "",
+      "published": "",
+      "title_zh": "Netflix 将威利·旺卡的巧克力工厂变成现实生活中的“社会实验”"
+    },
+    {
+      "title": "Dem mayor’s grocery safety push draws fire over what happens after thieves are caught",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "著名海滩上发生令人震惊的躺椅争吵，导致一名男子死亡，其他人面临指控"
+      "title_zh": "民主党市长的杂货安全举措因小偷被抓后发生的事情而引起关注"
     },
     {
-      "title": "Iran’s president touches down on US soil as war rages, protesters swarm UN",
+      "title": "Woman reveals traumatic brush with death that pushed her to switch from Dem to GOP",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "战争激烈，抗议者涌入联合国，伊朗总统登陆美国领土"
+      "title_zh": "一名妇女透露与死亡擦肩而过的痛苦经历促使她从民主党转向共和党"
     },
     {
-      "title": "'Reacher' star Alan Ritchson said he was told to 'shut the f--- up' about politics",
+      "title": "Man goes to doctor to prove he’s ‘in perfect shape,’ test uncovers unexpected diagnosis",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《雷彻》主演艾伦·里奇森表示，他被告知要“闭嘴”谈论政治"
+      "title_zh": "男子去看医生以证明自己“状态完美”，测试结果出人意料"
     },
     {
-      "title": "ESPN mourns college basketball analyst Chris Spatola, dead at just 47",
+      "title": "Trump signals breakthrough with Ukraine as Zelenskyy brings demands to UN",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "ESPN 悼念大学篮球分析师 Chris Spatola，享年 47 岁"
+      "title_zh": "泽伦斯基向联合国提出要求，特朗普暗示与乌克兰取得突破"
     },
     {
-      "title": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
+      "title": "Israeli airstrike takes out terror leader as Netanyahu vows to 'not stop until there is no Hamas'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "久经沙场的泽伦斯基对普京的战争下一步可能走向发出令人不寒而栗的警报"
+      "title_zh": "以色列空袭炸死恐怖分子头目，内塔尼亚胡誓言“不停止哈马斯”"
     },
     {
-      "title": "Kamala Harris makes bold DEI claim while campaigning alongside El-Sayed",
+      "title": "Haunting WWII discovery pulled from river after being hidden for more than 80 years",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡玛拉·哈里斯 (Kamala Harris) 在与埃尔·赛义德 (El-Sayed) 一起竞选时大胆提出 DEI 主张"
+      "title_zh": "隐藏 80 多年后从河中捞出的令人难以忘怀的二战发现"
     },
     {
-      "title": "Pro-China groups flood US cities with chaos timed perfectly to Xi's arrival",
+      "title": "Welder congressman warns of 'nuclear bomb' for blue collar Americans",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "亲中团体在美国城市中造成混乱，恰逢习近平到来"
+      "title_zh": "焊工国会议员警告蓝领美国人面临“核弹”"
     },
     {
-      "title": "China launching 'industrial-scale' campaigns to bypass US hardware edge in AI arms race",
+      "title": "Coach K's son-in-law and former Duke assistant coach Chris Spatola dies at 47",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中国发起“工业规模”运动，以绕过美国在人工智能军备竞赛中的硬件优势"
+      "title_zh": "K教练的女婿、前杜克大学助理教练克里斯·斯帕托拉去世，享年47岁"
     },
     {
-      "title": "Murder charge wiped away for mother who claims she put baby in oven by mistake",
+      "title": "Presley Gerber's final hours in question as police investigate model's death",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "母亲声称自己错误地将婴儿放入烤箱，谋杀罪名被撤销"
+      "title_zh": "警方调查模特死亡事件后，普雷斯利·格伯的最后几个小时受到质疑"
     },
     {
-      "title": "Big bounce-back crushes league-best squad and keeps home-court playoff push hot",
+      "title": "WATCH LIVE:‘American Idol’ contestant Caleb Flynn stands trial for wife’s murder",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "巨大的反弹击败了联盟最好的球队并保持了主场季后赛的火热势头"
+      "title_zh": "观看直播：《美国偶像》参赛者凯莱布·弗林因谋杀妻子而受审"
     },
     {
-      "title": "Tyrus and Adam Carolla solve absolutely nothing — and it’s hilarious",
+      "title": "Beloved cheese brand wipes animal's iconic smile from packaging",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒斯和亚当·卡罗拉完全没有解决任何问题——这很搞笑"
+      "title_zh": "深受喜爱的奶酪品牌从包装上抹去了动物标志性的微笑"
     },
     {
-      "title": "Dr Drew Pinsky sounds alarm over Presley Gerber treatment decision before his death",
+      "title": "Insiders warn popular GOP midterm message could unravel after Trump Mamdani meeting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "德鲁·平斯基 (Drew Pinsky) 博士对普雷斯利·格伯 (Presley Gerber) 去世前的治疗决定发出警报"
+      "title_zh": "内部人士警告称，在特朗普·马姆达尼会面后，流行的共和党中期信息可能会瓦解"
     },
     {
-      "title": "Texas man faces capital murder charge in fatal shooting of 5-year-old girl",
+      "title": "GREG GUTFELD:All she wanted was an A+ in social justice",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "德克萨斯州男子枪杀 5 岁女孩，面临谋杀罪指控"
+      "title_zh": "格雷格·古菲尔德：她想要的只是社会正义方面的 A+"
     },
     {
-      "title": "TUNE IN:First lady Melania Trump joins 'Fox & Friends' today at 7am ET",
+      "title": "Op-ed challenges claims of rising anti-trans violence, points to declining death counts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "收看：美国东部时间今天上午 7 点，第一夫人梅拉尼娅·特朗普 (Melania Trump) 加入“福克斯与朋友”节目"
+      "title_zh": "专栏挑战反跨性别暴力不断上升的说法，指出死亡人数下降"
+    },
+    {
+      "title": "What the golf cart industry can teach us about China’s threat to American jobs",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "高尔夫球车行业可以告诉我们中国对美国就业机会的威胁"
+    },
+    {
+      "title": "First impacts begin today as monster nor’easter eyes millions with worst to come",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "第一次影响从今天开始，数百万人面临着最糟糕的情况"
     }
   ]
 }
