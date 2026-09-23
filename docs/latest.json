@@ -1,6 +1,6 @@
 {
   "date": "20260923",
-  "total": 36,
+  "total": 41,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -33,270 +33,306 @@
   },
   "entries": [
     {
-      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-      "link": "",
-      "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-      "published": "",
-      "title_zh": "观看：特朗普和习近平将在美国土地上会面——有什么利害关系？",
-      "summary_zh": "BBC 驻华记者和美国编辑在华盛顿特区举行特习会之前，向您解释您需要了解的一切。"
-    },
-    {
-      "title": "US must take action on spiralling debt costs, IMF head tells BBC",
-      "link": "",
-      "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
-      "published": "",
-      "title_zh": "国际货币基金组织负责人告诉BBC，美国必须对不断上升的债务成本采取行动",
-      "summary_zh": "克里斯塔利娜·格奥尔基耶娃在接受英国广播公司采访时表示，经济冲击已将“债务水平推高，就像阶梯一样，而不是通往天堂”。"
-    },
-    {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "link": "",
-      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-      "published": "",
-      "title_zh": "特朗普发出“歼灭”威胁后，美国和伊朗举行自六月以来的首次会谈",
-      "summary_zh": "这是自六月份停火协议破裂以来的首次会谈，双方时断时续地交火。"
-    },
-    {
-      "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
-      "link": "",
-      "summary": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
-      "published": "",
-      "title_zh": "斯特里廷告诉 BBC，英国将因缺乏美国支持而审查查戈斯群岛协议",
-      "summary_zh": "在唐纳德·特朗普告诉安迪·伯纳姆这笔交易“糟糕”后，国防部长韦斯·斯特里廷证实了这一审查。"
-    },
-    {
-      "title": "'My eyelids became infected - I was scared to sleep'",
-      "link": "",
-      "summary": "Three women describe what happened when they travelled abroad for cheap \"bleph\" eyelid surgery.",
-      "published": "",
-      "title_zh": "“我的眼睑被感染了——我不敢睡觉”",
-      "summary_zh": "三名女性描述了她们出国做廉价“双眼皮”手术时发生的事情。"
-    },
-    {
-      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-      "link": "",
-      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-      "published": "",
-      "title_zh": "飓风波罗降级，但在墨西哥海岸仍然“非常强大”",
-      "summary_zh": "太平洋上的大风暴是由厄尔尼诺天气现象引起的温暖海水驱动的。"
-    },
-    {
-      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
-      "link": "",
-      "summary": "As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around.",
-      "published": "",
-      "title_zh": "德国的救世主？克洛普如何扭转命运",
-      "summary_zh": "当尤尔根·克洛普 (Jurgen Klopp) 为他作为德国队主教练的第一场比赛做准备时，英国广播公司体育频道 (BBC Sport) 关注了他们如何努力扭转命运。"
-    },
-    {
-      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
-      "link": "",
-      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
-      "published": "",
-      "title_zh": "罕见地看到远程机房推动了中国人工智能的繁荣",
-      "summary_zh": "BBC在内蒙古正在建设数十个中国数据中心，中国的目标是在人工智能领域引领世界。"
-    },
-    {
-      "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
-      "link": "",
-      "summary": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
-      "published": "",
-      "title_zh": "克里斯·梅森：从房间内部看，伯纳姆如何在第一次特朗普会议中幸存下来",
-      "summary_zh": "BBC 政治编辑克里斯·梅森 (Chris Mason) 写道，伯纳姆一开始似乎很紧张，因为他知道与特朗普的这些接触可能会产生多大的爆炸性影响。"
-    },
-    {
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "link": "",
-      "summary": "One of those killed is believed to be a pregnant woman, police said.",
-      "published": "",
-      "title_zh": "南非一住宅发生大规模枪击事件 11人死亡",
-      "summary_zh": "警方称，其中一名死者据信是一名孕妇。"
-    },
-    {
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "link": "",
-      "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-      "published": "",
-      "title_zh": "南苏丹总统在该国首次选举前解散政府",
-      "summary_zh": "南苏丹自 2011 年独立以来一直没有举行过选举 - 民意调查已两次被推迟。"
-    },
-    {
-      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "link": "",
-      "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-      "published": "",
-      "title_zh": "自马杜罗被捕以来，特朗普首次会见美国支持的委内瑞拉总统",
-      "summary_zh": "罗德里格斯被特朗普精心挑选，委内瑞拉领导人被捕并被带到美国"
-    },
-    {
-      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
-      "link": "",
-      "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
-      "published": "",
-      "title_zh": "为《邻居们》中凯莉婚礼配乐的摇滚明星愤怒的安德森去世，享年 79 岁",
-      "summary_zh": "他是摇滚乐队 Rose Tattoo 的主唱，但因他的独唱热门单曲《突然》而闻名。"
-    },
-    {
-      "title": "Pocognoli has 'positive nervousness' for Scotland debut",
-      "link": "",
-      "summary": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
-      "published": "",
-      "title_zh": "波科尼奥利对苏格兰首秀感到“积极紧张”",
-      "summary_zh": "苏格兰主教练塞巴斯蒂安·波科尼奥利承认，在他执掌国家队的第一场比赛——周六在卢布尔雅那对阵斯洛文尼亚的国联比赛——之前感到“积极的紧张”。"
-    },
-    {
-      "title": "Iranian president to address U.N. after Trump’s threats",
-      "link": "https://www.nbcnews.com/news/trump-welcome-chinese-president-xi-jinping-rcna599368",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普威胁后伊朗总统将在联合国发表讲话"
-    },
-    {
-      "title": "CNN, Politico and MS NOW to face off with Trump administration in court over White House ban",
-      "link": "https://www.nbcnews.com/politics/trump-administration/cnn-politico-ms-now-trump-court-white-house-media-ban-rcna599269",
-      "summary": "",
-      "published": "",
-      "title_zh": "CNN、Politico 和 MS NOW 将就白宫禁令在法庭上与特朗普政府对峙"
-    },
-    {
-      "title": "New campaign aims to help millions at risk of losing Medicaid coverage",
-      "link": "https://www.nbcnews.com/politics/politics-news/new-campaign-help-millions-risk-losing-medicaid-work-requirements-rcna598149",
-      "summary": "",
-      "published": "",
-      "title_zh": "新活动旨在帮助数百万人面临失去医疗补助覆盖的风险"
-    },
-    {
-      "title": "Dolly Parton’s estate accuses her nephew of threatening to destroy his aunt’s legacy",
-      "link": "https://www.nbcnews.com/news/us-news/dolly-partons-estate-accuses-nephew-threatening-destroy-aunts-legacy-rcna599184",
-      "summary": "",
-      "published": "",
-      "title_zh": "多莉帕顿的遗产指控她的侄子威胁要毁掉他姨妈的遗产"
-    },
-    {
-      "title": "Supreme Court declines to intervene in custody case involving newborn with heart condition",
-      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-declines-intervene-custody-case-involving-newborn-heart-rcna597043",
-      "summary": "",
-      "published": "",
-      "title_zh": "最高法院拒绝干预涉及心脏病新生儿的监护案"
-    },
-    {
-      "title": "Netflix turns Willy Wonka’s chocolate factory into a real-life ‘social experiment’",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-willy-wonka-golden-ticket-reality-show-ai-gene-wilder-rcna598920",
-      "summary": "",
-      "published": "",
-      "title_zh": "Netflix 将威利·旺卡的巧克力工厂变成现实生活中的“社会实验”"
-    },
-    {
-      "title": "Dem mayor’s grocery safety push draws fire over what happens after thieves are caught",
+      "title": "Susan Collins unleashes on bribery allegations and brands report a ‘smear job’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党市长的杂货安全举措因小偷被抓后发生的事情而引起关注"
+      "title_zh": "苏珊·柯林斯 (Susan Collins) 揭露贿赂指控，品牌报告“诽谤”"
     },
     {
-      "title": "Woman reveals traumatic brush with death that pushed her to switch from Dem to GOP",
+      "title": "Iranian president addresses nuclear concerns at UN General Assembly",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一名妇女透露与死亡擦肩而过的痛苦经历促使她从民主党转向共和党"
+      "title_zh": "伊朗总统在联合国大会上阐述核问题"
     },
     {
-      "title": "Man goes to doctor to prove he’s ‘in perfect shape,’ test uncovers unexpected diagnosis",
+      "title": "Stanford forced to explain controversial alteration after side-by-side images emerge",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "男子去看医生以证明自己“状态完美”，测试结果出人意料"
+      "title_zh": "斯坦福大学被迫解释并排图像出现后有争议的改变"
     },
     {
-      "title": "Trump signals breakthrough with Ukraine as Zelenskyy brings demands to UN",
+      "title": "Macron’s Hamas comments at UN draw blistering response as France clarifies wording",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泽伦斯基向联合国提出要求，特朗普暗示与乌克兰取得突破"
+      "title_zh": "法国澄清措辞后，马克龙在联合国的哈马斯言论引起强烈反应"
     },
     {
-      "title": "Israeli airstrike takes out terror leader as Netanyahu vows to 'not stop until there is no Hamas'",
+      "title": "New York poll flashes warning sign for Hochul with 6 weeks to Election Day",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "以色列空袭炸死恐怖分子头目，内塔尼亚胡誓言“不停止哈马斯”"
+      "title_zh": "距选举日还有 6 周时间，纽约民意调查对 Hochul 发出警告信号"
     },
     {
-      "title": "Haunting WWII discovery pulled from river after being hidden for more than 80 years",
+      "title": "Grisly discovery in wealthy enclave sends cops on 3-state hunt ending in arrest",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "隐藏 80 多年后从河中捞出的令人难以忘怀的二战发现"
+      "title_zh": "富裕飞地的可怕发现促使警察进行三个州的追捕以逮捕告终"
     },
     {
-      "title": "Welder congressman warns of 'nuclear bomb' for blue collar Americans",
+      "title": "Trans protest turns to chaos as activists inject themselves with cross-sex drugs",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "焊工国会议员警告蓝领美国人面临“核弹”"
+      "title_zh": "活动人士给自己注射跨性别药物，跨性别抗议演变成混乱"
     },
     {
-      "title": "Coach K's son-in-law and former Duke assistant coach Chris Spatola dies at 47",
+      "title": "'The View' star reveals she was holdout juror, saved gruesome killer from guilty verdict",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "K教练的女婿、前杜克大学助理教练克里斯·斯帕托拉去世，享年47岁"
+      "title_zh": "《观点》明星透露她是坚持不懈的陪审员，使可怕的杀手免遭有罪判决"
     },
     {
-      "title": "Presley Gerber's final hours in question as police investigate model's death",
+      "title": "Melania warns world's biggest untapped economic force is being ignored",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警方调查模特死亡事件后，普雷斯利·格伯的最后几个小时受到质疑"
+      "title_zh": "梅拉尼娅警告说，世界上最大的未开发经济力量正在被忽视"
     },
     {
-      "title": "WATCH LIVE:‘American Idol’ contestant Caleb Flynn stands trial for wife’s murder",
+      "title": "Anti-Israel Philadelphia teacher admits she lied about being Palestinian and Black",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：《美国偶像》参赛者凯莱布·弗林因谋杀妻子而受审"
+      "title_zh": "费城反以色列老师承认她谎称自己是巴勒斯坦人和黑人"
     },
     {
-      "title": "Beloved cheese brand wipes animal's iconic smile from packaging",
+      "title": "Judge Judy defends America with blunt 3-word message for nation’s critics",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "深受喜爱的奶酪品牌从包装上抹去了动物标志性的微笑"
+      "title_zh": "朱迪法官用直白的三个字向国家批评者传达的信息为美国辩护"
     },
     {
-      "title": "Insiders warn popular GOP midterm message could unravel after Trump Mamdani meeting",
+      "title": "Travis Kelce weighs in on Taylor Swift's viral 'that's my husband' moment",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "内部人士警告称，在特朗普·马姆达尼会面后，流行的共和党中期信息可能会瓦解"
+      "title_zh": "特拉维斯·凯尔斯 (Travis Kelce) 评论泰勒·斯威夫特 (Taylor Swift) 的热门“那是我丈夫”时刻"
     },
     {
-      "title": "GREG GUTFELD:All she wanted was an A+ in social justice",
+      "title": "Governor addresses student deaths at Ole Miss amid investigation: 'Serious problem'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "格雷格·古菲尔德：她想要的只是社会正义方面的 A+"
+      "title_zh": "州长谈奥莱密西西比大学学生死亡事件调查：“问题严重”"
     },
     {
-      "title": "Op-ed challenges claims of rising anti-trans violence, points to declining death counts",
+      "title": "Prostate cancer survivor with ‘no symptoms’ urges men to get screened early",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专栏挑战反跨性别暴力不断上升的说法，指出死亡人数下降"
+      "title_zh": "“没有症状”的前列腺癌幸存者敦促男性尽早接受筛查"
     },
     {
-      "title": "What the golf cart industry can teach us about China’s threat to American jobs",
+      "title": "LIVE:Mistress takes stand in ‘American Idol’ contestant’s murder trial in wife’s slaying",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "高尔夫球车行业可以告诉我们中国对美国就业机会的威胁"
+      "title_zh": "直播：情妇在“美国偶像”选手谋杀妻子的谋杀案审判中出庭"
     },
     {
-      "title": "First impacts begin today as monster nor’easter eyes millions with worst to come",
+      "title": "Minnesota race puts Trump question front and center as Tafoya closes in on Flanagan",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "第一次影响从今天开始，数百万人面临着最糟糕的情况"
+      "title_zh": "随着塔福亚逼近弗拉纳根，明尼苏达州的竞选将特朗普问题置于首要位置和中心"
+    },
+    {
+      "title": "Harris sparks online frenzy after critics notice something different during speech",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "哈里斯在批评者注意到演讲中有不同之处后在网上引发了狂热"
+    },
+    {
+      "title": "Election officials refuse to comply as Missouri ballot fight reaches boiling point",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "密苏里州选票斗争达到白热化阶段，选举官员拒绝遵守"
+    },
+    {
+      "title": "WATCH LIVE:House Minority Leader Hakeem Jeffries holds news conference",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看直播：众议院少数党领袖哈基姆·杰弗里斯举行新闻发布会"
+    },
+    {
+      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "link": "",
+      "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
+      "published": "",
+      "title_zh": "白宫为习近平历史性访问铺上红地毯",
+      "summary_zh": "预计特朗普和习近平将在习近平对华盛顿的多日访问期间讨论从贸易到人工智能等一系列问题。"
+    },
+    {
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "link": "",
+      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
+      "published": "",
+      "title_zh": "哈维·韦恩斯坦因性侵犯被判处 15 年监禁",
+      "summary_zh": "袭击幸存者米里亚姆·哈利表示，“这对我的生活和安全感造成的毁灭性影响可能永远不会消失”。"
+    },
+    {
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "link": "",
+      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "published": "",
+      "title_zh": "多莉帕顿的经理指责她的侄子“威胁和恐吓”",
+      "summary_zh": "向全世界宣布帕顿去世的布莱恩·西弗被指控试图勒索她的遗产。"
+    },
+    {
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "",
+      "summary": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+      "published": "",
+      "title_zh": "特朗普披露了大型科技和人工智能领域价值数百万美元的股票交易",
+      "summary_zh": "微软、英伟达和 SpaceX 等大公司的股票都是代表美国总统买卖的。"
+    },
+    {
+      "title": "Uproar in France over award-winning author accused of using AI",
+      "link": "",
+      "summary": "Canadian-Haitian writer Thélyson Orélien has just been awarded the Prix du Roman Fnac for his first novel.",
+      "published": "",
+      "title_zh": "法国获奖作家被指控使用人工智能引发轩然大波",
+      "summary_zh": "加拿大裔海地作家泰利森·奥雷利安 (Thélyson Orélien) 刚刚因其第一部小说荣获罗马弗纳克大奖 (Prix du Roman Fnac)。"
+    },
+    {
+      "title": "Watch: Pilots eject as RAF jet crashes in Wales",
+      "link": "",
+      "summary": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+      "published": "",
+      "title_zh": "观看：英国皇家空军喷气式飞机在威尔士坠毁时飞行员弹射逃生",
+      "summary_zh": "两名飞行员在坠机前从飞机上弹射并受轻伤。"
+    },
+    {
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "link": "",
+      "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "published": "",
+      "title_zh": "87岁妇女被大规模驱逐凸显西班牙住房短缺",
+      "summary_zh": "马德里公寓的租户马里卡门 (Maricarmen) 无法支付最近购买该公寓的公司规定的租金。"
+    },
+    {
+      "title": "Watch: Why is the UK reviewing its Chagos Islands deal?",
+      "link": "",
+      "summary": "The UK is reviewing its deal to hand over the Chagos Islands to Mauritius, the defence secretary has said.",
+      "published": "",
+      "title_zh": "观察：英国为何要审查其查戈斯群岛协议？",
+      "summary_zh": "英国国防部长表示，英国正在审查将查戈斯群岛移交给毛里求斯的协议。"
+    },
+    {
+      "title": "Is UK PM right to blame Russia for spreading online disinformation?",
+      "link": "",
+      "summary": "BBC Verify examines Russian-linked operations spreading false information about the UK, Ukraine and other nations.",
+      "published": "",
+      "title_zh": "英国首相指责俄罗斯在网上传播虚假信息是否正确？",
+      "summary_zh": "BBC verify 调查了与俄罗斯有关的传播有关英国、乌克兰和其他国家虚假信息的活动。"
+    },
+    {
+      "title": "Living without the Bank of Mum and Dad",
+      "link": "",
+      "summary": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+      "published": "",
+      "title_zh": "没有爸爸妈妈的银行生活",
+      "summary_zh": "三个 20 多岁的年轻人告诉 BBC 新闻，他们如何在没有父母支持的情况下度过生活。"
+    },
+    {
+      "title": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
+      "link": "",
+      "summary": "Israel's PM denounces the French president after he appeared to downplay Hamas's activities in the occupied territory.",
+      "published": "",
+      "title_zh": "内塔尼亚胡称马克龙在联合国演讲中关于约旦河西岸的言论“怪诞”",
+      "summary_zh": "法国总统似乎淡化了哈马斯在被占领土上的活动，以色列总理对此予以谴责。"
+    },
+    {
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "link": "",
+      "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
+      "published": "",
+      "title_zh": "欧盟解除对俄罗斯亿万富翁的制裁后，阿塞拜疆赦免了法国人",
+      "summary_zh": "马丁·瑞安 (Martin Ryan) 因间谍罪入狱数月后获得赦免，但另一名法国人仍在狱中。"
+    },
+    {
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "link": "",
+      "summary": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "published": "",
+      "title_zh": "波兰指责俄罗斯军用直升机侵犯其领空",
+      "summary_zh": "波兰表示，这架飞机在空中停留了 42 秒，迫使这个北约成员国紧急紧急起飞战斗机。"
+    },
+    {
+      "title": "MLS coach sacked after sexist remark to female referee",
+      "link": "",
+      "summary": "MLS club Columbus Crew sack their reserve team coach after he refused to let go of a female referee's hand and says \"don't forget this is a man's game\".",
+      "published": "",
+      "title_zh": "美国职业足球大联盟教练因对女裁判发表性别歧视言论而被解雇",
+      "summary_zh": "美国职业大联盟俱乐部哥伦布机员解雇了预备队教练，因为他拒绝放开女裁判的手，并说“不要忘记这是男人的比赛”。"
+    },
+    {
+      "title": "The moment Antonelli knew he had been transformed as an F1 driver",
+      "link": "",
+      "summary": "Championship leader Kimi Antonelli tells BBC Sport how he is \"still finding my way\" in F1 after a 2024 crash \"stayed in my head for a very long time\".",
+      "published": "",
+      "title_zh": "当安东内利知道自己已经转变为一名 F1 车手的那一刻",
+      "summary_zh": "冠军领头羊基米·安东内利 (Kimi Antonelli) 告诉 BBC 体育频道，在 2024 年的一场车祸“在我脑海中萦绕了很长一段时间”后，他如何在 F1 中“仍在寻找自己的道路”。"
+    },
+    {
+      "title": "Iran’s president strikes a defiant tone at U.N. after Trump threats",
+      "link": "https://www.nbcnews.com/world/iran/irans-president-strikes-defiant-tone-un-trump-threats-rcna599372",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普威胁后，伊朗总统对联合国发出挑衅的语气"
+    },
+    {
+      "title": "Inside Trump’s Greenland deal: No invasion, a few compromises and the status quo",
+      "link": "https://www.nbcnews.com/world/greenland/trump-greenland-deal-us-denmark-agreement-arctic-territory-rcna599358",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普格陵兰岛协议的内部：没有入侵，一些妥协和现状"
+    },
+    {
+      "title": "The U.S. economy before and after the Iran war, in five charts",
+      "link": "https://www.nbcnews.com/business/economy/us-economy-iran-war-five-charts-rcna598412",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗战争前后的美国经济五张图表"
+    },
+    {
+      "title": "Trump welcomes Xi for a White House summit set to be high on pageantry, low on substance",
+      "link": "https://www.nbcnews.com/world/asia/trump-xi-summit-meet-white-house-tensions-taiwan-trade-ai-rcna598073",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普欢迎习近平参加白宫峰会 场面盛大，实质内容较少"
+    },
+    {
+      "title": "FBI investigating hacking group’s claim of massive breach of agent info",
+      "link": "https://www.nbcnews.com/tech/security/fbi-investigating-hacking-groups-claim-massive-breach-agent-info-rcna599370",
+      "summary": "",
+      "published": "",
+      "title_zh": "FBI 调查黑客组织声称大规模泄露特工信息"
+    },
+    {
+      "title": "Harvey Weinstein sentenced to 15 years on New York sex crime conviction",
+      "link": "https://www.nbcnews.com/news/us-news/harvey-weinstein-sentenced-15-years-new-york-sex-crime-conviction-rcna599213",
+      "summary": "",
+      "published": "",
+      "title_zh": "哈维·韦恩斯坦 (Harvey Weinstein) 因纽约性犯罪罪被判处 15 年徒刑"
+    },
+    {
+      "title": "Giants quarterback Jaxson Dart to undergo season-ending knee surgery, reports say",
+      "link": "https://www.nbcnews.com/sports/nfl/giants-quarterback-jaxson-dart-undergo-season-ending-knee-surgery-repo-rcna599430",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，巨人队四分卫杰克森达特将接受赛季结束的膝盖手术"
     }
   ]
 }
