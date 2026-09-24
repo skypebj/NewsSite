@@ -1,12 +1,8 @@
 {
   "date": "20260924",
-  "total": 27,
+  "total": 36,
   "sources": {
-    "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
-    "theguardian": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -14,7 +10,11 @@
       "status": "ok",
       "entries": 0
     },
-    "cnn": {
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
       "status": "ok",
       "entries": 0
     },
@@ -22,214 +22,277 @@
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "apnews": {
       "status": "ok",
       "entries": 0
     },
-    "apnews": {
+    "fox": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Exclusive: Mark Zuckerberg on new audio glasses, Muse and if AI will kill us all",
-      "link": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-connect-audio-glasses-muse-ai-killing-us-rcna599257",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "published": "",
+      "title_zh": "波兰称星链站火灾是破坏行为，丹麦警告俄罗斯威胁加剧",
+      "summary_zh": "政府表示，该卫星站的部分用途是为邻国乌克兰提供互联网覆盖。"
+    },
+    {
+      "title": "Elephants use medicinal plants to treat themselves, researchers find",
+      "link": "",
+      "summary": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
+      "published": "",
+      "title_zh": "研究人员发现，大象使用药用植物来治疗自己",
+      "summary_zh": "研究显示，非洲象在生病时会使用数十种不同的药用植物来治疗自己和家人。"
+    },
+    {
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "published": "",
+      "title_zh": "流氓 OpenAI 代理世界首例“渗透”澳大利亚政府网站",
+      "summary_zh": "澳大利亚批评 OpenAI 花了“太长时间”才告诉他们 6 月份发生的泄露事件。"
+    },
+    {
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "link": "",
+      "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+      "published": "",
+      "title_zh": "法官暂时推翻特朗普的白宫媒体禁令",
+      "summary_zh": "法院已下令美国政府恢复 CNN、Politico 和 MS NOW 进入该大楼的权限。"
+    },
+    {
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "link": "",
+      "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "published": "",
+      "title_zh": "青少年摇滚歌手 Nene Royal 成为第一位赢得美国达人秀冠军的泰国人",
+      "summary_zh": "她的重金属表演击败了其他九名决赛选手，其中包括魔术师甚至机器人团队。"
+    },
+    {
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "published": "",
+      "title_zh": "特朗普和习近平面对面，美国和中国争夺人工智能竞赛的胜利",
+      "summary_zh": "美国和中国正在争夺人工智能霸主地位，同时寻求将其置于人类控制之下。"
+    },
+    {
+      "title": "Blood tests find high level of cancer-causing forever chemical in residents near UK factory",
+      "link": "",
+      "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+      "published": "",
+      "title_zh": "血液测试发现英国工厂附近的居民体内含有高浓度的致癌化学物质",
+      "summary_zh": "居住在兰开夏郡一家大型化工厂附近的人们被告知，他们可能面临严重健康问题的风险。"
+    },
+    {
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "link": "",
+      "summary": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "published": "",
+      "title_zh": "为什么印度选举委员会再次陷入风暴中心",
+      "summary_zh": "印度的民调监测机构正面临另一场信誉危机，其负责人受到新的指控。"
+    },
+    {
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "link": "",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "published": "",
+      "title_zh": "特朗普和平委员会公布24.5亿美元加沙恢复计划",
+      "summary_zh": "这一数字是在纽约联合国大会期间召开的该组织董事会会议上宣布的。"
+    },
+    {
+      "title": "11-year-old eSports star aims to become youngest medallist at Asian Games",
+      "link": "",
+      "summary": "Primary school student Yuki Kurihara makes a flying start as he becomes the youngest athlete at this year's Asian Games.",
+      "published": "",
+      "title_zh": "11岁电竞明星立志成为亚运会最年轻奖牌获得者",
+      "summary_zh": "小学生栗原佑树取得开门红，成为今年亚运会最年轻的运动员。"
+    },
+    {
+      "title": "Judge orders White House to restore access for CNN, MS NOW and Politico",
+      "link": "https://www.nbcnews.com/politics/trump-administration/judge-ruling-white-house-restore-access-media-ban-cnn-politico-ms-now-rcna599391",
       "summary": "",
       "published": "",
-      "title_zh": "独家：马克·扎克伯格谈新型音频眼镜、Muse 以及人工智能是否会杀死我们所有人"
+      "title_zh": "法官命令白宫恢复 CNN、MS NOW 和 Politico 的访问权限"
     },
     {
-      "title": "Venezuela’s acting leader, at U.N. for first address, promises elections at the ‘right moment’",
-      "link": "https://www.nbcnews.com/world/venezuela/venezuelas-acting-leader-un-first-address-promises-elections-right-mom-rcna599548",
+      "title": "Mark Zuckerberg says Meta will lead on smartglasses privacy despite ‘pervert glasses’ criticism",
+      "link": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-meta-audio-glasses-privacy-camera-ai-rcna599285",
       "summary": "",
       "published": "",
-      "title_zh": "委内瑞拉代理领导人在联合国首次发表讲话，承诺在“正确的时刻”举行选举"
+      "title_zh": "马克·扎克伯格表示，尽管“眼镜变态”受到批评，Meta仍将在智能眼镜隐私问题上发挥领导作用"
     },
     {
-      "title": "8 Navy members attempted suicide on the USS Lincoln during extended deployment, military official says",
-      "link": "https://www.nbcnews.com/news/military/8-navy-members-attempted-suicide-uss-lincoln-extended-deployment-milit-rcna599534",
+      "title": "Poll: Voters grow more concerned about capitalism, but they’re still wary of socialism and the DSA",
+      "link": "https://www.nbcnews.com/politics/2026-election/poll-voters-grow-concerned-capitalism-re-still-wary-socialism-dsa-rcna599194",
       "summary": "",
       "published": "",
-      "title_zh": "军方官员称，8名海军成员在延长部署期间试图在林肯号航空母舰上自杀"
+      "title_zh": "民意调查：选民越来越担心资本主义，但他们仍然对社会主义和DSA保持警惕"
     },
     {
-      "title": "Michigan Republicans break with Trump on Iran, AI and data centers",
-      "link": "https://www.nbcnews.com/politics/2026-election/michigan-republicans-break-trump-iran-ai-data-centers-rcna599300",
+      "title": "Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+      "link": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
       "summary": "",
       "published": "",
-      "title_zh": "密歇根州共和党人在伊朗、人工智能和数据中心问题上与特朗普决裂"
+      "title_zh": "内塔尼亚胡登上联合国舞台，面临全球孤立并为自己的政治未来而战"
     },
     {
-      "title": "FDA warns about some peptide injections possibly linked to illnesses",
-      "link": "https://www.nbcnews.com/health/health-news/peptide-glutathione-compounded-shots-linked-illnesses-fda-cdc-rcna599310",
+      "title": "Yemen says it asked Trump for U.S. military support in fight against Houthis",
+      "link": "https://www.nbcnews.com/world/middle-east/yemen-says-asked-trump-us-military-support-fight-houthis-rcna599565",
       "summary": "",
       "published": "",
-      "title_zh": "FDA 警告某些肽注射液可能与疾病有关"
+      "title_zh": "也门表示要求特朗普提供军事支持以打击胡塞武装"
     },
     {
-      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-      "link": "",
-      "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-      "published": "",
-      "title_zh": "特朗普热烈欢迎习近平抵达美国",
-      "summary_zh": "美国财政部长表示，习近平开始访问时，美国和中国已就延长贸易休战达成协议。"
-    },
-    {
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "link": "",
-      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "published": "",
-      "title_zh": "印度人正在体验无需付款购物的快感",
-      "summary_zh": "多巴胺网站模仿购物的快感，但无需花钱，将消费仪式变成了数字游戏。"
-    },
-    {
-      "title": "Video shows RAF pilots ejecting from jet before crash in Wales",
-      "link": "",
-      "summary": "The two pilots ejected from the jet before crash and sustained minor injuries.",
-      "published": "",
-      "title_zh": "视频显示英国皇家空军飞行员在威尔士坠机前从喷气式飞机中弹射",
-      "summary_zh": "两名飞行员在坠机前从飞机上弹射并受轻伤。"
-    },
-    {
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
-      "link": "",
-      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-      "published": "",
-      "title_zh": "红地毯和军事天桥——特朗普如何欢迎习近平",
-      "summary_zh": "飞过头顶的两架B-1轰炸机是美国作战武器库的重要组成部分，它们飞过时会发出臭名昭著的轰鸣声。"
-    },
-    {
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "link": "",
-      "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
-      "published": "",
-      "title_zh": "在阿米什国家，护士挨家挨户阻止致命的麻疹传播",
-      "summary_zh": "宾夕法尼亚州有四例与麻疹相关的死亡，卫生官员希望让人们私下接种疫苗。"
-    },
-    {
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "link": "",
-      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "published": "",
-      "title_zh": "他们被贴上“变态眼镜”的标签。无摄像头版本会改变他们的形象吗？",
-      "summary_zh": "Meta 推出了纯音频智能眼镜，一些人质疑这是否是对隐私问题的回应。"
-    },
-    {
-      "title": "Medieval gold ring fails to sell at auction",
-      "link": "",
-      "summary": "Two detectorists hoped the 14th Century ring would sell for between £25,000 and £30,000.",
-      "published": "",
-      "title_zh": "中世纪金戒指未能在拍卖会上售出",
-      "summary_zh": "两名探测器人员希望这枚 14 世纪的戒指能卖到 25,000 到 30,000 英镑之间。"
-    },
-    {
-      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-      "link": "",
-      "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
-      "published": "",
-      "title_zh": "“让女性感觉被看见”：为什么荷兰人给阴唇起了一个新词",
-      "summary_zh": "活动人士希望这些新词能够减少对身体的羞辱，提高性积极性。"
-    },
-    {
-      "title": "Is Burnham right to blame Russia for spreading online disinformation?",
-      "link": "",
-      "summary": "BBC Verify examines Russian-linked operations spreading false information about the UK, Ukraine and other nations.",
-      "published": "",
-      "title_zh": "伯纳姆指责俄罗斯在网上传播虚假信息是否正确？",
-      "summary_zh": "BBC verify 调查了与俄罗斯有关的传播有关英国、乌克兰和其他国家虚假信息的活动。"
-    },
-    {
-      "title": "UK survivor of Canadian poison seller says he exploited her despair",
-      "link": "",
-      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
-      "published": "",
-      "title_zh": "加拿大毒贩的英国幸存者称他利用了她的绝望",
-      "summary_zh": "伊丽莎白·贝利恩 (Elisabeth Belien) 在肯尼思·劳 (Kenneth Law) 的量刑听证会上表示，她在 23 岁时服毒。"
-    },
-    {
-      "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert",
-      "link": "",
+      "title": "NBC News speaks with Cuba’s foreign minister about talks with the U.S. and nationwide blackouts",
+      "link": "https://www.nbcnews.com/video/cuban-foreign-minister-addresses-talks-with-u-s-blackouts-270416453671",
       "summary": "",
       "published": "",
-      "title_zh": "专家：当伊朗总统在联合国演讲中猛烈抨击美国时，特朗普可能会“傻笑”"
+      "title_zh": "NBC 新闻与古巴外交部长讨论与美国的谈判和全国停电问题"
     },
     {
-      "title": "Trump breaks 64-year presidential precedent as Xi arrives in US",
-      "link": "",
+      "title": "Trump’s FDA pick to face scrutiny over abortion pill access at confirmation hearing",
+      "link": "https://www.nbcnews.com/health/health-news/trumps-fda-pick-face-scrutiny-abortion-pill-access-confirmation-hearin-rcna599455",
       "summary": "",
       "published": "",
-      "title_zh": "习近平抵达美国，特朗普打破64年总统先例"
+      "title_zh": "特朗普的 FDA 选择在确认听证会上面临堕胎药准入审查"
     },
     {
-      "title": "Alarming object spotted by officer on TSA X-ray before bizarre twist unfolds",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在奇怪的转折发生之前，美国运输安全管理局 (TSA) 的 X 光检查人员发现了令人震惊的物体"
-    },
-    {
-      "title": "'Home Improvement' child star Jonathan Taylor Thomas detained by police",
+      "title": "Fear grips SEC college town after deaths as third student makes disturbing bar claim",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《家居改善》童星乔纳森·泰勒·托马斯被警方拘留"
+      "title_zh": "第三名学生在酒吧提出令人不安的索赔后，死亡事件笼罩了 SEC 大学城"
     },
     {
-      "title": "Study of 8.8 million adults links common eating pattern to multiple serious illnesses",
+      "title": "Supreme Court faces mounting pressure as lawsuit costs near $1 trillion",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "对 880 万成年人的研究表明，常见的饮食模式与多种严重疾病有关"
+      "title_zh": "诉讼费用接近万亿美元 最高法院面临越来越大的压力"
     },
     {
-      "title": "Lesbian bar sparks backlash after making masks optional one night a week",
+      "title": "PM from first lady Melania Trump’s birthplace rips UN as Trump promise comes to light",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "女同性恋酒吧每周一晚允许戴口罩，引发强烈反对"
+      "title_zh": "随着特朗普的承诺曝光，第一夫人梅拉尼娅·特朗普的出生地撕毁了联合国的总理"
     },
     {
-      "title": "Illegal alien allegedly grabs school police officer's gun, shoots him in femoral artery",
+      "title": "New details emerge on soldier attack as Netanyahu warns of 'surprises' in UN speech",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据称，非法外国人抢了学校警察的枪，向他的股动脉开枪"
+      "title_zh": "内塔尼亚胡在联合国讲话中警告称“意外”，有关士兵袭击的新细节浮出水面"
     },
     {
-      "title": "MLB legend's curtain call signals the sad death of a special era in baseball",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国职业棒球大联盟传奇人物的谢幕标志着棒球特殊时代的悲惨消亡"
-    },
-    {
-      "title": "People are ditching vapes only to pick up another surprising habit",
+      "title": "People are ditching their vapes only to pick up another surprising habit",
       "link": "",
       "summary": "",
       "published": "",
       "title_zh": "人们放弃电子烟只是为了养成另一个令人惊讶的习惯"
     },
     {
-      "title": "PETA tells kitten org to drop 'no f---ing MAGA' adopter policy in stinging rebuke",
+      "title": "Coffee giant announces hundreds of stores closing soon across North America",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "PETA 严厉谴责小猫组织，要求其放弃“禁止 MAGA”收养者政策"
+      "title_zh": "咖啡巨头宣布北美数百家门店即将关闭"
     },
     {
-      "title": "Justin Verlander reveals he had no idea Kate Upton was firing off her MLB rant",
+      "title": "Mistress reveals ultimatum she gave ‘American Idol’ contestant before wife was killed",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贾斯汀·维兰德透露，他不知道凯特·厄普顿正在对美国职业棒球大联盟（MLB）咆哮"
+      "title_zh": "情妇透露在妻子被杀之前她给“美国偶像”选手下了最后通牒"
     },
     {
-      "title": "Chemist who discussed 'perfect crime' eyed in Chicago Tylenol murders mystery",
+      "title": "Identity of man hosting MN Sen candidate's event blows her fraud narrative out of water",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "芝加哥泰诺谋杀案中讨论“完美犯罪”的化学家"
+      "title_zh": "主持明尼苏达州参议员候选人活动的男子的身份让她的欺诈叙述彻底失败"
+    },
+    {
+      "title": "George Clooney races to Rande Gerber's side after son Presley Gerber's death",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "儿子普雷斯利·格伯去世后，乔治·克鲁尼奔赴兰德·格伯身边"
+    },
+    {
+      "title": "Tech company says new scientific discovery could change the world of medicine",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "科技公司表示新的科学发现可能会改变医学世界"
+    },
+    {
+      "title": "House GOP chairman says China is 'number one actor' driving up gas prices",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "众议院共和党主席称中国是推高油价的“头号演员”"
+    },
+    {
+      "title": "Trump-appointed judge makes temporary rule on outlets banned from White House",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普任命的法官对白宫禁止的媒体做出临时裁决"
+    },
+    {
+      "title": "Tens of thousands descend on St Louis as bishop revives communism warning",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "主教重申共产主义警告，数万人涌入圣路易斯"
+    },
+    {
+      "title": "Bears QB amplified an antisemitic post while taking shots at Dave Portnoy",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "熊队四分卫在向戴夫·波特诺伊开枪时放大了反犹太主义帖子"
+    },
+    {
+      "title": "GREG GUTFELD:Are Democrats waiting for the public to forget this?",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "格雷格·古菲尔德：民主党人是在等待公众忘记这一点吗？"
+    },
+    {
+      "title": "NASCAR legend diagnosed with brain disease, possible CTE from racing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "纳斯卡传奇人物被诊断患有脑部疾病，可能是赛车引起的慢性创伤性脑病"
+    },
+    {
+      "title": "Texas killer thanks death row 'brothers' in eerie final words before lethal injection",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "得克萨斯州杀手在注射死刑前用令人毛骨悚然的最后一句话感谢死囚“兄弟”"
+    },
+    {
+      "title": "Americans lost over $20 billion to one type of crime. Here’s how we can fight it",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国人因一种犯罪行为而损失超过 200 亿美元。这是我们如何对抗它的方法"
+    },
+    {
+      "title": "Kiffin accuses Ole Miss of playing music too long after LSU's loss to Rebels",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "基芬指责密西西比大学在路易斯安那州立大学输给叛军后播放音乐时间过长"
     }
   ]
 }
