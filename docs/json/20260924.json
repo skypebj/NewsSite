@@ -1,6 +1,6 @@
 {
   "date": "20260924",
-  "total": 36,
+  "total": 44,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -33,266 +33,328 @@
   },
   "entries": [
     {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "",
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "published": "",
-      "title_zh": "波兰称星链站火灾是破坏行为，丹麦警告俄罗斯威胁加剧",
-      "summary_zh": "政府表示，该卫星站的部分用途是为邻国乌克兰提供互联网覆盖。"
-    },
-    {
-      "title": "Elephants use medicinal plants to treat themselves, researchers find",
-      "link": "",
-      "summary": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
-      "published": "",
-      "title_zh": "研究人员发现，大象使用药用植物来治疗自己",
-      "summary_zh": "研究显示，非洲象在生病时会使用数十种不同的药用植物来治疗自己和家人。"
-    },
-    {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "published": "",
-      "title_zh": "流氓 OpenAI 代理世界首例“渗透”澳大利亚政府网站",
-      "summary_zh": "澳大利亚批评 OpenAI 花了“太长时间”才告诉他们 6 月份发生的泄露事件。"
-    },
-    {
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "link": "",
-      "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
-      "published": "",
-      "title_zh": "法官暂时推翻特朗普的白宫媒体禁令",
-      "summary_zh": "法院已下令美国政府恢复 CNN、Politico 和 MS NOW 进入该大楼的权限。"
-    },
-    {
-      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
-      "link": "",
-      "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
-      "published": "",
-      "title_zh": "青少年摇滚歌手 Nene Royal 成为第一位赢得美国达人秀冠军的泰国人",
-      "summary_zh": "她的重金属表演击败了其他九名决赛选手，其中包括魔术师甚至机器人团队。"
-    },
-    {
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "link": "",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "published": "",
-      "title_zh": "特朗普和习近平面对面，美国和中国争夺人工智能竞赛的胜利",
-      "summary_zh": "美国和中国正在争夺人工智能霸主地位，同时寻求将其置于人类控制之下。"
-    },
-    {
-      "title": "Blood tests find high level of cancer-causing forever chemical in residents near UK factory",
-      "link": "",
-      "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
-      "published": "",
-      "title_zh": "血液测试发现英国工厂附近的居民体内含有高浓度的致癌化学物质",
-      "summary_zh": "居住在兰开夏郡一家大型化工厂附近的人们被告知，他们可能面临严重健康问题的风险。"
-    },
-    {
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "link": "",
-      "summary": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
-      "published": "",
-      "title_zh": "为什么印度选举委员会再次陷入风暴中心",
-      "summary_zh": "印度的民调监测机构正面临另一场信誉危机，其负责人受到新的指控。"
-    },
-    {
-      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "link": "",
-      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "published": "",
-      "title_zh": "特朗普和平委员会公布24.5亿美元加沙恢复计划",
-      "summary_zh": "这一数字是在纽约联合国大会期间召开的该组织董事会会议上宣布的。"
-    },
-    {
-      "title": "11-year-old eSports star aims to become youngest medallist at Asian Games",
-      "link": "",
-      "summary": "Primary school student Yuki Kurihara makes a flying start as he becomes the youngest athlete at this year's Asian Games.",
-      "published": "",
-      "title_zh": "11岁电竞明星立志成为亚运会最年轻奖牌获得者",
-      "summary_zh": "小学生栗原佑树取得开门红，成为今年亚运会最年轻的运动员。"
-    },
-    {
-      "title": "Judge orders White House to restore access for CNN, MS NOW and Politico",
-      "link": "https://www.nbcnews.com/politics/trump-administration/judge-ruling-white-house-restore-access-media-ban-cnn-politico-ms-now-rcna599391",
-      "summary": "",
-      "published": "",
-      "title_zh": "法官命令白宫恢复 CNN、MS NOW 和 Politico 的访问权限"
-    },
-    {
-      "title": "Mark Zuckerberg says Meta will lead on smartglasses privacy despite ‘pervert glasses’ criticism",
-      "link": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-meta-audio-glasses-privacy-camera-ai-rcna599285",
-      "summary": "",
-      "published": "",
-      "title_zh": "马克·扎克伯格表示，尽管“眼镜变态”受到批评，Meta仍将在智能眼镜隐私问题上发挥领导作用"
-    },
-    {
-      "title": "Poll: Voters grow more concerned about capitalism, but they’re still wary of socialism and the DSA",
-      "link": "https://www.nbcnews.com/politics/2026-election/poll-voters-grow-concerned-capitalism-re-still-wary-socialism-dsa-rcna599194",
-      "summary": "",
-      "published": "",
-      "title_zh": "民意调查：选民越来越担心资本主义，但他们仍然对社会主义和DSA保持警惕"
-    },
-    {
-      "title": "Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
-      "link": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
-      "summary": "",
-      "published": "",
-      "title_zh": "内塔尼亚胡登上联合国舞台，面临全球孤立并为自己的政治未来而战"
-    },
-    {
-      "title": "Yemen says it asked Trump for U.S. military support in fight against Houthis",
-      "link": "https://www.nbcnews.com/world/middle-east/yemen-says-asked-trump-us-military-support-fight-houthis-rcna599565",
-      "summary": "",
-      "published": "",
-      "title_zh": "也门表示要求特朗普提供军事支持以打击胡塞武装"
-    },
-    {
-      "title": "NBC News speaks with Cuba’s foreign minister about talks with the U.S. and nationwide blackouts",
-      "link": "https://www.nbcnews.com/video/cuban-foreign-minister-addresses-talks-with-u-s-blackouts-270416453671",
-      "summary": "",
-      "published": "",
-      "title_zh": "NBC 新闻与古巴外交部长讨论与美国的谈判和全国停电问题"
-    },
-    {
-      "title": "Trump’s FDA pick to face scrutiny over abortion pill access at confirmation hearing",
-      "link": "https://www.nbcnews.com/health/health-news/trumps-fda-pick-face-scrutiny-abortion-pill-access-confirmation-hearin-rcna599455",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普的 FDA 选择在确认听证会上面临堕胎药准入审查"
-    },
-    {
-      "title": "Fear grips SEC college town after deaths as third student makes disturbing bar claim",
+      "title": "Israeli prime minister blasts 'moral cowards' in fiery speech after UN walkout",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "第三名学生在酒吧提出令人不安的索赔后，死亡事件笼罩了 SEC 大学城"
+      "title_zh": "以色列总理在联合国罢工后发表激烈讲话，痛斥“道德懦夫”"
     },
     {
-      "title": "Supreme Court faces mounting pressure as lawsuit costs near $1 trillion",
+      "title": "Man wounded in Trump Butler assassination attempt dies of complications from injuries",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "诉讼费用接近万亿美元 最高法院面临越来越大的压力"
+      "title_zh": "特朗普巴特勒刺杀事件中受伤的男子因受伤并发症死亡"
     },
     {
-      "title": "PM from first lady Melania Trump’s birthplace rips UN as Trump promise comes to light",
+      "title": "Canadian PM admits preparing for US invasion as Trump's 51st state rhetoric escalates",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着特朗普的承诺曝光，第一夫人梅拉尼娅·特朗普的出生地撕毁了联合国的总理"
+      "title_zh": "特朗普第51个州言论升级，加拿大总理承认正在为美国入侵做准备"
     },
     {
-      "title": "New details emerge on soldier attack as Netanyahu warns of 'surprises' in UN speech",
+      "title": "Pilot issues dramatic mayday call before aircraft plunges into Pacific Ocean",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "内塔尼亚胡在联合国讲话中警告称“意外”，有关士兵袭击的新细节浮出水面"
+      "title_zh": "飞机坠入太平洋前飞行员发出戏剧性的求救信号"
     },
     {
-      "title": "People are ditching their vapes only to pick up another surprising habit",
+      "title": "Fifth-grade field trip turns deadly for teacher and 10-year-old student",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "人们放弃电子烟只是为了养成另一个令人惊讶的习惯"
+      "title_zh": "五年级实地考察导致老师和 10 岁学生死亡"
     },
     {
-      "title": "Coffee giant announces hundreds of stores closing soon across North America",
+      "title": "Democrat's Senate campaign rocked by explosive NY Times report",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "咖啡巨头宣布北美数百家门店即将关闭"
+      "title_zh": "《纽约时报》爆炸性报道震撼了民主党参议院竞选活动"
     },
     {
-      "title": "Mistress reveals ultimatum she gave ‘American Idol’ contestant before wife was killed",
+      "title": "Ole Miss names students found dead as official addresses potential for foul play",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "情妇透露在妻子被杀之前她给“美国偶像”选手下了最后通牒"
+      "title_zh": "密西西比大学公布了被发现死亡的学生的名字，官方表示可能存在犯规行为"
     },
     {
-      "title": "Identity of man hosting MN Sen candidate's event blows her fraud narrative out of water",
+      "title": "49ers fullback hit with nearly $15K penalty says 'I don't even drink beer'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "主持明尼苏达州参议员候选人活动的男子的身份让她的欺诈叙述彻底失败"
+      "title_zh": "49人队后卫被罚近1.5万美元，他说“我什至不喝啤酒”"
     },
     {
-      "title": "George Clooney races to Rande Gerber's side after son Presley Gerber's death",
+      "title": "Lindsey Vonn hard launches her new romance in a bikini with French World Cup skier",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "儿子普雷斯利·格伯去世后，乔治·克鲁尼奔赴兰德·格伯身边"
+      "title_zh": "林赛·沃恩 (Lindsey Vonn) 与法国滑雪世界杯选手身着比基尼展开新恋情"
     },
     {
-      "title": "Tech company says new scientific discovery could change the world of medicine",
+      "title": "Kennedy says AI could 'go Terminator' as he revives kill switch push",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "科技公司表示新的科学发现可能会改变医学世界"
+      "title_zh": "肯尼迪表示人工智能可以“成为终结者”，因为他恢复了杀戮开关的推动"
     },
     {
-      "title": "House GOP chairman says China is 'number one actor' driving up gas prices",
+      "title": "Rogan erupts over young Americans embracing far-left ideology after Soviet's eye-opener",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "众议院共和党主席称中国是推高油价的“头号演员”"
+      "title_zh": "罗根对美国年轻人在苏联大开眼界后拥抱极左意识形态感到愤怒"
     },
     {
-      "title": "Trump-appointed judge makes temporary rule on outlets banned from White House",
+      "title": "Javier Milei shreds ‘useless’ UN to its face in fiery speech to 'fatally arrogant parasites'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普任命的法官对白宫禁止的媒体做出临时裁决"
+      "title_zh": "哈维尔·米莱在对“傲慢至极的寄生虫”的激烈演讲中，当面撕碎了“无用”的联合国"
     },
     {
-      "title": "Tens of thousands descend on St Louis as bishop revives communism warning",
+      "title": "President facing Russia warns America’s adversary helped power Putin’s war machine",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "主教重申共产主义警告，数万人涌入圣路易斯"
+      "title_zh": "总统面对俄罗斯警告美国的对手帮助为普京的战争机器提供动力"
     },
     {
-      "title": "Bears QB amplified an antisemitic post while taking shots at Dave Portnoy",
+      "title": "How to 'brick' your phone with a device, or iPhone settings already available",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "熊队四分卫在向戴夫·波特诺伊开枪时放大了反犹太主义帖子"
+      "title_zh": "如何使用现有设备或 iPhone 设置来“砖化”您的手机"
     },
     {
-      "title": "GREG GUTFELD:Are Democrats waiting for the public to forget this?",
+      "title": "Man details escaping black bear chasing him in backyard",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "格雷格·古菲尔德：民主党人是在等待公众忘记这一点吗？"
+      "title_zh": "男子在后院讲述了黑熊追赶他的故事"
     },
     {
-      "title": "NASCAR legend diagnosed with brain disease, possible CTE from racing",
+      "title": "TUNE IN:Iranian president sits down with Bret Baier for an exclusive interview at 6PM ET",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纳斯卡传奇人物被诊断患有脑部疾病，可能是赛车引起的慢性创伤性脑病"
+      "title_zh": "收看：美国东部时间下午 6 点，伊朗总统与布雷特·拜尔 (Bret Baier) 接受独家采访"
     },
     {
-      "title": "Texas killer thanks death row 'brothers' in eerie final words before lethal injection",
+      "title": "Monster nor'easter strengthens as track shifts closer to major Northeast cities",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "得克萨斯州杀手在注射死刑前用令人毛骨悚然的最后一句话感谢死囚“兄弟”"
+      "title_zh": "随着赛道靠近东北部主要城市，怪物东北赛加强"
     },
     {
-      "title": "Americans lost over $20 billion to one type of crime. Here’s how we can fight it",
+      "title": "Justin Herbert's fiancée gets new skin as star QB struggles to 0-2 start",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国人因一种犯罪行为而损失超过 200 亿美元。这是我们如何对抗它的方法"
+      "title_zh": "贾斯汀·赫伯特的未婚妻获得新皮肤，明星四分卫苦苦挣扎以 0-2 开局"
     },
     {
-      "title": "Kiffin accuses Ole Miss of playing music too long after LSU's loss to Rebels",
+      "title": "Texas-Tennessee showdown gets political twist with Donald Trump in attendance",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "基芬指责密西西比大学在路易斯安那州立大学输给叛军后播放音乐时间过长"
+      "title_zh": "德克萨斯州与田纳西州的对决出现政治转折，唐纳德·特朗普出席"
+    },
+    {
+      "title": "Letitia James' latest battle with Trump suddenly veers off course in federal court",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "利蒂西亚·詹姆斯与特朗普的最新争斗在联邦法院突然偏离轨道"
+    },
+    {
+      "title": "As Trump and Xi meet, families of Americans detained in China hope for help",
+      "link": "https://www.nbcnews.com/world/asia/trump-xi-meet-families-americans-detained-china-hope-help-rcna599140",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普和习近平会面，被拘留在中国的美国人家属希望得到帮助"
+    },
+    {
+      "title": "Rare September Nor’easter set to slam East Coast with heavy rain, damaging winds",
+      "link": "https://www.nbcnews.com/weather/storms/rare-september-noreaster-set-to-slam-east-coast-rcna599592",
+      "summary": "",
+      "published": "",
+      "title_zh": "罕见的九月东北复活节将用大雨和破坏性大风袭击东海岸"
+    },
+    {
+      "title": "As measles surges in Pennsylvania, doctors warn about a new condition affecting babies",
+      "link": "https://www.nbcnews.com/health/health-news/congenital-measles-pennsylvania-outbreak-grows-babies-infected-rcna599431",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着宾夕法尼亚州麻疹激增，医生警告称，一种影响婴儿的新疾病"
+    },
+    {
+      "title": "California Supreme Court orders GOP sheriff to return 650,000 seized ballots",
+      "link": "https://www.nbcnews.com/politics/elections/california-supreme-court-orders-gop-sheriff-return-650000-ballots-rcna599695",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州最高法院命令共和党治安官归还 65 万张被扣押的选票"
+    },
+    {
+      "title": "She went to the hospital for a broken ankle. Why did she end up dead?",
+      "link": "https://www.nbcnews.com/news/us-news/went-hospital-broken-ankle-end-dead-rcna591036",
+      "summary": "",
+      "published": "",
+      "title_zh": "她因脚踝骨折去了医院。她为什么最后死了？"
+    },
+    {
+      "title": "Bond yields surge to fresh two-decade highs but oil prices buffeted by Iran headlines",
+      "link": "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604",
+      "summary": "",
+      "published": "",
+      "title_zh": "债券收益率飙升至二十年来的新高，但油价受到伊朗头条新闻的打击"
+    },
+    {
+      "title": "Stanford apologizes saying AI-altered photo that changed student’s gender and race  violated policy",
+      "link": "https://www.nbcnews.com/news/us-news/stanford-apologizes-saying-ai-altered-pic-changed-students-gender-race-rcna599691",
+      "summary": "",
+      "published": "",
+      "title_zh": "斯坦福大学道歉称人工智能修改的照片改变了学生的性别和种族，违反了政策"
+    },
+    {
+      "title": "FOR SUBSCRIBERSHow corruption is popping up in Republican and Democratic election ads nationwide",
+      "link": "https://www.nbcnews.com/politics/2026-election/corruption-popping-republican-democratic-ads-everywhere-ahead-election-rcna599533",
+      "summary": "",
+      "published": "",
+      "title_zh": "对于订阅者腐败是如何在全国共和党和民主党选举广告中出现的"
+    },
+    {
+      "title": "Here's why Trump's been so keen on Xi's visit",
+      "link": "",
+      "summary": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+      "published": "",
+      "title_zh": "这就是为什么特朗普如此热衷于习近平的访问",
+      "summary_zh": "唐纳德·特朗普总统几个月来一直在谈论中国国家主席习近平的访问，英国广播公司 (BBC) 的萨拉·史密斯 (Sarah Smith) 探讨了原因。"
+    },
+    {
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "link": "",
+      "summary": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
+      "published": "",
+      "title_zh": "观看：联合国代表在内塔尼亚胡演讲后退场",
+      "summary_zh": "在内塔尼亚胡讲话期间，可以看到以色列代表团欢呼支持。"
+    },
+    {
+      "title": "'It has broken us as a family,' mother of Canadian poison seller victim tells hearing",
+      "link": "",
+      "summary": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
+      "published": "",
+      "title_zh": "加拿大毒贩受害者的母亲在听证会上表示：“这让我们作为一个家庭破裂了”",
+      "summary_zh": "坦尼娅·惠特克 (Tanya Whitaker) 在谈到儿子塞缪尔 (Samuel) 的死给她的家庭带来的打击之前就崩溃了。"
+    },
+    {
+      "title": "Mark Carney says he has considered possibility of US military action against Canada",
+      "link": "",
+      "summary": "The prime minister described the risk of an action by the country's southern neighbour as remote, but said \"it would be irresponsible\" not to prepare.",
+      "published": "",
+      "title_zh": "马克·卡尼表示，他已考虑美国对加拿大采取军事行动的可能性",
+      "summary_zh": "总理称该国南部邻国采取行动的风险很小，但表示不做好准备“将是不负责任的”。"
+    },
+    {
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "link": "",
+      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "published": "",
+      "title_zh": "法官下令后，白宫恢复了特朗普禁止的媒体渠道",
+      "summary_zh": "CNN、Politico 和 MS NOW 在其部分工作人员早些时候被拒绝后获准返回白宫。"
+    },
+    {
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "link": "",
+      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "published": "",
+      "title_zh": "105 岁老人因在德国纳粹战俘营犯罪而接受调查",
+      "summary_zh": "据称，该嫌疑人是 Stalag 326 集中营谋杀案的同谋，该集中营有数万名苏联战俘死亡。"
+    },
+    {
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "link": "",
+      "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "published": "",
+      "title_zh": "说唱歌手麦克莫尔在艾德·希兰事件后宣布“自由巴勒斯坦”巡演",
+      "summary_zh": "他说，下个月在都柏林开始的巡演收益将捐给支持巴勒斯坦人的组织。"
+    },
+    {
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "link": "",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "published": "",
+      "title_zh": "美国石油之都如何迎来太阳能热潮",
+      "summary_zh": "德克萨斯州现在是美国最大的太阳能发电生产国。"
+    },
+    {
+      "title": "Who are the Houthis and what do they want?",
+      "link": "",
+      "summary": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
+      "published": "",
+      "title_zh": "胡塞武装是谁？他们想要什么？",
+      "summary_zh": "在人们对全球能源市场日益担忧的情况下，也门红海沿岸的快速军事推进使伊朗支持的组织成为人们关注的焦点。"
+    },
+    {
+      "title": "Spain's housing crisis in focus after eviction of 87-year-old woman",
+      "link": "",
+      "summary": "The tenant of the flat in the Retiro area of central Madrid, Maricarmen, was unable to pay her rent set after it was increased by an investment firm.",
+      "published": "",
+      "title_zh": "87岁老妇被驱逐后西班牙住房危机成为焦点",
+      "summary_zh": "马德里市中心雷蒂罗区公寓的租户马里卡门(Maricarmen)在投资公司提高租金后无法支付租金。"
+    },
+    {
+      "title": "Protein users squeezed as prices soar",
+      "link": "",
+      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
+      "published": "",
+      "title_zh": "随着价格飙升，蛋白质用户受到挤压",
+      "summary_zh": "消费者正感受到蛋白质成本上涨的压力。"
+    },
+    {
+      "title": "Venezuela‘s interim president promises election after Maduro ousted",
+      "link": "",
+      "summary": "The opposition in Venezuela has slammed her for not setting even a tentative date for elections.",
+      "published": "",
+      "title_zh": "马杜罗下台后委内瑞拉临时总统承诺选举",
+      "summary_zh": "委内瑞拉反对派批评她甚至没有设定选举的暂定日期。"
+    },
+    {
+      "title": "Ex-England striker Carroll reveals he was sexually assaulted in 2021",
+      "link": "",
+      "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
+      "published": "",
+      "title_zh": "前英格兰前锋卡罗尔透露他在 2021 年遭到性侵犯",
+      "summary_zh": "前英格兰前锋安迪·卡罗尔透露，他在 2021 年遭到一名男子性侵犯，随后被判入狱三年。"
+    },
+    {
+      "title": "Activists found guilty of theft of King Charles's lambs",
+      "link": "",
+      "summary": "They believed the King \"would have consented to their rescue\" due to being an \"environmentalist\".",
+      "published": "",
+      "title_zh": "活动人士因盗窃查尔斯国王的羔羊而被判有罪",
+      "summary_zh": "他们相信国王“会同意营救他们”，因为他是“环保主义者”。"
+    },
+    {
+      "title": "Hundreds attend Jacob Elordi lookalike competition",
+      "link": "",
+      "summary": "The contest, organised by a group from the University of Bristol, included an Australian accent round.",
+      "published": "",
+      "title_zh": "数百人参加雅各布​​·艾洛迪 (Jacob Elordi) 相似比赛",
+      "summary_zh": "该比赛由布里斯托大学的一个小组组织，其中包括澳大利亚口音回合。"
+    },
+    {
+      "title": "Buttler injury halts England as Sri Lanka level series",
+      "link": "",
+      "summary": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
+      "published": "",
+      "title_zh": "巴特勒受伤导致英格兰队无法参加斯里兰卡系列赛",
+      "summary_zh": "乔斯·巴特勒的勇敢没有白费，斯里兰卡队在海丁利举行的第二场一日国际比赛中奋力反击，击败了英格兰队，并在椭圆形球场进行了系列赛的决胜局。"
     }
   ]
 }
