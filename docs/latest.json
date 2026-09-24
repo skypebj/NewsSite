@@ -1,6 +1,6 @@
 {
   "date": "20260924",
-  "total": 44,
+  "total": 48,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -20,7 +20,7 @@
     },
     "nbcnews": {
       "status": "ok",
-      "entries": 0
+      "entries": 2
     },
     "apnews": {
       "status": "ok",
@@ -29,332 +29,358 @@
     "fox": {
       "status": "ok",
       "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 20
     }
   },
   "entries": [
     {
-      "title": "Israeli prime minister blasts 'moral cowards' in fiery speech after UN walkout",
+      "title": "Xi visit to Washington all pomp but little progress so far",
       "link": "",
-      "summary": "",
+      "summary": "The summit so far has focused on \"positive vibes\", says one analyst, with several pressing issues awaiting discussion.",
       "published": "",
-      "title_zh": "以色列总理在联合国罢工后发表激烈讲话，痛斥“道德懦夫”"
+      "title_zh": "习近平对华盛顿的访问盛况空前，但迄今进展甚微",
+      "summary_zh": "一位分析师表示，到目前为止，峰会的重点是“积极的氛围”，还有几个紧迫的问题有待讨论。"
     },
     {
-      "title": "Man wounded in Trump Butler assassination attempt dies of complications from injuries",
+      "title": "A military threat from US? Canadians react to Carney's concerns",
       "link": "",
-      "summary": "",
+      "summary": "The Canadian Prime Minister told The New York Times that Canada has considered the remote possibility of US military action.",
       "published": "",
-      "title_zh": "特朗普巴特勒刺杀事件中受伤的男子因受伤并发症死亡"
+      "title_zh": "来自美国的军事威胁？加拿大人对卡尼的担忧做出反应",
+      "summary_zh": "加拿大总理告诉《纽约时报》，加拿大已经考虑过美国采取军事行动的可能性微乎其微。"
     },
     {
-      "title": "Canadian PM admits preparing for US invasion as Trump's 51st state rhetoric escalates",
+      "title": "Yom Kippur shooting outside Canadian synagogue was 'hate-motivated', officials say",
       "link": "",
-      "summary": "",
+      "summary": "Const Jeff Smith, who was critically injured in the incident, continued to fend off the attacker after being shot multiple times, police said.",
       "published": "",
-      "title_zh": "特朗普第51个州言论升级，加拿大总理承认正在为美国入侵做准备"
+      "title_zh": "官员称，加拿大犹太教堂外的赎罪日枪击事件是“出于仇恨动机”",
+      "summary_zh": "警方称，在这起事件中受重伤的警员杰夫·史密斯在中了多枪后继续抵挡袭击者。"
     },
     {
-      "title": "Pilot issues dramatic mayday call before aircraft plunges into Pacific Ocean",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "",
-      "summary": "",
+      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "published": "",
-      "title_zh": "飞机坠入太平洋前飞行员发出戏剧性的求救信号"
+      "title_zh": "内塔尼亚胡为以色列的军事行动辩护，代表们在联合国演讲前退场",
+      "summary_zh": "这位以色列领导人将那些在联合国大会上发表演讲的人称为“道德懦夫”。"
     },
     {
-      "title": "Fifth-grade field trip turns deadly for teacher and 10-year-old student",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "link": "",
-      "summary": "",
+      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
       "published": "",
-      "title_zh": "五年级实地考察导致老师和 10 岁学生死亡"
+      "title_zh": "为什么澳大利亚选择世界上最大的政治舞台来揭露 OpenAI 黑客事件",
+      "summary_zh": "澳大利亚对社交媒体有严格的限制，并提议对算法和智能眼镜进行控制，该国在联合国宣布了这一违规行为。"
     },
     {
-      "title": "Democrat's Senate campaign rocked by explosive NY Times report",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "link": "",
-      "summary": "",
+      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
       "published": "",
-      "title_zh": "《纽约时报》爆炸性报道震撼了民主党参议院竞选活动"
+      "title_zh": "在俄罗斯占领的城市中，食物和水被切断，靠吃花园杂草来生存",
+      "summary_zh": "英国广播公司（BBC）采访了俄罗斯占领的乌克兰城镇奥列什基的居民，他们说他们“不断遭到炮击”。"
     },
     {
-      "title": "Ole Miss names students found dead as official addresses potential for foul play",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "密西西比大学公布了被发现死亡的学生的名字，官方表示可能存在犯规行为"
-    },
-    {
-      "title": "49ers fullback hit with nearly $15K penalty says 'I don't even drink beer'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "49人队后卫被罚近1.5万美元，他说“我什至不喝啤酒”"
-    },
-    {
-      "title": "Lindsey Vonn hard launches her new romance in a bikini with French World Cup skier",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "林赛·沃恩 (Lindsey Vonn) 与法国滑雪世界杯选手身着比基尼展开新恋情"
-    },
-    {
-      "title": "Kennedy says AI could 'go Terminator' as he revives kill switch push",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "肯尼迪表示人工智能可以“成为终结者”，因为他恢复了杀戮开关的推动"
-    },
-    {
-      "title": "Rogan erupts over young Americans embracing far-left ideology after Soviet's eye-opener",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "罗根对美国年轻人在苏联大开眼界后拥抱极左意识形态感到愤怒"
-    },
-    {
-      "title": "Javier Milei shreds ‘useless’ UN to its face in fiery speech to 'fatally arrogant parasites'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "哈维尔·米莱在对“傲慢至极的寄生虫”的激烈演讲中，当面撕碎了“无用”的联合国"
-    },
-    {
-      "title": "President facing Russia warns America’s adversary helped power Putin’s war machine",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "总统面对俄罗斯警告美国的对手帮助为普京的战争机器提供动力"
-    },
-    {
-      "title": "How to 'brick' your phone with a device, or iPhone settings already available",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "如何使用现有设备或 iPhone 设置来“砖化”您的手机"
-    },
-    {
-      "title": "Man details escaping black bear chasing him in backyard",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "男子在后院讲述了黑熊追赶他的故事"
-    },
-    {
-      "title": "TUNE IN:Iranian president sits down with Bret Baier for an exclusive interview at 6PM ET",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "收看：美国东部时间下午 6 点，伊朗总统与布雷特·拜尔 (Bret Baier) 接受独家采访"
-    },
-    {
-      "title": "Monster nor'easter strengthens as track shifts closer to major Northeast cities",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着赛道靠近东北部主要城市，怪物东北赛加强"
-    },
-    {
-      "title": "Justin Herbert's fiancée gets new skin as star QB struggles to 0-2 start",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "贾斯汀·赫伯特的未婚妻获得新皮肤，明星四分卫苦苦挣扎以 0-2 开局"
-    },
-    {
-      "title": "Texas-Tennessee showdown gets political twist with Donald Trump in attendance",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "德克萨斯州与田纳西州的对决出现政治转折，唐纳德·特朗普出席"
-    },
-    {
-      "title": "Letitia James' latest battle with Trump suddenly veers off course in federal court",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "利蒂西亚·詹姆斯与特朗普的最新争斗在联邦法院突然偏离轨道"
-    },
-    {
-      "title": "As Trump and Xi meet, families of Americans detained in China hope for help",
-      "link": "https://www.nbcnews.com/world/asia/trump-xi-meet-families-americans-detained-china-hope-help-rcna599140",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普和习近平会面，被拘留在中国的美国人家属希望得到帮助"
-    },
-    {
-      "title": "Rare September Nor’easter set to slam East Coast with heavy rain, damaging winds",
-      "link": "https://www.nbcnews.com/weather/storms/rare-september-noreaster-set-to-slam-east-coast-rcna599592",
-      "summary": "",
-      "published": "",
-      "title_zh": "罕见的九月东北复活节将用大雨和破坏性大风袭击东海岸"
-    },
-    {
-      "title": "As measles surges in Pennsylvania, doctors warn about a new condition affecting babies",
-      "link": "https://www.nbcnews.com/health/health-news/congenital-measles-pennsylvania-outbreak-grows-babies-infected-rcna599431",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着宾夕法尼亚州麻疹激增，医生警告称，一种影响婴儿的新疾病"
-    },
-    {
-      "title": "California Supreme Court orders GOP sheriff to return 650,000 seized ballots",
-      "link": "https://www.nbcnews.com/politics/elections/california-supreme-court-orders-gop-sheriff-return-650000-ballots-rcna599695",
-      "summary": "",
-      "published": "",
-      "title_zh": "加州最高法院命令共和党治安官归还 65 万张被扣押的选票"
-    },
-    {
-      "title": "She went to the hospital for a broken ankle. Why did she end up dead?",
-      "link": "https://www.nbcnews.com/news/us-news/went-hospital-broken-ankle-end-dead-rcna591036",
-      "summary": "",
-      "published": "",
-      "title_zh": "她因脚踝骨折去了医院。她为什么最后死了？"
-    },
-    {
-      "title": "Bond yields surge to fresh two-decade highs but oil prices buffeted by Iran headlines",
-      "link": "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604",
-      "summary": "",
-      "published": "",
-      "title_zh": "债券收益率飙升至二十年来的新高，但油价受到伊朗头条新闻的打击"
-    },
-    {
-      "title": "Stanford apologizes saying AI-altered photo that changed student’s gender and race  violated policy",
-      "link": "https://www.nbcnews.com/news/us-news/stanford-apologizes-saying-ai-altered-pic-changed-students-gender-race-rcna599691",
-      "summary": "",
-      "published": "",
-      "title_zh": "斯坦福大学道歉称人工智能修改的照片改变了学生的性别和种族，违反了政策"
-    },
-    {
-      "title": "FOR SUBSCRIBERSHow corruption is popping up in Republican and Democratic election ads nationwide",
-      "link": "https://www.nbcnews.com/politics/2026-election/corruption-popping-republican-democratic-ads-everywhere-ahead-election-rcna599533",
-      "summary": "",
-      "published": "",
-      "title_zh": "对于订阅者腐败是如何在全国共和党和民主党选举广告中出现的"
-    },
-    {
-      "title": "Here's why Trump's been so keen on Xi's visit",
-      "link": "",
-      "summary": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
-      "published": "",
-      "title_zh": "这就是为什么特朗普如此热衷于习近平的访问",
-      "summary_zh": "唐纳德·特朗普总统几个月来一直在谈论中国国家主席习近平的访问，英国广播公司 (BBC) 的萨拉·史密斯 (Sarah Smith) 探讨了原因。"
-    },
-    {
-      "title": "Watch: UN delegates walk out of Netanyahu speech",
-      "link": "",
-      "summary": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
-      "published": "",
-      "title_zh": "观看：联合国代表在内塔尼亚胡演讲后退场",
-      "summary_zh": "在内塔尼亚胡讲话期间，可以看到以色列代表团欢呼支持。"
-    },
-    {
-      "title": "'It has broken us as a family,' mother of Canadian poison seller victim tells hearing",
-      "link": "",
-      "summary": "Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.",
-      "published": "",
-      "title_zh": "加拿大毒贩受害者的母亲在听证会上表示：“这让我们作为一个家庭破裂了”",
-      "summary_zh": "坦尼娅·惠特克 (Tanya Whitaker) 在谈到儿子塞缪尔 (Samuel) 的死给她的家庭带来的打击之前就崩溃了。"
-    },
-    {
-      "title": "Mark Carney says he has considered possibility of US military action against Canada",
-      "link": "",
-      "summary": "The prime minister described the risk of an action by the country's southern neighbour as remote, but said \"it would be irresponsible\" not to prepare.",
-      "published": "",
-      "title_zh": "马克·卡尼表示，他已考虑美国对加拿大采取军事行动的可能性",
-      "summary_zh": "总理称该国南部邻国采取行动的风险很小，但表示不做好准备“将是不负责任的”。"
-    },
-    {
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "link": "",
-      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-      "published": "",
-      "title_zh": "法官下令后，白宫恢复了特朗普禁止的媒体渠道",
-      "summary_zh": "CNN、Politico 和 MS NOW 在其部分工作人员早些时候被拒绝后获准返回白宫。"
-    },
-    {
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "link": "",
-      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "published": "",
-      "title_zh": "105 岁老人因在德国纳粹战俘营犯罪而接受调查",
-      "summary_zh": "据称，该嫌疑人是 Stalag 326 集中营谋杀案的同谋，该集中营有数万名苏联战俘死亡。"
-    },
-    {
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "link": "",
-      "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "published": "",
-      "title_zh": "说唱歌手麦克莫尔在艾德·希兰事件后宣布“自由巴勒斯坦”巡演",
-      "summary_zh": "他说，下个月在都柏林开始的巡演收益将捐给支持巴勒斯坦人的组织。"
-    },
-    {
-      "title": "How the oil capital of the US welcomed a solar power boom",
-      "link": "",
-      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
-      "published": "",
-      "title_zh": "美国石油之都如何迎来太阳能热潮",
-      "summary_zh": "德克萨斯州现在是美国最大的太阳能发电生产国。"
-    },
-    {
-      "title": "Who are the Houthis and what do they want?",
-      "link": "",
-      "summary": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
-      "published": "",
-      "title_zh": "胡塞武装是谁？他们想要什么？",
-      "summary_zh": "在人们对全球能源市场日益担忧的情况下，也门红海沿岸的快速军事推进使伊朗支持的组织成为人们关注的焦点。"
-    },
-    {
-      "title": "Spain's housing crisis in focus after eviction of 87-year-old woman",
+      "title": "Watch: Spain's housing crisis in focus after eviction of 87-year-old woman",
       "link": "",
       "summary": "The tenant of the flat in the Retiro area of central Madrid, Maricarmen, was unable to pay her rent set after it was increased by an investment firm.",
       "published": "",
-      "title_zh": "87岁老妇被驱逐后西班牙住房危机成为焦点",
+      "title_zh": "观察：87 岁老妇被驱逐后西班牙住房危机成为焦点",
       "summary_zh": "马德里市中心雷蒂罗区公寓的租户马里卡门(Maricarmen)在投资公司提高租金后无法支付租金。"
     },
     {
-      "title": "Protein users squeezed as prices soar",
+      "title": "Small boat migrants crossing English Channel reach 781 in one day, breaking 2026 record",
       "link": "",
-      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
+      "summary": "So far this year 18,565 people have made the Channel crossing, which is 42% lower than the same period in 2025.",
       "published": "",
-      "title_zh": "随着价格飙升，蛋白质用户受到挤压",
-      "summary_zh": "消费者正感受到蛋白质成本上涨的压力。"
+      "title_zh": "穿越英吉利海峡的小船移民单日达781人，打破2026年记录",
+      "summary_zh": "今年到目前为止，已有 18,565 人穿越英吉利海峡，比 2025 年同期减少了 42%。"
     },
     {
-      "title": "Venezuela‘s interim president promises election after Maduro ousted",
+      "title": "FBI investigating claim hackers have stolen details of all its agents",
       "link": "",
-      "summary": "The opposition in Venezuela has slammed her for not setting even a tentative date for elections.",
+      "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
       "published": "",
-      "title_zh": "马杜罗下台后委内瑞拉临时总统承诺选举",
-      "summary_zh": "委内瑞拉反对派批评她甚至没有设定选举的暂定日期。"
+      "title_zh": "FBI 调查声称黑客窃取了其所有特工的详细信息",
+      "summary_zh": "黑客声称他们拥有每个特工的姓名、角色、徽章号码和个人详细信息，包括家庭住址、电话号码和配偶信息。"
     },
     {
-      "title": "Ex-England striker Carroll reveals he was sexually assaulted in 2021",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "link": "",
-      "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "published": "",
-      "title_zh": "前英格兰前锋卡罗尔透露他在 2021 年遭到性侵犯",
-      "summary_zh": "前英格兰前锋安迪·卡罗尔透露，他在 2021 年遭到一名男子性侵犯，随后被判入狱三年。"
+      "title_zh": "埃塞俄比亚军队首次就新战斗发表评论称已击退袭击",
+      "summary_zh": "军方表示，由于人们越来越担心全面内战的爆发，其士兵造成了人员伤亡。"
     },
     {
-      "title": "Activists found guilty of theft of King Charles's lambs",
+      "title": "Israel player sent off for celebration mimicking gun",
       "link": "",
-      "summary": "They believed the King \"would have consented to their rescue\" due to being an \"environmentalist\".",
+      "summary": "Israel's Sayed Abu Farhi is sent off for a goal celebration where he appeared to use the corner flag to mimic shooting a gun in their defeat by Austria.",
       "published": "",
-      "title_zh": "活动人士因盗窃查尔斯国王的羔羊而被判有罪",
-      "summary_zh": "他们相信国王“会同意营救他们”，因为他是“环保主义者”。"
+      "title_zh": "以色列球员模仿枪庆祝被罚下场",
+      "summary_zh": "以色列队的赛义德·阿布·法尔希在庆祝进球时被罚下场，在输给奥地利的比赛中，他似乎用角旗模仿开枪。"
     },
     {
-      "title": "Hundreds attend Jacob Elordi lookalike competition",
-      "link": "",
-      "summary": "The contest, organised by a group from the University of Bristol, included an Australian accent round.",
-      "published": "",
-      "title_zh": "数百人参加雅各布​​·艾洛迪 (Jacob Elordi) 相似比赛",
-      "summary_zh": "该比赛由布里斯托大学的一个小组组织，其中包括澳大利亚口音回合。"
+      "title": "",
+      "link": "https://www.example.com/",
+      "summary": "",
+      "published": ""
     },
     {
-      "title": "Buttler injury halts England as Sri Lanka level series",
-      "link": "",
-      "summary": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
+      "title": "Browse World",
+      "link": "https://www.example.com/world/",
+      "summary": "",
       "published": "",
-      "title_zh": "巴特勒受伤导致英格兰队无法参加斯里兰卡系列赛",
-      "summary_zh": "乔斯·巴特勒的勇敢没有白费，斯里兰卡队在海丁利举行的第二场一日国际比赛中奋力反击，击败了英格兰队，并在椭圆形球场进行了系列赛的决胜局。"
+      "title_zh": "浏览世界"
+    },
+    {
+      "title": "Browse Business",
+      "link": "https://www.example.com/business/",
+      "summary": "",
+      "published": "",
+      "title_zh": "浏览业务"
+    },
+    {
+      "title": "Browse Markets",
+      "link": "https://www.example.com/markets/",
+      "summary": "",
+      "published": "",
+      "title_zh": "浏览市场"
+    },
+    {
+      "title": "Browse Sustainability",
+      "link": "https://www.example.com/sustainability/",
+      "summary": "",
+      "published": "",
+      "title_zh": "浏览可持续发展"
+    },
+    {
+      "title": "Legal",
+      "link": "https://www.example.com/legal/",
+      "summary": "",
+      "published": "",
+      "title_zh": "合法的"
+    },
+    {
+      "title": "Commentary",
+      "link": "https://www.example.com/commentary/",
+      "summary": "",
+      "published": "",
+      "title_zh": "评论"
+    },
+    {
+      "title": "Technology",
+      "link": "https://www.example.com/technology/",
+      "summary": "",
+      "published": "",
+      "title_zh": "技术"
+    },
+    {
+      "title": "Investigations",
+      "link": "https://www.example.com/investigations/",
+      "summary": "",
+      "published": "",
+      "title_zh": "调查"
+    },
+    {
+      "title": "Sports",
+      "link": "https://www.example.com/sports/",
+      "summary": "",
+      "published": "",
+      "title_zh": "运动的"
+    },
+    {
+      "title": "Science",
+      "link": "https://www.example.com/science/",
+      "summary": "",
+      "published": "",
+      "title_zh": "科学"
+    },
+    {
+      "title": "Lifestyle",
+      "link": "https://www.example.com/lifestyle/",
+      "summary": "",
+      "published": "",
+      "title_zh": "生活方式"
+    },
+    {
+      "title": "City Memo",
+      "link": "https://www.example.com/city-memo/",
+      "summary": "",
+      "published": "",
+      "title_zh": "城市备忘录"
+    },
+    {
+      "title": "Graphics",
+      "link": "https://www.example.com/graphics/",
+      "summary": "",
+      "published": "",
+      "title_zh": "图形"
+    },
+    {
+      "title": "Pictures",
+      "link": "https://www.example.com/pictures/",
+      "summary": "",
+      "published": "",
+      "title_zh": "图片"
+    },
+    {
+      "title": "Wider Image",
+      "link": "https://www.example.com/wider-image/",
+      "summary": "",
+      "published": "",
+      "title_zh": "更广阔的视野"
+    },
+    {
+      "title": "Podcasts",
+      "link": "https://www.example.com/podcasts/",
+      "summary": "",
+      "published": "",
+      "title_zh": "播客"
+    },
+    {
+      "title": "Live",
+      "link": "https://www.example.com/live/",
+      "summary": "",
+      "published": "",
+      "title_zh": "居住"
+    },
+    {
+      "title": "Fact Check",
+      "link": "https://www.example.com/fact-check/",
+      "summary": "",
+      "published": "",
+      "title_zh": "事实核查"
+    },
+    {
+      "title": "Video",
+      "link": "https://www.example.com/video/",
+      "summary": "",
+      "published": "",
+      "title_zh": "视频"
+    },
+    {
+      "title": "Iran's president invokes supreme leader's killing, makes new appeal in exclusive Bret Baier interview",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗总统援引最高领袖被杀事件，在布雷特·拜尔独家采访中发出新呼吁"
+    },
+    {
+      "title": "Trump's surprising menu for state dinner with Xi is missing this key American staple",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普与习近平的国宴菜单令人惊讶，却缺少了这一重要的美国主食"
+    },
+    {
+      "title": "DNA pulled from Thomas Jefferson’s hair delivers new evidence in centuries-old mystery",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "从托马斯·杰斐逊头发中提取的 DNA 为数百年之谜提供了新证据"
+    },
+    {
+      "title": "Roseanne Barr calls former co-star Michael Fishman a 'brainwashed bigot'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "罗珊娜·巴尔 (Roseanne Barr) 称前联合主演迈克尔·菲什曼 (Michael Fishman) 是“被洗脑的偏执狂”"
+    },
+    {
+      "title": "Expert warns of investment 'chill' as America's northern neighbor pivots on trade",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家警告称，随着美国北方邻国转向贸易，投资将“降温”"
+    },
+    {
+      "title": "AI could 'go Terminator,' GOP senator warns as he revives kill switch push",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党参议员在重启“杀戮开关”推动时警告称，人工智能可能“成为终结者”"
+    },
+    {
+      "title": "Crowd outside UN demands Iran's president be arrested while he plays victim inside",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "联合国外人群要求逮捕伊朗总统，而他在联合国内却扮演受害者"
+    },
+    {
+      "title": "Ella Langley stuns fans as boa constrictor coils around her in viral video",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "艾拉·兰利 (Ella Langley) 在视频中被大蟒蛇盘绕，令粉丝震惊"
+    },
+    {
+      "title": "Unearthed clip exposes heated clash between El-Sayed and former GOP rival",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "出土的剪辑揭露了埃尔赛义德和前共和党竞争对手之间的激烈冲突"
+    },
+    {
+      "title": "Tennessee death row inmate seeks all-female execution squad",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "田纳西州死囚寻求全女性行刑队"
+    },
+    {
+      "title": "Superintendent candidate booted from council meeting for defending girls sports",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "总监候选人因捍卫女童运动而被议会会议开除"
+    },
+    {
+      "title": "Lawmaker told angel families there were 'other things' to do besides listening",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "立法者告诉天使家庭，除了倾听之外，还有“其他事情”要做"
+    },
+    {
+      "title": "Florida coach's wild response to being favored has SEC fans buzzing with respect",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达州教练对受到青睐的疯狂反应让 SEC 球迷充满敬意"
+    },
+    {
+      "title": "ESPN may let its most valuable NFL broadcaster leave the company after the Super Bowl",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "ESPN 可能会让其最有价值的 NFL 转播商在超级碗结束后离开公司"
+    },
+    {
+      "title": "How cutting the $2T federal deficit could lower costs for US families",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "削减 2T 美元联邦赤字如何降低美国家庭的成本"
+    },
+    {
+      "title": "Error leads to backlog of tens of thousands of voter registration applications in Texas",
+      "link": "https://www.nbcnews.com/politics/2026-election/error-backlog-tens-thousands-voter-registration-applications-texas-rcna599665",
+      "summary": "",
+      "published": "",
+      "title_zh": "错误导致德克萨斯州数以万计的选民登记申请积压"
+    },
+    {
+      "title": "Jim Copenhaver, man shot in Trump assassination attempt, dies 2 years later",
+      "link": "https://www.nbcnews.com/news/us-news/jim-copenhaver-man-shot-trump-assassination-attempt-dies-2-years-later-rcna599687",
+      "summary": "",
+      "published": "",
+      "title_zh": "刺杀特朗普时被枪杀的吉姆·科本哈弗 (Jim Copenhaver) 两年后去世"
     }
   ]
 }
