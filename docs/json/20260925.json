@@ -1,6 +1,6 @@
 {
   "date": "20260925",
-  "total": 35,
+  "total": 38,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,260 +37,281 @@
   },
   "entries": [
     {
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "link": "",
-      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "published": "",
-      "title_zh": "教皇警告人工智能机器不要“失去人性”",
-      "summary_zh": "教皇周五在法国之行的第一天发出了这一警告。"
-    },
-    {
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "link": "",
-      "summary": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "published": "",
-      "title_zh": "2024 年巴特勒特朗普竞选集会上遭枪击的男子死亡",
-      "summary_zh": "一名枪手向吉姆·科本哈弗开了两枪，同时还杀死了另一名男子，并用子弹擦伤了特朗普的耳朵。"
-    },
-    {
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "link": "",
-      "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-      "published": "",
-      "title_zh": "Jay-Z 强奸指控者称她的指控是错误的",
-      "summary_zh": "一名在 13 岁时指控 Jay-Z 强奸她的女子现在表示，她从未见过这位说唱巨星。"
-    },
-    {
-      "title": "From Nagaland in India to a path to the Oscars",
-      "link": "",
-      "summary": "After a major win at Toronto, the film Angh, which is in a tribal language unfamiliar to most Indians, is getting Oscars buzz.",
-      "published": "",
-      "title_zh": "从印度那加兰邦到奥斯卡之路",
-      "summary_zh": "在多伦多获得重大胜利后，以大多数印度人不熟悉的部落语言拍摄的电影《Angh》在奥斯卡奖上引起了轰动。"
-    },
-    {
-      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-      "link": "",
-      "summary": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
-      "published": "",
-      "title_zh": "盛况和祝酒：特朗普和习近平在华盛顿的第二天",
-      "summary_zh": "习近平十年来首次访问华盛顿，场面盛大，特朗普向他的客人提供了两个月的休战期，以结束正在酝酿的关税战。"
-    },
-    {
-      "title": "Weekly quiz: How quickly did this six-year-old girl solve a Rubik's Cube?",
-      "link": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-      "published": "",
-      "title_zh": "每周测验：这个六岁女孩解开魔方的速度有多快？",
-      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
-    },
-    {
-      "title": "What to expect from Andy Burnham's first Labour conference as PM",
-      "link": "",
-      "summary": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
-      "published": "",
-      "title_zh": "安迪·伯纳姆 (Andy Burnham) 作为首相召开的首次工党会议有何期待",
-      "summary_zh": "安迪·伯纳姆 (Andy Burnham) 从场外走上主舞台，面临着为国家实现令人信服的愿景的压力。"
-    },
-    {
-      "title": "Indian tribal-language film could take rarely seen world to Oscars",
-      "link": "",
-      "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "published": "",
-      "title_zh": "印度部落语言电影可能会为罕见的世界带来奥斯卡奖",
-      "summary_zh": "来自印度东北部的电影《安》在多伦多获得重大胜利后，现在正踏上奥斯卡之路。"
-    },
-    {
-      "title": "FA could have prevented our son's death, say parents of striker Billy Vigar",
-      "link": "",
-      "summary": "Billy Vigar's parents say the Football Association could have prevented their son's death.",
-      "published": "",
-      "title_zh": "前锋比利·维加尔的父母表示，英足总本可以阻止我们儿子的死亡",
-      "summary_zh": "比利·维加尔的父母表示，足球协会本可以阻止他们儿子的死亡。"
-    },
-    {
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "link": "",
-      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "published": "",
-      "title_zh": "非洲首富资助埃塞俄比亚和吉布提之间 6.6 亿美元的燃料管道",
-      "summary_zh": "该管道将​​加强内陆埃塞俄比亚的能源安全，同时为吉布提港口创造就业机会。"
-    },
-    {
-      "title": "Families failed by decision to bail sex offender to flat near playground, says UK victims commissioner",
-      "link": "",
-      "summary": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
-      "published": "",
-      "title_zh": "英国受害者专员表示，家庭未能将性犯罪者保释到操场附近的公寓",
-      "summary_zh": "扎弗·多安 (Zafer Dogan) 的受害者就住在这位 32 岁的男子附近，他从卧室的窗户拍摄了数千张操场上孩子们的照片。"
-    },
-    {
-      "title": "Trump saves symbolic gesture for Xi’s final stop before Chinese leader departs US",
+      "title": "Tehran issues chilling missile warning as Iranian VP reveals alarming new ambition",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普为习近平在中国领导人离开美国前的最后一站保留了象征性的姿态"
+      "title_zh": "伊朗副总统透露令人震惊的新野心，德黑兰发出令人不寒而栗的导弹警告"
     },
     {
-      "title": "Huge number of noncitizens found on voter rolls as senator explodes on 'honor system'",
+      "title": "NJ lieutenant gov resigns after investigation substantiates sexual harassment",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "参议员对“荣誉制度”大发雷霆，选民名册上发现大量非公民"
+      "title_zh": "新泽西州副州长在调查证实性骚扰后辞职"
     },
     {
-      "title": "Hackers took home a stolen Flock camera — and what they found was massive",
+      "title": "Trump admin to unleash tech tool fixing headache Americans have dealt with for decades",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "黑客带回了一台被盗的 Flock 相机——他们发现了巨大的东西"
+      "title_zh": "特朗普政府将推出科技工具解决美国人几十年来一直面临的难题"
     },
     {
-      "title": "Weight-loss drugs show unexpected connection to cancer, researchers say",
+      "title": "Breakfast chain franchisee files for bankruptcy as costs soar and sales collapse",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "研究人员称，减肥药与癌症有着意想不到的联系"
+      "title_zh": "早餐连锁加盟商因成本飙升和销售下滑​​而申请破产"
     },
     {
-      "title": "EXCLUSIVE:Iran’s president gives unexpected answer on nuclear bomb question",
+      "title": "Nearly $100K a year and students aren't buying it, Syracuse learns hard way",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "独家：伊朗总统就核弹问题给出出人意料的答案"
+      "title_zh": "每年近 10 万美元，学生却不买账，雪城大学学得很辛苦"
     },
     {
-      "title": "New initiative warns dozens of socialist proposals are quietly advancing in Congress",
+      "title": "Xi praises US state visit 'perfection' as Trump calls meetings 'very productive'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新倡议警告数十项社会主义提案正在国会悄然推进"
+      "title_zh": "习近平称赞美国国事访问“完美”，特朗普称会议“非常富有成效”"
     },
     {
-      "title": "‘American Idol’ alum’s mistress forced to read their 100,000 private texts in court",
+      "title": "Police make bizarre discovery in sweltering frat basement during alleged hazing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《美国偶像》演员的情妇被迫在法庭上阅读他们的10万条私人短信"
+      "title_zh": "警方在涉嫌欺凌期间在闷热的兄弟会地下室发现了奇怪的发现"
     },
     {
-      "title": "Golfer fires back at backlash against Sydney Sweeney, calls it 'absolutely nothing'",
+      "title": "Doctor killed in home invasion after suspect was released without bail",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "高尔夫球手回击对西德尼·斯威尼的强烈反对，称其“绝对没有”"
+      "title_zh": "嫌疑人未经保释获释后医生入室盗窃身亡"
     },
     {
-      "title": "City looks to become first to regulate AI companies — and introduce a 'kill switch'",
+      "title": "Raid conducted at store with international ties as police probe Ole Miss student deaths",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伦敦金融城希望成为第一个监管人工智能公司的国家，并引入“终止开关”"
+      "title_zh": "警方调查密西西比大学学生死亡事件，对有国际关系的商店进行突袭"
     },
     {
-      "title": "Photos show Ole Miss victims, 20 and 18, as police rush toxicology reports for answers",
+      "title": "Multiple states declare emergencies as monster nor'easter bears down",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "照片显示了 20 岁和 18 岁的 Ole Miss 受害者，警方正在紧急寻找毒理学报告以寻求答案"
+      "title_zh": "复活节来临之际，多个州宣布进入紧急状态"
     },
     {
-      "title": "DA warns Golden State Killer's true victim count may never be fully known",
+      "title": "Green Bay crowd turns on its own team and a key player reveals his true feelings",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "地方检察官警告金州杀手的真实受害者人数可能永远无法完全知晓"
+      "title_zh": "绿湾球迷对自己的球队发起攻击，一名关键球员透露了他的真实感受"
     },
     {
-      "title": "NFL fans don't hold back on 81-year-old Al Michaels after another brutal outing",
+      "title": "Anti-Trump brewery that once wished for his death now facing closure",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "81 岁的阿尔·迈克尔斯 (Al Michaels) 遭遇另一场残酷的比赛后，NFL 球迷不再退缩"
+      "title_zh": "曾经希望他死的反特朗普啤酒厂现在面临关闭"
     },
     {
-      "title": "Monster nor'easter intensifies, eyes the Garden State for significant direct hit",
+      "title": "Airport X-ray reveals shocking illegal stash concealed beside passenger's Xbox",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "东北怪物加剧，花园州面临重大直接打击"
+      "title_zh": "机场 X 光检查显示乘客 Xbox 旁边隐藏着令人震惊的非法藏品"
     },
     {
-      "title": "GREG GUTFELD:This is life when you organize it around identity",
+      "title": "Al Green's ouster bid collapses as 47 members dodge a straight up-or-down vote",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "GREG GUTFELD：当你围绕身份来组织生活时，这就是生活"
+      "title_zh": "艾尔·格林 (Al Green) 的罢免计划因 47 名成员回避直接赞成或反对投票而失败"
     },
     {
-      "title": "Massive Viking Age fortune stumbled upon by hobbyist in record-breaking discovery",
+      "title": "The 3,199-mile flight that could change how Americans take to the skies",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "业余爱好者在破纪录的发现中偶然发现了维京时代的巨额财富"
+      "title_zh": "3,199 英里的飞行可能会改变美国人的飞行方式"
     },
     {
-      "title": "Only two senators bothered showing up to the women's hearing and left within an hour",
+      "title": "Supreme Court lets Trump admin move forward with mass voter verification system",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "只有两名参议员愿意出席妇女听证会并在一小时内离开"
+      "title_zh": "最高法院允许特朗普政府推进大规模选民验证系统"
     },
     {
-      "title": "Party switching Dem running to replace DeSantis hit with brutal flashback from Donalds",
+      "title": "Costco got $184M in tariff refunds — here's what it did with the money",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "政党更换民主党竞选以取代德桑蒂斯，唐纳德的残酷闪回击中了德桑蒂斯"
+      "title_zh": "Costco 获得了 1.84 亿美元的关税退款——以下是它如何使用这笔钱"
     },
     {
-      "title": "Packers suffer blowout loss to Falcons as head coach faces hot seat",
+      "title": "SC man turns $515 break spot into $8M payday on rarest Cooper Flagg collectible",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "包装工队惨败给猎鹰队，主教练面临困境"
+      "title_zh": "SC 男子将最稀有的库珀·弗拉格 (Cooper Flagg) 收藏品将 515 美元的突破点变成了 800 万美元的发薪日"
     },
     {
-      "title": "Democrats enjoy biggest lead yet in the race for Congress in NBC News’ polling average",
-      "link": "https://www.nbcnews.com/politics/2026-election/nbc-news-polling-averages-democrats-enjoy-biggest-lead-yet-race-congre-rcna599378",
+      "title": "Ed Sheeran's turbulent tour hits another setback as Gillette concerts are canceled",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NBC新闻的民意调查显示，民主党在国会竞选中取得了迄今为止最大的领先优势"
+      "title_zh": "由于吉列音乐会被取消，艾德·希兰的动荡巡演再次遭遇挫折"
     },
     {
-      "title": "How race and religion could make Appalachia a battleground in Ohio’s governor contest",
-      "link": "https://www.nbcnews.com/politics/2026-election/race-religion-private-jet-make-appalachia-battleground-ohios-battle-go-rcna598573",
+      "title": "TV wife fires back after sitcom dad blames bipolar disorder for bad behavior",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "种族和宗教如何使阿巴拉契亚成为俄亥俄州州长竞选的战场"
+      "title_zh": "情景喜剧爸爸将不良行为归咎于躁郁症后，电视妻子回击"
     },
     {
-      "title": "Bill Gates says AI companies self-regulating isn’t enough and governments should be involved",
-      "link": "https://www.nbcnews.com/politics/politics-news/bill-gates-ai-companies-self-regulating-governments-monitoring-rcna599619",
-      "summary": "",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "link": "",
+      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
       "published": "",
-      "title_zh": "比尔·盖茨表示人工智能公司自我监管还不够，政府应该参与其中"
+      "title_zh": "最高法院允许特朗普使用有争议的数据库来检查选民公民身份",
+      "summary_zh": "批评者质疑这些数据的可靠性，警告称这可能导致美国公民被错误地从选民名单中删除。"
     },
     {
-      "title": "Easy on the gas",
-      "link": "https://www.nbcnews.com/world/asia/trump-china-electric-vehicles-germany-volkswagen-rcna598072",
-      "summary": "",
+      "title": "Thousands turn out to greet Pope in France",
+      "link": "",
+      "summary": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
       "published": "",
-      "title_zh": "轻松省气"
+      "title_zh": "法国数千人前来迎接教皇",
+      "summary_zh": "英国广播公司 (BBC) 的休·斯科菲尔德 (Hugh Schofield) 探讨了此次访问为何受到如此热烈欢迎，教会将其归因于法国人灵性的不断增长。"
     },
     {
-      "title": "Live updates: Trump hosts Xi for final day of state visit",
-      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-white-house-media-ban-un-iran-congress-2026-live-updates-rcna599784",
-      "summary": "",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "link": "",
+      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
       "published": "",
-      "title_zh": "实时更新：特朗普接待习近平进行国事访问的最后一天"
+      "title_zh": "特工的血液和尿液检测结果在 FBI 黑客攻击中被盗",
+      "summary_zh": "专家表示，此次黑客攻击可能会让特工容易遭受诈骗、勒索和有针对性的攻击。"
     },
     {
-      "title": "Trump seeks to impress Xi Jinping and Bill Gates calls for AI oversight: Morning Rundown",
-      "link": "https://www.nbcnews.com/news/us-news/trump-xi-jinping-summit-bill-gates-ai-oversight-morning-rundown-rcna599789",
+      "title": "Man City found guilty of majority of 115 financial rule breaches",
+      "link": "",
+      "summary": "The club, which denies all wrongdoing, was accused of breaching the Premier League's financial rules between 2009 and 2018.",
+      "published": "",
+      "title_zh": "曼城 115 起财务违规事件中的大部分被判有罪",
+      "summary_zh": "该俱乐部否认有任何不当行为，并被指控在2009年至2018年期间违反了英超联赛的财务规则。"
+    },
+    {
+      "title": "Trump's plans for massive arch move ahead",
+      "link": "",
+      "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+      "published": "",
+      "title_zh": "特朗普的大规模拱门计划取得进展",
+      "summary_zh": "反对建造 250 英尺拱门并将其用于军事目的的呼声日益高涨，一名民主党人指责特朗普的计划“鲁莽”。"
+    },
+    {
+      "title": "U2 celebrate 50th anniversary at the school where they formed",
+      "link": "",
+      "summary": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
+      "published": "",
+      "title_zh": "U2 在他们成立的学校庆祝成立 50 周年",
+      "summary_zh": "这支摇滚乐队回到了他们的根源，在他们第一次见面的都柏林游乐场演出。"
+    },
+    {
+      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "link": "",
+      "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
+      "published": "",
+      "title_zh": "法官下令后，被特朗普禁止的媒体恢复白宫报道",
+      "summary_zh": "在法官解除特朗普对三个新闻媒体的禁令后，美国电视对白宫的新闻报道恢复正常。"
+    },
+    {
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "link": "",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "published": "",
+      "title_zh": "X-plane：无人机新时代需要它们吗？",
+      "summary_zh": "美国的 X-plane 项目在廉价无人机时代有何用处？"
+    },
+    {
+      "title": "'Heartbreaking': The man set to lose his home due to the UK's $6.6bn theme park",
+      "link": "",
+      "summary": "Ritchie Wood is almost brought to tears at he looks at the empty homes once loved by his neighbours.",
+      "published": "",
+      "title_zh": "“令人心碎”：英国66亿美元的主题公园将让这名男子失去家园",
+      "summary_zh": "里奇·伍德（Ritchie Wood）看到邻居曾经喜爱的空置房屋时几乎流下了眼泪。"
+    },
+    {
+      "title": "I'm not tempted to call an early election, UK PM says",
+      "link": "",
+      "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+      "published": "",
+      "title_zh": "英国首相表示我无意提前举行大选",
+      "summary_zh": "首相告诉英国广播公司，早期民意调查将使该国陷入“向后看的过程”。"
+    },
+    {
+      "title": "Some BBC channels and radio stations may well have to close, director general says",
+      "link": "",
+      "summary": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+      "published": "",
+      "title_zh": "总干事表示，一些 BBC 频道和广播电台很可能不得不关闭",
+      "summary_zh": "马特·布里廷表示，BBC 的财务状况“很可能意味着”一些频道和电视台将关闭。"
+    },
+    {
+      "title": "Supreme Court allows Trump admin to use expanded database for potential voter purges",
+      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-administration-use-expanded-database-potent-rcna596611",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普试图给习近平留下深刻印象，比尔盖茨呼吁人工智能监督：晨间总结"
+      "title_zh": "最高法院允许特朗普政府使用扩展的数据库进行潜在的选民清洗"
+    },
+    {
+      "title": "Republican candidates distance themselves from Trump",
+      "link": "https://www.nbcnews.com/politics/2026-election/republican-candidates-distance-trump-rcna599690",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党候选人与特朗普保持距离"
+    },
+    {
+      "title": "Nor’easter set to hit East Coast today and continue through weekend",
+      "link": "https://www.nbcnews.com/news/us-news/easter-set-hit-east-coast-friday-continue-weekend-rcna599806",
+      "summary": "",
+      "published": "",
+      "title_zh": "东北复活节将于今天袭击东海岸并持续到周末"
+    },
+    {
+      "title": "Hollywood insiders are ‘rooting’ for Paramount to deliver on its promises after settlement news",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/paramount-pledge-30-movies-hollywood-insiders-skeptical-rcna599751",
+      "summary": "",
+      "published": "",
+      "title_zh": "好莱坞内部人士“支持”派拉蒙在和解消息传出后兑现其承诺"
+    },
+    {
+      "title": "New Jersey lieutenant governor resigns after release of damaging ethics report",
+      "link": "https://www.nbcnews.com/politics/politics-news/new-jersey-lieutenant-governor-resigns-ethics-report-rcna599885",
+      "summary": "",
+      "published": "",
+      "title_zh": "新泽西州副州长在发布破坏性道德报告后辞职"
+    },
+    {
+      "title": "U.S. intelligence inspector general investigating how a CIA officer deceived the top spy agency",
+      "link": "https://www.nbcnews.com/politics/national-security/us-intelligence-inspector-general-investigating-cia-officer-deceived-t-rcna597725",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国情报监察长正在调查中央情报局官员如何欺骗最高间谍机构"
+    },
+    {
+      "title": "Should you bring iced coffee to a job interview? Question brews generational debate",
+      "link": "https://www.nbcnews.com/business/business-news/iced-coffee-job-interview-online-generational-debate-rcna599764",
+      "summary": "",
+      "published": "",
+      "title_zh": "面试时应该带冰咖啡吗？问题引发了一代人的争论"
     }
   ]
 }
