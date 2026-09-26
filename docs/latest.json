@@ -1,6 +1,6 @@
 {
   "date": "20260926",
-  "total": 33,
+  "total": 24,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,246 +37,178 @@
   },
   "entries": [
     {
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "link": "",
-      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-      "published": "",
-      "title_zh": "教宗在巴黎大型露天弥撒中赞扬年轻人的“活力和承诺”",
-      "summary_zh": "大约 70 万人聚集在巴黎市中心，聆听这位天主教领袖的讲话并进行祈祷。"
-    },
-    {
-      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "title": "Tenth woman's body found as South Africa police probe killings",
       "link": "",
       "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
       "published": "",
-      "title_zh": "警方调查杀戮事件时在南非郊区发现第十具女性尸体",
+      "title_zh": "南非警方调查杀戮事件时发现第十具女性尸体",
       "summary_zh": "这些死亡事件引发了全国对该国针对妇女的暴力行为规模的强烈抗议。"
     },
     {
-      "title": "Watch: Prince Harry says it is 'great' to be back in Britain after six years in US",
+      "title": "Young people in China are fangirling over a professor who gets their anxiety",
       "link": "",
-      "summary": "He says his children are “happy in school” and the family returned to the UK for \"lots of reasons\".",
+      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
       "published": "",
-      "title_zh": "观看：哈里王子表示在美国呆了六年后回到英国“很棒”",
-      "summary_zh": "他说他的孩子们“在学校很开心”，全家因为“很多原因”回到了英国。"
+      "title_zh": "中国的年轻人迷恋一位焦虑的教授",
+      "summary_zh": "中国的经济和科技飞速发展，但 Z 世代却有很多担忧。"
     },
     {
-      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
       "link": "",
-      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "summary": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
       "published": "",
-      "title_zh": "爱尔兰共和国将在与以色列的比赛中佩戴黑色臂章",
-      "summary_zh": "爱尔兰共和国球员打算在对阵以色列的比赛中佩戴黑色臂章，“以纪念在[加沙]冲突中丧生的所有人”。"
+      "title_zh": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "summary_zh": "克里斯蒂·斯皮维告诉英国广播公司，现在警方认为塔西娅·福琼的尸体在她死后被放在树上，她只有更多的问题。"
     },
     {
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "link": "",
-      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-      "published": "",
-      "title_zh": "德国小镇禁止为纳粹受害者设立“绊脚石”纪念碑",
-      "summary_zh": "德国教育部长将小型黄铜纪念牌的禁令称为“丑闻”。"
-    },
-    {
-      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "link": "",
       "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
       "published": "",
-      "title_zh": "东北风暴带来沿海洪水 纽约和新泽西宣布进入紧急状态",
+      "title_zh": "纽约和新泽西州宣布紧急状态，东北带来洪水",
       "summary_zh": "从缅因州到弗吉尼亚州，数以千万计的人们正处于这场强大风暴的袭击之中。"
     },
     {
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "title": "Watch: Thousands turn out to see Pope during Lourdes and Paris visit",
       "link": "",
-      "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "summary": "The BBC's religion editor Aleem Maqbool explains what Pope Leo's visit means for France.",
       "published": "",
-      "title_zh": "评论称查理柯克被杀的犹他州校园安全漏洞",
-      "summary_zh": "独立报告还称，柯克的助手坚持让他在户外讲话，不顾校园官员的担忧。"
+      "title_zh": "观看：在卢尔德和巴黎访问期间，数千人前来拜见教皇",
+      "summary_zh": "BBC 宗教编辑阿利姆·马克布尔 (Aleem Maqbool) 解释了教皇利奥的访问对法国意味着什么。"
     },
     {
-      "title": "Met Police to re-examine CCTV from TV presenter Jill Dando murder case",
+      "title": "Heathrow Airport warns third runway could be delayed by four years",
       "link": "",
-      "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
+      "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
       "published": "",
-      "title_zh": "会见警方重新审查电视节目主持人吉尔·丹多谋杀案的闭路电视",
-      "summary_zh": "1999 年犯罪观察节目主持人被枪杀后，警方正在审查普特尼桥车站一名男子的录像。"
+      "title_zh": "希思罗机场警告第三跑道可能推迟四年",
+      "summary_zh": "英国最繁忙的机场警告称，它可能无法实现政府 2035 年的目标，因为部长们表示，这个最后期限“一直雄心勃勃”。"
     },
     {
-      "title": "Joshua fight at risk over promoter row, says Fury",
-      "link": "",
-      "summary": "Tyson Fury says his long-awaited all-British heavyweight fight against Anthony Joshua in December is in jeopardy.",
-      "published": "",
-      "title_zh": "弗瑞表示，约书亚因发起人之争而面临风险",
-      "summary_zh": "泰森·富里表示，他期待已久的 12 月与安东尼·约书亚的全英重量级比赛正面临危险。"
-    },
-    {
-      "title": "White House bars CNN from travelling with Trump on Air Force One",
-      "link": "",
-      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
-      "published": "",
-      "title_zh": "白宫禁止 CNN 随特朗普乘坐空军一号",
-      "summary_zh": "美国有线电视新闻网 (CNN) 原定于周六与美国总统唐纳德·特朗普 (Donald Trump) 一起飞往田纳西州。"
-    },
-    {
-      "title": "Man City chairman confident club will prove innocence",
-      "link": "",
-      "summary": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules.",
-      "published": "",
-      "title_zh": "曼城主席相信俱乐部将证明自己是清白的",
-      "summary_zh": "曼城主席穆巴拉克表示，在俱乐部被判违反英超财务规则后，他仍然有信心证明俱乐部的清白。"
-    },
-    {
-      "title": "Major signs of nor’easter take shape as roads flood in New Jersey, inundating some homes",
-      "link": "https://www.nbcnews.com/weather/storms/norester-storm-flooding-rcna599961",
-      "summary": "",
-      "published": "",
-      "title_zh": "新泽西州道路洪水泛滥，一些房屋被淹没，东北复活节的主要迹象已经形成"
-    },
-    {
-      "title": "White House blocks CNN from covering Trump’s Tennessee trip",
-      "link": "https://www.nbcnews.com/politics/white-house/white-house-blocks-cnn-covering-trumps-tennessee-trip-rcna599944",
-      "summary": "",
-      "published": "",
-      "title_zh": "白宫阻止 CNN 报道特朗普的田纳西州之行"
-    },
-    {
-      "title": "Carrot Top released from hospital after suicide attempt, rep says",
-      "link": "https://www.nbcnews.com/news/us-news/carrot-top-released-hospital-following-suicide-attempt-rcna599979",
-      "summary": "",
-      "published": "",
-      "title_zh": "代表称，胡萝卜托普因自杀未遂而出院"
-    },
-    {
-      "title": "Trump hails Mideast leader as ‘fantastic’ as nation makes urgent plea to US",
+      "title": "Iran president races home as Trump torpedoes high-stakes deal to reopen Hormuz",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普称赞中东领导人“太棒了”，国家向美国发出紧急请求"
+      "title_zh": "Iran president races home as Trump torpedoes high-stakes deal to reopen Hormuz"
     },
     {
-      "title": "Neyland Stadium erupts in cheers as Trump arrives for Tennessee-Texas showdown",
+      "title": "Beijing responds after Trump reveals exchange involving China’s Xi",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "当特朗普抵达田纳西州与德克萨斯州的对决时，尼兰体育场爆发出欢呼声"
+      "title_zh": "特朗普透露与中国习近平的交流后，北京做出回应"
     },
     {
-      "title": "Mammoth high school football star tosses defender like a ragdoll in violent display",
+      "title": "MLB legend leaves mound in tears after daughter surprises him during final career start",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "猛犸高中橄榄球明星像布娃娃一样暴力地抛掷后卫"
+      "title_zh": "美国职业棒球大联盟（MLB）传奇人物在职业生涯最后一次开始时，女儿给了他一个惊喜，让观众热泪盈眶"
     },
     {
-      "title": "Activist's 'evil Jews' comment could torpedo House Dem's campaign after endorsement",
+      "title": "Monster nor'easter turns deadly as worst impacts still incoming for millions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "活动人士的“邪恶犹太人”评论可能会在支持后破坏众议院民主党的竞选活动"
+      "title_zh": "东北怪物变得致命，数百万人仍面临最严重的影响"
     },
     {
-      "title": "Powerful nor'easter sends floodwaters surging as power outages climb",
+      "title": "Couple mauled in horrifying bear attack before pet dog dies saving them",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着停电情况的加剧，强大的东北风导致洪水汹涌"
+      "title_zh": "一对夫妇在可怕的熊袭击中受伤，宠物狗救了他们而死"
     },
     {
-      "title": "Gronk calls Chargers 'biggest mess in the NFL' and the reasons why are brutal",
+      "title": "Shaun Cassidy exposes the dark truth behind his shocking exit from fame",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "格隆克称闪电队是“NFL中最大的混乱”，原因很残酷"
+      "title_zh": "肖恩·卡西迪揭露了他令人震惊的退出名声背后的黑暗真相"
     },
     {
-      "title": "Kate Upton and Justin Verlander close out long run as MLB's first couple",
+      "title": "Maren Morris sizzles in string bikini during soul-searching Bali getaway",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯特·厄普顿和贾斯汀·维兰德最终成为美国职业棒球大联盟第一对情侣"
+      "title_zh": "马伦·莫里斯 (Maren Morris) 在巴厘岛度假时身着系带比基尼进行灵魂反省"
     },
     {
-      "title": "Sylvester Stallone says he buried the darkest chapters of his childhood for years",
+      "title": "Trump says new fuel standards will save American families thousands on cars",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "西尔维斯特·史泰龙说他多年来埋葬了童年最黑暗的章节"
+      "title_zh": "特朗普表示新的燃油标准将为美国家庭节省数千美元的汽车费用"
     },
     {
-      "title": "Veteran doctor says there are 'angels among us' — and explains why he truly believes it",
+      "title": "Lauren Sánchez Bezos' White House look sparks 'have some dignity' backlash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "资深医生说“我们中间有天使”——并解释了为什么他坚信这一点"
+      "title_zh": "劳伦·桑切斯·贝佐斯的白宫造型引发“有尊严”的强烈反对"
     },
     {
-      "title": "Senator Cruz warns anti-AI wave is a 'deliberate, organized' influence push",
+      "title": "Europe warned it could face devastating reality if conflict erupts without US help",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "参议员克鲁兹警告说，反人工智能浪潮是一场“蓄意、有组织”的影响力推动"
+      "title_zh": "Europe warned it could face devastating reality if conflict erupts without US help"
     },
     {
-      "title": "Trump says '25,000 people died' last month alone in the Russia-Ukraine war",
+      "title": "Trump reveals shocking scale of war carnage as he pushes leaders toward a deal",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普称仅上个月就有“25,000人在俄罗斯-乌克兰战争中死亡”"
+      "title_zh": "特朗普在推动领导人达成协议时揭示了令人震惊的战争屠杀规模"
     },
     {
-      "title": "Tony Blair warns Europe 'we don't win' against Russia without US support",
+      "title": "Bill Maher takes aim at viral far-left meltdown over lesbian bar’s relaxed mask policy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "托尼·布莱尔警告说，如果没有美国的支持，欧洲“不会赢”俄罗斯"
+      "title_zh": "比尔·马赫（Bill Maher）针对女同性恋酒吧放松口罩政策引发的极左翼崩溃"
     },
     {
-      "title": "Grocery staples are vanishing from shelves and shoppers say 'this is devastating'",
+      "title": "Pope Leo XIV greeted by 800,000 for historic open-air Mass in Paris",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杂货主食正在从货架上消失，购物者表示“这是毁灭性的”"
+      "title_zh": "教皇利奥十四世在巴黎举行历史性露天弥撒，受到 80 万人的欢迎"
     },
     {
-      "title": "County hosting Mar-a-Lago freezes new data centers amid White House 'poverty' warning",
+      "title": "Record-tying performance cements Ohio State wideout as nation's best",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在白宫发出“贫困”警告之际，海湖庄园所在县冻结了新数据中心"
+      "title_zh": "Record-tying performance cements Ohio State wideout as nation's best"
     },
     {
-      "title": "Divers uncover haunting stone structures hidden for centuries beneath North Sea",
+      "title": "Arch Manning interview with ESPN reporter raises eyebrows after AI slapping controversy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "潜水员发现了隐藏在北海下几个世纪的令人难以忘怀的石头结构"
+      "title_zh": "Arch Manning interview with ESPN reporter raises eyebrows after AI slapping controversy"
     },
     {
-      "title": "Scientists reveal surprisingly easy exercise that may boost your mood in just 10 minutes",
+      "title": "Costco warehouse members might be leaving hundreds on the table and don't even know it",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "科学家揭示了一种令人惊讶的简单运动，只需 10 分钟即可改善你的情绪"
+      "title_zh": "Costco 仓库会员可能会在桌子上留下数百个物品，但他们甚至不知道"
     },
     {
-      "title": "Oxford mayor says kratom is 'rolling the dice on death' in urgent warning",
-      "link": "",
+      "title": "Ben Johnson has been lauded as an offensive genius. Can he win without a No. 1 pick at QB?",
+      "link": "https://www.nbcnews.com/sports/nfl/bears-ben-johnson-case-keenum-caleb-williams-injury-nfl-rcna599670",
       "summary": "",
       "published": "",
-      "title_zh": "牛津市长紧急警告称卡痛叶正在“赌死亡”"
+      "title_zh": "本·约翰逊被誉为进攻天才。如果没有四分卫第一顺位，他能获胜吗？"
     },
     {
-      "title": "Man recounts being chased by black bear in his backyard",
-      "link": "",
+      "title": "Hurricane Nolo expected to unleash powerful winds and flash flooding on Hawaii",
+      "link": "https://www.nbcnews.com/weather/hurricanes/hurricane-nolo-rcna599984",
       "summary": "",
       "published": "",
-      "title_zh": "男子讲述在后院被黑熊追赶的经历"
-    },
-    {
-      "title": "'Mike & Molly' star reveals the health crisis behind 170-pound weight loss",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "《迈克和莫莉》明星揭示减重 170 磅背后的健康危机"
+      "title_zh": "Hurricane Nolo expected to unleash powerful winds and flash flooding on Hawaii"
     }
   ]
 }
