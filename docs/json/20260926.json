@@ -1,6 +1,6 @@
 {
   "date": "20260926",
-  "total": 30,
+  "total": 29,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,230 +37,217 @@
   },
   "entries": [
     {
-      "title": "Trump rejects Iran ceasefire as report reveals when US bombing could resume",
+      "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+      "link": "",
+      "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
+      "published": "",
+      "title_zh": "前英超俱乐部高管警告曼城法律斗争可能会失控",
+      "summary_zh": "克里斯蒂安·珀斯洛发表此番言论之前，曼城被判犯有英超联赛提出的数十项财务规则指控。"
+    },
+    {
+      "title": "Prince Harry says it is 'great' to be back in Britain after six years in US",
+      "link": "",
+      "summary": "The Duke of Sussex also added that Prince Archie and Princess Lilibet are “happy in school” after returning to the UK a month ago.",
+      "published": "",
+      "title_zh": "哈里王子表示在美国呆了六年后回到英国“很棒”",
+      "summary_zh": "苏塞克斯公爵还补充说，阿奇王子和莉莉贝特公主一个月前返回英国后“在学校很开心”。"
+    },
+    {
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "link": "",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "published": "",
+      "title_zh": "英国国民在雅典卫城附近的建筑爆炸中丧生，其中六人死亡",
+      "summary_zh": "官员称，四名美国人和一名希腊国民在疑似瓦斯爆炸中丧生。"
+    },
+    {
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "link": "",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "published": "",
+      "title_zh": "FBI 黑客事件内部：特工们在“危险”数据泄露后感到恐惧和愤怒",
+      "summary_zh": "现任和前任特工向 BBC 讲述了联邦调查局黑客攻击的破坏性影响。"
+    },
+    {
+      "title": "Your child has left home. Here's why it's time to stop checking up on them",
+      "link": "",
+      "summary": "Parents say social media groups and tracking apps are feeding their anxiety about children who have recently gone to uni.",
+      "published": "",
+      "title_zh": "您的孩子已经离家出走了。这就是为什么是时候停止检查它们了",
+      "summary_zh": "家长们表示，社交媒体团体和追踪应用程序加剧了他们对最近上大学的孩子的焦虑。"
+    },
+    {
+      "title": "The computer hacker who tried to take down Man City",
+      "link": "",
+      "summary": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
+      "published": "",
+      "title_zh": "试图摧毁曼城的电脑黑客",
+      "summary_zh": "BBC 体育频道前往葡萄牙，了解有关引发曼城调查的计算机黑客鲁伊·平托 (Rui Pinto) 的更多信息。"
+    },
+    {
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+      "link": "",
+      "summary": "There are fears that the conflict between Tigray People's Liberation Front and the national army could spread beyond the border.",
+      "published": "",
+      "title_zh": "提格雷的新战斗如何引发埃塞俄比亚更广泛的冲突",
+      "summary_zh": "人们担心提格雷人民解放阵线与国民军之间的冲突可能会蔓延到境外。"
+    },
+    {
+      "title": "Two men jailed for 2022 murder of Argentine rugby player",
+      "link": "",
+      "summary": "Loik Le Priol, 32, a former soldier who fired the fatal shots, was sentenced to 26 years in jail.",
+      "published": "",
+      "title_zh": "两名男子因 2022 年谋杀阿根廷橄榄球运动员而被判入狱",
+      "summary_zh": "32 岁的卢伊克·勒普里奥尔 (Loik Le Priol) 曾是一名士兵，开枪致命，被判处 26 年监禁。"
+    },
+    {
+      "title": "Memorial unveiled at British school where boys were experimented on with contaminated blood",
+      "link": "",
+      "summary": "During the 1970s and 1980s pupils received medical treatments using contaminated blood products.",
+      "published": "",
+      "title_zh": "纪念馆在英国学校揭幕，男孩们在那里接受了受污染的血液实验",
+      "summary_zh": "在 20 世纪 70 年代和 80 年代，学生接受了使用受污染的血液制品的治疗。"
+    },
+    {
+      "title": "Nations League: McBurnie starts for Scotland as Pocognoli era kicks off in Slovenia - watch",
+      "link": "",
+      "summary": "Watch, listen and follow as Sebastien Pocognoli takes charge of Scotland in their Nations League opener against Slovenia.",
+      "published": "",
+      "title_zh": "国家联赛：麦克伯尼为苏格兰首发，波科尼奥利时代在斯洛文尼亚拉开序幕 - 观看",
+      "summary_zh": "观看、聆听并关注塞巴斯蒂安·波科尼奥利 (Sebastien Pocognoli) 带领苏格兰队在国联揭幕战中对阵斯洛文尼亚队。"
+    },
+    {
+      "title": "82-year-old's 'outrageous' fight against the gov't could have long-lasting ramifications",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普拒绝伊朗停火，因为报告显示美国何时可以恢复轰炸"
+      "title_zh": "82岁老人与政府的“无耻”斗争可能会产生长期影响"
     },
     {
-      "title": "Popular pantry staple may help improve memory and focus, new research suggests",
+      "title": "Mideast nation issues stark warning after thwarting attacks from Iran-backed terror group",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新研究表明，流行的食品储藏室主食可能有助于提高记忆力和注意力"
+      "title_zh": "中东国家在挫败伊朗支持的恐怖组织袭击后发出严厉警告"
     },
     {
-      "title": "WNBA coach quadruples-down on backing males in women's sports after Cunningham spat",
+      "title": "Princess Diana's brother reveals secret suitor and startling royal family claims in book",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "坎宁安发生口角后，WNBA教练加大力度支持男性参加女子运动"
+      "title_zh": "戴安娜王妃的弟弟在书中揭露了秘密追求者和令人震惊的王室主张"
     },
     {
-      "title": "Attorney fires back after comedian makes comment on healthcare CEO murder",
+      "title": "Wave of 'left-wing' lawsuits could come with an unexpected price tag for Americans",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "喜剧演员对医疗保健首席执行官谋杀案发表评论后，律师予以回击"
+      "title_zh": "“左翼”诉讼浪潮可能会给美国人带来意想不到的代价"
     },
     {
-      "title": "OpenAI drops alarming disclosure about what AI agents did with users’ photos",
+      "title": "Heavy rain, vicious winds slam Northeast as millions brace for worst flooding since Sandy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "OpenAI 放弃了有关人工智能代理如何处理用户照片的令人震惊的披露"
+      "title_zh": "大雨和狂风袭击东北部，数百万人准备迎接桑迪以来最严重的洪水"
     },
     {
-      "title": "Millions face travel chaos as powerful storm barrels toward East Coast",
+      "title": "'What was that?': Hannity reacts to Harris' flower analogy for algorithms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "强大的风暴袭击东海岸，数百万人面临旅行混乱"
+      "title_zh": "“那是什么？”：汉尼蒂对哈里斯算法的花类比做出反应"
     },
     {
-      "title": "America's rare earth challenge could get a quantum computing solution",
+      "title": "Frat hazing survivor says 'code of silence' protects dangerous campus culture",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国的稀土挑战可能会得到量子计算解决方案"
+      "title_zh": "兄弟会欺凌幸存者表示“沉默守则”保护危险的校园文化"
     },
     {
-      "title": "St. Paul mayor accused of calling herself a 'MILF' and harassing her police chief",
+      "title": "Lover may have handed prosecutors missing ‘why’ in ‘American Idol’ murder case: expert",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "圣保罗市长被指控称自己为“熟女”并骚扰警察局长"
+      "title_zh": "专家：情人可能向检察官提供了“美国偶像”谋杀案中遗漏的“原因”"
     },
     {
-      "title": "'GUTFELD!':Sunny sounds like she is guilty",
+      "title": "Bootless and bleeding, California climber crawled through the night to survive",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“GUTFELD！”：Sunny 听起来好像她有罪"
+      "title_zh": "加州登山者赤身裸体、血流不止，彻夜爬行求生"
     },
     {
-      "title": "Reigning champion Indiana Hoosiers survive major scare in Big Ten opener",
+      "title": "SEAN HANNITY:Top Democrats are rushing to Mamdani's defense",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卫冕冠军印第安纳印第安纳州印第安纳州队在十大联赛揭幕战中幸存下来"
+      "title_zh": "肖恩·汉尼蒂：民主党高层正忙着为马姆达尼辩护"
     },
     {
-      "title": "Doctor reveals '10-year rule' for evaluating brain fog and dementia symptoms",
+      "title": "What's behind Gen Z's dating recession? Young singles don't hold back",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "医生揭示评估脑雾和痴呆症状的“10年规则”"
+      "title_zh": "Z世代约会衰退背后的原因是什么？年轻单身人士不要退缩"
     },
     {
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "title": "PRESIDENT PAZ:From $51M to $1.2B in reserves, Bolivia's economic turnaround raises eyebrows",
       "link": "",
-      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "published": "",
-      "title_zh": "伊朗向美国提出七天内重新开放霍尔木兹海峡的协议",
-      "summary_zh": "当被问及伊朗的提议时，一名美国官员告诉英国广播公司，“建设性讨论”正在通过调解人进行。"
-    },
-    {
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "link": "",
-      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "published": "",
-      "title_zh": "警方称，黑人妇女被发现吊在树上，在尸体被“摆上舞台”之前就已死亡",
-      "summary_zh": "八月，塔西娅·福琼的尸体被发现挂在杰克逊一处废弃房屋的树上。"
-    },
-    {
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "link": "",
-      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "published": "",
-      "title_zh": "这个热带岛屿上珍贵的“永恒的雪”即将永远消失",
-      "summary_zh": "气候变化正在改变巴布亚的雪峰，这些雪峰具有科学价值和精神意义。"
-    },
-    {
-      "title": "Manchester City found guilty of majority of 115 financial rule breaches",
-      "link": "",
-      "summary": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
-      "published": "",
-      "title_zh": "曼城被判犯有 115 项财务违规行为中的大部分罪名",
-      "summary_zh": "该俱乐部否认有任何不当行为，并被指控在 2009 年至 2018 年间违反了英超联赛的财务规则。"
-    },
-    {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "link": "",
-      "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-      "published": "",
-      "title_zh": "巴西总统卢拉在总统选举前禁止在线赌博",
-      "summary_zh": "卢拉目前正在与弗拉维奥·博尔索纳罗进行激烈的总统竞选，他表示该行业是他必须“消除”的“癌症”。"
-    },
-    {
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "link": "",
-      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "published": "",
-      "title_zh": "新任驻美国大使告诉BBC，南非白人种族灭绝并不存在",
-      "summary_zh": "罗尔夫·迈耶（Roelf Meyer）告诉英国广播公司（BBC），作为白人南非荷兰人使他有理由挑战特朗普关于种族灭绝的说法。"
-    },
-    {
-      "title": "Watch: Karaoke and butterflies - US cities celebrate Dolly Parton Day",
-      "link": "",
-      "summary": "The day is observed on 25 September, or 9/25, as a nod to the late Queen of Country's hit song 9 to 5.",
-      "published": "",
-      "title_zh": "观看：卡拉 OK 和蝴蝶 - 美国城市庆祝多莉帕顿日",
-      "summary_zh": "这一天是 9 月 25 日，即 9/25，以纪念已故乡村女王的热门歌曲 9 to 5。"
-    },
-    {
-      "title": "How the bare nails trend became a class issue",
-      "link": "",
-      "summary": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
-      "published": "",
-      "title_zh": "裸指甲趋势如何成为阶级问题",
-      "summary_zh": "裸指甲——或者裸指甲——是一种日益增长的趋势。但事情真的像看上去那么无辜吗？"
-    },
-    {
-      "title": "'It's a brutal adjustment': How to cope when your child goes to uni",
-      "link": "",
-      "summary": "This new stage of parenthood is emotional - but learning how to let go can help you cope.",
-      "published": "",
-      "title_zh": "“这是一个残酷的调整”：当你的孩子上大学时如何应对",
-      "summary_zh": "为人父母的这个新阶段是情绪化的——但学习如何放手可以帮助你应对。"
-    },
-    {
-      "title": "Could an iced coffee freeze you out of the job market?",
-      "link": "",
-      "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
-      "published": "",
-      "title_zh": "一杯冰咖啡会让你退出就业市场吗？",
-      "summary_zh": "员工和招聘人员参与了有关面试礼仪的在线辩论。"
-    },
-    {
-      "title": "Are Ethiopians marching back to war in Tigray?",
-      "link": "",
-      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "published": "",
-      "title_zh": "埃塞俄比亚人会重返提格雷战争吗？",
-      "summary_zh": "探讨蒂格雷人阵与国家军队之间紧张局势升级背后的问题。"
-    },
-    {
-      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-      "link": "",
-      "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
-      "published": "",
-      "title_zh": "深入了解标志性恐怖游戏《寂静岭》的苏格兰改造",
-      "summary_zh": "游戏界最大的恐怖系列之一来到了英国。能不辜负原著吗？"
-    },
-    {
-      "title": "Watch: Smoke rises from burning Greek cargo ship near Mykonos",
-      "link": "",
-      "summary": "All 29 people aboard the ship were safely evacuated using lifeboats, the Hellenic Coastguard said.",
-      "published": "",
-      "title_zh": "观看：米科诺斯岛附近燃烧的希腊货船冒出浓烟",
-      "summary_zh": "希腊海岸警卫队表示，船上 29 名人员均已使用救生艇安全撤离。"
-    },
-    {
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "link": "",
-      "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "published": "",
-      "title_zh": "埃塞俄比亚提格雷地区爆发战斗后互联网受到限制",
-      "summary_zh": "提格雷两年内战期间，该地区与外界完全隔绝。"
-    },
-    {
-      "title": "Students strike across Germany in protest against military service",
-      "link": "",
-      "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "published": "",
-      "title_zh": "德国学生罢课抗议服兵役",
-      "summary_zh": "一项规定志愿兵役的法律于一月份生效，但抗议组织者担心义务兵役制可能会随之而来。"
-    },
-    {
-      "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-      "link": "",
-      "summary": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings.",
-      "published": "",
-      "title_zh": "艾德·希兰的下一场美国演唱会因风暴警告而取消",
-      "summary_zh": "由于恶劣天气警告，这位明星周五和周六在马萨诸塞州的音乐会被取消。"
-    },
-    {
-      "title": "Hurricane Nolo to bring heavy rain as it skirts Hawaii’s Big Island",
-      "link": "https://www.nbcnews.com/news/us-news/hurricane-nolo-expected-bring-heavy-rain-skirts-hawaiis-big-island-rcna599924",
       "summary": "",
       "published": "",
-      "title_zh": "飓风诺洛将在夏威夷大岛周围带来大雨"
+      "title_zh": "帕斯总统：储备金从 5100 万美元增加到 1.2B 美元，玻利维亚的经济好转令人瞩目"
     },
     {
-      "title": "Gas, mortgage rates and inflation send Americans’ view of the economy to near record lows",
-      "link": "https://www.nbcnews.com/business/economy/consumer-sentiment-low-inflation-gas-rcna599890",
+      "title": "Hall of Famer Brian Urlacher says Kaepernick's kneeling was his 'line in the sand'",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "天然气、抵押贷款利率和通货膨胀使美国人对经济的看法接近历史低点"
+      "title_zh": "名人堂成员布莱恩·厄拉彻表示卡佩尼克的跪下是他的“底线”"
     },
     {
-      "title": "Lawmakers slam Trump’s ‘unlawful’ move to cut $810 million in federal funds",
-      "link": "https://www.nbcnews.com/politics/congress/lawmakers-slam-trumps-unlawful-move-cut-810-million-federal-funds-rcna599942",
+      "title": "Europe frets as the Kremlin pushes the limits of its hybrid warfare",
+      "link": "https://www.nbcnews.com/world/europe/europe-frets-kremlin-pushes-limits-hybrid-warfare-rcna599351",
       "summary": "",
       "published": "",
-      "title_zh": "立法者猛烈抨击特朗普削减8.1亿美元联邦资金的“非法”举动"
+      "title_zh": "克里姆林宫突破混合战争的极限，欧洲感到不安"
+    },
+    {
+      "title": "OpenAI’s powerful safety committee faces scrutiny after rogue agent incidents",
+      "link": "https://www.nbcnews.com/tech/security/openai-safety-committee-security-rogue-agent-incidents-ai-rcna599278",
+      "summary": "",
+      "published": "",
+      "title_zh": "OpenAI 强大的安全委员会在流氓代理事件后面临审查"
+    },
+    {
+      "title": "Some lawmakers doubt a Congress that’s ‘barely capable of email’ can regulate AI",
+      "link": "https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824",
+      "summary": "",
+      "published": "",
+      "title_zh": "一些立法者怀疑“几乎没有电子邮件能力”的国会能否监管人工智能"
+    },
+    {
+      "title": "A federal agency is allegedly hacked, and an Olympic gymnast’s home is burglarized: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/white-house-media-ban-rcna599668",
+      "summary": "",
+      "published": "",
+      "title_zh": "据称，一个联邦机构遭到黑客攻击，一名奥林匹克体操运动员的家被入室盗窃：新闻测验"
+    },
+    {
+      "title": "The complicated bargain between ‘looksmaxxing’ influencer Clavicular and the women in his orbit",
+      "link": "https://www.nbcnews.com/news/us-news/complex-bargain-clavicular-women-orbit-rcna599366",
+      "summary": "",
+      "published": "",
+      "title_zh": "“looksmaxxing”影响者锁骨和他周围的女性之间复杂的讨价还价"
+    },
+    {
+      "title": "Iran says choice on reopening Hormuz ‘rests with the United States’ after deal offer",
+      "link": "https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗表示，在达成协议后，重新开放霍尔木兹海峡的选择“取决于美国”"
     }
   ]
 }
