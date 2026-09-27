@@ -1,6 +1,6 @@
 {
   "date": "20260927",
-  "total": 39,
+  "total": 32,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,291 +37,239 @@
   },
   "entries": [
     {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "",
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "title": "Iran ‘fully prepared’ for war to resume but diplomacy not over yet, foreign minister says",
+      "link": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
+      "summary": "",
       "published": "",
-      "title_zh": "南非发生两起大规模枪击事件 已造成27人死亡",
-      "summary_zh": "这两起袭击事件相隔数小时，正值该国努力制止大量与帮派有关的武装暴力事件。"
+      "title_zh": "伊朗外长表示，伊朗“已做好充分准备”，以应对战争重启，但外交尚未结束"
     },
     {
-      "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
+      "title": "Deadly nor’easter leaves thousands without power as high tides threaten coast",
+      "link": "https://www.nbcnews.com/weather/storms/noreaster-flooding-death-toll-rcna600078",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于涨潮威胁海岸，致命的东北风暴导致数千人断电"
+    },
+    {
+      "title": "Nor’easter unearths fragments of 19th-century shipwreck on Nantucket",
+      "link": "https://www.nbcnews.com/news/us-news/noreaster-19th-century-shipwreck-warren-sawyer-rcna600073",
+      "summary": "",
+      "published": "",
+      "title_zh": "Nor’easter 在楠塔基特岛发现了 19 世纪沉船残片"
+    },
+    {
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
+      "link": "",
+      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+      "published": "",
+      "title_zh": "喜马拉雅登山队遭遇雪崩后发现两具尸体",
+      "summary_zh": "救援人员正在寻找至少 10 名准备带领登山者登上 Himlung Himal 峰的尼泊尔人。"
+    },
+    {
+      "title": "No handshakes between Republic of Ireland and Israel",
+      "link": "",
+      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary.",
+      "published": "",
+      "title_zh": "爱尔兰共和国和以色列之间没有握手",
+      "summary_zh": "周日在匈牙利举行的备受争议的欧洲国家联赛之前，爱尔兰共和国和以色列球员没有互相握手。"
+    },
+    {
+      "title": "What we know about RAF Fairford counter-terror probe",
+      "link": "",
+      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+      "published": "",
+      "title_zh": "我们对英国皇家空军费尔福德反恐调查的了解",
+      "summary_zh": "反恐警察正在对空军基地附近的一起重大事件进行调查，五名男子被捕。"
+    },
+    {
+      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
       "link": "",
       "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
       "published": "",
-      "title_zh": "杀手克里斯塔·派克将在几天内被处决，但她的辩护律师称她也是受害者",
+      "title_zh": "杀手克里斯塔·派克将在几天内被处决 - 但她的辩护律师称她也是受害者",
       "summary_zh": "1995年杀害一名同学的派克的律师表示，如果今天发生这起案件，她应该获得宽大处理，不会被判处死刑。"
     },
     {
-      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "title": "'Gaming pays me double what I earned as a teacher'",
       "link": "",
-      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "summary": "Jarvs Tasker from Exeter, UK, says it would have taken her 20 years as a teacher to make what she earns now.",
       "published": "",
-      "title_zh": "教宗访问卢尔德期间表示，必须根除虐待的“祸害”",
-      "summary_zh": "教皇利奥在主持一场由法国数千名信徒参加的仪式之前与主教们发表了讲话。"
+      "title_zh": "“游戏给我的报酬是我当老师的两倍”",
+      "summary_zh": "来自英国埃克塞特的贾维斯·塔斯克 (Jarvs Tasker) 表示，如果她当了 20 年教师才能赚到现在的收入。"
     },
     {
-      "title": "Contentious Northern Ireland march at standstill as demonstrators block road",
+      "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
       "link": "",
-      "summary": "The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead after a series of courtroom challenges.",
+      "summary": "The dispute over the controversial parade is a reminder that the peace process is not over.",
       "published": "",
-      "title_zh": "由于示威者封锁道路，有争议的北爱尔兰游行陷入停滞",
-      "summary_zh": "这次游行在 20 世纪 90 年代引发了北爱尔兰历史上最严重的骚乱，在经历了一系列法庭挑战后，这次游行将继续进行。"
+      "title_zh": "橙色秩序游行是北爱尔兰持续分裂的核心",
+      "summary_zh": "围绕这次有争议的游行的争议提醒人们，和平进程尚未结束。"
     },
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "title": "Ten NHS staff removed over data breach of three-year-old boy's medical records",
       "link": "",
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "summary": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
       "published": "",
-      "title_zh": "特朗普拒绝霍尔木兹协议后，伊朗部长表示只有谈判才能结束冲突",
-      "summary_zh": "外交部长表示，尽管美国总统发表了评论，但德黑兰正在等待协议被正式拒绝。"
+      "title_zh": "十名 NHS 工作人员因三岁男孩医疗记录数据泄露而被解雇",
+      "summary_zh": "东萨福克和北埃塞克斯 NHS 基金会信托表示已启动“紧急”调查。"
     },
     {
-      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "title": "Child's hidden letter found after 44 years",
       "link": "",
-      "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+      "summary": "Michelle Harwood had not been born when the letter was written and did not expect to find the writer.",
       "published": "",
-      "title_zh": "喜马拉雅山大本营遭遇雪崩 十名登山者失踪",
-      "summary_zh": "尼泊尔登山队正准备带领海外登山者登上希姆隆喜马尔峰。"
+      "title_zh": "44年后发现孩子的隐藏信件",
+      "summary_zh": "写这封信时，米歇尔·哈伍德尚未出生，并没有想到会找到写信人。"
     },
     {
-      "title": "China's new youth idol isn't a pop star - he's an academic",
+      "title": "'Broken social care will in the end break the NHS,' says UK PM",
       "link": "",
-      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+      "summary": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
       "published": "",
-      "title_zh": "中国的新青年偶像不是流行歌星，而是一位学者",
-      "summary_zh": "中国的经济和科技飞速发展，但 Z 世代却有很多担忧。"
+      "title_zh": "英国首相表示，“社会关怀的崩溃最终将导致国民医疗服务体系的崩溃”",
+      "summary_zh": "安迪·伯纳姆表示，拟议的护理服务将得到详细规划，并在下次大选时进行投票。"
     },
     {
-      "title": "England embrace the chaos - but control also needed to win big prizes",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
       "link": "",
-      "summary": "England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.",
+      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
       "published": "",
-      "title_zh": "英格兰拥抱混乱 - 但也需要控制才能赢得大奖",
-      "summary_zh": "首席足球作家菲尔·麦克纳尔蒂表示，英格兰拥抱混乱，但出色的西班牙表明他们永远不会赢得大奖。"
+      "title_zh": "东北风暴袭击纽约和新泽西州造成一人死亡",
+      "summary_zh": "从缅因州到弗吉尼亚州，数以千万计的人们发现自己处于强大的天气系统的影响之下。"
     },
     {
-      "title": "UK PM Burnham refuses to back third runway at Heathrow",
+      "title": "MLB: Arizona Diamondbacks meet San Diego Padres on last day of regular season",
       "link": "",
-      "summary": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
+      "summary": "The Arizona Diamondbacks take on the San Diego Padres on the final day of the MLB regular season.",
       "published": "",
-      "title_zh": "英国首相伯纳姆拒绝支持希思罗机场第三跑道",
-      "summary_zh": "安迪·伯纳姆 (Andy Burnham) 表示，他将等待一项估计耗资 330 亿英镑的计划的咨询结果"
+      "title_zh": "MLB：亚利桑那响尾蛇队在常规赛最后一天迎战圣地亚哥教士队",
+      "summary_zh": "亚利桑那响尾蛇队在美国职业棒球大联盟常规赛的最后一天迎战圣地亚哥教士队。"
     },
     {
-      "title": "Horner a distraction for Ferrari says Vasseur",
-      "link": "",
-      "summary": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
-      "published": "",
-      "title_zh": "瓦瑟尔表示霍纳会分散法拉利的注意力",
-      "summary_zh": "车队领队弗雷德里克·瓦塞尔表示，克里斯蒂安·霍纳“找工作”让法拉利分心。"
-    },
-    {
-      "title": "Man City? I feel cheated - when do Stoke City get our FA Cup?",
-      "link": "",
-      "summary": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
-      "published": "",
-      "title_zh": "曼城？我感觉自己被骗了——斯托克城什么时候能拿到足总杯冠军？",
-      "summary_zh": "BBC 体育专栏作家托尼·普利斯解释了曼城队面临的 115 项指控中的大部分罪名成立后，他和所有斯托克城球迷的想法。"
-    },
-    {
-      "title": "WSL: Man Utd double lead v West Ham, Birmingham and Liverpool ahead",
-      "link": "",
-      "summary": "Follow and listen to action from five games in the Women's Super League including Chelsea against Arsenal at 16:30 BST.",
-      "published": "",
-      "title_zh": "WSL：曼联双领先西汉姆联，伯明翰和利物浦领先",
-      "summary_zh": "关注并收听女子超级联赛的五场比赛，其中包括英国夏令时 16:30 切尔西对阵阿森纳的比赛。"
-    },
-    {
-      "title": "Four men down - but Australia still beat South Africa",
-      "link": "",
-      "summary": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-      "published": "",
-      "title_zh": "四人落后 - 但澳大利亚仍然击败南非",
-      "summary_zh": "澳大利亚队的参赛人数减少到了 11 人，但他们在珀斯以 42-38 击败了世界冠军队，力争以 42-38 击败南非队，取得一场精彩的胜利。"
-    },
-    {
-      "title": "White casts doubt on Fury-Joshua after 24 hours of chaos",
-      "link": "",
-      "summary": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
-      "published": "",
-      "title_zh": "24小时混乱后怀特对富里-约书亚产生怀疑",
-      "summary_zh": "在达纳·怀特表示他不知道是否会发生之后，拟议中的泰森·富里与安东尼·约书亚的比赛出现了新的不确定性。"
-    },
-    {
-      "title": "Bomb squad searching vans near U.S. air base in Britain after five men arrested",
-      "link": "https://www.nbcnews.com/world/united-kingdom/men-arrested-suspicion-explosives-offences-us-air-base-britain-rcna600052",
-      "summary": "",
-      "published": "",
-      "title_zh": "五名男子被捕后，拆弹小组在英国美国空军基地附近搜查货车"
-    },
-    {
-      "title": "In a mysterious reversal, Earth’s atmosphere has gotten less dusty",
-      "link": "https://www.nbcnews.com/science/environment/atmosphere-less-dust-climate-change-rcna598584",
-      "summary": "",
-      "published": "",
-      "title_zh": "在一个神秘的逆转中，地球大气层的灰尘减少了"
-    },
-    {
-      "title": "How an American teacher’s $5,000 donation helped turn a Chinese desert into a lush forest",
-      "link": "https://www.nbcnews.com/world/china/american-teachers-5000-donation-helped-turn-chinese-desert-lush-green-rcna598074",
-      "summary": "",
-      "published": "",
-      "title_zh": "一位美国教师的5000美元捐款如何帮助中国的沙漠变成茂密的森林"
-    },
-    {
-      "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations",
-      "link": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
-      "summary": "",
-      "published": "",
-      "title_zh": "比尔·盖茨表示，让各国就人工智能法规达成一致将比冷战时期的核谈判更困难"
-    },
-    {
-      "title": "Promises unkept: Senior living home bankruptcies rob families of their life savings",
-      "link": "https://www.nbcnews.com/news/us-news/promises-unkept-senior-living-home-bankruptcies-rob-families-life-savi-rcna590148",
-      "summary": "",
-      "published": "",
-      "title_zh": "未兑现的承诺：高级住宅破产夺走了家庭的毕生积蓄"
-    },
-    {
-      "title": "Ke Huy Quan on his remarkable journey from child actor to Oscar winner",
-      "link": "https://www.nbcnews.com/video/ke-huy-quan-on-his-remarkable-journey-from-child-actor-to-oscar-winner-270554693989",
-      "summary": "",
-      "published": "",
-      "title_zh": "关辉 (Ke Huy Quan) 讲述他从童星到奥斯卡奖得主的非凡历程"
-    },
-    {
-      "title": "Swiss voters set to reject tighter neutrality rules that would curb NATO cooperation",
-      "link": "https://www.nbcnews.com/world/europe/swiss-voters-set-reject-tighter-neutrality-rules-curb-nato-cooperation-rcna600058",
-      "summary": "",
-      "published": "",
-      "title_zh": "瑞士选民将拒绝接受会限制北约合作的更严格的中立规则"
-    },
-    {
-      "title": "4 Americans killed after devastating explosion rocks popular tourist destination",
+      "title": "Movie star takes a chainsaw to Hollywood’s playbook after studio nightmare",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "热门旅游胜地发生毁灭性爆炸，造成 4 名美国人死亡"
+      "title_zh": "在工作室噩梦之后，电影明星对好莱坞的剧本进行了电锯改造"
     },
     {
-      "title": "Man doxxed after exposing town's Islamic surge has defiant response for angry mob",
+      "title": "Half the storefronts empty and Somalis living in enclaves, one Minnesota town tells all",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "男子在揭露城镇伊斯兰激增后被人肉搜索，对愤怒的暴徒做出挑衅回应"
+      "title_zh": "明尼苏达州的一个小镇告诉我们，一半的店面空无一人，索马里人住在飞地里"
     },
     {
-      "title": "Octogenarian who had three abortions says feminism 'failed' and blinded her",
+      "title": "AIM, a weed stash and one audition too many ended a famous kid's acting days",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "经历过三次堕胎的八旬老人说女权主义“失败”并蒙蔽了她的双眼"
+      "title_zh": "AIM、杂草藏匿和一次太多的试镜结束了一位著名孩子的演艺生涯"
     },
     {
-      "title": "Trump 'holds all the cards' as midterm miscalculation looms, top official insists",
+      "title": "USC linebacker suspended after 'disgusting' hit on Oregon star QB Dante Moore",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "高级官员坚称，中期误判迫在眉睫，特朗普“掌握所有牌”"
+      "title_zh": "南加州大学线卫因“恶心”的撞击俄勒冈球星四分卫丹特·摩尔而被停赛"
     },
     {
-      "title": "Suspects nabbed 2 miles from US airbase used for Iran war operations",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "嫌疑人在距离用于伊朗战争行动的美国空军基地 2 英里处被捕"
-    },
-    {
-      "title": "Handwritten plea tucked into a uniform pocket still moves historians to tears",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "塞在制服口袋里的手写恳求仍然让历史学家感动落泪"
-    },
-    {
-      "title": "Urgent search underway for missing swimmer as nor'easter hammers coast",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着东北风锤击海岸，正在紧急寻找失踪的游泳者"
-    },
-    {
-      "title": "College president reveals the skill artificial intelligence can't replace",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大学校长透露人工智能无法取代的技能"
-    },
-    {
-      "title": "Finland's F-35s just touched down and its chief says Moscow won't dare test them",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "芬兰的F-35刚刚着陆，其负责人表示莫斯科不敢测试它们"
-    },
-    {
-      "title": "What lies beneath the Arctic ice could shatter America's China dependence",
+      "title": "What lies beneath Arctic ice could shatter America's China dependence",
       "link": "",
       "summary": "",
       "published": "",
       "title_zh": "北极冰层下面的东西可能会打破美国对中国的依赖"
     },
     {
-      "title": "Elderly Florida man makes candid admission after cop pulls him over",
+      "title": "Brain expert reveals when forgetfulness could be a warning sign — and when it's not",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "佛罗里达州老人在警察拦下后坦白承认"
+      "title_zh": "大脑专家揭示健忘什么时候可能是一个警告信号，什么时候不是"
     },
     {
-      "title": "A boy ended our championship dream. I won't stop fighting for girls now",
+      "title": "Probe underway as 7 flight attendants sickened by baffling odor on major airline",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一个男孩终结了我们的冠军梦。我现在不会停止为女孩而战"
+      "title_zh": "大型航空公司7名空乘人员因难闻气味而感到恶心，调查正在进行中"
     },
     {
-      "title": "Dietitian reveals the surprising amount of a popular food linked to heart health",
+      "title": "Trump’s new twist on AI draws unexpected response from China",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "营养师揭示了一种与心脏健康有关的流行食物的惊人含量"
+      "title_zh": "特朗普对人工智能的新转变引起了中国的意外反应"
     },
     {
-      "title": "Indiana coach drops wild quote about 'Pearl Harbor' after his team's awful start",
+      "title": "Deadly nor'easter floods coast as dangerous winds rip through Northeast",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "印第安纳州教练在球队糟糕的开局后放弃了对“珍珠港”的疯狂引用"
+      "title_zh": "危险的大风席卷东北部，造成致命的东北洪水袭击海岸"
     },
     {
-      "title": "Suspected wife killer’s stunning move leaves veteran lawyer in uncharted territory",
+      "title": "Iran signals willingness to accept nuclear limits in US talks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杀妻嫌疑人的惊人举动让资深律师陷入未知领域"
+      "title_zh": "伊朗在美国谈判中表示愿意接受核限制"
     },
     {
-      "title": "Texas' huge win in front of President Trump overshadowed by reaction to viral celebrations",
+      "title": "CEO SUNDAY:Golden Corral's chief reveals the one habit he'll 'never break' after 41 years",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "德克萨斯州在特朗普总统面前的巨大胜利被人们对病毒式庆祝活动的反应所掩盖"
+      "title_zh": "周日：Golden Corral 首席执行官透露了他 41 年后“永远不会改掉”的一个习惯"
     },
     {
-      "title": "George Santos blasts Kamala Harris as 'absolutely incoherent' after viral moment",
+      "title": "Fetterman accidentally calls himself a 'lifelong Republican,' then predicts the clip",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔治·桑托斯在病毒式传播后抨击卡玛拉·哈里斯“完全语无伦次”"
+      "title_zh": "费特曼不小心称自己为“终身共和党人”，然后预测了剪辑"
     },
     {
-      "title": "Country singer posts jaw-dropping looks on social media during paradise getaway",
+      "title": "'Knots Landing' hunk Ted Shackelford, now 80, spotted during rare Los Angeles outing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村歌手在天堂度假期间在社交媒体上发布了令人瞠目结舌的表情"
+      "title_zh": "现年 80 岁的“Knots Landing”帅哥泰德·沙克尔福德 (Ted Shackelford) 在罕见的洛杉矶郊游中被发现"
+    },
+    {
+      "title": "WATCH:Elderly delivery driver goes viral after hauling heavy suitcases up stairs",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看：老年送货司机拖着沉重的行李箱上楼后走红"
+    },
+    {
+      "title": "PA senator names the red line that would send him walking out of his caucus for good",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "宾夕法尼亚州参议员指定了一条红线，这将使他永远退出党团会议"
+    },
+    {
+      "title": "NFL gives star linebacker ultimatum over eye-black message",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "NFL就黑眼圈信息向明星线卫发出最后通牒"
+    },
+    {
+      "title": "GOP lawmakers crushed two separate transgender vetoes and the governor won't budge",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党议员否决了两项不同的变性人否决案，州长不会让步"
+    },
+    {
+      "title": "AI agents infiltrated US government sites in tens of thousands of breaches",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "人工智能代理渗透美国政府网站数万起违规事件"
     }
   ]
 }
