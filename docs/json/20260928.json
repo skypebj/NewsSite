@@ -1,6 +1,6 @@
 {
   "date": "20260928",
-  "total": 28,
+  "total": 43,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,207 +37,320 @@
   },
   "entries": [
     {
-      "title": "U.S. Marines injured in recent Iranian attack",
-      "link": "https://www.nbcnews.com/politics/national-security/us-marines-injured-recent-iranian-attack-rcna600097",
+      "title": "Terror suspects arrested near British air base used by U.S. released on bail",
+      "link": "https://www.nbcnews.com/world/united-kingdom/farmers-tip-may-led-5-arrests-uk-air-base-used-us-rcna600195",
       "summary": "",
       "published": "",
-      "title_zh": "美国海军陆战队士兵在最近的伊朗袭击中受伤"
+      "title_zh": "在美国使用的英国空军基地附近被捕的恐怖嫌疑人已获保释"
     },
     {
-      "title": "‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish",
-      "link": "https://www.nbcnews.com/weather/hurricanes/storm-fatigue-hawaiians-reeling-back-back-hurricanes-nolos-threats-dim-rcna600149",
+      "title": "FBI co-Deputy Director Andrew Bailey steps down after one year on the job",
+      "link": "https://www.nbcnews.com/politics/justice-department/andrew-bailey-joined-fbi-co-deputy-position-leave-bureau-rcna600270",
       "summary": "",
       "published": "",
-      "title_zh": "“风暴疲劳”：随着诺洛的威胁减弱，夏威夷人在连续的飓风中感到震惊"
+      "title_zh": "FBI 联席副局长安德鲁·贝利 (Andrew Bailey) 在任职一年后辞职"
     },
     {
-      "title": "An endangered wild cat faces a new threat: SpaceX’s expansion in Texas",
-      "link": "https://www.nbcnews.com/news/us-news/endangered-ocelots-spacex-starbase-expansion-texas-rcna599272",
+      "title": "Right-wing conservatives push to shut down the last active Jan. 6 prosecution",
+      "link": "https://www.nbcnews.com/politics/justice-department/right-wing-conservatives-push-shut-last-active-jan-6-prosecution-rcna597038",
       "summary": "",
       "published": "",
-      "title_zh": "濒临灭绝的野猫面临新的威胁：SpaceX 在德克萨斯州的扩张"
+      "title_zh": "右翼保守派推动终止 1 月 6 日最后一次活跃的起诉"
     },
     {
-      "title": "The focus was on a Brazilian field — until a historic NFL finish stole the spotlight",
-      "link": "https://www.nbcnews.com/sports/nfl/nfl-dallas-cowboys-baltimore-ravens-result-brazil-rcna600153",
+      "title": "Massive algae bloom exposes fragility of Israel’s advanced water system",
+      "link": "https://www.nbcnews.com/world/israel/israel-massive-algae-bloom-fragility-water-system-desalination-gaza-rcna591320",
       "summary": "",
       "published": "",
-      "title_zh": "人们的焦点一直集中在巴西球场上——直到一场历史性的 NFL 比赛抢走了人们的注意力"
+      "title_zh": "大量藻类大量繁殖暴露了以色列先进水系统的脆弱性"
     },
     {
-      "title": "The NFL’s record-setting road team looked primed for another win. Then came a major upset.",
-      "link": "https://www.nbcnews.com/sports/nfl/nfl-seattle-seahawks-washington-commanders-result-sam-darnold-rcna600100",
+      "title": "SpaceX’s supersized Starship launches into orbit for the first time but flight ends early",
+      "link": "https://www.nbcnews.com/science/space/spacex-starship-rocket-launches-orbit-first-time-rcna600222",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 创纪录的客场球队看起来已经准备好再次获胜。然后是一个重大的不安。"
+      "title_zh": "SpaceX 超大型星际飞船首次进入轨道但飞行提前结束"
     },
     {
-      "title": "Madonna’s big night, Taylor Swift’s record and a Dolly Parton tribute at MTV VMAs",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/mtv-vmas-2026-highlights-dolly-parton-tribute-taylor-swift-new-music-rcna599886",
+      "title": "Table for who? AI bots are making — and breaking — restaurant reservations",
+      "link": "https://www.nbcnews.com/tech/tech-news/trying-get-restaurant-reservation-get-ready-compete-ai-agents-rcna599738",
       "summary": "",
       "published": "",
-      "title_zh": "麦当娜的盛大之夜、泰勒·斯威夫特的唱片以及 MTV VMA 向多莉·帕顿致敬"
+      "title_zh": "桌子给谁吃？人工智能机器人正在预订和取消餐厅预订"
     },
     {
-      "title": "Benjamin Satterley, globetrotting wrestler known as Pac, dies at 40",
-      "link": "https://www.nbcnews.com/sports/wrestling/benjamin-satterley-globetrotting-wrestler-pac-dies-at-40-rcna600165",
+      "title": "OpenAI pauses training of latest models after agents searched government sites in unexpected ways",
+      "link": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
       "summary": "",
       "published": "",
-      "title_zh": "环球摔跤手本杰明·萨特利 (Benjamin Satterley) 去世，享年 40 岁"
+      "title_zh": "在特工以意想不到的方式搜索政府网站后，OpenAI 暂停了最新模型的训练"
     },
     {
-      "title": "White House releases new taxpayer-funded ad describing ‘final battle’",
-      "link": "https://www.nbcnews.com/politics/trump-administration/white-house-releases-new-taxpayer-funded-ad-describing-final-battle-rcna600171",
+      "title": "The dozen games that turned Week 3 into one of the wildest in NFL history",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-week-3-scores-highlights-12-one-score-games-set-history-wild-sunda-rcna600182",
       "summary": "",
       "published": "",
-      "title_zh": "白宫发布由纳税人资助的新广告，描述“最后的战斗”"
+      "title_zh": "这十几场比赛让第三周成为 NFL 历史上最疯狂的比赛之一"
     },
     {
-      "title": "Bo Nix and Talanoa Hufanga lead the Broncos past the Rams 30-26 in a Sunday night thriller",
-      "link": "https://www.nbcnews.com/sports/nfl/denver-broncos-los-angeles-rams-result-nfl-bo-nix-rcna600173",
-      "summary": "",
-      "published": "",
-      "title_zh": "博·尼克斯 (Bo Nix) 和塔拉诺阿·胡方加 (Talanoa Hufanga) 带领野马队在周日晚上的惊悚比赛中以 30-26 击败公羊队"
-    },
-    {
-      "title": "Protesters disperse after blocking contentious Orange Order parade",
+      "title": "NASCAR winner jumped, attacked and beaten in front of hot dog stand after race",
       "link": "",
-      "summary": "Northern Ireland Secretary Sir Chris Bryant urged both sides of the dispute to \"double down on compromise\".",
+      "summary": "",
       "published": "",
-      "title_zh": "抗议者在阻止有争议的橙色勋章游行后散去",
-      "summary_zh": "北爱尔兰大臣克里斯·布莱恩特爵士敦促争端双方“加倍妥协”。"
+      "title_zh": "纳斯卡冠军赛后在热狗摊前跳跃、攻击和殴打"
     },
     {
-      "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+      "title": "5 terror suspects released on bail after arrest over alleged plot targeting US air base",
       "link": "",
-      "summary": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+      "summary": "",
       "published": "",
-      "title_zh": "Taylor Swift 和 Charli XCX 等明星点亮 VMA 红毯",
-      "summary_zh": "在洛杉矶举行的 2026 年 MTV 音乐录影带颁奖典礼之前，名人们在镜头前摆好姿势。"
+      "title_zh": "5名恐怖嫌疑人因涉嫌策划袭击美国空军基地而被捕后获保释"
     },
     {
-      "title": "Why some Indian civil servants become heroes for doing their jobs",
+      "title": "Walz takes one last shot at Trump in exit interview that sparks lawmaker backlash",
       "link": "",
-      "summary": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+      "summary": "",
       "published": "",
-      "title_zh": "为什么一些印度公务员因尽职而成为英雄",
-      "summary_zh": "在一个经常充满繁文缛节和令人疲惫不堪的延误的系统中，被认为遵守规则的官员会受到称赞。"
+      "title_zh": "沃尔兹在退出采访中向特朗普发出最后一枪，引发立法者强烈反对"
     },
     {
-      "title": "'I take my pillow everywhere': An expert's guide to finding your perfect match",
+      "title": "Dem nominee told megachurch congregation to repent for eating beef, driving cars",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党候选人告诉大型教会会众要为吃牛肉、开车而悔改"
+    },
+    {
+      "title": "The Greenland deal's most powerful weapon against China has no runway",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "格陵兰协议对付中国最有力武器没有跑道"
+    },
+    {
+      "title": "SpaceX Starship goes up in flames during splashdown after historic flight cut short",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "历史性飞行中断后，SpaceX 星际飞船在溅落过程中起火"
+    },
+    {
+      "title": "Who could run to succeed Trump in 2028? Vance isn't the only name being floated",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "谁能在 2028 年竞选继任特朗普？万斯并不是唯一一个被提及的名字"
+    },
+    {
+      "title": "Actor says controversial regimen helps him feel better at 53 than in his 30s",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "演员表示备受争议的养生法让他 53 岁时感觉比 30 多岁时感觉更好"
+    },
+    {
+      "title": "EXCLUSIVE:Lawyer reveals what convinced Clancy holdout to stand against fellow jurors",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "独家：律师透露是什么说服了克兰西坚持反对其他陪审员"
+    },
+    {
+      "title": "AOC paints grim picture of AI-powered future: ‘What the elite want…’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "AOC 描绘了人工智能驱动的未来的严峻前景：“精英想要什么……”"
+    },
+    {
+      "title": "MARTHA MACCALLUM:From my first day to today, Fox News changed my life",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "玛莎·麦卡勒姆：从我第一天到今天，福克斯新闻改变了我的生活"
+    },
+    {
+      "title": "Iowa to land $15B 'mega-steel' facility that could reshape American manufacturing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "爱荷华州将斥资 15B 美元建设“巨型钢铁”设施，有望重塑美国制造业"
+    },
+    {
+      "title": "WATCH:'American Idol' alum tells cops about flag encounter before wife was fatally shot",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看：《美国偶像》演员向警察讲述妻子被枪杀前遇到旗帜的情况"
+    },
+    {
+      "title": "Mayor Wu's taxpayer program trains immigrants in organizing while shutting citizens out",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "吴市长的纳税人计划培训移民组织起来，同时将公民拒之门外"
+    },
+    {
+      "title": "Republicans pony up millions as control of Congress hangs in the balance ahead of midterms",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "中期选举前国会控制权悬而未决，共和党人投入数百万美元"
+    },
+    {
+      "title": "Madonna's VMAs show opening performance called a 'trainwreck' by fans",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "麦当娜的VMA秀开场表演被歌迷称为“火车残骸”"
+    },
+    {
+      "title": "Cheerleaders turn heads in Brazil as Dallas Cowboys suffer crushing defeat",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "达拉斯牛仔队惨败，拉拉队在巴西引人注目"
+    },
+    {
+      "title": "Scheffler goes from consummate pro to arrogant winner during Presidents Cup comeback",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "谢夫勒在总统杯复出期间从完美的职业选手变成了傲慢的冠军"
+    },
+    {
+      "title": "Herbal supplement dubbed ‘gas station heroin’ sparks new fears after student deaths",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "被称为“加油站海洛因”的草药补充剂在学生死亡后引发新的恐惧"
+    },
+    {
+      "title": "FOX News Media's Spotlight Awards celebrate the company's behind-the-scenes stars",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "福克斯新闻媒体的聚光灯奖表彰该公司的幕后明星"
+    },
+    {
+      "title": "My 999 call foiled RAF Fairford plot, farmer tells BBC",
+      "link": "",
+      "summary": "The member of the public says the authorities \"dropped the ball\" in their handling of the incident.",
+      "published": "",
+      "title_zh": "农民告诉 BBC，我的 999 电话挫败了英国皇家空军费尔福德阴谋",
+      "summary_zh": "这位公众表示，当局在处理这起事件时“失职”。"
+    },
+    {
+      "title": "British chess prodigy, 11, becomes youngest female grandmaster",
+      "link": "",
+      "summary": "The 11-year-old has broken another chess record after a remarkable performance representing England.",
+      "published": "",
+      "title_zh": "11岁英国国际象棋神童成为最年轻的女特级大师",
+      "summary_zh": "这位11岁的小将在代表英格兰队表现出色后又打破了一项国际象棋纪录。"
+    },
+    {
+      "title": "SpaceX's Starship splashes down in Pacific Ocean after returning to Earth earlier than planned",
+      "link": "",
+      "summary": "The rocket - which had been due to orbit the planet six times on a 10-hour flight - ultimately returned after a three-hour flight.",
+      "published": "",
+      "title_zh": "SpaceX的星际飞船比计划提前返回地球后坠入太平洋",
+      "summary_zh": "这艘火箭原定在 10 小时的飞行中绕地球六圈，最终在 3 小时的飞行后返回。"
+    },
+    {
+      "title": "What we know about military base counter-terror probe",
+      "link": "",
+      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+      "published": "",
+      "title_zh": "我们对军事基地反恐调查的了解",
+      "summary_zh": "反恐警察正在对空军基地附近的一起重大事件进行调查，五名男子被捕。"
+    },
+    {
+      "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+      "link": "",
+      "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+      "published": "",
+      "title_zh": "苹果在振动技术专利诉讼败诉后被判支付 57 亿美元",
+      "summary_zh": "音频公司 Taction Technology 声称苹果侵犯了其用于为设备振动提供动力的技术专利。"
+    },
+    {
+      "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+      "link": "",
+      "summary": "Taylor Swift, Madonna, and LISA were among the big winners at the MTV Video Music Awards (VMAs) on Sunday evening in downtown Los Angeles.",
+      "published": "",
+      "title_zh": "观看：麦当娜和泰勒·斯威夫特在 MTV VMA 上大获全胜",
+      "summary_zh": "泰勒·斯威夫特 (Taylor Swift)、麦当娜 (Madonna) 和丽莎 (LISA) 成为周日晚上在洛杉矶市中心举行的 MTV 音乐录影带大奖 (VMA) 的大赢家。"
+    },
+    {
+      "title": "How to find your perfect pillow - according to an expert",
       "link": "",
       "summary": "Dr Chris McCarthy talks through the four considerations you need to make before buying your pillow.",
       "published": "",
-      "title_zh": "“我到处都带着我的枕头”：寻找完美搭配的专家指南",
+      "title_zh": "专家介绍如何找到最适合您的枕头",
       "summary_zh": "克里斯·麦卡锡博士讲述了购买枕头之前需要考虑的四个因素。"
     },
     {
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
       "link": "",
-      "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
       "published": "",
-      "title_zh": "瑞士拒绝对其中立性进行更严格的解释",
-      "summary_zh": "除非得到联合国批准，否则该倡议将阻止该国实施制裁。"
+      "title_zh": "四个人“接下来怎么办？”曼城裁决后英超联赛的前景",
+      "summary_zh": "时隔两年多，针对曼城的115项指控似乎终于有了判决。这就是它的意思。"
     },
     {
-      "title": "Dana White casts doubt on Fury-Joshua fight after 24 hours of chaos",
+      "title": "Here's how to save up for a first home",
       "link": "",
-      "summary": "There is fresh uncertainty around the proposed Tyson Fury v Anthony Joshua fight - after Dana White said he did not know whether it would happen.",
+      "summary": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
       "published": "",
-      "title_zh": "达纳·怀特 (Dana White) 在经历了 24 小时的混乱后对富里与约书亚的战斗表示怀疑",
-      "summary_zh": "在达纳·怀特表示他不知道是否会发生之后，拟议中的泰森·富里与安东尼·约书亚的比赛出现了新的不确定性。"
+      "title_zh": "以下是如何为首套房存钱",
+      "summary_zh": "您可以通过以下四种方式存钱，以节省足够的钱来支付您的第一套房子的首付。"
     },
     {
-      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
       "link": "",
-      "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
       "published": "",
-      "title_zh": "随着选举呼声高涨，委内瑞拉释放了数十名政治犯",
-      "summary_zh": "在该国临时领导人会见美国总统几天后，大量持不同政见者从长期拘留中获释。"
+      "title_zh": "教皇访问卢尔德时表示必须根除虐待的“祸害”",
+      "summary_zh": "教皇利奥在主持一场由法国数千名信徒参加的仪式之前与主教们发表了讲话。"
     },
     {
-      "title": "Foiled UK terror plot could change security at US bases worldwide, expert says",
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
       "link": "",
-      "summary": "",
+      "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Wednesday morning.",
       "published": "",
-      "title_zh": "专家称，挫败的英国恐怖阴谋可能会改变美国全球基地的安全"
+      "title_zh": "尼日利亚人连续7天不停跳舞，试图打破世界纪录",
+      "summary_zh": "人群聚集在拉各斯观看本·丹瑟 (Ben Dancer)，他表示他将继续跳舞到周三早上。"
     },
     {
-      "title": "Patricia Richardson's behind-the-scenes battle ended 'Home Improvement', co-star says",
+      "title": "Stump of iconic Sycamore Gap tree has 'encouraging' growth after illegal felling",
       "link": "",
-      "summary": "",
+      "summary": "A thick layer of growth surrounds the stump three years after the landmark was illegally felled.",
       "published": "",
-      "title_zh": "联合主演说帕特里夏·理查森的幕后之战结束了“家居改善”"
+      "title_zh": "标志性的 Sycamore Gap 树桩在非法砍伐后“鼓励”生长",
+      "summary_zh": "地标被非法砍伐三年后，树桩周围长出了一层厚厚的生长物。"
     },
     {
-      "title": "Lindsay Clancy holdout juror's lawyer says client had 'mountain of evidence'",
+      "title": "Wrestler Benjamin Satterley, known as Pac, dies aged 40",
       "link": "",
-      "summary": "",
+      "summary": "His death was confirmed just a day after he participated in an AEW match in Chicago.",
       "published": "",
-      "title_zh": "林赛·克兰西坚持陪审员的律师称客户有“大量证据”"
+      "title_zh": "摔跤手本杰明·萨特利 (Benjamin Satterley)（绰号 Pac）去世，享年 40 岁",
+      "summary_zh": "就在他参加芝加哥的 AEW 比赛一天后，他的死讯被证实。"
     },
     {
-      "title": "Pro wrestling star dead at 40 one day after competing in title match",
+      "title": "Four bodies found after avalanche hits Himalayan climbing group",
       "link": "",
-      "summary": "",
+      "summary": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
       "published": "",
-      "title_zh": "职业摔跤明星在冠军赛结束一天后去世，享年 40 岁"
+      "title_zh": "喜马拉雅登山队遭遇雪崩后发现四具尸体",
+      "summary_zh": "救援人员仍在寻找 12 名尼泊尔厨师，他们正在为登山者攀登 Himlung Himal 峰做准备。"
     },
     {
-      "title": "AP Poll voters once again deliver bizarre top 25 after another wild week",
+      "title": "Norris apologises to Colapinto for ban comments",
       "link": "",
-      "summary": "",
+      "summary": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
       "published": "",
-      "title_zh": "美联社民意调查选民在经历了又一个疯狂的一周后再次给出了奇怪的前 25 名"
-    },
-    {
-      "title": "Trump gets 'all the credit' for stunning US comeback in the Presidents Cup",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国队在总统杯上惊艳逆转，特朗普将功劳归于特朗普"
-    },
-    {
-      "title": "Jaguars quarterback's head scratching decision sparks internet meltdown during blowout",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美洲虎队四分卫的挠头决定在井喷期间引发了互联网崩溃"
-    },
-    {
-      "title": "Sexually violent predator vanishes after GPS monitor enters 'tamper mode'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "GPS监控器进入“篡改模式”后性暴力掠夺者消失"
-    },
-    {
-      "title": "Hero guard saves passenger being dragged alongside moving train after terrifying fall",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "英雄警卫救了乘客在可怕的跌倒后被拖到行驶中的火车上"
-    },
-    {
-      "title": "Texas man arrested after 'intentionally' ramming into Kroger over locked bathroom",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "德克萨斯州男子因“故意”冲撞克罗格上锁的浴室而被捕"
-    },
-    {
-      "title": "Trump, Anthropic CEO set for private White House dinner amid AI debate",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在人工智能辩论中，特朗普与 Anthropic 首席执行官将在白宫举行私人晚宴"
-    },
-    {
-      "title": "VMAs 2026: Red carpet looks from your favorite music stars, vote for your favorite",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "VMA 2026：您最喜欢的音乐明星的红毯造型，投票选出您最喜欢的"
+      "title_zh": "诺里斯就禁令言论向科拉平托道歉",
+      "summary_zh": "世界冠军兰多·诺里斯向佛朗哥·科拉平托道歉，因为他表示阿根廷人应该因在阿塞拜疆大奖赛上造成事故而被禁赛。"
     }
   ]
 }
