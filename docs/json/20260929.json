@@ -1,6 +1,6 @@
 {
   "date": "20260929",
-  "total": 46,
+  "total": 43,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,345 +37,321 @@
   },
   "entries": [
     {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "link": "",
-      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-      "published": "",
-      "title_zh": "出于安全考虑，OpenAI 放弃推出新模型",
-      "summary_zh": "该公司还发布了其模型访问澳大利亚政府系统事件的最新信息。"
-    },
-    {
-      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-      "link": "",
-      "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
-      "published": "",
-      "title_zh": "飓风波罗登陆墨西哥太平洋沿岸",
-      "summary_zh": "风暴在下加利福尼亚半岛登陆，该半岛是一个热门的旅游目的地。"
-    },
-    {
-      "title": "Evicted Spanish pensioner can move back home, lawyer says",
-      "link": "",
-      "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
-      "published": "",
-      "title_zh": "律师称，被驱逐的西班牙养老金领取者可以搬回家",
-      "summary_zh": "87 岁的马里卡门·阿巴斯卡尔 (Maricarmen Abascal) 被驱逐引发了西班牙各地的大规模抗议活动。"
-    },
-    {
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-      "link": "",
-      "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
-      "published": "",
-      "title_zh": "阿根廷威胁就福克兰群岛石油勘探对英国采取法律行动",
-      "summary_zh": "总统哈维尔·米莱 (Javier Milei) 为取消海狮油田项目设定了两周的最后期限。"
-    },
-    {
-      "title": "Are Trump's US government funded ads illegal?",
-      "link": "",
-      "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
-      "published": "",
-      "title_zh": "特朗普的美国政府资助的广告违法吗？",
-      "summary_zh": "特朗普总统因刊登由美国政府付费的广告而受到批评。"
-    },
-    {
-      "title": "Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him",
-      "link": "",
-      "summary": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
-      "published": "",
-      "title_zh": "拉努夫·费因斯爵士的亲属告诉 BBC，无法探望他“非常痛苦”",
-      "summary_zh": "据称，拉努夫爵士已以化名入住多家疗养院。"
-    },
-    {
-      "title": "BBC joins Australian war games - is China friend or foe?",
-      "link": "",
-      "summary": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
-      "published": "",
-      "title_zh": "BBC参加澳大利亚军事演习——中国是朋友还是敌人？",
-      "summary_zh": "澳大利亚越来越担心中国的军事实力，但北京也是其最大的贸易伙伴。"
-    },
-    {
-      "title": "Why an investigation into alleged frat house gang rape is reopening",
-      "link": "",
-      "summary": "A former Cornell student is suing the university and seven fraternity members, claiming she was drugged and gang-raped in 2024.",
-      "published": "",
-      "title_zh": "为什么要重新开始对涉嫌兄弟会轮奸案的调查",
-      "summary_zh": "一名前康奈尔大学学生正在起诉该大学和七名兄弟会成员，声称她在 2024 年被下药并被轮奸。"
-    },
-    {
-      "title": "Journalist to be crowned king in Uganda after bitter succession dispute",
-      "link": "",
-      "summary": "Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
-      "published": "",
-      "title_zh": "激烈的继承纠纷后，记者将在乌干达加冕国王",
-      "summary_zh": "基贾南戈马加冕之际，正值王室不承认一位年轻继承人的争议之中。"
-    },
-    {
-      "title": "The story of Manchester City and the 115 charges",
-      "link": "",
-      "summary": "It is the biggest disciplinary case in Premier League history. Here we piece together Man City's on-field endeavours with their alleged wrongdoings.",
-      "published": "",
-      "title_zh": "曼城的故事和115项指控",
-      "summary_zh": "这是英超历史上最大的纪律案件。在这里，我们将曼城在球场上的努力与他们涉嫌的不当行为拼凑起来。"
-    },
-    {
-      "title": "What a US diesel export ban could mean for you",
-      "link": "",
-      "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
-      "published": "",
-      "title_zh": "美国柴油出口禁令对您意味着什么",
-      "summary_zh": "受到威胁的提案旨在保护美国消费者免受成本上涨的影响，但如果真的发生，可能会引发重大经济浪潮。"
-    },
-    {
-      "title": "I paid £30,000 for an 'influencer' degree. Here's why",
-      "link": "",
-      "summary": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
-      "published": "",
-      "title_zh": "我为“影响者”学位支付了 30,000 英镑。这就是为什么",
-      "summary_zh": "内容创作学位旨在帮助人们从社交媒体赚钱，但它们物有所值吗？"
-    },
-    {
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "link": "",
-      "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-      "published": "",
-      "title_zh": "警方称《纽约时报》高管被年迈的姻亲枪杀",
-      "summary_zh": "乔纳森·麦肯锡 (Jonathan McKinsey) 的姻亲均已 77 岁，面临多项指控，包括一级谋杀。"
-    },
-    {
-      "title": "Migrants using longer, more dangerous routes across English Channel",
-      "link": "",
-      "summary": "The government says it is bearing down on dangerous small boat crossings.",
-      "published": "",
-      "title_zh": "移民使用更长、更危险的路线穿越英吉利海峡",
-      "summary_zh": "政府表示正在对危险的小船过境进行打击。"
-    },
-    {
-      "title": "Lost songs from iconic Australian rockstar found in garage",
-      "link": "",
-      "summary": "Divinyls frontwoman Chrissy Amphlett recorded the songs with Split Enz's Tim Finn in 1998.",
-      "published": "",
-      "title_zh": "车库里发现了澳大利亚标志性摇滚明星丢失的歌曲",
-      "summary_zh": "Divinyls 主唱 Chrissy Amphlett 于 1998 年与 Split Enz 的 Tim Finn 录制了这些歌曲。"
-    },
-    {
-      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "link": "",
-      "summary": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
-      "published": "",
-      "title_zh": "马来西亚开始有争议地将寻求庇护者遣返缅甸",
-      "summary_zh": "人权组织称，约 5,000 名回返者可能面临暴力、迫害和强迫征兵。"
-    },
-    {
-      "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
-      "link": "",
-      "summary": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
-      "published": "",
-      "title_zh": "田纳西州州长拒绝停止处决该州唯一的死囚女子",
-      "summary_zh": "如果处决继续进行，派克将成为田纳西州 200 多年来第一位被处决的女性。"
-    },
-    {
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "link": "",
-      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-      "published": "",
-      "title_zh": "随着贸易战的持续，美国对加拿大酒精和乳制品的禁令生效",
-      "summary_zh": "这是自八月下旬谈判破裂后加美贸易战的最新升级，目前尚无关于何时恢复谈判的消息。"
-    },
-    {
-      "title": "'Period of deception' - Pochettino on Man City verdict",
-      "link": "",
-      "summary": "Former Tottenham and Chelsea manager Mauricio Pochettino says it is \"impossible to turn back time\" after Manchester City being found guilty of financial breaches.",
-      "published": "",
-      "title_zh": "波切蒂诺谈曼城的判决：“欺骗时期”",
-      "summary_zh": "前托特纳姆热刺队和切尔西队主教练毛里西奥·波切蒂诺表示，在曼城被判犯有财务违规罪后，“时间不可能倒转”。"
-    },
-    {
-      "title": "Drive to Decision Day: What most concerns voters heading into the midterms",
-      "link": "https://www.nbcnews.com/politics/2026-election/midterm-elections-voters-decisions-2026-rcna600265",
-      "summary": "",
-      "published": "",
-      "title_zh": "决策日：中期选举前选民最关心的是什么"
-    },
-    {
-      "title": "The Data Dive: Steve Kornacki on whether Democrats can loosen Trump’s hold on Iowa",
-      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-whether-democrats-can-loosen-trumps-hold-iowa-rcna600378",
-      "summary": "",
-      "published": "",
-      "title_zh": "数据潜水：史蒂夫·科尔纳基谈民主党能否放松特朗普对爱荷华州的控制"
-    },
-    {
-      "title": "Cornell rape accuser’s attorney says the school and law enforcement failed a young woman",
-      "link": "https://www.nbcnews.com/news/us-news/cornell-rape-allegations-fraternity-rcna600381",
-      "summary": "",
-      "published": "",
-      "title_zh": "康奈尔大学强奸案原告的律师表示，学校和执法部门辜负了一名年轻女子的期望"
-    },
-    {
-      "title": "New York Times executive fatally shot by his in-laws in Bay Area park, police say",
-      "link": "https://www.nbcnews.com/news/us-news/new-york-executive-shot-killed-laws-bay-area-park-police-say-rcna600300",
-      "summary": "",
-      "published": "",
-      "title_zh": "警方称《纽约时报》高管在湾区公园被姻亲枪杀"
-    },
-    {
-      "title": "Mike Tirico moderates a conversation on how football brings communities together",
-      "link": "https://www.nbcnews.com/now/video/common-ground-the-ever-expanding-nfl-community-270693957755",
-      "summary": "",
-      "published": "",
-      "title_zh": "迈克·蒂里科 (Mike Tirico) 主持一场关于足球如何将社区凝聚在一起的对话"
-    },
-    {
-      "title": "Trump ‘surprised’ after U.K. releases men detained near base used by U.S. forces",
-      "link": "https://www.nbcnews.com/world/united-kingdom/trump-surprised-uk-releases-men-base-used-us-iran-rcna600423",
-      "summary": "",
-      "published": "",
-      "title_zh": "英国释放在美军使用的基地附近被拘留的男子后，特朗普感到“惊讶”"
-    },
-    {
-      "title": "Dennis Haskins, principal on TV’s ‘Saved by the Bell,’ dies at 75",
-      "link": "https://www.nbcnews.com/news/obituaries/dennis-haskins-principal-saved-bell-dies-rcna600413",
-      "summary": "",
-      "published": "",
-      "title_zh": "电视节目“Saved by the Bell”的负责人丹尼斯·哈斯金斯 (Dennis Haskins) 去世，享年 75 岁"
-    },
-    {
-      "title": "From motorcycles to booze, U.S. ban on $1 billion worth of Canadian imports goes into effect",
-      "link": "https://www.nbcnews.com/news/us-news/motorcycles-booze-us-ban-1-billion-canadian-imports-takes-effect-rcna600421",
-      "summary": "",
-      "published": "",
-      "title_zh": "从摩托车到酒类，美国对加拿大价值 10 亿美元的进口禁令生效"
-    },
-    {
-      "title": "Minnesota fraud concerns go from bad to worse as audit sounds alarm on another problem",
+      "title": "Motorcycle patrols fan out across Iran as regime prepares for possible unrest",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着审计对另一个问题发出警报，明尼苏达州的欺诈担忧变得越来越严重"
+      "title_zh": "伊朗政权为可能发生的骚乱做准备，摩托车巡逻在伊朗各地展开"
     },
     {
-      "title": "Lindsay Clancy's push to probe holdout juror hits snag before pivotal retrial hearing",
+      "title": "Hollywood actress draws fire for wild comments about son's sexuality at LGBT awards gala",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "林赛·克兰西推动调查顽固陪审员的努力在关键重审听证会前遇到障碍"
+      "title_zh": "好莱坞女演员因在 LGBT 颁奖典礼上对儿子性取向的疯狂评论而受到批评"
     },
     {
-      "title": "Reality star asks for 'compassion' for her daughter after Tampa airport incident",
+      "title": "FBI reveals global scam targeting Americans: 'I watched my grandmother lose her life savings'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "坦帕机场事件后，真人秀明星请求对女儿的“同情”"
+      "title_zh": "FBI揭露针对美国人的全球骗局：“我看着我的祖母失去了她的毕生积蓄”"
     },
     {
-      "title": "Trump could soon sign sweeping NIL overhaul after 77-22 bipartisan Senate vote",
+      "title": "Skydivers watch plane vanish from sight, then make split-second decision to jump",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在参议院两党以 77 比 22 投票后，特朗普可能很快签署全面的 NIL 改革"
+      "title_zh": "跳伞运动员看着飞机从视线中消失，然后瞬间决定跳伞"
     },
     {
-      "title": "Bears QB paces sideline during anthem in violation of tradition dating to 1942",
+      "title": "Liberal judge cans Riley Gaines lawsuit, claims NCAA doesn't have to follow federal law",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "熊队四分卫在奏国歌时在场边踱步，这违反了 1942 年的传统"
+      "title_zh": "自由派法官驳回莱利·盖恩斯诉讼，声称 NCAA 不必遵守联邦法律"
     },
     {
-      "title": "Kentucky trooper’s routine traffic stop turns deadly, leaving wife and 3 young sons",
+      "title": "Fatal warning to informant emerges as authorities probe cause of Ole Miss deaths",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肯塔基州警察的例行交通堵塞导致死亡，留下妻子和 3 个年幼的儿子"
+      "title_zh": "当局调查“奥莱小姐”死亡原因，向线人发出致命警告"
     },
     {
-      "title": "38-year-old backup stuns Eagles, and should tell Bears: Don't rush back Caleb Williams",
+      "title": "Trans NYT exec's behind-the-scenes court battle comes to light after daytime shooting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "38岁替补让老鹰队大吃一惊，应该告诉熊队：别急着回来 卡莱布·威廉姆斯"
+      "title_zh": "《跨纽约时报》高管的幕后法庭之争在白天枪击事件后曝光"
     },
     {
-      "title": "CEO sounds alarm as 'six-figure jobs' go unfilled amid worker shortage",
+      "title": "Sophie Cunningham's defiance exposes how fast sports stars crumble before mobs",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于工人短缺，“六位数的工作岗位”空缺，首席执行官发出警报"
+      "title_zh": "索菲·坎宁安的反抗暴露了体育明星在暴徒面前崩溃的速度有多快"
     },
     {
-      "title": "The AI revolution will go wherever there's electricity — and China knows it",
+      "title": "Lindsay Clancy's defense says 'complete lack of evidence' amid retrial delay",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "人工智能革命将发生在有电的地方——中国知道这一点"
+      "title_zh": "林赛·克兰西的辩护称，重审延迟期间“完全缺乏证据”"
     },
     {
-      "title": "SEC school suspends two fraternities over waterboarding, hazing claims",
+      "title": "Protester flips off crowd while storming pro-data center party in DC",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "SEC 学校因水刑和欺凌指控而暂停两个兄弟会的资格"
+      "title_zh": "抗议者在华盛顿特区袭击支持数据中心的派对时激怒了人群"
     },
     {
-      "title": "Expert shares what could happen next as feds probe Ilhan Omar amid immigration uproar",
+      "title": "Beloved sitcom actor who helped define a generation of teen TV dead at 75",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家分享了联邦调查伊尔汗·奥马尔在移民骚乱中接下来可能发生的事情"
+      "title_zh": "深受喜爱的情景喜剧演员，他帮助定义了一代青少年电视节目，享年 75 岁"
     },
     {
-      "title": "Expert warns mass migration is testing the future of Western nations",
+      "title": "Mayor Mamdani shuts down Jimmy Kimmel's request to troll Trump during interview",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家警告大规模移民正在考验西方国家的未来"
+      "title_zh": "市长马姆达尼拒绝了吉米·金梅尔在采访中恶搞特朗普的请求"
     },
     {
-      "title": "'Ruthless' dives into Trump’s push on AI and American manufacturing",
+      "title": "Meta rolls out its popular AI tool to help millions of small businesses",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“无情”深入探讨特朗普对人工智能和美国制造业的推动"
+      "title_zh": "Meta 推出其流行的人工智能工具来帮助数百万小型企业"
     },
     {
-      "title": "LAURA INGRAHAM:If Dems take power, it would mean ‘never-ending’ impeachments",
+      "title": "Trump launches America.gov with plans to transform how Americans access government",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "劳拉·英格拉汉姆：如果民主党掌权，这将意味着“永无止境”的弹劾"
+      "title_zh": "特朗普推出 America.gov，计划改变美国人接触政府的方式"
     },
     {
-      "title": "Palace ‘making sure’ Harry and Meghan aren’t seen creating royal-style events: expert",
+      "title": "School tied to history's greatest ruler reveals clues about life before rise to power",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "王室“确保”哈里和梅根不会举办皇室风格的活动：专家"
+      "title_zh": "与历史上最伟大统治者有联系的学校揭示了掌权前的生活线索"
     },
     {
-      "title": "Popular fast-casual chain rolls out major rebrand as growth accelerates",
+      "title": "Hegseth orders deeper cuts to generals and admirals in sweeping Pentagon shakeup",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着增长加速，受欢迎的快餐休闲连锁店推出重大品牌重塑"
+      "title_zh": "赫格斯下令在五角大楼全面改组中进一步削减将军和海军上将的人数"
     },
     {
-      "title": "Maine lobster lovers divided over controversial way to serve iconic seafood staple",
+      "title": "Forgotten coffee brands Americans grew up with and why they still stir up nostalgia",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "缅因州龙虾爱好者对标志性海鲜主食的供应方式存在争议"
+      "title_zh": "美国人成长过程中被遗忘的咖啡品牌以及为什么它们仍然激起怀旧之情"
     },
     {
-      "title": "As teammate remains on life support, ASU hockey players demand discipline for coach",
+      "title": "California-born fugitive allegedly ordered rival hits on American soil",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于队友仍在维持生命，亚利桑那州立大学曲棍球运动员要求教练遵守纪律"
+      "title_zh": "加州出生的逃犯据称下令在美国本土发动竞争对手袭击"
     },
     {
-      "title": "How a secret shuttle network left the Islamic Republic begging at the UN",
+      "title": "Violent antisemitic incidents have tripled in Canada in 2026, new audit data reveals",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "秘密航天飞机网络如何让伊斯兰共和国向联合国乞讨"
+      "title_zh": "新审计数据显示，2026 年加拿大反犹太主义暴力事件增加两倍"
+    },
+    {
+      "title": "Ilhan Omar under microscope as attorney reveals likely next moves in ‘criminal’ probe",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊尔汗·奥马尔律师在显微镜下透露“刑事”调查可能的下一步行动"
+    },
+    {
+      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "link": "",
+      "summary": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+      "published": "",
+      "title_zh": "以色列定居者袭击西岸村庄并阻止巴勒斯坦家庭返回家园",
+      "summary_zh": "图巴西家族的两所房屋被纵火，以色列安全部队也成为定居者的攻击目标。"
+    },
+    {
+      "title": "Man City guilty: 'Sham' contracts and £830m overstated income revealed",
+      "link": "",
+      "summary": "The Premier League confirms that Manchester City are guilty of all charges related to breaches of Premier League financial rules.",
+      "published": "",
+      "title_zh": "曼城有罪：“虚假”合同和8.3亿英镑虚报收入被揭露",
+      "summary_zh": "英超联赛确认曼城犯有与违反英超联赛财务规则相关的所有指控。"
+    },
+    {
+      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+      "link": "",
+      "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
+      "published": "",
+      "title_zh": "林赛·克兰西出庭，她的律师力促驳回谋杀案",
+      "summary_zh": "克兰西的辩护律师希望洗清她在 2023 年谋杀三个孩子的罪名，但检察官表示，州政府已证明她有罪。"
+    },
+    {
+      "title": "Man released on bail after 41 years on death row",
+      "link": "",
+      "summary": "New DNA analysis did not match Douglas Stewart Carter, now 71, who was convicted of killing a woman but always maintained his innocence.",
+      "published": "",
+      "title_zh": "男子在死囚牢房 41 年后获保释",
+      "summary_zh": "新的 DNA 分析与现年 71 岁的道格拉斯·斯图尔特·卡特 (Douglas Stewart Carter) 不符，他因杀害一名妇女而被定罪，但始终坚称自己无罪。"
+    },
+    {
+      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+      "link": "",
+      "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+      "published": "",
+      "title_zh": "87岁老妇被强行赶出公寓引发抗议，西班牙宣布禁止驱逐",
+      "summary_zh": "该禁令是多项提案的一部分，必须在 30 天内获得议会批准。"
+    },
+    {
+      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+      "link": "",
+      "summary": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
+      "published": "",
+      "title_zh": "“我被诱入陷阱”：埃文·格什科维奇谈导致入狱 16 个月的那一刻",
+      "summary_zh": "这位美国记者表示，当他没有受到联邦安全局特工的审讯或酷刑时，他意识到自己只是“一场更大游戏中的棋子”。"
+    },
+    {
+      "title": "The US state replacing power plants with home batteries",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国各州用家用电池取代发电厂"
+    },
+    {
+      "title": "Taylor Swift dominated the VMAs, but do music videos still matter?",
+      "link": "",
+      "summary": "Cinematographer Melissa Cofie says their purpose has evolved with the growth of platforms like TikTok.",
+      "published": "",
+      "title_zh": "泰勒·斯威夫特 (Taylor Swift) 统治了 VMA，但音乐视频还重要吗？",
+      "summary_zh": "电影摄影师梅丽莎·科菲 (Melissa Cofie) 表示，随着 TikTok 等平台的发展，他们的目的也发生了变化。"
+    },
+    {
+      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
+      "link": "",
+      "summary": "Police are trying to verify whether a female student was raped at Lovely Professional University (LPU).",
+      "published": "",
+      "title_zh": "一起涉嫌强奸的事件如何让印度一所大学陷入混乱并导致宿舍空荡荡",
+      "summary_zh": "警方正在试图核实一名女学生是否在可爱专业大学（LPU）遭到强奸。"
+    },
+    {
+      "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+      "link": "",
+      "summary": "Turner’s early 19th century painting - Rome, from Mount Aventine - will be on display in the Italian capital for the first time ahead of an auction in London in December.",
+      "published": "",
+      "title_zh": "特纳在罗马展出的价值 5000 万英镑的画作特写",
+      "summary_zh": "透纳 19 世纪早期的画作《来自阿文丁山的罗马》将在 12 月伦敦拍卖之前首次在意大利首都展出。"
+    },
+    {
+      "title": "The race to crown the 'fattest dog of Delhi'",
+      "link": "",
+      "summary": "The contest to crown the Indian capital's \"chonkiest\" dog has attracted thousands of votes.",
+      "published": "",
+      "title_zh": "争夺“德里最胖狗”桂冠的竞赛",
+      "summary_zh": "印度首都“最笨重”的狗的评选活动吸引了数千张选票。"
+    },
+    {
+      "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
+      "link": "",
+      "summary": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
+      "published": "",
+      "title_zh": "席琳·迪翁 (Celine Dion) 惊艳演绎巴黎时装周",
+      "summary_zh": "这位歌手出现在欧莱雅年度大秀结束时，法国时尚盛宴拉开了帷幕。"
+    },
+    {
+      "title": "Former world snooker champion Graeme Dott jailed for seven years for child sex abuse",
+      "link": "",
+      "summary": "The 49-year-old was found guilty of two charges of lewd and libidinous behaviour towards a girl and a boy between 1993 and 2010.",
+      "published": "",
+      "title_zh": "前斯诺克世界冠军格雷姆·多特因儿童性虐待被判入狱七年",
+      "summary_zh": "这名 49 岁的男子在 1993 年至 2010 年间被判犯有两项针对一名女孩和一名男孩的猥亵和淫荡行为罪名。"
+    },
+    {
+      "title": "'Ship buster' missiles sink old US warship in live fire training off Scotland",
+      "link": "",
+      "summary": "The 43-year-old decommissioned frigate was used for target practice off the Outer Hebrides last Monday.",
+      "published": "",
+      "title_zh": "“船舶破坏者”导弹在苏格兰附近的实弹训练中击沉美国旧军舰",
+      "summary_zh": "这艘已有 43 年历史的退役护卫舰于上周一在外赫布里底群岛进行了目标练习。"
+    },
+    {
+      "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
+      "link": "",
+      "summary": "The company that runs the Eiffel Tower said the removal of female staff during the visit earlier this month was \"unacceptable\".",
+      "published": "",
+      "title_zh": "埃菲尔铁塔负责人因宗教访问期间女性工作人员被男性取代而辞职",
+      "summary_zh": "运营埃菲尔铁塔的公司表示，本月早些时候参观期间解雇女性员工是“不可接受的”。"
+    },
+    {
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "link": "",
+      "summary": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
+      "published": "",
+      "title_zh": "爱沙尼亚指责俄罗斯纵火向乌克兰供货的国防公司",
+      "summary_zh": "俄罗斯被指控对一些一直在帮助乌克兰的欧洲北约国家发动破坏袭击。"
+    },
+    {
+      "title": "Alexander-Arnold set for rare England start against Czech Republic in Nations League",
+      "link": "",
+      "summary": "Follow text updates and listen to radio commentary as England visit the Czech Republic in the Nations League.",
+      "published": "",
+      "title_zh": "亚历山大-阿诺德在国家联赛对阵捷克的比赛中为英格兰队罕见首发",
+      "summary_zh": "当英格兰队在国家联盟中客场挑战捷克共和国时，请关注文本更新并收听广播评论。"
+    },
+    {
+      "title": "Jack Smith defends Trump probes in Senate hearing filled with GOP insults",
+      "link": "https://www.nbcnews.com/politics/justice-department/senate-gop-press-jack-smith-trump-jan-6-probe-doj-targets-investigator-rcna600306",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰克·史密斯在参议院听证会上为特朗普的调查辩护，充满了共和党的侮辱"
+    },
+    {
+      "title": "Lindsay Clancy defense returns to court to argue there’s no evidence she killed her children",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-returns-court-first-time-mistrial-rcna600432",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西的辩护人返回法庭辩称，没有证据表明她杀害了自己的孩子"
+    },
+    {
+      "title": "Big Tech’s AI agents are fighting over your shopping cart",
+      "link": "https://www.nbcnews.com/tech/tech-news/ai-agent-muse-shop-e-commerce-amazon-wal-mart-wayfair-buy-rcna599069",
+      "summary": "",
+      "published": "",
+      "title_zh": "大型科技公司的人工智能代理正在争夺你的购物车"
+    },
+    {
+      "title": "Trump hosts summit with top AI leaders in Washington",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在华盛顿与人工智能高层领导人举行峰会"
+    },
+    {
+      "title": "MLB wants a salary cap for competitive balance. Does the playoff field already have it?",
+      "link": "https://www.nbcnews.com/sports/baseball/mlb-salary-cap-competitive-balance-playoff-field-rcna600313",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国职棒大联盟希望设定工资上限以实现竞争平衡。季后赛场已经有了吗？"
+    },
+    {
+      "title": "Florida’s record-breaking dengue fever outbreak was only a matter of time, experts say",
+      "link": "https://www.nbcnews.com/health/health-news/dengue-fever-florida-virus-threat-rcna600286",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家表示，佛罗里达州破纪录的登革热疫情爆发只是时间问题"
     }
   ]
 }
