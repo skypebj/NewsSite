@@ -1,6 +1,6 @@
 {
   "date": "20260930",
-  "total": 27,
+  "total": 36,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,206 +37,269 @@
   },
   "entries": [
     {
-      "title": "OpenAI launches always-on agents after apologizing for a hack by its bots",
-      "link": "https://www.nbcnews.com/tech/tech-news/openai-launches-dots-ai-agents-safety-questions-rcna600338",
+      "title": "Pilot stabbed fellow pilot in apparent attempt to crash Israel-bound plane, Netanyahu says",
+      "link": "https://www.nbcnews.com/world/middle-east/flight-dubai-tel-aviv-diverted-emergency-alert-rcna600628",
       "summary": "",
       "published": "",
-      "title_zh": "OpenAI 在为其机器人的黑客攻击道歉后推出了永远在线的代理"
+      "title_zh": "内塔尼亚胡称，飞行员刺伤了同伴，显然是试图撞毁飞往以色列的飞机"
     },
     {
-      "title": "Cornell rape allegations spotlight stringent New York state laws that have long drawn criticism",
-      "link": "https://www.nbcnews.com/news/us-news/cornell-rape-allegations-new-york-laws-rcna600477",
+      "title": "Democrats eye Nebraska as an opportunity to take a Senate seat away from Republicans",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-nebraska-senate-seat-republicans-rcna594910",
       "summary": "",
       "published": "",
-      "title_zh": "康奈尔大学强奸指控凸显纽约州严格的法律，这些法律长期以来一直受到批评"
+      "title_zh": "民主党将内布拉斯加州视为从共和党手中夺走参议院席位的机会"
     },
     {
-      "title": "More oil is getting out of the Middle East. Why is it still so expensive?",
-      "link": "https://www.nbcnews.com/business/energy/oil-still-expensive-rcna600474",
+      "title": "California voters back a billionaire tax, but the proposal falls short of majority support",
+      "link": "https://www.nbcnews.com/politics/2026-election/california-poll-voters-back-billionaire-tax-proposal-falls-short-major-rcna600354",
       "summary": "",
       "published": "",
-      "title_zh": "更多石油正从中东流出。为什么还是这么贵？"
+      "title_zh": "加州选民支持亿万富翁税，但该提案未能获得多数支持"
     },
     {
-      "title": "Iran opens brazen new front in war with direct message aimed at Americans",
-      "link": "",
+      "title": "FOR SUBSCRIBERSVoters sound off on the economy, war and Washington",
+      "link": "https://www.nbcnews.com/video/drive-to-decision-day-voters-sound-off-on-the-economy-war-and-washington-270683717962",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗在战争中开辟了明目张胆的新战线，直接向美国人发出信息"
+      "title_zh": "致订阅者选民对经济、战争和华盛顿的看法"
     },
     {
-      "title": "Clark drops 27 and 15 assists as a superstar meltdown hijacks the Fever's big night",
-      "link": "",
+      "title": "Why Ken Griffin is donating $3 billion to bring this university to Miami",
+      "link": "https://www.nbcnews.com/news/us-news/ken-griffin-donating-3-billion-bring-university-miami-rcna600671",
       "summary": "",
       "published": "",
-      "title_zh": "克拉克贡献 27 次助攻和 15 次助攻，超级巨星的崩溃劫持了狂热队的重要夜晚"
+      "title_zh": "为什么 Ken Griffin 捐赠 30 亿美元将这所大学迁至迈阿密"
     },
     {
-      "title": "Unpainted fingernails spark outrage after BBC links the trend to racism",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "英国广播公司将这种趋势与种族主义联系起来后，未涂指甲油引发了愤怒"
-    },
-    {
-      "title": "Country star reveals the painful symptom that led to cancer diagnosis",
+      "title": "New details emerge on flight that took terrifying plunge after reported pilot stabbing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村明星透露导致癌症诊断的痛苦症状"
+      "title_zh": "据报道，飞行员被刺伤后，航班出现可怕的坠落，新的细节浮出水面"
     },
     {
-      "title": "Crockett's ex-Dem colleague goes scorched earth after endorsement snub: 'F--- her'",
+      "title": "Liberal bastion raises minimum wage again as restaurants vanish and job openings sink",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克罗克特的前民主党同事在背书冷落后焦土：“F---她”"
+      "title_zh": "随着餐馆消失和职位空缺减少，自由派堡垒再次提高最低工资"
     },
     {
-      "title": "Venezuelan national shot by ICE officer in Austin charged with assaulting federal officer",
+      "title": "Nearby fan shares what was said by the ejected Fever fan that A'ja Wilson confronted",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "委内瑞拉国民在奥斯汀被 ICE 官员枪杀，被控袭击联邦官员"
+      "title_zh": "附近的粉丝分享了 A'ja Wilson 面对的被驱逐的 Fever 粉丝所说的话"
     },
     {
-      "title": "Chris Hansen rips Robert Pattinson film's dark spin on predator investigations",
+      "title": "Ms Rachel's political activism is sparking pushback from parents",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克里斯·汉森 (Chris Hansen) 揭露罗伯特·帕丁森 (Robert Pattinson) 电影中关于掠夺者调查的黑暗情节"
+      "title_zh": "雷切尔女士的政治激进主义引发了父母的抵制"
     },
     {
-      "title": "Major healthcare push could dramatically change how fast you see a doctor",
+      "title": "Voters ‘have had enough’ of state’s ‘disastrous’ taxation — so they're packing their bags",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "重大的医疗保健推动可能会极大地改变您看医生的速度"
+      "title_zh": "选民们“已经受够了”各州“灾难性”的税收——所以他们正在收拾行李"
     },
     {
-      "title": "Ace pitcher's tearful retirement ceremony left out one notable detail",
+      "title": "Americans are drinking less — but one age group is moving in the opposite direction",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "王牌投手泪流满面的退役仪式遗漏了一个值得注意的细节"
+      "title_zh": "美国人的饮酒量正在减少——但一个年龄段的人正在朝相反的方向发展"
     },
     {
-      "title": "Navy bets on Boeing with $20B-plus deal for new fighter hailed as ‘generational leap’",
+      "title": "Chad Lowe mourns death of 13-year-old daughter Fiona, calling her 'the light of our lives'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "海军押注波音公司，以超过 20B 美元的新战斗机交易被誉为“代际飞跃”"
+      "title_zh": "查德·洛 (Chad Lowe) 哀悼 13 岁女儿菲奥娜 (Fiona) 的去世，称她为“我们生命之光”"
     },
     {
-      "title": "Buc-ee’s closes in on first location in new state as talks turn ‘very active’",
+      "title": "A quiet suburban cul-de-sac finds itself on the front lines of America’s new tech boom",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着谈判变得“非常活跃”，Buc-ee's 即将在新州找到第一个地点"
+      "title_zh": "一条安静的郊区死胡同发现自己处于美国新技术热潮的前线"
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "title": "New audio details the moment Ole Miss students were found dead: 'Cold to the touch'",
       "link": "",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "summary": "",
       "published": "",
-      "title_zh": "中国人工智能工具告诉研究人员如何制造生物武器",
-      "summary_zh": "Mindgard 表示，它在 7 月份发现 Kimi 型号 K2.6 和 K3 Swarm 可以规避开发人员的安全限制。"
+      "title_zh": "新音频详细介绍了密西西比大学学生被发现死亡的那一刻：“摸起来很冷”"
     },
     {
-      "title": "The intricate web Man City spun to con the Premier League",
+      "title": "NASCAR offers verdict on team members who jumped and attacked a driver",
       "link": "",
-      "summary": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.",
+      "summary": "",
       "published": "",
-      "title_zh": "曼城为欺骗英超联赛而编织的错综复杂的网络",
-      "summary_zh": "这份长达 40 页的文件确认曼城被判虚增赞助收入，读起来引人入胜。这是它的规定。"
+      "title_zh": "纳斯卡对跳跃并袭击车手的队员做出判决"
     },
     {
-      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+      "title": "Actor details brother's $12M betrayal after he hid money in spaghetti sauce jars",
       "link": "",
-      "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：尼泊尔政府大楼在洪水中倒塌入河的瞬间",
-      "summary_zh": "由于洪水，巴格隆的市政大楼在不稳定的岩架上摇摇欲坠，然后落入河中。"
+      "title_zh": "演员详细讲述了兄弟将钱藏在意大利面酱罐中后背叛的 1200 万美元"
     },
     {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "title": "Ex-NASCAR star Danica Patrick gets wild in New Zealand on girls trip",
       "link": "",
-      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普“超级情报”峰会的三个要点",
-      "summary_zh": "白宫会议召开之际，一些科技巨头和专家呼吁对人工智能制定更严格的规则。"
+      "title_zh": "前纳斯卡明星丹妮卡·帕特里克 (Danica Patrick) 在新西兰女孩之旅中疯狂"
     },
     {
-      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "title": "'Who leaves 4 little kids alone to go on a cruise?': Judge scolds mom during hearing",
       "link": "",
-      "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "summary": "",
       "published": "",
-      "title_zh": "俄罗斯导弹袭击使乌克兰珍贵的钢铁工业化为废墟",
-      "summary_zh": "乌克兰剩余的钢铁厂是其经济的重要组成部分，但由于无情的袭击而几乎陷入停顿。"
+      "title_zh": "“谁留下4个小孩独自去游轮？”：法官在听证会上斥责妈妈"
     },
     {
-      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "title": "Reparations activists warn Democrats are 'conflating' the cause to build coalitions",
       "link": "",
-      "summary": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea.",
+      "summary": "",
       "published": "",
-      "title_zh": "以习近平命名的餐厅在韩国遭中国公民袭击",
-      "summary_zh": "店主表示，之所以选择这个名字，是因为他想经营韩国“最好的中餐厅”。"
+      "title_zh": "赔偿活动人士警告民主党人正在“混淆”建立联盟的原因"
     },
     {
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "title": "US economy grows 2.2% in second quarter, topping economists' forecasts",
       "link": "",
-      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+      "summary": "",
       "published": "",
-      "title_zh": "加沙袭击后女孩接受多次手术以控制感染",
-      "summary_zh": "目击者称拉塞尔的帐篷被以色列直升机袭击击中。以色列军方表示没有此次袭击的记录。"
+      "title_zh": "美国经济第二季度增长2.2%，超出经济学家预期"
     },
     {
-      "title": "Venezuelan man shot by ICE in Texas is charged with assault",
+      "title": "Maine Dem candidate crushed by his own party when internet sees what he's sipping",
       "link": "",
-      "summary": "Wilber Rafael Garces-Perez is accused of striking an agent with his car's side-view mirror while driving away.",
+      "summary": "",
       "published": "",
-      "title_zh": "委内瑞拉男子在得克萨斯州被 ICE 枪杀，被控袭击罪",
-      "summary_zh": "威尔伯·拉斐尔·加塞斯-佩雷斯 (Wilber Rafael Garces-Perez) 被指控在驾车逃跑时用汽车后视镜袭击一名特工。"
+      "title_zh": "当互联网看到缅因州民主党候选人正在喝的东西时，他被自己的政党压垮了"
     },
     {
-      "title": "Hidden habits that make your social anxiety worse - and how to break them",
+      "title": "Country music superstar releases powerful performance of hit song, reactions pour in",
       "link": "",
-      "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+      "summary": "",
       "published": "",
-      "title_zh": "让你的社交焦虑加剧的隐藏习惯 - 以及如何打破它们",
-      "summary_zh": "社交焦虑比许多人想象的更为普遍。以下是您需要了解的有关病情的信息。"
+      "title_zh": "乡村音乐巨星推出热门歌曲强势演绎，反响热烈"
     },
     {
-      "title": "How AI is creating a UK super-museum and revealing our planet's history",
+      "title": "Theme park is permanently closing famed roller coaster after multiple lawsuits",
       "link": "",
-      "summary": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
+      "summary": "",
       "published": "",
-      "title_zh": "人工智能如何创建英国超级博物馆并揭示我们星球的历史",
-      "summary_zh": "来自 100 个英国藏品的超过 7000 万件标本将被放入在线数字博物馆"
+      "title_zh": "在多次诉讼后，主题公园将永久关闭著名的过山车"
     },
     {
-      "title": "Man City CEO refuses to answer questions on guilty verdict",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "",
-      "summary": "Manchester City chief executive Ferran Soriano refused to answer questions about the Premier League charges from BBC Sports Editor Dan Roan at a conference of top European clubs in Copenhagen.",
+      "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
       "published": "",
-      "title_zh": "曼城首席执行官拒绝回答有关有罪判决的问题",
-      "summary_zh": "在哥本哈根举行的欧洲顶级俱乐部会议上，曼城首席执行官费兰·索里亚诺拒绝回答英国广播公司体育编辑丹·罗恩有关英超指控的问题。"
+      "title_zh": "关于迪拜航空飞往以色列的航班上发生持刀伤人事件，我们了解多少",
+      "summary_zh": "官员称，机长和副驾驶受伤，一名飞行员被捕。"
     },
     {
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "title": "What we know about Cornell University frat house rape investigation",
       "link": "",
-      "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+      "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago.",
       "published": "",
-      "title_zh": "OpenAI 推出人工智能助手“dots”，安全担忧推迟新模型推出",
-      "summary_zh": "Sam Altman 在旧金山 OpenAI 技术开发人员年度活动期间发表讲话。"
+      "title_zh": "我们对康奈尔大学兄弟会强奸案调查了解多少",
+      "summary_zh": "该女子声称，两年前，她在大学的兄弟会所被下药并被强奸。"
     },
     {
-      "title": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
+      "title": "Watch: Couple describe relief at rescue after whale destroys their yacht",
       "link": "",
-      "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+      "summary": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
       "published": "",
-      "title_zh": "曼城犯有“虚假”合同和8.3亿英镑的“变相资助计划”",
-      "summary_zh": "英超联赛确认曼城队已被判犯有2009-10赛季至2017-18赛季期间违反英超联赛财务规则的所有指控。"
+      "title_zh": "观看：夫妇描述鲸鱼摧毁他们的游艇后救援过程中的救济",
+      "summary_zh": "杰里米·库珀 (Jeremy Cooper) 和杰玛·库珀 (Gemma Cooper) 在距离新西兰海岸 500 英里的地方，他们的游艇“大潭”号 (Tai Tam) 与一头抹香鲸相撞。"
+    },
+    {
+      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+      "link": "",
+      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+      "published": "",
+      "title_zh": "美国杀人犯克里斯塔·派克的处决在原定执行时间前一小时暂停",
+      "summary_zh": "1996 年，派克因谋杀科琳·斯莱默而被定罪并被判处死刑。"
+    },
+    {
+      "title": "Watch: Detail about new call to police changes RAF Fairford timeline",
+      "link": "",
+      "summary": "BBC correspondent Daniel Sandford explains the timeline of events following the news one of those arrested had called police.",
+      "published": "",
+      "title_zh": "观看：有关新报警的详细信息改变了皇家空军费尔福德时间表",
+      "summary_zh": "BBC 记者丹尼尔·桑德福德 (Daniel Sandford) 在其中一名被捕者报警的消息后解释了事件的时间表。"
+    },
+    {
+      "title": "UK research funded by China front company being sent to Beijing's spies, MI5 warns",
+      "link": "",
+      "summary": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
+      "published": "",
+      "title_zh": "军情五处警告称，由中国幌子公司资助的英国研究成果被发送给北京间谍",
+      "summary_zh": "英国大学被敦促切断与中国通用技术研究院的联系，该研究院与中国国家安全部（MSS）有联系。"
+    },
+    {
+      "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+      "link": "",
+      "summary": "One of the men seen outside the UK school attended by the children is understood to be an international press photographer.",
+      "published": "",
+      "title_zh": "在阿奇和莉莉贝特的学校附近发现男子后，苏塞克斯夫妇谴责“鲁莽的入侵”",
+      "summary_zh": "据了解，在孩子们就读的英国学校外看到的一名男子是一名国际新闻摄影师。"
+    },
+    {
+      "title": "Watch: Luxury prison in Indonesia demolished after public outcry",
+      "link": "",
+      "summary": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
+      "published": "",
+      "title_zh": "观看：印度尼西亚豪华监狱在公众强烈抗议后被拆除",
+      "summary_zh": "印度尼西亚立法者周三下令拆除首都附近一所监狱内一处有争议的豪华建筑。"
+    },
+    {
+      "title": "Lady A singer Charles Kelley reveals blood cancer diagnosis",
+      "link": "",
+      "summary": "The Grammy-winning US country music star, 45, says he currently feels \"great\" and is \"hopeful\".",
+      "published": "",
+      "title_zh": "Lady A 歌手查尔斯·凯利 (Charles Kelley) 透露自己患有血癌",
+      "summary_zh": "这位 45 岁的格莱美奖得主美国乡村音乐明星表示，他目前感觉“很棒”并且“充满希望”。"
+    },
+    {
+      "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
+      "link": "",
+      "summary": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts.",
+      "published": "",
+      "title_zh": "博茨瓦纳因庆祝独立而屠杀23头大象而受到谴责",
+      "summary_zh": "政府授权在独立日盛宴上狩猎大象和数十种其他野生动物。"
+    },
+    {
+      "title": "Singapore launches matchmaking service for government workers",
+      "link": "",
+      "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
+      "published": "",
+      "title_zh": "新加坡为政府工作人员推出婚介服务",
+      "summary_zh": "FirstDate 的推出正值这个老龄化国家与创纪录的低生育率作斗争之际。"
+    },
+    {
+      "title": "Rock, paper, scissors used to decide London Marathon race days for elite runners",
+      "link": "",
+      "summary": "A game of rock, paper, scissors is used to determine when the elite female and male races will take place at next year's two-day London Marathon.",
+      "published": "",
+      "title_zh": "石头、剪刀、布被用来决定伦敦马拉松精英跑者的比赛日",
+      "summary_zh": "明年为期两天的伦敦马拉松比赛将通过石头剪刀布游戏来决定男女精英比赛的举行时间。"
+    },
+    {
+      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+      "link": "",
+      "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+      "published": "",
+      "title_zh": "刑事调查？降级还是开除？曼城的关键问题",
+      "summary_zh": "BBC 体育频道探讨了曼城有罪判决后的关键问题。"
     }
   ]
 }
