@@ -1,6 +1,6 @@
 {
   "date": "20261002",
-  "total": 43,
+  "total": 35,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,321 +37,260 @@
   },
   "entries": [
     {
-      "title": "Hero pilot reveals split-second move as FlyDubai jet plunged thousands of feet",
+      "title": "G7 to release up to 100 million barrels of diesel and crude oil in bid to stop soaring prices",
+      "link": "",
+      "summary": "A statement released by the group, which includes France, the UK and Germany, says reserves would be released within four months.",
+      "published": "",
+      "title_zh": "G7将释放多达1亿桶柴油和原油以阻止价格飙升",
+      "summary_zh": "该组织（包括法国、英国和德国）发表声明称，储备金将在四个月内释放。"
+    },
+    {
+      "title": "Suspect charged with planning terror act against Nigel Farage",
+      "link": "",
+      "summary": "The 28-year-old man was previously charged with the murder of a former UK MP.",
+      "published": "",
+      "title_zh": "嫌疑人被指控策划针对奈杰尔·法拉奇的恐怖行动",
+      "summary_zh": "这名 28 岁男子此前被指控谋杀一名前英国议员。"
+    },
+    {
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "link": "",
+      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+      "published": "",
+      "title_zh": "纽约州州长表示，康奈尔大学强奸案调查中心的一名妇女被官员“失败”",
+      "summary_zh": "这名女子名叫简·多伊 (Jane Doe)，她声称 2024 年，她在该大学的兄弟会所被七名学生强奸。"
+    },
+    {
+      "title": "Riot police clash with students as education protests rage in France",
+      "link": "",
+      "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+      "published": "",
+      "title_zh": "法国教育抗议活动激烈，防暴警察与学生发生冲突",
+      "summary_zh": "由于针对标准和师资短缺的抗议活动仍在继续，600 多所学校面临中断。"
+    },
+    {
+      "title": "Watch: Why students in France are protesting",
+      "link": "",
+      "summary": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
+      "published": "",
+      "title_zh": "观看：法国学生为何抗议",
+      "summary_zh": "示威活动从法国首都开始，随后几天蔓延到全国各地。"
+    },
+    {
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "link": "",
+      "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+      "published": "",
+      "title_zh": "我见过近 500 起处决事件，但从来没有像克里斯塔·派克那样被处决",
+      "summary_zh": "得克萨斯州记者迈克尔·格拉奇克（Michael Graczyk）在他那个时代曾目睹过拙劣的处决，但没有一次有囚犯幸存。"
+    },
+    {
+      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
+      "link": "",
+      "summary": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
+      "published": "",
+      "title_zh": "中东石油供应几乎恢复到伊朗战争前水平的三个原因",
+      "summary_zh": "专家表示，美国利用穿梭油轮和绕过霍尔木兹海峡的管道提供军事援助，意味着出口已经反弹。"
+    },
+    {
+      "title": "Olivia Dean accused of copying song Just the Two of Us",
+      "link": "",
+      "summary": "British pop star Olivia Dean has been accused of copying the melody of Bill Withers' soul classic Just The Two of Us in a legal case filed in California.",
+      "published": "",
+      "title_zh": "奥利维亚·迪恩被指控抄袭歌曲《Just the Two of Us》",
+      "summary_zh": "英国流行歌星奥利维亚·迪恩在加州提起的诉讼中被指控抄袭比尔·威瑟斯的灵魂经典歌曲《Just The Two of Us》的旋律。"
+    },
+    {
+      "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
+      "link": "",
+      "summary": "Parton's niece Jada Star and Welsh singer Bronwen Lewis say the country artist was proud to sing in Welsh.",
+      "published": "",
+      "title_zh": "多莉·帕顿 (Dolly Parton) 在她去世后发布的唱片中用威尔士语演唱了乔琳 (Jolene)",
+      "summary_zh": "帕顿的侄女贾达·斯塔和威尔士歌手布朗文·刘易斯表示，这位乡村艺术家很自豪能用威尔士语唱歌。"
+    },
+    {
+      "title": "Homeless to history? Green eyes record-breaking UFC year at 40",
+      "link": "",
+      "summary": "At 40 years old, UFC lightweight Bobby Green is showing no signs of slowing down as he sets his sights on a historic end to 2026.",
+      "published": "",
+      "title_zh": "历史无家可归？绿眼睛破UFC年40岁纪录",
+      "summary_zh": "40 岁的 UFC 轻量级选手鲍比·格林 (Bobby Green) 并没有表现出放慢脚步的迹象，他的目标是在 2026 年实现历史性的结束。"
+    },
+    {
+      "title": "Man City whistleblower to lose witness protection",
+      "link": "",
+      "summary": "Portuguese computer hacker who released documents which led to the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
+      "published": "",
+      "title_zh": "曼城举报人将失去证人保护",
+      "summary_zh": "葡萄牙电脑黑客公布了导致英超联赛对曼城进行调查的文件，尽管他的生命受到威胁，但他将失去证人保护。"
+    },
+    {
+      "title": "‘I am Jane Doe’: Cornell case spurs women to share their experiences of sexual assault on campus",
+      "link": "https://www.nbcnews.com/news/us-news/iamjanedoe-cornell-sexual-assault-women-share-social-media-rcna600664",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我是无名氏”：康奈尔大学案件促使女性分享她们在校园里遭受性侵犯的经历"
+    },
+    {
+      "title": "Christa Pike unconscious, on a ventilator at Nashville hospital, her lawyers say",
+      "link": "https://www.nbcnews.com/news/us-news/christa-pike-unconscious-ventilator-nashville-hospital-lawyers-say-rcna601195",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯塔·派克（Christa Pike）的律师称，她在纳什维尔医院昏迷不醒，依靠呼吸机"
+    },
+    {
+      "title": "Police knew who her rapist was. The law kept them from prosecuting him for the attack.",
+      "link": "https://www.nbcnews.com/news/us-news/ohio-rape-dna-statute-limitations-rcna600394",
+      "summary": "",
+      "published": "",
+      "title_zh": "警察知道强奸她的人是谁。法律禁止他们因袭击事件起诉他。"
+    },
+    {
+      "title": "Kennedy Center Honors to be held off-site for the first time in the ceremony’s history",
+      "link": "https://www.nbcnews.com/politics/trump-administration/kennedy-center-honors-off-site-first-time-ceremony-history-rcna601112",
+      "summary": "",
+      "published": "",
+      "title_zh": "肯尼迪中心荣誉颁奖典礼历史上首次在场外举行"
+    },
+    {
+      "title": "On the fence",
+      "link": "https://www.nbcnews.com/politics/2026-election/16-undecided-voters-are-weighing-2026-election-options-rcna599899",
+      "summary": "",
+      "published": "",
+      "title_zh": "在栅栏上"
+    },
+    {
+      "title": "US blows open Hamas cash pipeline accused of funneling millions through fake charities",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "FlyDubai 喷气式飞机坠落数千英尺时，英雄飞行员展示了瞬间动作"
+      "title_zh": "美国炸毁哈马斯现金管道，被指控通过虚假慈善机构输送数百万美元"
     },
     {
-      "title": "Coveted US fighter jet sits at the center of Trump’s latest Iran pressure test",
+      "title": "Chilling moment local police realize who they have in custody: 'It's f---ing him'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "令人垂涎的美国战斗机处于特朗普最新伊朗压力测试的中心"
+      "title_zh": "令人心寒的时刻，当地警方意识到他们拘留了谁：“是他”"
     },
     {
-      "title": "Experts sound alarm over dangerous health trend increasingly affecting men",
+      "title": "CBS Sports ousts former Tony Romo after OWI arrest derails broadcast career",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家对日益影响男性的危险健康趋势发出警报"
+      "title_zh": "OWI 被捕导致广播事业脱轨后，哥伦比亚广播公司 (CBS) 体育频道解雇了前托尼·罗莫 (Tony Romo)"
     },
     {
-      "title": "Ms Rachel's political donations show clear pattern — thousands spent on one party's candidates",
+      "title": "Sports media celebrates Caitlin Clark and Sophie Cunningham losing in the playoffs",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Ms Rachel's political donations show clear pattern — thousands spent on one party's candidates"
+      "title_zh": "体育媒体庆祝凯特琳·克拉克和索菲·坎宁安在季后赛中失利"
     },
     {
-      "title": "Trump's new move could change what Americans must disclose to IRS",
+      "title": "Adults over 45 gained muscle without exercising after taking common supplement",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普的新举措可能会改变美国人必须向国税局披露的信息"
+      "title_zh": "45岁以上成年人服用普通补充剂后无需运动即可增肌"
     },
     {
-      "title": "Biblical mystery deepens as researchers drill  beneath possible Noah’s Ark site",
+      "title": "Gypsy Rose Blanchard’s boyfriend found dead at 34 after troubling final hours",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着研究人员在可能的诺亚方舟遗址下方钻探，圣经之谜加深"
+      "title_zh": "吉普赛·罗斯·布兰查德 (Gypsy Rose Blanchard) 的男友在经历了最后几个小时的麻烦后被发现死亡，享年 34 岁"
     },
     {
-      "title": "Police chief in Christa Pike's arrest has message about victim after botched execution",
+      "title": "Country star pushes back hard on Rosie O'Donnell's political remarks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "逮捕克里斯塔·派克的警察局长在处决失败后透露了有关受害者的信息"
+      "title_zh": "乡村明星强烈反驳罗西·奥唐纳的政治言论"
     },
     {
-      "title": "I saw the real DOGE from the inside. Why the media got DOGE and Elon Musk all wrong",
+      "title": "Obama judge throws wrench into Trump firing bid as decades-old precedent looms large",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "我从里面看到了真正的DOGE。为什么媒体对 DOGE 和埃隆·马斯克的误解"
+      "title_zh": "奥巴马法官阻止特朗普取消竞标，几十年前的先例凸显出来"
     },
     {
-      "title": "Gordon Ramsay drops wild wedding confession about giving daughter away",
+      "title": "Researchers warn banking credentials are at risk from AI-powered Android attack",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "戈登·拉姆齐 (Gordon Ramsay) 放弃了关于放弃女儿的狂野婚礼忏悔"
+      "title_zh": "研究人员警告银行凭证面临人工智能驱动的 Android 攻击的风险"
     },
     {
-      "title": "Fever player violently slammed to ground, but what the refs did next had fans fuming",
+      "title": "Cornell allegations put a little-known New York consent rule under fresh scrutiny",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "发烧球员猛烈摔倒在地，但裁判接下来的举动让球迷愤怒"
+      "title_zh": "康奈尔大学的指控使鲜为人知的纽约同意规则受到新的审查"
     },
     {
-      "title": "Gas station owner pushes back after pills found near Ole Miss student's body",
+      "title": "Supermarket voted best in America as customers praise meal kits, variety",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "密西西比大学学生尸体附近发现药丸后，加油站老板予以反击"
+      "title_zh": "超市被评为美国最佳超市，顾客称赞餐包、品种丰富"
     },
     {
-      "title": "Riley Gaines says legal fight against NCAA is far from over after court ruling",
+      "title": "College football refs ruin yet another game, and this one was pretty obvious",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "莱利·盖恩斯表示，法庭裁决后针对 NCAA 的法律斗争还远未结束"
+      "title_zh": "大学橄榄球裁判又毁掉了一场比赛，而这场比赛非常明显"
     },
     {
-      "title": "Parents won't stop fighting after Cornell freshman's fatal frat party night",
+      "title": "Johnny Depp's dramatic Scrooge transformation has fans doing a double take",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "康奈尔大学新生致命的兄弟会派对之夜后，父母不会停止争吵"
+      "title_zh": "约翰尼·德普 (Johnny Depp) 戏剧性的斯克鲁奇 (Scrooge) 转变让粉丝们大吃一惊"
     },
     {
-      "title": "France rocked by teen riots as government says political forces fanned the unrest",
+      "title": "Hero pilot reveals split-second decision as FlyDubai jet plunged thousands of feet",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国因青少年骚乱而震惊，政府称政治力量煽动骚乱"
+      "title_zh": "FlyDubai 喷气式飞机坠落数千英尺时，英雄飞行员做出了瞬间决定"
     },
     {
-      "title": "Taylor Sheridan fans get monster update about gritty and legendary film series",
+      "title": "Rising country star recalls 'blacking out' on stage with Morgan Wallen",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒·谢里丹 (Taylor Sheridan) 粉丝获得有关坚韧传奇电影系列的最新资讯"
+      "title_zh": "乡村新星回忆起与摩根·沃伦在舞台上“昏厥”的经历"
     },
     {
-      "title": "A'ja Wilson's mom melts down when pressed over her 'Love Beats Hate' sign in Vegas",
+      "title": "Inside Ken Griffin’s $1.1B gamble that just shook up Florida history",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿贾·威尔逊 (A'ja Wilson) 的妈妈在维加斯的“爱战胜恨”牌子上被逼到崩溃。"
+      "title_zh": "肯·格里芬 (Ken Griffin) 的 $1.1B 赌博刚刚震撼了佛罗里达州的历史"
     },
     {
-      "title": "ICE arrests accused child predator after Fairfax refused to honor detainer",
+      "title": "A trip to see a prostitute turns very costly as the NFL suspends the 49ers owner",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "费尔法克斯拒绝尊重拘留者后，ICE 逮捕了被指控的儿童掠夺者"
+      "title_zh": "NFL 禁止 49 人队老板出访，嫖妓成本高昂"
     },
     {
-      "title": "New York Gov. Kathy Hochul says Jane Doe in Cornell case was ‘failed’ by the system",
-      "link": "https://www.nbcnews.com/news/us-news/new-york-gov-kathy-hochul-speak-appointing-attorney-general-investigat-rcna601099",
+      "title": "Teen riots engulf France as government points to political force behind unrest",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约州州长凯西·霍赫尔 (Kathy Hochul) 表示，康奈尔大学案件中的无名氏被系统“失败”"
+      "title_zh": "青少年骚乱席卷法国，政府指出骚乱背后有政治力量"
     },
     {
-      "title": "Labor market slowed in September, final monthly jobs report before midterms shows",
-      "link": "https://www.nbcnews.com/business/economy/labor-market-slowed-september-final-monthly-jobs-report-midterms-shows-rcna600497",
+      "title": "Fever player violently slammed to ground, but refs’ next call had fans fuming",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中期选举前的最终月度就业报告显示，九月份劳动力市场放缓"
-    },
-    {
-      "title": "G-7 countries to release up to 100 million barrels of diesel and crude oil reserves",
-      "link": "https://www.nbcnews.com/business/energy/g-7-diesel-crude-release-trump-macron-rcna601132",
-      "summary": "",
-      "published": "",
-      "title_zh": "七国集团国家将释放多达1亿桶柴油和原油储备"
-    },
-    {
-      "title": "‘The medication has worn off’: Witness recalls failed execution of Christa Pike",
-      "link": "https://www.nbcnews.com/news/us-news/-medication-worn-witness-recalls-failed-tennessee-execution-christa-pi-rcna601063",
-      "summary": "",
-      "published": "",
-      "title_zh": "“药效已经失效”：目击者回忆克里斯塔·派克处决失败"
-    },
-    {
-      "title": "Democrats regain ground on voter registration in key states after steep post-2024 drops",
-      "link": "https://www.nbcnews.com/politics/2026-election/democrats-regain-ground-voter-registration-key-states-rcna599599",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党在 2024 年之后选民登记大幅下滑后，在关键州重新夺回阵地"
-    },
-    {
-      "title": "‘Couldn’t let all of them die’: Pilot attacked midair speaks for first time",
-      "link": "https://www.nbcnews.com/world/middle-east/indian-pilot-averted-crash-israel-bound-flight-speaks-rcna601090",
-      "summary": "",
-      "published": "",
-      "title_zh": "“不能让他们全部死去”：空中遇袭飞行员首次讲话"
-    },
-    {
-      "title": "Trump clashes ahead as new Supreme Court term begins",
-      "link": "https://www.nbcnews.com/politics/supreme-court/trump-clashes-ahead-new-supreme-court-term-begins-rcna600256",
-      "summary": "",
-      "published": "",
-      "title_zh": "最高法院新任期开始后特朗普将发生冲突"
-    },
-    {
-      "title": "How Trump’s homelessness crackdown became a sweeping retreat from disability rights",
-      "link": "https://www.nbcnews.com/politics/justice-department/trump-homelessness-crackdown-retreat-disability-rights-olmstead-rcna600545",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普对无家可归者的镇压如何成为残疾人权利的彻底倒退"
-    },
-    {
-      "title": "When teens get colorectal cancer, it’s often an aggressive form of the disease",
-      "link": "https://www.nbcnews.com/health/health-news/teens-get-colorectal-cancer-s-often-aggressive-form-disease-rcna600995",
-      "summary": "",
-      "published": "",
-      "title_zh": "当青少年患上结直肠癌时，它通常是一种侵袭性的疾病"
-    },
-    {
-      "title": "A dose of caution",
-      "link": "https://www.nbcnews.com/health/health-news/kratom-related-compounds-supplements-cats-claw-rcna600754",
-      "summary": "",
-      "published": "",
-      "title_zh": "一剂谨慎"
-    },
-    {
-      "title": "Woman in Cornell University rape case was 'failed at every turn', New York governor says",
-      "link": "",
-      "summary": "The woman filed a civil lawsuit against the Ivy League university alleging she was drugged and raped at a fraternity house.",
-      "published": "",
-      "title_zh": "纽约州州长称康奈尔大学强奸案中的女子“每次都失败”",
-      "summary_zh": "该女子对常春藤联盟大学提起民事诉讼，指控她在兄弟会会所被下药并遭到强奸。"
-    },
-    {
-      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-      "link": "",
-      "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
-      "published": "",
-      "title_zh": "中期选举前美国就业市场急剧放缓",
-      "summary_zh": "由于美国雇主在距离中期选举仅一个月之际暂停招聘，失业率略有上升。"
-    },
-    {
-      "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-      "link": "",
-      "summary": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-      "published": "",
-      "title_zh": "韩国流行音乐巨头 Stray Kids 与 BTS 一起抵制格莱美颁奖典礼",
-      "summary_zh": "Stray Kids 成为第二个因获得新的最佳亚洲流行奖而退出格莱美奖的主要艺人。"
-    },
-    {
-      "title": "'Ashamed': Cornell students gather to voice anger over alleged gang rape",
-      "link": "",
-      "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-      "published": "",
-      "title_zh": "“羞耻”：康奈尔大学学生聚集在一起对涉嫌轮奸表示愤怒",
-      "summary_zh": "学生们告诉 BBC，自从 2024 年的指控重新浮出水面以来，校园里的紧张气氛变得显而易见。"
-    },
-    {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "",
-      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "published": "",
-      "title_zh": "“我不会让其他人死去”——迪拜航空航班飞行员描述副驾驶对驾驶舱的攻击",
-      "summary_zh": "斯密特·马赫恰尔上尉告诉印度总理纳伦德拉·莫迪，他在袭击期间打开了驾驶舱门，让其他人进入。"
-    },
-    {
-      "title": "Fires lit on streets across France after student protests force hundreds of schools to close",
-      "link": "",
-      "summary": "Riot police are out in several cities, with justice minister Gerald Darmanin saying \"we have gone from high-school student demonstrations to a public order disturbance\".",
-      "published": "",
-      "title_zh": "学生抗议迫使数百所学校关闭后，法国街头起火",
-      "summary_zh": "防暴警察在多个城市出动，司法部长杰拉尔德·达尔马宁表示，“我们已经从高中学生示威变成了公共秩序骚乱”。"
-    },
-    {
-      "title": "School protests send shivers down French government's spine",
-      "link": "",
-      "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
-      "published": "",
-      "title_zh": "学校抗议让法国政府脊背发凉",
-      "summary_zh": "休·斯科菲尔德写道，一场大约两周前开始的运动已经蔓延开来，在法国，年轻人走上街头会带来麻烦。"
-    },
-    {
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "link": "",
-      "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "published": "",
-      "title_zh": "耐克出了什么问题？世界运动服装巨头如何失去魔力",
-      "summary_zh": "近年来，一些自己造成的错误已经让这个地球上最大的运动服装品牌付出了代价。"
-    },
-    {
-      "title": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-      "link": "",
-      "summary": "Thousands of people have turned up at a protest in Mumbai called by the Cockroach Janta Party.",
-      "published": "",
-      "title_zh": "印度“蟑螂”抗议者卷土重来，这次要求民意调查负责人辞职",
-      "summary_zh": "数千人参加了孟买蟑螂党发起的抗议活动。"
-    },
-    {
-      "title": "What's really going on with the lymphatic drainage beauty trend videos?",
-      "link": "",
-      "summary": "Fans of these massages claim they \"depuff\" and \"define\" their stomach - but what's actually happening to their bodies?",
-      "published": "",
-      "title_zh": "淋巴引流美容趋势视频到底是怎么回事？",
-      "summary_zh": "这些按摩的粉丝声称它们可以“消除浮肿”并“定义”他们的胃 - 但他们的身体实际上发生了什么？"
-    },
-    {
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "link": "",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "published": "",
-      "title_zh": "随着北部冲突升级，埃塞俄比亚和厄立特里亚断绝外交关系",
-      "summary_zh": "外交影响发生之际，埃塞俄比亚军队正在其北部地区与叛军作战。"
-    },
-    {
-      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-      "link": "",
-      "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
-      "published": "",
-      "title_zh": "澳大利亚称 Steam 和 Roblox 等平台存在“重大”儿童安全漏洞",
-      "summary_zh": "在线安全监管机构还要求《堡垒之夜》和《我的世界》“提升游戏水平”。"
-    },
-    {
-      "title": "Ferguson 'terrified' before 'fantastic' return to Man Utd after brain haemorrhage",
-      "link": "",
-      "summary": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
-      "published": "",
-      "title_zh": "弗格森在脑溢血后“神奇”地回到曼联之前“感到害怕”",
-      "summary_zh": "前曼联主教练亚历克斯·弗格森爵士在临近 85 岁生日时接受 BBC 早餐节目采访。"
-    },
-    {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "link": "",
-      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "published": "",
-      "title_zh": "OpenAI 因“敏感信息处理不当”而解雇员工",
-      "summary_zh": "这些前雇员因与外部人工智能评估小组共享数据而受到调查。"
-    },
-    {
-      "title": "More than 5,000 people killed or injured in Haiti due to gang violence this year, UN says",
-      "link": "",
-      "summary": "The United Nations said violent gangs continue to \"adapt and expand\" across the country, further threatening its stability.",
-      "published": "",
-      "title_zh": "联合国表示，今年海地有超过 5000 人因帮派暴力而死伤",
-      "summary_zh": "联合国表示，暴力团伙继续在全国范围内“适应和扩张”，进一步威胁其稳定。"
-    },
-    {
-      "title": "What does Man City guilty verdict mean for their squad?",
-      "link": "",
-      "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
-      "published": "",
-      "title_zh": "曼城有罪判决对他们的球队意味着什么？",
-      "summary_zh": "BBC体育频道关注曼城的有罪判决将如何影响其现有球员的未来以及俱乐部在转会市场上的交易。"
+      "title_zh": "发烧球员猛烈摔倒在地，但裁判的下一个判罚让球迷愤怒"
     }
   ]
 }
