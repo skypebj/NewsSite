@@ -1,6 +1,6 @@
 {
   "date": "20261003",
-  "total": 30,
+  "total": 15,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,224 +37,112 @@
   },
   "entries": [
     {
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "title": "Children are dying falling into abandoned Afghan wells - this is how one five-year-old was rescued",
       "link": "",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "How an 11-year-old risked his own life to save one of the victims of Afghanistan's dependency on water from deep underground.",
       "published": "",
-      "title_zh": "“街头的愤怒”：西班牙数万人抗议住房危机",
-      "summary_zh": "由于政府未能让议会通过紧急立法，周六发生了 50 多场抗议活动。"
+      "title_zh": "阿富汗废弃水井中的儿童惨遭溺水身亡——一名五岁儿童就是这样获救的",
+      "summary_zh": "一名 11 岁的孩子如何冒着生命危险拯救阿富汗依赖地下深处水的一名受害者。"
     },
     {
-      "title": "How widely used is the death penalty in the US?",
+      "title": "Two going on four, five or six on good night for new Scotland era",
       "link": "",
-      "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?",
+      "summary": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
       "published": "",
-      "title_zh": "死刑在美国的适用范围有多大？",
-      "summary_zh": "克里斯塔·派克在田纳西州两次注射死刑中幸存后，死刑又重新出现在新闻中——但死刑在美国的使用范围有多大呢？"
+      "title_zh": "两人四人、五人或六人共度新苏格兰时代的晚安",
+      "summary_zh": "汤姆·英格利希（Tom English）写道，苏格兰在北马其顿梅开二度，但比分并不能反映出他们在斯科普里的统治地位。"
     },
     {
-      "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
+      "title": "Leicester hold off Newcastle for first Prem win",
       "link": "",
-      "summary": "Even Lewis Hamilton fears Max Verstappen will be tough to beat in Sunday's Bahrain Grand Prix.",
+      "summary": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
       "published": "",
-      "title_zh": "“不可思议”的红牛升级为马来西亚 F1 注入活力",
-      "summary_zh": "就连刘易斯·汉密尔顿也担心马克斯·维斯塔潘在周日的巴林大奖赛上很难被击败。"
+      "title_zh": "莱斯特城力压纽卡斯尔取得英超首胜",
+      "summary_zh": "莱斯特老虎队在英超联赛中战胜纽卡斯尔红牛队，取得了本赛季的首场胜利。"
     },
     {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "published": "",
-      "title_zh": "阿联酋官员称，迪拜航空副驾驶用斧头袭击了机长",
-      "summary_zh": "多家媒体将这名被指控试图接管这架飞往以色列的飞机的男子称为哈马姆·哈马米(Hamam al-Hammami)。"
-    },
-    {
-      "title": "I interviewed Christa Pike 20 years ago - I can't stop thinking about her",
-      "link": "",
-      "summary": "Journalist Helen Roberts says Christa Pike the person and the criminal were \"two different people\".",
-      "published": "",
-      "title_zh": "20 年前我采访了 Christa Pike - 我无法停止想起她",
-      "summary_zh": "记者海伦·罗伯茨说，克里斯塔·派克这个人和罪犯是“两个不同的人”。"
-    },
-    {
-      "title": "Why has Brazil accused the US of election interference?",
-      "link": "",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "published": "",
-      "title_zh": "巴西为何指责美国干预选举？",
-      "summary_zh": "由于卢拉·达席尔瓦和博尔索纳罗在主权、安全以及与华盛顿的关系方面存在冲突，这个拉丁美洲国家将投票选出下一任总统。"
-    },
-    {
-      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-      "link": "",
-      "summary": "Research shows there are several reasons people might experience motion sickness in electric vehicles.",
-      "published": "",
-      "title_zh": "电动汽车司机喜欢他们的汽车，但有些乘客感到不舒服 - 这可能就是原因",
-      "summary_zh": "研究表明，人们在电动汽车中出现晕动病的原因有多种。"
-    },
-    {
-      "title": "Watch: Nations League - Bowie lashes in stunning Scotland opener in North Macedonia",
-      "link": "",
-      "summary": "Watch Sportscene coverage, listen to Sportsound commentary and follow text updates and in-play clips as Scotland face North Macedonia in Skopje in the Nations League.",
-      "published": "",
-      "title_zh": "观看：国家联赛 - 鲍伊在北马其顿的苏格兰揭幕战中大放异彩",
-      "summary_zh": "苏格兰在斯科普里举行的国家联赛中对阵北马其顿，观看 Sportscene 报道、收听 Sportsound 评论并关注文本更新和比赛中片段。"
-    },
-    {
-      "title": "Republic of Ireland news conference ends abruptly amid accusations",
-      "link": "",
-      "summary": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
-      "published": "",
-      "title_zh": "爱尔兰共和国新闻发布会因指责而突然结束",
-      "summary_zh": "爱尔兰共和国主教练海米尔·哈尔格里姆森的赛前新闻发布会突然结束，因为他的球员受到了指控。"
-    },
-    {
-      "title": "Super League Grand Final: Wakefield beat Warrington to win first Super League title",
-      "link": "",
-      "summary": "Build-up, team news, live text, score & listen to local BBC radio commentaries of Saturday's Super League Grand Final as Warrington Wolves face Wakefield Trinity at Old Trafford.",
-      "published": "",
-      "title_zh": "中超总决赛：韦克菲尔德击败沃灵顿夺得首个中超冠军",
-      "summary_zh": "沃灵顿狼队在老特拉福德迎战韦克菲尔德三一队，了解周六超级联赛总决赛的集结、球队新闻、实时文本、得分并收听当地 BBC 广播评论。"
-    },
-    {
-      "title": "Tennessee’s prisons chief is resigning after failed execution of Christa Pike, governor says",
-      "link": "https://www.nbcnews.com/news/us-news/tennessees-prisons-chief-resigning-failed-execution-christina-pike-rcna601287",
+      "title": "Cornell University police made drug arrest hours before alleged sexual assault",
+      "link": "https://www.nbcnews.com/news/us-news/cornell-university-police-made-drug-arrest-hours-alleged-sexual-assaul-rcna601309",
       "summary": "",
       "published": "",
-      "title_zh": "州长表示，田纳西州监狱长因克里斯塔·派克处决失败而辞职"
+      "title_zh": "康奈尔大学警方在涉嫌性侵犯前数小时逮捕了毒品"
     },
     {
-      "title": "Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium concert, weeks after Ed Sheeran tour uproar",
-      "link": "https://www.nbcnews.com/news/us-news/zach-bryan-wears-free-palestine-shirt-gillette-stadium-rcna601286",
+      "title": "Walmart’s quest for market share expands with a new, bohemian fashion brand",
+      "link": "https://www.nbcnews.com/business/consumer/walmarts-quest-market-share-expands-new-fashion-brand-rcna600255",
       "summary": "",
       "published": "",
-      "title_zh": "扎克·布莱恩 (Zach Bryan) 在艾德·希兰 (Ed Sheeran) 巡演引发轩然大波几周后，在吉列体育场 (Gillette Stadium) 的音乐会上穿着“自由巴勒斯坦”衬衫"
+      "title_zh": "沃尔玛通过新的波西米亚时尚品牌扩大市场份额"
     },
     {
-      "title": "Coast Guard searching off Nantucket for missing medical evacuation jet",
-      "link": "https://www.nbcnews.com/news/us-news/coast-guard-searching-nantucket-missing-jet-bermuda-boston-rcna601265",
-      "summary": "",
-      "published": "",
-      "title_zh": "海岸警卫队在楠塔基特岛附近搜寻失踪的医疗后送飞机"
-    },
-    {
-      "title": "Can Democrats mess with (Republican) Texas?",
-      "link": "https://www.nbcnews.com/video/can-democrats-mess-with-republican-texas-270876741728",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党可以扰乱德克萨斯州（共和党）吗？"
-    },
-    {
-      "title": "Coast Guard launches search after medical transport jet carrying 6 vanishes",
+      "title": "Rubio follows through after Iranian diplomats ignore order to leave",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "载有六人的医疗运输机失踪后，海岸警卫队展开搜寻"
+      "title_zh": "伊朗外交官无视离开命令后卢比奥坚持到底"
     },
     {
-      "title": "Expert warns Dem gov's massive tax could shrink federal holding capacity nationwide",
+      "title": "Stunning details resurface in Caitlin Clark, Sophie Cunningham's chaotic season",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家警告民主党政府的巨额税收可能会缩小全国范围内的联邦控股能力"
+      "title_zh": "凯特琳·克拉克、索菲·坎宁安混乱的赛季中令人惊叹的细节重新浮现"
     },
     {
-      "title": "Michael Douglas kept secret affair with A-list co-star hidden for 40 years",
+      "title": "Trump releases GOP senator's personal cell number in push to end daylight saving time",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克尔·道格拉斯 (Michael Douglas) 与一线明星搭档的秘密恋情被隐藏了 40 年"
+      "title_zh": "特朗普公布共和党参议员的个人手机号码以推动结束夏令时"
     },
     {
-      "title": "Country star's entire crew wears pro-Palestinian gear at venue that barred Macklemore",
+      "title": "One group of married Americans is having more sex — and happier marriages",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村明星的整个工作人员在禁止麦克勒莫的场地穿着亲巴勒斯坦的装备"
+      "title_zh": "一组已婚美国人的性生活越来越多，婚姻也越来越幸福"
     },
     {
-      "title": "Tennessee prison chief resigns after failed execution leaves Christa Pike on ventilator",
+      "title": "Minnesota exposes Michigan Wolverines in another costly NIL spending disaster",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "田纳西州监狱长因处决失败导致克里斯塔·派克依靠呼吸机辞职"
+      "title_zh": "明尼苏达州暴露密歇根狼獾队陷入另一场代价高昂的零支出灾难"
     },
     {
-      "title": "Star says 'no one returned my calls' after anti-Islam comment led to Hollywood fallout",
+      "title": "Cult-favorite movie's iconic Route 66 cafe faces uncertain future as highway turns 100",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "反伊斯兰言论引发好莱坞影响后，明星表示“没有人回我的电话”"
+      "title_zh": "随着高速公路 100 岁生日，备受喜爱的电影标志性 66 号公路咖啡馆面临着不确定的未来"
     },
     {
-      "title": "High school football game turns ugly as massive postgame brawl breaks out",
+      "title": "Noah's Ark mystery deepens as researchers uncover new clues beneath boat-shaped site",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "高中橄榄球比赛因赛后大规模斗殴而变得丑陋"
+      "title_zh": "随着研究人员在船形遗址下发现新线索，诺亚方舟之谜加深"
     },
     {
-      "title": "Anti-Trump 'No Kings' organizers set up shop at rock concert outside the capital",
+      "title": "Mom can't recall last feeding before young daughters found dead, affidavits say",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "反特朗普“无国王”组织者在首都郊外的摇滚音乐会上开设商店"
+      "title_zh": "证词称，妈妈不记得小女儿被发现死亡前最后一次喂奶"
     },
     {
-      "title": "DOGE insider saw Elon Musk up close — what he witnessed defied the media's narrative",
+      "title": "Killers frontman goes country and religious and conservatives can't get enough",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "DOGE 内部人士近距离观察埃隆·马斯克——他所目睹的一切与媒体的叙述相悖"
+      "title_zh": "杀手主唱走向乡村，宗教和保守派无法满足"
     },
     {
-      "title": "AI researcher warns autonomous agents are learning to cheat and deceive",
+      "title": "MLB star records rare pitching feat during dominant White Sox postseason win",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "人工智能研究人员警告自主代理正在学习作弊和欺骗"
-    },
-    {
-      "title": "Israel says back-to-back Gaza strikes take out 2 Iran-linked terror commanders",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "以色列称加沙连续袭击杀死了两名与伊朗有关的恐怖分子指挥官"
-    },
-    {
-      "title": "College football world stumped as new angle shows missed field goal may have been good",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "大学橄榄球界陷入困境，新角度显示错失射门可能是件好事"
-    },
-    {
-      "title": "Former adult industry worker's pointed message to Christians after her encounter with Jesus",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前成人产业工人在遇见耶稣后向基督徒传达的尖锐信息"
-    },
-    {
-      "title": "Federal judge strikes down noncitizen voting ban, setting up high-stakes appeal",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "联邦法官推翻非公民投票禁令，提出高风险上诉"
-    },
-    {
-      "title": "Former Israeli pilot marvels at 'resilience' of second crew who landed FlyDubai jet",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前以色列飞行员对降落 FlyDubai 喷气式飞机的第二名机组人员的“韧性”感到惊讶"
-    },
-    {
-      "title": "DANA PERINO:The untold story of the remarkable people who make Fox News possible",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "达纳·佩里诺：使福克斯新闻成为可能的杰出人物的不为人知的故事"
+      "title_zh": "美国职业棒球大联盟 (MLB) 球星在白袜队 (White Sox) 季后赛统治胜利期间创下罕见的投球壮举"
     }
   ]
 }
