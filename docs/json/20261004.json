@@ -1,6 +1,6 @@
 {
   "date": "20261004",
-  "total": 37,
+  "total": 29,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,276 +37,216 @@
   },
   "entries": [
     {
-      "title": "Poll: Latino voters swing away from Trump and Republicans",
-      "link": "https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894",
+      "title": "Early indications suggest co-pilot acted alone in attack, officials say",
+      "link": "https://www.nbcnews.com/world/middle-east/flydubai-copilot-acted-alone-rcna601436",
       "summary": "",
       "published": "",
-      "title_zh": "民意调查：拉丁裔选民逐渐远离特朗普和共和党"
+      "title_zh": "Early indications suggest co-pilot acted alone in attack, officials say"
     },
     {
-      "title": "How the shooting death of a Houston father is igniting Latino politics in Texas",
-      "link": "https://www.nbcnews.com/politics/2026-election/shooting-death-houston-father-igniting-latino-politics-texas-rcna598588",
+      "title": "Cornell rape accuser faces threats demanding she drops her suit, attorney says",
+      "link": "https://www.nbcnews.com/news/us-news/cornell-jane-doe-receive-threats-rcna601417",
       "summary": "",
       "published": "",
-      "title_zh": "休斯顿父亲的枪杀事件如何点燃德克萨斯州的拉丁裔政治"
+      "title_zh": "律师称，康奈尔大学强奸案原告面临威胁，要求她放弃诉讼"
     },
     {
-      "title": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa",
-      "link": "https://www.nbcnews.com/world/japan/us-marine-arrested-suspicion-killing-japanese-woman-okinawa-rcna601367",
+      "title": "Accused Cornell fraternity member confronted on camera",
+      "link": "https://www.today.com/video/accused-cornell-fraternity-member-confronted-on-camera-270983237923",
       "summary": "",
       "published": "",
-      "title_zh": "美国海军陆战队因涉嫌在冲绳杀害日本妇女而被捕"
+      "title_zh": "被指控的康奈尔兄弟会成员在镜头前面对"
     },
     {
-      "title": "Taiwan reckons with the prospect of fending for itself as Trump pivots on China",
-      "link": "https://www.nbcnews.com/world/asia/taiwan-reckons-prospect-fending-trump-pivots-china-rcna600640",
+      "title": "Rahm Emanuel says Democrats should focus on ethics reforms, not impeaching Trump",
+      "link": "https://www.nbcnews.com/politics/politics-news/rahm-emmanuel-democrats-focus-ethics-reforms-impeaching-trump-rcna601388",
       "summary": "",
       "published": "",
-      "title_zh": "随着特朗普转向中国，台湾考虑自力更生的前景"
+      "title_zh": "拉姆·伊曼纽尔表示民主党应该关注道德改革，而不是弹劾特朗普"
     },
     {
-      "title": "The Jets might be improved. But they still can’t intercept a pass.",
-      "link": "https://www.nbcnews.com/sports/nfl/jets-might-improved-still-cant-intercept-pass-rcna600829",
+      "title": "Why 7 million fewer working women get paid time off than men",
+      "link": "https://www.nbcnews.com/data-graphics/women-less-likely-men-get-paid-time-federal-data-shows-rcna600524",
       "summary": "",
       "published": "",
-      "title_zh": "喷气机可能会有所改进。但他们仍然无法拦截传球。"
+      "title_zh": "为什么获得带薪休假的职业女性比男性少 700 万"
     },
     {
-      "title": "Lizzo talks about her new children’s book and inspiring the next generation of musicians",
-      "link": "https://www.nbcnews.com/video/lizzo-talks-with-willie-geist-about-her-new-children-s-book-and-inspiring-the-next-generation-of-musicians-270815301613",
-      "summary": "",
-      "published": "",
-      "title_zh": "利佐谈论她的新儿童读物以及对下一代音乐家的启发"
-    },
-    {
-      "title": "50-year friendship ends in tragedy on long-awaited birthday trip to beachside bar",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
       "link": "",
-      "summary": "",
+      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
       "published": "",
-      "title_zh": "50 年友谊在期待已久的海滨酒吧生日之旅中以悲剧告终"
+      "title_zh": "观看：我们对俄罗斯袭击基辅桥梁的了解",
+      "summary_zh": "BBC 乌克兰记者丹·约翰逊 (Dan Johnson) 位于基辅北桥附近，该桥已连续第二天遭到袭击。"
     },
     {
-      "title": "Trump envoy blasts country over 'kill' chant, warns nation is drifting toward US foes",
+      "title": "Indian police accused of sexual harassment against journalists at protest",
       "link": "",
-      "summary": "",
+      "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
       "published": "",
-      "title_zh": "特朗普特使抨击国家高喊“杀戮”，警告国家正在向美国敌人靠拢"
+      "title_zh": "印度警察被指控在抗议活动中对记者进行性骚扰",
+      "summary_zh": "这些指控是在警方拘留了数十名抗议者后提出的，这些抗议者要求选举负责人因选民名册变化而辞职。"
     },
     {
-      "title": "Immigrant truck driver's fatal crash sparks massive fraud controversy in small town USA",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
       "link": "",
-      "summary": "",
+      "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
       "published": "",
-      "title_zh": "移民卡车司机致命车祸在美国小镇引发大规模欺诈争议"
+      "title_zh": "律师称，克里斯塔·派克执行失败后的预后仍不清楚",
+      "summary_zh": "派克的律师表示，医生仍在尝试从她体内清除两剂致命剂量的戊巴比妥。"
     },
     {
-      "title": "GOP Senate candidate's estranged wife confirms who she's voting for amid divorce",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
       "link": "",
-      "summary": "",
+      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
       "published": "",
-      "title_zh": "共和党参议院候选人分居的妻子确认她在离婚期间投票给谁"
+      "title_zh": "也门政府宣布全面战争，从胡塞武装手中夺回土地",
+      "summary_zh": "也门总统宣布这一消息之际，胡塞武装和沙特领导的联军正在交火。"
     },
     {
-      "title": "The dirtiest part of your morning brew isn't the water reservoir, coffee pro warns",
+      "title": "British Museum announces changes to ease Bayeux Tapestry queues",
       "link": "",
-      "summary": "",
+      "summary": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
       "published": "",
-      "title_zh": "咖啡专业人士警告说，早晨冲泡咖啡时最脏的部分不是储水器"
+      "title_zh": "大英博物馆宣布改变以缓解贝叶挂毯排队现象",
+      "summary_zh": "措施包括延长开放时间、音频指南和为游客提供额外座位。"
     },
     {
-      "title": "Mideast nation strikes terror group to root them out of last remaining territory",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "中东国家打击恐怖组织，将其从最后的剩余领土上铲除"
-    },
-    {
-      "title": "Murder suspect's stolen alias used for 17 years unravels over routine request: police",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "谋杀嫌疑人被盗使用17年的化名因例行要求而被揭开：警方"
-    },
-    {
-      "title": "Popular cookie chain abruptly closes all locations after years of rapid expansion",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "经过多年的快速扩张后，受欢迎的饼干连锁店突然关闭了所有门店"
-    },
-    {
-      "title": "Trump announces 'Super Intelligence Force' to ensure American dominance",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普宣布建立“超级情报力量”以确保美国的主导地位"
-    },
-    {
-      "title": "Fever star Sophie Cunningham tells A'ja Wilson to 'grow up' after playoff incident",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "狂热明星索菲·坎宁安 (Sophie Cunningham) 在季后赛事件后告诉阿贾·威尔逊 (A'ja Wilson) “成长”"
-    },
-    {
-      "title": "Fitness expert reveals the 10-minute habit adults over 40 should be doing every day",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "健身专家揭示40岁以上成年人每天应该做的10分钟习惯"
-    },
-    {
-      "title": "Gen Z freshmen are bolting from campus just weeks into fall college semester",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "秋季大学学期刚开始几周，Z 世代新生就纷纷离开校园"
-    },
-    {
-      "title": "CEO SUNDAY:Restaurant CEO reveals the simple leadership rule he swears by",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "CEO SUNDAY:Restaurant CEO reveals the simple leadership rule he swears by"
-    },
-    {
-      "title": "What went wrong? New details reveal what led to supermodel's split from Tom Brady",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "出了什么问题？新细节揭示了超模与汤姆·布雷迪分手的原因"
-    },
-    {
-      "title": "Super Bowl champ Jon Gruden's surprise conservative debut fires up Ohio rally",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "超级碗冠军乔恩·格鲁登出人意料的保守派首秀点燃了俄亥俄州的集会"
-    },
-    {
-      "title": "Actor wrestles with dad's dark legacy while returning to site of family tragedy",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "演员在返回家庭悲剧现场时与父亲的黑暗遗产进行斗争"
-    },
-    {
-      "title": "DR MARC SIEGEL:What the angels against alcohol can teach us about healing",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "马克·西格尔博士：反对酒精的天使可以教给我们什么关于治疗的知识"
-    },
-    {
-      "title": "GOP finds fresh midterm ammunition in Democratic opposition to voter ID",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党在民主党反对选民身份方面找到了新的中期弹药"
-    },
-    {
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "link": "",
-      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "published": "",
-      "title_zh": "埃塞俄比亚叛军从提格雷地区首府撤出",
-      "summary_zh": "默克莱的两名居民告诉 BBC，亲政府部队已经控制了这座城市。"
-    },
-    {
-      "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-      "link": "",
-      "summary": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
-      "published": "",
-      "title_zh": "2027 年格拉斯顿伯里音乐节门票 42 分钟内售罄",
-      "summary_zh": "数千人加入队列，希望获得沃西农场的门票。"
-    },
-    {
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "",
-      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-      "published": "",
-      "title_zh": "澳大利亚正在调查迪拜航空副驾驶与该国的联系",
-      "summary_zh": "国家警察和国家安全机构正在调查副驾驶，他试图控制一架飞往以色列的迪拜航空飞机。"
-    },
-    {
-      "title": "Verstappen wins Bahrain GP in Malaysia after long delays",
-      "link": "",
-      "summary": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
-      "published": "",
-      "title_zh": "维斯塔潘在长时间拖延后在马来西亚赢得巴林大奖赛",
-      "summary_zh": "在马来西亚举行的戏剧性的巴林大奖赛中，马克斯·维斯塔潘 (Max Verstappen) 凭借统治力的驾驶赢得了他和红牛今年的首场胜利，这场比赛在混乱和前所未有的场景中开始。"
-    },
-    {
-      "title": "UK Celebrity Traitors connections that might surprise you",
-      "link": "",
-      "summary": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
-      "published": "",
-      "title_zh": "英国名人叛徒的联系可能会让你感到惊讶",
-      "summary_zh": "许多明星都曾一起工作过，有些是好朋友——这会影响节目的动态。"
-    },
-    {
-      "title": "Why Canada is preparing for an unlikely US invasion",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
       "link": "",
       "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "published": "",
-      "title_zh": "为什么加拿大正在为美国不太可能的入侵做准备",
+      "title_zh": "为什么加拿大正在推演美国入侵（可能性不大）",
       "summary_zh": "加拿大总理马克·卡尼表示，军方正在模拟美国入侵加拿大的可能性。"
     },
     {
-      "title": "Pastors may not be seen or heard preaching on Ghana's buses for much longer",
+      "title": "Djokovic beats Zverev to reach China Open semis",
       "link": "",
-      "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "summary": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
       "published": "",
-      "title_zh": "牧师在加纳公交车上讲道的时间可能会很长",
-      "summary_zh": "加纳是一个以基督教为主的国家，公共交通上的布道十分普遍。"
+      "title_zh": "德约科维奇击败兹维列夫晋级中国公开赛半强",
+      "summary_zh": "诺瓦克·德约科维奇在中国公开赛四分之一决赛中艰难获胜，继续追求赢得 2026 年首座奖杯。"
     },
     {
-      "title": "Sabalenka stunned by Bartunkova at China Open",
+      "title": "Members of UK's Green Party back 'Zionism is racism' motion",
       "link": "",
-      "summary": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova.",
+      "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
       "published": "",
-      "title_zh": "萨巴伦卡在中国公开赛上惨败于巴通科娃",
-      "summary_zh": "世界排名第二的阿琳娜·萨巴伦卡（Aryna Sabalenka）紧随埃琳娜·雷巴金娜（Elena Rybakina）在中国公开赛上出人意料地输给了尼古拉·巴图科娃（Nikola Bartunkova）。"
+      "title_zh": "英国绿党成员支持“犹太复国主义就是种族主义”动议",
+      "summary_zh": "这次投票在布莱顿举行的党内会议上引起了党内高层人士的分歧。"
     },
     {
-      "title": "US father and son arrested after suspected kratom drug deaths",
+      "title": "Watch & follow:  Denmark turning screw against Wales in Nations League",
       "link": "",
-      "summary": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
+      "summary": "Follow live text commentary, score updates and match stats from Wales vs Denmark in the Uefa Nations League.",
       "published": "",
-      "title_zh": "美国父子因涉嫌卡痛毒品致死被捕",
-      "summary_zh": "他们被指控出售至少一种卡痛叶学生衍生品，在美国通常被称为“加油站海洛因”。"
+      "title_zh": "观看并关注：丹麦在国家联赛中对阵威尔士",
+      "summary_zh": "关注欧洲国家联赛威尔士对阵丹麦的实时文字评论、比分更新和比赛统计数据。"
     },
     {
-      "title": "Porridge makers from opposite sides of globe triumph in world championship",
+      "title": "Southern state quietly rises as America's new economic powerhouse",
       "link": "",
-      "summary": "Dutch champion Gina Saarberg took the coveted Golden Spurtle, while Australian champion maestro Rob Reid won the Speciality Porridge category at the finals in the Scottish Highlands.",
+      "summary": "",
       "published": "",
-      "title_zh": "来自世界各地的粥制造商在世界冠军赛中获胜",
-      "summary_zh": "荷兰冠军吉娜·萨尔伯格 (Gina Saarberg) 夺得了令人垂涎的金雀奖，而澳大利亚冠军大师罗布·里德 (Rob Reid) 在苏格兰高地的决赛中赢得了特色粥类冠军。"
+      "title_zh": "南方州悄然崛起，成为美国新的经济强国"
     },
     {
-      "title": "Lockdown puppy leads woman to international husky racing",
+      "title": "Terror group claims control of Mideast leader's home as fighting intensifies",
       "link": "",
-      "summary": "What started out at a fun hobby has evolved into competing on the international stage.",
+      "summary": "",
       "published": "",
-      "title_zh": "封锁小狗带领女子参加国际哈士奇比赛",
-      "summary_zh": "最初的一个有趣的爱好已经演变成在国际舞台上的竞争。"
+      "title_zh": "随着战斗加剧，恐怖组织声称控制了中东领导人的住所"
     },
     {
-      "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+      "title": "Commander reveals Russia's chilling new reality as US Arctic war machine roars to life",
       "link": "",
-      "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+      "summary": "",
       "published": "",
-      "title_zh": "维斯塔潘占据主导地位，汉密尔顿恢复出色 - 车手评分",
-      "summary_zh": "BBC 广播电台 5 直播 F1 评论员 Harry Benjamin 对车手在马来西亚巴林大奖赛期间的表现进行了评价。"
+      "title_zh": "随着美国北极战争机器的轰鸣，指挥官揭示了俄罗斯令人毛骨悚然的新现实"
     },
     {
-      "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+      "title": "Cowboys legend makes surprise Senate endorsement in one of nation's biggest races",
       "link": "",
-      "summary": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
+      "summary": "",
       "published": "",
-      "title_zh": "莫德里奇对克罗地亚的“灾难性夜晚”感到“羞耻”",
-      "summary_zh": "克罗地亚队长卢卡·莫德里奇表示，他对球队在对阵英格兰的“灾难性夜晚”的表现感到“羞愧”。"
+      "title_zh": "牛仔传奇人物在全国最大的比赛之一中意外获得参议院支持"
+    },
+    {
+      "title": "Deion Sanders' program rocked by alleged playbook pages left at hotel bar",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迪昂·桑德斯的节目因涉嫌留在酒店酒吧的剧本页面而受到震动"
+    },
+    {
+      "title": "Woman's routine Uber ride takes alarming turn after driver misses exit",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "司机错过出口后，女子的Uber日常出行发生惊人转变"
+    },
+    {
+      "title": "Jason Kelce slips up and says the name Washington wishes you'd forget",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "贾森·凯尔斯 (Jason Kelce) 说漏了嘴，说出了华盛顿希望你忘记的名字"
+    },
+    {
+      "title": "Chick-fil-A answers whether AI will take over its drive-thru as rivals embrace new tech",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着竞争对手拥抱新技术，福来鸡回答人工智能是否会接管其得来速餐厅"
+    },
+    {
+      "title": "Dr Oz reveals Trump admin's next move in Obamacare fraud crackdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "奥兹博士透露特朗普政府打击奥巴马医改欺诈的下一步行动"
+    },
+    {
+      "title": "Unapproved drug abroad can cause dangerous heart rhythms and rewire the brain",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "国外未经批准的药物可能会导致危险的心律失常并重塑大脑"
+    },
+    {
+      "title": "Kelsey Mitchell's $1.4M salary provides context for her Caitlin Clark comments",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯尔西·米切尔 (Kelsey Mitchell) 140 万美元的薪水为她对凯特琳·克拉克 (Caitlin Clark) 的评论提供了背景"
+    },
+    {
+      "title": "Country singer shares 'God plus five' rule that helped her through divorce",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乡村歌手分享帮助她度过离婚的“上帝加五”规则"
+    },
+    {
+      "title": "Former streaker-turned-influencer takes the mound, backflips and fires a strike",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前裸奔者转型为影响者，走上投手丘、后空翻并发起攻击"
+    },
+    {
+      "title": "Kayak mob descends on SCOTUS justice's vacation home again",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "皮划艇暴徒再次袭击最高法院法官的度假屋"
+    },
+    {
+      "title": "Researchers reveal surprising vocal warning sign tied to cognitive decline",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "研究人员揭示了与认知能力下降有关的令人惊讶的声音警告信号"
     }
   ]
 }
