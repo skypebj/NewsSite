@@ -1,6 +1,6 @@
 {
   "date": "20261004",
-  "total": 24,
+  "total": 37,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,182 +37,276 @@
   },
   "entries": [
     {
-      "title": "Coast Guard makes discovery off Nantucket amid massive search for vanished plane",
+      "title": "Poll: Latino voters swing away from Trump and Republicans",
+      "link": "https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894",
+      "summary": "",
+      "published": "",
+      "title_zh": "民意调查：拉丁裔选民逐渐远离特朗普和共和党"
+    },
+    {
+      "title": "How the shooting death of a Houston father is igniting Latino politics in Texas",
+      "link": "https://www.nbcnews.com/politics/2026-election/shooting-death-houston-father-igniting-latino-politics-texas-rcna598588",
+      "summary": "",
+      "published": "",
+      "title_zh": "休斯顿父亲的枪杀事件如何点燃德克萨斯州的拉丁裔政治"
+    },
+    {
+      "title": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa",
+      "link": "https://www.nbcnews.com/world/japan/us-marine-arrested-suspicion-killing-japanese-woman-okinawa-rcna601367",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国海军陆战队因涉嫌在冲绳杀害日本妇女而被捕"
+    },
+    {
+      "title": "Taiwan reckons with the prospect of fending for itself as Trump pivots on China",
+      "link": "https://www.nbcnews.com/world/asia/taiwan-reckons-prospect-fending-trump-pivots-china-rcna600640",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着特朗普转向中国，台湾考虑自力更生的前景"
+    },
+    {
+      "title": "The Jets might be improved. But they still can’t intercept a pass.",
+      "link": "https://www.nbcnews.com/sports/nfl/jets-might-improved-still-cant-intercept-pass-rcna600829",
+      "summary": "",
+      "published": "",
+      "title_zh": "喷气机可能会有所改进。但他们仍然无法拦截传球。"
+    },
+    {
+      "title": "Lizzo talks about her new children’s book and inspiring the next generation of musicians",
+      "link": "https://www.nbcnews.com/video/lizzo-talks-with-willie-geist-about-her-new-children-s-book-and-inspiring-the-next-generation-of-musicians-270815301613",
+      "summary": "",
+      "published": "",
+      "title_zh": "利佐谈论她的新儿童读物以及对下一代音乐家的启发"
+    },
+    {
+      "title": "50-year friendship ends in tragedy on long-awaited birthday trip to beachside bar",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "海岸警卫队在楠塔基特岛附近海域大规模搜寻失踪飞机时发现了"
+      "title_zh": "50 年友谊在期待已久的海滨酒吧生日之旅中以悲剧告终"
     },
     {
-      "title": "'Caddyshack' star reveals the drug that was written into the film's actual budget",
+      "title": "Trump envoy blasts country over 'kill' chant, warns nation is drifting toward US foes",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《球童小屋》明星透露了写入电影实际预算的药物"
+      "title_zh": "特朗普特使抨击国家高喊“杀戮”，警告国家正在向美国敌人靠拢"
     },
     {
-      "title": "Trump declares Ohio 'booming' as he rallies for Husted, Ramaswamy",
+      "title": "Immigrant truck driver's fatal crash sparks massive fraud controversy in small town USA",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在为赫斯特德和拉马斯瓦米集会时宣布俄亥俄州“蓬勃发展”"
+      "title_zh": "移民卡车司机致命车祸在美国小镇引发大规模欺诈争议"
     },
     {
-      "title": "Cornell president addresses fallout from allegations involving former frat brothers",
+      "title": "GOP Senate candidate's estranged wife confirms who she's voting for amid divorce",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "康奈尔大学校长谈到了涉及前兄弟会兄弟的指控的影响"
+      "title_zh": "共和党参议院候选人分居的妻子确认她在离婚期间投票给谁"
     },
     {
-      "title": "'This baby should still be here': 12-year-old killed after shots fired during argument",
+      "title": "The dirtiest part of your morning brew isn't the water reservoir, coffee pro warns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“这个婴儿应该还在这里”：12岁男孩在争吵中开枪身亡"
+      "title_zh": "咖啡专业人士警告说，早晨冲泡咖啡时最脏的部分不是储水器"
     },
     {
-      "title": "Texas mom allegedly made chilling admission after 2 sons found shot inside home",
+      "title": "Mideast nation strikes terror group to root them out of last remaining territory",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据称，德克萨斯州的妈妈在两个儿子被发现在家中被枪杀后，承认了令人心寒的事实"
+      "title_zh": "中东国家打击恐怖组织，将其从最后的剩余领土上铲除"
     },
     {
-      "title": "Yankees suffer shocking playoff loss after catcher makes costly blunder",
+      "title": "Murder suspect's stolen alias used for 17 years unravels over routine request: police",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "接球手犯下代价高昂的错误后，洋基队在季后赛中遭遇令人震惊的失利"
+      "title_zh": "谋杀嫌疑人被盗使用17年的化名因例行要求而被揭开：警方"
     },
     {
-      "title": "France's violent protests offer a warning to the US on immigration: Lahren",
+      "title": "Popular cookie chain abruptly closes all locations after years of rapid expansion",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拉伦：法国暴力抗议向美国发出移民问题警告"
+      "title_zh": "经过多年的快速扩张后，受欢迎的饼干连锁店突然关闭了所有门店"
     },
     {
-      "title": "Chris Hansen blasts ‘Primetime’ movie, reveals why he’s pushing back",
+      "title": "Trump announces 'Super Intelligence Force' to ensure American dominance",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克里斯·汉森抨击“黄金时段”电影，揭示了他为何抵制"
+      "title_zh": "特朗普宣布建立“超级情报力量”以确保美国的主导地位"
     },
     {
-      "title": "Victim airlifted to hospital when a young bear strikes outside front door",
+      "title": "Fever star Sophie Cunningham tells A'ja Wilson to 'grow up' after playoff incident",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一只小熊袭击前门，受害者被空运到医院"
+      "title_zh": "狂热明星索菲·坎宁安 (Sophie Cunningham) 在季后赛事件后告诉阿贾·威尔逊 (A'ja Wilson) “成长”"
     },
     {
-      "title": "Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-campaigning-ohio-says-midterms-will-bring-big-surprise-rcna601150",
+      "title": "Fitness expert reveals the 10-minute habit adults over 40 should be doing every day",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "正在俄亥俄州竞选的特朗普表示，中期选举将带来“巨大惊喜”"
+      "title_zh": "健身专家揭示40岁以上成年人每天应该做的10分钟习惯"
     },
     {
-      "title": "Ken Paxton’s estranged wife urges voters to back his Senate bid, yet avoids mentioning him by name",
-      "link": "https://www.nbcnews.com/politics/2026-election/ken-paxtons-estranged-wife-urges-voters-back-new-ad-rcna601345",
+      "title": "Gen Z freshmen are bolting from campus just weeks into fall college semester",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肯·帕克斯顿分居的妻子敦促选民支持他的参议员竞选，但避免提及他的名字"
+      "title_zh": "秋季大学学期刚开始几周，Z 世代新生就纷纷离开校园"
     },
     {
-      "title": "Taylor Swift pops into ‘SNL’ to joke around with host Dakota Johnson",
-      "link": "https://www.nbcnews.com/pop-culture/tv/taylor-swift-snl-host-dakota-johnson-rcna601364",
+      "title": "CEO SUNDAY:Restaurant CEO reveals the simple leadership rule he swears by",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒·斯威夫特 (Taylor Swift) 出现在《SNL》中与主持人达科塔·约翰逊 (Dakota Johnson) 开玩笑"
+      "title_zh": "CEO SUNDAY:Restaurant CEO reveals the simple leadership rule he swears by"
     },
     {
-      "title": "12-year-old girl killed in Baltimore shooting sparked by apparent parking dispute",
-      "link": "https://www.nbcnews.com/news/us-news/12-year-old-girl-killed-baltimore-shooting-rcna601349",
+      "title": "What went wrong? New details reveal what led to supermodel's split from Tom Brady",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "12岁女孩在巴尔的摩因明显停车纠纷引发枪击事件中丧生"
+      "title_zh": "出了什么问题？新细节揭示了超模与汤姆·布雷迪分手的原因"
     },
     {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "title": "Super Bowl champ Jon Gruden's surprise conservative debut fires up Ohio rally",
       "link": "",
-      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "summary": "",
       "published": "",
-      "title_zh": "克里斯塔·派克处决失败后田纳西州监狱长辞职",
-      "summary_zh": "派克的律师表示，这一失败“远远超出了任何一个人的范围”。派克在两次注射死刑后幸存下来，情况危急。"
+      "title_zh": "超级碗冠军乔恩·格鲁登出人意料的保守派首秀点燃了俄亥俄州的集会"
     },
     {
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "title": "Actor wrestles with dad's dark legacy while returning to site of family tragedy",
       "link": "",
-      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "summary": "",
       "published": "",
-      "title_zh": "康奈尔大学校长表示，在兄弟会宿舍强奸指控后，大学“必须做得更好”",
-      "summary_zh": "迈克尔·科特里科夫 (Michael Kotlikoff) 称，一名女子声称自己被下药并被轮奸，这一指控“令人深感不安”。"
+      "title_zh": "演员在返回家庭悲剧现场时与父亲的黑暗遗产进行斗争"
     },
     {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "title": "DR MARC SIEGEL:What the angels against alcohol can teach us about healing",
       "link": "",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "summary": "",
       "published": "",
-      "title_zh": "关于巴西大选，卢拉与弗拉维奥·博尔索纳罗的对决需要了解什么",
-      "summary_zh": "民意调查显示，这次选举将是左翼现任总统和右翼竞争对手之间的一场势均力敌的竞争。"
+      "title_zh": "马克·西格尔博士：反对酒精的天使可以教给我们什么关于治疗的知识"
     },
     {
-      "title": "Rare tornado whips through small Australian town",
+      "title": "GOP finds fresh midterm ammunition in Democratic opposition to voter ID",
       "link": "",
-      "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+      "summary": "",
       "published": "",
-      "title_zh": "罕见的龙卷风席卷澳大利亚小镇",
-      "summary_zh": "新南威尔士州阿勒达拉的龙卷风被摄像机拍到，造成财产损失和树木倒塌。"
+      "title_zh": "共和党在民主党反对选民身份方面找到了新的中期弹药"
     },
     {
-      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "link": "",
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "published": "",
+      "title_zh": "埃塞俄比亚叛军从提格雷地区首府撤出",
+      "summary_zh": "默克莱的两名居民告诉 BBC，亲政府部队已经控制了这座城市。"
+    },
+    {
+      "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+      "link": "",
+      "summary": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+      "published": "",
+      "title_zh": "2027 年格拉斯顿伯里音乐节门票 42 分钟内售罄",
+      "summary_zh": "数千人加入队列，希望获得沃西农场的门票。"
+    },
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "link": "",
+      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "published": "",
+      "title_zh": "澳大利亚正在调查迪拜航空副驾驶与该国的联系",
+      "summary_zh": "国家警察和国家安全机构正在调查副驾驶，他试图控制一架飞往以色列的迪拜航空飞机。"
+    },
+    {
+      "title": "Verstappen wins Bahrain GP in Malaysia after long delays",
+      "link": "",
+      "summary": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
+      "published": "",
+      "title_zh": "维斯塔潘在长时间拖延后在马来西亚赢得巴林大奖赛",
+      "summary_zh": "在马来西亚举行的戏剧性的巴林大奖赛中，马克斯·维斯塔潘 (Max Verstappen) 凭借统治力的驾驶赢得了他和红牛今年的首场胜利，这场比赛在混乱和前所未有的场景中开始。"
+    },
+    {
+      "title": "UK Celebrity Traitors connections that might surprise you",
+      "link": "",
+      "summary": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
+      "published": "",
+      "title_zh": "英国名人叛徒的联系可能会让你感到惊讶",
+      "summary_zh": "许多明星都曾一起工作过，有些是好朋友——这会影响节目的动态。"
+    },
+    {
+      "title": "Why Canada is preparing for an unlikely US invasion",
+      "link": "",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "published": "",
+      "title_zh": "为什么加拿大正在为美国不太可能的入侵做准备",
+      "summary_zh": "加拿大总理马克·卡尼表示，军方正在模拟美国入侵加拿大的可能性。"
+    },
+    {
+      "title": "Pastors may not be seen or heard preaching on Ghana's buses for much longer",
       "link": "",
       "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
       "published": "",
-      "title_zh": "为什么在加纳的公交车上看不到或听到牧师讲道的时间可能会很长",
+      "title_zh": "牧师在加纳公交车上讲道的时间可能会很长",
       "summary_zh": "加纳是一个以基督教为主的国家，公共交通上的布道十分普遍。"
     },
     {
-      "title": "When parenting advice becomes too much",
+      "title": "Sabalenka stunned by Bartunkova at China Open",
       "link": "",
-      "summary": "Many parents feel overwhelmed by the amount of parenting information available",
+      "summary": "World number two Aryna Sabalenka follows Elena Rybakina out the door at the China Open as she falls to a surprise defeat by Nikola Bartunkova.",
       "published": "",
-      "title_zh": "当育儿建议变得太多时",
-      "summary_zh": "许多父母对可用的育儿信息数量感到不知所措"
+      "title_zh": "萨巴伦卡在中国公开赛上惨败于巴通科娃",
+      "summary_zh": "世界排名第二的阿琳娜·萨巴伦卡（Aryna Sabalenka）紧随埃琳娜·雷巴金娜（Elena Rybakina）在中国公开赛上出人意料地输给了尼古拉·巴图科娃（Nikola Bartunkova）。"
     },
     {
-      "title": "Iranian nationals in court over alleged plot to target Manchester Jewish community",
-      "link": "",
-      "summary": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-      "published": "",
-      "title_zh": "伊朗国民因涉嫌阴谋袭击曼彻斯特犹太社区而出庭",
-      "summary_zh": "两名男子在赎罪日前夕被捕，赎罪日被认为是犹太历中最神圣的一天。"
-    },
-    {
-      "title": "Father and son smoke shop workers arrested in Mississippi students' suspected kratom deaths",
+      "title": "US father and son arrested after suspected kratom drug deaths",
       "link": "",
       "summary": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
       "published": "",
-      "title_zh": "父子烟店工人在密西西比州学生涉嫌卡痛死亡事件中被捕",
+      "title_zh": "美国父子因涉嫌卡痛毒品致死被捕",
       "summary_zh": "他们被指控出售至少一种卡痛叶学生衍生品，在美国通常被称为“加油站海洛因”。"
     },
     {
-      "title": "Kim wins Asian Games gold to secure military exemption",
+      "title": "Porridge makers from opposite sides of globe triumph in world championship",
       "link": "",
-      "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+      "summary": "Dutch champion Gina Saarberg took the coveted Golden Spurtle, while Australian champion maestro Rob Reid won the Speciality Porridge category at the finals in the Scottish Highlands.",
       "published": "",
-      "title_zh": "金正恩夺得亚运会金牌以确保军事豁免",
-      "summary_zh": "高尔夫球手汤姆·金 (Tom Kim) 在亚运会上赢得金牌，从而获得韩国军队义务兵役豁免。"
+      "title_zh": "来自世界各地的粥制造商在世界冠军赛中获胜",
+      "summary_zh": "荷兰冠军吉娜·萨尔伯格 (Gina Saarberg) 夺得了令人垂涎的金雀奖，而澳大利亚冠军大师罗布·里德 (Rob Reid) 在苏格兰高地的决赛中赢得了特色粥类冠军。"
     },
     {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "title": "Lockdown puppy leads woman to international husky racing",
       "link": "",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "summary": "What started out at a fun hobby has evolved into competing on the international stage.",
       "published": "",
-      "title_zh": "特朗普威胁后七国集团将释放数百万桶石油和柴油",
-      "summary_zh": "此次协调发布的目的是阻止价格进一步上涨并避免美国柴油出口禁令。"
+      "title_zh": "封锁小狗带领女子参加国际哈士奇比赛",
+      "summary_zh": "最初的一个有趣的爱好已经演变成在国际舞台上的竞争。"
+    },
+    {
+      "title": "Dominant Verstappen & superb Hamilton recovery - driver ratings",
+      "link": "",
+      "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Bahrain Grand Prix in Malaysia.",
+      "published": "",
+      "title_zh": "维斯塔潘占据主导地位，汉密尔顿恢复出色 - 车手评分",
+      "summary_zh": "BBC 广播电台 5 直播 F1 评论员 Harry Benjamin 对车手在马来西亚巴林大奖赛期间的表现进行了评价。"
+    },
+    {
+      "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
+      "link": "",
+      "summary": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
+      "published": "",
+      "title_zh": "莫德里奇对克罗地亚的“灾难性夜晚”感到“羞耻”",
+      "summary_zh": "克罗地亚队长卢卡·莫德里奇表示，他对球队在对阵英格兰的“灾难性夜晚”的表现感到“羞愧”。"
     }
   ]
 }
