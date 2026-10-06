@@ -1,6 +1,6 @@
 {
   "date": "20261006",
-  "total": 45,
+  "total": 41,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "fox": {
       "status": "ok",
-      "entries": 0
+      "entries": 20
     },
     "apnews": {
       "status": "ok",
@@ -37,335 +37,303 @@
   },
   "entries": [
     {
-      "title": "Tech giant bets $3.7B of its own cash to fix the Navy's submarine crisis",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
       "link": "",
-      "summary": "",
+      "summary": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
       "published": "",
-      "title_zh": "科技巨头投入 3.7B 美元自有现金来解决海军潜艇危机"
+      "title_zh": "观看：法国防暴警察与学校抗议者发生冲突并使用催泪瓦斯",
+      "summary_zh": "在高中生的抗议浪潮中，法国各地数十万人走上街头。"
     },
     {
-      "title": "Writer demands Fever dump Sophie Cunningham in order to return focus to basketball",
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
       "link": "",
-      "summary": "",
+      "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
       "published": "",
-      "title_zh": "Writer demands Fever dump Sophie Cunningham in order to return focus to basketball"
+      "title_zh": "许多在洪水中被卷走的尼泊尔人并未正式死亡，使家人陷入困境",
+      "summary_zh": "亲属们发现自己得不到任何补偿，并面临着行政噩梦。"
     },
     {
-      "title": "Legal fight erupts after White exec fired over cornrows she got at Burning Man",
+      "title": "A separatist party just won power in Quebec - what does that mean?",
       "link": "",
-      "summary": "",
+      "summary": "Canada's Parti Québécois has promised it will hold the province's third vote on independence, but said they won’t do so until Donald Trump is out of office.",
       "published": "",
-      "title_zh": "白人高管因在火人节上获得玉米穗而被解雇后，法律斗争爆发"
+      "title_zh": "一个分离主义政党刚刚在魁北克赢得权力 - 这意味着什么？",
+      "summary_zh": "加拿大魁北克党承诺将举行该省第三次独立公投，但表示在唐纳德·特朗普下台之前他们不会这样做。"
     },
     {
-      "title": "Biden-era FBI's surveillance on Trump family draws scrutiny from unlikely corner",
+      "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
       "link": "",
-      "summary": "",
+      "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
       "published": "",
-      "title_zh": "拜登时代联邦调查局对特朗普家族的监视受到来自意想不到的角落的审查"
+      "title_zh": "醉到什么程度才算是醉了呢？康奈尔大学强奸指控暴露了同意法的“漏洞”",
+      "summary_zh": "英国广播公司 (BBC) 与专家讨论了美国各州现行的性侵犯法律，以及为什么一些人认为修改这些法律将帮助所谓的受害者。"
     },
     {
-      "title": "Gauff cites 'insane' racism after controversial point against 16-year-old foe",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "高夫在针对 16 岁敌人的争议点后引用“疯狂”的种族主义"
-    },
-    {
-      "title": "Governor pulls emergency trigger as deadly disease jumps from Pennsylvania",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "致命疾病从宾夕法尼亚州蔓延，州长拉动紧急开关"
-    },
-    {
-      "title": "Raiders fan mocks Taylor Swift's looks with ruthless sign at Chiefs game",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "突袭者队球迷在酋长队比赛中用无情的手势嘲笑泰勒·斯威夫特的外表"
-    },
-    {
-      "title": "Man briefly detained in Nancy Guthrie disappearance probe arrested again",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "南希·格思里失踪调查中短暂拘留的男子再次被捕"
-    },
-    {
-      "title": "Pentagon responds to Iranian report of Navy chopper crash near Saudi Arabia",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "五角大楼回应伊朗关于海军直升机在沙特阿拉伯附近坠毁的报告"
-    },
-    {
-      "title": "October Prime Day home deals: A $150 Ninja air fryer, 50% off Roomba vacuums and more",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "10 月黄金日家居优惠：150 美元的 Ninja 空气炸锅、Roomba 吸尘器 50% 折扣等"
-    },
-    {
-      "title": "Washington's owner quietly inches toward the team's previous identity with new look",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "华盛顿的老板以新的面貌悄悄地向球队以前的身份迈进"
-    },
-    {
-      "title": "Comedian takes aim at Zohran Mamdani with brutal assessment of NYC mayor",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "喜剧演员对纽约市市长的残酷评价瞄准佐兰·马姆达尼"
-    },
-    {
-      "title": "Leftists waving Antifa, Palestinian flags clash with police in France",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "挥舞Antifa和巴勒斯坦旗帜的左翼分子在法国与警察发生冲突"
-    },
-    {
-      "title": "'General Hospital' and 'Days of Our Lives' soap opera star dead at 62",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "《综合医院》和《我们的日子》肥皂剧明星去世，享年 62 岁"
-    },
-    {
-      "title": "Female athlete speaks out on fairness in women's sports ahead of key Washington vote",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "女运动员在华盛顿关键投票前就女子体育的公平性发表讲话"
-    },
-    {
-      "title": "Biden stays off campaign trail as Obama, Harris step up with midterms looming",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着中期选举的临近，奥巴马和哈里斯加紧努力，拜登不再参加竞选活动"
-    },
-    {
-      "title": "Republicans warn voters of 25-year consequence if Democrats take Senate",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党警告选民，如果民主党入主参议院，后果将长达 25 年"
-    },
-    {
-      "title": "Furious passengers suffer 12-hour delay before popular airline cancels their trip",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Furious passengers suffer 12-hour delay before popular airline cancels their trip"
-    },
-    {
-      "title": "JIMMY FAILLA:I was a New York City cab driver when Fox News changed the course of my life",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "JIMMY FAILLA:I was a New York City cab driver when Fox News changed the course of my life"
-    },
-    {
-      "title": "Protesters swarm Cornell to support Jane Doe, call for president's resignation",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "抗议者涌入康奈尔大学支持无名氏，呼吁总统辞职"
-    },
-    {
-      "title": "Watch: At the scene of student protests in Lille",
-      "link": "",
-      "summary": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
-      "published": "",
-      "title_zh": "观看：里尔学生抗议现场",
-      "summary_zh": "英国广播公司驻欧洲记者尼克·比克报道法国北部的一场大型示威活动。"
-    },
-    {
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "link": "",
-      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "published": "",
-      "title_zh": "白宫为特朗普让伊朗“占领”洛杉矶和圣地亚哥的言论辩护",
-      "summary_zh": "加文·纽瑟姆称这些言论“精神错乱”，但白宫表示，特朗普是在警告伊朗拥有核武器的风险。"
-    },
-    {
-      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-      "link": "",
-      "summary": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
-      "published": "",
-      "title_zh": "因性丑闻和欺诈而名誉扫地的美国电视布道家吉姆·巴克去世，享年 86 岁",
-      "summary_zh": "吉姆·巴克 (Jim Bakker) 与当时的妻子塔米·费耶 (Tammy Faye) 共同创立了 PTL 俱乐部，之后因欺诈和共谋而入狱。"
-    },
-    {
-      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-      "link": "",
-      "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-      "published": "",
-      "title_zh": "派拉蒙斥资 1100 亿美元收购华纳兄弟好莱坞",
-      "summary_zh": "好莱坞两家最大电影制片厂的合并是在经历了数月的法律纠纷和对竞争的担忧之后发生的。"
-    },
-    {
-      "title": "Rubio urges Russia to share more information on plague lab worker's death",
-      "link": "",
-      "summary": "The World Health Organization said Russian authorities had identified all of the people who had been in contact with a laboratory worker.",
-      "published": "",
-      "title_zh": "卢比奥敦促俄罗斯分享更多有关鼠疫实验室工作人员死亡的信息",
-      "summary_zh": "世界卫生组织表示，俄罗斯当局已经确认了所有与实验室工作人员有过接触的人的身份。"
-    },
-    {
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "link": "",
-      "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-      "published": "",
-      "title_zh": "从电影到流媒体价格 - 华纳兄弟交易对您有何影响",
-      "summary_zh": "该交易预计将改变娱乐和新闻行业，但这是否意味着消费者的价格会更高？"
-    },
-    {
-      "title": "The small African nation ready for Messi's big night",
-      "link": "",
-      "summary": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
-      "published": "",
-      "title_zh": "非洲小国已准备好迎接梅西的重要夜晚",
-      "summary_zh": "贝宁即将迎来自己的万众瞩目时刻，他们将前往阿根廷观看梅西的最后一场比赛。"
-    },
-    {
-      "title": "Jeffrey Archer: Bestselling novelist whose political career ended in scandal",
-      "link": "",
-      "summary": "Politician and best-selling author whose career was mired in scandal and disgrace.",
-      "published": "",
-      "title_zh": "杰弗里·阿彻：政治生涯以丑闻告终的畅销小说家",
-      "summary_zh": "政治家和畅销书作家，其职业生涯深陷丑闻和耻辱之中。"
-    },
-    {
-      "title": "A simple guide to the US midterm elections",
+      "title": "What are the US midterms? A simple guide",
       "link": "",
       "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
       "published": "",
-      "title_zh": "美国中期选举简单指南",
+      "title_zh": "美国中期选举是什么？简单指南",
       "summary_zh": "美国选民将于 11 月 3 日前往投票站，此次投票可能会对唐纳德·特朗普的总统任期产生重大影响。"
     },
     {
-      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "title": "Badenoch's £10bn air defence plan points to growing concern over protecting UK's skies",
       "link": "",
-      "summary": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
+      "summary": "The government and the Conservatives both agree the UK needs better air defences in an increasingly dangerous world.",
       "published": "",
-      "title_zh": "也门前线附近的孩子们冒着狙击手和迫击炮的袭击去上学",
-      "summary_zh": "英国广播公司国际频道罕见地进入塔伊兹，采访了受战争影响的儿童、教师和家庭。"
+      "title_zh": "巴德诺克 100 亿英镑的防空计划表明人们对保护英国天空的担忧日益增加",
+      "summary_zh": "政府和保守党都同意，在日益危险的世界中，英国需要更好的防空系统。"
     },
     {
-      "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
+      "title": "What is Russia saying about death of woman linked to plague lab?",
       "link": "",
-      "summary": "Police have said it is “strongly suspected” that the incident was caused by a gas leak.",
+      "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia.",
       "published": "",
-      "title_zh": "观看：印度尼西亚鞋店被爆炸撕裂的瞬间",
-      "summary_zh": "警方表示，“强烈怀疑”这起事件是由煤气泄漏引起的。"
+      "title_zh": "俄罗斯对与鼠疫实验室有关的妇女死亡有何看法？",
+      "summary_zh": "BBC verify 调查了一名与西伯利亚鼠疫实验室有关的女性死亡事件。"
     },
     {
-      "title": "NFL suspends two officials for player incidents",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
       "link": "",
-      "summary": "The NFL suspends officials Jeff Seeman and Adrian Hill for instances of unprofessional conduct towards a player.",
+      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
       "published": "",
-      "title_zh": "NFL 两名官员因球员事件被停职",
-      "summary_zh": "NFL 官员杰夫·西曼 (Jeff Seeman) 和阿德里安·希尔 (Adrian Hill) 因对球员做出不专业行为而被停职。"
+      "title_zh": "俄罗斯升级无人机袭击，乌克兰铁路乘客感到恐惧和混乱",
+      "summary_zh": "乘坐火车旅行的乌克兰人越来越多地成为俄罗斯袭击的目标。"
     },
     {
-      "title": "I'd rather have another election than do a deal with Reform UK, says Kemi Badenoch",
+      "title": "Amazon wins global rights to stream Emmys in six-year deal",
       "link": "",
-      "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
+      "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
       "published": "",
-      "title_zh": "凯米·巴德诺克表示，我宁愿再举行一次选举，也不愿与英国改革党达成协议",
-      "summary_zh": "这位保守党领袖还承诺削减雇用 21 至 24 岁年轻人的成本。"
+      "title_zh": "亚马逊与艾美奖签订为期六年的全球转播权",
+      "summary_zh": "这场盛会将离开传统的美国广播网络，转而进行全球直播。"
     },
     {
-      "title": "UK special forces could face prosecution as Afghanistan evidence referred to police",
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
       "link": "",
-      "summary": "Evidence relating to a number of detention operations carried out by British personnel between 2010 and 2013 is being examined.",
+      "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
       "published": "",
-      "title_zh": "由于阿富汗证据移交警方，英国特种部队可能面临起诉",
-      "summary_zh": "正在审查与英国人员在 2010 年至 2013 年间进行的一系列拘留行动有关的证据。"
+      "title_zh": "德国选择党候选人首次当选德国地方议会议长",
+      "summary_zh": "尽管托比亚斯·劳施的角色在很大程度上是象征性的，但反对者将这一结果描述为一个分水岭时刻。"
     },
     {
-      "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
       "link": "",
-      "summary": "The bestselling author and former politician died on Monday at the age of 86.",
+      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
       "published": "",
-      "title_zh": "女王向“不可抑制的”杰弗里·阿彻致敬",
-      "summary_zh": "这位畅销书作家和前政治家于周一去世，享年 86 岁。"
+      "title_zh": "随着疫情蔓延，肯尼亚确认首例埃博拉死亡病例",
+      "summary_zh": "该患者曾居住在刚果民主共和国，该国今年已有 4000 多人死于该病。"
     },
     {
-      "title": "Nations League: Hendry & Christie start as Scotland host Slovenia at Hampden",
+      "title": "Ronaldo wants Portugal 'punishment' but not retiring",
       "link": "",
-      "summary": "Watch Sportscene coverage, listen to commentary on Sportsound, and follow text updates and in-play clips as Scotland host Slovenia in the Nations League.",
+      "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
       "published": "",
-      "title_zh": "国家联赛：亨德利和克里斯蒂首发，苏格兰在汉普顿主场迎战斯洛文尼亚",
-      "summary_zh": "观看 Sportscene 报道，收听 Sportsound 的评论，并关注苏格兰在国家联赛中主场迎战斯洛文尼亚的文本更新和比赛中片段。"
+      "title_zh": "C罗希望葡萄牙受到“惩罚”但不退役",
+      "summary_zh": "克里斯蒂亚诺·罗纳尔多表示，他不会从国际足坛退役，但在主教练豪尔赫·热苏斯“食言”后离开葡萄牙队，他应该受到惩罚。"
     },
     {
-      "title": "France shuts down nearly 900 schools as violent education protests escalate",
-      "link": "https://www.nbcnews.com/world/europe/france-protests-riot-police-students-tear-gas-fires-education-rcna601878",
+      "title": "Florida Democrats try to regain their mojo",
+      "link": "https://www.nbcnews.com/politics/2026-election/florida-democrats-regain-mojo-republican-dominance-rcna599826",
       "summary": "",
       "published": "",
-      "title_zh": "教育暴力抗议升级 法国关闭近900所学校"
+      "title_zh": "佛罗里达州民主党人试图重拾魔力"
     },
     {
-      "title": "Spain’s government approves new urgent housing measures after unrest in Barcelona",
-      "link": "https://www.nbcnews.com/world/europe/spains-government-approves-new-urgent-housing-measures-unrest-barcelon-rcna601851",
+      "title": "Texas voters get ‘Are you white?’ political texts targeting James Talarico",
+      "link": "https://www.nbcnews.com/politics/2026-election/texas-voters-get-are-white-political-texts-targeting-james-talarico-rcna601955",
       "summary": "",
       "published": "",
-      "title_zh": "巴塞罗那骚乱后西班牙政府批准新的紧急住房措施"
+      "title_zh": "德克萨斯州选民收到针对詹姆斯·塔拉里科的政治短信“你是白人吗？”"
     },
     {
-      "title": "CIA officer arrested with gold bars pleads guilty to wire fraud",
-      "link": "https://www.nbcnews.com/politics/national-security/cia-officer-arrested-gold-bars-pleads-guilty-wire-fraud-rcna601857",
+      "title": "Latino voters feel buyer’s remorse in battleground Texas",
+      "link": "https://www.nbcnews.com/politics/2026-election/latino-voters-feel-buyers-remorse-battleground-texas-rcna601673",
       "summary": "",
       "published": "",
-      "title_zh": "因金条被捕的中央情报局官员承认电信诈骗罪"
+      "title_zh": "拉丁裔选民在战场德克萨斯州感受到买家的悔恨"
     },
     {
-      "title": "Cornell faculty senate introduces no-confidence resolution over handling of alleged 2024 sexual assault",
-      "link": "https://www.nbcnews.com/news/us-news/cornell-faculty-senate-introduces-no-confidence-resolution-handling-al-rcna601824",
+      "title": "Two key groups launch Latino voter turnout operation in South Texas",
+      "link": "https://www.nbcnews.com/politics/2026-election/two-key-groups-launch-latino-voter-turnout-operation-south-texas-rcna601773",
       "summary": "",
       "published": "",
-      "title_zh": "康奈尔大学教员参议院就处理涉嫌 2024 年性侵犯事件提出不信任决议"
+      "title_zh": "两个主要团体在德克萨斯州南部发起拉丁裔选民投票行动"
     },
     {
-      "title": "Paramount completes $110B Warner Bros. merger to form Skydance",
-      "link": "https://www.nbcnews.com/business/media/paramount-warner-bros-skydance-closes-rcna601833",
+      "title": "Christa Pike is awake and speaking after failed execution, lawyers say",
+      "link": "https://www.nbcnews.com/news/us-news/christa-pike-awake-speaking-failed-execution-attempt-lawyer-says-rcna601970",
       "summary": "",
       "published": "",
-      "title_zh": "派拉蒙完成 $110B 与华纳兄弟的合并，组建 Skydance"
+      "title_zh": "律师称，克里斯塔·派克在执行失败后已苏醒并讲话"
     },
     {
-      "title": "Russia says no plague found in contacts of Siberian lab worker who died",
-      "link": "https://www.nbcnews.com/world/russia/russia-says-no-plague-found-contacts-siberian-lab-worker-died-rcna601805",
+      "title": "Sally Yates, former acting attorney general who defied Trump, to lead Cornell investigation",
+      "link": "https://www.nbcnews.com/news/us-news/sally-yates-former-acting-ag-clashed-trump-leading-cornell-assault-pro-rcna601914",
       "summary": "",
       "published": "",
-      "title_zh": "俄罗斯称死者西伯利亚实验室工作人员的接触者中未发现鼠疫"
+      "title_zh": "藐视特朗普的前代理司法部长莎莉·耶茨 (Sally Yates) 领导康奈尔大学调查"
     },
     {
-      "title": "California officials condemn Trump for saying Iran could ‘take out’ Los Angeles or San Diego",
-      "link": "https://www.nbcnews.com/politics/donald-trump/california-newsom-condemn-trump-iran-los-angeles-san-diego-rcna601821",
+      "title": "Freddie Jackson, R&B star who sang ‘You Are My Lady,’ dies at 70",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/freddie-jackson-rb-star-sang-are-lady-dies-70-rcna601957",
       "summary": "",
       "published": "",
-      "title_zh": "加州官员谴责特朗普称伊朗可以“占领”洛杉矶或圣地亚哥"
+      "title_zh": "演唱《You Are My Lady》的 R&B 明星 Freddie Jackson 去世，享年 70 岁"
     },
     {
-      "title": "A psychedelic drug could soon get approved in the U.S. What should the rules be?",
-      "link": "https://www.nbcnews.com/health/health-news/fda-approve-psychedelic-drugs-soon-rcna599454",
+      "title": "‘A Skydance Corp.’: David Ellison immediately puts his stamp on Warner Bros.",
+      "link": "https://www.nbcnews.com/business/media/skydance-corp-day-1-warner-bros-discovery-rebrands-david-ellison-era-rcna601941",
       "summary": "",
       "published": "",
-      "title_zh": "迷幻药很快就会在美国获得批准，规则应该是什么？"
+      "title_zh": "“Skydance Corp.”：大卫·埃里森立即在华纳兄弟身上留下了自己的印记。"
     },
     {
-      "title": "Flydubai pilot planned a 9/11-style attack on Tel Aviv airport, source says",
-      "link": "https://www.nbcnews.com/world/middle-east/flydubai-pilot-planned-crash-israel-airport-tel-aviv-oman-investigatio-rcna601806",
+      "title": "A ‘super’ El Niño sets an ocean temperature record as aid groups prepare for the worst",
+      "link": "https://www.nbcnews.com/science/environment/super-el-nino-sets-ocean-surface-temp-record-aid-groups-prepare-worst-rcna601945",
       "summary": "",
       "published": "",
-      "title_zh": "消息人士称，Flydubai 飞行员计划对特拉维夫机场发动 9/11 式袭击"
+      "title_zh": "“超级”厄尔尼诺现象创下海洋温度记录，援助组织为最坏的情况做准备"
+    },
+    {
+      "title": "Moms for Liberty co-founder declares 'vindication' after DOJ report's stunning findings",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在司法部报告令人震惊的调查结果后，自由妈妈联合创始人宣布“平反”"
+    },
+    {
+      "title": "Supreme Court weighs ruling that could unleash lawsuits across 90,000 jurisdictions",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院考虑可能在 90,000 个司法管辖区引发诉讼的裁决"
+    },
+    {
+      "title": "Trump signals Iran war nearing endgame with ominous warning over what comes next",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普对伊朗战争即将结束发出不祥警告"
+    },
+    {
+      "title": "Christa Pike survives two lethal injection doses, now conscious and speaking",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯塔·派克（Christa Pike）在两次注射死刑后幸存，现在意识清醒并能说话"
+    },
+    {
+      "title": "'Happy Days' star shows off shirtless physique at 77 with bold message for boomers",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《快乐时光》明星 77 岁高龄赤裸上身，向婴儿潮一代传达大胆信息"
+    },
+    {
+      "title": "Michael Douglas says he 'fell very hard' for co-star during on-set affair",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈克尔·道格拉斯表示，他在片场恋情中“非常迷恋”联合主演"
+    },
+    {
+      "title": "Tom Cruise's rare flop leaves Hollywood scratching its head after brutal debut",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "汤姆·克鲁斯罕见的失败让好莱坞在残酷的首秀后摸不着头脑"
+    },
+    {
+      "title": "How much a $10,000 Amazon investment 10 years ago is worth today",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "10 年前在亚马逊投资的 10,000 美元现在值多少钱"
+    },
+    {
+      "title": "AI is transforming hospital records — now a $942M cost fight is erupting",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "人工智能正在改变医院记录——一场 9.42 亿美元的成本战正在爆发"
+    },
+    {
+      "title": "October Prime Day is live: Get $1,000 off a Hisense TV, 50% off Shark vacs and more",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "10 月 Prime Day 上线：海信电视立减 1,000 美元，Shark 吸尘器立减 50% 等等"
+    },
+    {
+      "title": "Trans athlete's school district breaks silence after alleged assault victim calls SCOTUS",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "跨性别运动员学区在涉嫌袭击的受害者致电最高法院后打破沉默"
+    },
+    {
+      "title": "Pilot pairing under scrutiny following fatal Amazon cargo plane crash",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚马逊货机致命失事后飞行员配对受到审查"
+    },
+    {
+      "title": "Costco rolls out new Disneyland ticket deal but there's a catch for parkgoers",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Costco推出新的迪士尼乐园门票优惠，但对公园游客来说有一个问题"
+    },
+    {
+      "title": "Waltz ties Paris violence to unchecked migration and reckless spending policies",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "华尔兹将巴黎暴力事件与不受控制的移民和鲁莽的支出政策联系起来"
+    },
+    {
+      "title": "LAURA INGRAHAM:Hand the reigns to the Democrats, and expect the same results we’re seeing in France",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "劳拉·英格拉汉姆：将统治权交给民主党，并期待我们在法国看到的相同结果"
+    },
+    {
+      "title": "Trans Washington resident accused of helping Canadian school shooter kill children",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "跨华盛顿居民被指控帮助加拿大校园枪击案枪杀儿童"
+    },
+    {
+      "title": "Chris Rock exposes LA as the place where Hollywood dreams are made — and die",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯·洛克 (Chris Rock) 揭露洛杉矶是好莱坞梦想诞生和消逝的地方"
+    },
+    {
+      "title": "Mystery cause of Russian death could be ‘far worse’ than the plague: ex-Trump official",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前特朗普官员：俄罗斯人死亡的神秘原因可能比瘟疫“严重得多”"
+    },
+    {
+      "title": "Fox News gets the closing bell treatment as network celebrates 30 years",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "福克斯新闻频道迎来收盘钟声庆祝电视网成立 30 周年"
+    },
+    {
+      "title": "Drunk senior citizen arrested after spinnning 'donuts' on courthouse lawn: Sheriff",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "醉酒老人在法院草坪上旋转“甜甜圈”后被捕：警长"
     }
   ]
 }
