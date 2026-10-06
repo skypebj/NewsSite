@@ -1,8 +1,12 @@
 {
   "date": "20261006",
-  "total": 40,
+  "total": 39,
   "sources": {
     "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
       "status": "ok",
       "entries": 0
     },
@@ -22,10 +26,6 @@
       "status": "ok",
       "entries": 0
     },
-    "nbcnews": {
-      "status": "ok",
-      "entries": 0
-    },
     "apnews": {
       "status": "ok",
       "entries": 0
@@ -37,299 +37,292 @@
   },
   "entries": [
     {
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "link": "",
-      "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+      "title": "Republicans fight red-state midterm chaos with hundreds of millions in late money",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-fight-red-state-midterm-chaos-hundreds-millions-late-money-rcna601675",
+      "summary": "",
       "published": "",
-      "title_zh": "法国在受伤和大规模逮捕后迎接全国学校抗议活动",
-      "summary_zh": "法国准备举行一天的抗议活动，以支持要求更多教育投资的学生。"
+      "title_zh": "共和党人用数亿迟来的资金来对抗红州中期混乱"
     },
     {
-      "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
-      "link": "",
-      "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+      "title": "The Data Dive: Steve Kornacki on how Kansas became a surprise midterm battleground",
+      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-kansas-became-surprise-midterm-battleground-rcna601753",
+      "summary": "",
       "published": "",
-      "title_zh": "英国议员呼吁在勒特尼克-爱泼斯坦举报人去世后进行调查",
-      "summary_zh": "西蒙·安德里斯 (Simon Andriesz) 表示，在上个月去世前，他对英国金融行为监管局感到失望。"
+      "title_zh": "数据潜水：史蒂夫·科尔纳基 (Steve Kornacki) 讲述堪萨斯州如何成为令人惊讶的中期战场"
     },
     {
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "link": "",
-      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+      "title": "Local political polarization is rising sharply ahead of the midterms, survey finds",
+      "link": "https://www.nbcnews.com/politics/2026-election/political-polarization-rising-2026-midterm-trump-economy-immigration-rcna600236",
+      "summary": "",
       "published": "",
-      "title_zh": "美国“密切关注”鼠疫研究员在俄罗斯去世",
-      "summary_zh": "唐纳德·特朗普表示，美国正在“非常密切地”关注一名在西伯利亚研究中心死亡的实验室技术人员的案件。"
+      "title_zh": "调查发现，中期选举前当地政治两极分化急剧加剧"
     },
     {
-      "title": "Former American Idol contestant sentenced to life in prison for murdering wife",
-      "link": "",
-      "summary": "Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up.",
+      "title": "Texts show Cornell fraternity brothers coordinating responses as accusations came to light",
+      "link": "https://www.nbcnews.com/news/us-news/texts-show-worried-cornell-chi-phi-fraternity-brothers-responses-rcna601669",
+      "summary": "",
       "published": "",
-      "title_zh": "前美国偶像选手因谋杀妻子被判终身监禁",
-      "summary_zh": "来自俄亥俄州的前音乐牧师凯莱布·弗林 (Caleb Flynn) 在二月份开枪打死了他的妻子阿什莉 (Ashley)，然后试图掩盖真相。"
+      "title_zh": "短信显示，康奈尔兄弟会的兄弟在指控曝光后正在协调应对措施"
     },
     {
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "link": "",
-      "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "title": "FBI whistleblower says White House pushed unconstitutional probe of protesters",
+      "link": "https://www.nbcnews.com/politics/justice-department/fbi-whistleblower-says-white-house-pushed-unconstitutional-probe-prote-rcna601599",
+      "summary": "",
       "published": "",
-      "title_zh": "沙特阿拉伯敦促不要因脸书帖子而被判处死刑的男子",
-      "summary_zh": "阿诺扬·西瓦拉萨 (Anojan Sivarasa) 因 Facebook 评论而被判亵渎罪，面临死刑。"
+      "title_zh": "FBI举报人称白宫对抗议者进行违宪调查"
     },
     {
-      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-      "link": "",
-      "summary": "The city's space boom raises questions about the role of the state in backing important industries.",
+      "title": "As the Russian invasion threat grows, Baltic countries gear up for a fight",
+      "link": "https://www.nbcnews.com/world/europe/lithuania-russia-attack-nato-confronts-drone-threat-latvia-baltics-rcna601612",
+      "summary": "",
       "published": "",
-      "title_zh": "欧洲正在向太空投入数十亿美元。格拉斯哥的卫星产业能跟上吗？",
-      "summary_zh": "这座城市的航天繁荣引发了人们对国家在支持重要产业方面的作用的质疑。"
+      "title_zh": "随着俄罗斯入侵威胁的增加，波罗的海国家做好了战斗准备"
     },
     {
-      "title": "Jeffrey Archer: successful novelist, disgraced politician and convicted liar",
+      "title": "Their town was ‘Almost Heaven.’ Residents say a proposed Buc-ee’s tore it apart.",
+      "link": "https://www.nbcnews.com/news/us-news/bucees-colorado-palmer-lake-gas-station-fractured-rcna601211",
+      "summary": "",
+      "published": "",
+      "title_zh": "他们的小镇“几乎是天堂”。居民们说，一个提议的布克伊人把它拆散了。"
+    },
+    {
+      "title": "Francis Halzen wins physics Nobel for South Pole high-energy neutrino discoveries",
+      "link": "https://www.nbcnews.com/science/science-news/nobel-prize-physics-awarded-stockholm-rcna601807",
+      "summary": "",
+      "published": "",
+      "title_zh": "弗朗西斯·哈尔森 (Francis Halzen) 因发现南极高能中微子而荣获诺贝尔物理学奖"
+    },
+    {
+      "title": "Jim Bakker, whose PTL ministry fell to scandal and fraud, dies at 86",
+      "link": "https://www.nbcnews.com/news/us-news/jim-bakker-tv-pastor-served-time-defrauding-followers-dies-86-rcna601803",
+      "summary": "",
+      "published": "",
+      "title_zh": "吉姆·巴克 (Jim Bakker) 领导的 PTL 部门陷入丑闻和欺诈，去世，享年 86 岁"
+    },
+    {
+      "title": "Aiming at fuel costs, Trump opens tax-exempt ‘red dye’ diesel to all drivers",
+      "link": "https://www.nbcnews.com/business/energy/aiming-fuel-costs-trump-opens-tax-exempt-red-dye-diesel-rcna601748",
+      "summary": "",
+      "published": "",
+      "title_zh": "Aiming at fuel costs, Trump opens tax-exempt ‘red dye’ diesel to all drivers"
+    },
+    {
+      "title": "Live updates: The absolute best October Prime Day deals, hand-picked by a shopping reporter",
+      "link": "https://www.nbcnews.com/select/shopping/october-prime-day-deals-2026-rcna601203",
+      "summary": "",
+      "published": "",
+      "title_zh": "实时更新：购物记者精心挑选的十月黄金日绝对最佳优惠"
+    },
+    {
+      "title": "How Democrat's historic advantage could become a blue wave — or break before Election Day",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党的历史性优势如何可能成为一股蓝色浪潮——或者在选举日之前被打破"
+    },
+    {
+      "title": "Battle over changing clocks heats up as Senate blocks permanent daylight saving time",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于参议院阻止永久夏令时，关于改变时钟的争论升温"
+    },
+    {
+      "title": "Students warn SEC college town rife with underage bar tricks: ‘It’s everyone’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "学生们警告 SEC 大学城充斥着未成年人的酒吧伎俩：“每个人都有”"
+    },
+    {
+      "title": "Trump opens red-dyed diesel to truckers in bid to slash fuel costs",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普向卡车司机开放红色柴油以削减燃油成本"
+    },
+    {
+      "title": "Workers are getting a productivity boost from AI — but there's a divide",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "工人们从人工智能中获得了生产力的提升——但存在着鸿沟"
+    },
+    {
+      "title": "October Prime Day is live: AirPods under $180, Shark vacuums at 50% off and more",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "10 月 Prime Day 上线：AirPods 售价低于 180 美元，Shark 吸尘器 50% 折扣等等"
+    },
+    {
+      "title": "Trump points finger at Iran over attempted flydubai attack",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普将迪拜航空袭击事件归咎于伊朗"
+    },
+    {
+      "title": "Oprah-backed dining chain heads to bankruptcy court with $42M in debt",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "奥普拉支持的餐饮连锁店因债务 4200 万美元而进入破产法庭"
+    },
+    {
+      "title": "Girls who faced boys in locker rooms now getting death threats for speaking out",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "那些在更衣室里面对男孩的女孩现在因为敢于发声而受到死亡威胁"
+    },
+    {
+      "title": "Fans roast 'Worldwide Leader' over embarrassing Monday Night Football blunder",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "球迷们因周一晚上足球比赛的尴尬失误而嘲笑“世界领袖”"
+    },
+    {
+      "title": "Ms Rachel takes aim at celebrities who do 'nothing during a genocide'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "雷切尔女士瞄准了“在种族灭绝期间无所作为”的名人"
+    },
+    {
+      "title": "JIMMY FAILLA:I came to Fox with my taxi double-parked. Then came the ride of my life",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "吉米·法拉：我来到福克斯时，出租车并排停放着。然后我生命中的旅程开始了"
+    },
+    {
+      "title": "Citizens become informants as Iran rolls out new surveillance crackdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗推出新的监控打击行动，公民成为线人"
+    },
+    {
+      "title": "Former German spy chief arrested for espionage and treason",
+      "link": "",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "published": "",
+      "title_zh": "德国前间谍头子因间谍和叛国罪被捕",
+      "summary_zh": "August Hanning is accused of obtaining classified information for a foreign power."
+    },
+    {
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "link": "",
+      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
+      "published": "",
+      "title_zh": "胡德堡枪手将被行刑队处决——这是二战以来美军首次处决",
+      "summary_zh": "尼达尔·马利克·哈桑 (Nidal Malik Hasan) 在针对美国军事基地的有史以来最致命的非战斗袭击中造成 13 名手无寸铁的士兵死亡，另有 32 人受伤。"
+    },
+    {
+      "title": "Almost 2,000 schools blockaded or closed, says union, as protests take place across France",
+      "link": "",
+      "summary": "There were scuffles in Strasbourg, while fires were started in Lyon and Lille. The protests - which began at schools last month - have spread across the country.",
+      "published": "",
+      "title_zh": "工会表示，法国各地发生抗议活动，近 2,000 所学校被封锁或关闭",
+      "summary_zh": "斯特拉斯堡发生混战，里昂和里尔则起火。上个月在学校开始的抗议活动已经蔓延到全国各地。"
+    },
+    {
+      "title": "Watch: At the scene of protests on the streets of Lille",
+      "link": "",
+      "summary": "The demonstrators are calling for better government investment in high schools.",
+      "published": "",
+      "title_zh": "观看：里尔街头抗议现场",
+      "summary_zh": "示威者呼吁政府加大对高中的投资。"
+    },
+    {
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "link": "",
+      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+      "published": "",
+      "title_zh": "分离主义政党有望赢得魁北克选举，为加拿大团结增添新考验",
+      "summary_zh": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
+    },
+    {
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "link": "",
+      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "published": "",
+      "title_zh": "太空望远镜的“幽灵粒子”荣获诺贝尔物理学奖",
+      "summary_zh": "比利时物理学家弗朗西斯·哈尔岑教授因其在探测太空粒子的天文台方面的开创性工作而获奖。"
+    },
+    {
+      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+      "link": "",
+      "summary": "Why a growing number of parents are opening pensions for their children.",
+      "published": "",
+      "title_zh": "我们每个月为孩子们节省 100 英镑，但他们要到 57 岁才能拿到这笔钱",
+      "summary_zh": "为什么越来越多的父母为孩子开设养老金。"
+    },
+    {
+      "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+      "link": "",
+      "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+      "published": "",
+      "title_zh": "Owner, businessman & player: Messi has big plans as a golden era ends",
+      "summary_zh": "莱昂内尔·梅西的阿根廷职业生涯将在对阵贝宁的友谊赛中结束。BBC 体育频道关注这位 39 岁的球员接下来会做什么？"
+    },
+    {
+      "title": "Jeffrey Archer: bestselling novelist whose political career ended in scandal",
       "link": "",
       "summary": "Politician and best-selling author whose career was mired in scandal and disgrace.",
       "published": "",
-      "title_zh": "杰弗里·阿彻：成功的小说家、名誉扫地的政治家和被定罪的骗子",
+      "title_zh": "杰弗里·阿彻：政治生涯以丑闻告终的畅销小说家",
       "summary_zh": "政治家和畅销书作家，其职业生涯深陷丑闻和耻辱之中。"
     },
     {
-      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+      "title": "Gauff condemns racist abuse after China Open win",
       "link": "",
-      "summary": "A growing number of parents are opening retirement funds for their children.",
+      "summary": "Coco Gauff says she suffered racial abuse on social media after an incident during her win over Sun Xinran at the China Open.",
       "published": "",
-      "title_zh": "我们每个月为我们的孩子和婴儿节省 100 英镑的养老金 - 这就是原因",
-      "summary_zh": "越来越多的父母为孩子开设退休基金。"
+      "title_zh": "高夫谴责中国公开赛获胜后的种族歧视行为",
+      "summary_zh": "可可·高夫表示，在中国公开赛战胜孙欣然期间发生事件后，她在社交媒体上遭受了种族歧视。"
     },
     {
-      "title": "Dread presenting at work? Read these tips before your next meeting",
+      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
       "link": "",
-      "summary": "Dani Payne would have panic attacks at the thought of presenting - now she does it most days.",
+      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
       "published": "",
-      "title_zh": "害怕在工作中展示？在下次会议之前阅读这些提示",
-      "summary_zh": "丹尼·佩恩 (Dani Payne) 一想到要演讲就会惊慌失措——现在她大多数时候都会这样做。"
+      "title_zh": "尼日利亚哀悼军用飞机坠入沼泽 32人丧生",
+      "summary_zh": "总统博拉·蒂努布将这次坠机事件描述为军队和整个国家的“痛苦时刻”。"
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "title": "Sailors missing after fresh attacks on Black Sea vessels, Bulgaria says",
       "link": "",
-      "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
       "published": "",
-      "title_zh": "印度经济增长但股市仍在下跌的五个原因",
-      "summary_zh": "全球增长最快的主要经济体在 2026 年却是表现最差的主要股票市场之一。"
+      "title_zh": "保加利亚称黑海船只遭遇新袭击后船员失踪",
+      "summary_zh": "目前尚不清楚谁是这些袭击的幕后黑手。作为对乌克兰战争的一部分，俄罗斯加强了在黑海的袭击。"
     },
     {
-      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
+      "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
       "link": "",
-      "summary": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
+      "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising.",
       "published": "",
-      "title_zh": "弗拉维奥·博尔索纳罗乘右翼浪潮赢得巴西大选首轮胜利",
-      "summary_zh": "弗拉维奥·博尔索纳罗的成功可能是拉丁美洲右翼支持复苏的最新例子。"
+      "title_zh": "特朗普表示，在两党反对后，他将停止使用纳税人资金做广告",
+      "summary_zh": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
     },
     {
-      "title": "King's funding for Andrew not to be used for legal action against police",
+      "title": "Australian soldier killed and five injured in crash during training exercise",
       "link": "",
-      "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
+      "summary": "A vehicle rolled over on Monday at the Mount Bundey training area, southeast of Darwin.",
       "published": "",
-      "title_zh": "国王为安德鲁提供的资金不会用于针对警察的法律行动",
-      "summary_zh": "安德鲁·蒙巴顿-温莎 (Andrew Mountbatten-Windsor) 正在对二月份被捕前发出的搜查令采取行动。"
+      "title_zh": "澳大利亚士兵在训练演习中发生车祸，死亡五人受伤",
+      "summary_zh": "周一，在达尔文东南部的邦迪山训练区，一辆汽车翻倒。"
     },
     {
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "title": "England's greatest international? Kane is now a serious contender",
       "link": "",
-      "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
       "published": "",
-      "title_zh": "也门军方表示已“保护”红海航道",
-      "summary_zh": "沙特支持的部队对于他们是否还占领了曼德海峡附近的港口城市莫卡给出了相互矛盾的报告。"
-    },
-    {
-      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
-      "link": "",
-      "summary": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
-      "published": "",
-      "title_zh": "蓝色星球和甘地作曲家乔治·芬顿去世，享年 76 岁",
-      "summary_zh": "这位音乐家获得了五项奥斯卡提名，并为数十部令人难忘的自然电影配乐。"
-    },
-    {
-      "title": "BBC appoints Rachel Jupp as new director of news",
-      "link": "",
-      "summary": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
-      "published": "",
-      "title_zh": "BBC 任命 Rachel Jupp 为新新闻总监",
-      "summary_zh": "朱普是 BBC Two 新闻之夜的前副主编，也曾担任 Panorama 的编辑。"
-    },
-    {
-      "title": "Terrorist to face firing squad as Trump clears way for execution after 17 years",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普为17年后处决恐怖分子扫清道路，恐怖分子将面临行刑队"
-    },
-    {
-      "title": "Luxury clothing brand founders discovered shot outside their California hillside home",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "奢华服装品牌创始人在加州山坡上的家外被发现遭枪击"
-    },
-    {
-      "title": "Former ESPN host calls QB Josh Allen a 'moron,' while accusing 'white folks' of bias",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前 ESPN 主持人称四分卫乔什·艾伦是“白痴”，同时指责“白人”存在偏见"
-    },
-    {
-      "title": "Plague death exposes Putin's crumbling grip as war and economy spiral downward",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着战争和经济螺旋式下滑，瘟疫死亡暴露了普京的摇摇欲坠的控制"
-    },
-    {
-      "title": "CBS interviewer stumped after Homan turns migrant treatment question around",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "霍曼扭转移民待遇问题后，哥伦比亚广播公司采访者陷入困境"
-    },
-    {
-      "title": "Debra Messing snubs Democrat to endorse Trump-backed Republican for governor’s race",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "黛布拉·梅辛冷落民主党人，转而支持特朗普支持的共和党人竞选州长"
-    },
-    {
-      "title": "Seahawks sign controversial running back with violent past after year away from football",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "海鹰队签下了饱受争议的跑锋，他的过去年复一年远离足球"
-    },
-    {
-      "title": "Trump admin sues university for giving undocumented students a break US citizens can't get",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普政府起诉大学为无证学生提供美国公民无法获得的休息"
-    },
-    {
-      "title": "AI expert warns people could die as artificial intelligence systems go rogue",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "人工智能专家警告人工智能系统失控可能导致人类死亡"
-    },
-    {
-      "title": "Early October Prime Day home deals: A $100 Keurig, Roombas over 50% off and more",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "10 月初 Prime Day 家居优惠：Keurig 100 澳元，Roombas 超过 50% 折扣等等"
-    },
-    {
-      "title": "Sophie Cunningham's hat sends clear message to WNBA crowd that refuses to define a woman",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 的帽子向 WNBA 观众传达了拒绝定义女性的明确信息"
-    },
-    {
-      "title": "Trump reveals who he believes is responsible for attempted FlyDubai 'terrorist' attack",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普透露他认为谁应对迪拜航空“恐怖”袭击负责"
-    },
-    {
-      "title": "Extreme socialist housing policy is gaining traction in one far-left hotspot",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "极端的社会主义住房政策正在一个极左热点地区获得关注"
-    },
-    {
-      "title": "The new blue-collar economy nobody saw coming is taking shape in this red state",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "没人预见到的新蓝领经济正在这个红色州形成"
-    },
-    {
-      "title": "LAURA INGRAHAM:They prefer communism to democracy",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "劳拉·英格拉汉姆：他们更喜欢共产主义而不是民主"
-    },
-    {
-      "title": "NFL referees suspended after unprofessional clashes with players in Week 4",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "NFL裁判在第四周与球员发生不专业冲突后被停职"
-    },
-    {
-      "title": "Strict new law could ban popular accessory in major tourist destination",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "严格的新法律可能禁止在主要旅游目的地流行配饰"
-    },
-    {
-      "title": "LAUREN GREEN:I was Fox News Channel's first on-air hire. I watched history unfold from Day 1",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "劳伦·格林：我是福克斯新闻频道的第一位播音员。我从第一天起就见证了历史的展开"
-    },
-    {
-      "title": "TUNE IN:Rahm Emanuel joins 'Hannity' tonight at 9pm ET",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "收看：Rahm Emanuel 将于东部时间晚上 9 点加入“Hannity”"
-    },
-    {
-      "title": "Tips came in minutes after Cornell alerted students to an alleged sex assault at fraternity",
-      "link": "https://www.nbcnews.com/news/us-news/tips-came-just-minutes-cornell-alerted-students-alleged-sex-assault-fr-rcna601451",
-      "summary": "",
-      "published": "",
-      "title_zh": "康奈尔大学向学生发出关于兄弟会涉嫌性侵犯事件的警告后几分钟就收到了提示"
-    },
-    {
-      "title": "After bipartisan criticism, Trump says taxpayers’ dollars will no longer be used for TV ads promoting him",
-      "link": "https://www.nbcnews.com/politics/donald-trump/taxpayer-dollars-super-pac-tv-ads-promoting-president-maga-inc-rcna601772",
-      "summary": "",
-      "published": "",
-      "title_zh": "在两党批评后，特朗普表示纳税人的钱将不再用于宣传他的电视广告"
-    },
-    {
-      "title": "What to know about pneumonic plague after woman in Russia dies from mysterious illness",
-      "link": "https://www.nbcnews.com/health/health-news/plague-suspected-russia-lab-pneumonic-siberia-symptoms-treatment-rcna601589",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄罗斯妇女死于神秘疾病后，关于肺鼠疫需要了解什么"
-    },
-    {
-      "title": "Ford CEO says ‘it’s our responsibility’ to make sure affordable cars are sold in the U.S.",
-      "link": "https://www.nbcnews.com/business/ceo-interviews/ford-ceo-affordable-vehicles-rcna601177",
-      "summary": "",
-      "published": "",
-      "title_zh": "福特首席执行官表示，确保在美国销售价格实惠的汽车是“我们的责任”"
-    },
-    {
-      "title": "Former ‘American Idol’ contestant sentenced to life in prison for wife’s murder",
-      "link": "https://www.nbcnews.com/news/us-news/ex-american-idol-contestant-caleb-flynn-sentenced-life-parole-wifes-mu-rcna601677",
-      "summary": "",
-      "published": "",
-      "title_zh": "前《美国偶像》选手因谋杀妻子被判终身监禁"
-    },
-    {
-      "title": "‘Things the average pilot avoids’: Why NASA has been sending planes into ‘fire clouds’",
-      "link": "https://www.nbcnews.com/science/environment/fire-clouds-nasa-fly-planes-through-pyrocbs-rcna600550",
-      "summary": "",
-      "published": "",
-      "title_zh": "“普通飞行员会避免的事情”：为什么美国宇航局一直将飞机送入“火云”"
+      "title_zh": "英格兰最伟大的国脚？凯恩现在是一个有力的竞争者",
+      "summary_zh": "哈里·凯恩将追平彼得·希尔顿的英格兰出场纪录，那么他在英格兰伟大球员中的排名如何呢？"
     }
   ]
 }
