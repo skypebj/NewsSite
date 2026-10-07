@@ -1,6 +1,6 @@
 {
   "date": "20261007",
-  "total": 33,
+  "total": 47,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,251 +37,351 @@
   },
   "entries": [
     {
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-      "link": "",
-      "summary": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "title": "Florida poll: Republicans lead in the races for governor and Senate",
+      "link": "https://www.nbcnews.com/politics/2026-election/florida-poll-republicans-lead-races-governor-senate-rcna601342",
+      "summary": "",
       "published": "",
-      "title_zh": "我们对克里斯塔·派克执行失败后“前所未有”的康复了解多少",
-      "summary_zh": "英国广播公司 (BBC) 的莎拉·史密斯 (Sarah Smith) 详细介绍了美国死囚在两次注射死刑失败后所受的伤害，以及接下来的情况。"
+      "title_zh": "佛罗里达州民意调查：共和党在州长和参议院竞选中领先"
     },
     {
-      "title": "'The world thanks you' - emotional Messi scores in final Argentina game",
-      "link": "",
-      "summary": "Lionel Messi brings his Argentina career to a fitting end with a goal against Benin on an emotional night in Buenos Aires.",
+      "title": "Republican John James seeks distance from Trump in Michigan governor debate",
+      "link": "https://www.nbcnews.com/politics/2026-election/republican-john-james-distance-trump-michigan-governor-debate-rcna601820",
+      "summary": "",
       "published": "",
-      "title_zh": "“全世界感谢你”——梅西在阿根廷最后一场比赛中激动地进球",
-      "summary_zh": "莱昂内尔·梅西在布宜诺斯艾利斯度过了一个激动人心的夜晚，在对阵贝宁的比赛中攻入一球，为他的阿根廷职业生涯画上了圆满的句号。"
+      "title_zh": "共和党人约翰·詹姆斯在密歇根州州长辩论中寻求与特朗普保持距离"
     },
     {
-      "title": "Former Australian bishop jailed for sexually abusing young men",
-      "link": "",
-      "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
+      "title": "Georgia governor candidates spar over the economy in lone debate",
+      "link": "https://www.nbcnews.com/politics/2026-election/georgia-governor-candidates-spar-economy-trump-lone-debate-rcna601124",
+      "summary": "",
       "published": "",
-      "title_zh": "澳大利亚前主教因性虐待年轻男子被判入狱",
-      "summary_zh": "这位布鲁姆前主教是世界上面临性虐待指控的最资深的天主教神职人员之一。"
+      "title_zh": "佐治亚州州长候选人在单独辩论中围绕经济展开争论"
     },
     {
-      "title": "Israel marks three years since Hamas-led 7 October 2023 attacks",
-      "link": "",
-      "summary": "About 1,200 people were killed and 251 others taken hostage during the assault. The Hamas-run health ministry in Gaza reports that more than 74,200 people have been killed in subsequent Israeli attacks.",
+      "title": "Zach Lahn’s residency history comes under fire in Iowa governor debate",
+      "link": "https://www.nbcnews.com/politics/2026-election/zach-lahns-residency-history-rob-sands-party-come-fire-first-iowa-gove-rcna601347",
+      "summary": "",
       "published": "",
-      "title_zh": "以色列纪念哈马斯领导的 2023 年 10 月 7 日袭击事件三周年",
-      "summary_zh": "袭击期间约有 1,200 人死亡，另有 251 人被扣为人质。哈马斯控制的加沙卫生部报告称，以色列随后的袭击已造成 74,200 多人死亡。"
+      "title_zh": "扎克·兰的居住历史在爱荷华州州长辩论中受到批评"
     },
     {
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "link": "",
-      "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+      "title": "Experimental vaccine shows promise against deadly brain cancer in some patients",
+      "link": "https://www.nbcnews.com/health/cancer/brain-tumor-vaccine-experimental-shot-shows-promise-glioblastoma-patie-rcna601650",
+      "summary": "",
       "published": "",
-      "title_zh": "10 月 7 日哈马斯领导的袭击中被毁的基布兹居民正在努力解决如何重建问题",
-      "summary_zh": "尼尔奥兹袭击事件造成 47 人死亡、76 人被扣为人质，三年后，一些幸存者返回那里居住。"
+      "title_zh": "Experimental vaccine shows promise against deadly brain cancer in some patients"
     },
     {
-      "title": "The Republican candidates walking a Trump tightrope",
-      "link": "",
-      "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+      "title": "Global bond sell-off pushes U.S. Treasury yields to fresh 24-year highs",
+      "link": "https://www.nbcnews.com/business/markets/treasury-yields-hit-24-year-highs-global-sell-accelerates-rcna602045",
+      "summary": "",
       "published": "",
-      "title_zh": "共和党候选人在特朗普走钢丝",
-      "summary_zh": "一些参加 11 月选举的人正在决定是否与一位仍然在党内占据主导地位、不受欢迎的总统保持距离。"
+      "title_zh": "全球债券抛售推动美国国债收益率创24年新高"
     },
     {
-      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+      "title": "Meta’s Oversight Board has a warning for AI companies building their own watchdogs",
+      "link": "https://www.nbcnews.com/tech/social-media/metas-oversight-board-warning-ai-companies-building-safety-watchdogs-rcna601588",
+      "summary": "",
+      "published": "",
+      "title_zh": "Meta 监督委员会对人工智能公司建立自己的监管机构发出警告"
+    },
+    {
+      "title": "They were a historically bad team. Now they’re a threat to make the World Series.",
+      "link": "https://www.nbcnews.com/sports/mlb/chicago-white-sox-mlb-world-series-alds-alcs-playoffs-rcna600991",
+      "summary": "",
+      "published": "",
+      "title_zh": "他们是一支历史上表现不佳的球队。现在他们是进入世界大赛的威胁。"
+    },
+    {
+      "title": "Live updates: The absolute best October Prime Day deals, hand-picked by a shopping reporter",
+      "link": "https://www.nbcnews.com/select/shopping/best-prime-day-deals-2026-10-07-rcna602013",
+      "summary": "",
+      "published": "",
+      "title_zh": "实时更新：购物记者精心挑选的十月黄金日绝对最佳优惠"
+    },
+    {
+      "title": "HAPPENING NOW: Sec Rubio says America is at a 'crossroads': 'Act now or lose the choice to act at all'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "现在正在发生的事情：卢比奥国务卿表示美国正处于“十字路口”：“立即行动，否则根本就失去行动的选择”"
+    },
+    {
+      "title": "Mamdani turns October 7 anniversary message into broad indictment of Israel, US",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马姆达尼将 10 月 7 日纪念日致辞变成对以色列和美国的广泛控诉"
+    },
+    {
+      "title": "France’s riots take new turn as experts reveal what’s fueling unrest beyond grievances",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家揭示了除了不满之外助长骚乱的原因，法国骚乱出现新的变化"
+    },
+    {
+      "title": "State Department urges Americans to avoid island hot spot as threats of violence loom",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于暴力威胁迫在眉睫，国务院敦促美国人避开热点岛屿"
+    },
+    {
+      "title": "Dems’ latest Trump attack backfires as unlikely voices rush to his defense",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党对特朗普的最新攻击适得其反，因为不太可能的声音纷纷为他辩护"
+    },
+    {
+      "title": "Michael Douglas called 5 women after Catherine Zeta-Jones gave him an ultimatum",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯瑟琳·泽塔-琼斯向迈克尔·道格拉斯发出最后通牒后，迈克尔·道格拉斯给 5 名女性打电话"
+    },
+    {
+      "title": "Man hunting for gems at state park spots 'glowing' find worth a fortune",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "男子在州立公园“发光”的地方寻找宝石，发现价值不菲"
+    },
+    {
+      "title": "Supreme Court case exposes a trillion-dollar scheme targeting every household",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院的案件揭露了一项针对每个家庭的万亿美元计划"
+    },
+    {
+      "title": "Gold has a new source of demand — and the boom is just beginning",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "黄金有了新的需求来源——繁荣才刚刚开始"
+    },
+    {
+      "title": "Original FOX News employees reflect on 'chaotic' network launch 30 years ago",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "福克斯新闻原创员工反思 30 年前“混乱”的网络启动"
+    },
+    {
+      "title": "Bar calls allegation in Cornell rape lawsuit 'completely inaccurate'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "巴尔称康奈尔大学强奸诉讼中的指控“完全不准确”"
+    },
+    {
+      "title": "Christa Pike now conscious and speaking after surviving lethal injection",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Christa Pike now conscious and speaking after surviving lethal injection"
+    },
+    {
+      "title": "Timeline reveals where future hurricane Isaias is headed for dangerous landfall",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "时间表揭示了未来飓风伊萨亚斯将在何处危险登陆"
+    },
+    {
+      "title": "SCOTUS slams door on Dem judge’s bid to salvage career over pro-Biden Facebook posts",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "SCOTUS slams door on Dem judge’s bid to salvage career over pro-Biden Facebook posts"
+    },
+    {
+      "title": "A new plague outbreak? Former Trump official says what is really happening in Russia",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "新的瘟疫爆发？特朗普前官员称俄罗斯到底发生了什么"
+    },
+    {
+      "title": "Former Hamas hostage Omer Shem Tov reflects on enduring 505 days in captivity",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Former Hamas hostage Omer Shem Tov reflects on enduring 505 days in captivity"
+    },
+    {
+      "title": "Punches fly as city council meeting devolves into chaos over data center vote",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "市议会会议因数据中心投票陷入混乱，拳脚相加"
+    },
+    {
+      "title": "Holly Madison blames 'puppet masters' for Playboy girlfriends staying silent",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "霍莉·麦迪逊将《花花公子》女友保持沉默归咎于“傀儡师”"
+    },
+    {
+      "title": "October Prime Day ends today: Get 50% off a Shark vacuum, AirPods for $70 off and more",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "10 月 Prime Day 今日结束：Shark 吸尘器可享受 50% 的折扣，AirPods 还可享受 70 美元的折扣等等"
+    },
+    {
+      "title": "Caitlin Clark unleashes massive drive while trying to dial in her game during offseason",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 在休赛期试图在比赛中发挥巨大的动力"
+    },
+    {
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "link": "",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "published": "",
+      "title_zh": "学生抗议中男孩手被炸断 法国停止使用眩晕手榴弹",
+      "summary_zh": "在此之前，一些团体抱怨警察对青少年使用过度武力。"
+    },
+    {
+      "title": "California pair charged with abusing at least 14 surrogate-born children",
+      "link": "",
+      "summary": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "published": "",
+      "title_zh": "加州夫妇被控虐待至少 14 名代孕儿童",
+      "summary_zh": "去年，宣国军和张西尔维娅在他们的阿卡迪亚豪宅中逮捕了 21 名儿童。"
+    },
+    {
+      "title": "Watch: Why French police have stopped using stun grenades on student protesters",
+      "link": "",
+      "summary": "Police unions say they need non-lethal options such as stun grenades to protect officers in increasingly violent situations.",
+      "published": "",
+      "title_zh": "观看：为什么法国警方停止对学生抗议者使用眩晕手榴弹",
+      "summary_zh": "警察工会表示，他们需要眩晕手榴弹等非致命性选择，以在日益暴力的情况下保护警察。"
+    },
+    {
+      "title": "'What happened here was not human': Israel marks three years since 7 October attacks",
+      "link": "",
+      "summary": "About 1,200 people were killed and 251 others taken hostage in the Hamas-led attacks. In Gaza, the Hamas-run health ministry says more than 74,200 people have been killed in subsequent Israeli attacks.",
+      "published": "",
+      "title_zh": "“这里发生的事情不是人为的”：以色列纪念 10 月 7 日袭击事件三周年",
+      "summary_zh": "在哈马斯领导的袭击中，约 1,200 人被杀，另有 251 人被扣为人质。在加沙，哈马斯管理的卫生部表示，以色列随后的袭击已造成 74,200 多人死亡。"
+    },
+    {
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "link": "",
+      "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "published": "",
+      "title_zh": "诺贝尔化学奖因解决生命不对称之谜而获奖",
+      "summary_zh": "该奖项颁发给法国和日本科学家，以表彰他们解决了生命不对称之谜。"
+    },
+    {
+      "title": "Two icons, a glorious farewell and a potentially bitter ending",
+      "link": "",
+      "summary": "As Lionel Messi's international career ends in fond farewell, Cristiano Ronaldo's is at risk of petering out. BBC Sport takes a look at what could be the end of the international career's of two football greats.",
+      "published": "",
+      "title_zh": "两个偶像，辉煌的告别和可能痛苦的结局",
+      "summary_zh": "随着莱昂内尔·梅西 (Lionel Messi) 的国家队生涯以深情的告别结束，克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 的国家队生涯也面临着逐渐消失的风险。BBC 体育频道报道了两位足球巨星的国际职业生涯的终结。"
+    },
+    {
+      "title": "What happened in the Christa Pike case - and what happens next?",
+      "link": "",
+      "summary": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+      "published": "",
+      "title_zh": "克里斯塔·派克案中发生了什么——接下来会发生什么？",
+      "summary_zh": "据称，杀害科琳·斯莱默的被定罪凶手在执行死刑后，在田纳西州的一家医院里已经苏醒并发表讲话。"
+    },
+    {
+      "title": "What the Paramount and Warner Bros deal means for you",
+      "link": "",
+      "summary": "The BBC's Samira Hussain explains the impact the $110bn merger will have on consumers of both entertainment giants.",
+      "published": "",
+      "title_zh": "派拉蒙和华纳兄弟的交易对您意味着什么",
+      "summary_zh": "BBC 的萨米拉·侯赛因 (Samira Hussain) 解释了此次 1,100 亿美元的合并将对两家娱乐巨头的消费者产生的影响。"
+    },
+    {
+      "title": "The 2010s sweet treat that's making a comeback and causing hour-long queues",
       "link": "",
       "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
       "published": "",
-      "title_zh": "弗罗约卷土重来。但每桶 12 英镑，它能用得久吗？",
+      "title_zh": "2010 年代的甜品卷土重来，导致排队长达一小时",
       "summary_zh": "冷冻酸奶曾在 2000 年代和 2010 年代掀起一阵热潮，现在又卷土重来，英国各地涌现出多家连锁店。"
     },
     {
-      "title": "What is pneumonic plague and how does it spread?",
+      "title": "Watch: Why family who lived at site of 7 October attack want to return",
       "link": "",
-      "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "summary": "The BBC's Middle East correspondent visits kibbutz Nir Oz - one of the worst hit places during the 7 October 2023 attacks.",
       "published": "",
-      "title_zh": "什么是肺鼠疫以及它如何传播？",
-      "summary_zh": "俄罗斯一家研究鼠疫实验室的一名工作人员死亡引发了人们对这种疾病的质疑。"
+      "title_zh": "观看：为什么住在 10 月 7 日袭击现场的家人想要返回",
+      "summary_zh": "BBC 中东记者探访尼尔奥兹基布兹 - 2023 年 10 月 7 日袭击中受灾最严重的地方之一。"
     },
     {
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
       "link": "",
-      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
       "published": "",
-      "title_zh": "研究显示，一种美丽的喜马拉雅鸟由于人类活动而改变了声音",
-      "summary_zh": "研究表明，人类活动的急剧增加正在影响喜马拉雅猿猴的生活和交流方式。"
+      "title_zh": "饮酒和同意——康奈尔大学强奸指控暴露了法律的“漏洞”",
+      "summary_zh": "英国广播公司 (BBC) 与专家讨论了美国各州现行的性侵犯法律，以及为什么一些人认为修改这些法律将帮助所谓的受害者。"
     },
     {
-      "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
+      "title": "Xbox bets on Gears of War in battle of gaming giants",
       "link": "",
-      "summary": "For some, a hangover can start an anxious spiral. We spoke to experts about the reasons why.",
+      "summary": "Unlike other flagship titles, E-Day will only be available on Xbox at a time of rising console costs.",
       "published": "",
-      "title_zh": "“那种挥之不去的恐惧感”：“焦虑症”是真的吗？",
-      "summary_zh": "对于一些人来说，宿醉可能会引发焦虑的螺旋式上升。我们采访了专家，了解了其中的原因。"
+      "title_zh": "Xbox 在游戏巨头之战中押注《战争机器》",
+      "summary_zh": "与其他旗舰游戏不同的是，E-Day 只会在主机成本上涨时在 Xbox 上提供。"
     },
     {
-      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "title": "Fort Hood attacker to be executed by firing squad - a first for US military since World War Two",
       "link": "",
-      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
       "published": "",
-      "title_zh": "辫子创造者 Jonathan Blow 谈制作“有史以来最大的益智游戏”",
-      "summary_zh": "《沉没之星》将于周四推出，有大约 1,500 个谜题供玩家尝试"
+      "title_zh": "胡德堡袭击者将被行刑队处决——这是二战以来美军的第一次",
+      "summary_zh": "尼达尔·马利克·哈桑 (Nidal Malik Hasan) 在针对美国军事基地的有史以来最致命的非战斗袭击中造成 13 名手无寸铁的士兵死亡，另有 32 人受伤。"
     },
     {
-      "title": "US resident arrested in connection with deadly British Columbia school shooting",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
       "link": "",
-      "summary": "US authorities say the 30-year-old  has been charged with conspiracy to murder persons in a foreign country. Six children died in the attack.",
+      "summary": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
       "published": "",
-      "title_zh": "美国居民因不列颠哥伦比亚省校园枪击事件被捕",
-      "summary_zh": "美国当局表示，这名 30 岁的男子被指控在外国密谋谋杀他人。六名儿童在袭击中丧生。"
+      "title_zh": "日本啤酒巨头因涉嫌价格垄断而遭到突击搜查",
+      "summary_zh": "朝日、麒麟和三得利证实，日本竞争主管机构搜查了他们的经营场所。"
     },
     {
-      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
       "link": "",
-      "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
+      "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
       "published": "",
-      "title_zh": "英国将尽最后努力阻止以色列关闭东耶路撒冷领事馆",
-      "summary_zh": "由于英国对以色列定居点实施制裁，以色列威胁要关闭负责处理英国与该市巴勒斯坦人关系的领事馆。"
+      "title_zh": "奥斯卡影后艾娃·玛丽·森特去世，享年 102 岁",
+      "summary_zh": "她在《海滨》中与马龙·白兰度演对手戏，随后在希区柯克的《西北偏北》中与加里·格兰特搭档。"
     },
     {
-      "title": "British national arrested in connection with RAF Fairford incident",
+      "title": "India's opposition leader dragged on to bus as police break up protest",
       "link": "",
-      "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
+      "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
       "published": "",
-      "title_zh": "英国国民因与皇家空军费尔福德事件有关而被捕",
-      "summary_zh": "这是与上个月英国皇家空军费尔福德附近事件有关的第七次逮捕。"
+      "title_zh": "印度反对派领导人被警察驱散抗议，拖上巴士",
+      "summary_zh": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party."
     },
     {
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+      "title": "Widdecombe suspect accused of trying to break into Farage's home",
       "link": "",
-      "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+      "summary": "Joshua Kerry, 28, appeared at Westminster Magistrates' Court and was remanded in custody.",
       "published": "",
-      "title_zh": "Asos 确认黑客向应用程序用户发送了“未经授权”的通知",
-      "summary_zh": "Asos 证实，在用户发出警报后，周二通过其应用程序发出了“未经授权的客户通知”。"
+      "title_zh": "威德科姆嫌疑人被指控试图闯入法拉奇的家",
+      "summary_zh": "28 岁的约书亚·克里 (Joshua Kerry) 在威斯敏斯特地方法院出庭，并被还押候审。"
     },
     {
-      "title": "Midfield options and a fab front four - what we've learned about England",
+      "title": "'Grateful, proud and at peace' - emotional Messi plays final Argentina game",
       "link": "",
-      "summary": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
+      "summary": "Lionel Messi brings his Argentina career to a fitting end with a goal against Benin on an emotional night in Buenos Aires.",
       "published": "",
-      "title_zh": "中场选择和出色的前四——我们对英格兰的了解",
-      "summary_zh": "从特伦特·亚历山大-阿诺德的回归到亚历克斯·斯科特的首秀，菲尔·麦克纳尔蒂评估了英格兰队在这个国际比赛窗口中学到的东西。"
-    },
-    {
-      "title": "Susan Collins and Troy Jackson clash over Trump and seniority in Maine Senate debate",
-      "link": "https://www.nbcnews.com/politics/2026-election/susan-collins-troy-jackson-clash-trump-seniority-maines-first-senate-d-rcna601346",
-      "summary": "",
-      "published": "",
-      "title_zh": "苏珊·柯林斯和特洛伊·杰克逊在缅因州参议院辩论中就特朗普和资历发生冲突"
-    },
-    {
-      "title": "Outrage, backlash and inaction: Why can’t America stop rape on college campuses?",
-      "link": "https://www.nbcnews.com/news/us-news/cornell-university-campus-sexual-assault-debate-again-rcna600961",
-      "summary": "",
-      "published": "",
-      "title_zh": "愤怒、强烈反对和不作为：为什么美国不能制止大学校园里的强奸行为？"
-    },
-    {
-      "title": "Fuel industry warns truck stops against selling red dye diesel after Trump lifts restrictions",
-      "link": "https://www.nbcnews.com/business/energy/fuel-industry-warns-red-dye-diesel-trump-order-rcna601979",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普取消限制后，燃料行业警告卡车停靠站不要出售红色染料柴油"
-    },
-    {
-      "title": "Ship sunk with crew missing after brazen strike inside NATO member's waters",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "北约成员国水域发生公然袭击后，一艘船沉没，船员失踪"
-    },
-    {
-      "title": "Tren de Aragua ransom plot turns Denver roommate’s home into a torture chamber",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特伦·德·阿拉瓜勒索赎金阴谋将丹佛室友的家变成了酷刑室"
-    },
-    {
-      "title": "People who live to 100 have three drinks in common, longevity expert says",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "长寿专家称，活到 100 岁的人有 3 种共同点"
-    },
-    {
-      "title": "Woman allegedly stabs girl after SUV hits semi as soldiers step in to stop knife attack",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "SUV撞半后，女子据称刺伤女孩，士兵介入制止持刀袭击"
-    },
-    {
-      "title": "Passenger jet bound for US plunges 27,000 feet before circling for hours",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "飞往美国的客机在盘旋数小时前坠落 27,000 英尺"
-    },
-    {
-      "title": "Debra Messing explains why she's voting for a Republican after being a lifelong Democrat",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "黛布拉·梅辛解释了为什么她在一生都是民主党人后投票给共和党人"
-    },
-    {
-      "title": "Music legend blasts festival after woman allegedly left in the crowd after her death",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "据称女子死后留在人群中，音乐传奇人物炮轰音乐节"
-    },
-    {
-      "title": "State of Emergency issued ahead of future Hurricane Isaias 'dangerous' landfall",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在未来飓风伊萨亚斯“危险”登陆之前发布紧急状态"
-    },
-    {
-      "title": "Former German spy chief arrested on suspicion of espionage, attempted treason",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "德国前间谍头子因涉嫌间谍活动和叛国罪被捕"
-    },
-    {
-      "title": "Eric Bischoff reveals what Hulk Hogan was really like behind closed doors on 'Planet Tyrus'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃里克·比肖夫 (Eric Bischoff) 揭秘浩克·霍根 (Hulk Hogan) 在《泰勒斯星球》(Planet Tyrus) 闭门表演中的真实面貌"
-    },
-    {
-      "title": "Navy reservist shakes as he pulls massive yellow diamond from gravel: 'Today's the day'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "海军预备役军人从砾石中取出巨大的黄色钻石时浑身发抖：“今天就是这一天”"
-    },
-    {
-      "title": "Former TV anchor who killed mother, 80, last Halloween handed her fate",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "去年万圣节杀害80岁母亲的前电视主播将命运交给了她"
-    },
-    {
-      "title": "Vance reveals Tehran mystery hanging over the Iran war as tensions intensify",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着紧张局势加剧，万斯揭示了伊朗战争中悬而未决的德黑兰之谜"
-    },
-    {
-      "title": "Lauren Heike’s killer pleads guilty after disturbing evidence emerges",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杀害劳伦·海克的凶手在令人不安的证据出现后认罪"
+      "title_zh": "“感恩、自豪、平静”——激动的梅西在阿根廷队最后一场比赛中",
+      "summary_zh": "莱昂内尔·梅西在布宜诺斯艾利斯度过了一个激动人心的夜晚，在对阵贝宁的比赛中攻入一球，为他的阿根廷职业生涯画上了圆满的句号。"
     }
   ]
 }
