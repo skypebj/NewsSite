@@ -1,6 +1,6 @@
 {
   "date": "20261008",
-  "total": 43,
+  "total": 33,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,321 +37,244 @@
   },
   "entries": [
     {
-      "title": "Latino voters reject Trump’s immigration policies — and detail the personal impact",
-      "link": "https://www.nbcnews.com/politics/2026-election/poll-latino-voters-reject-trumps-immigration-policies-detail-personal-rcna602061",
-      "summary": "",
-      "published": "",
-      "title_zh": "拉丁裔选民拒绝特朗普的移民政策 - 并详细介绍了个人影响"
-    },
-    {
-      "title": "Trump administration deal with Nevada fuels data center fight in governor’s race",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-administration-deal-nevada-data-centers-governor-rcna599861",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普政府与内华达州的协议加剧了州长竞选中的数据中心之争"
-    },
-    {
-      "title": "At least 30 people killed after Russia bombs two buses in Ukraine",
-      "link": "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄罗斯炸毁乌克兰两辆巴士 至少30人死亡"
-    },
-    {
-      "title": "Hurricane Isaias strengthens as it barrels toward the Gulf Coast",
-      "link": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-tropical-storm-gulf-coast-rcna602198",
-      "summary": "",
-      "published": "",
-      "title_zh": "飓风伊萨亚斯向墨西哥湾沿岸猛冲而增强"
-    },
-    {
-      "title": "Russian operation that used ChatGPT tricked schools, a politician and media, OpenAI says",
-      "link": "https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066",
-      "summary": "",
-      "published": "",
-      "title_zh": "OpenAI 表示，使用 ChatGPT 的俄罗斯行动欺骗了学校、政治家和媒体"
-    },
-    {
-      "title": "NASA SpaceX Crew-12 return to Earth after undocking from space station",
-      "link": "https://www.nbcnews.com/video/watch-live-nasa-spacex-crew-12-return-to-earth-271240773897",
-      "summary": "",
-      "published": "",
-      "title_zh": "NASA SpaceX Crew-12 从空间站脱离后返回地球"
-    },
-    {
-      "title": "Oil prices hit $105 and stocks trade lower as Trump considers renewed strikes on Iran",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-stocks-trump-iran-rcna602248",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普考虑重新打击伊朗，油价触及 105 美元，股市走低"
-    },
-    {
-      "title": "Hundreds of thousands still at risk of climate-linked floods in Nepal",
-      "link": "https://www.nbcnews.com/science/climate-change/hundreds-thousands-still-risk-climate-linked-floods-nepal-rcna601909",
-      "summary": "",
-      "published": "",
-      "title_zh": "尼泊尔数十万人仍面临与气候相关的洪水的风险"
-    },
-    {
-      "title": "An AI-generated Rumpelstiltskin meme is freaking out much of the internet",
-      "link": "https://www.nbcnews.com/tech/internet/ai-generated-rumpelstiltskin-meme-freaking-much-internet-rcna602132",
-      "summary": "",
-      "published": "",
-      "title_zh": "人工智能生成的 Rumpelstiltskin meme 吓坏了互联网上的大部分人"
-    },
-    {
-      "title": "California woman accused of spying for China fights detention with $820K offer",
+      "title": "Schumer and Jeffries go conspicuously quiet as Mamdani's Israel remarks spark outrage",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被控为中国从事间谍活动的加州女子出价82万美元抗拒拘留"
+      "title_zh": "马姆达尼的以色列言论引发愤怒，舒默和杰弗里斯明显保持沉默"
     },
     {
-      "title": "Letitia James' rival turns AG's own playbook against her with scathing 52-count 'indictment'",
+      "title": "Nearly $1B drop in Medicaid spending projections follows bizarre billing discovery",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "利蒂西亚·詹姆斯的竞争对手用 52 条严厉的“起诉书”扭转了 AG 自己的剧本"
+      "title_zh": "奇怪的账单发现导致医疗补助支出预测下降近 10 亿美元"
     },
     {
-      "title": "Roger Clemens thought he was only introducing Trump — then came a presidential surprise",
+      "title": "Man arrested after extensive search following dad's discovery of mom shot dead",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗杰·克莱门斯（Roger Clemens）以为他只是在介绍特朗普——然后总统大吃一惊"
+      "title_zh": "父亲发现母亲被枪杀后，男子经过广泛搜查被捕"
     },
     {
-      "title": "Black smoke billows from plane after terror group claims attack on US ally's airport",
+      "title": "Man accused of throwing woman and infant off 15th floor smiles as bystanders erupt",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "恐怖组织声称袭击美国盟友机场后飞机冒出滚滚黑烟"
+      "title_zh": "被指控将妇女和婴儿从15楼扔下的男子在旁观者爆发时微笑"
     },
     {
-      "title": "Massive 2,000-year-old discovery from time of Jesus emerges remarkably intact",
+      "title": "Resurfaced writing haunts Michigan Senate hopeful ahead of big rally with Obama",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "耶稣时代 2000 年前的重大发现完好无损"
+      "title_zh": "密歇根州参议院在与奥巴马举行大型集会之前，重新出现的文字困扰着他们"
     },
     {
-      "title": "Axe-wielding suspects crash truck into jewelry store — owner immediately opens fire",
+      "title": "Shaq's blunt advice after Caitlin Clark teammate discusses downside of playing with the WNBA star",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "持斧头嫌疑人将卡车撞向珠宝店 店主立即开枪"
+      "title_zh": "在凯特琳·克拉克队友讨论与 WNBA 球星一起打球的缺点后，沙克直言不讳的建议"
     },
     {
-      "title": "Olivia Rodrigo sends a direct message to fans upset about her political outspokenness",
+      "title": "Country music superstar goes viral with bone-chilling cover of classic song",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥利维亚·罗德里戈向因政治直言而感到不满的粉丝直接发送信息"
+      "title_zh": "乡村音乐巨星翻唱经典歌曲令人不寒而栗"
     },
     {
-      "title": "Ithaca cracks down on Cornell with sweeping permit freeze amid rape allegation fallout",
+      "title": "Isaias becomes Atlantic's first hurricane as dangerous Gulf Coast landfall looms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊萨卡因强奸指控而全面冻结康奈尔大学许可证"
+      "title_zh": "危险的墨西哥湾沿岸登陆迫在眉睫，伊萨亚斯成为大西洋首个飓风"
     },
     {
-      "title": "Tech millionaire obsessed with living forever says he would ‘never trust’ AI with health",
+      "title": "Physicist details breakthrough that unlocked secrets of the Milky Way",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "痴迷于永生的科技百万富翁表示，他“永远不会相信”人工智能与健康有关"
+      "title_zh": "物理学家详细介绍了揭开银河系秘密的突破"
     },
     {
-      "title": "Extended October Prime Day deals: $70 off AirPods, 50% off Roombas and more",
+      "title": "Man freed from prison just 8 days before allegedly killing 12-year-old",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Extended October Prime Day deals: $70 off AirPods, 50% off Roombas and more"
+      "title_zh": "男子在涉嫌杀害 12 岁儿童前 8 天出狱"
     },
     {
-      "title": "Police rescue child trafficking victims in major US city: 'Happening in our backyard'",
+      "title": "Fort Hood hero shot in head calls killer a 'coward' ahead of firing squad execution",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警方在美国大城市营救儿童贩卖受害者：“发生在我们的后院”"
+      "title_zh": "胡德堡英雄头部中弹，在行刑队处决前称凶手为“懦夫”"
     },
     {
-      "title": "City faces lawsuit after mayor allegedly doubles down on Islamic displays",
+      "title": "France’s burning schools reveal the destructive power of White guilt",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据称市长在伊斯兰展览上加倍努力，该市面临诉讼"
+      "title_zh": "法国烧毁的学校揭示了白人罪恶感的破坏力"
     },
     {
-      "title": "Vance suspends companies from applying for green cards amid visa 'abuse' crackdown",
+      "title": "Suspected plague victim's mom speaks out after daughter's death: 'I know the truth'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "万斯在打击签证“滥用”期间暂停公司申请绿卡"
+      "title_zh": "疑似鼠疫受害者的母亲在女儿去世后发声：“我知道真相”"
     },
     {
-      "title": "Rahm Emanuel gives Hannity inside look at Obama White House",
+      "title": "Caitlin Clark reacts to teammate's comments, makes offseason priority clear",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拉姆·伊曼纽尔带汉尼蒂参观奥巴马白宫"
+      "title_zh": "凯特琳·克拉克对队友的评论做出反应，明确休赛期的优先事项"
     },
     {
-      "title": "6-year-old curses at cops, admits to stealing mom's gun after shooting teacher",
+      "title": "Israel further weakens Hamas as 2 more terrorists are killed in Gaza",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "6岁男孩咒骂警察，承认在枪杀老师后偷了妈妈的枪"
+      "title_zh": "加沙又有两名恐怖分子被杀，以色列进一步削弱哈马斯"
     },
     {
-      "title": "Anti-Israel agitators berate Mamdani as he attended vigil for October 7 victims",
+      "title": "Grandmother, 61, holds plank for 5 straight hours, reveals secret behind her stamina",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "马姆达尼参加 10 月 7 日遇难者守夜活动时，反以色列煽动者斥责他"
+      "title_zh": "61岁祖母连续平板支撑5小时，揭示了她耐力背后的秘密"
     },
     {
-      "title": "Luke Grimes shares candid Kevin Costner confession after 'Yellowstone'",
+      "title": "Lindsey Vonn dials up the heat with a summer photo dump that leaves fans sweating",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卢克·格莱姆斯在《黄石》后分享了凯文·科斯特纳的坦白忏悔"
+      "title_zh": "林赛·沃恩 (Lindsey Vonn) 晒出一张夏季照片，让粉丝们大汗淋漓"
     },
     {
-      "title": "Shaq has simple Caitlin Clark advice for Kelsey Mitchell after alarming comments",
+      "title": "Extended October Prime Day deals: $100 off Bose earbuds, 50% off Roombas and more",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在发表令人震惊的言论后，沙克向凯尔西·米切尔提出了凯特琳·克拉克的简单建议"
+      "title_zh": "10 月 Prime Day 延长优惠：Bose 耳机立减 100 美元，Roombas 立减 50% 等等"
     },
     {
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "link": "",
-      "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "title": "‘I just want to hold him’: USS Lincoln sailor to meet his 10-month-old son as ship docks",
+      "link": "https://www.nbcnews.com/politics/national-security/uss-abraham-lincoln-docks-san-diego-sailors-return-home-meet-new-babie-rcna601933",
+      "summary": "",
       "published": "",
-      "title_zh": "官员称，俄罗斯对公共汽车的袭击造成至少30人死亡，乌克兰的致命袭击激增",
-      "summary_zh": "乌克兰指责俄罗斯针对前线城市克拉马托尔斯克拥挤的车辆，杀害尽可能多的平民。"
+      "title_zh": "“我只想抱着他”：林肯号航空母舰水手在船码头与他 10 个月大的儿子见面"
     },
     {
-      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "link": "",
-      "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "title": "MAHA fractures deepen as some RFK Jr. followers turn into harsh critics",
+      "link": "https://www.nbcnews.com/health/health-news/trump-rfk-jr-maha-promises-scorecard-pesticides-food-safety-rcna601905",
+      "summary": "",
       "published": "",
-      "title_zh": "亚利桑那州国会候选人称她在修复竞选标志时被强奸",
-      "summary_zh": "伯纳黛特·格林-普拉森蒂亚 (Bernadette Greene-Plcentia) 表示，她对这次袭击的记忆很模糊，她被打昏了。"
+      "title_zh": "随着一些 RFK Jr. 的追随者变成严厉的批评者，MAHA 的裂痕加深"
     },
     {
-      "title": "Inside the £1-an-hour official football shirt factories",
-      "link": "",
-      "summary": "A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than £1 an hour.",
+      "title": "James Talarico off the trail with the flu for 12 days",
+      "link": "https://www.nbcnews.com/politics/2026-election/james-talarico-flu-texas-senate-rcna602277",
+      "summary": "",
       "published": "",
-      "title_zh": "每小时 1 英镑的官方足球衫工厂内部",
-      "summary_zh": "BBC 体育频道的一项调查将官方足球衫的生产追溯到柬埔寨的工厂，那里的工人时薪不到 1 英镑。"
+      "title_zh": "詹姆斯·塔拉里科 (James Talarico) 因流感已停止活动 12 天"
     },
     {
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "link": "",
-      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "title": "Diddy is punished following NBC News report on his VIP life in prison and contraband cellphone use",
+      "link": "https://www.nbcnews.com/news/us-news/diddy-punished-nbc-news-report-vip-life-prison-contraband-cellphone-us-rcna602261",
+      "summary": "",
       "published": "",
-      "title_zh": "委内瑞拉前领导人尼古拉斯·马杜罗被控阴谋实施酷刑",
-      "summary_zh": "新指控涉及马杜罗执政期间美国公民在委内瑞拉遭受酷刑的指控。"
+      "title_zh": "NBC 新闻报道吹牛老爹在狱中的 VIP 生活和使用违禁手机后受到惩罚"
     },
     {
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "link": "",
-      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "title": "Four return to Earth after eight months in space",
+      "link": "https://www.nbcnews.com/science/space/four-astronauts-return-earth-eight-months-space-rcna602270",
+      "summary": "",
       "published": "",
-      "title_zh": "律师告诉 BBC，克里斯塔·派克 (Christa Pike) 在美国执行死刑失败后现在可以行走",
-      "summary_zh": "一名律师称，科琳·斯莱默的凶手在两次注射死刑后幸存下来，正在她的病房里走动。"
+      "title_zh": "四人在太空停留八个月后返回地球"
     },
     {
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "link": "",
-      "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "title": "Ithaca city council calls on Cornell to report sexual assault investigations to local police",
+      "link": "https://www.nbcnews.com/news/us-news/ithaca-city-council-calls-cornell-report-sexual-assault-investigations-rcna602328",
+      "summary": "",
       "published": "",
-      "title_zh": "“大胆而富有创造力”的加拿大诗人安妮·卡森荣获诺贝尔文学奖",
-      "summary_zh": "76 岁的卡森因其经常跨越诗歌、小说和学术界限的作品而闻名。"
+      "title_zh": "伊萨卡市议会呼吁康奈尔大学向当地警方报告性侵犯调查"
     },
     {
-      "title": "Would independence make or break oil-rich Alberta's economy?",
+      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
       "link": "",
-      "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "summary": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
       "published": "",
-      "title_zh": "石油资源丰富的艾伯塔省的经济，独立会成就还是毁灭？",
-      "summary_zh": "艾伯塔省人本月将投票决定留在加拿大或进行具有约束力的独立公投。"
+      "title_zh": "观看：英国驻东耶路撒冷领事馆的标志为何被拆除？",
+      "summary_zh": "该领事馆始建于 1838 年，以色列政府计划关闭该领事馆，以报复英国的制裁。"
     },
     {
-      "title": "Could Christa Pike face execution again and by what method?",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
       "link": "",
-      "summary": "Killer Christa Pike has survived lethal injection, raising questions about whether Tennessee will try again.",
+      "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
       "published": "",
-      "title_zh": "克里斯塔·派克是否会再次面临死刑？以什么方式执行？",
-      "summary_zh": "杀手克里斯塔·派克在注射死刑后幸存下来，引发了人们对田纳西州是否会再次尝试的疑问。"
+      "title_zh": "抗议者将西班牙住房危机归咎于“秃鹫基金”",
+      "summary_zh": "数百人在马德里市中心搭起了帐篷，而西班牙首相则呼吁提前举行选举。"
     },
     {
-      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newshour",
+      "title": "Harry says he 'slipped into depression' after leaving UK",
       "link": "",
-      "summary": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
+      "summary": "The Duke of Sussex says he had an \"adrenaline crash\" while visiting Vancouver Island to \"get some space\".",
       "published": "",
-      "title_zh": "康奈尔大学强奸案原告收到“威胁”，律师告诉BBC新闻小时",
-      "summary_zh": "Thomas Giuffra 代表一名在法律文件中被称为 Jane Doe 的女性，她声称自己于 2024 年在校园内的兄弟会会所遭到强奸。"
+      "title_zh": "哈里称离开英国后“陷入抑郁”",
+      "summary_zh": "苏塞克斯公爵表示，他在访问温哥华岛“寻求一些空间”时“肾上腺素崩溃”。"
     },
     {
-      "title": "Faster than F1: The extreme motorsport where women keep winning",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "link": "",
-      "summary": "Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles.",
+      "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
       "published": "",
-      "title_zh": "比 F1 更快：女性不断获胜的极限赛车运动",
-      "summary_zh": "顶级燃油直线加速赛是唯一一个女性经常击败男性获得主要冠军的精英赛车运动类别。"
+      "title_zh": "英国广播公司发现，美国和黎巴嫩正在保护被通缉的叙利亚将军",
+      "summary_zh": "巴萨姆·哈桑受到庇护，以换取信息，包括有关被绑架的美国记者奥斯汀·泰斯的信息。"
     },
     {
-      "title": "The wildlife winners set to appear on UK banknotes revealed",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
       "link": "",
-      "summary": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
+      "summary": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
       "published": "",
-      "title_zh": "野生动物获奖者将出现在英国纸币上",
-      "summary_zh": "这一决定是在近 50 万人投票选出 18 种生物的候选名单后做出的。"
+      "title_zh": "赞比亚在数据共享争议后签署美国卫生协议",
+      "summary_zh": "根据特朗普削减美国国际开发署资金后谈判达成的协议，美国将提供 15 亿美元（11 亿英镑）。"
     },
     {
-      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
       "link": "",
-      "summary": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+      "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
       "published": "",
-      "title_zh": "英国广播公司(BBC)调查后，性虐待学生的老师回到印度尼西亚监狱",
-      "summary_zh": "Mochamad Subchi Azal Tsani 服刑还不到一半，于 2025 年被秘密假释。"
+      "title_zh": "玛格丽特·汉密尔顿 (Margaret Hamilton) 去世，享年 90 岁，她的软件帮助阿波罗 11 号登陆月球",
+      "summary_zh": "计算机科学家先驱领导了美国宇航局阿波罗任务软件的开发，并被授予总统自由勋章。"
     },
     {
-      "title": "Residents airlifted to safety after flooding in central Chile",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
       "link": "",
-      "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
       "published": "",
-      "title_zh": "Residents airlifted to safety after flooding in central Chile",
-      "summary_zh": "最近几天异常大量的降雨导致马波乔河决堤。"
+      "title_zh": "直言不讳的印度演员 Nana Patekar 突然去世，享年 75 岁",
+      "summary_zh": "帕特卡以其激烈的表演而闻名，在印度电影中占据了独特的地位。"
     },
     {
-      "title": "The bendy elm crowned UK Tree of the Year",
+      "title": "Three UK sisters who drowned in sea took own lives, inquest finds",
       "link": "",
-      "summary": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
+      "summary": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
       "published": "",
-      "title_zh": "弯曲的榆树荣获英国年度树木称号",
-      "summary_zh": "这是自 2014 年推出以来，北爱尔兰的树木首次获得国家称号。"
+      "title_zh": "调查发现英国三姐妹溺水身亡",
+      "summary_zh": "居住在伦敦的简·阿德托罗、克里斯蒂娜·沃尔特斯和丽贝卡·沃尔特斯五月在海中溺水身亡。"
     },
     {
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "title": "Clubs fear political interference in Man City appeal",
       "link": "",
-      "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
       "published": "",
-      "title_zh": "意大利批准选举改革，反对派指责梅洛尼“诈骗”",
-      "summary_zh": "总理乔治亚·梅洛尼表示，此举将使政府更加稳定，但反对党表示，她的目标是继续掌权。"
-    },
-    {
-      "title": "Cummins not worried about potential Khawaja revelations",
-      "link": "",
-      "summary": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
-      "published": "",
-      "title_zh": "康明斯并不担心潜在的 Khawaja 泄密事件",
-      "summary_zh": "帕特·康明斯证实，他已经与乌斯曼·卡瓦贾谈论了他的前队友即将出版的自传，但这位澳大利亚队长表示，他并不担心潜在的砂纸门事件曝光。"
+      "title_zh": "俱乐部担心政治干预曼城的上诉",
+      "summary_zh": "在总理安迪·伯纳姆发表评论后，英超俱乐部对曼城上诉中的政治干预感到“担忧”。"
     }
   ]
 }
