@@ -1,6 +1,6 @@
 {
   "date": "20261009",
-  "total": 40,
+  "total": 43,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,300 +37,318 @@
   },
   "entries": [
     {
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
-      "link": "",
-      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "title": "Food pantries overwhelmed by Trump cuts",
+      "link": "https://www.nbcnews.com/news/us-news/west-virginia-hunger-trump-cuts-food-stamps-gas-prices-iran-rcna601637",
+      "summary": "",
       "published": "",
-      "title_zh": "与摩纳哥炸弹袭击百万富翁有关的嫌疑人在乌克兰监狱接受 BBC 采访",
-      "summary_zh": "维塔利·日科维奇 (Vitalii Zhykovych) 讲述了他自己对乌克兰出生的商人瓦迪姆·叶尔莫拉耶夫 (Vadym Yermolayev) 未遂暗杀事件的描述。"
+      "title_zh": "食品储藏室因特朗普削减开支而不堪重负"
     },
     {
-      "title": "ICE agent shoots man in New York City",
-      "link": "",
-      "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+      "title": "Hunger in a land of plenty: Major food banks face ‘heartbreaking’ need, NBC News survey finds",
+      "link": "https://www.nbcnews.com/news/us-news/overwhelmed-food-banks-heartbreaking-choices-trump-rising-hunger-rcna601639",
+      "summary": "",
       "published": "",
-      "title_zh": "ICE 特工在纽约市枪杀一名男子",
-      "summary_zh": "纽约市长对国土安全部称在逮捕一名“有罪的非法外国人”期间发生的枪击事件表示愤慨。"
+      "title_zh": "物产丰富的土地上的饥饿：NBC新闻调查发现，主要食品银行面临着“令人心碎”的需求"
     },
     {
-      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+      "title": "Trump and Vance hit the campaign trail in New York and Ohio",
+      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-vance-2026-midterm-elections-congress-live-updates-rcna602380",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普和万斯在纽约和俄亥俄州进行竞选活动"
+    },
+    {
+      "title": "Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her",
+      "link": "https://www.nbcnews.com/business/economy/trump-probe-fed-gov-lisa-cook-rcna602500",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普成立小组调查美联储理事丽莎·库克最近一次试图解雇她的行为"
+    },
+    {
+      "title": "Navi Pillay, who led U.N. panel that found Israel committed genocide in Gaza, wins Nobel Peace Prize",
+      "link": "https://www.nbcnews.com/world/europe/nobel-peace-prize-favorites-include-yulia-navalnaya-donald-trump-downp-rcna602462",
+      "summary": "",
+      "published": "",
+      "title_zh": "领导联合国小组发现以色列在加沙犯下种族灭绝罪的纳维·皮莱获得诺贝尔和平奖"
+    },
+    {
+      "title": "Gulf Coast braces for Isaias as it strengthens to Category 3 hurricane with 120 mph winds",
+      "link": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-rcna602422",
+      "summary": "",
+      "published": "",
+      "title_zh": "墨西哥湾沿岸将迎来“伊萨亚斯”飓风，飓风强度将达到 3 级，风速可达 120 英里/小时"
+    },
+    {
+      "title": "After surviving a botched lethal injection, Christa Pike faces unprecedented legal battle",
+      "link": "https://www.nbcnews.com/news/us-news/christa-pike-tennessee-botched-execution-unprecedented-legal-fight-rcna602081",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯塔·派克在一次失败的注射死刑后幸存下来，面临着前所未有的法律诉讼"
+    },
+    {
+      "title": "ICE officer shoots man in neck, shattering car windows with 5-year-old son inside",
+      "link": "https://www.nbcnews.com/news/us-news/person-shot-ice-officers-new-york-city-rcna602413",
+      "summary": "",
+      "published": "",
+      "title_zh": "ICE官员向男子颈部开枪，车窗被打碎，车内有5岁儿子"
+    },
+    {
+      "title": "Russia’s secrecy after a mysterious plague lab death raises global alarm",
+      "link": "https://www.nbcnews.com/world/russia/russias-plague-lab-worker-death-everyone-freaked-rcna602318",
+      "summary": "",
+      "published": "",
+      "title_zh": "鼠疫实验室神秘死亡事件后俄罗斯的保密行为引起全球警惕"
+    },
+    {
+      "title": "In new Elon Musk documentary, his lieutenants are the most damning voices",
+      "link": "https://www.nbcnews.com/tech/elon-musk/elon-musk-documentary-lieutenants-are-damning-voices-rcna601834",
+      "summary": "",
+      "published": "",
+      "title_zh": "在埃隆·马斯克的新纪录片中，他的副手们是最具有诅咒性的声音"
+    },
+    {
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "link": "",
+      "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "published": "",
+      "title_zh": "五角大楼表示，将直播行刑队的执行情况",
+      "summary_zh": "皮特·赫格斯表示，处决将公开，但一位法律专家表示，这一“史无前例”的决定是在“不确定的法律领域”做出的。"
+    },
+    {
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "link": "",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "published": "",
+      "title_zh": "联合国前人权事务高级专员纳维·皮莱荣获诺贝尔和平奖",
+      "summary_zh": "挪威诺贝尔委员会表示，皮莱因其“促进和平和国际法的努力”而受到认可。"
+    },
+    {
+      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "link": "",
+      "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+      "published": "",
+      "title_zh": "胡德堡幸存者支持行刑队处决枪手，但对直播提出质疑",
+      "summary_zh": "阿隆佐·伦斯福德 (Alonzo Lunsford) 告诉 BBC，罪有应得，但他对公众是否应该能够观看这部电影表示怀疑。"
+    },
+    {
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "link": "",
+      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "published": "",
+      "title_zh": "据报道，窃贼在意大利偷走了 30,000 瓶价值 500 万欧元的葡萄酒",
+      "summary_zh": "这家位于佛罗伦萨的酒庄发生的盗窃案被认为是意大利同类盗窃案中规模最大的一起。"
+    },
+    {
+      "title": "Why Elon Musk is taking on India's richest man over Starlink",
+      "link": "",
+      "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
+      "published": "",
+      "title_zh": "为什么埃隆·马斯克要通过星链与印度首富较量",
+      "summary_zh": "由于星链在印度的推出举步维艰，马斯克对信实公司的所有者穆克什·安巴尼进行了猛烈抨击。"
+    },
+    {
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
       "link": "",
       "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
       "published": "",
-      "title_zh": "随着寒冷的冬天临近，基辅居民在其他地方寻找庇护所",
+      "title_zh": "俄罗斯的罢工和即将到来的冬季迫使基辅的一些人收拾行李逃离",
       "summary_zh": "俄罗斯对电力和能源基础设施发起的新一轮袭击让一些人考虑离开乌克兰首都。"
     },
     {
-      "title": "Toxic smog shuts schools in Malaysia as pollution hits record levels in Singapore",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
       "link": "",
-      "summary": "Forest fires that have been burning for months in Indonesia have blanketed parts of neighbouring Singapore, Malaysia, Brunei and the Philippines.",
+      "summary": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
       "published": "",
-      "title_zh": "新加坡污染创历史新高，马来西亚有毒烟雾导致学校停课",
-      "summary_zh": "印度尼西亚持续燃烧数月的森林大火已经覆盖了邻国新加坡、马来西亚、文莱和菲律宾的部分地区。"
+      "title_zh": "来认识一下正在与莫迪较量的印度精力充沛的 Z 世代抗议者",
+      "summary_zh": "尼哈·博拉 (Neha Bora) 已成为印度最近 Z 世代领导的抗议活动中最知名的面孔之一。"
     },
     {
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "link": "",
-      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-      "published": "",
-      "title_zh": "马克·扎克伯格有形象问题——那么为什么 Meta 的业务蓬勃发展呢？",
-      "summary_zh": "一部新电影将 Meta 创始人描绘成恶棍。但我们的北美科技记者写道，这家科技公司似乎不会受到负面宣传的影响。"
-    },
-    {
-      "title": "What Americans think about the death penalty",
-      "link": "",
-      "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee.",
-      "published": "",
-      "title_zh": "美国人对死刑的看法",
-      "summary_zh": "在田纳西州克里斯塔·派克被处决后，英国广播公司在华盛顿特区与美国人和国际游客讨论了他们对死刑的看法。"
-    },
-    {
-      "title": "Why are more roofs not made of solar tiles?",
-      "link": "",
-      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "published": "",
-      "title_zh": "为什么更多的屋顶不采用太阳能瓦片？",
-      "summary_zh": "太阳能瓦片被吹捧为太阳能电池板的有吸引力的替代品——为什么它们没有流行起来？"
-    },
-    {
-      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "title": "I've been with my boyfriend for two years and don't know his salary",
       "link": "",
       "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
       "published": "",
-      "title_zh": "“我不知道我的伴侣赚多少钱”：约会后多久你应该透露你的薪水？",
+      "title_zh": "我和男朋友在一起两年了，不知道他的工资",
       "summary_zh": "谈论薪水、消费习惯和债务可能是约会中比较棘手的话题。"
     },
     {
-      "title": "'I rage and I don't care': Why women are reclaiming their anger",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
       "link": "",
-      "summary": "Studies suggest women are getting angrier, but are they just more open about it?",
+      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
       "published": "",
-      "title_zh": "“我愤怒但不在乎”：为什么女性正在收回愤怒",
-      "summary_zh": "研究表明女性变得越来越愤怒，但她们只是对此更加开放吗？"
+      "title_zh": "与摩纳哥百万富翁炸弹袭击有关的嫌疑人接受 BBC 采访",
+      "summary_zh": "维塔利·日科维奇 (Vitalii Zhykovych) 讲述了乌克兰出生的商人瓦迪姆·叶尔莫拉耶夫 (Vadym Yermolayev) 遭暗杀未遂的事件。"
     },
     {
-      "title": "Weekly quiz: How long did it take for Glastonbury tickets to sell out?",
+      "title": "Man accused of murdering former British MP had 'particular hostility to Reform'",
       "link": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
       "published": "",
-      "title_zh": "每周测验：格拉斯顿伯里音乐节的门票需要多长时间才能售完？",
-      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+      "title_zh": "被指控谋杀前英国议员的男子“对改革特别敌视”",
+      "summary_zh": "克里被指控谋杀了 78 岁的前保守党大臣兼改革英国发言人。"
     },
     {
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "title": "Zack Polanski vows to stay on as UK Green leader as criticism mounts",
       "link": "",
-      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
       "published": "",
-      "title_zh": "随着中期选举的临近，特朗普希望降低燃料成本——这会奏效吗？",
-      "summary_zh": "随着生活成本成为数百万美国人的一个关键问题，燃料价格飙升。"
+      "title_zh": "随着批评的增加，扎克·波兰斯基誓言继续担任英国绿党领袖",
+      "summary_zh": "犹太绿党领导人表示，波兰斯基应该在犹太复国主义争端和补选失败后辞职。"
     },
     {
-      "title": "Emotions run high on UK Celebrity Traitors as two players banished",
+      "title": "Verstappen on sprint pole after another settings issue",
       "link": "",
-      "summary": "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series.",
+      "summary": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
       "published": "",
-      "title_zh": "两名球员被驱逐，英国名人叛徒情绪高涨",
-      "summary_zh": "观众们拭目以待理查德·E·格兰特能否在系列赛的第一场圆桌会议上拯救自己。"
+      "title_zh": "再次出现设置问题后，维斯塔潘登上冲刺杆",
+      "summary_zh": "红牛车队的马克斯·维斯塔潘 (Max Verstappen) 在新加坡大奖赛上击败梅赛德斯车手乔治·拉塞尔 (George Russell) 夺得杆位。"
     },
     {
-      "title": "Labour wins Holborn and St Pancras by-election, beating Green leader Zack Polanski",
+      "title": "Fury-Joshua tickets priced up to £13,000 sell out in one hour",
       "link": "",
-      "summary": "Polanski says he will \"of course\" carry on as the party's leader, while new Labour MP Sagal Abdi-Wali calls her victory an \"extraordinary honour\".",
+      "summary": "Tickets for Tyson Fury and Anthony Joshua's fight at Cardiff's Principality Stadium sells out in just one hour.",
       "published": "",
-      "title_zh": "工党击败绿党领袖扎克·波兰斯基，赢得霍尔本和圣潘克拉斯补选",
-      "summary_zh": "波兰斯基表示，他“当然”将继续担任该党领袖，而新任工党议员萨加尔·阿卜迪-瓦利则称她的胜利是“非凡的荣誉”。"
+      "title_zh": "富里-约书亚的门票售价高达 13,000 英镑，一小时内售罄",
+      "summary_zh": "泰森·富里和安东尼·约书亚在卡迪夫公国体育场的比赛门票一小时内就售罄。"
     },
     {
-      "title": "White House blocks Microsoft from foreign worker hiring programme",
-      "link": "",
-      "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
-      "published": "",
-      "title_zh": "白宫阻止微软参与外国工人招聘计划",
-      "summary_zh": "多年来，国际签证计划允许美国科技公司从国外聘请高技能工人。"
-    },
-    {
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "link": "",
-      "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
-      "published": "",
-      "title_zh": "南非爆发反移民暴力，汽车被烧毁，商店被抢劫",
-      "summary_zh": "南非经常爆发暴力事件，通常针对的是来自邻国的移民。"
-    },
-    {
-      "title": "Sutton's predictions v Starsailor frontman James Walsh",
-      "link": "",
-      "summary": "BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-      "published": "",
-      "title_zh": "萨顿对星水手主唱詹姆斯·沃尔什的预测",
-      "summary_zh": "BBC 体育足球专家克里斯·萨顿 (Chris Sutton) 与 Starsailor 主唱詹姆斯·沃尔什 (James Walsh) 以及 BBC 读者和 AI 进行了对本周末英超联赛比赛的预测。"
-    },
-    {
-      "title": "Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate",
-      "link": "https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866",
-      "summary": "",
-      "published": "",
-      "title_zh": "阿卜杜勒·赛义德和迈克·罗杰斯在密歇根州参议院首场辩论中火花四射"
-    },
-    {
-      "title": "Brad Raffensperger gears up to oversee his final election in Georgia",
-      "link": "https://www.nbcnews.com/politics/2026-election/brad-raffensperger-final-election-georgia-secretary-state-trump-rcna599292",
-      "summary": "",
-      "published": "",
-      "title_zh": "布拉德·拉芬斯伯格准备监督他在佐治亚州的最终选举"
-    },
-    {
-      "title": "USS Lincoln docks in San Diego Bay following scrutinized 322-day deployment",
-      "link": "https://www.nbcnews.com/news/us-news/uss-abraham-lincoln-deployment-ends-aircraft-carrier-returns-san-diego-rcna602345",
-      "summary": "",
-      "published": "",
-      "title_zh": "经过 322 天部署审查后，林肯号航空母舰停靠在圣地亚哥湾"
-    },
-    {
-      "title": "Pentagon says there will be a livestream of firing squad’s execution of the Fort Hood shooter",
-      "link": "https://www.nbcnews.com/politics/trump-administration/pete-hegseth-says-public-can-watch-firing-squads-execution-fort-hood-s-rcna602395",
-      "summary": "",
-      "published": "",
-      "title_zh": "五角大楼表示将直播行刑队处决胡德堡枪手的过程"
-    },
-    {
-      "title": "What happened inside the room where officials tried to execute Christa Pike by lethal injection",
-      "link": "https://www.nbcnews.com/news/us-news/happened-room-officials-tried-execute-christa-pike-lethal-injection-rcna601631",
-      "summary": "",
-      "published": "",
-      "title_zh": "官员试图注射死刑的房间内发生了什么"
-    },
-    {
-      "title": "‘Too young to vote, old enough to be tear gassed’: French protesters’ anger swells",
-      "link": "https://www.nbcnews.com/world/europe/tear-gassed-french-students-anger-police-tactics-rcna602334",
-      "summary": "",
-      "published": "",
-      "title_zh": "“太年轻不能投票，太老了可以被催泪瓦斯”：法国抗议者的愤怒情绪高涨"
-    },
-    {
-      "title": "Trump awards Musk and other tech titans National Medals of Science",
-      "link": "https://www.nbcnews.com/tech/tech-news/trump-awards-musk-tech-titans-national-medals-science-rcna602104",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普授予马斯克和其他科技巨头国家科学奖章"
-    },
-    {
-      "title": "Thousands protest in India’s Bengaluru as ‘Cockroach’ movement demands election chief resign",
-      "link": "https://www.nbcnews.com/world/asia/thousands-protest-india-cockroach-movement-election-chief-resignation-rcna602436",
-      "summary": "",
-      "published": "",
-      "title_zh": "印度班加罗尔数千人抗议“蟑螂”运动要求选举负责人辞职"
-    },
-    {
-      "title": "Mamdani demands Trump release illegal immigrant shot by ICE agent as protests erupt in the Bronx",
+      "title": "Mullin calls out Mamdani's anti-ICE rhetoric as 'dangerous' after New York shooting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "布朗克斯爆发抗议活动，马姆达尼要求特朗普释放被 ICE 特工枪杀的非法移民"
+      "title_zh": "纽约枪击事件后，穆林称马姆达尼的反 ICE 言论是“危险的”"
     },
     {
-      "title": "Lawyer says even guards wept as regime executed groom who survived gallows once",
+      "title": "DeSantis says 'assume you're going to lose power' as Cat 3 Hurricane Isaias strengthens",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "律师称，当政权处决曾经在绞刑架上幸存下来的新郎时，连警卫都哭了"
+      "title_zh": "德桑蒂斯表示，随着三级飓风伊萨亚斯增强，“假设你将失去电力”"
     },
     {
-      "title": "Grand jury examines possible false statements by Jan. 6 witness Cassidy Hutchinson",
+      "title": "Democrats shift on transgender sports as Republicans revive a potent 2024 attack",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大陪审团审查 1 月 6 日证人卡西迪·哈钦森 (Cassidy Hutchinson) 可能存在的虚假陈述"
+      "title_zh": "共和党重提2024年强有力攻击，民主党转向变性体育"
     },
     {
-      "title": "Urgent volcano warning closes popular attraction at tourist getaway amid quake surge",
+      "title": "Workers warned to 'expect deaths' at Chinese-owned plant as Congress gets stonewalled",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于地震激增，紧急火山警告关闭了旅游胜地的热门景点"
+      "title_zh": "由于国会遭到阻挠，中国工厂的工人们被警告“可能会死亡”"
     },
     {
-      "title": "Putin takes Iran offer face-to-face as Trump signals shift in war talks",
+      "title": "Manson Family killer could go free after 55 years in prison for 1969 murder spree",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普暗示战争谈判发生转变，普京面对面接受伊朗提议"
+      "title_zh": "曼森家族杀手因 1969 年谋杀案被判入狱 55 年后可能获释"
     },
     {
-      "title": "Iconic Irish beer brand closing US brewery as parent company makes sweeping cuts",
+      "title": "Dak Prescott heckled by mouthy worker after loss to 0-4 team: 'Embarrassing'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "标志性爱尔兰啤酒品牌关闭美国啤酒厂，母公司大幅削减开支"
+      "title_zh": "0-4输给球队后，达克·普雷斯科特被多嘴的工人质问：“尴尬”"
     },
     {
-      "title": "Firing squad execution of Fort Hood mass murderer to be livestreamed",
+      "title": "Fitness CEO shares simple eating trick that helped him lose 15 pounds for good",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "行刑队对胡德堡大屠杀凶手的处决将进行直播"
+      "title_zh": "Fitness CEO 分享帮助他永久减掉 15 磅的简单饮食技巧"
     },
     {
-      "title": "Ella Langley flaunts figure in bikini as fans call her 'the most perfect woman'",
+      "title": "Reese’s adds disclaimer for customers to iconic Halloween candy after legal feud",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "艾拉·兰利 (Ella Langley) 身穿比基尼炫耀身材，粉丝称她为“最完美的女人”"
+      "title_zh": "里斯在法律纠纷后为标志性万圣节糖果添加了对顾客的免责声明"
     },
     {
-      "title": "US Navy's answer to China's military threat involves a radical new AI weapon",
+      "title": "Communities often overlook key request when data centers move in, CEO says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国海军对中国军事威胁的回应涉及一种全新的人工智能武器"
+      "title_zh": "首席执行官表示，当数据中心迁入时，社区经常忽视关键要求"
     },
     {
-      "title": "Millions urged to prepare to 'protect life and property' before monster hurricane",
+      "title": "Behind France's 'student' riots: Communists, unions and a global propaganda network",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "数百万人敦促在巨型飓风到来之前做好“保护生命和财产”的准备"
+      "title_zh": "法国“学生”骚乱背后：共产党人、工会和全球宣传网络"
     },
     {
-      "title": "Company to cut nearly 1,000 white-collar jobs across stores division and other units",
+      "title": "Entire crowd forced to leave meeting because woman wore 'Save Girls Sports' shirt",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "公司将在商店部门和其他部门裁员近 1,000 名白领职位"
+      "title_zh": "由于妇女穿着“拯救女孩运动”衬衫，全体人群被迫离开会议"
     },
     {
-      "title": "Columbia University calls offensive dining sign an 'unfortunate mistake'",
+      "title": "Key waterway ‘cleansed’ of terror group after thousands of strikes, Saudi ambassador says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "哥伦比亚大学称冒犯性餐饮标志是“不幸的错误”"
+      "title_zh": "沙特大使表示，经过数千次袭击，主要水道上的恐怖组织已被“清除”"
     },
     {
-      "title": "Tyrus pulls back the curtain on what Trump is really like when cameras aren't rolling",
+      "title": "Erika Kirk offers glimpse inside TPUSA HQ one year after Charlie Kirk's death",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒斯揭开镜头不开时特朗普真实面貌的帷幕"
+      "title_zh": "查理·柯克去世一年后，埃里卡·柯克 (Erika Kirk) 探访 TPUSA 总部"
     },
     {
-      "title": "Clark’s historic season somehow wasn’t worth an MVP vote to 19 people",
+      "title": "Riley Gaines sits down with Gen Z creator Nevaeh Souza to discuss faith",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克拉克的历史性赛季不值得 19 人投票获得 MVP"
+      "title_zh": "莱利·盖恩斯 (Riley Gaines) 与 Z 世代创始人 Nevaeh Souza 坐下来讨论信仰"
     },
     {
-      "title": "Michigan Senate showdown turns personal as Rogers, El-Sayed clash onstage",
+      "title": "Grandmother of 12 pushes through the pain to pull off an incredible athletic feat at 61",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗杰斯和埃尔-赛义德在台上发生冲突，密歇根州参议院的对决变成了个人恩怨"
+      "title_zh": "12 岁的祖母在 61 岁时克服痛苦，完成了令人难以置信的运动壮举"
     },
     {
-      "title": "TUNE IN:Exclusive interview with Erika Kirk on 'FOX & Friends'",
+      "title": "Why millions of seniors are getting checks from the government",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "收看：《福克斯与朋友》对埃里卡·柯克的独家采访"
+      "title_zh": "为什么数百万老年人收到政府的支票"
+    },
+    {
+      "title": "Washington voters may make history with transgender sports ban Initiative",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "华盛顿选民可能会通过跨性别体育禁令创造历史"
+    },
+    {
+      "title": "Trucking firms file for bankruptcy as diesel fuel costs keep surging",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于柴油成本持续飙升，卡车运输公司申请破产"
+    },
+    {
+      "title": "Empire State Building lights up red, white and blue to celebrate Fox News Channel's 30th anniversary",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "帝国大厦亮起红、白、蓝三色灯光庆祝福克斯新闻频道成立 30 周年"
+    },
+    {
+      "title": "Michigan Senate debate erupts into personal attacks as El-Sayed and Rogers clash",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃尔-赛义德和罗杰斯发生冲突，密歇根州参议院辩论爆发人身攻击"
     }
   ]
 }
