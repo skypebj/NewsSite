@@ -1,6 +1,6 @@
 {
   "date": "20261010",
-  "total": 45,
+  "total": 38,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,334 +37,284 @@
   },
   "entries": [
     {
-      "title": "Hurricane Isaias makes landfall as destructive winds and heavy rain blast Gulf Coast",
+      "title": "At least two people killed as Isaias pushes further inland",
+      "link": "https://www.nbcnews.com/weather/hurricanes/isaias-continues-moving-inland-post-tropical-cyclone-making-landfall-f-rcna602638",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊萨亚斯进一步向内陆推进，造成至少两人死亡"
+    },
+    {
+      "title": "Pentagon’s plan to livestream an execution resurrects America’s darkest history, critics say",
+      "link": "https://www.nbcnews.com/news/us-news/pentagon-livestream-execution-nidal-hasan-fort-hood-dark-history-rcna602482",
+      "summary": "",
+      "published": "",
+      "title_zh": "批评人士称，五角大楼直播处决的计划重现了美国最黑暗的历史"
+    },
+    {
+      "title": "Democratic congressional candidates run anti-data center ads in states the party controls",
+      "link": "https://www.nbcnews.com/politics/2026-election/democratic-candidates-data-center-ads-governors-rcna601734",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党国会候选人在该党控制的州投放反数据中心广告"
+    },
+    {
+      "title": "A high-profile Supreme Court recusal, and sailors come home to a baby boom: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/france-protests-news-quiz-rcna602357",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院高调回避，水手们回家后迎来婴儿潮：新闻测验"
+    },
+    {
+      "title": "Frustrated by a slowing economy, young Chinese turn to Mao Zedong for guidance",
+      "link": "https://www.nbcnews.com/world/asia/frustrated-slowing-economy-young-chinese-turn-mao-zedong-guidance-rcna601812",
+      "summary": "",
+      "published": "",
+      "title_zh": "对经济放缓感到沮丧的中国年轻人向毛泽东寻求指导"
+    },
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "link": "",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "published": "",
+      "title_zh": "特朗普宣布与俄罗斯柴油达成协议，泽连斯基称这是送给普京的礼物",
+      "summary_zh": "乌克兰总统严厉批评此举，称其为“必须结束而不是延长的战争投资”。"
+    },
+    {
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "published": "",
+      "title_zh": "BBC调查涉嫌性虐待学生后校长被​​拘留",
+      "summary_zh": "以前的学生发起了自己的调查，花了数年时间从其他声称自己受到校长虐待的人那里收集证据和证词。"
+    },
+    {
+      "title": "Premier League: Chelsea 2-0 up inside three minutes, Jackson equalises for Aston Villa",
+      "link": "",
+      "summary": "Follow reaction as Arsenal beat Leeds in the Premier League, plus build-up to four more games at 15:00 BST.",
+      "published": "",
+      "title_zh": "英超：切尔西三分钟内2-0领先，杰克逊为阿斯顿维拉扳平比分",
+      "summary_zh": "关注阿森纳在英超联赛中击败利兹联的反应，以及英国夏令时 15:00 进行的四场比赛。"
+    },
+    {
+      "title": "More than 850,000 without power after Hurricane Isaias makes landfall in Florida",
+      "link": "",
+      "summary": "Households across Florida, Alabama and Georgia are facing power outages as the downgraded storm is set to hit Alabama and the Tennessee Valley.",
+      "published": "",
+      "title_zh": "飓风伊萨亚斯登陆佛罗里达州后，超过 85 万人断电",
+      "summary_zh": "由于降级风暴将袭击阿拉巴马州和田纳西河谷，佛罗里达州、阿拉巴马州和佐治亚州的家庭正面临停电的问题。"
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "link": "",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "published": "",
+      "title_zh": "俄罗斯滑翔炸弹袭击扎波罗热 造成至少15人死亡",
+      "summary_zh": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+    },
+    {
+      "title": "Public executions in the US stopped nearly a century ago -  why are they resuming now?",
+      "link": "",
+      "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "published": "",
+      "title_zh": "美国的公开处决在近一个世纪前就停止了——为什么现在又恢复了？",
+      "summary_zh": "五角大楼表示，胡德堡枪手尼达尔·哈桑的处决将进行现场直播，但专家表示，官员们对这个国家的解读是错误的。"
+    },
+    {
+      "title": "Who is Nidal Hasan? What to know about US plans to livestream an execution",
+      "link": "",
+      "summary": "The planned firing-squad execution on 3 December has led to questions about legality and purpose.",
+      "published": "",
+      "title_zh": "尼达尔·哈桑是谁？关于美国计划直播执行死刑的信息",
+      "summary_zh": "12 月 3 日行刑队计划执行的死刑引发了人们对合法性和目的的质疑。"
+    },
+    {
+      "title": "'Everyone hates the police': What France's school protests reveal about a divided nation",
+      "link": "",
+      "summary": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
+      "published": "",
+      "title_zh": "“每个人都讨厌警察”：法国学校抗议活动揭示了一个分裂的国家",
+      "summary_zh": "学生走上街头已成为该国日益两极分化的政治的焦点。"
+    },
+    {
+      "title": "Ban on Orange Order parade was in interests of peace, says Northern Ireland Secretary",
+      "link": "",
+      "summary": "The decision followed a warning from the chief constable that allowing the procession to go ahead could lead to serious injury, disorder and wider unrest across Northern Ireland.",
+      "published": "",
+      "title_zh": "Ban on Orange Order parade was in interests of peace, says Northern Ireland Secretary",
+      "summary_zh": "这一决定是在警察局长警告称允许游行继续进行可能导致北爱尔兰各地严重受伤、混乱和更广泛的骚乱之后作出的。"
+    },
+    {
+      "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
+      "link": "",
+      "summary": "The Nigerian star will become the first African artist to headline the show at an international NFL game.",
+      "published": "",
+      "title_zh": "非洲歌手艾拉·斯塔尔 (Ayra Starr) 在她的 NFL 半场表演中创造历史",
+      "summary_zh": "The Nigerian star will become the first African artist to headline the show at an international NFL game."
+    },
+    {
+      "title": "Supermodel Coco Rocha has 'full circle moment' at Ireland Fashion Week",
+      "link": "",
+      "summary": "The Canadian model was first discovered at an Irish dancing competition as a teenager.",
+      "published": "",
+      "title_zh": "超模可可·罗查 (Coco Rocha) 在爱尔兰时装周上度过“圆满时刻”",
+      "summary_zh": "这位加拿大模特在十几岁时首次在爱尔兰舞蹈比赛中被发掘。"
+    },
+    {
+      "title": "Singapore Grand Prix qualifying after Verstappen wins sprint",
+      "link": "",
+      "summary": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary of qualifying for the Singapore Grand Prix.",
+      "published": "",
+      "title_zh": "维斯塔潘赢得冲刺赛后新加坡大奖赛排位赛",
+      "summary_zh": "关注实时文本更新并收听 BBC 广播电台 5 体育额外节目对新加坡大奖赛资格赛的评论。"
+    },
+    {
+      "title": "All Blacks power past Australia to retain Bledisloe Cup",
+      "link": "",
+      "summary": "New Zealand retain the Bledisloe Cup for a 23rd straight year as they power past Australia to extend their remarkable unbeaten run at Eden Park.",
+      "published": "",
+      "title_zh": "All Blacks power past Australia to retain Bledisloe Cup",
+      "summary_zh": "新西兰队连续 23 年卫冕布莱迪斯洛杯，他们击败澳大利亚队，延续了在伊甸公园球场的不败纪录。"
+    },
+    {
+      "title": "'We lost the life of a brother' - rider protest delays Giro di Lombardia",
+      "link": "",
+      "summary": "Riders at the Giro di Lombardia stage a protest over safety concerns which delays the start of the race for five minutes.",
+      "published": "",
+      "title_zh": "“我们失去了兄弟的生命”——车手抗议导致环伦巴第大区延误",
+      "summary_zh": "环伦巴第大区的车手因安全问题举行抗议，导致比赛推迟五分钟。"
+    },
+    {
+      "title": "First Isaias fatality reported as more than 1 million remain in the dark",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "飓风伊萨亚斯登陆，破坏性大风和大雨席卷墨西哥湾沿岸"
+      "title_zh": "据报道首例伊萨亚斯死亡事件，逾百万人仍蒙在鼓里"
     },
     {
-      "title": "Nearly a dozen crude oil tankers hit with strikes along key shipping route as US, Iran trade sinking ships",
+      "title": "College students warned as possible serial killer prowls popular river trail near campus",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着美国和伊朗贸易沉船，近十几艘原油油轮在主要航线上遭到袭击"
+      "title_zh": "大学生警告称可能有连环杀手在校园附近流行的河道上徘徊"
     },
     {
-      "title": "Trump taps conservative TV commentator to replace Leavitt as White House press secretary",
+      "title": "Fort Hood massacre survivor has a warning for Americans planning to watch execution",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普任命保守派电视评论员接替莱维特担任白宫新闻秘书"
+      "title_zh": "胡德堡大屠杀幸存者向计划观看处决的美国人发出警告"
     },
     {
-      "title": "James Talarico resurfaces after 13 days, but flu excuse leaves Paxton and Trump unconvinced",
+      "title": "Where is Ilhan Omar? Former state trooper demands answers as Somali violence erupts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "詹姆斯·塔拉里科 13 天后重新露面，但流感借口让帕克斯顿和特朗普不相信"
+      "title_zh": "伊尔汗·奥马尔在哪里？索马里暴力事件爆发，前州警要求答案"
     },
     {
-      "title": "WNBA MVP with $260K-private school upbringing caught fabricating hardship narrative",
+      "title": "Sophie Cunningham breaks silence on New York Times column that said team should drop her",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "身价26万美元的WNBA MVP——私立学校成长经历被发现编造艰难故事"
+      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 在《纽约时报》专栏中打破沉默，表示球队应该抛弃她"
     },
     {
-      "title": "Ella Langley cancels show at the last minute after revealing security threat",
+      "title": "Political clash at dog park erupts into wild shootout as feuding owners open fire",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "艾拉·兰利在揭露安全威胁后在最后一刻取消了演出"
+      "title_zh": "狗狗公园的政治冲突爆发为激烈枪战，互不相让的主人开枪"
     },
     {
-      "title": "Hochul flips on Trump school choice program as Democrat governors face rising pressure",
+      "title": "Philadelphia cops ambushed, shot 15 times on a porch during overnight call",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着民主党州长面临越来越大的压力，霍赫尔对特朗普的择校计划提出了质疑"
+      "title_zh": "费城警察在通宵通话期间在门廊遭到伏击并中弹 15 次"
     },
     {
-      "title": "Mike Tyson joins Trump's Syracuse rally and leaves the crowd absolutely roaring",
+      "title": "Protesters rage over ‘bulls---’ AI technology that could wipe out an entire profession",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克·泰森参加特朗普在锡拉丘兹的集会，让人群欢呼雀跃"
+      "title_zh": "抗议者对“公牛”感到愤怒——人工智能技术可能会消灭整个职业"
     },
     {
-      "title": "Video shows illegal migrant with criminal record trying to flee ICE before being shot",
+      "title": "Pre-written slogans, ready-made banners — FOX probe exposes who's behind the protests",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "视频显示有犯罪记录的非法移民在被枪杀之前试图逃离 ICE"
+      "title_zh": "预先写好的口号、现成的横幅——福克斯调查揭露抗议活动的幕后黑手"
     },
     {
-      "title": "President Trump blindsided on South Lawn learning he'd lost 'a big supporter' in Mike Ditka",
+      "title": "Trump says end of US-Iran war is near after claiming major nuclear victory",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普总统在南草坪得知他失去了迈克·迪特卡（Mike Ditka）的“重要支持者”时措手不及"
+      "title_zh": "特朗普声称取得重大核胜利后称美伊战争即将结束"
     },
     {
-      "title": "Bucs coach drops to knee while grimacing in pain in concerning scene during team's win",
+      "title": "Latest twist in Caitlin Clark-Angel Reese rivalry may infuriate fans of Fever star",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在球队获胜期间，海盗队教练在令人担忧的场景中跪倒在地，痛苦地做着鬼脸"
+      "title_zh": "凯特琳·克拉克 (Caitlin Clark) 与安吉尔·里斯 (Angel Reese) 竞争的最新转折可能会激怒狂热明星的粉丝"
     },
     {
-      "title": "Costco shoppers spot beloved holiday treat back on shelves with unexpected price change",
+      "title": "Police find multiple victims dead inside Pennsylvania home: 'Horrific scene'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Costco 购物者发现心爱的节日美食重新上架，但价格却发生了意想不到的变化"
+      "title_zh": "警方发现多名受害者死在宾夕法尼亚州的家中：“可怕的场景”"
     },
     {
-      "title": "One type of sleep linked to lower dementia, Parkinson's risk and 81 other diseases",
+      "title": "DNA from discarded trash cracks 41-year-old murder cold case, authorities say",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一种睡眠类型可降低患痴呆症、帕金森病和其他 81 种疾病的风险"
+      "title_zh": "DNA from discarded trash cracks 41-year-old murder cold case, authorities say"
     },
     {
-      "title": "LAURA INGRAHAM:This can happen when sanctuary cities refuse to cooperate with ICE",
+      "title": "'GUTFELD!':The mob just turned on Mamdani",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "LAURA INGRAHAM：当庇护城市拒绝与 ICE 合作时，就会发生这种情况"
+      "title_zh": "“GUTFELD！”：暴民刚刚转向马姆达尼"
     },
     {
-      "title": "'I may have information': Anthropic AI sends fake homicide tip to police",
+      "title": "Michael Douglas says A-list actress bit him so hard she left teeth marks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“我可能有信息”：人类人工智能向警方发送虚假的凶杀案线索"
+      "title_zh": "迈克尔·道格拉斯说一线女演员咬他太用力以至于留下了牙印"
     },
     {
-      "title": "Trump claims diesel prices will come down in 'record numbers' after striking deal with Putin",
+      "title": "Hurricane Isaias adds to the chaos of Alabama-Georgia showdown, but major stakes await",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普声称与普京达成协议后柴油价格将下降“创纪录的数字”"
+      "title_zh": "飓风伊萨亚斯加剧了阿拉巴马州与佐治亚州对决的混乱，但重大赌注正在等待"
     },
     {
-      "title": "SpaceX spectrum purchase could reshape the mobile phone industry",
+      "title": "He fought for Jihad before becoming the US government's secret counter-terror weapon",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "SpaceX 频谱购买可能重塑手机行业"
+      "title_zh": "在成为美国政府的秘密反恐武器之前，他曾为圣战而战"
     },
     {
-      "title": "Amazon's best weekend deals: 45% off a 65-inch Hisense TV, an $80 Michael Kors bag and more",
+      "title": "Legal experts reveal what Sally Yates could uncover in sweeping Cornell gang rape review",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "亚马逊周末最佳优惠：65 英寸海信电视 45% 折扣、价值 80 美元的 Michael Kors 包包等"
+      "title_zh": "法律专家揭示了莎莉·耶茨在全面的康奈尔轮奸审查中可能发现的内容"
     },
     {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "title": "You’d never guess the crazy things cash welfare paid for. Nebraska is shutting that down",
       "link": "",
-      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "published": "",
-      "title_zh": "分析：特朗普令人震惊的俄罗斯协议凸显了遏制燃油价格的压力越来越大",
-      "summary_zh": "英国广播公司驻北美记者写道，美国总统希望在下个月的中期选举之前减轻党派的痛苦。"
-    },
-    {
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "link": "",
-      "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-      "published": "",
-      "title_zh": "阿联酋称，迪拜航空袭击者开始在澳大利亚“走向极端主义和恐怖主义”",
-      "summary_zh": "阿拉伯联合酋长国总检察长还声称副驾驶试图将飞机撞向特拉维夫机场。"
-    },
-    {
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "link": "",
-      "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-      "published": "",
-      "title_zh": "美国乡村音乐明星埃拉·兰利因“安全威胁”取消演出",
-      "summary_zh": "警方表示，他们检查了俄克拉荷马州塔尔萨的音乐会场地，但“没有发现任何威胁”。"
-    },
-    {
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-      "link": "",
-      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
-      "published": "",
-      "title_zh": "危及生命的飓风伊萨亚斯在佛罗里达州登陆",
-      "summary_zh": "风暴直接瞄准佛罗里达州，预计将影响阿拉巴马州、佐治亚州和路易斯安那州。"
-    },
-    {
-      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "link": "",
-      "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
-      "published": "",
-      "title_zh": "“国家的污点”：特朗普批评挪威诺贝尔和平奖",
-      "summary_zh": "美国总统在集会上表示，他“从未听说过”获胜者、前国际刑事法院法官纳维·皮莱。"
-    },
-    {
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "link": "",
-      "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
-      "published": "",
-      "title_zh": "北溪审判：德国警方如何追踪证据 - 前往乌克兰",
-      "summary_zh": "四年后，一名乌克兰男子将在汉堡接受审判，罪名是破坏北溪管道。"
-    },
-    {
-      "title": "Queen reflects on reading 'forbidden' Lady Chatterley's Lover under the pillow",
-      "link": "",
-      "summary": "In BBC documentary The Book That Changed My Life, the Queen speaks about memorable moments in her own reading.",
-      "published": "",
-      "title_zh": "女王反思在枕头下阅读“禁止”的查泰莱夫人的情人",
-      "summary_zh": "在 BBC 纪录片《改变我生活的书》中，女王讲述了她自己读书时难忘的时刻。"
-    },
-    {
-      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-      "link": "",
-      "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
-      "published": "",
-      "title_zh": "“每个人都讨厌警察”——法国学校抗议活动揭示了一个分裂的国家",
-      "summary_zh": "法国学生走上街头已成为该国日益两极分化的政治的焦点。"
-    },
-    {
-      "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
-      "link": "",
-      "summary": "A Kyiv resident told the BBC she has moved away from \"everything that can be a Russian target\" as Ukraine braces for another cold winter under intense attacks.",
-      "published": "",
-      "title_zh": "观看：冬季前逃离基辅前往乡村",
-      "summary_zh": "一名基辅居民告诉英国广播公司，她已经远离“一切可能成为俄罗斯目标的地方”，因为乌克兰正在遭受猛烈袭击，准备迎接另一个寒冷的冬天。"
-    },
-    {
-      "title": "What happens when you grow up not knowing your family medical history?",
-      "link": "",
-      "summary": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health.",
-      "published": "",
-      "title_zh": "当你长大后不知道你的家族病史时会发生什么？",
-      "summary_zh": "被收养或接受护理的人有时很难获取对其自身健康至关重要的家族病史。"
-    },
-    {
-      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-      "link": "",
-      "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
-      "published": "",
-      "title_zh": "埃博拉患者穿越三个国家却未被发现仍存在疑问",
-      "summary_zh": "新的细节揭示了这位 40 岁的商人如何在重病期间飞行并跨越地区边界。"
-    },
-    {
-      "title": "Ashe was too scared to cancel her wedding - the story became a hit song",
-      "link": "",
-      "summary": "US singer-songwriter Ashe reveals the story behind her international smash hit, Stop The Wedding.",
-      "published": "",
-      "title_zh": "艾什太害怕了，不敢取消婚礼——这个故事成了一首热门歌曲",
-      "summary_zh": "美国创作型歌手阿什讲述了她的国际热门歌曲《Stop The Wedding》背后的故事。"
-    },
-    {
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "link": "",
-      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "published": "",
-      "title_zh": "Anthropic 禁止用户对其人工智能系统“残酷”",
-      "summary_zh": "该公司表示，用户不能再对这项技术进行“持续且不必要的”滥用行为。"
-    },
-    {
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "link": "",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "published": "",
-      "title_zh": "三名沙特公民在胡塞武装袭击利雅得机场时丧生",
-      "summary_zh": "此次导弹袭击发生之际，伊朗支持的组织与支持也门政府的沙特阿拉伯之间的战斗正在升级。"
-    },
-    {
-      "title": "Time to rise? Ranking European football's sleeping giants",
-      "link": "",
-      "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
-      "published": "",
-      "title_zh": "是时候起床了吗？欧洲足坛沉睡巨人排名",
-      "summary_zh": "从桑普多利亚到圣艾蒂安和皇家萨拉戈萨，谁是欧洲足坛的沉睡巨人？"
-    },
-    {
-      "title": "Hurricane Isaias makes landfall near Destin, Florida",
-      "link": "https://www.nbcnews.com/now/video/hurricane-isaias-makes-landfall-in-florida-271377477807",
       "summary": "",
       "published": "",
-      "title_zh": "飓风伊萨亚斯在佛罗里达州德斯坦附近登陆"
-    },
-    {
-      "title": "‘Take this serious’: Florida Lt. Gov Jay Collins warns residents",
-      "link": "https://www.nbcnews.com/video/florida-lt-gov-jay-collins-warns-residents-to-brace-for-hurricane-isaias-271377989572",
-      "summary": "",
-      "published": "",
-      "title_zh": "“认真对待”：佛罗里达州副州长杰·柯林斯警告居民"
-    },
-    {
-      "title": "‘Hopefully we have a home to go back to’: Florida residents evacuate",
-      "link": "https://www.nbcnews.com/video/florida-resident-evacuates-ahead-of-hurricane-isaias-landfall-271376965611",
-      "summary": "",
-      "published": "",
-      "title_zh": "“希望我们有一个家可以回去”：佛罗里达州居民撤离"
-    },
-    {
-      "title": "Alabama makes final preparations for storm",
-      "link": "https://www.nbcnews.com/video/alabama-makes-final-preparations-for-hurricane-isaias-before-landfall-271376453860",
-      "summary": "",
-      "published": "",
-      "title_zh": "阿拉巴马州为风暴做最后准备"
-    },
-    {
-      "title": "Couple postpones wedding because of Hurricane Isaias",
-      "link": "https://www.nbcnews.com/video/couple-postpones-wedding-because-of-hurricane-isaias-271376453856",
-      "summary": "",
-      "published": "",
-      "title_zh": "夫妇因伊萨亚斯飓风推迟婚礼"
-    },
-    {
-      "title": "Hurricane Isaias pounding Gulf Coast",
-      "link": "https://www.nbcnews.com/nightly-news/video/hurricane-isaias-pounding-gulf-coast-271375941723",
-      "summary": "",
-      "published": "",
-      "title_zh": "飓风伊萨亚斯袭击墨西哥湾沿岸"
-    },
-    {
-      "title": "Special Report: Hurricane Isaias downgraded to category two",
-      "link": "https://www.nbcnews.com/video/special-report-hurricane-isaias-downgraded-to-category-two-as-it-s-expected-to-make-landfall-271371845915",
-      "summary": "",
-      "published": "",
-      "title_zh": "特别报告：飓风伊萨亚斯降级至二级"
-    },
-    {
-      "title": "Conditions intensify in Pensacola as Hurricane Isaias begins to move onshore",
-      "link": "https://www.nbcnews.com/video/conditions-intensify-in-pensacola-as-hurricane-isaias-begins-to-move-onshore-271371845900",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着飓风伊萨亚斯开始向陆地移动，彭萨科拉的情况加剧"
-    },
-    {
-      "title": "Heavy rain batters Florida",
-      "link": "https://www.nbcnews.com/video/heavy-rain-batters-florida-as-hurricane-isaias-approaches-landfall-271369285930",
-      "summary": "",
-      "published": "",
-      "title_zh": "佛罗里达州遭遇大雨"
-    },
-    {
-      "title": "James Talarico back on the trail after absence with flu drew scrutiny",
-      "link": "https://www.nbcnews.com/politics/2026-election/james-talarico-back-campaign-trail-absence-flu-rcna602599",
-      "summary": "",
-      "published": "",
-      "title_zh": "詹姆斯·塔拉里科（James Talarico）因流感缺席后重返赛场，受到密切关注"
-    },
-    {
-      "title": "AIPAC’s super PAC starts spending again in the Michigan Senate race",
-      "link": "https://www.nbcnews.com/politics/2026-election/aipac-super-pac-starts-spending-michigan-senate-race-rcna602597",
-      "summary": "",
-      "published": "",
-      "title_zh": "AIPAC 的超级 PAC 再次开始在密歇根州参议院竞选中支出"
-    },
-    {
-      "title": "Police found her roommate dismembered. Then they connected her to another years-old mystery.",
-      "link": "https://www.nbcnews.com/news/us-news/oklahoma-roommate-death-kore-bommeli-talina-galloway-rcna602143",
-      "summary": "",
-      "published": "",
-      "title_zh": "警方发现她的室友被肢解。然后他们将她与另一个多年之谜联系起来。"
+      "title_zh": "你绝对想象不到现金福利所支付的疯狂费用。内布拉斯加州正在关闭它"
     }
   ]
 }
