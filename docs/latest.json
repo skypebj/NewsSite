@@ -1,6 +1,6 @@
 {
   "date": "20261010",
-  "total": 38,
+  "total": 20,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,283 +37,149 @@
   },
   "entries": [
     {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "link": "",
-      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "title": "Riyadh airport attack kills 12, including an American, and injures hundreds, Saudi officials say",
+      "link": "https://www.nbcnews.com/world/middle-east/riyadh-airport-attacked-rcna602662",
+      "summary": "",
       "published": "",
-      "title_zh": "美国杀人凶手克里斯塔·派克在处决失败10天后出院",
-      "summary_zh": "派克的律师表示，她对上个月两次注射死刑后幸存下来的医疗团队表示感谢。"
+      "title_zh": "沙特官员称，利雅得机场袭击造成 12 人死亡，其中包括一名美国人，数百人受伤"
     },
     {
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "link": "",
-      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "published": "",
-      "title_zh": "探险队希望在偏远岛屿上找到飞行员阿米莉亚·埃尔哈特的飞机",
-      "summary_zh": "团队前往疑似坠机地点的途中，最终目的是解开她 1937 年失踪的谜团。"
-    },
-    {
-      "title": "Eight killed in mass shooting at Pennsylvania home",
-      "link": "",
-      "summary": "Two children are reported to be among the victims in the city of Eerie.",
-      "published": "",
-      "title_zh": "宾夕法尼亚州一处住宅发生大规模枪击事件，八人死亡",
-      "summary_zh": "据报道，伊利市的受害者中有两名儿童。"
-    },
-    {
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "link": "",
-      "summary": "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone.",
-      "published": "",
-      "title_zh": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "summary_zh": "伊萨亚斯于周五晚些时候在佛罗里达州登陆，随后被降级为后热带气旋。"
-    },
-    {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "link": "",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "published": "",
-      "title_zh": "Several injured in attack on airport in Saudi capital Riyadh",
-      "summary_zh": "美国大使馆表示“已获悉哈立德国王国际机场遭到袭击”，几天前也门胡塞武装称袭击了该机场。"
-    },
-    {
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "link": "",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "published": "",
-      "title_zh": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "summary_zh": "纳维·皮莱表示，特朗普政府对国际法庭的全面处罚是“闻所未闻的”。"
-    },
-    {
-      "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
-      "link": "",
-      "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
-      "published": "",
-      "title_zh": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
-      "summary_zh": "周六，Z 世代领导的蟑螂党 (Cockroach Janta Party) 举行抗议活动，要求进行选举改革，在此之前，德里部署了数千名安全人员。"
-    },
-    {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "link": "",
-      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "published": "",
-      "title_zh": "人权组织称，苏丹准军事部队在埃塞俄比亚边境附近发动无人机袭击，造成 41 人死亡",
-      "summary_zh": "据称，这次罢工袭击了一群流离失所者，造成八名儿童死亡。"
-    },
-    {
-      "title": "King Charles warns malicious online actors are evolving tactics",
-      "link": "",
-      "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-      "published": "",
-      "title_zh": "查尔斯国王警告恶意网络行为者正在不断演变策略",
-      "summary_zh": "国王在纪念国家网络安全中心成立十周年的信中谈到了“对我们国际秩序的威胁”。"
-    },
-    {
-      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-      "link": "",
-      "summary": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
-      "published": "",
-      "title_zh": "萨拉·谢里夫的祖父授予她在巴基斯坦的兄弟姐妹的监护权",
-      "summary_zh": "自 2023 年 10 岁的萨拉被谋杀以来，所有五个孩子都和他一起生活在巴基斯坦。"
-    },
-    {
-      "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues",
-      "link": "",
-      "summary": "The performances of Jordan Henderson and Moises Caicedo underpinned Chelsea's 5-1 victory at home to Bournemouth on Saturday afternoon.",
-      "published": "",
-      "title_zh": "切尔西艺人背后的基石：中场二人组是蓝军的关键",
-      "summary_zh": "周六下午，乔丹·亨德森和莫伊塞斯·凯塞多的表现帮助切尔西主场 5-1 战胜伯恩茅斯。"
-    },
-    {
-      "title": "Ronaldo provisionally suspended by Portuguese FA",
-      "link": "",
-      "summary": "Cristiano Ronaldo has been provisionally suspended by the Portuguese Football Federation (FPF) after leaving his country's international camp last month.",
-      "published": "",
-      "title_zh": "C罗被葡萄牙足协临时禁赛",
-      "summary_zh": "克里斯蒂亚诺·罗纳尔多上个月离开葡萄牙国家队训练营后，被葡萄牙足协（FPF）暂时禁赛。"
-    },
-    {
-      "title": "Gordon opens goal account as Barca equal best start",
-      "link": "",
-      "summary": "Anthony Gordon scores his first competitive goal for Barcelona as they equal their best start to a La Liga season with a comfortable victory over Getafe.",
-      "published": "",
-      "title_zh": "戈登打开进球账户，巴萨追平最佳开局",
-      "summary_zh": "安东尼·戈登打进了他在巴塞罗那的第一个正式比赛进球，他们轻松战胜了赫塔菲，追平了西甲赛季的最佳开局。"
-    },
-    {
-      "title": "Four people now confirmed dead across southern states in the wake of Hurricane Isaias' destruction",
+      "title": "Florida wildlife face grave risk in aftermath of Isaias as officials keep eye out for stranded manatees",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "飓风伊萨亚斯造成破坏后，南部各州现已确认有四人死亡"
+      "title_zh": "伊萨亚斯事件后，佛罗里达州野生动物面临严重风险，官员密切关注搁浅的海牛"
     },
     {
-      "title": "WATCH LIVE:Philadelphia DA updates after police officer killed, partner shot 12 times",
+      "title": "Dem's 'cheating' joke suddenly backfires as Michigan football fans erupt at Senate nominee",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：费城地方检察官在警察被杀、搭档中枪 12 次后更新情况"
+      "title_zh": "密歇根州球迷对参议院提名人大发雷霆，民主党的“作弊”笑话突然适得其反"
     },
     {
-      "title": "ABC News' Trump sons 'gotcha' backfires as network quietly guts bombshell report",
+      "title": "Warren offered a 'For Dummies' tutorial after sending hundreds of letters to Bessent, Treasury",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国广播公司新闻网悄悄删除爆炸性报道，特朗普儿子的“陷阱”适得其反"
+      "title_zh": "沃伦在向财政部贝森特发送数百封信后提供了“傻瓜式教程”"
     },
     {
-      "title": "Police confirm 9 dead in Pennsylvania shooting, describe scene as 'horrific'",
+      "title": "Five marriage mistakes couples make without realizing it — and how to avoid them",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警方确认宾夕法尼亚州枪击事件已造成 9 人死亡，称现场“可怕”"
+      "title_zh": "Five marriage mistakes couples make without realizing it — and how to avoid them"
     },
     {
-      "title": "Trump says Ukraine should 'get a new president' as Zelenskyy responds to major diesel deal",
+      "title": "Trump suggests new name for Atlantic or Pacific Ocean at Tennessee rally",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普称乌克兰应该“找到一位新总统”，泽连斯基回应重大柴油交易"
+      "title_zh": "特朗普在田纳西州集会上建议大西洋或太平洋的新名称"
     },
     {
-      "title": "Bill Maher responds after Mamdani's criticism of Israel in Oct. 7 anniversary message",
+      "title": "Once-popular ice cream flavors from the 1970s are fading into history",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "比尔·马赫 (Bill Maher) 在马姆达尼 (Mamdani) 在 10 月 7 日周年纪念致辞中批评以色列后做出回应"
+      "title_zh": "Once-popular ice cream flavors from the 1970s are fading into history"
     },
     {
-      "title": "Christa Pike returns to prison after attorneys feared she was brain dead",
+      "title": "Trump puts Zelenskyy on notice, calls for a new Ukraine president amid refinery attacks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克里斯塔·派克在律师担心她脑死亡后返回监狱"
+      "title_zh": "Trump puts Zelenskyy on notice, calls for a new Ukraine president amid refinery attacks"
     },
     {
-      "title": "Trump unloads on Nobel committee after controversial UN jurist wins Peace Prize",
+      "title": "College receiver tips ball to himself and scampers in for improbable score",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "备受争议的联合国法学家获得和平奖后，特朗普在诺贝尔委员会上卸任"
+      "title_zh": "大学接球手将球传给自己，然后跑进得分不可思议的得分"
     },
     {
-      "title": "Pat Sajak makes rare public appearance after stepping away from 'Wheel of Fortune'",
+      "title": "New warning signs show what America's adversaries could do with an upper hand in AI race",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "帕特·沙贾克 (Pat Sajak) 退出《财富之轮》后罕见公开露面"
+      "title_zh": "新的警告信号表明美国的对手可以在人工智能竞赛中占据上风"
     },
     {
-      "title": "NFL team releases Pro Bowl quarterback after just one disastrous pass in loss",
+      "title": "At least a dozen people killed, many more injured after airport attack in Saudi Arabia",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 球队在一次灾难性的传球失败后解雇了职业碗四分卫"
+      "title_zh": "沙特阿拉伯机场袭击造成至少十几人死亡，多人受伤"
     },
     {
-      "title": "George Clooney shares heartbreaking update on Cindy Crawford after son's death",
+      "title": "'Happy Days' star admits how little he earned per episode on iconic sitcom",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔治·克鲁尼在儿子去世后分享了辛迪·克劳馥令人心碎的最新消息"
+      "title_zh": "《快乐时光》明星承认他在标志性情景喜剧中每集的收入是多么少"
     },
     {
-      "title": "Doctor warns sexually transmitted gut infection is becoming harder to treat",
+      "title": "DNA helps nab suspect in Newport cold case murder",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "医生警告性传播肠道感染越来越难治疗"
+      "title_zh": "DNA 帮助抓获纽波特悬案谋杀案嫌疑人"
     },
     {
-      "title": "Silicon Valley's new bet could upend the traditional path to tech jobs",
+      "title": "Gas stations and automakers could get crushed by sprawling tort lawsuit wave",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "硅谷的新赌注可能会颠覆科技工作的传统路径"
+      "title_zh": "加油站和汽车制造商可能会因大规模的侵权诉讼浪潮而受到打击"
     },
     {
-      "title": "Rock star rushed to hospital after medical scare brings concert to a sudden halt",
+      "title": "Philadelphia cop killed, partner shot 12 times in deadly ambush; suspect found in tree",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "医疗恐慌导致音乐会突然停止后，摇滚明星被送往医院"
+      "title_zh": "费城警察遭伏击身亡，搭档中枪12次；树上发现嫌疑人"
     },
     {
-      "title": "Fans, coaches stunned as high school football ref grabs player in violent fashion",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "link": "",
-      "summary": "",
+      "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
       "published": "",
-      "title_zh": "高中足球裁判以暴力方式抓住球员，球迷和教练感到震惊"
+      "title_zh": "沙特首都利雅得机场遇袭 12人死亡",
+      "summary_zh": "另有 309 人在机场袭击中受伤，几天前也门胡塞武装称他们袭击了机场。"
     },
     {
-      "title": "Country star says Jelly Roll's backstage scene is a whole different kind of wild",
+      "title": "Two children and pregnant woman among 8 shot dead at Pennsylvania house",
       "link": "",
-      "summary": "",
+      "summary": "All but one of those who died, including the gunman, were related, police say. A motive for the shooting is not yet known.",
       "published": "",
-      "title_zh": "乡村明星说 Jelly Roll 的后台场景是一种完全不同的狂野"
+      "title_zh": "宾夕法尼亚州一所房屋内八人被枪杀，其中包括两名儿童和一名孕妇",
+      "summary_zh": "警方称，除了一名死者外，包括枪手在内的所有死者都是有亲属关系的。目前尚不清楚枪击事件的动机。"
     },
     {
-      "title": "College football fans float wild $250K plan to get AD fired, and it could happen today",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
       "link": "",
-      "summary": "",
+      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
       "published": "",
-      "title_zh": "大学橄榄球迷们提出了疯狂的25万美元计划以解雇AD，这可能会在今天发生"
+      "title_zh": "年轻人生活在害怕被从街上抓走并卖给缅甸军队的恐惧之中",
+      "summary_zh": "绝望的军政府正在与少数民族民兵和平民抵抗进行消耗战。"
     },
     {
-      "title": "9 dead in Pennsylvania shooting, Erie officials say",
-      "link": "https://www.nbcnews.com/news/us-news/erie-pennsylvania-mass-shooting-rcna602669",
-      "summary": "",
+      "title": "Ceremony marks return home of kiwi feather cloak",
+      "link": "",
+      "summary": "The kahu kiwi, given to a British doctor in 1900, was \"crying to come home\", Māori campaigners say.",
       "published": "",
-      "title_zh": "伊利官员称宾夕法尼亚州枪击事件已造成9人死亡"
+      "title_zh": "奇异鸟羽毛披风回归家园仪式",
+      "summary_zh": "毛利活动人士称，1900 年送给一位英国医生的卡胡奇异果“哭着要回家”。"
     },
     {
-      "title": "Trump says he’ll decide whether to livestream the execution of Fort Hood shooter Nidal Hasan",
-      "link": "https://www.nbcnews.com/politics/donald-trump/trump-execution-fort-hood-livestream-rcna602672",
-      "summary": "",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "link": "",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
       "published": "",
-      "title_zh": "特朗普表示，他将决定是否直播胡德堡枪手尼达尔·哈桑的处决"
-    },
-    {
-      "title": "Christa Pike discharged from hospital after failed execution, attorney says",
-      "link": "https://www.nbcnews.com/news/us-news/christa-pike-discharged-from-hospital-rcna602665",
-      "summary": "",
-      "published": "",
-      "title_zh": "律师称，克里斯塔·派克在执行失败后已出院"
-    },
-    {
-      "title": "Pope Leo declares death penalty ‘inadmissible’",
-      "link": "https://www.nbcnews.com/world/the-vatican/pope-leo-death-penalty-inadmissible-native-us-plans-livestream-rcna602657",
-      "summary": "",
-      "published": "",
-      "title_zh": "教皇利奥宣布死刑“不可接受”"
-    },
-    {
-      "title": "“Here’s the Scoop: Election Edition”: Can you trust the vote?",
-      "link": "https://www.nbcnews.com/video/can-you-trust-the-vote-271298629776",
-      "summary": "",
-      "published": "",
-      "title_zh": "“这是独家新闻：选举版”：你能相信投票吗？"
-    },
-    {
-      "title": "Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced",
-      "link": "https://www.nbcnews.com/world/ukraine/gifts-putin-ukraine-rattled-trump-eases-sanctions-russian-oil-rcna602639",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普放松对俄罗斯石油制裁，乌克兰陷入不安，称泽伦斯基应该被替换"
-    },
-    {
-      "title": "The perplexing case of a CIA officer who duped his fellow spies",
-      "link": "https://www.nbcnews.com/politics/national-security/perplexing-case-cia-officer-duped-fellow-spies-rcna602375",
-      "summary": "",
-      "published": "",
-      "title_zh": "一名中央情报局官员欺骗他的间谍同伴的令人费解的案件"
-    },
-    {
-      "title": "One year on, Gaza ceasefire exists ‘in name only,’ aid groups say amid near-daily Israeli strikes",
-      "link": "https://www.nbcnews.com/world/middle-east/one-year-gaza-ceasefire-exists-name-only-aid-groups-say-daily-israeli-rcna602440",
-      "summary": "",
-      "published": "",
-      "title_zh": "一年过去了，援助组织在以色列几乎每天发动袭击的情况下表示，加沙停火“名存实亡”"
+      "title_zh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索",
+      "summary_zh": "费城警方表示，该提示被“标记为垃圾邮件”，但批评该科技公司花了两个多月的时间才发现并报告违规行为。"
     }
   ]
 }
