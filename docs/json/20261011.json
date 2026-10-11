@@ -1,0 +1,183 @@
+{
+  "date": "20261011",
+  "total": 19,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "link": "",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "published": "",
+      "title_zh": "泽伦斯基谴责柴油交易后，特朗普表示“乌克兰是时候选出新总统了”",
+      "summary_zh": "乌克兰领导人曾表示，与俄罗斯达成的向美国供应柴油的协议将有助于莫斯科为战争提供资金。"
+    },
+    {
+      "title": "Bid to overturn ruling which stops British police being sued for failings",
+      "link": "",
+      "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
+      "published": "",
+      "title_zh": "试图推翻阻止英国警察因失误而被起诉的裁决",
+      "summary_zh": "当警察捏造证据或不诚实或疏忽时，议员们正在寻求阻止豁免权的申请。"
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "",
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "published": "",
+      "title_zh": "美国司法部调查电视网络对特朗普泳池的报道",
+      "summary_zh": "白宫封锁了 CNN、MS Now 和 Politico 的访问，导致他们限制了联合报道。"
+    },
+    {
+      "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+      "link": "",
+      "summary": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
+      "published": "",
+      "title_zh": "人工智能正在为人类创作的艺术创造“人类溢价”。但它能坚持下去吗？",
+      "summary_zh": "随着人工智能内容的激增，许多人对明显由人类创作的艺术给予了额外的价值。但罗斯·阿特金斯问道，这种情况能持续吗？"
+    },
+    {
+      "title": "Public executions in the US stopped nearly a century ago, so why are they resuming now?",
+      "link": "",
+      "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "published": "",
+      "title_zh": "美国的公开处决近一个世纪前就停止了，为什么现在又恢复了？",
+      "summary_zh": "五角大楼表示，胡德堡枪手尼达尔·哈桑的处决将进行现场直播，但专家表示，官员们对这个国家的解读是错误的。"
+    },
+    {
+      "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+      "link": "",
+      "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
+      "published": "",
+      "title_zh": "三个朋友的学生债务：一个还清了，一个逐渐减少，一个慢慢增加",
+      "summary_zh": "莉兹、夏洛特和利比同时学习，但他们的学生债务现在看起来截然不同。"
+    },
+    {
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "link": "",
+      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "published": "",
+      "title_zh": "波兰学校一周内发生第三起持刀袭击事件 女子造成三人受伤",
+      "summary_zh": "两天前的两起袭击事件中，一名女管理员被杀，另有几人受伤，波兰警方已向学校部署。"
+    },
+    {
+      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
+      "link": "",
+      "summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
+      "published": "",
+      "title_zh": "吉马良斯救援行动后，辛卡皮的受伤加剧了阿森纳的问题",
+      "summary_zh": "英雄事迹和战斗表现已经成为阿森纳本赛季的主题，布鲁诺·吉马良斯再次拯救了球队。"
+    },
+    {
+      "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
+      "link": "",
+      "summary": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
+      "published": "",
+      "title_zh": "维斯塔潘在迈凯伦“没人很高兴”，势头强劲",
+      "summary_zh": "安德鲁·本森写道，马克斯·维斯塔潘的复兴对于基米·安东内利来说可能不是一个严重的问题，但对于迈凯伦来说却是一个严重的问题，他在新加坡度过了一个糟糕的周六。"
+    },
+    {
+      "title": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
+      "link": "",
+      "summary": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+      "published": "",
+      "title_zh": "“这支球队一直在呼唤什么”——Renshaw 190 举起澳大利亚",
+      "summary_zh": "经过 9 年零 280 天，马特·伦肖 (Matt Renshaw) 取得了史诗般的成绩，帮助澳大利亚队战胜南非队，并为自己争取常规席位。"
+    },
+    {
+      "title": "Justice Department investigating major TV networks over suspending pool coverage",
+      "link": "https://www.nbcnews.com/politics/politics-news/justice-department-investigating-major-tv-networks-suspending-pool-cov-rcna602717",
+      "summary": "",
+      "published": "",
+      "title_zh": "司法部调查主要电视网络暂停泳池报道"
+    },
+    {
+      "title": "Bracing for the midterms, Trump says he will be blamed if Republicans lose",
+      "link": "https://www.nbcnews.com/politics/donald-trump/bracing-midterms-trump-says-will-blamed-republicans-lose-rcna602512",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普表示，如果共和党失败，他将受到指责，为中期选举做好准备"
+    },
+    {
+      "title": "Man City players have a huge cloud over them as they chase a title",
+      "link": "https://www.nbcnews.com/sports/soccer/man-city-players-huge-cloud-chase-title-rcna601539",
+      "summary": "",
+      "published": "",
+      "title_zh": "曼城球员在追逐冠军的过程中笼罩着巨大的阴云"
+    },
+    {
+      "title": "Deadly post-tropical Isaias pushes inland, bringing destructive winds and flooding",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "致命的后热带伊萨亚斯向内陆推进，带来破坏性的大风和洪水"
+    },
+    {
+      "title": "Blood tests reveal striking link between two Ole Miss students found dead",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "血液测试显示两名被发现死亡的密西西比大学学生之间存在惊人的联系"
+    },
+    {
+      "title": "'I'll make a decision': Trump weighs livestreaming Fort Hood killer's execution",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我会做出决定”：特朗普权衡直播胡德堡杀手的处决"
+    },
+    {
+      "title": "Former vice president calls Trump's diesel deal with Putin a 'betrayal' to late US senator",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前副总统称特朗普与普京的柴油交易是对已故美国参议员的“背叛”"
+    },
+    {
+      "title": "Chris Hansen explains what people get wrong about spotting predators",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯·汉森解释了人们在发现掠食者方面的错误"
+    },
+    {
+      "title": "Alabama coach erupts at defender after late penalty seals loss to Georgia",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿拉巴马州教练在最后时刻输给佐治亚州后对后卫大发雷霆"
+    }
+  ]
+}
