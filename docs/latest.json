@@ -1,6 +1,6 @@
 {
-  "date": "20261011",
-  "total": 35,
+  "date": "20261012",
+  "total": 41,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,262 +37,304 @@
   },
   "entries": [
     {
-      "title": "Saudi Arabia confirms attack on another major airport as Trump weighs strikes",
+      "title": "Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart",
+      "link": "https://www.nbcnews.com/politics/2026-election/bad-blood-texas-senate-race-tearing-republicans-apart-rcna601727",
+      "summary": "",
+      "published": "",
+      "title_zh": "得克萨斯州参议员竞选中的仇恨蔓延——共和党人四分五裂"
+    },
+    {
+      "title": "Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately",
+      "link": "https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-tv-ads-funded-taxpayers-air-immediately-rcna602879",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦法官下令立即停播由纳税人资助的支持特朗普的电视广告"
+    },
+    {
+      "title": "South Carolina Senate rivals spar over Iran, AI and Trump in debate",
+      "link": "https://www.nbcnews.com/politics/2026-election/south-carolina-senate-rivals-spar-iran-war-ai-trump-fiery-debate-rcna602590",
+      "summary": "",
+      "published": "",
+      "title_zh": "南卡罗来纳州参议院竞争对手就伊朗、人工智能和特朗普展开辩论"
+    },
+    {
+      "title": "The Commanders had seconds left to secure a win — and blew it",
+      "link": "https://www.nbcnews.com/sports/nfl/new-york-giants-washington-commanders-result-nfl-ending-overtime-rcna602854",
+      "summary": "",
+      "published": "",
+      "title_zh": "指挥官们只剩下几秒钟的时间来确保胜利，但他们却搞砸了"
+    },
+    {
+      "title": "The 49ers look like the NFL’s best team after surviving a heavyweight fight",
+      "link": "https://www.nbcnews.com/sports/nfl/san-francisco-49ers-seattle-seahawks-nfl-result-brock-purdy-rcna602882",
+      "summary": "",
+      "published": "",
+      "title_zh": "在一场重量级战斗中幸存下来的 49 人队看起来是 NFL 最好的球队"
+    },
+    {
+      "title": "Pennsylvania shooter who killed 8 was family’s patriarch, father of slain toddler says",
+      "link": "https://www.nbcnews.com/news/us-news/erie-pennsylvania-shooting-grandfather-slain-toddler-rcna602892",
+      "summary": "",
+      "published": "",
+      "title_zh": "宾夕法尼亚州枪击案造成 8 人死亡，被杀幼儿的父亲称他是家族族长"
+    },
+    {
+      "title": "Kelly Clarkson says a Brooklyn store snubbed her. The shop says the item she wanted wasn’t for sale.",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/kelly-clarkson-says-brooklyn-store-snubbed-shop-says-item-wanted-wasnt-rcna602840",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯莉·克拉克森说，布鲁克林的一家商店冷落了她。商店说她想要的商品不出售。"
+    },
+    {
+      "title": "‘I just had the flu’: James Talarico shoots down conservative speculation about absence",
+      "link": "https://www.nbcnews.com/politics/2026-election/-just-flu-james-talarico-shoots-conservative-speculation-absence-trail-rcna602903",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我刚刚得了流感”：詹姆斯·塔拉里科驳斥了保守派关于缺席的猜测"
+    },
+    {
+      "title": "Milwaukee’s bullpen delivers as the Brewers beat the Dodgers 2-1 in NLCS opener",
+      "link": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-los-angeles-dodgers-nlcs-results-mlb-rcna602911",
+      "summary": "",
+      "published": "",
+      "title_zh": "密尔沃基牛棚在 NLCS 揭幕战中以 2-1 击败道奇队"
+    },
+    {
+      "title": "North Korea fires multiple ballistic missiles, the latest in a streak of weapons tests",
+      "link": "https://www.nbcnews.com/world/asia/north-korea-fires-multiple-ballistic-missiles-latest-streak-weapons-te-rcna602901",
+      "summary": "",
+      "published": "",
+      "title_zh": "朝鲜发射多枚弹道导弹，这是一系列武器试验中的最新一次"
+    },
+    {
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "link": "",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "published": "",
+      "title_zh": "特朗普因从俄罗斯进口柴油的计划而面临越来越多的反对",
+      "summary_zh": "共和党和民主党议员都批评了这项在美国中期选举前几周宣布的协议。"
+    },
+    {
+      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "link": "",
+      "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "published": "",
+      "title_zh": "观看：婆罗洲大火后濒临灭绝的猩猩被放回野外",
+      "summary_zh": "这些极度濒临灭绝的猿类在八月和九月的严重野火中被救出，野火摧毁了它们的栖息地。"
+    },
+    {
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "link": "",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "published": "",
+      "title_zh": "人权组织称，数十名淘金者在埃及与苏丹边境的袭击中丧生",
+      "summary_zh": "埃及和苏丹都没有对周六据称袭击手工采矿营地的事件发表评论。"
+    },
+    {
+      "title": "Fresh Nepal flash flood washes away houses and bridges with five missing",
+      "link": "",
+      "summary": "It comes as Nepal reels from a devastating flood in August that killed 1,400 people and left 5,000 others missing.",
+      "published": "",
+      "title_zh": "尼泊尔新一轮山洪冲毁房屋和桥梁，造成五人失踪",
+      "summary_zh": "与此同时，尼泊尔正遭受 8 月份毁灭性洪水的影响，这场洪水造成 1,400 人死亡、5,000 人失踪。"
+    },
+    {
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "link": "",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "published": "",
+      "title_zh": "胡塞武装两天内第二次袭击利雅得机场，造成1人死亡、11人受伤",
+      "summary_zh": "周末，沙特首都遭到伊朗支持的也门组织的多次袭击。"
+    },
+    {
+      "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth",
+      "link": "",
+      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
+      "published": "",
+      "title_zh": "德勤帮助伪造文件以逃税阿布拉莫维奇的财富",
+      "summary_zh": "英国广播公司 (BBC) 发现，回溯的文件还导致这位俄罗斯寡头的游艇和豪宅从账户中消失。"
+    },
+    {
+      "title": "Could Alberta's vote on independence be Canada's Brexit moment?",
+      "link": "",
+      "summary": "WATCH: The BBC's Nadine Yousif meets the separatists who want to quit the country - and the Canadians calling for unity in the face of threats from US President Trump.",
+      "published": "",
+      "title_zh": "艾伯塔省独立公投可能成为加拿大脱欧时刻吗？",
+      "summary_zh": "观看：BBC 的纳丁·优素福 (Nadine Yousif) 会见了想要退出加拿大的分离主义者，以及呼吁加拿大人团结一致应对美国总统特朗普的威胁。"
+    },
+    {
+      "title": "Childhood cancer symptoms can be easily missed - here's what to look out for",
+      "link": "",
+      "summary": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
+      "published": "",
+      "title_zh": "儿童癌症症状很容易被忽视 - 以下是需要注意的事项",
+      "summary_zh": "尽管癌症很少见，但它是英国 15 岁以下儿童因疾病死亡的主要原因。"
+    },
+    {
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "link": "",
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "published": "",
+      "title_zh": "英国广播公司 (BBC) 发现，在前总理全国告别仪式上，哀悼者被肯尼亚警察杀害，并非暴力行为的一部分",
+      "summary_zh": "在分析了拉伊拉·奥廷加纪念馆的 1,500 个视频和图像后，非洲之眼发现遇难者与混战无关。"
+    },
+    {
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "link": "",
+      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "published": "",
+      "title_zh": "观察：特朗普能源停火主张的背后是什么？",
+      "summary_zh": "美国总统在社交媒体帖子中宣布了这一消息，这显然令乌克兰感到惊讶，而俄罗斯尚未发表评论。"
+    },
+    {
+      "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
+      "link": "",
+      "summary": "The Borat star said he was \"beyond delighted\" to be working on the show, The Popinjay Cavalier, with the Pulp Fiction director.",
+      "published": "",
+      "title_zh": "萨莎·拜伦·科恩将出演昆汀·塔伦蒂诺执导的西区戏剧",
+      "summary_zh": "这位《波拉特》的主演表示，他“非常高兴”能与《低俗小说》导演一起拍摄电视剧《波平杰骑士》。"
+    },
+    {
+      "title": "UK wildlife park remains closed after fatal tiger attack",
+      "link": "",
+      "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
+      "published": "",
+      "title_zh": "英国野生动物园因老虎袭击致死事件仍关闭",
+      "summary_zh": "周六，一名男子进入老虎围栏并遭到致命袭击后，约克郡野生动物公园仍然关闭。"
+    },
+    {
+      "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
+      "link": "",
+      "summary": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
+      "published": "",
+      "title_zh": "罗伯特·帕丁森讲述新电影《黄金时段》以及狩猎掠食者如何成为热门电视节目",
+      "summary_zh": "这位演员在他的最新电影中扮演美国电视节目《抓住铁血战士》的现实主持人。"
+    },
+    {
+      "title": "Accused shooter walks free 2 days after allegedly opening fire at high school football game",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普考虑发动袭击之际，沙特阿拉伯确认另一家主要机场遭到袭击"
+      "title_zh": "被指控的枪手在高中橄榄球比赛中开枪两天后获释"
     },
     {
-      "title": "Mayor reverses course after threatening pastor's food pantry with $20K daily fines",
+      "title": "Trump and Rubio reportedly furious as Kimberly Guilfoyle faces possible firing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "市长在威胁牧师的食品储藏室后改变做法，每天罚款 2 万美元"
+      "title_zh": "据报道，特朗普和卢比奥对金伯利·吉尔福伊尔可能面临解雇感到愤怒"
     },
     {
-      "title": "Rescue expert who hunts jihadis warns US, allies are falling behind enemies after FlyDubai scare",
+      "title": "New poll reveals surprising shift in how American teens identify as LGBTQ",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "追捕圣战分子的救援专家警告美国，在迪拜航空恐慌后，盟友正在落后于敌人"
+      "title_zh": "新民意调查显示美国青少年对 LGBTQ 的认知发生了惊人的转变"
     },
     {
-      "title": "Kelly Clarkson says she was snubbed at NYC store: 'You just lost a huge sale'",
+      "title": "LSU's misery deepens as coveted five-star recruit bolts to a conference rival",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯莉·克拉克森 (Kelly Clarkson) 表示，她在纽约商店遭到冷落：“你刚刚失去了一笔大促销”"
+      "title_zh": "随着令人垂涎的五星级新兵跳槽到会议竞争对手，路易斯安那州立大学的痛苦加深了"
     },
     {
-      "title": "Expert warns what's consuming European cities 'can easily happen in the US'",
+      "title": "Anti-Israel activists say the quiet part out loud on what 'Free Palestine' really means",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家警告说，正在消耗欧洲城市的事情“很容易在美国发生”"
+      "title_zh": "反以色列活动人士大声说出“自由巴勒斯坦”的真正含义"
     },
     {
-      "title": "Striking images show Hurricane Isaias' devastating aftermath in Florida communities",
+      "title": "Iran's 350,000 troops emerge as major US Army focus amid Khamenei's defiant claims",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "引人注目的图像显示了飓风伊萨亚斯在佛罗里达州社区造成的毁灭性后果"
+      "title_zh": "在哈梅内伊的挑衅声中，伊朗35万军队成为美国陆军的主要焦点"
     },
     {
-      "title": "Jaguars kicker gets last laugh as he sticks it to Eagles fans in Jacksonville's win",
+      "title": "Parents warned to stop using baby sleep product after alarming FDA discovery",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美洲虎踢球手在杰克逊维尔获胜时将球贴向老鹰球迷，笑到了最后"
+      "title_zh": "FDA 发现令人震惊的事件后，父母警告停止使用婴儿睡眠产品"
     },
     {
-      "title": "'Two foul-mouthed rappers' want to heal America with beer-fueled revivals",
+      "title": "Sydney Sweeney strips down again as she dares critics to say something",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“两个满嘴脏话的说唱歌手”希望通过啤酒复兴来治愈美国"
+      "title_zh": "悉尼·斯威尼 (Sydney Sweeney) 再次脱光衣服，挑战批评者的言论"
     },
     {
-      "title": "Bikinis and bowfishing have Alabama's 'Catfish Girl' going viral again",
+      "title": "Bill Gates warns 'bad people' with AI will unleash cyber chaos within the year",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "比基尼和弓箭钓鱼让阿拉巴马州的“鲶鱼女孩”再次走红"
+      "title_zh": "比尔·盖茨警告人工智能“坏人”将在年内引发网络混乱"
     },
     {
-      "title": "Bill Gates sounds alarm on AI-powered cyberattacks, warns of 'negative surprises'",
+      "title": "Striking images show Isaias' devastating aftermath in Florida communities",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "比尔盖茨对人工智能网络攻击发出警报，警告“负面意外”"
+      "title_zh": "引人注目的图像显示了伊萨亚斯在佛罗里达州社区造成的毁灭性后果"
     },
     {
-      "title": "Ransomware negotiator arrested on federal charges amid FBI hacking probe",
+      "title": "Brewers stun Dodgers, 2-1, in Game 1 as LA's offense flops with runners in scoring position",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "勒索软件谈判代表在联邦调查局黑客调查中因联邦指控被捕"
+      "title_zh": "在第一场比赛中，酿酒人队以 2-1 击败道奇队，洛杉矶队的进攻因跑动得分而失败"
     },
     {
-      "title": "Potential Michigan serial killer may have exposed himself to investigators, expert says",
+      "title": "Kardashian threatens to 'slap the s---' out of Jennifer Lawrence in fiery outburst",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家称，潜在的密歇根连环杀手可能已将自己暴露给调查人员"
+      "title_zh": "卡戴珊威胁要“扇詹妮弗·劳伦斯一巴掌”"
     },
     {
-      "title": "Inside Florida’s ‘shadow’ underground housing scene hiding $300M estates",
+      "title": "Penn State's loss in front of record-setting crowd might set program back",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "佛罗里达州“影子”地下住房场景中隐藏着价值 3 亿美元的房产"
+      "title_zh": "宾夕法尼亚州立大学在创纪录的观众面前失利可能会导致计划倒退"
     },
     {
-      "title": "ICE shooting in NYC sparks questions, poll says they've 'gone too far'",
+      "title": "ABC News in hot water after GOP senator calls for FCC investigation over edited report",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约ICE枪击事件引发质疑，民意调查称他们“太过分了”"
+      "title_zh": "共和党参议员呼吁美国联邦通信委员会对编辑后的报告进行调查，美国广播公司新闻陷入困境"
     },
     {
-      "title": "Jason Kelce made a 335-pound emergency long snapper worth paying attention to",
+      "title": "49ers linebacker ejected after headbutting helmetless rival as fine or suspension looms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Jason Kelce 做出了一条值得关注的 335 磅紧急长鲷鱼"
+      "title_zh": "49人线卫因罚款或悬挂迫近而头撞未戴头盔的对手后被驱逐出境"
     },
     {
-      "title": "DAR axes Texas chapter that fought to keep biological women only in the group",
+      "title": "Surf trip that ended with 3 bodies in a well leads to murder convictions in Mexico",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "DAR 撤销了德克萨斯州分会，该分会致力于只让亲生女性留在该组织中"
+      "title_zh": "墨西哥冲浪之旅最终导致三具尸体落入井中 导致谋杀案定罪"
     },
     {
-      "title": "Common mistake on long flight could put travelers' eyesight at risk: experts",
+      "title": "Aaron Rodgers turns back the clock with another big day for the Steelers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家：长途飞行中的常见错误可能会使旅客的视力面临风险"
+      "title_zh": "亚伦·罗杰斯让时光倒流，钢人队又迎来了一个重要的日子"
     },
     {
-      "title": "Fans pack a rival stadium in mustaches and cigars to salute a legend",
+      "title": "Pregnant mom days away from giving birth reportedly killed in mass shooting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "球迷们在对手体育场留着胡子，抽着雪茄，向传奇人物致敬"
-    },
-    {
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "link": "",
-      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-      "published": "",
-      "title_zh": "沙特首都机场两天内遭遇胡塞武装第二次袭击",
-      "summary_zh": "也门组织表示，周末在利雅得发动袭击，造成 13 人死亡，袭击目标是两个机场和石油设施。"
-    },
-    {
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "link": "",
-      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-      "published": "",
-      "title_zh": "波兰拘留涉嫌策划暗杀图斯克总理的男子",
-      "summary_zh": "警方收到了有关唐纳德·图斯克及其国防部长可能遭受袭击的可靠信息。"
-    },
-    {
-      "title": "UK PM says it is 'clear' Russia interfered with Brexit vote",
-      "link": "",
-      "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
-      "published": "",
-      "title_zh": "英国首相表示“明显”俄罗斯干预了英国脱欧公投",
-      "summary_zh": "他表示，选民没有“充分”了解外国行为者如何试图破坏英国民主。"
-    },
-    {
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "link": "",
-      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "published": "",
-      "title_zh": "联合国称吉布提船倾覆造成139人死亡",
-      "summary_zh": "这艘船当时正从吉布提前往也门，船上载有 305 人，周四晚上在港口城镇奥博克附近倾覆。"
-    },
-    {
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "link": "",
-      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-      "published": "",
-      "title_zh": "毁灭性火灾后红毛猩猩被放回婆罗洲森林",
-      "summary_zh": "夏季，猿类的栖息地受到强烈野火的威胁，救援人员将其转移。"
-    },
-    {
-      "title": "Airport attacks another dangerous moment in already tense conflict",
-      "link": "",
-      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
-      "published": "",
-      "title_zh": "机场袭击是本已紧张的冲突中的又一个危险时刻",
-      "summary_zh": "虽然胡塞武装袭击造成的物质损失可以迅速修复，但沙特的稳定声誉正在遭受重创。"
-    },
-    {
-      "title": "Citroen revives the 2CV for an electric age",
-      "link": "",
-      "summary": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
-      "published": "",
-      "title_zh": "雪铁龙重振 2CV 电动时代",
-      "summary_zh": "随着汽车制造商面临来自中国竞争对手的压力，这家法国公司正在重塑经典车型。"
-    },
-    {
-      "title": "Northern Lights illuminate skies across the UK",
-      "link": "",
-      "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
-      "published": "",
-      "title_zh": "北极光照亮了英国的天空",
-      "summary_zh": "这种自然现象被称为北极光，是太阳活动增加的结果。"
-    },
-    {
-      "title": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
-      "link": "",
-      "summary": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
-      "published": "",
-      "title_zh": "无胜绩和“轻松触球”——安菲尔德的恐惧因素怎么了？",
-      "summary_zh": "利物浦在安菲尔德的挣扎仍在继续，伊劳拉仍在等待他在安菲尔德的首场英超胜利。"
-    },
-    {
-      "title": "Glasner loses on Eagles return - but should Palace goal have been ruled out?",
-      "link": "",
-      "summary": "Oliver Glasner endured a frustrating return to Crystal Palace as his Nottingham Forest side let slip an early lead to lose to the Eagles.",
-      "published": "",
-      "title_zh": "格拉斯纳在老鹰回归时输球——但水晶宫进球是否应该被排除？",
-      "summary_zh": "奥利弗·格拉斯纳（Oliver Glasner）在回到水晶宫时经历了令人沮丧的经历，他的诺丁汉森林队在早期失去了领先优势，输给了老鹰队。"
-    },
-    {
-      "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
-      "link": "",
-      "summary": "How Liverpool and Man City's players rated following their Premier League match.",
-      "published": "",
-      "title_zh": "谁“必须做得更好”？利物浦 VS 曼城 球员评分",
-      "summary_zh": "利物浦和曼城的球员在英超比赛后的评价。"
-    },
-    {
-      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
-      "link": "",
-      "summary": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
-      "published": "",
-      "title_zh": "安东内利接近冠军边缘时汉密尔顿向法拉利道歉",
-      "summary_zh": "刘易斯·汉密尔顿在新加坡大奖赛期间的错误策略决定意味着基米·安东内利可以在奥斯汀的下一场比赛中赢得世界冠军。"
-    },
-    {
-      "title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
-      "link": "",
-      "summary": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
-      "published": "",
-      "title_zh": "轰动一时的史密斯，无情的快速进攻——澳大利亚退伍军人发球提醒",
-      "summary_zh": "当游客们对南非发起进攻时，可怕的节奏四重奏和史蒂夫·史密斯的才华提醒人们澳大利亚的品质。"
-    },
-    {
-      "title": "Trump claims Russia and Ukraine agree to energy ceasefire, but Zelenskyy says this is ‘news for me’",
-      "link": "https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普声称俄罗斯和乌克兰同意能源停火，但泽伦斯基表示这对我来说是“新闻”"
-    },
-    {
-      "title": "How the Philadelphia Eagles pulled off the wildest loss of the NFL season",
-      "link": "https://www.nbcnews.com/sports/nfl/philadelphia-eagles-pulled-wildest-loss-nfl-season-rcna602793",
-      "summary": "",
-      "published": "",
-      "title_zh": "费城老鹰队如何遭遇 NFL 赛季最惨重的失利"
-    },
-    {
-      "title": "Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of ‘slop.’",
-      "link": "https://www.nbcnews.com/tech/tech-news/openai-math-discoveries-are-jewels-verified-mathematicians-are-wary-sl-rcna602148",
-      "summary": "",
-      "published": "",
-      "title_zh": "如果经过验证，一些 OpenAI 数学发现就是“瑰宝”。但数学家对“溢出”持谨慎态度。"
-    },
-    {
-      "title": "Nearly 400,000 in Florida and Alabama still without power as Isaias moves north",
-      "link": "https://www.nbcnews.com/weather/hurricanes/florida-alabama-residents-powerless-isaias-moves-north-rcna602773",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊萨亚斯向北迁移时，佛罗里达州和阿拉巴马州仍有近 40 万人断电"
+      "title_zh": "据报道，距离分娩还有几天的怀孕妈妈在大规模枪击事件中丧生"
     }
   ]
 }
