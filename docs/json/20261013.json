@@ -1,6 +1,6 @@
 {
   "date": "20261013",
-  "total": 36,
+  "total": 42,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,270 +37,315 @@
   },
   "entries": [
     {
-      "title": "The Data Dive: Steve Kornacki on why 2026 isn’t like 2018",
-      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-2026-isnt-2018-rcna603089",
-      "summary": "",
-      "published": "",
-      "title_zh": "数据探索：Steve Kornacki 谈为何 2026 年与 2018 年不同"
-    },
-    {
-      "title": "Trump attacks Rep. Ilhan Omar and Senate hopeful Abdul El-Sayed at Ohio rally",
-      "link": "https://www.nbcnews.com/politics/2026-election/donald-trump-attacks-ilhan-omar-abdul-el-sayed-ohio-rally-youngstown-rcna603107",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普在俄亥俄州集会上攻击众议员伊尔汗·奥马尔和参议院候选人阿卜杜勒·赛义德"
-    },
-    {
-      "title": "Romance scammers are getting harder to catch. The consequences are costly.",
-      "link": "https://www.nbcnews.com/tech/tech-news/romance-scammers-congressional-investigation-match-group-tinder-rcna602411",
-      "summary": "",
-      "published": "",
-      "title_zh": "浪漫骗子越来越难抓获。其后果是代价高昂的。"
-    },
-    {
-      "title": "Why a wave of ‘cockroach’ protesters are defying India’s bid to stamp out their movement",
-      "link": "https://www.nbcnews.com/world/asia/india-cockroach-protests-modi-voter-list-revision-rcna603149",
-      "summary": "",
-      "published": "",
-      "title_zh": "为什么一波“蟑螂”抗议者无视印度压制他们运动的要求"
-    },
-    {
-      "title": "Trump says ‘we’re looking at’ firing Kimberly Guilfoyle, the U.S. ambassador to Greece",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-says-looking-at-firing-kimberly-guilfoyle-us-ambassador-greece-rcna603090",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普表示“我们正在考虑”解雇美国驻希腊大使金伯利·吉尔福伊尔"
-    },
-    {
-      "title": "The Bills and Rams just played the thriller of the NFL season — and perhaps a Super Bowl preview",
-      "link": "https://www.nbcnews.com/sports/nfl/buffalo-bills-los-angeles-rams-nfl-result-josh-allen-matthew-stafford-rcna603144",
-      "summary": "",
-      "published": "",
-      "title_zh": "比尔队和公羊队刚刚上演了 NFL 赛季的惊悚片——也许还有超级碗的预演"
-    },
-    {
-      "title": "Trump's new press secretary takes podium after weeks-long White House shake-up",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
       "link": "",
-      "summary": "",
+      "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
       "published": "",
-      "title_zh": "白宫改组数周后，特朗普新任新闻秘书走上讲台"
+      "title_zh": "因腐败指控，特朗普罢免美国驻希腊大使金伯利·吉尔福伊尔 (Kimberly Guilfoyle)",
+      "summary_zh": "吉尔福伊尔称，有关不当行为的指控是“虚假的”，担任大使是“一生的荣幸”。"
     },
     {
-      "title": "A look inside what's really happening on the ground in state Dems claim they'll sweep",
+      "title": "Saudi coalition strikes fuel depot near Yemen's capital",
       "link": "",
-      "summary": "",
+      "summary": "The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam.",
       "published": "",
-      "title_zh": "看看民主党声称他们将大获全胜的州实际情况"
+      "title_zh": "沙特联军袭击也门首都附近的燃料库",
+      "summary_zh": "胡塞武装警告沙特阿拉伯，他们将针对沙特城市利雅得和达曼进行报复。"
     },
     {
-      "title": "NATO's top military commander vows to destroy 'anything and everything' if Russia attacks alliance",
+      "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
       "link": "",
-      "summary": "",
+      "summary": "The star, who has died at the age of 34, fought for better representation of disabilities on screen.",
       "published": "",
-      "title_zh": "北约最高军事指挥官誓言如果俄罗斯攻击北约将摧毁“一切”"
+      "title_zh": "《绝命毒师》的 RJ Mitte 如何改变我们看待脑瘫的方式",
+      "summary_zh": "这位 34 岁去世的明星为在银幕上更好地展现残疾人而奋斗。"
     },
     {
-      "title": "Selma Blair arraigned and charged after allegedly attacking flight crew",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "link": "",
-      "summary": "",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
       "published": "",
-      "title_zh": "塞尔玛·布莱尔因涉嫌袭击机组人员而被提审和指控"
+      "title_zh": "康奈尔大学因帮派性侵犯指控而禁止所有兄弟会聚会",
+      "summary_zh": "该校因如何处理一位名叫无名氏的女子提出的性侵指控而引发轩然大波。"
     },
     {
-      "title": "Democrat Senate dreams may be crumbling as critical races tighten fast",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "link": "",
-      "summary": "",
+      "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
       "published": "",
-      "title_zh": "随着关键竞选的迅速加剧，民主党参议院的梦想可能会破灭"
+      "title_zh": "前黑帮老大因策划谋杀图帕克·沙库尔而被判 40 年徒刑",
+      "summary_zh": "这一判决标志着图帕克悬案之谜的结束，该悬案吸引了嘻哈迷近 30 年。"
     },
     {
-      "title": "Football fans begging for Bills-Rams Super Bowl matchup after drama-filled game",
+      "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
       "link": "",
-      "summary": "",
+      "summary": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
       "published": "",
-      "title_zh": "在充满戏剧性的比赛结束后，球迷们乞求比尔队与公羊队的超级碗比赛"
+      "title_zh": "梵蒂冈表示，教皇的肺部肿块切除手术“成功结束”",
+      "summary_zh": "教皇利奥表示，这种增长是“受到遏制的”，并且是在“非常早期的阶段”被发现的。"
     },
     {
-      "title": "Abdul El-Sayed's alleged family ties to Muslim Brotherhood surface after denying any link",
+      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
       "link": "",
-      "summary": "",
+      "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
       "published": "",
-      "title_zh": "阿卜杜勒·赛义德涉嫌与穆斯林兄弟会的家庭关系在否认任何联系后浮出水面"
+      "title_zh": "“如果我们不尖叫，他们就不会听我们的”：学生抗议者在巴黎接受 BBC 采访",
+      "summary_zh": "法国的学生抗议者告诉英国广播公司的詹姆斯·沃特豪斯，他们将继续采取行动，直到做出改变。抗议活动现已进入第四周。"
     },
     {
-      "title": "Cory Booker left stunned after GOP opponent urges Trump to take bold action against Iran",
+      "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
       "link": "",
-      "summary": "",
+      "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
       "published": "",
-      "title_zh": "共和党对手敦促特朗普对伊朗采取大胆行动后，科里·布克感到震惊"
+      "title_zh": "凯蒂·扎卡里亚（Katie Zacharia）在她的第一次（非常简短的）白宫简报会上表现如何？",
+      "summary_zh": "BBC 的莎拉·史密斯当时在场，描述了扎卡里亚的表现以及她爆料金伯利·吉尔福伊尔被要求辞职的消息的那一刻。"
     },
     {
-      "title": "Vikings face scorn as their Indigenous Peoples' tribute backfires",
+      "title": "An insurance policy with no guarantee - the complex issue of egg freezing in sport",
       "link": "",
-      "summary": "",
+      "summary": "BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg freezing.",
       "published": "",
-      "title_zh": "维京人因原住民的贡品适得其反而面临蔑视"
+      "title_zh": "没有保障的保险——运动中卵子冷冻的复杂问题",
+      "summary_zh": "BBC 体育频道研究了女运动员冷冻卵子的潜在好处、风险和尚未解答的问题。"
     },
     {
-      "title": "Feds descend on ritzy vacation island to arrest man facing multiple felony charges",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "联邦调查局突袭豪华度假岛逮捕面临多项重罪指控的男子"
-    },
-    {
-      "title": "'Ruthless' breaks down the federal immigration fraud investigation into Ilhan Omar",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "“无情”打破了对伊尔汗·奥马尔的联邦移民欺诈调查"
-    },
-    {
-      "title": "Home affordability could make a comeback sooner than buyers might think",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "住房负担能力可能比买家想象的更早恢复"
-    },
-    {
-      "title": "Kimberly Guilfoyle faces mounting scrutiny as GOP senator signals investigation",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党参议员发出调查信号，金伯利·吉尔福伊尔面临越来越严格的审查"
-    },
-    {
-      "title": "Rams lineman punches Bills linebacker at midfield and now faces suspension",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "公羊线卫在中场殴打比尔线卫，现在面临停赛"
-    },
-    {
-      "title": "TUNE IN:Exclusive interview with Speaker Mike Johnson on 'America's Newsroom'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "收听：“美国新闻编辑室”对议长迈克·约翰逊的独家采访"
-    },
-    {
-      "title": "'Bomb cyclone' brewing off East Coast, set to intensify as it unleashes impacts",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "东海岸正在酝酿“炸弹旋风”，其影响将加剧"
-    },
-    {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "link": "",
-      "summary": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
-      "published": "",
-      "title_zh": "保加利亚在黑海无人机袭击中沉没船只后召见俄罗斯大使",
-      "summary_zh": "当地官员称，一艘商船一夜之间沉没，导致 11 名船员失踪。"
-    },
-    {
-      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "link": "",
-      "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-      "published": "",
-      "title_zh": "印度“蟑螂”领导人进入抗议现场后被拘留",
-      "summary_zh": "抗议者翻过德里市中心的路障，要求选举负责人因修改选民名单而辞职。"
-    },
-    {
-      "title": "Where the US midterm elections will be won and lost",
-      "link": "",
-      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-      "published": "",
-      "title_zh": "美国中期选举输赢在哪里",
-      "summary_zh": "深入探讨选举前的关键民意调查、竞选和问题，这些将决定特朗普作为总统的最后两年。"
-    },
-    {
-      "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
-      "link": "",
-      "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
-      "published": "",
-      "title_zh": "美国紧急呼叫记录显示克里斯塔·派克处决失败后混乱",
-      "summary_zh": "科琳·斯莱默的凶手在两次注射死刑后没有杀死她，最终被送往医院。"
-    },
-    {
-      "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-      "link": "",
-      "summary": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
-      "published": "",
-      "title_zh": "BBC 记者奥拉·格林随也门南部国家安全部队穿越沙漠战场",
-      "summary_zh": "奥拉·格林带着忠于国际公认政府的部队穿越也门，来到一个偏远的沙漠战场，几天前胡塞叛军在那里被驱逐。"
-    },
-    {
-      "title": "I earn £120,000 a year making social media videos go viral",
+      "title": "The Sabrina Carpenter clip which helped a 22-year-old make $159,000 a year",
       "link": "",
       "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
       "published": "",
-      "title_zh": "通过社交媒体视频的疯传，我每年赚取 12 万英镑",
+      "title_zh": "Sabrina Carpenter 的剪辑帮助一名 22 岁的女孩每年赚了 159,000 美元",
       "summary_zh": "社交媒体“剪辑师”制作简短的垂直视频，出现在 Instagram 和 TikTok 等平台上。"
     },
     {
-      "title": "Which war is having the bigger impact on diesel prices - Iran or Ukraine?",
+      "title": "Majority of English football clubs on the edge of financial disaster, report says",
       "link": "",
-      "summary": "Both conflicts have led to less diesel being exported - but the data shows more has been lost from the Middle East.",
+      "summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
       "published": "",
-      "title_zh": "哪场战争对柴油价格影响更大 - 伊朗还是乌克兰？",
-      "summary_zh": "这两场冲突都导致柴油出口减少，但数据显示中东的柴油损失更多。"
+      "title_zh": "报告称大多数英格兰足球俱乐部处于财务灾难的边缘",
+      "summary_zh": "一份新报告称，英国足球的财务状况“面临危险，大多数俱乐部都生活在财务灾难的边缘”。"
     },
     {
-      "title": "Emergency calls from botched Christa Pike execution released to US media",
+      "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
       "link": "",
-      "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
+      "summary": "Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best.",
       "published": "",
-      "title_zh": "美国媒体发布了克里斯塔·派克处决失败的紧急电话",
-      "summary_zh": "美联社获得的一系列电话显示，紧急服务到达派克的时间被延误。"
+      "title_zh": "我因化疗失去了头发 - 现在我的假发被一线明星戴",
+      "summary_zh": "Antonia Okonma Shittu 在一次令人震惊的诊断后创办了假发业务，她现在希望帮助其他女性感受最好的状态。"
     },
     {
-      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+      "title": "Rwanda to host F1's first race in Africa since 1993",
       "link": "",
-      "summary": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
+      "summary": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
       "published": "",
-      "title_zh": "死亡威胁和孤立——伊拉克打击性暴力的代价",
-      "summary_zh": "女性表示，尽管存在社会压力和安全担忧，但她们还是通过分享虐待故事来凸显这一问题。"
+      "title_zh": "卢旺达将举办自 1993 年以来 F1 首次在非洲举行的比赛",
+      "summary_zh": "卢旺达与一级方程式赛车队签署了一项为期 10 年的协议，从“2030 年代初”开始在这个非洲国家举办比赛。"
     },
     {
-      "title": "'Disabled or not, everyone deserves an opportunity' - Breaking Bad actor RJ Mitte",
+      "title": "Football regulator says he would quit over political interference in Man City case",
       "link": "",
-      "summary": "The Breaking Bad actor, who died aged 34, spoke to BBC Newsnight in 2015 about working in the film industry.",
+      "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
       "published": "",
-      "title_zh": "“无论是否残疾，每个人都应该有机会”——《绝命毒师》演员 RJ Mitte",
-      "summary_zh": "这位去世时年仅 34 岁的《绝命毒师》演员于 2015 年接受 BBC 新闻之夜采访，谈论了自己在电影行业的工作。"
+      "title_zh": "足球监管机构称他将因政治干预曼城案而辞职",
+      "summary_zh": "英国足球独立监管机构负责人表示，如果曼城的未来遇到任何政治干预，他将辞职。"
     },
     {
-      "title": "Dating app Bumble in $1bn takeover talks, say reports",
+      "title": "Majority of English football clubs on edge of 'financial disaster', report says",
       "link": "",
-      "summary": "The dating app which recently ditched its \"women-first\" chat rule could be bought by an investment firm.",
+      "summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
       "published": "",
-      "title_zh": "据报道，约会应用 Bumble 正在进行 10 亿美元的收购谈判",
-      "summary_zh": "最近放弃“女性优先”聊天规则的约会应用程序可能会被一家投资公司收购。"
+      "title_zh": "报告称大多数英格兰足球俱乐部处于“财务灾难”边缘",
+      "summary_zh": "一份新报告称，英国足球的财务状况“面临危险，大多数俱乐部都生活在财务灾难的边缘”。"
     },
     {
-      "title": "Qantas plane grounded after bedbug outbreak on 17-hour flight",
+      "title": "BBC FM radio transmissions suspended in Afghanistan",
       "link": "",
-      "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "summary": "BBC programming is still reaching audiences on shortwave, medium wave, via satellite and online.",
       "published": "",
-      "title_zh": "澳航飞机在 17 小时的飞行中爆发臭虫，停飞",
-      "summary_zh": "由于前一趟航班上的乘客抱怨被虫子叮咬，这架从意大利飞往澳大利亚的航班被取消。"
+      "title_zh": "BBC 调频广播在阿富汗暂停",
+      "summary_zh": "BBC 节目仍在通过短波、中波、卫星和网络向观众传播。"
     },
     {
-      "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+      "title": "Women's World Cup play-off: James adds fourth for England v Greece",
       "link": "",
-      "summary": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
+      "summary": "Follow live radio and text commentary, score updates and match stats as England take on Greece in a Women's World Cup play-off second leg.",
       "published": "",
-      "title_zh": "美国女演员塞尔玛·布莱尔在与空乘人员发生事件后被指控袭击",
-      "summary_zh": "这位《律政俏佳人》明星因涉嫌在从洛杉矶飞往纽约的航班上发生口角而受到联邦调查局的调查。"
+      "title_zh": "女足世界杯附加赛：詹姆斯为英格兰对阵希腊取得第四",
+      "summary_zh": "关注直播广播和文字评论、比分更新和比赛统计数据，了解英格兰队在女足世界杯附加赛第二回合中对阵希腊队的情况。"
     },
     {
-      "title": "Two children among four dead after Ireland house fire",
+      "title": "'Squad' members erupt after feds raid Dem's home in sweeping criminal probe",
       "link": "",
-      "summary": "A man, a woman and two children died after a house fire and two other children are critically ill.",
+      "summary": "",
       "published": "",
-      "title_zh": "爱尔兰房屋火灾四人中两名儿童死亡",
-      "summary_zh": "房屋起火后，一名男子、一名妇女和两名儿童死亡，另外两名儿童病危。"
+      "title_zh": "'Squad' members erupt after feds raid Dem's home in sweeping criminal probe"
+    },
+    {
+      "title": "Kimberly Guilfoyle releases statement after WH confirms Trump asked her to step down",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Kimberly Guilfoyle releases statement after WH confirms Trump asked her to step down"
+    },
+    {
+      "title": "Trump gives review of Katie Zacharia’s White House debut as press secretary",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普对凯蒂·扎卡里亚作为新闻秘书首次入主白宫进行了评价"
+    },
+    {
+      "title": "'Breaking Bad' star's cause of death confirmed as Bryan Cranston mourns TV son",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《绝命毒师》明星的死因得到证实，布莱恩·科兰斯顿哀悼电视儿子"
+    },
+    {
+      "title": "Cory Booker stunned by rival's advice to Trump on Iran war during debate",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "科里·布克对竞争对手在辩论中就伊朗战争向特朗普提出的建议感到震惊"
+    },
+    {
+      "title": "Olympic legend opens up about friction with Team USA over her trans athlete stance",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "奥运传奇人物公开谈论她因跨性别运动员的立场而与美国队发生的摩擦"
+    },
+    {
+      "title": "US Embassy warns Americans to 'reconsider travel' after repeated attacks on US ally",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在美国盟友屡遭袭击后，美国大使馆警告美国人“重新考虑旅行”"
+    },
+    {
+      "title": "Letitia James' Cornell rape probe revives scrutiny over past sexual misconduct lawsuit",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "利蒂西亚·詹姆斯的康奈尔强奸调查重启了对过去不当性行为诉讼的审查"
+    },
+    {
+      "title": "Detective who survived stabbing attack makes first public remarks since leaving hospital",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在刺伤袭击中幸存的侦探出院后首次公开发表讲话"
+    },
+    {
+      "title": "Man sentenced for building fake music empire to pocket millions",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "男子因建立虚假音乐帝国牟取数百万美元而被判刑"
+    },
+    {
+      "title": "Swifties flood social media after Shane Gillis SNL routine sparks outrage",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "肖恩·吉利斯 (Shane Gillis) SNL 例行公事引发公愤后，Swifties 充斥社交媒体"
+    },
+    {
+      "title": "Newsom signs corporate slavery bill in a 'big, important victory' for activists",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "纽瑟姆签署企业奴隶制法案，这是活动人士的“重大胜利”"
+    },
+    {
+      "title": "Selma Blair accused of kicking nurse in chest hours after plane arrest",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "塞尔玛·布莱尔被指控在飞机被捕后数小时踢护士胸部"
+    },
+    {
+      "title": "Americans draw the line at livestreaming ‘spectacle’ of Fort Hood shooter's execution",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国人对胡德堡枪手处决现场直播“奇观”划清界限"
+    },
+    {
+      "title": "Kate Gosselin's son says he'd talk to mom on one condition after alleged abuse",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯特·戈塞林的儿子表示，在涉嫌虐待后，他会和妈妈谈谈，但有一个条件"
+    },
+    {
+      "title": "Republican skips gubernatorial debate, as Dem attends and stands next to empty podium",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党跳过州长辩论，民主党出席并站在空荡荡的讲台旁"
+    },
+    {
+      "title": "Kroger to slash 37% of its corporate workforce amid cost-cutting push",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克罗格将削减 37% 的企业员工以削减成本"
+    },
+    {
+      "title": "Jerry Jones shares wild Lambeau memory that has haunted him for decades",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰瑞·琼斯分享了几十年来困扰他的朗博狂野记忆"
+    },
+    {
+      "title": "Kimberly Guilfoyle, U.S. ambassador to Greece, resigns amid misconduct allegations",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-kimberly-guilfoyle-resign-ambassador-greece-rcna603034",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国驻希腊大使金伯利·吉尔福伊尔因不当行为指控而辞职"
+    },
+    {
+      "title": "Cornell bans fraternity parties through the academic year amid investigation into alleged assault",
+      "link": "https://www.nbcnews.com/news/us-news/cornell-bans-fraternity-parties-rest-year-sexual-assault-probe-rcna603220",
+      "summary": "",
+      "published": "",
+      "title_zh": "康奈尔大学在对涉嫌袭击的调查中禁止整个学年的兄弟会聚会"
+    },
+    {
+      "title": "How a James Talarico conspiracy theory raced through the right-wing internet",
+      "link": "https://www.nbcnews.com/tech/internet/james-talarico-spread-online-conspiracy-theory-paxton-crockett-polls-rcna602979",
+      "summary": "",
+      "published": "",
+      "title_zh": "詹姆斯·塔拉里科阴谋论如何在右翼互联网上传播"
+    },
+    {
+      "title": "Duane Davis gets 40 years to life for Tupac Shakur’s murder",
+      "link": "https://www.nbcnews.com/news/us-news/tupac-shakur-murder-duane-davis-sentenced-40-years-trial-rcna603179",
+      "summary": "",
+      "published": "",
+      "title_zh": "杜安·戴维斯 (Duane Davis) 因谋杀图帕克·沙库尔 (Tupac Shakur) 被判 40 年无期徒刑"
+    },
+    {
+      "title": "Diesel futures jump, signaling higher prices to come despite Trump’s Russia deal",
+      "link": "https://www.nbcnews.com/business/energy/diesel-futures-higher-prices-trump-moves-rcna603218",
+      "summary": "",
+      "published": "",
+      "title_zh": "柴油期货上涨，表明尽管特朗普与俄罗斯达成协议，价格仍将上涨"
+    },
+    {
+      "title": "Bryan Cranston mourns ‘Breaking Bad’ co-star RJ Mitte: ‘My sweet son’",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/bryan-cranston-mourns-breaking-bad-co-star-rj-mitte-sweet-son-rcna603187",
+      "summary": "",
+      "published": "",
+      "title_zh": "布莱恩·科兰斯顿哀悼《绝命毒师》联合主演 RJ·米特：“我亲爱的儿子”"
+    },
+    {
+      "title": "Research crew searching for Amelia Earhart plane arrives on remote island in South Pacific",
+      "link": "https://www.nbcnews.com/news/us-news/research-crew-searching-amelia-earhart-plane-arrives-remote-island-sou-rcna603201",
+      "summary": "",
+      "published": "",
+      "title_zh": "搜寻阿米莉亚·埃尔哈特飞机的研究人员抵达南太平洋偏远岛屿"
     }
   ]
 }
