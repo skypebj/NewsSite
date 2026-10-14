@@ -1,0 +1,245 @@
+{
+  "date": "20261014",
+  "total": 28,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028",
+      "link": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300",
+      "summary": "",
+      "published": "",
+      "title_zh": "在乔治亚州参议院激烈的辩论中，乔恩·奥索夫 (Jon Ossoff) 表示他不会竞选 2028 年总统"
+    },
+    {
+      "title": "Track early vote tallies in key battleground states",
+      "link": "https://www.nbcnews.com/politics/2026-elections/early-vote",
+      "summary": "",
+      "published": "",
+      "title_zh": "追踪关键战场州的早期投票统计"
+    },
+    {
+      "title": "Federal judge issues longer-term decision blocking Trump’s White House media ban",
+      "link": "https://www.nbcnews.com/politics/trump-administration/prewrite-not-pub-judge-extends-order-blocking-trump-white-house-media-rcna602264",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦法官发布长期决定，阻止特朗普的白宫媒体禁令"
+    },
+    {
+      "title": "Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence",
+      "link": "https://www.nbcnews.com/news/us-news/texas-da-says-ice-intentionally-hit-immigrant-car-may-withheld-evidenc-rcna603243",
+      "summary": "",
+      "published": "",
+      "title_zh": "德克萨斯州地方检察官称 ICE 故意用汽车撞移民并可能隐瞒证据"
+    },
+    {
+      "title": "Students who thought Cornell would handle Jane Doe’s allegations properly are demanding change",
+      "link": "https://www.nbcnews.com/news/us-news/students-thought-cornell-handle-jane-does-allegations-properly-are-now-rcna602494",
+      "summary": "",
+      "published": "",
+      "title_zh": "认为康奈尔大学会妥善处理无名氏指控的学生要求做出改变"
+    },
+    {
+      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "link": "",
+      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+      "published": "",
+      "title_zh": "谁应该为东南亚的毒雾负责？",
+      "summary_zh": "人们对被指控在印度尼西亚焚烧土地的公司和未能阻止这些行为的当局越来越愤怒。"
+    },
+    {
+      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "link": "",
+      "summary": "One person has died and others were injured after an incident at a US amusement park.",
+      "published": "",
+      "title_zh": "观看：目击者描述男子从六旗过山车上摔下来的“创伤性”时刻",
+      "summary_zh": "美国一游乐园发生事故，造成一人死亡、多人受伤。"
+    },
+    {
+      "title": "Lena Dunham's Girls to return for limited HBO run",
+      "link": "",
+      "summary": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+      "published": "",
+      "title_zh": "莉娜·杜纳姆 (Lena Dunham) 的《女孩们》将回归 HBO 限量放映",
+      "summary_zh": "HBO 称，该剧大结局十年后，“女孩们”再次聚在一起探索“四十岁的里程碑”。"
+    },
+    {
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "link": "",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "published": "",
+      "title_zh": "求职者或雇主可以使用人工智能吗？",
+      "summary_zh": "研究表明，毕业生越来越多地使用人工智能在求职申请中歪曲自己的身份。但有些人表示，他们的同龄人别无选择。"
+    },
+    {
+      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+      "link": "",
+      "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
+      "published": "",
+      "title_zh": "观看：香港民众排队观看梵高画作 60 年来首次亮相",
+      "summary_zh": "Châtaigniers en fleurs（也称为“开花的栗树”）预计在本周末的拍卖会上获得创纪录的出价。"
+    },
+    {
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "link": "",
+      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+      "published": "",
+      "title_zh": "“我要对着电视说话”：付费同伴为中国孤独者带来温暖",
+      "summary_zh": "随着中国的孤独感日益增强，一个提供陪伴和支持的新行业正在兴起。"
+    },
+    {
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "link": "",
+      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "published": "",
+      "title_zh": "我们对从六旗过山车坠落身亡的男子了解多少",
+      "summary_zh": "周一，哈桑·吉哈德·伊本·卡里姆 (Hassan Jihad Ibn Kariem) 因警方称他在佐治亚州六旗游乐园的游乐设施中被弹出而死亡。"
+    },
+    {
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "link": "",
+      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "published": "",
+      "title_zh": "津巴布韦作家否认使用人工智能撰写获奖故事",
+      "summary_zh": "辛巴拉什·昆迪泽扎 (Simbarashe Kundizeza) 是在回应一项在社交媒体上引起轩然大波的指控。"
+    },
+    {
+      "title": "Gordon scores as Barcelona beat Galatasaray",
+      "link": "",
+      "summary": "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to beat Galatasaray in Istanbul.",
+      "published": "",
+      "title_zh": "戈登进球帮助巴塞罗那击败加拉塔萨雷",
+      "summary_zh": "安东尼·戈登为巴塞罗那打进了他在欧冠联赛中的第一个进球，西班牙球队在伊斯坦布尔逆转击败加拉塔萨雷。"
+    },
+    {
+      "title": "Trump signs pardons for Alaska diesel mechanics onstage during rally",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在集会期间在台上签署对阿拉斯加柴油机械师的赦免"
+    },
+    {
+      "title": "Woman allegedly kills husband and toddler at family resort, then makes chilling plea",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据称，一名女子在家庭度假胜地杀死了丈夫和幼儿，然后提出了令人毛骨悚然的请求"
+    },
+    {
+      "title": "Trump signals patience with Iran has run out as he issues dramatic nuclear warning",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普发出强烈核警告，暗示对伊朗的耐心已经耗尽"
+    },
+    {
+      "title": "Mamdani sends clear message to socialist allies calling for NYPD commissioner's firing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马姆达尼向社会主义盟友发出明确信息，呼吁解雇纽约警察局局长"
+    },
+    {
+      "title": "Ilhan Omar relatives hit with subpoenas as birthdate change draws scrutiny",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于更改出生日期受到审查，伊尔汗·奥马尔的亲属收到传票"
+    },
+    {
+      "title": "Popular men's health drug linked to unexpected muscle-boosting effects",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "流行的男性健康药物与意想不到的肌肉增强作用有关"
+    },
+    {
+      "title": "Massive fire destroys 400-year-old food market, leaving historic landmark in ruins",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大火烧毁了拥有 400 年历史的食品市场，历史地标化为废墟"
+    },
+    {
+      "title": "Secret recording device sparks OpenAI security scare as employee arrested",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "秘密录音设备引发 OpenAI 员工被捕引发安全恐慌"
+    },
+    {
+      "title": "'Pawn Stars' creator Rick Harrison exposes the wild world of rare collectibles",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《典当之星》创作者里克·哈里森揭露了稀有收藏品的狂野世界"
+    },
+    {
+      "title": "CVS to pay $315M after DOJ alleges pharmacies filled risky prescriptions",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国司法部指控药房出售有风险的处方药后，CVS 将支付 3.15 亿美元"
+    },
+    {
+      "title": "Kelly Clarkson 'has put us in danger' after calling out Brooklyn store, owner claims",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "店主声称凯莉克拉克森在呼叫布鲁克林商店后“将我们置于危险之中”"
+    },
+    {
+      "title": "Florida killer who wanted death penalty is executed after cellmate murder",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达州凶手因谋杀狱友而被处决"
+    },
+    {
+      "title": "The US military is pushing for massive production of a weapon it has never fired",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国军方正在推动大规模生产从未发射过的武器"
+    },
+    {
+      "title": "Chris Wright orders emergency power measures to prevent blackouts across 13 states",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯·赖特 (Chris Wright) 下令采取紧急电力措施，防止 13 个州停电"
+    }
+  ]
+}
