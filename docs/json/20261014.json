@@ -1,6 +1,6 @@
 {
   "date": "20261014",
-  "total": 28,
+  "total": 42,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,209 +37,315 @@
   },
   "entries": [
     {
-      "title": "In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028",
-      "link": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300",
-      "summary": "",
-      "published": "",
-      "title_zh": "在乔治亚州参议院激烈的辩论中，乔恩·奥索夫 (Jon Ossoff) 表示他不会竞选 2028 年总统"
-    },
-    {
-      "title": "Track early vote tallies in key battleground states",
-      "link": "https://www.nbcnews.com/politics/2026-elections/early-vote",
-      "summary": "",
-      "published": "",
-      "title_zh": "追踪关键战场州的早期投票统计"
-    },
-    {
-      "title": "Federal judge issues longer-term decision blocking Trump’s White House media ban",
-      "link": "https://www.nbcnews.com/politics/trump-administration/prewrite-not-pub-judge-extends-order-blocking-trump-white-house-media-rcna602264",
-      "summary": "",
-      "published": "",
-      "title_zh": "联邦法官发布长期决定，阻止特朗普的白宫媒体禁令"
-    },
-    {
-      "title": "Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence",
-      "link": "https://www.nbcnews.com/news/us-news/texas-da-says-ice-intentionally-hit-immigrant-car-may-withheld-evidenc-rcna603243",
-      "summary": "",
-      "published": "",
-      "title_zh": "德克萨斯州地方检察官称 ICE 故意用汽车撞移民并可能隐瞒证据"
-    },
-    {
-      "title": "Students who thought Cornell would handle Jane Doe’s allegations properly are demanding change",
-      "link": "https://www.nbcnews.com/news/us-news/students-thought-cornell-handle-jane-does-allegations-properly-are-now-rcna602494",
-      "summary": "",
-      "published": "",
-      "title_zh": "认为康奈尔大学会妥善处理无名氏指控的学生要求做出改变"
-    },
-    {
-      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "title": "High school girls abandon cross-country race after athlete switches from boys' team",
       "link": "",
-      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+      "summary": "",
       "published": "",
-      "title_zh": "谁应该为东南亚的毒雾负责？",
-      "summary_zh": "人们对被指控在印度尼西亚焚烧土地的公司和未能阻止这些行为的当局越来越愤怒。"
+      "title_zh": "运动员退出男子队后，高中女生放弃越野比赛"
     },
     {
-      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "title": "Democrats accused of having 'dirty hands' as they cry foul over feds descending on Omar's home",
       "link": "",
-      "summary": "One person has died and others were injured after an incident at a US amusement park.",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：目击者描述男子从六旗过山车上摔下来的“创伤性”时刻",
-      "summary_zh": "美国一游乐园发生事故，造成一人死亡、多人受伤。"
+      "title_zh": "民主党人因联邦政府闯入奥马尔家而大喊大叫，被指责“手脏”"
     },
     {
-      "title": "Lena Dunham's Girls to return for limited HBO run",
+      "title": "At NY debate, Blakeman tells Hochul: 'You like to talk about Donald Trump all the time'",
       "link": "",
-      "summary": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+      "summary": "",
       "published": "",
-      "title_zh": "莉娜·杜纳姆 (Lena Dunham) 的《女孩们》将回归 HBO 限量放映",
-      "summary_zh": "HBO 称，该剧大结局十年后，“女孩们”再次聚在一起探索“四十岁的里程碑”。"
+      "title_zh": "在纽约辩论中，布莱克曼告诉霍赫尔：“你喜欢一直谈论唐纳德·特朗普”"
     },
     {
-      "title": "Is it OK for jobseekers or employers to use AI?",
+      "title": "College town rattled as expert warns predator may be hunting victims with shared trait",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家警告掠食者可能正在猎杀具有共同特征的受害者，大学城陷入混乱"
+    },
+    {
+      "title": "Hollywood legend details the dangerous void left behind when people abandon God",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "好莱坞传奇详细描述了人们抛弃上帝时留下的危险空虚"
+    },
+    {
+      "title": "Sister reels after brother survives cancer and car fire, then dies at Six Flags",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "哥哥在癌症和汽车火灾中幸存下来，然后在六旗乐园去世，姐姐感到震惊"
+    },
+    {
+      "title": "What to know about missed medication risks after Selma Blair's airplane incident",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "塞尔玛·布莱尔飞机事故后关于错过用药风险的知识"
+    },
+    {
+      "title": "Drone strike exposes how easily an enemy can cripple a tech powerhouse",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "无人机袭击暴露了敌人是多么容易削弱科技巨头"
+    },
+    {
+      "title": "Inflation accelerates in September as prices rise faster than projected",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "9月通胀加速，物价上涨速度快于预期"
+    },
+    {
+      "title": "US ally warns of potential danger as terror group ramps up threats after deadly strikes",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国盟友警告潜在危险，恐怖组织在致命袭击后加大威胁力度"
+    },
+    {
+      "title": "Eight girls cut from JV volleyball while a transgender player earned a roster spot",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "八名女孩被排除在合资排球之外，而一名跨性别球员则获得了名单上的一席之地"
+    },
+    {
+      "title": "Schumer warns of Republican advantage that could change the battle for Senate control",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "舒默警告共和党的优势可能会改变参议院控制权之争"
+    },
+    {
+      "title": "GREG GUTFELD:Is she at a loss or on the sauce?",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "GREG GUTFELD：她是不知所措还是感到沮丧？"
+    },
+    {
+      "title": "Kohberger's court hearings abruptly canceled as lawyer warns of lengthy legal battle",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "科伯格的法庭听证会突然取消，律师警告称，这将是一场漫长的法律斗争"
+    },
+    {
+      "title": "Why do Hooters restaurants continue to close? CEO weighs in on company's longevity",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "为什么Hooters餐厅继续关门？首席执行官对公司的寿命发表看法"
+    },
+    {
+      "title": "'I don't like those odds' with three Republicans in governor's race, Trump says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普表示，“我不喜欢三名共和党人竞选州长的可能性”"
+    },
+    {
+      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+      "link": "",
+      "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+      "published": "",
+      "title_zh": "观看：俄罗斯空袭乌克兰期间摧毁的公寓楼",
+      "summary_zh": "BBC 乌克兰记者丹·约翰逊在基辅，该市夜间的袭击造成至少三人死亡。"
+    },
+    {
+      "title": "Island fossil identified as new dinosaur species",
+      "link": "",
+      "summary": "Invictibellatrix would have been up to four metres long with feathers and had 20cm claws.",
+      "published": "",
+      "title_zh": "岛屿化石被鉴定为新恐龙物种",
+      "summary_zh": "Invictibellatrix 体长可达 4 米，长有羽毛，爪子长达 20 厘米。"
+    },
+    {
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "link": "",
+      "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "published": "",
+      "title_zh": "土耳其海岸发现世界上最古老的沉船",
+      "summary_zh": "考古学家称，这艘沉船已有 4,700 年的历史，可以追溯到青铜时代早期。"
+    },
+    {
+      "title": "US inflation rises more than expected ahead of midterm elections",
+      "link": "",
+      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "published": "",
+      "title_zh": "中期选举前美国通胀升幅超预期",
+      "summary_zh": "截至 9 月份的一年中，由于汽车燃油成本上涨，价格上涨幅度增至 3.7%。"
+    },
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "link": "",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "published": "",
+      "title_zh": "德国对被控炸毁北溪管道的乌克兰人进行审判",
+      "summary_zh": "袭击发生四年后，谢尔盖·库兹涅佐夫出庭，被指控密谋摧毁俄罗斯通往德国的天然气管道。"
+    },
+    {
+      "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+      "link": "",
+      "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.",
+      "published": "",
+      "title_zh": "斯里兰卡称沙特阿拉伯推翻了对脸书评论男子的死刑判决",
+      "summary_zh": "阿诺扬·西瓦拉萨（Anojan Sivarasa）的案件在斯里兰卡引起轩然大波，促使外交努力寻求宽大处理。"
+    },
+    {
+      "title": "Russell Brand was 'ruthless' and a 'sexual predator', prosecutors allege as rape trial begins",
+      "link": "",
+      "summary": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+      "published": "",
+      "title_zh": "检察官在强奸案审判开始时称拉塞尔·布兰德“无情”和“性掠夺者”",
+      "summary_zh": "这位演员兼喜剧演员对三项强奸罪、三项性侵犯罪和一项猥亵罪表示不认罪。"
+    },
+    {
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
       "link": "",
       "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
       "published": "",
-      "title_zh": "求职者或雇主可以使用人工智能吗？",
+      "title_zh": "“我申请了 200 份工作”——“喷涂和祈祷”人工智能工作申请如何适得其反",
       "summary_zh": "研究表明，毕业生越来越多地使用人工智能在求职申请中歪曲自己的身份。但有些人表示，他们的同龄人别无选择。"
     },
     {
-      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+      "title": "What we know about the Pope's lung cancer diagnosis",
       "link": "",
-      "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
+      "summary": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
       "published": "",
-      "title_zh": "观看：香港民众排队观看梵高画作 60 年来首次亮相",
-      "summary_zh": "Châtaigniers en fleurs（也称为“开花的栗树”）预计在本周末的拍卖会上获得创纪录的出价。"
+      "title_zh": "我们对教皇肺癌诊断的了解",
+      "summary_zh": "教皇成功接受了部分右肺切除手术，目前正在医院康复。"
     },
     {
-      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "title": "Pope's cancer diagnosis leaves Catholics questioning what comes next",
       "link": "",
-      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+      "summary": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability.",
       "published": "",
-      "title_zh": "“我要对着电视说话”：付费同伴为中国孤独者带来温暖",
-      "summary_zh": "随着中国的孤独感日益增强，一个提供陪伴和支持的新行业正在兴起。"
+      "title_zh": "教皇的癌症诊断让天主教徒质疑接下来会发生什么",
+      "summary_zh": "With few details so far, it is unclear what might need to change for a Pope who has been focused on stability."
     },
     {
-      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "title": "Robot seized by German police after it was allegedly used to grope teenage girl",
       "link": "",
-      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "summary": "Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.",
       "published": "",
-      "title_zh": "我们对从六旗过山车坠落身亡的男子了解多少",
-      "summary_zh": "周一，哈桑·吉哈德·伊本·卡里姆 (Hassan Jihad Ibn Kariem) 因警方称他在佐治亚州六旗游乐园的游乐设施中被弹出而死亡。"
+      "title_zh": "据称被用来猥亵少女的机器人被德国警方扣押",
+      "summary_zh": "Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident."
     },
     {
-      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "title": "UK PM had two hospitality dinners with Man City chairman, deleted records show",
       "link": "",
-      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
       "published": "",
-      "title_zh": "津巴布韦作家否认使用人工智能撰写获奖故事",
-      "summary_zh": "辛巴拉什·昆迪泽扎 (Simbarashe Kundizeza) 是在回应一项在社交媒体上引起轩然大波的指控。"
+      "title_zh": "删除的记录显示，英国首相与曼城主席共进了两次招待晚宴",
+      "summary_zh": "自从俱乐部被判违反英超规则以来，首相面临着越来越大的压力。"
     },
     {
-      "title": "Gordon scores as Barcelona beat Galatasaray",
+      "title": "Who's to blame for the toxic haze choking South East Asia?",
       "link": "",
-      "summary": "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to beat Galatasaray in Istanbul.",
+      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
       "published": "",
-      "title_zh": "戈登进球帮助巴塞罗那击败加拉塔萨雷",
-      "summary_zh": "安东尼·戈登为巴塞罗那打进了他在欧冠联赛中的第一个进球，西班牙球队在伊斯坦布尔逆转击败加拉塔萨雷。"
+      "title_zh": "谁该为席卷东南亚的有毒雾霾负责？",
+      "summary_zh": "人们对被指控在印度尼西亚焚烧土地的公司和未能阻止这些行为的当局越来越愤怒。"
     },
     {
-      "title": "Trump signs pardons for Alaska diesel mechanics onstage during rally",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
       "link": "",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "published": "",
+      "title_zh": "沙特员工被控在 OpenAI 办公室植入录音设备",
+      "summary_zh": "检察官称，该设备被发现插入行政会议室电视背面的 USB 端口，并用卫生纸包裹。"
+    },
+    {
+      "title": "Sydney teen charged with murder of boy who was shot in face",
+      "link": "",
+      "summary": "The 12-year-old was shot at a unit in Sydney last month and died in hospital three days later.",
+      "published": "",
+      "title_zh": "悉尼青少年被控谋杀脸部中枪的男孩",
+      "summary_zh": "这名 12 岁的男孩上个月在悉尼的一个单位遭到枪击，三天后在医院死亡。"
+    },
+    {
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "link": "",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+      "published": "",
+      "title_zh": "删除的记录显示，伯纳姆与曼城主席共进了两次招待晚宴",
+      "summary_zh": "自从俱乐部被判违反英超规则以来，首相面临着越来越大的压力。"
+    },
+    {
+      "title": "Viking hold Bayern in thriller as Kane breaks Messi record",
+      "link": "",
+      "summary": "Norwegian champions Viking produce one of the biggest results in their history to hold six-time European winners Bayern Munich to a thrilling draw in the Champions League.",
+      "published": "",
+      "title_zh": "凯恩打破梅西纪录，维京人惊悚击败拜仁",
+      "summary_zh": "挪威冠军维京队取得了他们历史上最好的成绩之一，在冠军联赛中与六届欧洲冠军拜仁慕尼黑队进行了一场惊心动魄的平局。"
+    },
+    {
+      "title": "Inflation jumped in September as gas and diesel prices squeezed consumers",
+      "link": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在集会期间在台上签署对阿拉斯加柴油机械师的赦免"
+      "title_zh": "由于天然气和柴油价格挤压消费者，九月份通胀大幅上升"
     },
     {
-      "title": "Woman allegedly kills husband and toddler at family resort, then makes chilling plea",
-      "link": "",
+      "title": "Low-key Mike Rogers bets he can outflank Abdul El-Sayed in Michigan’s Senate brawl",
+      "link": "https://www.nbcnews.com/politics/2026-election/mike-rogers-abdul-el-sayed-campaign-michigan-senate-midterms-rcna602534",
       "summary": "",
       "published": "",
-      "title_zh": "据称，一名女子在家庭度假胜地杀死了丈夫和幼儿，然后提出了令人毛骨悚然的请求"
+      "title_zh": "低调的迈克·罗杰斯打赌他可以在密歇根州参议院斗殴中包抄阿卜杜勒·赛义德"
     },
     {
-      "title": "Trump signals patience with Iran has run out as he issues dramatic nuclear warning",
-      "link": "",
+      "title": "Ukraine says Starlink restrictions disrupt military as it reels from intel gaps and Trump clash",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普发出强烈核警告，暗示对伊朗的耐心已经耗尽"
+      "title_zh": "乌克兰称星链限制扰乱了军队，因情报差距和特朗普冲突而陷入困境"
     },
     {
-      "title": "Mamdani sends clear message to socialist allies calling for NYPD commissioner's firing",
-      "link": "",
+      "title": "‘The fear factor persists’: Economic damage lingers in cities hit by immigration raids",
+      "link": "https://www.nbcnews.com/business/economy/immigration-raids-hurt-local-economies-studies-rcna602531",
       "summary": "",
       "published": "",
-      "title_zh": "马姆达尼向社会主义盟友发出明确信息，呼吁解雇纽约警察局局长"
+      "title_zh": "“恐惧因素持续存在”：移民突袭袭击城市的经济损失依然存在"
     },
     {
-      "title": "Ilhan Omar relatives hit with subpoenas as birthdate change draws scrutiny",
-      "link": "",
+      "title": "Jamaica begins receiving third-country deportees under controversial U.S. agreement",
+      "link": "https://www.nbcnews.com/news/us-news/jamaica-begins-receiving-third-country-deportees-rcna603396",
       "summary": "",
       "published": "",
-      "title_zh": "由于更改出生日期受到审查，伊尔汗·奥马尔的亲属收到传票"
+      "title_zh": "根据有争议的美国协议，牙买加开始接收第三国被驱逐者"
     },
     {
-      "title": "Popular men's health drug linked to unexpected muscle-boosting effects",
-      "link": "",
+      "title": "Chick-fil-A bet on chicken in the 1960s. Now it’s one of America’s biggest restaurant chains.",
+      "link": "https://www.nbcnews.com/business/ceo-interviews/chick-fil-a-ceo-andrew-cathy-restaurant-rcna603203",
       "summary": "",
       "published": "",
-      "title_zh": "流行的男性健康药物与意想不到的肌肉增强作用有关"
+      "title_zh": "20 世纪 60 年代，福来鸡 (Chick-fil-A) 押注于鸡肉。现在它是美国最大的连锁餐厅之一。"
     },
     {
-      "title": "Massive fire destroys 400-year-old food market, leaving historic landmark in ruins",
-      "link": "",
+      "title": "Pope Leo spends a peaceful night in the hospital after cancer surgery",
+      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-cancer-surgery-hospital-diagnosis-treatment-rcna603413",
       "summary": "",
       "published": "",
-      "title_zh": "大火烧毁了拥有 400 年历史的食品市场，历史地标化为废墟"
+      "title_zh": "教皇利奥在癌症手术后在医院度过了一个平静的夜晚"
     },
     {
-      "title": "Secret recording device sparks OpenAI security scare as employee arrested",
-      "link": "",
+      "title": "Prosecutor calls Russell Brand a ‘ruthless’ sexual predator at trial",
+      "link": "https://www.nbcnews.com/world/europe/russell-brand-called-ruthless-sexual-predator-trial-start-prosecutor-rcna603421",
       "summary": "",
       "published": "",
-      "title_zh": "秘密录音设备引发 OpenAI 员工被捕引发安全恐慌"
+      "title_zh": "检察官在审判中称拉塞尔·布兰德为“无情”的性掠夺者"
     },
     {
-      "title": "'Pawn Stars' creator Rick Harrison exposes the wild world of rare collectibles",
-      "link": "",
+      "title": "Fossil kept in drawer for a century sheds light on tiger-sized dinosaurs with massive claws",
+      "link": "https://www.nbcnews.com/science/science-news/fossil-kept-drawer-century-sheds-light-enigmatic-meat-eating-dinosaurs-rcna603407",
       "summary": "",
       "published": "",
-      "title_zh": "《典当之星》创作者里克·哈里森揭露了稀有收藏品的狂野世界"
-    },
-    {
-      "title": "CVS to pay $315M after DOJ alleges pharmacies filled risky prescriptions",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国司法部指控药房出售有风险的处方药后，CVS 将支付 3.15 亿美元"
-    },
-    {
-      "title": "Kelly Clarkson 'has put us in danger' after calling out Brooklyn store, owner claims",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "店主声称凯莉克拉克森在呼叫布鲁克林商店后“将我们置于危险之中”"
-    },
-    {
-      "title": "Florida killer who wanted death penalty is executed after cellmate murder",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "佛罗里达州凶手因谋杀狱友而被处决"
-    },
-    {
-      "title": "The US military is pushing for massive production of a weapon it has never fired",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国军方正在推动大规模生产从未发射过的武器"
-    },
-    {
-      "title": "Chris Wright orders emergency power measures to prevent blackouts across 13 states",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "克里斯·赖特 (Chris Wright) 下令采取紧急电力措施，防止 13 个州停电"
+      "title_zh": "抽屉里保存了一个世纪的化石揭示了拥有巨大爪子的老虎大小的恐龙"
     }
   ]
 }
