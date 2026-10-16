@@ -1,0 +1,280 @@
+{
+  "date": "20261016",
+  "total": 33,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "link": "",
+      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "published": "",
+      "title_zh": "“这真的很难相信”——俄勒冈州小学枪击事件是如何发生的",
+      "summary_zh": "当地警方称，一名 16 岁嫌疑人在本德市开枪，造成三名 5 岁、8 岁和 11 岁的儿童以及一名教师死亡。"
+    },
+    {
+      "title": "Porn showing choking or incest to be banned in England and Wales",
+      "link": "",
+      "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "published": "",
+      "title_zh": "英格兰和威尔士将禁止展示窒息或乱伦的色情内容",
+      "summary_zh": "在此之前，保守党同侪加比·贝尔廷男爵夫人 (Baroness Gabby Bertin) 将在 2025 年对色情监管进行审查"
+    },
+    {
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "link": "",
+      "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "published": "",
+      "title_zh": "法国总统选举前学生抗议活动是否受到操纵？",
+      "summary_zh": "法国总理表示，学生的愤怒正在被武器化，因为工会和其他抗议者也准备走上街头。"
+    },
+    {
+      "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears",
+      "link": "",
+      "summary": "The Canadian prime minister is in Alberta for two days to make a final push for unity ahead of Monday’s separation referendum.",
+      "published": "",
+      "title_zh": "加拿大总理警告称，随着艾伯塔省分离投票临近，“风险很高”",
+      "summary_zh": "加拿大总理将在艾伯塔省停留两天，以便在周一的分离公投之前为团结做出最后的努力。"
+    },
+    {
+      "title": "India's 'cockroach' protesters set to return despite police crackdown",
+      "link": "",
+      "summary": "The youth-led movement plans a fresh Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "published": "",
+      "title_zh": "尽管警方镇压，印度“蟑螂”抗议者仍将返回",
+      "summary_zh": "在上周大规模拘留和两名领导人被监禁之后，这个由青年领导的运动计划在德里举行新的抗议活动。"
+    },
+    {
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "link": "",
+      "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+      "published": "",
+      "title_zh": "警方称，举报挫败了美国青少年嫌疑人袭击印度教寺庙的阴谋",
+      "summary_zh": "警方称，这一阴谋之所以失败，是因为 19 岁嫌疑人的枪卡在礼拜场所外。"
+    },
+    {
+      "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
+      "link": "",
+      "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+      "published": "",
+      "title_zh": "这个有 75,000 年历史的伤口表明尼安德特人的生活比我们想象的更加暴力",
+      "summary_zh": "75,000年前的尼安德特人矛伤可能是暴力塑造人类生活的证据，远比我们想象的要早。"
+    },
+    {
+      "title": "Watch: Australian band breaks world record for most gigs in 12 hours",
+      "link": "",
+      "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+      "published": "",
+      "title_zh": "观看：澳大利亚乐队打破 12 小时内演出次数最多的世界纪录",
+      "summary_zh": "名为 Fathom 的梦想摇滚乐队乘坐汽车、直升机和飞机穿越澳大利亚约 700 公里，在 12 小时内演出了 9 场演出。"
+    },
+    {
+      "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+      "link": "",
+      "summary": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+      "published": "",
+      "title_zh": "奥尼尔在失败中表现得目中无人，但凯尔特人队的“平轨恶霸”再次失败",
+      "summary_zh": "凯尔特人现在已经输掉了两场欧罗巴联赛小组赛以及两场德比——但马丁·奥尼尔坚信他可以看到积极的迹象。"
+    },
+    {
+      "title": "Oregon Gov. Kotek offers support to Bend community",
+      "link": "https://www.nbcnews.com/now/video/oregon-gov-kotek-offers-support-to-bend-community-following-shooting-271666245989",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄勒冈州州长科泰克为本德社区提供支持"
+    },
+    {
+      "title": "16-year-old gunman used long gun to shoot at  locked doors, police say",
+      "link": "https://www.nbcnews.com/video/16-year-old-suspect-in-bend-oregon-used-long-gun-to-shoot-at-school-s-locked-doors-271667781627",
+      "summary": "",
+      "published": "",
+      "title_zh": "警方称，16岁枪手用长枪向锁着的门开枪"
+    },
+    {
+      "title": "Aunt of fifth grader at school says he sounded ‘very scared’ in call to family",
+      "link": "https://www.nbcnews.com/video/aunt-of-5th-grader-at-oregon-school-shooting-says-he-sounded-very-scared-in-call-to-family-271665733591",
+      "summary": "",
+      "published": "",
+      "title_zh": "学校五年级学生的阿姨说，他给家人打电话时听起来“非常害怕”"
+    },
+    {
+      "title": "Bend resident recalls hearing gunshots near elementary school",
+      "link": "https://www.nbcnews.com/video/bend-resident-recalls-hearing-gunshots-near-elementary-school-shooting-271659589741",
+      "summary": "",
+      "published": "",
+      "title_zh": "本德居民回忆起在小学附近听到枪声"
+    },
+    {
+      "title": "Bend mayor says vigil planned for victims",
+      "link": "https://www.nbcnews.com/now/video/bend-mayor-says-vigil-planned-for-victims-of-school-shooting-271667269718",
+      "summary": "",
+      "published": "",
+      "title_zh": "本德市长表示计划为受害者守夜"
+    },
+    {
+      "title": "Superintendent Steven Cook calls shooting ’senseless tragedy’",
+      "link": "https://www.nbcnews.com/video/superintendent-calls-oregon-elementary-school-shooting-senseless-tragedy-271659589586",
+      "summary": "",
+      "published": "",
+      "title_zh": "警长史蒂文·库克称枪击事件是“毫无意义的悲剧”"
+    },
+    {
+      "title": "A quarter-billion dollars from Elon Musk leads the way as megadonors rush cash into the midterms",
+      "link": "https://www.nbcnews.com/politics/2026-election/quarter-billion-dollars-elon-musk-leads-way-megadonors-rush-cash-midte-rcna603072",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃隆·马斯克 (Elon Musk) 的 2.5 亿美元引领巨额捐助者将现金投入中期选举"
+    },
+    {
+      "title": "Trump looms as tensions flare in final Maine Senate debate",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-looms-tensions-flare-final-maine-senate-debate-rcna603636",
+      "summary": "",
+      "published": "",
+      "title_zh": "缅因州参议院最后一场辩论紧张局势加剧，特朗普若隐若现"
+    },
+    {
+      "title": "Brewers sweep Dodgers to reach World Series for first time since 1982",
+      "link": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-los-angeles-dodgers-mlb-nlcs-world-series-rcna603783",
+      "summary": "",
+      "published": "",
+      "title_zh": "酿酒人队横扫道奇队自 1982 年以来首次进入世界大赛"
+    },
+    {
+      "title": "RJ Mitte’s mother urges parents to watch for warning signs after ‘Breaking Bad’ star’s death",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/rj-mitte-mother-speaks-breaking-bad-stars-death-rcna603700",
+      "summary": "",
+      "published": "",
+      "title_zh": "RJ Mitte 的母亲敦促父母在《绝命毒师》明星去世后留意警告信号"
+    },
+    {
+      "title": "Children ages 5, 8 and 11, one teacher killed in shooting at Oregon elementary school",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄勒冈州小学发生枪击事件，一名教师丧生，年龄分别为 5、8 和 11 岁"
+    },
+    {
+      "title": "Trump gives definitive answer about using nuclear weapons against Iran",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普就对伊朗使用核武器给出明确答案"
+    },
+    {
+      "title": "Jackson snaps 'shut up' at Collins after she levels accusation at final debate",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在柯林斯在最后一场辩论中提出指控后，杰克逊对她“闭嘴”"
+    },
+    {
+      "title": "Tesla Roadster takes flight, flips over cars during dramatic Texas debut",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特斯拉 Roadster 在德克萨斯州戏剧性首秀中起飞并翻转汽车"
+    },
+    {
+      "title": "WH press secretary admits never retaking bar exam after failing, despite attorney label",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "白宫新闻秘书承认，尽管有律师标签，但在失败后从未重新参加律师考试"
+    },
+    {
+      "title": "Father's desperate plea for a 'miracle' ends in tragedy for DII football player",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "父亲对“奇迹”的绝望祈求最终以 DII 足球运动员的悲剧告终"
+    },
+    {
+      "title": "Seinfeld turns the tables on anti-Israel hecklers at Chicago show in viral video",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《宋飞正传》在芝加哥演出的视频中扭转了反以色列质问者的局面"
+    },
+    {
+      "title": "Maryland teenager seeks $20 million from CBS News in defamation lawsuit",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马里兰州青少年在诽谤诉讼中向哥伦比亚广播公司新闻寻求 2000 万美元赔偿"
+    },
+    {
+      "title": "Accused neo-Nazi in alleged Hindu temple shooting plot to get hormones in jail",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "被指控的新纳粹分子涉嫌印度教寺庙枪击事件，以获取荷尔蒙入狱"
+    },
+    {
+      "title": "Tyrus talks UFOs, alien mysteries and more with Dr. Steven Greer",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒斯与史蒂文·格里尔博士谈论不明飞行物、外星之谜等"
+    },
+    {
+      "title": "'GUTFELD!':These are the same people who called concerned moms terrorists",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“GUTFELD！”：这些人称忧心忡忡的妈妈为恐怖分子"
+    },
+    {
+      "title": "FBI brings back suspect accused of stealing $600K in federal food stamp benefits",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "FBI 抓获涉嫌盗窃 60 万美元联邦食品券福利的嫌疑人"
+    },
+    {
+      "title": "Three teens charged after 15-year-old boy beaten, robbed of shoes near train station",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "火车站附近殴打 15 岁男孩并抢走鞋子后，三名青少年被指控"
+    },
+    {
+      "title": "California business guide excludes White people and men from category list",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州商业指南将白人和男性排除在类别列表之外"
+    }
+  ]
+}
