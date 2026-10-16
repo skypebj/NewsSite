@@ -1,6 +1,6 @@
 {
   "date": "20261016",
-  "total": 41,
+  "total": 23,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,304 +37,170 @@
   },
   "entries": [
     {
-      "title": "Biden judge throws wrench into Obama spy chief's legal battle against Trump admin",
+      "title": "Teacher tackled Oregon school shooter after he stormed special needs class, officials say",
+      "link": "https://www.nbcnews.com/news/us-news/live-blog/live-coverage-teen-shooter-kills-3-children-teacher-oregon-elementary-rcna603846",
+      "summary": "",
+      "published": "",
+      "title_zh": "官员称，俄勒冈州学校枪手冲进特殊需要班级后，老师制服了他"
+    },
+    {
+      "title": "Victims include 5-year-old whose family is ‘broken and lost’",
+      "link": "https://www.nbcnews.com/news/us-news/oregon-school-shooting-victims-include-5-year-old-rhoam-summer-whose-f-rcna603946",
+      "summary": "",
+      "published": "",
+      "title_zh": "Victims include 5-year-old whose family is ‘broken and lost’"
+    },
+    {
+      "title": "Federal investigation of letters with suspicious substances widens",
+      "link": "https://www.nbcnews.com/politics/congress/federal-probe-suspicious-substance-letters-widens-gop-senators-rcna603950",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦对含有可疑物质的信件的调查范围扩大"
+    },
+    {
+      "title": "‘He pins the wings’: Why Elon Musk’s ex says she refused his millions",
+      "link": "https://www.nbcnews.com/news/us-news/ashley-st-clair-wont-silenced-elon-musk-rcna603944",
+      "summary": "",
+      "published": "",
+      "title_zh": "“他钉住了翅膀”：为什么埃隆·马斯克的前任说她拒绝了他的数百万美元"
+    },
+    {
+      "title": "Child sex abuse charges against Timothy Busfield tossed by judge, citing prosecutor misconduct",
+      "link": "https://www.nbcnews.com/news/us-news/child-sex-abuse-charges-timothy-busfield-tossed-new-mexico-judge-citin-rcna603975",
+      "summary": "",
+      "published": "",
+      "title_zh": "法官以检察官不当行为为由驳回对蒂莫西·布斯菲尔德的儿童性虐待指控"
+    },
+    {
+      "title": "Flu activity is starting to rise. Is this year’s vaccine a good match?",
+      "link": "https://www.nbcnews.com/health/cold-and-flu/years-flu-shot-good-match-flu-levels-are-starting-rise-rcna603953",
+      "summary": "",
+      "published": "",
+      "title_zh": "流感活动开始上升。今年的疫苗好配吗？"
+    },
+    {
+      "title": "Oregon father who stopped teen gunman, teacher killed in attack named",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拜登法官阻止奥巴马间谍首长与特朗普政府的法律斗争"
+      "title_zh": "俄勒冈州父亲阻止青少年枪手，老师在袭击中丧生"
     },
     {
-      "title": "Trump's new press secretary out of the job just days after rocky debut",
+      "title": "Judge tosses Timothy Busfield's indictment on child sex abuse charges",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普新任新闻秘书在首次亮相几天后就下台"
+      "title_zh": "法官驳回蒂莫西·布斯菲尔德对儿童性虐待指控的起诉书"
     },
     {
-      "title": "Former University of Kentucky cheerleader sentenced for infant's death",
+      "title": "Iran makes fresh demand for reopening Strait of Hormuz as it threatens US",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前肯塔基大学拉拉队员因婴儿死亡被判刑"
+      "title_zh": "伊朗威胁美国，提出重新开放霍尔木兹海峡的新要求"
     },
     {
-      "title": "Armed bystander 'heroically' stops suspected teen gunman in deadly school shooting",
+      "title": "Former NFL All-Pro running back makes appearance at Trump Georgia rally",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "武装旁观者“英勇”阻止了致命校园枪击案中的青少年枪手嫌疑"
+      "title_zh": "前 NFL 全职业跑卫亮相特朗普佐治亚州集会"
     },
     {
-      "title": "Americans suspect Trump had another reason for scrapping killer's execution livestream",
+      "title": "Deadly brain-infecting fungus surges across US, with fatality rate as high as 70%",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Americans suspect Trump had another reason for scrapping killer's execution livestream"
+      "title_zh": "美国致命脑部感染真菌激增，致死率高达70%"
     },
     {
-      "title": "School district that forced kids to hide Bibles must apologize, pay hefty fine",
+      "title": "SCOTUS appeal over girl who alleges sexual assault by trans athlete gets update",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "强迫孩子们藏起圣经的学区必须道歉并支付巨额罚款"
+      "title_zh": "最高法院对指控跨性别运动员性侵犯的女孩的上诉得到更新"
     },
     {
-      "title": "AOC shells out eye-popping amount in campaign cash to boost El-Sayed's Senate bid",
+      "title": "Evacuations issued as California wildfires rage, with conditions fueling flames",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "AOC 斥巨资竞选现金以推动埃尔赛义德参议员竞选"
+      "title_zh": "加州山火肆虐，火势加剧，疏散人员已发布"
     },
     {
-      "title": "Kohberger's lawyer says prosecutors twisted his argument for removing judge",
+      "title": "Judge blasts courtroom antics in Alex Murdaugh case as defense gets DNA victory",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "科伯格的律师称检察官歪曲了他罢免法官的论点"
+      "title_zh": "法官抨击亚历克斯·默多案中法庭的滑稽行为，辩方获得 DNA 胜利"
     },
     {
-      "title": "Omar's sister skips event amid week of chaos following raid on progressive's DC home",
+      "title": "Stephen A Smith, Kid Rock and Bill Maher all had 'epic' dinner with Trump last night",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "进步派的华盛顿住宅遭到袭击后，奥马尔的妹妹在混乱的一周中缺席了活动"
+      "title_zh": "斯蒂芬·A·史密斯 (Stephen A Smith)、基德·洛克 (Kid Rock) 和比尔·马赫 (Bill Maher) 昨晚都与特朗普共进了“史诗般”的晚餐"
     },
     {
-      "title": "Sam Altman has surprising words for Elon Musk after explosive legal clash",
+      "title": "Trump calls NY attorney general 'totally corrupt' ahead of gang rape probe",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在爆炸性法律冲突后，萨姆·奥尔特曼对埃隆·马斯克发表了令人惊讶的言论"
+      "title_zh": "特朗普在轮奸调查前称纽约总检察长“完全腐败”"
     },
     {
-      "title": "As Pentagon reportedly weighs 'Mother of All Bombs,' Trump takes stance on nukes against Iran",
+      "title": "Patrick Mahomes' wife stuns at the gym, sends message to fans about 'expiring'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据报道，五角大楼正在权衡“炸弹之母”，特朗普在针对伊朗的核武器问题上采取了立场"
+      "title_zh": "帕特里克·马霍姆斯的妻子在健身房惊艳亮相，向粉丝传达“即将到期”的信息"
     },
     {
-      "title": "Josh Brolin opens up about side career that made him more money than 20 years acting",
+      "title": "Brewers manager has epic quote straight from Hollywood script after sweeping Dodgers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔什·布洛林 (Josh Brolin) 畅谈副业，这让他比 20 年演艺生涯赚的钱还多"
+      "title_zh": "酿酒人队经理在横扫道奇队后直接引用了好莱坞剧本中的史诗名言"
     },
     {
-      "title": "Race to find Amelia Earhart's lost plane hits rough seas as crucial deadline nears",
+      "title": "Katie Zacharia leaving her White House role less than five days on the job",
       "link": "",
-      "summary": "",
+      "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
       "published": "",
-      "title_zh": "关键期限临近，竞相寻找阿米莉亚·埃尔哈特失踪的飞机遭遇波涛汹涌的大海"
+      "title_zh": "凯蒂·扎卡里亚 (Katie Zacharia) 卸任白宫职务不到五天",
+      "summary_zh": "周二，她作为白宫新闻秘书的首次公开亮相以媒体对她的资历和准备工作的一系列批评而告终。"
     },
     {
-      "title": "WATCH LIVE:AOC, 'Squad' members rally students for Abdul El-Sayed in Michigan",
+      "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
       "link": "",
-      "summary": "",
+      "summary": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
       "published": "",
-      "title_zh": "观看直播：AOC、“小队”成员在密歇根州为阿卜杜勒·赛义德集会学生"
+      "title_zh": "分析：撒迦利亚陷入旋风，并在特朗普的关键时刻失败",
+      "summary_zh": "英国广播公司 (BBC) 的安东尼·祖彻 (Anthony Zurcher) 在关键的中期选举前几周写道，白宫面临着越来越大的逆境。"
     },
     {
-      "title": "Yellowstone bison slams into truck after driver tries to avoid hitting the animal",
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
       "link": "",
-      "summary": "",
+      "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
       "published": "",
-      "title_zh": "司机试图避免撞到黄石野牛后，黄石野牛撞上了卡车"
+      "title_zh": "有毒的算法不会放过他们——现在澳大利亚想要关闭开关",
+      "summary_zh": "澳大利亚提议强制社交媒体平台让用户关闭推荐内容。"
     },
     {
-      "title": "Judge sets record straight on Murdaugh polygraph test after lawyer's bold claim",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
       "link": "",
-      "summary": "",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
       "published": "",
-      "title_zh": "律师大胆主张后，法官澄清了默多测谎仪测试的记录"
+      "title_zh": "观察：随着与美国的紧张局势升级，乌克兰会获得所需的支持吗？",
+      "summary_zh": "泽伦斯基在布鲁塞尔与欧盟举行会议之前感谢“真正的领导人”。"
     },
     {
-      "title": "Dodgers star emotionally announces retirement after the team's brutal postseason loss",
+      "title": "Sean 'Diddy' Combs moved to low-security facility in Pennsylvania",
       "link": "",
-      "summary": "",
+      "summary": "The decision to move the rap mogul while he is serving out his 50-month sentence was made with 'safety and security in mind'.",
       "published": "",
-      "title_zh": "道奇队球星在球队惨遭季后赛失利后情绪激动地宣布退役"
-    },
-    {
-      "title": "Grocery store owner hit by another cybersecurity incident taking down websites",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杂货店老板遭遇另一起导致网站瘫痪的网络安全事件"
-    },
-    {
-      "title": "Katie Zacharia is out as White House press secretary after just 5 days on the job",
-      "link": "https://www.nbcnews.com/politics/white-house/white-house-press-secretary-katie-zacharia-out-after-5-days-rcna603912",
-      "summary": "",
-      "published": "",
-      "title_zh": "凯蒂·扎卡里亚 (Katie Zacharia) 上任仅 5 天后就辞去白宫新闻秘书职务"
-    },
-    {
-      "title": "School shooter ID’d as 16-year-old whose mother purchased the gun, sources say",
-      "link": "https://www.nbcnews.com/news/us-news/oregon-school-shooter-identified-16-year-old-john-griffin-ii-whose-mot-rcna603908",
-      "summary": "",
-      "published": "",
-      "title_zh": "消息人士称，校园枪击案凶手年龄为 16 岁，枪支是其母亲购买的"
-    },
-    {
-      "title": "Man who confronted Oregon elementary school gunman identified by brother",
-      "link": "https://www.nbcnews.com/news/us-news/man-confronted-oregon-elementary-school-gunman-identified-brother-rcna603913",
-      "summary": "",
-      "published": "",
-      "title_zh": "Man who confronted Oregon elementary school gunman identified by brother"
-    },
-    {
-      "title": "Hakeem Jeffries takes House majority fight to Trump’s backyard in Florida",
-      "link": "https://www.nbcnews.com/politics/elections/hakeem-jeffries-democrat-house-majority-midterms-florida-rcna603198",
-      "summary": "",
-      "published": "",
-      "title_zh": "哈基姆·杰弗里斯 (Hakeem Jeffries) 将众议院多数席位争夺战带到特朗普位于佛罗里达州的后院"
-    },
-    {
-      "title": "Republicans see potential opportunity in Minnesota",
-      "link": "https://www.nbcnews.com/politics/2026-election/republicans-eye-potential-opportunity-minnesota-tough-midterm-climate-rcna603879",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党人看到明尼苏达州的潜在机会"
-    },
-    {
-      "title": "Sean ‘Diddy’ Combs moved from N.J. prison where he was living like a VIP",
-      "link": "https://www.nbcnews.com/news/us-news/diddy-moved-nj-prison-was-living-vip-rcna603884",
-      "summary": "",
-      "published": "",
-      "title_zh": "“吹牛老爹”肖恩·库姆斯 (Sean ‘Diddy’ Combs) 从新泽西州监狱搬出，在那里他过着 VIP 般的生活"
-    },
-    {
-      "title": "Oil surges to $110 per barrel for the first time since May",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-hormuz-iran-ukraine-rcna603919",
-      "summary": "",
-      "published": "",
-      "title_zh": "油价自5月份以来首次飙升至每桶110美元"
-    },
-    {
-      "title": "Netflix makes major cuts and Hollywood turns on the (Silicon) valley: On the Lot",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-makes-major-cuts-hollywood-filmmakers-turn-on-silicon-valley-rcna603813",
-      "summary": "",
-      "published": "",
-      "title_zh": "Netflix 大幅削减开支，好莱坞转向（硅谷）：On the Lot"
-    },
-    {
-      "title": "Elon Musk demonstrates ‘flying’ Tesla Roadster after years of delays",
-      "link": "https://www.nbcnews.com/tech/tech-news/elon-musk-shows-flying-tesla-roadster-years-delays-rcna603905",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃隆·马斯克在拖延多年后展示“飞行”特斯拉跑车"
-    },
-    {
-      "title": "Amber Guyger, ex-police officer convicted of murder, is released on parole",
-      "link": "https://www.nbcnews.com/news/us-news/ex-dallas-police-amber-guyger-released-prison-botham-jean-murder-rcna602397",
-      "summary": "",
-      "published": "",
-      "title_zh": "被判谋杀罪的前警官安布尔·盖格 (Amber Guyger) 获假释"
-    },
-    {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "link": "",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "published": "",
-      "title_zh": "乌克兰内部攻势将俄罗斯击退——星链发挥关键作用",
-      "summary_zh": "英国广播公司 (BBC) 加入了乌克兰的维瓦尔第行动，收复顿巴斯的重要领土，但与特朗普总统的关系恶化削弱了乐观情绪。"
-    },
-    {
-      "title": "What we learned from heated US midterm Senate debates",
-      "link": "",
-      "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
-      "published": "",
-      "title_zh": "What we learned from heated US midterm Senate debates",
-      "summary_zh": "随着 11 月 3 日选举的临近以及两党争夺国会控制权的斗争，一些明确的主题已经出现。"
-    },
-    {
-      "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
-      "link": "",
-      "summary": "Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months",
-      "published": "",
-      "title_zh": "观看：BBC 追踪乌克兰维瓦尔第行动将俄罗斯推回前线",
-      "summary_zh": "基辅称近几个月已收复东顿巴斯地区277平方公里（106平方英里）的领土"
-    },
-    {
-      "title": "Trump praises father who shot attacker during Oregon school shooting as 'great hero'",
-      "link": "",
-      "summary": "Three children and a teacher were killed in the attack by a teenage gunman on the  Silver Rail Elementary School in Bend, Oregon, on Thursday.",
-      "published": "",
-      "title_zh": "特朗普称赞在俄勒冈州学校枪击事件中射杀袭击者的父亲是“伟大的英雄”",
-      "summary_zh": "周四，俄勒冈州本德市 Silver Rail 小学遭到一名青少年枪手袭击，造成三名儿童和一名教师死亡。"
-    },
-    {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "link": "",
-      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-      "published": "",
-      "title_zh": "泽伦斯基表示，在特朗普称最近的袭击是“耻辱”后，乌克兰有权自卫",
-      "summary_zh": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
-    },
-    {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "link": "",
-      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-      "published": "",
-      "title_zh": "以色列定居者在约旦河西岸收获袭击中受伤的巴勒斯坦人和美国记者",
-      "summary_zh": "英国广播公司 (BBC) 看到，在类似事件激增的情况下，蒙面定居者袭击了试图收获橄榄的巴勒斯坦人。"
-    },
-    {
-      "title": "They fled Russia, but the West sent them back",
-      "link": "",
-      "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-      "published": "",
-      "title_zh": "他们逃离俄罗斯，但西方将他们送回",
-      "summary_zh": "过去一年，从欧盟和美国寻求庇护的反政府活动人士被驱逐到俄罗斯的人数明显增加。"
-    },
-    {
-      "title": "Orcas v great white sharks: The brutal battle between the ocean's top predators",
-      "link": "",
-      "summary": "When scientists first found dead great whites near South Africa, the marks of mutilation pointed to the same culprit.",
-      "published": "",
-      "title_zh": "Orcas v great white sharks: The brutal battle between the ocean's top predators",
-      "summary_zh": "当科学家第一次在南非附近发现死去的大白鲨时，残肢的痕迹指向了同一个罪魁祸首。"
-    },
-    {
-      "title": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
-      "link": "",
-      "summary": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
-      "published": "",
-      "title_zh": "前塞尔鲨鱼队锁安德鲁斯在拉罗谢尔的球队酒店去世",
-      "summary_zh": "海伦·安德鲁斯周六在拉罗谢尔举行的冠军杯比赛前在约翰内斯堡雄狮队的酒店去世。"
-    },
-    {
-      "title": "Russian man linked to deadly London hospitals hack arrested",
-      "link": "",
-      "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
-      "published": "",
-      "title_zh": "Russian man linked to deadly London hospitals hack arrested",
-      "summary_zh": "这名被德国警方拘留的 28 岁男子被指控是 2024 年入侵血液检测公司 Synnovis 的网络犯罪团伙的成员。"
-    },
-    {
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "link": "",
-      "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-      "published": "",
-      "title_zh": "南非疑似非法康复中心被锁链救出的患者",
-      "summary_zh": "200 名患者中，有一些人被发现“全身长疮”，而且房间过于拥挤。"
-    },
-    {
-      "title": "NHS staff may have breached tiger attack victim's medical records",
-      "link": "",
-      "summary": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
-      "published": "",
-      "title_zh": "NHS工作人员可能泄露了老虎袭击受害者的医疗记录",
-      "summary_zh": "周六，24 岁的威廉·查普曼 (William Chapman) 在唐卡斯特附近的约克郡野生动物公园被打死。"
-    },
-    {
-      "title": "Do Manchester City have any grounds to win their appeal?",
-      "link": "",
-      "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-      "published": "",
-      "title_zh": "曼城有理由赢得上诉吗？",
-      "summary_zh": "一位知名律师告诉英国广播公司体育频道，曼城在被判违反英超联赛财务规则后，如果想要赢得上诉，将面临“巨大的障碍”。"
+      "title_zh": "肖恩·“吹牛老爹”库姆斯搬到宾夕法尼亚州的低安全设施",
+      "summary_zh": "在这位说唱大亨服刑 50 个月期间，他决定调离他，是出于“安全考虑”。"
     }
   ]
 }
