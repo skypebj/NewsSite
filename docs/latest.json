@@ -1,6 +1,6 @@
 {
   "date": "20261017",
-  "total": 27,
+  "total": 21,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,202 +37,155 @@
   },
   "entries": [
     {
-      "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-      "link": "",
-      "summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+      "title": "Is Iowa a battleground state again?",
+      "link": "https://www.nbcnews.com/video/is-iowa-a-battleground-again-271654981932",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：巴黎抗议者与警察发生冲突，“情绪确实发生了变化”",
-      "summary_zh": "BBC 驻扎在共和国广场，经过数周的学生示威后，抗议者与警察发生冲突。"
+      "title_zh": "爱荷华州再次成为战场州吗？"
     },
     {
-      "title": "Violent clashes between police and protesters in Albania",
-      "link": "",
-      "summary": "Police in Albania's capital Tirana have fired tear gas and water cannons onto crowds protesting against poor education facilities, rising living costs and alleged government corruption.",
+      "title": "‘The house was toast’: Surf swallows California homes",
+      "link": "https://www.nbcnews.com/news/us-news/beachfront-homes-destroyed-california-coastal-erosion-el-nino-bring-hi-rcna603211",
+      "summary": "",
       "published": "",
-      "title_zh": "阿尔巴尼亚警察与抗议者发生暴力冲突",
-      "summary_zh": "阿尔巴尼亚首都地拉那警方向抗议教育设施落后、生活成本上涨和涉嫌政府腐败的人群发射催泪瓦斯和高压水枪。"
+      "title_zh": "“房子被毁了”：冲浪吞噬了加州的房屋"
     },
     {
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "link": "",
-      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "title": "Man fatally shot during dispute at Midtown Manhattan subway station, police say",
+      "link": "https://www.nbcnews.com/news/us-news/man-fatally-shot-dispute-midtown-manhattan-subway-station-police-say-rcna604061",
+      "summary": "",
       "published": "",
-      "title_zh": "教皇肺癌手术几天后出院",
-      "summary_zh": "教宗将于周日在圣彼得广场进行传统的三钟经祈祷和祝福。"
+      "title_zh": "警方称，曼哈顿中城地铁站发生争执，男子被枪杀"
     },
     {
-      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-      "link": "",
-      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "title": "Troubled waters",
+      "link": "https://www.nbcnews.com/politics/2026-election/access-water-emerges-key-issue-races-governor-rcna603481",
+      "summary": "",
       "published": "",
-      "title_zh": "老师与美国学校袭击者战斗，武装父亲“多次”射杀嫌疑人",
-      "summary_zh": "警方称，这名 16 岁嫌疑人此前曾就读于这所小学，并针对特殊教育需求的教室进行了袭击。"
+      "title_zh": "浑水摸鱼"
     },
     {
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "link": "",
-      "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "title": "FOR SUBSCRIBERSTrump says Susie Wiles will remain in her role at the White House ‘until the end’",
+      "link": "https://www.nbcnews.com/politics/white-house/trump-susie-wiles-will-remain-role-white-house-chief-of-staff-rcna604040",
+      "summary": "",
       "published": "",
-      "title_zh": "数百名儿童中毒，中国托儿所老板被判终身监禁",
-      "summary_zh": "她和五名工作人员被发现在餐食中使用了不可食用的油漆，以使食物看起来更有吸引力。"
+      "title_zh": "对于订阅者特朗普表示苏西威尔斯将继续留在白宫“直到最后”"
     },
     {
-      "title": "Why people who have never smoked are getting hooked on vapes",
-      "link": "",
-      "summary": "More than one million people now vape who have never been smokers, according to the ONS.",
+      "title": "FOR SUBSCRIBERSFederal regulators investigate Tesla crash that injured two officers after driver fell asleep, authorities say",
+      "link": "https://www.nbcnews.com/tech/tech-news/tesla-crash-california-federal-regulators-investigate-rcna604001",
+      "summary": "",
       "published": "",
-      "title_zh": "为什么从不吸烟的人却迷上了电子烟",
-      "summary_zh": "据英国国家统计局称，现在有超过一百万人从未吸烟过而吸电子烟。"
+      "title_zh": "当局称，联邦监管机构正在调查特斯拉撞车事故，两名警察因司机睡着而受伤"
     },
     {
-      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+      "title": "How day of protests unfolded as disorder breaks out across France",
       "link": "",
-      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
       "published": "",
-      "title_zh": "快速蔓延的加州野火烧毁房屋，人们被命令离开",
-      "summary_zh": "在圣安娜狂风的推动下，北部大火是全州 13 场燃烧的大火之一。"
+      "title_zh": "法国各地爆发骚乱，抗议活动如何展开",
+      "summary_zh": "全国各地的示威活动变得暴力，汽车和建筑物被纵火，商店被洗劫。"
     },
     {
-      "title": "Harry Styles debuts new track in memory of Liam Payne",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
       "link": "",
-      "summary": "The pop star performed the song on the second anniversary of Liam Payne's death.",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
       "published": "",
-      "title_zh": "哈里·斯泰尔斯 (Harry Styles) 推出新歌纪念利亚姆·佩恩 (Liam Payne)",
-      "summary_zh": "这位流行歌星在利亚姆·佩恩去世两周年之际演唱了这首歌。"
+      "title_zh": "欧洲外交官在约旦河西岸遭到以色列定居者袭击",
+      "summary_zh": "以色列军方谴责暴力行为，但总理办公室表示这是“抹黑”活动的一部分。"
     },
     {
-      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+      "title": "Anti-government protesters battle with police in Albania",
       "link": "",
-      "summary": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
       "published": "",
-      "title_zh": "前国家安全顾问表示，英国必须防范俄罗斯的“混合攻击”",
-      "summary_zh": "里基茨勋爵表示，应该投入更多资金来提高能源、交通、空中交通管制和国防站点的恢复能力。"
+      "title_zh": "阿尔巴尼亚反政府抗议者与警察发生冲突",
+      "summary_zh": "周六，首都地拉那示威者与防暴警察之间发生暴力冲突。"
     },
     {
-      "title": "WATCH LIVE: Trump rallies Kentucky voters in final push ahead of midterms",
+      "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+      "link": "",
+      "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+      "published": "",
+      "title_zh": "切尔西球员马丁内斯被送往医院进行“预防性检查”",
+      "summary_zh": "周六，切尔西 2-0 战胜埃弗顿，守门员埃米利亚诺·马丁内斯被送往医院，这意味着他们九个月来首次不失球。"
+    },
+    {
+      "title": "President Trump teases plans for a $100,000,000 investment in key state: 'If the Republicans win'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：特朗普在中期选举前的最后冲刺中召集肯塔基州选民"
+      "title_zh": "特朗普总统调侃在关键州投资 1 亿美元的计划：“如果共和党获胜”"
     },
     {
-      "title": "Iran suffers major setback in bid to close key oil route as US military reveals staggering success rate",
+      "title": "WATCH LIVE: Border czar Tom Homan talks the DOJ raid on Ilhan Omar's home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美军透露惊人的成功率，伊朗关闭关键石油路线的努力遭受重大挫折"
+      "title_zh": "观看直播：边境沙皇汤姆·霍曼谈论司法部突袭伊尔汗·奥马尔家的情况"
     },
     {
-      "title": "Federal probe fallout grows for Ilhan Omar as top Republican calls for jail, deportation if fraud proven",
+      "title": "Man shot and killed inside New York City subway station in Midtown Manhattan: NYPD",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦调查对伊尔汗·奥马尔的影响越来越大，共和党高层呼吁，如果欺诈被证实，将被监禁、驱逐出境"
+      "title_zh": "纽约市曼哈顿中城地铁站内一名男子被枪杀：纽约警察局"
     },
     {
-      "title": "Violence erupts at France protests as Macron warns unrest is being exploited",
+      "title": "Both WNBA Finals squads leave court for 'Star-Spangled Banner' then rush back",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国抗议活动爆发暴力事件 马克龙警告骚乱被利用"
+      "title_zh": "两支 WNBA 总决赛球队在“星条旗永不落”中离开球场，然后又赶回来"
     },
     {
-      "title": "Leonardo DiCaprio's 'dad bod' draws attention to health danger millions of men face",
+      "title": "Unrest across Europe leaves destruction in its wake as violent rioters clash with police",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "莱昂纳多·迪卡普里奥的“爸爸身材”引起人们对数百万男性面临的健康危险的关注"
+      "title_zh": "Unrest across Europe leaves destruction in its wake as violent rioters clash with police"
     },
     {
-      "title": "New details emerge about hero dad who took down shooter at Oregon elementary school",
+      "title": "Cornell defense attorney calls accuser claims 'not true,' fights to oust Letitia James",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "New details emerge about hero dad who took down shooter at Oregon elementary school"
+      "title_zh": "康奈尔大学辩护律师称原告的说法“不真实”，并努力驱逐利蒂西亚·詹姆斯"
     },
     {
-      "title": "Americans are abandoning a beloved 1970s tradition — and experts reveal 5 reasons why",
+      "title": "Americans are abandoning a beloved 1970s tradition — and experts reveal the reasons why",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国人正在放弃深受喜爱的 20 世纪 70 年代传统——专家揭示了 5 个原因"
+      "title_zh": "美国人正在放弃深受喜爱的 20 世纪 70 年代传统——专家揭示了原因"
     },
     {
-      "title": "HVAC mogul may make history as wealthiest sitting member of US House",
+      "title": "Man fights for his life after tragic cliff jump into water at vacation hot spot",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "暖通空调大亨可能创造历史，成为美国众议院最富有的现任议员"
+      "title_zh": "一名男子在度假胜地悬崖跳入水中悲剧性地为自己的生命而战"
     },
     {
-      "title": "WATCH LIVE:Kansas GOP bus tour hits final leg in tight Senate battle",
+      "title": "Arch Manning suffers first home loss as Texas blows 14-point lead in stunning collapse",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：堪萨斯州共和党巴士之旅在激烈的参议院战斗中进入最后一站"
+      "title_zh": "阿奇·曼宁 (Arch Manning) 遭遇首场主场失利，德克萨斯州以 14 分领先优势惨败"
     },
     {
-      "title": "Minnesota Senate hopeful gives stern message to noncitizens accused of fraud",
+      "title": "GOP senator raises alarm as Social Security approaches financial danger",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "明尼苏达州参议院希望向被指控欺诈的非公民发出严厉信息"
+      "title_zh": "社会保障面临财务危险，共和党参议员发出警报"
     },
     {
-      "title": "3 men get 158 years in prison for killing American, 2 Australian surfers in Mexico",
+      "title": "NFL star set to return nearly a month after being carted off with injury",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "墨西哥三名男子杀害美国两名澳大利亚冲浪者被判158年监禁"
-    },
-    {
-      "title": "Israeli PM praises Trump's 'wicked sense of humor' most people never see",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "以色列总理称赞特朗普的“邪恶幽默感”是大多数人从未见过的"
-    },
-    {
-      "title": "7,000-year-old bones uncovered at construction site in startling find",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "7,000-year-old bones uncovered at construction site in startling find"
-    },
-    {
-      "title": "'Little House on the Prairie' stars detail nightmare conditions behind beloved show",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "《草原上的小房子》的明星们详细讲述了备受喜爱的节目背后的噩梦般的情况"
-    },
-    {
-      "title": "Pope Leo XIV discharged from hospital, will return to Vatican after surgery to remove lung cancer",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "教皇利奥十四世出院，肺癌切除手术后将返回梵蒂冈"
-    },
-    {
-      "title": "16-year-old sues district over Title IX claims tied to alleged privacy breach",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "16 岁少年因涉嫌侵犯隐私而对第九条索赔提起诉讼"
-    },
-    {
-      "title": "California officials who process ballots from suspected noncitizens risk prosecution, DOJ warns",
-      "link": "https://www.nbcnews.com/politics/2026-election/california-officials-process-ballots-suspected-noncitizens-risk-prosec-rcna603992",
-      "summary": "",
-      "published": "",
-      "title_zh": "司法部警告称，处理疑似非公民选票的加州官员面临被起诉的风险"
-    },
-    {
-      "title": "Some Medicare enrollees could pay hundreds of dollars more in premiums next year",
-      "link": "https://www.nbcnews.com/health/health-care/medicare-enrollees-pay-hundreds-dollars-premiums-year-rcna603895",
-      "summary": "",
-      "published": "",
-      "title_zh": "一些医疗保险参保者明年可能会多支付数百美元的保费"
+      "title_zh": "NFL 球星因伤离场近一个月后将复出"
     }
   ]
 }
