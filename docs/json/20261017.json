@@ -1,6 +1,6 @@
 {
   "date": "20261017",
-  "total": 22,
+  "total": 33,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,167 +37,245 @@
   },
   "entries": [
     {
-      "title": "Trump waives new Russia sanctions following deal to purchase diesel, citing ‘national interests’",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普以“国家利益”为由，在购买柴油协议后放弃对俄罗斯的新制裁"
-    },
-    {
-      "title": "Steve Kornacki Q&A: A key race to watch and what the data says about who might win the House",
-      "link": "https://www.nbcnews.com/video/steve-kornacki-answers-your-questions-ahead-of-the-midterms-271722053503",
-      "summary": "",
-      "published": "",
-      "title_zh": "史蒂夫·科尔纳基问答：一场值得关注的关键竞选以及数据说明谁可能赢得众议院"
-    },
-    {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "published": "",
-      "title_zh": "随着美国新法律生效，特朗普放弃了对俄罗斯的多项制裁",
-      "summary_zh": "特朗普表示，一项旨在惩罚莫斯科对乌克兰战争的新法律的部分内容违反了美国的国家利益。"
+      "title_zh": "随着与泽连斯基的争执加剧，特朗普放弃了多项俄罗斯制裁",
+      "summary_zh": "美国总统暂时终止了国会最近因“国家安全”担忧而通过的多项对莫斯科的限制。"
     },
     {
-      "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
       "link": "",
-      "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+      "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
       "published": "",
-      "title_zh": "费萨尔·伊斯兰：我从与世界顶级金融领袖一周的交流中学到了什么",
-      "summary_zh": "在本周于曼谷举行的国际货币基金组织会议上，金融和商界领袖们努力应对不确定性。"
+      "title_zh": "业余抢劫 100 年后，稀有粉红钻石在法国展出",
+      "summary_zh": "这颗法国皇室珠宝自 1926 年失窃后被发现藏在苹果中以来，将首次公开展示。"
     },
     {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "link": "",
-      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
       "published": "",
-      "title_zh": "三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而各被判入狱 158 年",
-      "summary_zh": "杰克·罗宾逊和卡勒姆·罗宾逊兄弟以及他们的朋友卡特·罗德在一次冲浪旅行中被杀，这显然是一场拙劣的抢劫。"
+      "title_zh": "俄勒冈州老师与学校袭击者战斗，武装父亲“多次”射杀嫌疑人",
+      "summary_zh": "警方称，这名 16 岁嫌疑人此前曾就读于这所小学，并针对特殊教育需求的教室进行了袭击。"
     },
     {
-      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
       "link": "",
-      "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
       "published": "",
-      "title_zh": "法官驳回对演员蒂莫西·布斯菲尔德的儿童性虐待指控",
-      "summary_zh": "该案法官周五表示，检察官“未能以公平、公正的方式行事”。"
+      "title_zh": "德国牛排馆女继承人受审引发巨大间谍丑闻",
+      "summary_zh": "15 个月来，汉堡一座戒备森严的法庭一直在审理克里斯蒂娜·布洛克 (Christina Block) 的案件，她被指控下令绑架自己的孩子。"
     },
     {
-      "title": "Why people who have never smoked are getting hooked on vaping",
+      "title": "Vapes were meant to help people quit cigarettes. Now a million non-smokers are vaping",
       "link": "",
       "summary": "More than one million people now vape who have never been smokers, according to the ONS.",
       "published": "",
-      "title_zh": "为什么从不吸烟的人却迷上了电子烟",
+      "title_zh": "电子烟的目的是帮助人们戒烟。现在有一百万不吸烟者正在吸电子烟",
       "summary_zh": "据英国国家统计局称，现在有超过一百万人从未吸烟过而吸电子烟。"
     },
     {
-      "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
       "link": "",
-      "summary": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
+      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
       "published": "",
-      "title_zh": "不确定万圣节穿什么？这些服装将成为今年最流行的",
-      "summary_zh": "怪异妮基 (Freaky Nikki)、多莉·帕顿 (Dolly Parton) 和石像鬼等异想天开的服装在今年的成年人装扮中很受欢迎。"
+      "title_zh": "一千个口号在这里回荡——但这可能是德里标志性抗议场所的终结",
+      "summary_zh": "简塔·曼塔天文台 (Jantar Mantar) 是一处建于 18 世纪的遗址，几乎是德里示威活动的代名词，现已被认定为抗议场所。"
     },
     {
-      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
       "link": "",
-      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+      "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
       "published": "",
-      "title_zh": "加拿大 30 只获救白鲸的未来充满不确定性",
-      "summary_zh": "加拿大最后 30 头圈养鲸鱼的国际救援行动成为头条新闻。然后其中五人死亡。"
+      "title_zh": "女演员塞尔玛·布莱尔表示，她在飞机争吵中“无意伤害任何人”",
+      "summary_zh": "这位女演员的公关人员表示，该事件源于“医疗紧急情况”，并表示她患有神经系统疾病，可能会导致失控的反应。"
     },
     {
-      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "title": "Evacuation orders as fast-moving California wildfire burns homes",
       "link": "",
-      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
       "published": "",
-      "title_zh": "特朗普否认限制乌克兰接入星链网络",
-      "summary_zh": "周二晚上，速度限制限制了乌克兰对俄罗斯致命袭击的防御能力。"
+      "title_zh": "快速蔓延的加州野火烧毁房屋，疏散令",
+      "summary_zh": "在圣安娜狂风的推动下，北部大火是全州 13 场燃烧的大火之一。"
     },
     {
-      "title": "Norwegian teen 'hitman' jailed over UK murder plot",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "link": "",
-      "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
       "published": "",
-      "title_zh": "挪威青少年“杀手”因英国谋杀阴谋被判入狱",
-      "summary_zh": "去年 3 月，19 岁的约翰内斯·纳特兰 (Johannes Natland) 前往西约克郡进行了一次“打击”。"
+      "title_zh": "意大利部长告诉BBC，特朗普限制对乌克兰的支持“完全错误”",
+      "summary_zh": "国防部长吉多·克罗塞托告诉英国广播公司，美国可能会延长俄罗斯的全面入侵，而不是帮助结束它。"
     },
     {
-      "title": "Katie Zacharia's 'brutal' exit from Trump admin leaves WH reporters shocked",
+      "title": "Champions Cup: Sale v Glasgow starts busy day of pool games",
+      "link": "",
+      "summary": "A busy day of eight Champions Cup pool matches begins with Sale Sharks hosting Glasgow Warriors.",
+      "published": "",
+      "title_zh": "冠军杯：塞尔对阵格拉斯哥的台球比赛开始了忙碌的一天",
+      "summary_zh": "忙碌的一天，八场冠军杯小组比赛从塞尔鲨鱼队主场迎战格拉斯哥勇士队开始。"
+    },
+    {
+      "title": "Hormuz ship attacks hit record high as Iran escalates strikes with little U.S. response",
+      "link": "https://www.nbcnews.com/world/iran/iran-strikes-strait-hormuz-shipping-trump-oil-prices-midterms-rcna603670",
+      "summary": "",
+      "published": "",
+      "title_zh": "霍尔木兹船只袭击事件创历史新高，伊朗升级打击，美国几乎没有回应"
+    },
+    {
+      "title": "Pope Leo to be discharged from the hospital after lung cancer surgery",
+      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-discharged-hospital-lung-cancer-surgery-rcna604005",
+      "summary": "",
+      "published": "",
+      "title_zh": "教皇利奥在肺癌手术后出院"
+    },
+    {
+      "title": "Texas Republicans start finger-pointing over potential losses as Election Day nears",
+      "link": "https://www.nbcnews.com/politics/2026-election/texas-republicans-finger-pointing-potential-election-losses-rcna603554",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着选举日的临近，德克萨斯州共和党人开始指责潜在的损失"
+    },
+    {
+      "title": "How data centers became a new front line in wars around the world",
+      "link": "https://www.nbcnews.com/tech/security/data-center-attacks-reveal-new-front-modern-warfare-rcna603002",
+      "summary": "",
+      "published": "",
+      "title_zh": "数据中心如何成为世界各地战争的新前线"
+    },
+    {
+      "title": "The pope goes under the knife, and a new dinosaur species is discovered: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/pope-leo-news-quiz-rcna603755",
+      "summary": "",
+      "published": "",
+      "title_zh": "教皇接受手术，发现了一种新的恐龙物种：新闻测验"
+    },
+    {
+      "title": "A millionaire is murdered. Then investigators look closer to home.",
+      "link": "https://www.nbcnews.com/dateline/video/the-betrayal-of-kirby-carpenter-271642181665",
+      "summary": "",
+      "published": "",
+      "title_zh": "一名百万富翁被谋杀。然后调查人员将目光转向离家更近的地方。"
+    },
+    {
+      "title": "Trans choruses offer refuge and community amid a wave of restrictive policies",
+      "link": "https://www.nbcnews.com/news/us-news/trans-choruses-are-offering-safe-havens-singers-rcna597239",
+      "summary": "",
+      "published": "",
+      "title_zh": "跨性别合唱团在一系列限制性政策中提供庇护和社区"
+    },
+    {
+      "title": "Invisible ink and ‘dead drops’: How AI is changing espionage",
+      "link": "https://www.nbcnews.com/politics/national-security/invisible-ink-dead-drops-ai-changing-espionage-rcna587371",
+      "summary": "",
+      "published": "",
+      "title_zh": "隐形墨水和“死滴”：人工智能如何改变间谍活动"
+    },
+    {
+      "title": "'No Kings' foot soldiers ignore organizers' warning, go all in for Democrats",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯蒂·扎卡里亚（Katie Zacharia）“残酷”退出特朗普政府让白宫记者感到震惊"
+      "title_zh": "'No Kings' foot soldiers ignore organizers' warning, go all in for Democrats"
     },
     {
-      "title": "Dem candidate apologizes for debate gaffe as $4,300 spending spree draws heat",
+      "title": "Judge tosses NY sanctuary suit, calls federal push a 'backdoor' on Constitution",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党候选人为辩论失误道歉，4,300美元的消费狂潮引起热议"
+      "title_zh": "法官驳回纽约庇护诉讼，称联邦推动宪法“后门”"
     },
     {
-      "title": "Kid Rock on what Bill Maher, Donald Trump and Stephen A Smith all agreed on",
+      "title": "Hero dad who took down school shooter identified along with teacher, student killed in attack",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Kid Rock 谈论比尔·马赫、唐纳德·特朗普和史蒂芬·A·史密斯都同意的内容"
+      "title_zh": "击毙学校枪击案凶手的英雄父亲与在袭击中丧生的老师和学生一起被确认"
     },
     {
-      "title": "Trump waives sweeping sanctions under law backed by Sen Lindsey Graham",
+      "title": "Obama Foundation CEO's hefty salary in focus as workers fight for union representation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普根据参议员林赛格雷厄姆支持的法律放弃全面制裁"
+      "title_zh": "工人们争取工会代表权，奥巴马基金会首席执行官的高薪成为焦点"
     },
     {
-      "title": "Trump takes aim at Dem senator's beauty routine with a confession of his own",
+      "title": "The dueling probes that threw the Somali-born progressive into chaos",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普用自己的坦白来攻击民主党参议员的美容习惯"
+      "title_zh": "使索马里出生的进步人士陷入混乱的决斗调查"
     },
     {
-      "title": "NCAA moves to block Ohio Governor Mike DeWine’s order expanding athlete eligibility",
+      "title": "Meet the Gen Z candidate looking to make history, inspire young people to vote red",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NCAA moves to block Ohio Governor Mike DeWine’s order expanding athlete eligibility"
+      "title_zh": "Meet the Gen Z candidate looking to make history, inspire young people to vote red"
     },
     {
-      "title": "Bedbugs found in plane's economy seats force major airline to cancel flight",
+      "title": "Tafoya targets Flanagan’s record as massive fraud hangs over crucial Senate race",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "飞机经济舱座位发现臭虫迫使各大航空公司取消航班"
+      "title_zh": "Tafoya targets Flanagan’s record as massive fraud hangs over crucial Senate race"
     },
     {
-      "title": "'GUTFELD!':The melting pot has turned into a junk drawer",
+      "title": "Iran makes fresh demand to reopen key oil route, threatens to ‘expel’ US from region",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“GUTFELD！”：熔炉变成了垃圾抽屉"
+      "title_zh": "伊朗提出重新开放主要石油路线的新要求，威胁要将美国“驱逐”出该地区"
     },
     {
-      "title": "Eagles set to sign QB from Cowboys' practice squad after Jalen Hurts blood clot",
+      "title": "Pope Leo XIV cleared to leave Gemelli Hospital following lung cancer operation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在杰伦受伤后，老鹰队准备从牛仔队的训练队签下四分卫"
+      "title_zh": "教皇利奥十四世在肺癌手术后获准离开杰梅利医院"
     },
     {
-      "title": "First postseason rainout in nearly four years scrambles the series schedule",
+      "title": "Woman thought husband was unfaithful — he was hiding something far darker",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "近四年来首次季后赛降雨打乱了系列赛日程"
+      "title_zh": "女人认为丈夫不忠——他隐藏着更黑暗的东西"
     },
     {
-      "title": "Forgotten American 'cure-all' from 1903 makes a comeback after Florida discovery",
+      "title": "Iowa AG candidate's D-Day post comparing paratroopers to Antifa resurfaces",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "1903 年被遗忘的美国“灵丹妙药”在佛罗里达发现后卷土重来"
+      "title_zh": "爱荷华州 AG 候选人在诺曼底登陆日发表的将伞兵与 Antifa 进行比较的帖子再次浮出水面"
+    },
+    {
+      "title": "SEAN HANNITY:This is a move taken straight out of the Biden playbook",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "肖恩·汉尼蒂：这是直接取自拜登剧本的举动"
+    },
+    {
+      "title": "Bison charges man's pickup truck in terrifying late-night Yellowstone encounter",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "野牛在黄石深夜遭遇可怕的遭遇，冲撞男子的皮卡车"
+    },
+    {
+      "title": "Violent California wildfires destroy homes, injure 2 firefighters as flames rage",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州猛烈山火烧毁房屋，两名消防员受伤"
+    },
+    {
+      "title": "ICE arrests 131 suspected gang members, including violent MS-13, TdA affiliates",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "ICE 逮捕了 131 名犯罪嫌疑人，其中包括暴力分子 MS-13、TdA 附属机构"
     }
   ]
 }
