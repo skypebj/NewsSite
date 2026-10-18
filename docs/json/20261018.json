@@ -1,6 +1,6 @@
 {
   "date": "20261018",
-  "total": 29,
+  "total": 31,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,215 +37,230 @@
   },
   "entries": [
     {
-      "title": "Is Iowa a battleground state again?",
-      "link": "https://podcasts.apple.com/us/podcast/election-edition-how-iowa-became-a-battleground-again/id1820996352?i=1000796807159",
-      "summary": "",
-      "published": "",
-      "title_zh": "爱荷华州再次成为战场州吗？"
-    },
-    {
-      "title": "Boy and man killed, 10 injured after woman drives through youth soccer game in Wichita, Kansas",
-      "link": "https://www.nbcnews.com/news/us-news/wichita-kansas-vehicle-drives-soccer-game-rcna604083",
-      "summary": "",
-      "published": "",
-      "title_zh": "堪萨斯州威奇托市一名女子开车穿过青少年足球比赛，男孩和男子死亡，10人受伤"
-    },
-    {
-      "title": "Val Chmerkovskiy gets one-week suspension on ‘Dancing with the Stars’",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/val-chmerkovskiy-gets-one-week-suspension-dancing-stars-rcna604087",
-      "summary": "",
-      "published": "",
-      "title_zh": "瓦尔·切默科夫斯基 (Val Chmerkovskiy) 因《与星共舞》而被禁赛一周"
-    },
-    {
-      "title": "People killed and injured in incident at military base in Alberta, Canadian defense minister says",
-      "link": "https://www.nbcnews.com/world/canada/people-killed-injured-incident-military-base-alberta-canadian-defense-rcna604103",
-      "summary": "",
-      "published": "",
-      "title_zh": "加拿大国防部长称，阿尔伯塔省军事基地事件造成人员伤亡"
-    },
-    {
-      "title": "How Victoria’s Secret CEO Hillary Super is reconnecting a storied brand with its customers",
-      "link": "https://www.nbcnews.com/business/ceo-interviews/victorias-secret-ceo-hillary-super-pink-show-rcna603209",
-      "summary": "",
-      "published": "",
-      "title_zh": "维多利亚的秘密 (Victoria's Secret) 首席执行官 Hillary Super 如何将这个传奇品牌与其顾客重新建立联系"
-    },
-    {
-      "title": "Golden State Valkyries take Game 1 of WNBA Finals over Atlanta Dream in defensive battle",
-      "link": "https://www.nbcsports.com/wnba/news/golden-state-valkyries-take-game-1-of-wnba-finals-over-atlanta-dream-in-heavily-anticipated-defensive-battle?cid=nbcnews",
-      "summary": "",
-      "published": "",
-      "title_zh": "金州武神队在 WNBA 总决赛第一场防守战中击败亚特兰大梦想队"
-    },
-    {
-      "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+      "title": "Parisians wake up to protest damage and looted shops",
       "link": "",
-      "summary": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
+      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
       "published": "",
-      "title_zh": "观看：历史悠久的法国市政厅尖顶在抗议活动中起火倒塌的那一刻",
-      "summary_zh": "法国南部城市利摩日一座历史悠久的市政厅在全国抗议活动中被纵火焚烧。"
+      "title_zh": "巴黎人醒来抗议商店遭到破坏和抢劫",
+      "summary_zh": "周六，在针对学校条件和生活成本的示威活动的最后一天，法国各地爆发了暴力事件。"
     },
     {
-      "title": "Three takeaways from Elon Musk's latest political donations",
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
       "link": "",
-      "summary": "New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.",
+      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
       "published": "",
-      "title_zh": "埃隆·马斯克最新政治捐款的三个要点",
-      "summary_zh": "新的文件显示，这位世界首富今年夏天再次试图帮助共和党赢得总统职位，他的大部分注意力都集中在一位候选人身上。"
+      "title_zh": "教皇利奥十四世在癌症手术后的首次活动中感谢祝福者",
+      "summary_zh": "自从肺癌诊断和手术以来，教皇的第一场活动是他在使徒宫的阳台上背诵传统的三钟经祈祷。"
     },
     {
-      "title": "Deadly fire breaks out at Canada military base",
+      "title": "Several dead or injured in major fire at Canada military base",
       "link": "",
-      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
       "published": "",
-      "title_zh": "加拿大军事基地发生致命火灾",
-      "summary_zh": "国防部长戴维·麦坚蒂表示，总理称这是一起“严重事件”，造成人员伤亡。"
+      "title_zh": "加拿大军事基地发生重大火灾，造成多人死亡或受伤",
+      "summary_zh": "官员们没有透露死因或死亡人数，称加拿大温赖特军事基地的局势“非常活跃和微妙”。"
     },
     {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
       "link": "",
-      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
       "published": "",
-      "title_zh": "照片显示，金正恩避暑胜地附近设有 50m 泳池和水滑梯的豪华游船",
-      "summary_zh": "卫星图像提供了金正恩如何度过假期的线索——这对大多数朝鲜人来说是遥不可及的。"
+      "title_zh": "自制合成毒品浪潮席卷美国并加深危机",
+      "summary_zh": "在该国与致命的新毒品流行作斗争之际，BBC 新闻听取了用户、毒贩、监狱和康复人员的意见。"
     },
     {
-      "title": "The playground murder: Trauma, loss and a love that endured",
+      "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
       "link": "",
-      "summary": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
       "published": "",
-      "title_zh": "游乐场谋杀案：创伤、失落和持久的爱",
-      "summary_zh": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy."
+      "title_zh": "观看：警方在芝加哥监狱追捕合成毒品",
+      "summary_zh": "在美国与致命的新毒品流行作斗争时，BBC 新闻听取了用户、毒贩、监狱和康复人员的意见。"
     },
     {
-      "title": "There's a crackdown on sports piracy - but is it already out of control?",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "link": "",
-      "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
       "published": "",
-      "title_zh": "体育盗版受到打击——但它是否已经失控？",
-      "summary_zh": "西奥·莱格特写道，狡猾的电视棒和非法流媒体链接正在破坏体育产业利润丰厚的商业模式。"
+      "title_zh": "圣彼得堡石油设施在夜间遭遇致命袭击",
+      "summary_zh": "袭击造成至少一人死亡，俄罗斯 Facebook 等公司使用的数据中心也遭到袭击。"
     },
     {
-      "title": "Manifest: From reality TV to Wembley Arena in one turbulent year",
+      "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
       "link": "",
-      "summary": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.",
+      "summary": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.",
       "published": "",
-      "title_zh": "清单：动荡的一年从真人秀到温布利体育场",
-      "summary_zh": "土耳其女子组合在为她们的首场英国演唱会做准备时，表现出了将她们的音乐带给全球观众的愿望。"
+      "title_zh": "让谋杀变得有趣：叛徒的配乐如何定下基调",
+      "summary_zh": "这不仅仅是背叛和邪恶——《叛徒》的配乐有助于奠定该剧的做作基调。"
     },
     {
-      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "title": "How to see the Orionid meteor shower",
       "link": "",
-      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "summary": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
       "published": "",
-      "title_zh": "At least 17 dead in crush at Hindu festival event in India",
-      "summary_zh": "在印度加尔各答市举行的庆祝印度教节日的活动中，还有更多人受伤。"
+      "title_zh": "如何观看猎户座流星雨",
+      "summary_zh": "最著名的流星雨之一将于本周达到顶峰，并将持续活跃到 11 月 7 日。"
     },
     {
-      "title": "Outgoing Macron vows 'prosecution and punishment' as historic building burned in France",
+      "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
+      "link": "",
+      "summary": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
+      "published": "",
+      "title_zh": "杜波依斯取得压倒性胜利后，重量级拳击的下一步是什么？",
+      "summary_zh": "世界冠军丹尼尔·杜布瓦 (Daniel Dubois) 战胜法比奥·沃德利 (Fabio Wardley) 后，重量级的下一步是什么？"
+    },
+    {
+      "title": "Liberal-city resident hesitates on beliefs: 'I hadn't really thought about socialism that way'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国历史建筑被烧毁，即将离任的马克龙誓言“起诉和惩罚”"
+      "title_zh": "自由城市居民对信仰犹豫不决：“我并没有真正这样想过社会主义”"
     },
     {
-      "title": "El-Sayed admits sister-in-law's reported terror watchlist history ahead of Obama visit",
+      "title": "MIKE DAVIS:Judge who signed Omar warrant blows up 'political hit' narrative",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃尔-赛义德承认在奥巴马访问之前，嫂子曾被列入恐怖分子观察名单"
+      "title_zh": "迈克·戴维斯：签署奥马尔逮捕令的法官炸毁了“政治打击”的说法"
     },
     {
-      "title": "Minnesota Senate race takes bizarre turn after dark family history uncovered",
+      "title": "Sports activist booed, berated at WNBA game over t-shirt",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "黑暗家族历史曝光后，明尼苏达州参议员竞选出现奇怪转变"
+      "title_zh": "体育活动家在 WNBA 比赛中穿 T 恤遭到嘘声和斥责"
     },
     {
-      "title": "Fox News examines $2.5B funding network linked to groups behind No Kings protests",
+      "title": "Vance faces tough questions on gas prices, corruption and immigration as midterms near",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "福克斯新闻调查与 No Kings 抗议活动背后的组织有关的 2.5B 美元资助网络"
+      "title_zh": "随着中期选举临近，万斯面临着天然气价格、腐败和移民等严峻问题"
     },
     {
-      "title": "Dad on lunch break grabbed his pistol and ended Oregon school shooting",
+      "title": "College football faces another clock controversy after BYU upsets Notre Dame",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "午休时，爸爸拿起手枪结束了俄勒冈州的校园枪击事件"
+      "title_zh": "杨百翰大学击败圣母大学后，大学橄榄球队面临另一场时钟争议"
     },
     {
-      "title": "Fallout grows for Ilhan Omar as top Republican calls for jail, deportation if fraud proven",
+      "title": "Macron vows 'prosecution and punishment' as historic building burned in France",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党高层呼吁，如果欺诈行为被证实，将被监禁、驱逐出境，伊尔汗·奥马尔的影响力越来越大"
+      "title_zh": "法国历史建筑被烧毁 马克龙誓言“起诉和惩罚”"
     },
     {
-      "title": "Kevin Pollak names his 'craziest' Hollywood co-star: 'Not even a competition'",
+      "title": "Trump’s Russia waiver triggers outrage as Republicans break ranks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯文·波拉克 (Kevin Pollak) 称他为“最疯狂”的好莱坞搭档：“甚至不是一场比赛”"
+      "title_zh": "特朗普对俄罗斯的豁免引发共和党分裂，引发愤怒"
     },
     {
-      "title": "Unranked Auburn stuns top-ranked Georgia with feat not seen in 36 years",
+      "title": "Nearly 12-foot gator kills Florida fisherman as other alligators block rescue",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Unranked Auburn stuns top-ranked Georgia with feat not seen in 36 years"
+      "title_zh": "近12英尺长的鳄鱼杀死佛罗里达渔民，其他鳄鱼阻止救援"
     },
     {
-      "title": "New protein ranking names unexpected winner over beef, salmon and eggs",
+      "title": "The crisis facing American boys might trace back to one essential problem",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "New protein ranking names unexpected winner over beef, salmon and eggs"
+      "title_zh": "美国男孩面临的危机可能可以追溯到一个基本问题"
     },
     {
-      "title": "Conor Kennedy, RFK Jr's son, celebrates wedding with Brazilian pop star in gorgeous setting",
+      "title": "Iran offers to reopen key oil route if US accepts its conditions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "小罗伯特·肯尼迪 (RFK Jr.) 的儿子康纳·肯尼迪 (Conor Kennedy) 在华丽的环境中庆祝与巴西流行歌星的婚礼"
+      "title_zh": "如果美国接受其条件，伊朗提出重新开放主要石油路线"
     },
     {
-      "title": "Vance defends immigration rhetoric after voter accuses him of 'scapegoating' immigrants",
+      "title": "Mamdani praised over move to dismantle controversial NYC industry — but insiders say there’s more to the story",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "选民指责万斯“把移民当作替罪羊”后，万斯为移民言论辩护"
+      "title_zh": "马姆达尼赞扬了拆除有争议的纽约行业的举措，但内部人士表示，事情还有更多内容"
     },
     {
-      "title": "Netanyahu warns Iran's 'ideological thugs' pose threat far beyond Israel",
+      "title": "Accused teen killer's own dashcam could prove murder of two girls mowed down: lawyer",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "内塔尼亚胡警告伊朗的“意识形态暴徒”构成的威胁远远超出以色列"
+      "title_zh": "被指控的青少年杀手自己的行车记录仪可以证明谋杀两名女孩被砍倒：律师"
     },
     {
-      "title": "Homes scorched, two firefighters injured from California wildfires",
+      "title": "Prehistoric burial site stuns archaeologists with remarkable discovery",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Homes scorched, two firefighters injured from California wildfires"
+      "title_zh": "史前墓地的非凡发现令考古学家震惊"
     },
     {
-      "title": "Miami survives Florida State comeback bid in double overtime to stay undefeated",
+      "title": "KFC announces end to decades-long partnership in favor of competitor",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈阿密在两个加时赛中击败佛罗里达州立大学，保持不败"
+      "title_zh": "肯德基宣布结束长达数十年的合作伙伴关系，转而支持竞争对手"
     },
     {
-      "title": "White House fires back after Joy Behar warns Trump is ‘not long for this world’",
+      "title": "Leo defies expectations with Vatican appearance days after cancer surgery",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "White House fires back after Joy Behar warns Trump is ‘not long for this world’"
+      "title_zh": "癌症手术后几天，狮子座出现在梵蒂冈，超出了人们的预期"
+    },
+    {
+      "title": "French MEP says she has 'broken a taboo' with Europe's landmark Brotherhood vote",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "法国欧洲议会议员表示，她在欧洲具有里程碑意义的兄弟会投票中“打破了禁忌”"
+    },
+    {
+      "title": "CEO SUNDAY:Nothing Bundt Cakes CEO shares the career advice that stuck with him",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "周日首席执行官：Nothing Bundt Cakes 首席执行官分享了他一直坚持的职业建议"
+    },
+    {
+      "title": "U.S. taking Putin’s side would be a ‘historic mistake,’ says Zelenskyy",
+      "link": "https://www.nbcnews.com/politics/trump-administration/us-taking-putins-side-historic-mistake-says-zelenskyy-rcna604111",
+      "summary": "",
+      "published": "",
+      "title_zh": "泽连斯基表示，美国站在普京一边将是一个“历史性错误”"
+    },
+    {
+      "title": "‘Astounded’: DOJ vets shocked by timing of Ilhan Omar search",
+      "link": "https://www.nbcnews.com/politics/justice-department/astounded-doj-vets-shocked-timing-ilhan-omar-search-rcna603736",
+      "summary": "",
+      "published": "",
+      "title_zh": "“震惊”：司法部兽医对伊尔汗·奥马尔的搜查时机感到震惊"
+    },
+    {
+      "title": "Pope Leo’s cancer surgery early in his papacy sends shockwaves through the Catholic Church",
+      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leos-cancer-surgery-early-papacy-sends-shockwaves-catholic-church-rcna603914",
+      "summary": "",
+      "published": "",
+      "title_zh": "利奥教皇上任初期的癌症手术震惊了天主教会"
+    },
+    {
+      "title": "This Super Bowl contender has an elite offense and defense — and one potentially fatal flaw",
+      "link": "https://www.nbcnews.com/sports/nfl/los-angeles-rams-super-bowl-special-teams-sean-mcvay-nfl-rcna603570",
+      "summary": "",
+      "published": "",
+      "title_zh": "这位超级碗竞争者拥有精英级的进攻和防守，但也有一个潜在的致命缺陷"
+    },
+    {
+      "title": "Role Model on his breakout success and finding his voice as a musician",
+      "link": "https://www.nbcnews.com/video/role-model-on-his-breakout-success-and-finding-his-voice-as-a-musician-271586373582",
+      "summary": "",
+      "published": "",
+      "title_zh": "他的突破性成功以及作为音乐家找到自己的声音的榜样"
     }
   ]
 }
