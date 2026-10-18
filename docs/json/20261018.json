@@ -1,6 +1,6 @@
 {
   "date": "20261018",
-  "total": 31,
+  "total": 25,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,230 +37,183 @@
   },
   "entries": [
     {
-      "title": "Parisians wake up to protest damage and looted shops",
-      "link": "",
-      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-      "published": "",
-      "title_zh": "巴黎人醒来抗议商店遭到破坏和抢劫",
-      "summary_zh": "周六，在针对学校条件和生活成本的示威活动的最后一天，法国各地爆发了暴力事件。"
-    },
-    {
-      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "link": "",
-      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-      "published": "",
-      "title_zh": "教皇利奥十四世在癌症手术后的首次活动中感谢祝福者",
-      "summary_zh": "自从肺癌诊断和手术以来，教皇的第一场活动是他在使徒宫的阳台上背诵传统的三钟经祈祷。"
-    },
-    {
-      "title": "Several dead or injured in major fire at Canada military base",
-      "link": "",
-      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "published": "",
-      "title_zh": "加拿大军事基地发生重大火灾，造成多人死亡或受伤",
-      "summary_zh": "官员们没有透露死因或死亡人数，称加拿大温赖特军事基地的局势“非常活跃和微妙”。"
-    },
-    {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "",
-      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "published": "",
-      "title_zh": "自制合成毒品浪潮席卷美国并加深危机",
-      "summary_zh": "在该国与致命的新毒品流行作斗争之际，BBC 新闻听取了用户、毒贩、监狱和康复人员的意见。"
-    },
-    {
-      "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-      "link": "",
-      "summary": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-      "published": "",
-      "title_zh": "观看：警方在芝加哥监狱追捕合成毒品",
-      "summary_zh": "在美国与致命的新毒品流行作斗争时，BBC 新闻听取了用户、毒贩、监狱和康复人员的意见。"
-    },
-    {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "published": "",
-      "title_zh": "圣彼得堡石油设施在夜间遭遇致命袭击",
-      "summary_zh": "袭击造成至少一人死亡，俄罗斯 Facebook 等公司使用的数据中心也遭到袭击。"
-    },
-    {
-      "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
-      "link": "",
-      "summary": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.",
-      "published": "",
-      "title_zh": "让谋杀变得有趣：叛徒的配乐如何定下基调",
-      "summary_zh": "这不仅仅是背叛和邪恶——《叛徒》的配乐有助于奠定该剧的做作基调。"
-    },
-    {
-      "title": "How to see the Orionid meteor shower",
-      "link": "",
-      "summary": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
-      "published": "",
-      "title_zh": "如何观看猎户座流星雨",
-      "summary_zh": "最著名的流星雨之一将于本周达到顶峰，并将持续活跃到 11 月 7 日。"
-    },
-    {
-      "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-      "link": "",
-      "summary": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
-      "published": "",
-      "title_zh": "杜波依斯取得压倒性胜利后，重量级拳击的下一步是什么？",
-      "summary_zh": "世界冠军丹尼尔·杜布瓦 (Daniel Dubois) 战胜法比奥·沃德利 (Fabio Wardley) 后，重量级的下一步是什么？"
-    },
-    {
-      "title": "Liberal-city resident hesitates on beliefs: 'I hadn't really thought about socialism that way'",
+      "title": "Prime Minister Meloni blasts ‘gangs of thugs’ after violent protests rock Italy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "自由城市居民对信仰犹豫不决：“我并没有真正这样想过社会主义”"
+      "title_zh": "暴力抗议震撼意大利后，总理梅洛尼痛斥“暴徒团伙”"
     },
     {
-      "title": "MIKE DAVIS:Judge who signed Omar warrant blows up 'political hit' narrative",
+      "title": "Mamdani's move to crush historic industry could have ripple effect for generations",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克·戴维斯：签署奥马尔逮捕令的法官炸毁了“政治打击”的说法"
+      "title_zh": "马姆达尼镇压历史悠久工业的举动可能会对几代人产生连锁反应"
     },
     {
-      "title": "Sports activist booed, berated at WNBA game over t-shirt",
+      "title": "Former president supports 'Squad' member in lengthy post against Trump admin probe",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "体育活动家在 WNBA 比赛中穿 T 恤遭到嘘声和斥责"
+      "title_zh": "前总统支持“小队”成员反对特朗普行政调查的长文"
     },
     {
-      "title": "Vance faces tough questions on gas prices, corruption and immigration as midterms near",
+      "title": "Who will hold the Senate majority after Election Day? Here's where the battle stands",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着中期选举临近，万斯面临着天然气价格、腐败和移民等严峻问题"
+      "title_zh": "选举日后谁将占据参议院多数席位？这就是战斗所在"
     },
     {
-      "title": "College football faces another clock controversy after BYU upsets Notre Dame",
+      "title": "French president faces backlash for attending pop icon's concert as riots escalate",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杨百翰大学击败圣母大学后，大学橄榄球队面临另一场时钟争议"
+      "title_zh": "随着骚乱升级，法国总统因参加流行偶像的音乐会而面临强烈反对"
     },
     {
-      "title": "Macron vows 'prosecution and punishment' as historic building burned in France",
+      "title": "'80s rocker feared he might not survive much longer as cancer threatened to take his tongue",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国历史建筑被烧毁 马克龙誓言“起诉和惩罚”"
+      "title_zh": "80 年代摇滚歌手担心自己可能活不了多久，因为癌症威胁要夺走他的舌头"
     },
     {
-      "title": "Trump’s Russia waiver triggers outrage as Republicans break ranks",
+      "title": "Pastors issue warning over California's new 'anti-hate speech' training law",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普对俄罗斯的豁免引发共和党分裂，引发愤怒"
+      "title_zh": "牧师对加州新的“反仇恨言论”培训法发出警告"
     },
     {
-      "title": "Nearly 12-foot gator kills Florida fisherman as other alligators block rescue",
+      "title": "Trump warns Israel against picking a leader other than Netanyahu in election",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "近12英尺长的鳄鱼杀死佛罗里达渔民，其他鳄鱼阻止救援"
+      "title_zh": "特朗普警告以色列不要在选举中选择内塔尼亚胡以外的领导人"
     },
     {
-      "title": "The crisis facing American boys might trace back to one essential problem",
+      "title": "Canadian PM confirms 4 service members killed, dozens wounded in devastating base fire",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国男孩面临的危机可能可以追溯到一个基本问题"
+      "title_zh": "加拿大总理证实基地火灾造成 4 名军人死亡、数十人受伤"
     },
     {
-      "title": "Iran offers to reopen key oil route if US accepts its conditions",
+      "title": "Carrie Ann Inaba critique sparks first-ever pro dancer axing in 'DWTS' history",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "如果美国接受其条件，伊朗提出重新开放主要石油路线"
+      "title_zh": "Carrie Ann Inaba 的批评引发“DWTS”历史上第一位职业舞者被解雇"
     },
     {
-      "title": "Mamdani praised over move to dismantle controversial NYC industry — but insiders say there’s more to the story",
+      "title": "Slotkin admits she wants prosecution threat to scare off Trump admin job seekers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "马姆达尼赞扬了拆除有争议的纽约行业的举措，但内部人士表示，事情还有更多内容"
+      "title_zh": "斯洛特金承认她希望起诉威胁吓跑特朗普政府的求职者"
     },
     {
-      "title": "Accused teen killer's own dashcam could prove murder of two girls mowed down: lawyer",
+      "title": "Reporter recounts interview with Katie Zacharia just moments before her ouster",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被指控的青少年杀手自己的行车记录仪可以证明谋杀两名女孩被砍倒：律师"
+      "title_zh": "记者讲述了凯蒂·扎卡里亚 (Katie Zacharia) 下台前不久对她的采访"
     },
     {
-      "title": "Prehistoric burial site stuns archaeologists with remarkable discovery",
+      "title": "Tim Walz says he takes responsibility for Minnesota fraud by not running for re-election",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "史前墓地的非凡发现令考古学家震惊"
+      "title_zh": "蒂姆·沃尔兹表示，他因不竞选连任而对明尼苏达州的欺诈行为承担责任"
     },
     {
-      "title": "KFC announces end to decades-long partnership in favor of competitor",
+      "title": "Nearly 800,000 travelers just voted to name the best cruise lines of 2026",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肯德基宣布结束长达数十年的合作伙伴关系，转而支持竞争对手"
+      "title_zh": "近 80 万名旅客刚刚投票选出 2026 年最佳邮轮公司"
     },
     {
-      "title": "Leo defies expectations with Vatican appearance days after cancer surgery",
+      "title": "Courteney Cox, 62, shows off fit figure in black bikini during Hawaii beach getaway",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "癌症手术后几天，狮子座出现在梵蒂冈，超出了人们的预期"
+      "title_zh": "62 岁的柯特妮·考克斯 (Courteney Cox) 在夏威夷海滩度假期间穿着黑色比基尼展示健美身材"
     },
     {
-      "title": "French MEP says she has 'broken a taboo' with Europe's landmark Brotherhood vote",
+      "title": "LeBron James' wife declines to upgrade best friend's flight, kicking off hot debate",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国欧洲议会议员表示，她在欧洲具有里程碑意义的兄弟会投票中“打破了禁忌”"
+      "title_zh": "勒布朗·詹姆斯妻子拒绝为好友升级航班引发热议"
     },
     {
-      "title": "CEO SUNDAY:Nothing Bundt Cakes CEO shares the career advice that stuck with him",
+      "title": "Country star says LA priced her out of the childhood she wanted for her kids",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "周日首席执行官：Nothing Bundt Cakes 首席执行官分享了他一直坚持的职业建议"
+      "title_zh": "乡村明星说洛杉矶让她无法享受她想要的孩子们的童年"
     },
     {
-      "title": "U.S. taking Putin’s side would be a ‘historic mistake,’ says Zelenskyy",
-      "link": "https://www.nbcnews.com/politics/trump-administration/us-taking-putins-side-historic-mistake-says-zelenskyy-rcna604111",
-      "summary": "",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "link": "",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
       "published": "",
-      "title_zh": "泽连斯基表示，美国站在普京一边将是一个“历史性错误”"
+      "title_zh": "到目前为止我们对加拿大军事基地致命火灾的了解",
+      "summary_zh": "大火席卷基地后，已确认至少四人死亡。"
     },
     {
-      "title": "‘Astounded’: DOJ vets shocked by timing of Ilhan Omar search",
-      "link": "https://www.nbcnews.com/politics/justice-department/astounded-doj-vets-shocked-timing-ilhan-omar-search-rcna603736",
-      "summary": "",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "link": "",
+      "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
       "published": "",
-      "title_zh": "“震惊”：司法部兽医对伊尔汗·奥马尔的搜查时机感到震惊"
+      "title_zh": "暴风雨天气后继续搜寻阿米莉亚·埃尔哈特的飞机",
+      "summary_zh": "一次前往太平洋偏远岛屿寻找美国飞行员残骸的探险活动被搁置了三天。"
     },
     {
-      "title": "Pope Leo’s cancer surgery early in his papacy sends shockwaves through the Catholic Church",
-      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leos-cancer-surgery-early-papacy-sends-shockwaves-catholic-church-rcna603914",
-      "summary": "",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "link": "",
+      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "published": "",
-      "title_zh": "利奥教皇上任初期的癌症手术震惊了天主教会"
+      "title_zh": "抗议演变成骚乱和抢劫后，巴黎街道上的汽车被烧毁，玻璃被打碎",
+      "summary_zh": "全国抗议活动爆发暴力和破坏行为后，约 1,800 人被捕。"
     },
     {
-      "title": "This Super Bowl contender has an elite offense and defense — and one potentially fatal flaw",
-      "link": "https://www.nbcnews.com/sports/nfl/los-angeles-rams-super-bowl-special-teams-sean-mcvay-nfl-rcna603570",
-      "summary": "",
+      "title": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
+      "link": "",
+      "summary": "Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated.",
       "published": "",
-      "title_zh": "这位超级碗竞争者拥有精英级的进攻和防守，但也有一个潜在的致命缺陷"
+      "title_zh": "马杜克出击迟到，但谁错过了他的绝佳机会？- 森林队对阿森纳队的评分",
+      "summary_zh": "诺尼·马杜克 (Noni Madueke) 迟到时的进球帮助阿森纳在诺丁汉森林取得了胜利。以下是玩家的评分。"
     },
     {
-      "title": "Role Model on his breakout success and finding his voice as a musician",
-      "link": "https://www.nbcnews.com/video/role-model-on-his-breakout-success-and-finding-his-voice-as-a-musician-271586373582",
+      "title": "Americans are anxious, pessimistic and deeply unhappy with Trump ahead of the midterms",
+      "link": "https://www.nbcnews.com/politics/2026-election/poll-americans-anxious-pessimistic-deeply-unhappy-trump-ahead-midterms-rcna603064",
       "summary": "",
       "published": "",
-      "title_zh": "他的突破性成功以及作为音乐家找到自己的声音的榜样"
+      "title_zh": "中期选举前，美国人感到焦虑、悲观并对特朗普深感不满"
+    },
+    {
+      "title": "One poll, multiple outcomes: Why election surveys come with an extra layer of uncertainty",
+      "link": "https://www.nbcnews.com/politics/2026-election/one-poll-multiple-outcomes-election-surveys-come-extra-layer-uncertain-rcna603720",
+      "summary": "",
+      "published": "",
+      "title_zh": "一项民意调查，多种结果：为什么选举调查会带来额外的不确定性"
+    },
+    {
+      "title": "Trump announces plans to renovate D.C. golf course amid legal battle",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-announces-plans-renovate-dc-golf-course-legal-battle-rcna604147",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在法律诉讼中宣布计划翻新华盛顿高尔夫球场"
+    },
+    {
+      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+      "link": "https://www.nbcnews.com/world/europe/french-police-arrest-1800-violent-clashes-looting-mar-protests-rcna604118",
+      "summary": "",
+      "published": "",
+      "title_zh": "法国警方在抗议活动中发生暴力冲突和抢劫后逮捕了 1,800 人"
     }
   ]
 }
