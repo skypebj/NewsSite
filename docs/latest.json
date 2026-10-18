@@ -1,6 +1,6 @@
 {
-  "date": "20261017",
-  "total": 21,
+  "date": "20261018",
+  "total": 29,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -38,154 +38,214 @@
   "entries": [
     {
       "title": "Is Iowa a battleground state again?",
-      "link": "https://www.nbcnews.com/video/is-iowa-a-battleground-again-271654981932",
+      "link": "https://podcasts.apple.com/us/podcast/election-edition-how-iowa-became-a-battleground-again/id1820996352?i=1000796807159",
       "summary": "",
       "published": "",
       "title_zh": "爱荷华州再次成为战场州吗？"
     },
     {
-      "title": "‘The house was toast’: Surf swallows California homes",
-      "link": "https://www.nbcnews.com/news/us-news/beachfront-homes-destroyed-california-coastal-erosion-el-nino-bring-hi-rcna603211",
+      "title": "Boy and man killed, 10 injured after woman drives through youth soccer game in Wichita, Kansas",
+      "link": "https://www.nbcnews.com/news/us-news/wichita-kansas-vehicle-drives-soccer-game-rcna604083",
       "summary": "",
       "published": "",
-      "title_zh": "“房子被毁了”：冲浪吞噬了加州的房屋"
+      "title_zh": "堪萨斯州威奇托市一名女子开车穿过青少年足球比赛，男孩和男子死亡，10人受伤"
     },
     {
-      "title": "Man fatally shot during dispute at Midtown Manhattan subway station, police say",
-      "link": "https://www.nbcnews.com/news/us-news/man-fatally-shot-dispute-midtown-manhattan-subway-station-police-say-rcna604061",
+      "title": "Val Chmerkovskiy gets one-week suspension on ‘Dancing with the Stars’",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/val-chmerkovskiy-gets-one-week-suspension-dancing-stars-rcna604087",
       "summary": "",
       "published": "",
-      "title_zh": "警方称，曼哈顿中城地铁站发生争执，男子被枪杀"
+      "title_zh": "瓦尔·切默科夫斯基 (Val Chmerkovskiy) 因《与星共舞》而被禁赛一周"
     },
     {
-      "title": "Troubled waters",
-      "link": "https://www.nbcnews.com/politics/2026-election/access-water-emerges-key-issue-races-governor-rcna603481",
+      "title": "People killed and injured in incident at military base in Alberta, Canadian defense minister says",
+      "link": "https://www.nbcnews.com/world/canada/people-killed-injured-incident-military-base-alberta-canadian-defense-rcna604103",
       "summary": "",
       "published": "",
-      "title_zh": "浑水摸鱼"
+      "title_zh": "加拿大国防部长称，阿尔伯塔省军事基地事件造成人员伤亡"
     },
     {
-      "title": "FOR SUBSCRIBERSTrump says Susie Wiles will remain in her role at the White House ‘until the end’",
-      "link": "https://www.nbcnews.com/politics/white-house/trump-susie-wiles-will-remain-role-white-house-chief-of-staff-rcna604040",
+      "title": "How Victoria’s Secret CEO Hillary Super is reconnecting a storied brand with its customers",
+      "link": "https://www.nbcnews.com/business/ceo-interviews/victorias-secret-ceo-hillary-super-pink-show-rcna603209",
       "summary": "",
       "published": "",
-      "title_zh": "对于订阅者特朗普表示苏西威尔斯将继续留在白宫“直到最后”"
+      "title_zh": "维多利亚的秘密 (Victoria's Secret) 首席执行官 Hillary Super 如何将这个传奇品牌与其顾客重新建立联系"
     },
     {
-      "title": "FOR SUBSCRIBERSFederal regulators investigate Tesla crash that injured two officers after driver fell asleep, authorities say",
-      "link": "https://www.nbcnews.com/tech/tech-news/tesla-crash-california-federal-regulators-investigate-rcna604001",
+      "title": "Golden State Valkyries take Game 1 of WNBA Finals over Atlanta Dream in defensive battle",
+      "link": "https://www.nbcsports.com/wnba/news/golden-state-valkyries-take-game-1-of-wnba-finals-over-atlanta-dream-in-heavily-anticipated-defensive-battle?cid=nbcnews",
       "summary": "",
       "published": "",
-      "title_zh": "当局称，联邦监管机构正在调查特斯拉撞车事故，两名警察因司机睡着而受伤"
+      "title_zh": "金州武神队在 WNBA 总决赛第一场防守战中击败亚特兰大梦想队"
     },
     {
-      "title": "How day of protests unfolded as disorder breaks out across France",
+      "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
       "link": "",
-      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "summary": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
       "published": "",
-      "title_zh": "法国各地爆发骚乱，抗议活动如何展开",
-      "summary_zh": "全国各地的示威活动变得暴力，汽车和建筑物被纵火，商店被洗劫。"
+      "title_zh": "观看：历史悠久的法国市政厅尖顶在抗议活动中起火倒塌的那一刻",
+      "summary_zh": "法国南部城市利摩日一座历史悠久的市政厅在全国抗议活动中被纵火焚烧。"
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "title": "Three takeaways from Elon Musk's latest political donations",
       "link": "",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "summary": "New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.",
       "published": "",
-      "title_zh": "欧洲外交官在约旦河西岸遭到以色列定居者袭击",
-      "summary_zh": "以色列军方谴责暴力行为，但总理办公室表示这是“抹黑”活动的一部分。"
+      "title_zh": "埃隆·马斯克最新政治捐款的三个要点",
+      "summary_zh": "新的文件显示，这位世界首富今年夏天再次试图帮助共和党赢得总统职位，他的大部分注意力都集中在一位候选人身上。"
     },
     {
-      "title": "Anti-government protesters battle with police in Albania",
+      "title": "Deadly fire breaks out at Canada military base",
       "link": "",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
       "published": "",
-      "title_zh": "阿尔巴尼亚反政府抗议者与警察发生冲突",
-      "summary_zh": "周六，首都地拉那示威者与防暴警察之间发生暴力冲突。"
+      "title_zh": "加拿大军事基地发生致命火灾",
+      "summary_zh": "国防部长戴维·麦坚蒂表示，总理称这是一起“严重事件”，造成人员伤亡。"
     },
     {
-      "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
       "link": "",
-      "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
       "published": "",
-      "title_zh": "切尔西球员马丁内斯被送往医院进行“预防性检查”",
-      "summary_zh": "周六，切尔西 2-0 战胜埃弗顿，守门员埃米利亚诺·马丁内斯被送往医院，这意味着他们九个月来首次不失球。"
+      "title_zh": "照片显示，金正恩避暑胜地附近设有 50m 泳池和水滑梯的豪华游船",
+      "summary_zh": "卫星图像提供了金正恩如何度过假期的线索——这对大多数朝鲜人来说是遥不可及的。"
     },
     {
-      "title": "President Trump teases plans for a $100,000,000 investment in key state: 'If the Republicans win'",
+      "title": "The playground murder: Trauma, loss and a love that endured",
       "link": "",
-      "summary": "",
+      "summary": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
       "published": "",
-      "title_zh": "特朗普总统调侃在关键州投资 1 亿美元的计划：“如果共和党获胜”"
+      "title_zh": "游乐场谋杀案：创伤、失落和持久的爱",
+      "summary_zh": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy."
     },
     {
-      "title": "WATCH LIVE: Border czar Tom Homan talks the DOJ raid on Ilhan Omar's home",
+      "title": "There's a crackdown on sports piracy - but is it already out of control?",
       "link": "",
-      "summary": "",
+      "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
       "published": "",
-      "title_zh": "观看直播：边境沙皇汤姆·霍曼谈论司法部突袭伊尔汗·奥马尔家的情况"
+      "title_zh": "体育盗版受到打击——但它是否已经失控？",
+      "summary_zh": "西奥·莱格特写道，狡猾的电视棒和非法流媒体链接正在破坏体育产业利润丰厚的商业模式。"
     },
     {
-      "title": "Man shot and killed inside New York City subway station in Midtown Manhattan: NYPD",
+      "title": "Manifest: From reality TV to Wembley Arena in one turbulent year",
       "link": "",
-      "summary": "",
+      "summary": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.",
       "published": "",
-      "title_zh": "纽约市曼哈顿中城地铁站内一名男子被枪杀：纽约警察局"
+      "title_zh": "清单：动荡的一年从真人秀到温布利体育场",
+      "summary_zh": "土耳其女子组合在为她们的首场英国演唱会做准备时，表现出了将她们的音乐带给全球观众的愿望。"
     },
     {
-      "title": "Both WNBA Finals squads leave court for 'Star-Spangled Banner' then rush back",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
       "link": "",
-      "summary": "",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
       "published": "",
-      "title_zh": "两支 WNBA 总决赛球队在“星条旗永不落”中离开球场，然后又赶回来"
+      "title_zh": "At least 17 dead in crush at Hindu festival event in India",
+      "summary_zh": "在印度加尔各答市举行的庆祝印度教节日的活动中，还有更多人受伤。"
     },
     {
-      "title": "Unrest across Europe leaves destruction in its wake as violent rioters clash with police",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Unrest across Europe leaves destruction in its wake as violent rioters clash with police"
-    },
-    {
-      "title": "Cornell defense attorney calls accuser claims 'not true,' fights to oust Letitia James",
+      "title": "Outgoing Macron vows 'prosecution and punishment' as historic building burned in France",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "康奈尔大学辩护律师称原告的说法“不真实”，并努力驱逐利蒂西亚·詹姆斯"
+      "title_zh": "法国历史建筑被烧毁，即将离任的马克龙誓言“起诉和惩罚”"
     },
     {
-      "title": "Americans are abandoning a beloved 1970s tradition — and experts reveal the reasons why",
+      "title": "El-Sayed admits sister-in-law's reported terror watchlist history ahead of Obama visit",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国人正在放弃深受喜爱的 20 世纪 70 年代传统——专家揭示了原因"
+      "title_zh": "埃尔-赛义德承认在奥巴马访问之前，嫂子曾被列入恐怖分子观察名单"
     },
     {
-      "title": "Man fights for his life after tragic cliff jump into water at vacation hot spot",
+      "title": "Minnesota Senate race takes bizarre turn after dark family history uncovered",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一名男子在度假胜地悬崖跳入水中悲剧性地为自己的生命而战"
+      "title_zh": "黑暗家族历史曝光后，明尼苏达州参议员竞选出现奇怪转变"
     },
     {
-      "title": "Arch Manning suffers first home loss as Texas blows 14-point lead in stunning collapse",
+      "title": "Fox News examines $2.5B funding network linked to groups behind No Kings protests",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿奇·曼宁 (Arch Manning) 遭遇首场主场失利，德克萨斯州以 14 分领先优势惨败"
+      "title_zh": "福克斯新闻调查与 No Kings 抗议活动背后的组织有关的 2.5B 美元资助网络"
     },
     {
-      "title": "GOP senator raises alarm as Social Security approaches financial danger",
+      "title": "Dad on lunch break grabbed his pistol and ended Oregon school shooting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "社会保障面临财务危险，共和党参议员发出警报"
+      "title_zh": "午休时，爸爸拿起手枪结束了俄勒冈州的校园枪击事件"
     },
     {
-      "title": "NFL star set to return nearly a month after being carted off with injury",
+      "title": "Fallout grows for Ilhan Omar as top Republican calls for jail, deportation if fraud proven",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 球星因伤离场近一个月后将复出"
+      "title_zh": "共和党高层呼吁，如果欺诈行为被证实，将被监禁、驱逐出境，伊尔汗·奥马尔的影响力越来越大"
+    },
+    {
+      "title": "Kevin Pollak names his 'craziest' Hollywood co-star: 'Not even a competition'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯文·波拉克 (Kevin Pollak) 称他为“最疯狂”的好莱坞搭档：“甚至不是一场比赛”"
+    },
+    {
+      "title": "Unranked Auburn stuns top-ranked Georgia with feat not seen in 36 years",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Unranked Auburn stuns top-ranked Georgia with feat not seen in 36 years"
+    },
+    {
+      "title": "New protein ranking names unexpected winner over beef, salmon and eggs",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "New protein ranking names unexpected winner over beef, salmon and eggs"
+    },
+    {
+      "title": "Conor Kennedy, RFK Jr's son, celebrates wedding with Brazilian pop star in gorgeous setting",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "小罗伯特·肯尼迪 (RFK Jr.) 的儿子康纳·肯尼迪 (Conor Kennedy) 在华丽的环境中庆祝与巴西流行歌星的婚礼"
+    },
+    {
+      "title": "Vance defends immigration rhetoric after voter accuses him of 'scapegoating' immigrants",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "选民指责万斯“把移民当作替罪羊”后，万斯为移民言论辩护"
+    },
+    {
+      "title": "Netanyahu warns Iran's 'ideological thugs' pose threat far beyond Israel",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "内塔尼亚胡警告伊朗的“意识形态暴徒”构成的威胁远远超出以色列"
+    },
+    {
+      "title": "Homes scorched, two firefighters injured from California wildfires",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Homes scorched, two firefighters injured from California wildfires"
+    },
+    {
+      "title": "Miami survives Florida State comeback bid in double overtime to stay undefeated",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈阿密在两个加时赛中击败佛罗里达州立大学，保持不败"
+    },
+    {
+      "title": "White House fires back after Joy Behar warns Trump is ‘not long for this world’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "White House fires back after Joy Behar warns Trump is ‘not long for this world’"
     }
   ]
 }
