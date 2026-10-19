@@ -1,6 +1,6 @@
 {
   "date": "20261019",
-  "total": 45,
+  "total": 29,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,335 +37,217 @@
   },
   "entries": [
     {
-      "title": "Trump demands France shut down its borders as masked rioters burn landmarks, loot businesses",
+      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+      "link": "",
+      "summary": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
+      "published": "",
+      "title_zh": "出生在监狱里，母亲患有海洛因成瘾——美国青少年艾比如何受到毒品的影响",
+      "summary_zh": "英国广播公司 (BBC) 的昆汀·萨默维尔 (Quentin Sommerville) 采访了一名前海洛因成瘾者的女儿，讲述了毒品对她家人的影响。"
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "link": "",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "published": "",
+      "title_zh": "泽连斯基顾问告诉 BBC，乌克兰人因美国限制情报共享而死亡",
+      "summary_zh": "谢尔希·贝斯克雷斯诺夫 (Serhii Beskrestnov) 表示，没有足够的时间来警告人们即将到来的导弹袭击。白宫表示情报共享没有变化。"
+    },
+    {
+      "title": "Millions cast early ballots in Alberta referendum as separation vote under way",
+      "link": "",
+      "summary": "Today's vote will determine the future of the province's independence movement and stands as a major test of Canada's unity.",
+      "published": "",
+      "title_zh": "随着分离投票正在进行，数百万人在艾伯塔省公投中提前投票",
+      "summary_zh": "今天的投票将决定该省独立运动的未来，也是对加拿大团结的重大考验。"
+    },
+    {
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "link": "",
+      "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "published": "",
+      "title_zh": "在国会议员被车撞之前，针对澳大利亚政客的威胁的警告信号不断增加",
+      "summary_zh": "对议员海伦·海恩斯的明显攻击表明政客和公众人物最担心的事情似乎已经成为现实。"
+    },
+    {
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "link": "",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "published": "",
+      "title_zh": "火星任务发射，夺取其卫星的一部分",
+      "summary_zh": "一艘航天器即将发射，执行一项雄心勃勃的任务，将 10 克火星月球尘埃带回地球。"
+    },
+    {
+      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "link": "",
+      "summary": "Would Alberta be richer if it were to become an independent country? What's at stake financially has become a big part of the separatism debate.",
+      "published": "",
+      "title_zh": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "summary_zh": "如果艾伯塔省成为一个独立国家，它会变得更富有吗？经济上的利害关系已成为分离主义辩论的重要组成部分。"
+    },
+    {
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "link": "",
+      "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "published": "",
+      "title_zh": "Vinted 阻止法国抢劫者列出出售赃物",
+      "summary_zh": "该平台表示，自周末以来，它已“立即采取行动，识别并删除与抢劫有关的列表”。"
+    },
+    {
+      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "link": "",
+      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "published": "",
+      "title_zh": "女子称在拉塞尔·布兰德涉嫌强奸期间她“闭上眼睛并试图不去现场”",
+      "summary_zh": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault."
+    },
+    {
+      "title": "You Can See Everything documentary seen by many on huge box office debut",
+      "link": "",
+      "summary": "Fraudster Elizabeth Holmes invites a sceptical Nathan Fielder into her home before she's sent to prison.",
+      "published": "",
+      "title_zh": "《你可以看到一切》纪录片首映票房大获好评",
+      "summary_zh": "诈骗犯伊丽莎白·霍姆斯在入狱前邀请持怀疑态度的内森·菲尔德到她家。"
+    },
+    {
+      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+      "link": "",
+      "summary": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
+      "published": "",
+      "title_zh": "以色列警方因定居者在约旦河西岸袭击记者和外交官而逮捕了 10 人",
+      "summary_zh": "此前，蒙面定居者袭击了在橄榄收获季节访问约旦河西岸的巴勒斯坦人和欧洲官员。"
+    },
+    {
+      "title": "Trump and Republicans battle to protect the midterms’ most surprising battleground",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-republicans-battle-protect-midterms-surprising-battleground-rcna603635",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普和共和党争夺中期选举最令人惊讶的战场"
+    },
+    {
+      "title": "Maine’s blue-collar bellwether weighs ousting Susan Collins",
+      "link": "https://www.nbcnews.com/politics/2026-election/blue-collar-bellwether-weighs-ousting-longtime-gop-sen-susan-collins-m-rcna598591",
+      "summary": "",
+      "published": "",
+      "title_zh": "缅因州的蓝领领头羊考虑罢免苏珊·柯林斯"
+    },
+    {
+      "title": "Dramatic images show violent unrest sweeping across France",
+      "link": "https://www.nbcnews.com/world/france/france-unrest-photos-looting-violence-macron-rcna604299",
+      "summary": "",
+      "published": "",
+      "title_zh": "戏剧性的图像显示暴力骚乱席卷法国"
+    },
+    {
+      "title": "President Trump makes grim prediction about Paris' future, says what fiery riots are really about",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Trump demands France shut down its borders as masked rioters burn landmarks, loot businesses"
+      "title_zh": "特朗普总统对巴黎的未来做出严峻预测，说出激烈骚乱的真正含义"
     },
     {
-      "title": "Omar's DC home raid triggers watchdog warning about evidence feds may have",
+      "title": "United Airlines CEO calls for national wealth tax, inheritance taxes approaching 100%",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥马尔的华盛顿住所突袭引发监管机构对联邦调查局可能掌握的证据发出警告"
+      "title_zh": "美联航首席执行官呼吁征收国家财富税、遗产税接近100%"
     },
     {
-      "title": "Republican hopes viral debate moment can break GOP’s Senate drought in New Jersey",
+      "title": "OJ Simpson's own lawyer declares the killings are still an 'open case'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党希望病毒式辩论能够打破共和党在新泽西州的参议院干旱"
+      "title_zh": "OJ 辛普森自己的律师宣称这起杀戮仍然是一个“悬而未决的案件”"
     },
     {
-      "title": "Tennessee forced to pay Alabama $500K after violating SEC rule",
+      "title": "Manchin delivers stinging rebuke to Schumer with surprise Senate campaign stop",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "田纳西州因违反 SEC 规则而被迫向阿拉巴马州支付 50 万美元"
+      "title_zh": "Manchin delivers stinging rebuke to Schumer with surprise Senate campaign stop"
     },
     {
-      "title": "Office workers ordered to stay home as terror group ramps up attacks on US ally",
+      "title": "Hungary, Poland seize on France unrest to defend hard-line migration policies",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "恐怖组织加大对美国盟友的袭击力度，办公室工作人员被勒令呆在家里"
+      "title_zh": "Hungary, Poland seize on France unrest to defend hard-line migration policies"
     },
     {
-      "title": "Ancient DNA challenges the story of how America's first humans arrived",
+      "title": "Bride-to-be and firefighter fiancé mowed down as driver hit with charges",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "古代 DNA 挑战了美国第一批人类如何抵达的故事"
+      "title_zh": "准新娘兼消防员未婚夫因司机被指控而被砍倒"
     },
     {
-      "title": "Family of engineer accused of planting bug at OpenAI flees US with Saudi official’s help: feds",
+      "title": "A one-pound brass souvenir collecting dust for 11 years just became priceless",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被控在 OpenAI 植入 bug 的工程师家人在沙特官员的帮助下逃离美国：联邦调查局"
+      "title_zh": "A one-pound brass souvenir collecting dust for 11 years just became priceless"
     },
     {
-      "title": "Viral clip shows Duke player shoving away female staffer rushing to help hurt teammate",
+      "title": "Selena Gomez issues stark warning after vaping habit leaves permanent damage",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "病毒视频显示杜克大学球员推开冲过去帮助伤害队友的女工作人员"
+      "title_zh": "赛琳娜·戈麦斯在电子烟习惯造成永久性损害后发出严厉警告"
     },
     {
-      "title": "Major Amelia Earhart breakthrough hopes dashed after researchers make unexpected find",
+      "title": "Feds say foreign government helped spy's family flee US just days after bust",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "研究人员意外发现后，阿米莉亚·埃尔哈特重大突破的希望破灭了"
+      "title_zh": "联邦调查局称外国政府在破获间谍案几天后帮助其家人逃离美国"
     },
     {
-      "title": "TSA abruptly scales back program letting non-travelers access airport gates",
+      "title": "Trump praises Putin for 'laying off' Iran as Ukraine peace talks continue",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "TSA 突然缩减允许非旅客进入机场登机口的计划"
+      "title_zh": "特朗普称赞普京在乌克兰和谈继续进行时“解雇”伊朗"
     },
     {
-      "title": "WNBA stays silent after both Finals teams leave court despite national anthem rule",
+      "title": "National Guard shooting suspect linked to at least 13 prior criminal cases in DC",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "尽管奏国歌规则，两支总决赛球队离场后WNBA仍保持沉默"
+      "title_zh": "国民警卫队枪击案嫌疑人与华盛顿特区至少 13 起刑事案件有关"
     },
     {
-      "title": "Cosmetics heir convicted of 86 felonies walks free as California officials fume",
+      "title": "Trump claims swapping 'Mexico' for 'America' would send property values soaring",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州官员怒火中烧 被判 86 项重罪的化妆品公司继承人无罪释放"
+      "title_zh": "Trump claims swapping 'Mexico' for 'America' would send property values soaring"
     },
     {
-      "title": "Dhillon fires back at '60 Minutes' host asking if noncitizen voter probe sows distrust",
+      "title": "Priest fatally struck by falling crucifix during livestreamed Mass",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迪隆回击“60 分钟”主持人，质问非公民选民调查是否会造成不信任"
+      "title_zh": "牧师在直播弥撒期间被坠落的十字架击中身亡"
     },
     {
-      "title": "Troy Aikman's story of calling the cops on women in his pool stuns Michael Irvin",
+      "title": "Sarkisian's job security hinges on benching college football's most famous quarterback",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特洛伊·艾克曼 (Troy Aikman) 向警察举报泳池里的女性的故事震惊了迈克尔·欧文 (Michael Irvin)"
+      "title_zh": "萨尔基相的工作保障取决于让大学橄榄球最著名的四分卫坐在替补席上"
     },
     {
-      "title": "The Rock's massive recovery smoothie raises questions about creatine intake",
+      "title": "Carville admits he'd rather see GOP control House than Democrats have slim majority",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "The Rock 的大量恢复冰沙引发了有关肌酸摄入量的问题"
+      "title_zh": "卡维尔承认，他宁愿看到共和党控制众议院，也不愿看到民主党拥有微弱多数"
     },
     {
-      "title": "Alberta voters weigh split from Canada in high-stakes non-binding referendum",
+      "title": "'Hannity' town hall with Senate candidate Mike Rogers, governor hopeful John James",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "艾伯塔省选民在高风险的无约束力公投中权衡与加拿大的分裂"
-    },
-    {
-      "title": "Elon Musk announces huge giveaway pledge for American kids",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "埃隆·马斯克宣布为美国儿童提供巨额赠品承诺"
-    },
-    {
-      "title": "Adult children cutting off parents as some blame therapy for family estrangements",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "成年子女与父母断绝关系，将其视为家庭关系疏远的某种归咎疗法"
-    },
-    {
-      "title": "Wild body camera footage shows hero police officer saving struggling moose",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "野生随身摄像机镜头显示英雄警察拯救挣扎的驼鹿"
-    },
-    {
-      "title": "Are the French riots a warning of an intense election to come?",
-      "link": "",
-      "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
-      "published": "",
-      "title_zh": "法国骚乱是否预示着一场激烈的选举即将到来？",
-      "summary_zh": "上周末，法国各地的抗议活动失控，骚乱、抢劫和破坏行为席卷了法国。"
-    },
-    {
-      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "link": "",
-      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
-      "published": "",
-      "title_zh": "美国飞行员在德克萨斯州大学橄榄球赛前因冒险血统出错而死亡",
-      "summary_zh": "事件发生后，比赛继续进行。美国会议表示，这一决定是在他去世之前做出的。"
-    },
-    {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "link": "",
-      "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "published": "",
-      "title_zh": "研究人员表示，阿米莉亚·埃尔哈特的飞机残骸可能是树木",
-      "summary_zh": "研究人员前往一个偏远的太平洋岛屿，确认 2020 年首次在卫星图像上发现的物体是否解开了飞行员失踪之谜。"
-    },
-    {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "link": "",
-      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "published": "",
-      "title_zh": "澳大利亚议员在明显的袭击中被车撞后重伤",
-      "summary_zh": "这位独立政治家在总理所说的可能是蓄意袭击后住院。"
-    },
-    {
-      "title": "Polls open in Alberta as a referendum that will test Canada's unity gets under way",
-      "link": "",
-      "summary": "More than a million had already voted on the separation question by the time advance polls closed on Saturday night.",
-      "published": "",
-      "title_zh": "艾伯塔省投票开始，全民公投将考验加拿大的团结",
-      "summary_zh": "截至周六晚上提前投票结束时，已有超过一百万人就分居问题进行了投票。"
-    },
-    {
-      "title": "The father and son on opposite sides of Alberta’s separation vote",
-      "link": "",
-      "summary": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.",
-      "published": "",
-      "title_zh": "父子俩在阿尔伯塔省分居投票中站在对立面",
-      "summary_zh": "艾伯塔人正在就是否留在加拿大或通过公投寻求独立进行投票，甚至导致一些关系密切的家庭出现分裂。"
-    },
-    {
-      "title": "'It gives me the ick': Can you cheat on someone with a video game?",
-      "link": "",
-      "summary": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
-      "published": "",
-      "title_zh": "“这让我感到恶心”：你能用电子游戏欺骗别人吗？",
-      "summary_zh": "《侠盗猎车手 VI》可以让你建立和培养一段浪漫的关系，但有些人说与虚构人物约会有点太过分了。"
-    },
-    {
-      "title": "Why is Alberta voting on whether to separate from Canada, and how likely is it to happen?",
-      "link": "",
-      "summary": "The oil-rich province will decide on Monday whether to stay part of Canada or trigger a binding independence referendum.",
-      "published": "",
-      "title_zh": "为什么艾伯塔省要就是否与加拿大分离进行投票？这种情况发生的可能性有多大？",
-      "summary_zh": "这个石油资源丰富的省份将于周一决定是留在加拿大还是引发具有约束力的独立公投。"
-    },
-    {
-      "title": "What we know about apparent attack on Australian MP hit by car",
-      "link": "",
-      "summary": "Helen Haines was hit by a car in what the prime minister has called a \"deliberate act\".",
-      "published": "",
-      "title_zh": "我们所知道的关于澳大利亚议员被车撞的明显袭击事件",
-      "summary_zh": "海伦·海恩斯被车撞了，总理称这是“故意行为”。"
-    },
-    {
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "link": "",
-      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-      "published": "",
-      "title_zh": "卡蒂亚·阿德勒：周末大规模暴力事件后法国政府面临压力",
-      "summary_zh": "卡蒂亚·阿德勒写道，在针对生活成本和公共服务陷入困境的骚乱和抗议活动之后，政治紧张局势笼罩着法国。"
-    },
-    {
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "link": "",
-      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-      "published": "",
-      "title_zh": "资金短缺迫使世界粮食计划署削减对加沙的援助",
-      "summary_zh": "联合国机构在巴勒斯坦领土帮助的人数将减少约三分之一——从 160 万减少到 110 万。"
-    },
-    {
-      "title": "The children killed when a coal pile engulfed a Welsh village",
-      "link": "",
-      "summary": "An artist drew portraits of some of the victims - 60 years on, the parents describe how those images helped them in their grief.",
-      "published": "",
-      "title_zh": "当煤堆吞没威尔士村庄时，孩子们丧生",
-      "summary_zh": "一位艺术家为一些受害者画了肖像 - 60 年后，父母们描述了这些图像如何帮助他们走出悲伤。"
-    },
-    {
-      "title": "Kylie Jenner's debut at Victoria's Secret Fashion Show in $50m bra sparks mixed reaction",
-      "link": "",
-      "summary": "The reality star's surprise appearance on the runway in the diamond encrusted piece has sparked mixed reaction.",
-      "published": "",
-      "title_zh": "凯莉·詹纳 (Kylie Jenner) 身着价值 5000 万美元的胸罩首次亮相维多利亚的秘密时装秀，引发不同反应",
-      "summary_zh": "这位真人秀明星穿着镶钻单品意外出现在 T 台上，引发了不同的反应。"
-    },
-    {
-      "title": "Elizabeth Holmes documentary stuns with huge box office debut",
-      "link": "",
-      "summary": "It shows fraudster Elizabeth Holmes invite a sceptical film into her home before she's sent to prison.",
-      "published": "",
-      "title_zh": "伊丽莎白霍姆斯纪录片首映票房大卖",
-      "summary_zh": "它显示诈骗犯伊丽莎白·霍姆斯在被送进监狱之前邀请一部怀疑的电影到她家中。"
-    },
-    {
-      "title": "Mural honours the forgotten force behind The Beatles",
-      "link": "",
-      "summary": "Lord Woodbine was a mentor to The Beatles and a celebrated member of Liverpool's Caribbean community.",
-      "published": "",
-      "title_zh": "壁画纪念披头士乐队背后被遗忘的力量",
-      "summary_zh": "伍德拜恩勋爵是披头士乐队的导师，也是利物浦加勒比社区的著名成员。"
-    },
-    {
-      "title": "What Trump's approval rating means for midterm elections",
-      "link": "",
-      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-      "published": "",
-      "title_zh": "特朗普的支持率对中期选举意味着什么",
-      "summary_zh": "深入探讨选举前的关键民意调查、竞选和问题，这些将决定特朗普作为总统的最后两年。"
-    },
-    {
-      "title": "The little-known deals that helped Flock cameras spread across America",
-      "link": "https://www.nbcnews.com/tech/security/flock-cameras-safety-surveil-spread-location-where-contract-town-city-rcna595745",
-      "summary": "",
-      "published": "",
-      "title_zh": "The little-known deals that helped Flock cameras spread across America"
-    },
-    {
-      "title": "France moves to impose curfews as it reels from worst violence in years",
-      "link": "https://www.nbcnews.com/world/europe/france-violence-riots-looting-paris-limoges-curfews-macron-protests-rcna604292",
-      "summary": "",
-      "published": "",
-      "title_zh": "France moves to impose curfews as it reels from worst violence in years"
-    },
-    {
-      "title": "Russians locked out of bank accounts and apartments as Ukraine hits data centers",
-      "link": "https://www.nbcnews.com/world/russia/russia-ukraine-yandex-data-centers-attacks-trump-rcna602753",
-      "summary": "",
-      "published": "",
-      "title_zh": "Russians locked out of bank accounts and apartments as Ukraine hits data centers"
-    },
-    {
-      "title": "Ukraine claims world’s first drone evacuation of wounded soldier",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "summary": "",
-      "published": "",
-      "title_zh": "乌克兰声称世界上首次用无人机疏散受伤士兵"
-    },
-    {
-      "title": "Trump signs executive order on women’s health spearheaded by Melania Trump",
-      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-rally-kansas-vance-congress-2026-midterm-live-updates-rcna604283",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普签署由梅拉尼娅·特朗普牵头的女性健康行政命令"
-    },
-    {
-      "title": "CNN’s Christiane Amanpour to depart network after 43 years",
-      "link": "https://www.nbcnews.com/business/media/cnns-christiane-amanpour-depart-network-43-years-rcna604365",
-      "summary": "",
-      "published": "",
-      "title_zh": "CNN 克里斯蒂安·阿曼普尔 (Christiane Amanpour) 离开 CNN 43 年后"
-    },
-    {
-      "title": "Eagles quarterback Jalen Hurts likely out for season after blood clots found in lungs and leg",
-      "link": "https://www.nbcnews.com/sports/nfl/eagles-quarterback-jalen-hurts-likely-season-blood-clots-found-lungs-l-rcna604355",
-      "summary": "",
-      "published": "",
-      "title_zh": "老鹰队四分卫杰伦因肺部和腿部发现血块而受伤，可能缺席本赛季"
-    },
-    {
-      "title": "Supreme Court rejects alleged 9/11 mastermind’s attempt to revive plea deal",
-      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-alleged-911-masterminds-attempt-revive-plea-deal-rcna603448",
-      "summary": "",
-      "published": "",
-      "title_zh": "最高法院驳回涉嫌 9/11 主谋的恢复认罪协议的尝试"
-    },
-    {
-      "title": "How to avoid the ‘loyalty tax’ on your monthly bills",
-      "link": "https://www.nbcnews.com/business/personal-finance/money-stop-loyal-customer-rcna603023",
-      "summary": "",
-      "published": "",
-      "title_zh": "如何避免每月账单上的“忠诚税”"
-    },
-    {
-      "title": "Election 2026",
-      "link": "https://www.cnn.com/election/2026",
-      "summary": "",
-      "published": "",
-      "title_zh": "2026 年选举"
+      "title_zh": "“汉尼提”市政厅与参议院候选人迈克·罗杰斯和州长候选人约翰·詹姆斯"
     }
   ]
 }
