@@ -1,0 +1,245 @@
+{
+  "date": "20261019",
+  "total": 28,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Control of Congress: See the latest polling and which states are in play",
+      "link": "https://www.nbcnews.com/politics/2026-elections/midterms",
+      "summary": "",
+      "published": "",
+      "title_zh": "国会的控制：查看最新的民意调查以及哪些州正在发挥作用"
+    },
+    {
+      "title": "Obama calls Trump officials’ investigation of Ilhan Omar ‘appalling’",
+      "link": "https://www.nbcnews.com/politics/politics-news/obama-calls-trump-officials-investigation-ilhan-omar-appalling-rcna604235",
+      "summary": "",
+      "published": "",
+      "title_zh": "奥巴马称特朗普官员对伊尔汗·奥马尔的调查“令人震惊”"
+    },
+    {
+      "title": "The Chiefs are 5-0 — and their offense may be returning to their dynastic heights",
+      "link": "https://www.nbcnews.com/sports/nfl/kansas-city-chiefs-patrick-mahomes-nfl-kenneth-walker-rcna604246",
+      "summary": "",
+      "published": "",
+      "title_zh": "酋长队战绩 5-0——他们的进攻可能会回到王朝巅峰"
+    },
+    {
+      "title": "California woman indicted on charges she was spying for China",
+      "link": "https://www.nbcnews.com/news/us-news/california-woman-indicted-charges-spying-china-rcna604242",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州女子被指控为中国从事间谍活动"
+    },
+    {
+      "title": "Witnesses haunted by what they saw when pickup plowed through a Kansas youth soccer game",
+      "link": "https://www.nbcnews.com/news/us-news/witnesses-haunted-pickup-wichita-kansas-soccer-game-crash-rcna604282",
+      "summary": "",
+      "published": "",
+      "title_zh": "堪萨斯州一场青少年足球比赛中皮卡车冲过时的景象让目击者感到心神不宁"
+    },
+    {
+      "title": "Trump declares 'France is burning' as NFL monitors violence near game site",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "NFL 监控比赛场地附近的暴力事件，特朗普宣称“法国正在燃烧”"
+    },
+    {
+      "title": "Republican ticket thrown into turmoil after candidate's late-night crash",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "候选人深夜撞车后，共和党选票陷入混乱"
+    },
+    {
+      "title": "Police allegedly threaten preacher with arrest for talking about Jesus at public event",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据称警方因在公共活动中谈论耶稣而威胁逮捕传教士"
+    },
+    {
+      "title": "Iran throws down the gauntlet to Trump with dare over another strike",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗向特朗普发出挑战，敢于再次发动袭击"
+    },
+    {
+      "title": "Woman freed without charges after allegedly plowing into kids' game and killing 2 people",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "涉嫌闯入儿童游戏并杀害 2 人的女子被无罪释放"
+    },
+    {
+      "title": "'Tremors' star pleads for help after shipped box bounces to five nations",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《颤栗》明星在包裹被退回五个国家后请求帮助"
+    },
+    {
+      "title": "6,000 sailors trapped as attacks mount near key waterway, UN official warns",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "联合国官员警告说，主要水道附近发生袭击，6000名水手被困"
+    },
+    {
+      "title": "Canadian service members killed, 19 critically injured after fire rips through base",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "加拿大军人基地发生火灾，死亡19人重伤"
+    },
+    {
+      "title": "Animal's alarming appearance at public library caught on camera",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "动物在公共图书馆的惊人出现被摄像机捕捉到"
+    },
+    {
+      "title": "Irsay-Gordon's patience tested as 'fire Ballard' chants erupt at home stadium",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "主场爆发“解雇巴拉德”口号，伊赛-戈登的耐心受到考验"
+    },
+    {
+      "title": "Jay Glazer warns Jalen Hurts situation could be 'life-or-death' for Eagles star",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰·格雷泽警告说，杰伦受伤的情况对于老鹰队球星来说可能是“生死攸关”"
+    },
+    {
+      "title": "Country star's son suffers painful injury during high school football game",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乡村明星的儿子在高中橄榄球比赛中受了痛苦的伤"
+    },
+    {
+      "title": "Star says she learned a painful financial lesson involving her dad at age 22",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "斯塔尔说，她在 22 岁时学到了与父亲有关的痛苦的财务教训"
+    },
+    {
+      "title": "Arizona terror suspect allegedly used infamous bomb-making book as his 'Bible'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚利桑那州恐怖嫌疑人涉嫌使用臭名昭著的炸弹制造书作为他的“圣经”"
+    },
+    {
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "link": "",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "published": "",
+      "title_zh": "加拿大军事基地发生大火，造成四人死亡、数十人受伤",
+      "summary_zh": "卡尼总理表示，军队和紧急救援人员在“可以想象到的最恶劣的条件下”整夜与火焰搏斗。"
+    },
+    {
+      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+      "link": "",
+      "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+      "published": "",
+      "title_zh": "宝莱坞演员泰格·史罗夫在孟买枪击事件中幸存",
+      "summary_zh": "多家新闻媒体发布的视频显示，枪手向一辆驶过人群的汽车开了多枪。"
+    },
+    {
+      "title": "The father and son on opposite sides of Alberta’s separation referendum",
+      "link": "",
+      "summary": "Albertans are voting on Monday on whether to stay in Canada or pursue independence, splitting even some close-knit families.",
+      "published": "",
+      "title_zh": "艾伯塔省分居公投中父子站在对立面",
+      "summary_zh": "阿尔伯塔人周一将就是否留在加拿大或追求独立进行投票，甚至导致一些关系密切的家庭出现分裂。"
+    },
+    {
+      "title": "BBC visits wildfire front in haze-choked Indonesia",
+      "link": "",
+      "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+      "published": "",
+      "title_zh": "BBC 探访雾霾笼罩的印度尼西亚山火前线",
+      "summary_zh": "BBC 位于加里曼丹中部，野火引发的有毒雾霾令数百万居民窒息。"
+    },
+    {
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "link": "",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "published": "",
+      "title_zh": "深入俄罗斯内部反普京破坏活动的阴暗世界",
+      "summary_zh": "两名男子讲述了他们在战争期间为支持乌克兰情报部门所做的工作。"
+    },
+    {
+      "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+      "link": "",
+      "summary": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
+      "published": "",
+      "title_zh": "观看：为乌克兰工作的俄罗斯破坏分子分享侦察视频",
+      "summary_zh": "在英国广播公司国际频道的一部纪录片中，该男子声称参与了针对其家乡的无人机袭击。"
+    },
+    {
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "link": "",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "published": "",
+      "title_zh": "不要上当——如何保护自己免受人工智能诈骗",
+      "summary_zh": "贸易标准官员表示，人工智能正在通过克隆和虚假网站“增强”现有的骗局。"
+    },
+    {
+      "title": "Church makes sainthood case for 'WW1 hero' priest",
+      "link": "",
+      "summary": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
+      "published": "",
+      "title_zh": "教会为“一战英雄”牧师辩护",
+      "summary_zh": "威利·道尔神父在第一次世界大战期间在试图帮助受伤和垂死的士兵时被杀。"
+    },
+    {
+      "title": "People playing loud music on buses could face £100 fine in England",
+      "link": "",
+      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+      "published": "",
+      "title_zh": "在英国，在公交车上大声播放音乐的人可能面临 100 英镑的罚款",
+      "summary_zh": "英国公共汽车上的反社会行为可能会导致罚款，同时针对火车也发起了一项新的活动。\n一项全国性的运动正在发起，要求铁路乘客“共享车厢，而不是噪音”。"
+    }
+  ]
+}
