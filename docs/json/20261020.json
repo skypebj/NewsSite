@@ -2,10 +2,6 @@
   "date": "20261020",
   "total": 35,
   "sources": {
-    "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
     "cnn": {
       "status": "ok",
       "entries": 0
@@ -14,15 +10,19 @@
       "status": "ok",
       "entries": 0
     },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
     "theguardian": {
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "bbc": {
       "status": "ok",
       "entries": 0
     },
-    "nytimes": {
+    "fox": {
       "status": "ok",
       "entries": 0
     },
@@ -37,259 +37,261 @@
   },
   "entries": [
     {
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
       "link": "",
-      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
       "published": "",
-      "title_zh": "卡尼表示，艾伯塔省投票拒绝分裂主义，“对加拿大来说是伟大的结果”",
-      "summary_zh": "尽管深刻的政治分歧依然存在，但加拿大省以压倒性多数投票决定继续留在加拿大。"
+      "title_zh": "艾伯塔省决定留在加拿大，为卡尼对抗特朗普提供了支持",
+      "summary_zh": "英国广播公司 (BBC) 的 Lyse Doucet 写道，艾伯塔省以压倒性多数投票决定留在加拿大，这为马克·卡尼 (Mark Carney) 提供了政治资本，使其能够专注于重塑国家经济。"
     },
     {
-      "title": "Christina Applegate says she was wrongly diagnosed with MS",
+      "title": "Australian MP in critical condition as man charged with attacking her to appear in court",
       "link": "",
-      "summary": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
+      "summary": "The accused, Brendan Nugent, faces charges including dangerous driving causing serious injury.",
       "published": "",
-      "title_zh": "克里斯蒂娜·艾伯盖特 (Christina Applegate) 表示，她被错误诊断为多发性硬化症",
-      "summary_zh": "她在周二发布的凌乱播客中表示，她对新信息并不满意，她的症状只会“变得更糟”。"
+      "title_zh": "澳大利亚议员因被控袭击她的男子出庭受审，情况危急",
+      "summary_zh": "被告布伦丹·纽金特面临危险驾驶造成严重伤害等指控。"
     },
     {
-      "title": "Ex-student says embattled Cornell University head doubted her gang-rape allegation",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
       "link": "",
-      "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
       "published": "",
-      "title_zh": "前学生表示，陷入困境的康奈尔大学校长对她的轮奸指控表示怀疑",
-      "summary_zh": "随着不信任投票的临近，康奈尔表示，对首脑反应的描述是“不正确的”。"
+      "title_zh": "特朗普在最新的法律挑战中就加拿大关税提起诉讼",
+      "summary_zh": "该诉讼称，白宫对美国征收最新关税的行为超出了其权力，并“对美国企业造成了直接损害”。"
     },
     {
-      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+      "title": "'Let's move on': Albertans react to referendum vote",
       "link": "",
-      "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+      "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity.",
       "published": "",
-      "title_zh": "艾伯塔省分离主义运动在决定性失败后遭受巨大挫折",
-      "summary_zh": "独立运动的领导人发誓要继续前进，但失败的幅度可能会让这变得困难。"
+      "title_zh": "“让我们继续前进”：阿尔伯塔人对公投的反应",
+      "summary_zh": "初步公投结果显示，超过三分之二的艾伯塔省选民支持加拿大继续留在加拿大，缓解了对国家团结的担忧。"
     },
     {
-      "title": "Watch: Why does Prince Harry want to 'work it out' with his father and brother?",
+      "title": "'Trash Island' or DC landmark? How a golf course landed Trump in a messy legal dispute",
       "link": "",
-      "summary": "Noor Nanji breaks down Prince Harry's interview with GQ Magazine, after he said he wants to \"reconcile\" with his family.",
+      "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
       "published": "",
-      "title_zh": "观看：为什么哈里王子想与他的父亲和兄弟“解决这个问题”？",
-      "summary_zh": "努尔·南吉 (Noor Nanji) 在哈里王子表示希望与家人“和解”后，对他接受《GQ》杂志的采访进行了剖析。"
+      "title_zh": "“垃圾岛”还是华盛顿的地标？高尔夫球场如何让特朗普陷入混乱的法律纠纷",
+      "summary_zh": "特朗普表示，他计划将华盛顿特区一座拥有 106 年历史的公共高尔夫球场改造成适合职业选手参加比赛的高尔夫球场，但当地高尔夫球手并不高兴。"
     },
     {
-      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
       "link": "",
-      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "summary": "Musk says special committees within both companies have been formed to look a possible mega-merger.",
       "published": "",
-      "title_zh": "谷歌解决了影响英国银行和网站的云中断问题",
-      "summary_zh": "Revolut 是受影响最严重的公司之一，许多客户的银行服务都受到影响。"
+      "title_zh": "埃隆·马斯克表示正在考虑特斯拉与 SpaceX 合并",
+      "summary_zh": "马斯克表示，两家公司内部已经成立了特别委员会，以研究可能的大型合并。"
     },
     {
-      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
       "link": "",
-      "summary": "The closures are announced as the corporation continues to try to save £500m over two years.",
+      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
       "published": "",
-      "title_zh": "BBC 三台、BBC Scotland 和 Radio 4 Extra 广播频道将关闭",
-      "summary_zh": "宣布关闭的同时，该公司继续努力在两年内节省 5 亿英镑。"
+      "title_zh": "尽管奥斯陆乐观，但特朗普和泽连斯基仍出现争执",
+      "summary_zh": "保罗·亚当斯写道，乌克兰领导人在挪威首都与史蒂夫·威特科夫的拥抱不太可能消除人们对美国对其国家政策的疑虑。"
     },
     {
-      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
       "link": "",
-      "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
+      "summary": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
       "published": "",
-      "title_zh": "国王在盛大的宴会上赞扬霍尔木兹海峡和平努力",
-      "summary_zh": "欢迎中东战略伙伴领导人阿曼苏丹来温莎进行国事访问。"
+      "title_zh": "凯蒂·拉扎尔 (Katie Razzall)：BBC 关闭具有商业意义，但需要更多节省",
+      "summary_zh": "BBC 宣布将关闭 BBC Three、BBC Scotland 和 Radio 4 Extra 广播频道。"
     },
     {
-      "title": "Reese stars as Dream win first WNBA Finals match",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
       "link": "",
-      "summary": "Atlanta Dream win their first ever game in the WNBA Finals as they beat the Golden State Valkyries 79-65 to level the series at 1-1.",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
       "published": "",
-      "title_zh": "里斯主演的梦想赢得首场WNBA总决赛",
-      "summary_zh": "亚特兰大梦想队以 79-65 击败金州女武神队，将系列赛总比分 1-1 扳平，赢得了 WNBA 总决赛首场比赛。"
+      "title_zh": "OpenAI 首席执行官 Sam Altman 赢得驳回姐姐诉讼",
+      "summary_zh": "在安·奥尔特曼拒绝参加独立体检后，美国地区法官驳回了此案。"
     },
     {
-      "title": "Championship: Wolves and Portsmouth struggling to create chances",
+      "title": "Nigeria confirms Ebola case linked to East Africa",
       "link": "",
-      "summary": "Follow live text commentary, score updates and match stats from Wolverhampton Wanderers v Portsmouth in the Championship.",
+      "summary": "A female patient is in isolation and receiving medical care after being admitted to a hospital in Abuja.",
       "published": "",
-      "title_zh": "冠军：狼队和朴茨茅斯努力创造机会",
-      "summary_zh": "关注冠军联赛中狼队对阵朴茨茅斯的实时文字评论、比分更新和比赛统计数据。"
+      "title_zh": "尼日利亚确认埃博拉病例与东非有关",
+      "summary_zh": "一名女性患者被送往阿布贾一家医院后正在隔离并接受治疗。"
     },
     {
-      "title": "Trump recruits Americans to hunt taxpayer fraud with lucrative cash rewards",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "link": "",
+      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "published": "",
+      "title_zh": "英国将部署战机保护沙特阿拉伯免受胡塞武装袭击",
+      "summary_zh": "随着胡塞武装在该地区的袭击升级，英国宣布将向沙特阿拉伯提供额外的防御性军事支持。"
+    },
+    {
+      "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
+      "link": "",
+      "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+      "published": "",
+      "title_zh": "那个“无情”的夜晚，恩古莫哈成熟了，适合利物浦",
+      "summary_zh": "亚当·帕特尔写道，里奥·恩古莫哈在利物浦逆转比利亚雷亚尔的比赛中展现了成熟的表现。"
+    },
+    {
+      "title": "Woman sexually assaulted at fraternity near University of Chicago, lawsuit alleges",
+      "link": "https://www.nbcnews.com/news/us-news/woman-sexually-assaulted-fraternity-university-chicago-lawsuit-alleges-rcna604607",
+      "summary": "",
+      "published": "",
+      "title_zh": "诉讼称，一名女子在芝加哥大学附近的兄弟会遭到性侵犯"
+    },
+    {
+      "title": "The New York Knicks are the defending champs — and the face of the NBA’s biggest dilemma",
+      "link": "https://www.nbcnews.com/sports/nba/nba-new-york-knicks-second-apron-karl-anthony-towns-rcna603572",
+      "summary": "",
+      "published": "",
+      "title_zh": "纽约尼克斯队是卫冕冠军，也是 NBA 最大困境的面对者"
+    },
+    {
+      "title": "In-laws plead not guilty to murdering their son-in-law, a NYT executive, at local park",
+      "link": "https://www.nbcnews.com/news/us-news/jonathan-mckinsey-murder-elderly-couple-pleads-not-guilty-killing-nyt-rcna604415",
+      "summary": "",
+      "published": "",
+      "title_zh": "姻亲们对在当地公园谋杀纽约时报高管女婿的罪名不认罪"
+    },
+    {
+      "title": "Netflix doesn’t want investors to worry, despite recent shake-ups, layoffs",
+      "link": "https://www.nbcnews.com/business/media/netflix-reports-third-quarter-earnings-rcna604472",
+      "summary": "",
+      "published": "",
+      "title_zh": "尽管最近进行了重组和裁员，但 Netflix 并不希望投资者担心"
+    },
+    {
+      "title": "Elon Musk says SpaceX and Tesla have formed special committees to discuss merger idea",
+      "link": "https://www.nbcnews.com/business/business-news/elon-musk-spacex-tesla-merger-rcna604685",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃隆·马斯克表示 SpaceX 和特斯拉已成立特别委员会讨论合并想法"
+    },
+    {
+      "title": "Business",
+      "link": "https://www.cnn.com/business",
+      "summary": "",
+      "published": "",
+      "title_zh": "商业"
+    },
+    {
+      "title": "Mystery grows over Ilhan Omar's whereabouts as familiar faces descend on DC home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普招募美国人以丰厚的现金奖励追捕纳税人欺诈行为"
+      "title_zh": "随着熟悉的面孔降临在华盛顿的家中，伊尔汗·奥马尔的下落变得越来越神秘"
     },
     {
-      "title": "Warning for Americans in France after violent protests and Paris hotel evacuation",
+      "title": "‘The numbers don't seem to add up’: Dr. Oz presses NYC daycare in surprise crackdown",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "暴力抗议和巴黎酒店疏散后对在法国的美国人发出警告"
+      "title_zh": "“这些数字似乎并不相符”：奥兹博士对纽约市日托中心进行意外镇压"
     },
     {
-      "title": "Dem candidate's mother urges voters to reject her: 'Don't let her become your governor'",
+      "title": "RFK granddaughter dead at 42 after spinal cord injury",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党候选人的母亲敦促选民拒绝她：“不要让她成为你们的州长”"
+      "title_zh": "RFK 孙女因脊髓损伤去世，享年 42 岁"
     },
     {
-      "title": "Ilhan Omar's husband sold empty wine barrels to investors in fraud scheme, Comer says",
+      "title": "Former VP targets Trump with five-state campaign push as midterm elections draw near",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "科默称，伊尔汗·奥马尔的丈夫通过欺诈计划向投资者出售空酒桶"
+      "title_zh": "随着中期选举临近，前副总统将针对特朗普发起五个州的竞选活动"
     },
     {
-      "title": "Tourist killed in freak accident at landmark designed by America's most famous architect",
+      "title": "French PM points to alleged 'insurrectionary' plan as nation braces for more chaos",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国最著名建筑师设计的地标建筑发生怪异事故，一名游客身亡"
+      "title_zh": "法国总理指称所谓的“叛乱”计划，因为国家准备迎接更多混乱"
     },
     {
-      "title": "Robert F Kennedy's granddaughter dies at 42 after years of health struggles",
+      "title": "Canadian says hospital kept raising assisted death while he begged to go home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗伯特·F·肯尼迪的孙女因多年的健康问题去世，享年 42 岁"
+      "title_zh": "加拿大人表示，当他乞求回家时，医院不断提高安乐死的标准"
     },
     {
-      "title": "Bush family royalty backs Democrat in Senate battle to flip home state blue",
+      "title": "Trump’s ‘crazed lunatic’ judge backs off extraordinary demand after DOJ showdown",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "布什家族皇室成员在参议院为将家乡变成蓝色而战中支持民主党"
+      "title_zh": "特朗普的“疯狂疯子”法官在司法部摊牌后放弃了非凡的要求"
     },
     {
-      "title": "Tiger Woods' return to golf after DUI arrest may have two possible paths",
+      "title": "Social Security makes historic move affecting nearly 50 million records",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰格·伍兹在酒后驾车被捕后重返高尔夫球场可能有两条可能的路径"
+      "title_zh": "社会保障做出历史性举措，影响近 5000 万条记录"
     },
     {
-      "title": "Madison Brooks rape suspect's attorney faces new trouble over her own legal mistake",
+      "title": "Iran sets new hurdle for negotiations with demand US must meet first",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "麦迪逊布鲁克斯强奸嫌疑人的律师因自己的法律错误面临新麻烦"
+      "title_zh": "Iran sets new hurdle for negotiations with demand US must meet first"
     },
     {
-      "title": "Tech CEO accuses Netflix of going 'full doomer mode' with documentary",
+      "title": "Princess Kate revives Princess Diana's iconic tiara for glamorous royal banquet",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "科技公司首席执行官指责 Netflix 纪录片走向“全面厄运模式”"
+      "title_zh": "凯特王妃在迷人的皇家宴会上重新佩戴戴安娜王妃的标志性王冠"
     },
     {
-      "title": "White House makes definitive statement on whether US will attack Iran before midterms",
+      "title": "Former Disney star accused of draining elderly couple's $2.1M retirement savings",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "白宫就美国是否会在中期选举前攻击伊朗发表明确声明"
+      "title_zh": "前迪士尼明星被指控耗尽老年夫妇 210 万美元退休储蓄"
     },
     {
-      "title": "Defund the police betrayed Black America. I'm rebuilding what activists broke",
+      "title": "Propeller plane crashes into busy California highway, injuring three",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "撤资警察背叛了美国黑人。我正在重建活动人士破坏的东西"
+      "title_zh": "Propeller plane crashes into busy California highway, injuring three"
     },
     {
-      "title": "Jury reaches verdict in Las Vegas tourist's drunken encounter with hotel flamingo",
+      "title": "Jay-Z's anti-Trump history poses another problem for NFL's Super Bowl halftime",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "陪审团对拉斯维加斯游客醉酒遭遇酒店火烈鸟案作出裁决"
+      "title_zh": "Jay-Z 的反特朗普历史给 NFL 超级碗中场休息带来了另一个问题"
     },
     {
-      "title": "Italy ramps up military response to riot chaos as France prepares for another wave",
+      "title": "SSA rolls out $1,000 Trump Account notices to American families",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国准备应对另一波骚乱，意大利加大对骚乱的军事反应"
+      "title_zh": "SSA 向美国家庭发放 1,000 美元特朗普账户通知"
     },
     {
-      "title": "Enes Kanter Freedom reacts after WNBA says he’s ineligible for draft because he’s a man",
+      "title": "NFL star out for the season after brutal knee injury as Commanders season spirals",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 在 WNBA 表示他没有资格参加选秀后做出了反应，因为他是一名男子"
+      "title_zh": "随着指挥官赛季的螺旋式上升，NFL 明星在膝盖严重受伤后缺席本赛季"
     },
     {
-      "title": "Christina Applegate weeps after stunning MS misdiagnosis leaves her 'back at square one'",
+      "title": "WATCH LIVE:Former President Bill Clinton campaigns with David Jolly in Florida",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克里斯蒂娜·艾伯盖特在令人震惊的多发性硬化症误诊让她“回到原点”后哭泣"
+      "title_zh": "观看直播：前总统比尔·克林顿与大卫·乔利在佛罗里达州进行竞选活动"
     },
     {
-      "title": "Accused pregnant wife killer who fled US gets a break from Italian judges",
+      "title": "Vance reveals the Trump dilemma that could complicate his 2028 White House ambitions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "逃离美国的被指控杀害妻子的凶手从意大利法官那里得到了宽恕"
-    },
-    {
-      "title": "Jay-Z reportedly makes decision for Super Bowl halftime show at SoFi Stadium",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "据报道 Jay-Z 决定在 SoFi 体育场参加超级碗中场表演"
-    },
-    {
-      "title": "Homebuyers gain leverage in more US cities, but there's a costly catch",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "购房者在更多美国城市获得影响力，但代价高昂"
-    },
-    {
-      "title": "United CEO's $32M pay comes under scrutiny after wealth inequality warning",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "财富不平等警告后，美联航首席执行官 3200 万美元薪酬受到审查"
-    },
-    {
-      "title": "Jane Doe says Cornell president appeared to question allegations in letter to faculty senate",
-      "link": "https://www.nbcnews.com/news/us-news/jane-doe-says-cornell-president-appeared-question-allegations-letter-f-rcna604606",
-      "summary": "",
-      "published": "",
-      "title_zh": "无名氏表示，康奈尔大学校长似乎对写给教员参议院的信中的指控提出质疑"
-    },
-    {
-      "title": "How France’s far right is using a weekend of riots and chaos to seize power",
-      "link": "https://www.nbcnews.com/world/france/france-riots-far-right-leader-marine-le-pen-using-protests-emmanuel-ma-rcna604307",
-      "summary": "",
-      "published": "",
-      "title_zh": "法国极右翼如何利用周末的骚乱和混乱夺取权力"
-    },
-    {
-      "title": "Christina Applegate says she was misdiagnosed with multiple sclerosis",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/christina-applegate-says-was-misdiagnosed-multiple-sclerosis-rcna604558",
-      "summary": "",
-      "published": "",
-      "title_zh": "克里斯蒂娜·艾伯盖特说她被误诊为多发性硬化症"
-    },
-    {
-      "title": "Trump says he’ll determine who deserves federal fraud tipster money from new program",
-      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-midterm-rally-north-carolina-2026-election-congress-live-updates-rcna604465",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普表示，他将决定谁应该从新计划中获得联邦欺诈举报资金"
-    },
-    {
-      "title": "Should the Eagles have played Jalen Hurts after he was diagnosed with a blood clot?",
-      "link": "https://www.nbcnews.com/sports/nfl/eagles-played-jalen-hurts-was-diagnosed-blood-clot-rcna604419",
-      "summary": "",
-      "published": "",
-      "title_zh": "在杰伦被诊断出患有血栓后，老鹰队应该让他上场吗？"
+      "title_zh": "万斯揭示了特朗普的困境，这可能会使他的 2028 年入主白宫野心变得更加复杂"
     }
   ]
 }
