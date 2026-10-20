@@ -1,6 +1,6 @@
 {
-  "date": "20261019",
-  "total": 29,
+  "date": "20261020",
+  "total": 41,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,217 +37,309 @@
   },
   "entries": [
     {
-      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
       "link": "",
-      "summary": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
+      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
       "published": "",
-      "title_zh": "出生在监狱里，母亲患有海洛因成瘾——美国青少年艾比如何受到毒品的影响",
-      "summary_zh": "英国广播公司 (BBC) 的昆汀·萨默维尔 (Quentin Sommerville) 采访了一名前海洛因成瘾者的女儿，讲述了毒品对她家人的影响。"
+      "title_zh": "“我们最糟糕的噩梦”：在议员被车撞之前，对澳大利亚政客的威胁不断上升",
+      "summary_zh": "在议员海伦·海恩斯遭到明显袭击后，议员们表示锁上了办公室的门，并扫描了每个人群是否存在潜在威胁。"
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "title": "US church on frontline of battle against drug known as 'tranq'",
       "link": "",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
       "published": "",
-      "title_zh": "泽连斯基顾问告诉 BBC，乌克兰人因美国限制情报共享而死亡",
-      "summary_zh": "谢尔希·贝斯克雷斯诺夫 (Serhii Beskrestnov) 表示，没有足够的时间来警告人们即将到来的导弹袭击。白宫表示情报共享没有变化。"
+      "title_zh": "美国教会在打击毒品的前线被称为“镇静剂”",
+      "summary_zh": "芬太尼等合成阿片类药物功效更强大，供应充足，它们改变了毒品格局。"
     },
     {
-      "title": "Millions cast early ballots in Alberta referendum as separation vote under way",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
       "link": "",
-      "summary": "Today's vote will determine the future of the province's independence movement and stands as a major test of Canada's unity.",
+      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
       "published": "",
-      "title_zh": "随着分离投票正在进行，数百万人在艾伯塔省公投中提前投票",
-      "summary_zh": "今天的投票将决定该省独立运动的未来，也是对加拿大团结的重大考验。"
+      "title_zh": "法国各地发生骚乱后，巴黎市中心部分地区和其他城市实施宵禁",
+      "summary_zh": "该国内政部长承认，周末发生骚乱后，一些城市的警察“失去了控制”。"
     },
     {
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "title": "Clean up begins after French riots but police remain",
       "link": "",
-      "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
       "published": "",
-      "title_zh": "在国会议员被车撞之前，针对澳大利亚政客的威胁的警告信号不断增加",
-      "summary_zh": "对议员海伦·海恩斯的明显攻击表明政客和公众人物最担心的事情似乎已经成为现实。"
+      "title_zh": "法国骚乱后开始清理工作但警察仍在",
+      "summary_zh": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted."
     },
     {
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "title": "'I started ketamine at 14 and needed diapers at 22' - the rise of young people going to rehab",
       "link": "",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "summary": "For the last two years Megan has been in agony and unable to stand straight because of her ketamine use.",
       "published": "",
-      "title_zh": "火星任务发射，夺取其卫星的一部分",
-      "summary_zh": "一艘航天器即将发射，执行一项雄心勃勃的任务，将 10 克火星月球尘埃带回地球。"
+      "title_zh": "“我 14 岁开始服用氯胺酮，22 岁时需要尿布”——接受康复治疗的年轻人数量增加",
+      "summary_zh": "在过去的两年里，梅根因为服用氯胺酮而一直处于痛苦之中，无法站直。"
     },
     {
-      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "title": "'It smells like charred earth': BBC at Indonesia fire epicentre causing Singapore and Malaysia haze crisis",
       "link": "",
-      "summary": "Would Alberta be richer if it were to become an independent country? What's at stake financially has become a big part of the separatism debate.",
+      "summary": "As wildfires continue to smother the region in toxic smog, the BBC travels to ground zero in Indonesian Borneo.",
       "published": "",
-      "title_zh": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-      "summary_zh": "如果艾伯塔省成为一个独立国家，它会变得更富有吗？经济上的利害关系已成为分离主义辩论的重要组成部分。"
+      "title_zh": "“闻起来像烧焦的土地”：BBC在印度尼西亚火灾中心造成新加坡和马来西亚雾霾危机",
+      "summary_zh": "随着野火继续使该地区陷入有毒烟雾，BBC 前往印度尼西亚婆罗洲的归零地。"
     },
     {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
       "link": "",
-      "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
       "published": "",
-      "title_zh": "Vinted 阻止法国抢劫者列出出售赃物",
-      "summary_zh": "该平台表示，自周末以来，它已“立即采取行动，识别并删除与抢劫有关的列表”。"
+      "title_zh": "摩洛哥第一位女首相夹在国王、神职人员和女权主义者之间",
+      "summary_zh": "法蒂玛·曼苏里 (Fatima El Mansouri) 会在宗教和政治障碍中推进妇女权利吗？"
     },
     {
-      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "title": "Watch: The father and son on opposite sides of Alberta’s separation vote",
       "link": "",
-      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "summary": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.",
       "published": "",
-      "title_zh": "女子称在拉塞尔·布兰德涉嫌强奸期间她“闭上眼睛并试图不去现场”",
-      "summary_zh": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault."
+      "title_zh": "观看：艾伯塔省分居投票中站在对立面的父子",
+      "summary_zh": "艾伯塔人正在就是否留在加拿大或通过公投寻求独立进行投票，甚至导致一些关系密切的家庭出现分裂。"
     },
     {
-      "title": "You Can See Everything documentary seen by many on huge box office debut",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
       "link": "",
-      "summary": "Fraudster Elizabeth Holmes invites a sceptical Nathan Fielder into her home before she's sent to prison.",
+      "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
       "published": "",
-      "title_zh": "《你可以看到一切》纪录片首映票房大获好评",
-      "summary_zh": "诈骗犯伊丽莎白·霍姆斯在入狱前邀请持怀疑态度的内森·菲尔德到她家。"
+      "title_zh": "图片中：印度各地庆祝十胜节，庆祝正义战胜邪恶",
+      "summary_zh": "这个节日是为了纪念正义战胜邪恶，印度各地都会以不同的仪式来庆祝。"
     },
     {
-      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+      "title": "I have a condition people are too embarrassed to talk about",
       "link": "",
-      "summary": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
+      "summary": "Women share their experience of lichen sclerosus.",
       "published": "",
-      "title_zh": "以色列警方因定居者在约旦河西岸袭击记者和外交官而逮捕了 10 人",
-      "summary_zh": "此前，蒙面定居者袭击了在橄榄收获季节访问约旦河西岸的巴勒斯坦人和欧洲官员。"
+      "title_zh": "我有一个条件，人们都不好意思谈论",
+      "summary_zh": "女性分享她们的硬化性苔藓经历。"
     },
     {
-      "title": "Trump and Republicans battle to protect the midterms’ most surprising battleground",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-republicans-battle-protect-midterms-surprising-battleground-rcna603635",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普和共和党争夺中期选举最令人惊讶的战场"
-    },
-    {
-      "title": "Maine’s blue-collar bellwether weighs ousting Susan Collins",
-      "link": "https://www.nbcnews.com/politics/2026-election/blue-collar-bellwether-weighs-ousting-longtime-gop-sen-susan-collins-m-rcna598591",
-      "summary": "",
-      "published": "",
-      "title_zh": "缅因州的蓝领领头羊考虑罢免苏珊·柯林斯"
-    },
-    {
-      "title": "Dramatic images show violent unrest sweeping across France",
-      "link": "https://www.nbcnews.com/world/france/france-unrest-photos-looting-violence-macron-rcna604299",
-      "summary": "",
-      "published": "",
-      "title_zh": "戏剧性的图像显示暴力骚乱席卷法国"
-    },
-    {
-      "title": "President Trump makes grim prediction about Paris' future, says what fiery riots are really about",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "link": "",
-      "summary": "",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
       "published": "",
-      "title_zh": "特朗普总统对巴黎的未来做出严峻预测，说出激烈骚乱的真正含义"
+      "title_zh": "法庭文件称，被指控种植设备的前 OpenAI 员工得到了沙特的支持",
+      "summary_zh": "沙特政府没有立即回应英国广播公司的置评请求。"
     },
     {
-      "title": "United Airlines CEO calls for national wealth tax, inheritance taxes approaching 100%",
+      "title": "Canadian tourist guilty of animal cruelty after stealing Las Vegas flamingo",
       "link": "",
-      "summary": "",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
       "published": "",
-      "title_zh": "美联航首席执行官呼吁征收国家财富税、遗产税接近100%"
+      "title_zh": "加拿大游客偷走拉斯维加斯火烈鸟后犯虐待动物罪",
+      "summary_zh": "该男子作证说，他在喝了 30 到 40 瓶啤酒后，从弗拉明戈酒店和赌场的围栏中抓出了 Peachy，但并没有任何伤害的意思。"
     },
     {
-      "title": "OJ Simpson's own lawyer declares the killings are still an 'open case'",
+      "title": "Apu returns to The Simpsons with new voice after race row",
       "link": "",
-      "summary": "",
+      "summary": "The much-loved shopkeeper has been seen but not heard around Springfield for eight years, until now.",
       "published": "",
-      "title_zh": "OJ 辛普森自己的律师宣称这起杀戮仍然是一个“悬而未决的案件”"
+      "title_zh": "赛后阿普以新声音回归《辛普森一家》",
+      "summary_zh": "八年来，这位深受喜爱的店主在斯普林菲尔德周围一直不见踪影，直到现在。"
     },
     {
-      "title": "Manchin delivers stinging rebuke to Schumer with surprise Senate campaign stop",
+      "title": "Exiled critic of Rwandan president found beheaded",
       "link": "",
-      "summary": "",
+      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
       "published": "",
-      "title_zh": "Manchin delivers stinging rebuke to Schumer with surprise Senate campaign stop"
+      "title_zh": "卢旺达总统的流亡批评者被发现被斩首",
+      "summary_zh": "前陆军军士长罗伯特·卡贝拉 (Robert Kabera) 是一位颇受欢迎的 YouTube 博主和歌手，曾在乌干达寻求庇护。"
     },
     {
-      "title": "Hungary, Poland seize on France unrest to defend hard-line migration policies",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
       "link": "",
-      "summary": "",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
       "published": "",
-      "title_zh": "Hungary, Poland seize on France unrest to defend hard-line migration policies"
+      "title_zh": "地方当局称，胡塞武装对也门营地进行导弹袭击，造成 50 名新兵死亡",
+      "summary_zh": "三枚导弹击中了政府控制的沙布瓦省的一个营地，官员称该营地被用作新兵训练中心。"
     },
     {
-      "title": "Bride-to-be and firefighter fiancé mowed down as driver hit with charges",
+      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
       "link": "",
-      "summary": "",
+      "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
       "published": "",
-      "title_zh": "准新娘兼消防员未婚夫因司机被指控而被砍倒"
+      "title_zh": "葡萄牙足协对C罗进行30天禁赛和215英镑罚款",
+      "summary_zh": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 上个月离开葡萄牙国家队训练营后，被葡萄牙足协停赛 30 天。"
     },
     {
-      "title": "A one-pound brass souvenir collecting dust for 11 years just became priceless",
+      "title": "Who has made Troy's Premier League team of the week?",
       "link": "",
-      "summary": "",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
       "published": "",
-      "title_zh": "A one-pound brass souvenir collecting dust for 11 years just became priceless"
+      "title_zh": "谁入选了特洛伊本周英超最佳球队？",
+      "summary_zh": "本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？"
     },
     {
-      "title": "Selena Gomez issues stark warning after vaping habit leaves permanent damage",
+      "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "",
+      "summary": "The two top tennis pros married in 2021 and have one child together.",
+      "published": "",
+      "title_zh": "斯维托丽娜表示乌克兰战争造成的情感损失导致孟菲尔斯分居",
+      "summary_zh": "这两位顶级网球职业选手于 2021 年结婚，并育有一子。"
+    },
+    {
+      "title": "Violent unrest in France sparks fierce migration warning from European leaders",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "赛琳娜·戈麦斯在电子烟习惯造成永久性损害后发出严厉警告"
+      "title_zh": "Violent unrest in France sparks fierce migration warning from European leaders"
     },
     {
-      "title": "Feds say foreign government helped spy's family flee US just days after bust",
+      "title": "Trump shares Iran's latest demand as Soleimani's killing looms large",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦调查局称外国政府在破获间谍案几天后帮助其家人逃离美国"
+      "title_zh": "苏莱马尼被杀事件迫在眉睫，特朗普同意伊朗的最新要求"
     },
     {
-      "title": "Trump praises Putin for 'laying off' Iran as Ukraine peace talks continue",
+      "title": "Rogers warns Michigan voters about El-Sayed’s agenda ahead of election",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普称赞普京在乌克兰和谈继续进行时“解雇”伊朗"
+      "title_zh": "罗杰斯在选举前警告密歇根州选民有关埃尔赛义德的议程"
     },
     {
-      "title": "National Guard shooting suspect linked to at least 13 prior criminal cases in DC",
+      "title": "Oregon high school football player levels opponent carrying the American flag",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "国民警卫队枪击案嫌疑人与华盛顿特区至少 13 起刑事案件有关"
+      "title_zh": "俄勒冈州高中橄榄球运动员平举举着美国国旗的对手"
     },
     {
-      "title": "Trump claims swapping 'Mexico' for 'America' would send property values soaring",
+      "title": "Oscar winner shares the math 'the parties pray you never do' before midterms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Trump claims swapping 'Mexico' for 'America' would send property values soaring"
+      "title_zh": "奥斯卡奖得主在期中考试前分享数学“各方祈祷你永远不要这样做”"
     },
     {
-      "title": "Priest fatally struck by falling crucifix during livestreamed Mass",
+      "title": "The Eagles owe it to Jalen Hurts to address serious allegations",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "牧师在直播弥撒期间被坠落的十字架击中身亡"
+      "title_zh": "老鹰队有责任解决杰伦·赫茨的严重指控"
     },
     {
-      "title": "Sarkisian's job security hinges on benching college football's most famous quarterback",
+      "title": "CNN staffers stunned after veteran anchor announces exit from network",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "萨尔基相的工作保障取决于让大学橄榄球最著名的四分卫坐在替补席上"
+      "title_zh": "资深主播宣布退出网络后，CNN 工作人员感到震惊"
     },
     {
-      "title": "Carville admits he'd rather see GOP control House than Democrats have slim majority",
+      "title": "Lung cancer risk isn’t limited to smokers, as doctors reveal who needs screening",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡维尔承认，他宁愿看到共和党控制众议院，也不愿看到民主党拥有微弱多数"
+      "title_zh": "肺癌风险不仅限于吸烟者，因为医生透露谁需要筛查"
     },
     {
-      "title": "'Hannity' town hall with Senate candidate Mike Rogers, governor hopeful John James",
+      "title": "Nearly 1.6M pounds of hot dogs, bacon and other meats recalled nationwide",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“汉尼提”市政厅与参议院候选人迈克·罗杰斯和州长候选人约翰·詹姆斯"
+      "title_zh": "全国召回近 160 万磅热狗、培根和其他肉类"
+    },
+    {
+      "title": "Wardrobe malfunction turns crushing defeat into a potentially massive payday",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "衣柜故障将惨败变成潜在的巨额发薪日"
+    },
+    {
+      "title": "Largest reticulated python on record in Puerto Rico snagged after it strangled pet cat",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "波多黎各有记录以来最大的网纹蟒在勒死宠物猫后被卡住"
+    },
+    {
+      "title": "Causes of death released for 3 who perished at Burning Man festival in Nevada",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "内华达州火人节三名遇难者的死因已公布"
+    },
+    {
+      "title": "Disclosure Project founder exposes what he believes is the truth behind UFO sightings",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "披露项目创始人揭露了他认为的 UFO 目击事件背后的真相"
+    },
+    {
+      "title": "Addiction specialist sounds alarm amid spike in deadly new street drug",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "成瘾专家对致命的新型街头毒品激增发出警报"
+    },
+    {
+      "title": "World Cup legend warns thugs 'go back from where you came' in viral rant",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "世界杯传奇人物在病毒般的咆哮中警告暴徒“从哪里来”"
+    },
+    {
+      "title": "New wave of violent settler attacks hits Americans and others in lead-up to key election",
+      "link": "https://www.nbcnews.com/world/israel/new-wave-violent-settler-attacks-hits-americans-others-lead-key-electi-rcna604308",
+      "summary": "",
+      "published": "",
+      "title_zh": "在关键选举前夕，新一波定居者暴力袭击袭击了美国人和其他人"
+    },
+    {
+      "title": "James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting",
+      "link": "https://www.nbcnews.com/politics/2026-election/james-talarico-ken-paxton-rallies-texas-begins-early-rcna604421",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着德克萨斯州开始提前投票，詹姆斯·塔拉里科和肯·帕克斯顿举行了一天的决斗集会"
+    },
+    {
+      "title": "Trump uses antisemitic slur in defending Sen. Roger Marshall at rally in Kansas",
+      "link": "https://www.nbcnews.com/politics/donald-trump/president-uses-antisemitic-slur-defending-roger-marshall-kansas-rally-rcna604497",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在堪萨斯州集会上使用反犹太主义诽谤来捍卫参议员罗杰·马歇尔"
+    },
+    {
+      "title": "Richard Riehle, character actor best known for ‘Office Space,’ dies at 78",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/richard-riehle-office-space-dies-78-rcna604412",
+      "summary": "",
+      "published": "",
+      "title_zh": "因《办公室空间》而闻名的角色演员理查德·里尔 (Richard Riehle) 去世，享年 78 岁"
+    },
+    {
+      "title": "Trump’s latest moves back Russia, buck Congress and U.S. allies",
+      "link": "https://www.nbcnews.com/politics/white-house/trumps-latest-moves-back-russia-buck-congress-us-allies-rcna604449",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普的最新举措支持俄罗斯，对抗国会和美国盟友"
+    },
+    {
+      "title": "Tampa Bay Rays advance to World Series, will face Milwaukee Brewers",
+      "link": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268",
+      "summary": "",
+      "published": "",
+      "title_zh": "Tampa Bay Rays advance to World Series, will face Milwaukee Brewers"
+    },
+    {
+      "title": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit",
+      "link": "https://www.nbcnews.com/world/asia/rubio-seeks-expand-central-asia-ties-pomp-filled-uzbekistan-visit-rcna604517",
+      "summary": "",
+      "published": "",
+      "title_zh": "卢比奥以盛大的乌兹别克斯坦访问寻求扩大中亚关系"
+    },
+    {
+      "title": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples",
+      "link": "https://www.nbcnews.com/world/asia/japan-launches-spacecraft-mars-moons-bold-mission-samples-rcna604511",
+      "summary": "",
+      "published": "",
+      "title_zh": "日本向神秘的火星卫星发射航天器，执行一项大胆的任务，将土壤样本带回家"
     }
   ]
 }
