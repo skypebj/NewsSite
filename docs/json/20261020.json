@@ -1,7 +1,11 @@
 {
   "date": "20261020",
-  "total": 44,
+  "total": 35,
   "sources": {
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
     "cnn": {
       "status": "ok",
       "entries": 0
@@ -10,19 +14,15 @@
       "status": "ok",
       "entries": 0
     },
-    "nytimes": {
-      "status": "ok",
-      "entries": 0
-    },
     "theguardian": {
       "status": "ok",
       "entries": 0
     },
-    "bbc": {
+    "fox": {
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "nytimes": {
       "status": "ok",
       "entries": 0
     },
@@ -37,331 +37,259 @@
   },
   "entries": [
     {
-      "title": "The eighth grader who viewed 4,700 YouTube videos at school",
-      "link": "https://www.nbcnews.com/specials/hooked-youtube-videos-schools-junk-infiltrating-classrooms-google/",
-      "summary": "",
-      "published": "",
-      "title_zh": "八年级学生在学校观看了 4,700 个 YouTube 视频"
-    },
-    {
-      "title": "The Data Dive: Steve Kornacki on how Susan Collins could transcend Trump in Maine",
-      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-susan-collins-transcend-trump-maine-rcna604444",
-      "summary": "",
-      "published": "",
-      "title_zh": "数据潜水：史蒂夫·科尔纳基谈苏珊·柯林斯如何在缅因州超越特朗普"
-    },
-    {
-      "title": "Battleground state voters weigh who should oversee their elections",
-      "link": "https://www.nbcnews.com/politics/2026-election/battleground-state-voters-weigh-oversee-elections-rcna602974",
-      "summary": "",
-      "published": "",
-      "title_zh": "战场州选民权衡谁应该监督他们的选举"
-    },
-    {
-      "title": "Zelenskyy meets with Trump envoys as U.S. blasts ‘scandalous’ accusations on withdrawn support",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-us-support-rubio-scandalous-zelenskyy-meeting-trump-oslo-rcna604530",
-      "summary": "",
-      "published": "",
-      "title_zh": "泽连斯基会见特朗普特使，美国谴责撤回支持的“可耻”指控"
-    },
-    {
-      "title": "Lawmaker reportedly loses leg as car ramming stuns Australia",
-      "link": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526",
-      "summary": "",
-      "published": "",
-      "title_zh": "据报道，澳大利亚议员因汽车撞击而失去了一条腿"
-    },
-    {
-      "title": "Why an exceptionally high number of firefighters have died in wildfires this year",
-      "link": "https://www.nbcnews.com/science/environment/firefighters-killed-wildfires-why-deadly-year-rcna601910",
-      "summary": "",
-      "published": "",
-      "title_zh": "为什么今年有大量消防员在山火中丧生"
-    },
-    {
-      "title": "Albertans vote overwhelmingly to stay in Canada in historic referendum",
-      "link": "https://www.nbcnews.com/world/north-america/alberta-voters-reject-move-independence-canada-cbc-projects-rcna604527",
-      "summary": "",
-      "published": "",
-      "title_zh": "艾伯塔省人在历史性公投中以压倒性多数投票决定留在加拿大"
-    },
-    {
-      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
       "link": "",
-      "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
       "published": "",
-      "title_zh": "泽伦斯基准备与美国特使进行奥斯陆会谈，卢比奥否认隐瞒情报",
-      "summary_zh": "美国国务卿否认因美国扣留情报而导致乌克兰人死亡的指控。"
+      "title_zh": "卡尼表示，艾伯塔省投票拒绝分裂主义，“对加拿大来说是伟大的结果”",
+      "summary_zh": "尽管深刻的政治分歧依然存在，但加拿大省以压倒性多数投票决定继续留在加拿大。"
     },
     {
-      "title": "US church on front line of battle against drug known as 'tranq'",
+      "title": "Christina Applegate says she was wrongly diagnosed with MS",
       "link": "",
-      "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "summary": "She said in a Tuesday release of her Messy podcast that she was not happy about the new information and her symptoms have only \"gotten worse\".",
       "published": "",
-      "title_zh": "美国教会处于打击毒品“麻醉剂”的前线",
-      "summary_zh": "芬太尼等合成阿片类药物功效更强大，供应充足，它们改变了毒品格局。"
+      "title_zh": "克里斯蒂娜·艾伯盖特 (Christina Applegate) 表示，她被错误诊断为多发性硬化症",
+      "summary_zh": "她在周二发布的凌乱播客中表示，她对新信息并不满意，她的症状只会“变得更糟”。"
     },
     {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "title": "Ex-student says embattled Cornell University head doubted her gang-rape allegation",
       "link": "",
-      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
       "published": "",
-      "title_zh": "为什么以色列 Z 世代选民被极右翼吸引",
-      "summary_zh": "下周，超过五十万年轻人将在以色列投票——他们可以改变一切。"
+      "title_zh": "前学生表示，陷入困境的康奈尔大学校长对她的轮奸指控表示怀疑",
+      "summary_zh": "随着不信任投票的临近，康奈尔表示，对首脑反应的描述是“不正确的”。"
     },
     {
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
       "link": "",
-      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
       "published": "",
-      "title_zh": "抗议活动演变成“世界末日”混乱后，马赛准备迎接更多骚乱",
-      "summary_zh": "周六，法国第二大城市发生了最严重的暴力事件。"
+      "title_zh": "艾伯塔省分离主义运动在决定性失败后遭受巨大挫折",
+      "summary_zh": "独立运动的领导人发誓要继续前进，但失败的幅度可能会让这变得困难。"
     },
     {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "Watch: Why does Prince Harry want to 'work it out' with his father and brother?",
       "link": "",
-      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "summary": "Noor Nanji breaks down Prince Harry's interview with GQ Magazine, after he said he wants to \"reconcile\" with his family.",
       "published": "",
-      "title_zh": "男子被指控袭击澳大利亚议员，嫌疑人的父亲称她是家庭朋友",
-      "summary_zh": "布伦丹·纽金特 (Brendan Nugent) 的家人表示，他们认识海伦·海恩斯 (Helen Haines) 已有 20 多年了，海恩斯目前仍处于危急状态。"
+      "title_zh": "观看：为什么哈里王子想与他的父亲和兄弟“解决这个问题”？",
+      "summary_zh": "努尔·南吉 (Noor Nanji) 在哈里王子表示希望与家人“和解”后，对他接受《GQ》杂志的采访进行了剖析。"
     },
     {
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "title": "Google resolves cloud outage affecting UK banks and websites",
       "link": "",
-      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
       "published": "",
-      "title_zh": "朝鲜公布金正恩照片 - 为什么金正恩去世的传闻不断传出？",
-      "summary_zh": "在未经证实的谣言传播后，朝鲜官方媒体发布了独裁者与女儿的照片。"
+      "title_zh": "谷歌解决了影响英国银行和网站的云中断问题",
+      "summary_zh": "Revolut 是受影响最严重的公司之一，许多客户的银行服务都受到影响。"
     },
     {
-      "title": "How is the US economy really doing under President Trump?",
+      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
       "link": "",
-      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "summary": "The closures are announced as the corporation continues to try to save £500m over two years.",
       "published": "",
-      "title_zh": "特朗普总统领导下的美国经济到底表现如何？",
-      "summary_zh": "在中期选举之前，特朗普吹嘘了美国经济的表现。BBC verify 关注该国的通货膨胀、就业和经济增长。"
+      "title_zh": "BBC 三台、BBC Scotland 和 Radio 4 Extra 广播频道将关闭",
+      "summary_zh": "宣布关闭的同时，该公司继续努力在两年内节省 5 亿英镑。"
     },
     {
-      "title": "Shock and disbelief: How the attack on an Australian MP unfolded",
+      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
       "link": "",
-      "summary": "BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.",
+      "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
       "published": "",
-      "title_zh": "震惊和难以置信：澳大利亚议员遇袭事件是如何展开的",
-      "summary_zh": "BBC 的凯蒂·沃森 (Katy Watson) 正在旺加拉塔视察事件现场以及社区为这位独立议员举行守夜活动的教堂。"
+      "title_zh": "国王在盛大的宴会上赞扬霍尔木兹海峡和平努力",
+      "summary_zh": "欢迎中东战略伙伴领导人阿曼苏丹来温莎进行国事访问。"
     },
     {
-      "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
+      "title": "Reese stars as Dream win first WNBA Finals match",
       "link": "",
-      "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "summary": "Atlanta Dream win their first ever game in the WNBA Finals as they beat the Golden State Valkyries 79-65 to level the series at 1-1.",
       "published": "",
-      "title_zh": "“我厌倦了刷卡”：单身人士选择约会活动而不是应用程序",
-      "summary_zh": "BBC 听到人们认为约会活动比约会应用程序更划算。"
+      "title_zh": "里斯主演的梦想赢得首场WNBA总决赛",
+      "summary_zh": "亚特兰大梦想队以 79-65 击败金州女武神队，将系列赛总比分 1-1 扳平，赢得了 WNBA 总决赛首场比赛。"
     },
     {
-      "title": "Can a simple photo of your face reveal how ill you are?",
+      "title": "Championship: Wolves and Portsmouth struggling to create chances",
       "link": "",
-      "summary": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
+      "summary": "Follow live text commentary, score updates and match stats from Wolverhampton Wanderers v Portsmouth in the Championship.",
       "published": "",
-      "title_zh": "一张简单的脸部照片就能显示您的病情有多严重吗？",
-      "summary_zh": "美国研究人员表示，人工智能可以帮助医生通过一张患者的脸部照片来判断患者的病情有多严重。"
+      "title_zh": "冠军：狼队和朴茨茅斯努力创造机会",
+      "summary_zh": "关注冠军联赛中狼队对阵朴茨茅斯的实时文字评论、比分更新和比赛统计数据。"
     },
     {
-      "title": "'I started ketamine at 14 and needed nappies at 22' - the rise of young people going to rehab",
-      "link": "",
-      "summary": "For the last two years Megan has been in agony and unable to stand straight because of her ketamine use.",
-      "published": "",
-      "title_zh": "“我 14 岁开始服用氯胺酮，22 岁时需要尿布”——接受康复治疗的年轻人数量增加",
-      "summary_zh": "在过去的两年里，梅根因为服用氯胺酮而一直处于痛苦之中，无法站直。"
-    },
-    {
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "link": "",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "published": "",
-      "title_zh": "厄尔尼诺现象影响世界各地天气的五种方式",
-      "summary_zh": "随着有记录以来最强的厄尔尼诺现象继续加剧，全球范围内已经感受到了对天气模式的哪些影响？莎拉·基思-卢卡斯审视了证据。"
-    },
-    {
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "link": "",
-      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "published": "",
-      "title_zh": "游客从围栏中偷走拉斯维加斯火烈鸟后被判有罪",
-      "summary_zh": "该男子作证说，他在喝了 30 到 40 瓶啤酒后，从弗拉明戈酒店和赌场的围栏中抓出了 Peachy，但并没有任何伤害的意思。"
-    },
-    {
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "link": "",
-      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-      "published": "",
-      "title_zh": "阿尔巴尼亚抗议者与警察之间的暴力冲突已进入第七天",
-      "summary_zh": "由于暴力反政府示威活动没有任何缓和的迹象，近 300 人受伤，其中一半以上是警察。"
-    },
-    {
-      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
-      "link": "",
-      "summary": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
-      "published": "",
-      "title_zh": "南非首都附近数百人患病后，居民被警告不要饮用自来水",
-      "summary_zh": "比勒陀利亚东部有 400 多人（其中大部分是儿童）因饮用受污染的水而生病。"
-    },
-    {
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "link": "",
-      "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
-      "published": "",
-      "title_zh": "乌克兰表示首次用无人机从前线空运受伤士兵",
-      "summary_zh": "乌克兰军方表示，这名军人被地雷和敌方无人机包围，因此无法进行地面救援。"
-    },
-    {
-      "title": "Ronaldo let Manchester United down - Ten Hag",
-      "link": "",
-      "summary": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-      "published": "",
-      "title_zh": "罗纳尔多让曼联失望了 - 十哈格",
-      "summary_zh": "前曼联主教练埃里克·十·哈格表示，克里斯蒂亚诺·罗纳尔多在荷兰人效力老特拉福德期间“让球队让球队让我失望”。"
-    },
-    {
-      "title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
-      "link": "",
-      "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix.",
-      "published": "",
-      "title_zh": "林德布拉德和劳森会被公牛队保留吗？F1问答",
-      "summary_zh": "BBC Sport F1 记者安德鲁·本森 (Andrew Benson) 在美国大奖赛前回答您的最新问题。"
-    },
-    {
-      "title": "Maddison's magic moment for Spurs - 18 months in the making",
-      "link": "",
-      "summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
-      "published": "",
-      "title_zh": "麦迪逊为热刺创造的神奇时刻——酝酿 18 个月",
-      "summary_zh": "菲尔·麦克纳尔蒂写道，詹姆斯·麦迪森自 2025 年 5 月以来首次首发，为热刺 3-1 战胜考文垂提供了他们等待的神奇时刻。"
-    },
-    {
-      "title": "Republicans face an unexpected new threat in states Trump won big just two years ago",
+      "title": "Trump recruits Americans to hunt taxpayer fraud with lucrative cash rewards",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Republicans face an unexpected new threat in states Trump won big just two years ago"
+      "title_zh": "特朗普招募美国人以丰厚的现金奖励追捕纳税人欺诈行为"
     },
     {
-      "title": "Sprawling network behind France unrest plots fresh round of protests in 12 countries",
+      "title": "Warning for Americans in France after violent protests and Paris hotel evacuation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国骚乱背后的庞大网络正在策划在12个国家发起新一轮抗议活动"
+      "title_zh": "暴力抗议和巴黎酒店疏散后对在法国的美国人发出警告"
     },
     {
-      "title": "Omar’s sister quietly spoke with fed investigators just after Dem rep's home was raided",
+      "title": "Dem candidate's mother urges voters to reject her: 'Don't let her become your governor'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在民主党议员的家遭到搜查后，奥马尔的妹妹悄悄与联邦调查人员交谈"
+      "title_zh": "民主党候选人的母亲敦促选民拒绝她：“不要让她成为你们的州长”"
     },
     {
-      "title": "Far-left Philadelphia DA hit with DOJ grand jury subpoenas",
+      "title": "Ilhan Omar's husband sold empty wine barrels to investors in fraud scheme, Comer says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "极左费城地方检察官收到司法部大陪审团传票"
+      "title_zh": "科默称，伊尔汗·奥马尔的丈夫通过欺诈计划向投资者出售空酒桶"
     },
     {
-      "title": "Terrified passengers jump from plane's wing after midair scare forces emergency landing",
+      "title": "Tourist killed in freak accident at landmark designed by America's most famous architect",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "空中恐慌迫使紧急迫降后，惊恐的乘客从机翼跳下"
+      "title_zh": "美国最著名建筑师设计的地标建筑发生怪异事故，一名游客身亡"
     },
     {
-      "title": "Deadly new opioid more powerful than fentanyl is spreading across America",
+      "title": "Robert F Kennedy's granddaughter dies at 42 after years of health struggles",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "比芬太尼更强大的致命新阿片类药物正在美国蔓延"
+      "title_zh": "罗伯特·F·肯尼迪的孙女因多年的健康问题去世，享年 42 岁"
     },
     {
-      "title": "Woman 'ran for her life' naked to escape attack at luxury island's police barracks: DA",
+      "title": "Bush family royalty backs Democrat in Senate battle to flip home state blue",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "DA：女子在豪华岛警察营房遭遇袭击时赤身裸体“逃命”"
+      "title_zh": "布什家族皇室成员在参议院为将家乡变成蓝色而战中支持民主党"
     },
     {
-      "title": "Navy quadruples robot deal to $300 million in bid to outsmart US rival",
+      "title": "Tiger Woods' return to golf after DUI arrest may have two possible paths",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "海军将机器人交易增加四倍至 3 亿美元，以智取美国竞争对手"
+      "title_zh": "泰格·伍兹在酒后驾车被捕后重返高尔夫球场可能有两条可能的路径"
     },
     {
-      "title": "Iran regime faces new armed threat as rebel groups intensify attacks",
+      "title": "Madison Brooks rape suspect's attorney faces new trouble over her own legal mistake",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着叛乱组织加强袭击，伊朗政权面临新的武装威胁"
+      "title_zh": "麦迪逊布鲁克斯强奸嫌疑人的律师因自己的法律错误面临新麻烦"
     },
     {
-      "title": "Elderly man killed in random break-in as wife makes daring escape: sheriff",
+      "title": "Tech CEO accuses Netflix of going 'full doomer mode' with documentary",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "老人因妻子大胆逃跑而在随机闯入中丧生：治安官"
+      "title_zh": "科技公司首席执行官指责 Netflix 纪录片走向“全面厄运模式”"
     },
     {
-      "title": "Dream, Valkyries snub National Anthem again despite WNBA rule requiring players to stand",
+      "title": "White House makes definitive statement on whether US will attack Iran before midterms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "尽管WNBA规则要求球员起立，梦想，女武神再次冷落国歌"
+      "title_zh": "白宫就美国是否会在中期选举前攻击伊朗发表明确声明"
     },
     {
-      "title": "Numbers prove just how fraudulent Notre Dame has been during the Marcus Freeman era",
+      "title": "Defund the police betrayed Black America. I'm rebuilding what activists broke",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "数字证明了马库斯·弗里曼时代圣母大学的欺诈行为有多么严重"
+      "title_zh": "撤资警察背叛了美国黑人。我正在重建活动人士破坏的东西"
     },
     {
-      "title": "GREG GUTFELD:This is an oxymoron",
+      "title": "Jury reaches verdict in Las Vegas tourist's drunken encounter with hotel flamingo",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "GREG GUTFELD：这是一个矛盾的说法"
+      "title_zh": "陪审团对拉斯维加斯游客醉酒遭遇酒店火烈鸟案作出裁决"
     },
     {
-      "title": "Retail giant launches lower-cost membership bundle as shoppers seek savings",
+      "title": "Italy ramps up military response to riot chaos as France prepares for another wave",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着购物者寻求节省，零售巨头推出低成本会员套餐"
+      "title_zh": "法国准备应对另一波骚乱，意大利加大对骚乱的军事反应"
     },
     {
-      "title": "Koe Wetzel, Ella Langley's 'That's Why We Fight' performance at RedWest Festival goes viral",
+      "title": "Enes Kanter Freedom reacts after WNBA says he’s ineligible for draft because he’s a man",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Koe Wetzel 和 Ella Langley 在 RedWest 音乐节上的“That's Why We Fight”表演走红"
+      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 在 WNBA 表示他没有资格参加选秀后做出了反应，因为他是一名男子"
     },
     {
-      "title": "Republicans see an opening in El-Sayed’s party with Obama set to make final push",
+      "title": "Christina Applegate weeps after stunning MS misdiagnosis leaves her 'back at square one'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党人认为埃尔赛义德的政党有机会，奥巴马将做出最后的努力"
+      "title_zh": "克里斯蒂娜·艾伯盖特在令人震惊的多发性硬化症误诊让她“回到原点”后哭泣"
     },
     {
-      "title": "LISTEN:Kansas soccer field dispatch call captures mass-casualty response after driver kills boy, man",
+      "title": "Accused pregnant wife killer who fled US gets a break from Italian judges",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "听：堪萨斯足球场调度电话记录了司机杀死男孩和男子后造成的大规模伤亡反应"
+      "title_zh": "逃离美国的被指控杀害妻子的凶手从意大利法官那里得到了宽恕"
     },
     {
-      "title": "Dash cam catches single-engine Cessna slam into San Jose highway overpass",
+      "title": "Jay-Z reportedly makes decision for Super Bowl halftime show at SoFi Stadium",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "行车记录仪捕捉到单引擎塞斯纳撞上圣何塞高速公路立交桥的画面"
+      "title_zh": "据报道 Jay-Z 决定在 SoFi 体育场参加超级碗中场表演"
+    },
+    {
+      "title": "Homebuyers gain leverage in more US cities, but there's a costly catch",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "购房者在更多美国城市获得影响力，但代价高昂"
+    },
+    {
+      "title": "United CEO's $32M pay comes under scrutiny after wealth inequality warning",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "财富不平等警告后，美联航首席执行官 3200 万美元薪酬受到审查"
+    },
+    {
+      "title": "Jane Doe says Cornell president appeared to question allegations in letter to faculty senate",
+      "link": "https://www.nbcnews.com/news/us-news/jane-doe-says-cornell-president-appeared-question-allegations-letter-f-rcna604606",
+      "summary": "",
+      "published": "",
+      "title_zh": "无名氏表示，康奈尔大学校长似乎对写给教员参议院的信中的指控提出质疑"
+    },
+    {
+      "title": "How France’s far right is using a weekend of riots and chaos to seize power",
+      "link": "https://www.nbcnews.com/world/france/france-riots-far-right-leader-marine-le-pen-using-protests-emmanuel-ma-rcna604307",
+      "summary": "",
+      "published": "",
+      "title_zh": "法国极右翼如何利用周末的骚乱和混乱夺取权力"
+    },
+    {
+      "title": "Christina Applegate says she was misdiagnosed with multiple sclerosis",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/christina-applegate-says-was-misdiagnosed-multiple-sclerosis-rcna604558",
+      "summary": "",
+      "published": "",
+      "title_zh": "克里斯蒂娜·艾伯盖特说她被误诊为多发性硬化症"
+    },
+    {
+      "title": "Trump says he’ll determine who deserves federal fraud tipster money from new program",
+      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-midterm-rally-north-carolina-2026-election-congress-live-updates-rcna604465",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普表示，他将决定谁应该从新计划中获得联邦欺诈举报资金"
+    },
+    {
+      "title": "Should the Eagles have played Jalen Hurts after he was diagnosed with a blood clot?",
+      "link": "https://www.nbcnews.com/sports/nfl/eagles-played-jalen-hurts-was-diagnosed-blood-clot-rcna604419",
+      "summary": "",
+      "published": "",
+      "title_zh": "在杰伦被诊断出患有血栓后，老鹰队应该让他上场吗？"
     }
   ]
 }
