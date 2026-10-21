@@ -2,6 +2,10 @@
   "date": "20261021",
   "total": 39,
   "sources": {
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
     "cnn": {
       "status": "ok",
       "entries": 0
@@ -10,19 +14,15 @@
       "status": "ok",
       "entries": 0
     },
-    "nytimes": {
-      "status": "ok",
-      "entries": 0
-    },
     "theguardian": {
       "status": "ok",
       "entries": 0
     },
-    "bbc": {
+    "fox": {
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "nytimes": {
       "status": "ok",
       "entries": 0
     },
@@ -37,292 +37,288 @@
   },
   "entries": [
     {
-      "title": "Russia frees retired American teacher as Trump envoy meets with Putin",
-      "link": "https://www.nbcnews.com/world/russia/russia-released-american-stephen-hubbard-trump-putin-ukraine-war-talks-rcna604730",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普特使会见普京，俄罗斯释放退休美国教师"
-    },
-    {
-      "title": "Viral attack ad featuring candidate’s estranged mother rattles bitter Ohio governor race",
-      "link": "https://www.nbcnews.com/politics/2026-election/amy-acton-attack-ad-ohio-governors-race-rcna604601",
-      "summary": "",
-      "published": "",
-      "title_zh": "以候选人疏远母亲为主角的病毒式攻击广告扰乱了激烈的俄亥俄州州长竞选"
-    },
-    {
-      "title": "Critical vulnerabilities in commonly used web code spark rush to update systems",
-      "link": "https://www.nbcnews.com/tech/security/critical-vulnerabilities-php-update-systems-rcna604751",
-      "summary": "",
-      "published": "",
-      "title_zh": "常用网络代码中的严重漏洞引发了系统更新热潮"
-    },
-    {
-      "title": "New York congressional candidate Brad Lander says he was detained by IDF in the occupied West Bank",
-      "link": "https://www.nbcnews.com/politics/politics-news/new-york-congressional-candidate-brad-lander-detained-west-bank-rcna604741",
-      "summary": "",
-      "published": "",
-      "title_zh": "纽约国会候选人布拉德·兰德表示，他在被占领的约旦河西岸被以色列国防军拘留"
-    },
-    {
-      "title": "Police records reveal tensions between Cornell investigators and DA years before Jane Doe case",
-      "link": "https://www.nbcnews.com/news/us-news/police-records-reveal-tensions-cornell-investigators-district-attorney-rcna603443",
-      "summary": "",
-      "published": "",
-      "title_zh": "警方记录显示，在无名氏案发生前数年，康奈尔大学调查人员与地方检察官之间关系紧张"
-    },
-    {
-      "title": "Secret Service study explores how to prevent workplace violence",
-      "link": "https://www.nbcnews.com/politics/national-security/secret-service-study-explores-prevent-workplace-violence-rcna604656",
-      "summary": "",
-      "published": "",
-      "title_zh": "特勤局研究探讨如何预防工作场所暴力"
-    },
-    {
-      "title": "Why 1 in 5 multiple sclerosis patients like Christina Applegate are misdiagnosed",
-      "link": "https://www.nbcnews.com/health/health-news/christina-applegate-ms-misdiagnosed-how-treatment-wrong-disorder-rcna604562",
-      "summary": "",
-      "published": "",
-      "title_zh": "为什么像克里斯蒂娜·艾伯盖特这样的多发性硬化症患者中有五分之一被误诊"
-    },
-    {
-      "title": "Newsom's war on ICE agents gets torched by a unanimous 9th Circuit ruling",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "link": "",
-      "summary": "",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
       "published": "",
-      "title_zh": "纽瑟姆对 ICE 特工的战争因第九巡回法院的一致裁决而被点燃"
+      "title_zh": "特朗普特使会见普京后，美国公民斯蒂芬·哈伯德被俄罗斯释放",
+      "summary_zh": "特朗普表示，被捕的 74 岁前教师已被释放，无需任何“交换”。"
     },
     {
-      "title": "Trump touts ‘unprecedented’ release of American teacher after pressing Putin: 'No swap necessary'",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
       "link": "",
-      "summary": "",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
       "published": "",
-      "title_zh": "特朗普向普京施压后称美国教师“史无前例”获释：“无需交换”"
+      "title_zh": "发布重要网络安全更新后，全球网站被关闭",
+      "summary_zh": "PHP 是一种在互联网上广泛使用的编程语言，其漏洞被描述为人工智能有史以来发现的最严重的漏洞。"
     },
     {
-      "title": "Macron blasts world leaders for 'stupid comments' about riots rocking his country",
+      "title": "Ohio governor's race turns ugly as attack ad features candidate's estranged mother",
       "link": "",
-      "summary": "",
+      "summary": "The Republican candidate released an ad featuring his opponent's mother calling her daughter \"a liar\".",
       "published": "",
-      "title_zh": "马克龙抨击世界领导人对震撼国家的骚乱发表“愚蠢言论”"
+      "title_zh": "俄亥俄州州长的竞选变得丑陋，因为攻击性广告以候选人疏远的母亲为特色",
+      "summary_zh": "这位共和党候选人发布了一则广告，其中对手的母亲称她的女儿是“骗子”。"
     },
     {
-      "title": "Elon Musk throws weight behind Senate candidate with warning about America’s ‘fate’",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
       "link": "",
-      "summary": "",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
       "published": "",
-      "title_zh": "埃隆·马斯克大力支持参议院候选人，警告美国的“命运”"
+      "title_zh": "Meta 因用户数据隐私“撒谎”被罚款 250 亿美元",
+      "summary_zh": "这是迄今为止针对 Facebook 所有者的最大一笔罚款，比与加州的 180 亿美元交易还要高。"
     },
     {
-      "title": "Zelenskyy opens door to battle line 'freeze' to end war with Russia",
+      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
       "link": "",
-      "summary": "",
+      "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
       "published": "",
-      "title_zh": "泽伦斯基为结束与俄罗斯的战争打开了“冻结”战线的大门"
+      "title_zh": "婆罗洲燃烧：东南亚有毒雾霾前线的生命",
+      "summary_zh": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick."
     },
     {
-      "title": "Enes Kanter Freedom says he’s in touch with FBI after death threats over WNBA Finals plans",
+      "title": "UK PM defends decision to allow exctraction from gas field in North Sea",
       "link": "",
-      "summary": "",
+      "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
       "published": "",
-      "title_zh": "埃内斯·坎特·自由 (Enes Kanter Freedom) 表示，在 WNBA 总决赛计划受到死亡威胁后，他正在与 FBI 保持联系"
+      "title_zh": "英国首相捍卫允许从北海气田开采的决定",
+      "summary_zh": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
     },
     {
-      "title": "ICE arrests multiple illegal immigrants as nationwide SNAP fraud operation begins",
+      "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
       "link": "",
-      "summary": "",
+      "summary": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing.",
       "published": "",
-      "title_zh": "全国 SNAP 欺诈行动开始后，ICE 逮捕了多名非法移民"
+      "title_zh": "作者海伦·菲尔丁设立奖项，寻找下一个布里奇特·琼斯的日记",
+      "summary_zh": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing."
     },
     {
-      "title": "Trump demands data centers generate their own power, pay communities that host them",
+      "title": "F1 races to return to standard distance in 2028",
       "link": "",
-      "summary": "",
+      "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season.",
       "published": "",
-      "title_zh": "特朗普要求数据中心自行发电，并向托管它们的社区付费"
+      "title_zh": "F1比赛将于2028年恢复标准距离",
+      "summary_zh": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season."
     },
     {
-      "title": "Vance set to unveil charges against 40 defendants in $40M SNAP fraud bust",
+      "title": "Former UK MP being investigated over alleged rape inside Parliament",
       "link": "",
-      "summary": "",
+      "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
       "published": "",
-      "title_zh": "万斯将在价值 4000 万美元的 SNAP 欺诈案中公布对 40 名被告的指控"
+      "title_zh": "英国前议员因涉嫌在议会内强奸而接受调查",
+      "summary_zh": "尽管没有点名这位名誉扫地的前议员，伦敦警察厅已发表声明，确认一名 63 岁男子正在接受调查。"
     },
     {
-      "title": "Iran threatens to cut cables in key oil route: 'If the US wants to damage our infrastructure...'",
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
       "link": "",
-      "summary": "",
+      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
       "published": "",
-      "title_zh": "伊朗威胁要切断关键石油路线的电缆：“如果美国想破坏我们的基础设施……”"
+      "title_zh": "巴基斯坦逮捕因1.26亿美元邮资诈骗案被美国通缉的男子",
+      "summary_zh": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
     },
     {
-      "title": "Thousands pay respects at funeral as slain hero promoted to sergeant posthumously",
+      "title": "Man Utd humiliation by Como leaves Carrick job in danger",
       "link": "",
-      "summary": "",
+      "summary": "Manchester United suffer one of the worst European nights in their history against Como to pile the pressure on beleaguered boss Michael Carrick.",
       "published": "",
-      "title_zh": "数千人在葬礼上表达敬意，被杀的英雄被追授为中士"
+      "title_zh": "曼联被科莫羞辱让卡里克的工作面临危险",
+      "summary_zh": "曼联在对阵科莫的比赛中遭遇了他们历史上最糟糕的欧洲之夜之一，这给陷入困境的主帅迈克尔·卡里克带来了压力。"
     },
     {
-      "title": "US city under evacuation, shelter-in-place orders from hazardous material release",
-      "link": "",
+      "title": "California’s billionaire tax faces a mountain of opposition — and not just from the rich",
+      "link": "https://www.nbcnews.com/politics/2026-election/californias-billionaire-tax-faces-mountain-opposition-not-just-rich-rcna604397",
       "summary": "",
       "published": "",
-      "title_zh": "美国城市因危险物质释放而疏散、就地避难"
+      "title_zh": "California’s billionaire tax faces a mountain of opposition — and not just from the rich"
     },
     {
-      "title": "GREG GUTFELD:This is far from new...",
-      "link": "",
+      "title": "Vance says Republicans should ‘stop whining’ about Ramaswamy’s attack ad",
+      "link": "https://www.nbcnews.com/politics/2026-election/vance-republicans-stop-whining-vivek-ramaswamy-attack-ad-amy-acton-rcna604817",
       "summary": "",
       "published": "",
-      "title_zh": "GREG GUTFELD：这绝不是新鲜事......"
+      "title_zh": "Vance says Republicans should ‘stop whining’ about Ramaswamy’s attack ad"
     },
     {
-      "title": "Uninvited elk steals the show as campers prepare breakfast at Colorado park",
-      "link": "",
+      "title": "Who is Stephen Hubbard, the retired American teacher freed by Russia?",
+      "link": "https://www.nbcnews.com/world/ukraine/stephen-hubbard-retired-american-teacher-freed-russia-rcna604735",
       "summary": "",
       "published": "",
-      "title_zh": "露营者在科罗拉多公园准备早餐时，不请自来的麋鹿抢尽风头"
+      "title_zh": "被俄罗斯释放的美国退休教师斯蒂芬·哈伯德是谁？"
     },
     {
-      "title": "Cops 'needed to do a better job' explaining why the driver was released after killing 2: expert",
+      "title": "Pope Leo will not require further treatment after lung surgery, doctors say",
+      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-treatment-lung-cancer-rcna604869",
+      "summary": "",
+      "published": "",
+      "title_zh": "医生称，教皇利奥在肺部手术后不需要进一步治疗"
+    },
+    {
+      "title": "Supreme Court rejects Trump policy restricting treatment for transgender federal inmates",
+      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-transgender-prison-policy-rcna601889",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院驳回特朗普限制变性联邦囚犯待遇的政策"
+    },
+    {
+      "title": "Experts explain how an AI kill switch could work",
+      "link": "https://www.nbcnews.com/tech/tech-news/ai-kill-switch-rcna604643",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家解释人工智能终止开关如何工作"
+    },
+    {
+      "title": "Who knew a basket could be sexy? How ‘Wicker’ became fall’s surprise must-see",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/wicker-movie-thirsty-fans-basket-man-alexander-skarsgard-rcna603282",
+      "summary": "",
+      "published": "",
+      "title_zh": "谁知道篮子可以很性感？《柳条》如何成为秋季必看的惊喜"
+    },
+    {
+      "title": "Toledo chemical explosion prompts evacuations and shelter-in-place orders",
+      "link": "https://www.nbcnews.com/news/us-news/evacuations-shelter-place-orders-issued-toledo-ohio-chemical-release-rcna604739",
+      "summary": "",
+      "published": "",
+      "title_zh": "托莱多化学爆炸促使疏散和就地避难"
+    },
+    {
+      "title": "Trump supporters confronted with painful gas prices deliver striking response",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家：警察“需要做得更好”解释为什么司机在杀死两人后被释放"
+      "title_zh": "面对痛苦的油价，特朗普的支持者做出了惊人的反应"
     },
     {
-      "title": "Obama, Harris spotlight Israel as Black Americans turn attention closer to home",
+      "title": "Ilhan Omar emerges after DC raid with video pleading for cash to fight Trump",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥巴马和哈里斯聚焦以色列，美国黑人将注意力转向家乡"
+      "title_zh": "伊尔汗·奥马尔在华盛顿突袭后现身，视频中恳求现金对抗特朗普"
     },
     {
-      "title": "Archaeologists uncover record-breaking ancient coin hoard at unlikely site in Germany",
+      "title": "Thune makes bold prediction about Senate control as GOP pulls millions from key races",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "考古学家在德国意想不到的地点发现了破纪录的古钱币宝库"
+      "title_zh": "随着共和党从关键竞选中撤走数百万美元，图恩对参议院控制权做出了大胆预测"
     },
     {
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
+      "title": "French woman recounts 'horror movie' as mob of rioters turned on husband in streets of Paris",
       "link": "",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "summary": "",
       "published": "",
-      "title_zh": "尽管出现了新的乐观情绪，特朗普和泽伦斯基仍存在争执",
-      "summary_zh": "保罗·亚当斯写道，乌克兰领导人在挪威首都与史蒂夫·威特科夫的拥抱不太可能消除人们对美国对其国家政策的疑虑。"
+      "title_zh": "法国妇女讲述巴黎街头暴徒袭击丈夫的“恐怖电影”"
     },
     {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "title": "Woman behind $6M sham marriage scheme stopped because Trump won: DOJ",
       "link": "",
-      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "summary": "",
       "published": "",
-      "title_zh": "埃隆·马斯克 (Elon Musk) 为何要策划 SpaceX 和特斯拉的大型合并？",
-      "summary_zh": "马斯克表示，通过将两家公司合并为历史上最大的合并，“可以获得很多好处”。"
+      "title_zh": "600万美元假结婚计划背后的女人因特朗普获胜而停止：司法部"
     },
     {
-      "title": "King talks of 'most tragic of days imaginable' as he meets survivors of Aberfan disaster 60 years on",
+      "title": "WNBA anthem controversy reaches NBA as league leaves questions unanswered",
       "link": "",
-      "summary": "On this day in 1966, a colliery spoil tip collapsed, engulfing a junior school and nearby homes.",
+      "summary": "",
       "published": "",
-      "title_zh": "60 年后，金在会见阿伯凡灾难幸存者时谈到了“可以想象到的最悲惨的日子”",
-      "summary_zh": "1966 年的今天，一个煤矿弃土场倒塌，吞没了一所初中和附近的房屋。"
+      "title_zh": "WNBA 国歌争议波及 NBA，联盟悬而未决"
     },
     {
-      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "title": "Danica Patrick roars back into politics with fiery message about Trump",
       "link": "",
-      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+      "summary": "",
       "published": "",
-      "title_zh": "丈夫称澳大利亚议员因涉嫌汽车袭击而失去双腿",
-      "summary_zh": "43 岁的布伦丹·纽金特 (Brendan Nugent) 被指控袭击她，他面临多项指控，并于周三首次出庭。"
+      "title_zh": "丹妮卡·帕特里克 (Danica Patrick) 带着有关特朗普的激烈言论重返政坛"
     },
     {
-      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "title": "Democrats infuriated as fraud pollster admits to phony numbers that boosted El-Sayed",
       "link": "",
-      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "summary": "",
       "published": "",
-      "title_zh": "卡蒂亚·阿德勒（Katya Adler）：法国在骚乱的责任方和从中吸取教训的问题上存在分歧",
-      "summary_zh": "在法国及其他地区，对于是什么导致了法国城市现代历史上最严重的骚乱，存在着广泛的分歧。"
+      "title_zh": "民意调查机构承认欺诈数据提振了埃尔赛义德，民主党人感到愤怒"
     },
     {
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+      "title": "Mom in unsolved NJ murder died of 'sharp force injury': autopsy",
       "link": "",
-      "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
+      "summary": "",
       "published": "",
-      "title_zh": "大批民众观看救援搁浅在韩国运河中的鲨鱼的行动",
-      "summary_zh": "第三次尝试将这条 9 英尺 10 英寸（3 m）的鲨鱼引导回公海。"
+      "title_zh": "新泽西州悬而未决的谋杀案中的母亲死于“锐器伤害”：尸检"
     },
     {
-      "title": "60 years on: Wales' Aberfan disaster through the eyes of those who survived",
+      "title": "Tensions flare over city council vote on data centers: 'We can't keep trusting your word'",
       "link": "",
-      "summary": "It was one of Wales' darkest days that changed a mining community forever.",
+      "summary": "",
       "published": "",
-      "title_zh": "60 年后：幸存者眼中的威尔士阿伯凡灾难",
-      "summary_zh": "这是威尔士最黑暗的日子之一，永远改变了采矿社区。"
+      "title_zh": "Tensions flare over city council vote on data centers: 'We can't keep trusting your word'"
     },
     {
-      "title": "Is Donald Trump ready to do business with Myanmar?",
+      "title": "Trump shares photo of American teacher heading back to US after release from Russia",
       "link": "",
-      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+      "summary": "",
       "published": "",
-      "title_zh": "唐纳德·特朗普准备好与缅甸做生意了吗？",
-      "summary_zh": "有迹象表明，美国正在改变对曾经被全球唾弃的缅甸的政策。"
+      "title_zh": "Trump shares photo of American teacher heading back to US after release from Russia"
     },
     {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "title": "Pope Leo XIV receives encouraging cancer news as doctors reveal final test results",
       "link": "",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "summary": "",
       "published": "",
-      "title_zh": "埃隆·马斯克证实他正在考虑合并特斯拉和 SpaceX",
-      "summary_zh": "马斯克表示，两家公司内部已经成立了特别委员会，以研究可能的大型合并。"
+      "title_zh": "医生公布最终检测结果，教皇利奥十四世收到令人鼓舞的癌症消息"
     },
     {
-      "title": "MNEK cancels tour over lack of ticket sales and high production costs",
+      "title": "Viral video shows 'Bama's head coach looking absolutely terrified by Vols fans",
       "link": "",
-      "summary": "The Grammy-nominated artist was due to start a run of shows for his latest album Bulldozer!! next month.",
+      "summary": "",
       "published": "",
-      "title_zh": "MNEK 因门票销售不足和制作成本高昂而取消巡演",
-      "summary_zh": "这位格莱美提名艺术家将为他的最新专辑《Bulldozer》开始一系列演出！下个月。"
+      "title_zh": "病毒视频显示“巴马主教练看起来被沃尔斯球迷吓坏了”"
     },
     {
-      "title": "Family of prison officer killed by IRA receives state apology",
+      "title": "Texas Democrat who claimed six biological sexes says Republicans forced the topic",
       "link": "",
-      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "summary": "",
       "published": "",
-      "title_zh": "被爱尔兰共和军杀害的监狱官员家属收到国家道歉",
-      "summary_zh": "1983 年，布莱恩·斯塔克 (Brian Stack) 在都柏林过马路时颈部后部中弹，18 个月后死亡。"
+      "title_zh": "声称有六种生理性别的德克萨斯州民主党人称共和党强迫这个话题"
     },
     {
-      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+      "title": "Prince Harry opens up about why his family left US, renews plea to Charles and William",
       "link": "",
-      "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
+      "summary": "",
       "published": "",
-      "title_zh": "法庭获悉，一名女子告诉拉塞尔·布兰德，他“像对待动物一样对待她”",
-      "summary_zh": "这位喜剧演员兼演员因强奸和性侵犯等指控而接受审判，但他否认了这些指控。"
+      "title_zh": "哈里王子公开了他的家人离开美国的原因，再次向查尔斯和威廉恳求"
     },
     {
-      "title": "Crystal Palace urged to retire bald eagle mascot",
+      "title": "Zach Bryan ignored warning signs as heavy drinking spiraled into a health crisis",
       "link": "",
-      "summary": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\".",
+      "summary": "",
       "published": "",
-      "title_zh": "水晶宫敦促退役秃鹰吉祥物",
-      "summary_zh": "动物权利组织 Peta 敦促水晶宫退役他们的秃头鹰吉祥物，称“充满喧闹球迷的明亮体育场不适合动物”。"
+      "title_zh": "扎克·布莱恩忽视警告信号，酗酒演变成健康危机"
     },
     {
-      "title": "Fabregas and Como prepare for historic Man Utd tie",
+      "title": "College fraternity rocked by secret sex video, 19-year-old arrested: police",
       "link": "",
-      "summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United.",
+      "summary": "",
       "published": "",
-      "title_zh": "法布雷加斯和科莫为历史性的曼联比赛做准备",
-      "summary_zh": "意甲的成功故事科莫已经从意甲进入了冠军联赛——现在他们已经准备好迎接对阵曼联的历史性夜晚。"
+      "title_zh": "大学兄弟会因秘密性爱视频震惊，19岁男子被捕：警方"
     },
     {
-      "title": "LeBron James' 76ers beat Knicks on NBA opening night",
+      "title": "Four-time NFL Pro Bowler grins in mugshot after wife accuses him of attack",
       "link": "",
-      "summary": "LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season.",
+      "summary": "",
       "published": "",
-      "title_zh": "勒布朗·詹姆斯率领的 76 人队在 NBA 揭幕战中击败尼克斯队",
-      "summary_zh": "勒布朗·詹姆斯在费城 76 人队首秀中拿下 14 分，他们在 NBA 赛季首场比赛中击败了冠军纽约尼克斯队。"
+      "title_zh": "四届 NFL 职业保龄球手在妻子指控他袭击后在照片中微笑"
+    },
+    {
+      "title": "Titan sub CEO's friend says fatal voyage was no accident, points to possible motive",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Titan sub CEO's friend says fatal voyage was no accident, points to possible motive"
+    },
+    {
+      "title": "Former El-Sayed staffer's warning about Democrat's Senate ambitions raises red flags",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前埃尔赛义德工作人员对民主党参议院野心的警告引发了危险信号"
     }
   ]
 }
