@@ -1,11 +1,7 @@
 {
-  "date": "20261021",
-  "total": 39,
+  "date": "20261022",
+  "total": 43,
   "sources": {
-    "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
     "cnn": {
       "status": "ok",
       "entries": 0
@@ -14,15 +10,19 @@
       "status": "ok",
       "entries": 0
     },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
     "theguardian": {
       "status": "ok",
       "entries": 0
     },
-    "fox": {
+    "bbc": {
       "status": "ok",
       "entries": 0
     },
-    "nytimes": {
+    "fox": {
       "status": "ok",
       "entries": 0
     },
@@ -37,288 +37,322 @@
   },
   "entries": [
     {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
       "link": "",
-      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
       "published": "",
-      "title_zh": "特朗普特使会见普京后，美国公民斯蒂芬·哈伯德被俄罗斯释放",
-      "summary_zh": "特朗普表示，被捕的 74 岁前教师已被释放，无需任何“交换”。"
+      "title_zh": "日本以世界级赛事而闻名，但亚运会却一片混乱",
+      "summary_zh": "酒店混乱、交通事故和外交失误让组织者和受雇举办奥运会的公司成为人们关注的焦点。"
     },
     {
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
       "link": "",
-      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
       "published": "",
-      "title_zh": "发布重要网络安全更新后，全球网站被关闭",
-      "summary_zh": "PHP 是一种在互联网上广泛使用的编程语言，其漏洞被描述为人工智能有史以来发现的最严重的漏洞。"
+      "title_zh": "万斯告诉共和党人“停止抱怨”有争议的俄亥俄州攻击广告",
+      "summary_zh": "俄亥俄州共和党人维韦克·拉马斯瓦米 (Vivek Ramaswamy) 的广告以他的民主党竞争对手关系疏远的母亲为主角，自从她的继父在她童年时被指控性虐待后，她就再也没有见过她。"
     },
     {
-      "title": "Ohio governor's race turns ugly as attack ad features candidate's estranged mother",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "link": "",
-      "summary": "The Republican candidate released an ad featuring his opponent's mother calling her daughter \"a liar\".",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
       "published": "",
-      "title_zh": "俄亥俄州州长的竞选变得丑陋，因为攻击性广告以候选人疏远的母亲为特色",
-      "summary_zh": "这位共和党候选人发布了一则广告，其中对手的母亲称她的女儿是“骗子”。"
+      "title_zh": "什么是 PHP？它为何引发全球网络安全争夺战？",
+      "summary_zh": "人工智能发现了长期隐藏的编程缺陷，引发了罕见的全球网络安全响应。"
     },
     {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
       "link": "",
-      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
       "published": "",
-      "title_zh": "Meta 因用户数据隐私“撒谎”被罚款 250 亿美元",
-      "summary_zh": "这是迄今为止针对 Facebook 所有者的最大一笔罚款，比与加州的 180 亿美元交易还要高。"
+      "title_zh": "对深受喜爱的国会议员的“有针对性”袭击让澳大利亚小镇心碎",
+      "summary_zh": "当地人形容这位双腿被迫截肢的议员是一位真正善良的人，为社区而战。"
     },
     {
-      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
       "link": "",
-      "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
+      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
       "published": "",
-      "title_zh": "婆罗洲燃烧：东南亚有毒雾霾前线的生命",
-      "summary_zh": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick."
+      "title_zh": "为什么泥炭火灾如此严重？BBC 前往印度尼西亚寻找答案",
+      "summary_zh": "BBC 的丽莎·坦布南 (Liza Tambunan) 在加里曼丹中部解释什么是泥炭以及为什么印度尼西亚面临十年来最严重的野火季节。"
     },
     {
-      "title": "UK PM defends decision to allow exctraction from gas field in North Sea",
+      "title": "The real reasons US politicians are getting older",
       "link": "",
-      "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
       "published": "",
-      "title_zh": "英国首相捍卫允许从北海气田开采的决定",
-      "summary_zh": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
+      "title_zh": "美国政客变老的真正原因",
+      "summary_zh": "没有适合年轻男女的国家：为什么年长的政客似乎对美国的政治体系有着如此严格的控制？"
     },
     {
-      "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
+      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
       "link": "",
-      "summary": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing.",
+      "summary": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
       "published": "",
-      "title_zh": "作者海伦·菲尔丁设立奖项，寻找下一个布里奇特·琼斯的日记",
-      "summary_zh": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing."
+      "title_zh": "“被我的身体背叛”：女性在社交媒体上谈论的禁忌健康问题",
+      "summary_zh": "女性在社交媒体上分享她们与慢性尿路感染的经历，努力打破尿路感染的耻辱。"
     },
     {
-      "title": "F1 races to return to standard distance in 2028",
+      "title": "The Aberfan disaster through the eyes of those who survived, 60 years on",
       "link": "",
-      "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season.",
+      "summary": "It was one of Wales' darkest days that changed a mining community forever.",
       "published": "",
-      "title_zh": "F1比赛将于2028年恢复标准距离",
-      "summary_zh": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season."
+      "title_zh": "60 年后，幸存者眼中的阿伯凡灾难",
+      "summary_zh": "这是威尔士最黑暗的日子之一，永远改变了采矿社区。"
     },
     {
-      "title": "Former UK MP being investigated over alleged rape inside Parliament",
+      "title": "The grads ditching the UK for a fresh start abroad",
       "link": "",
-      "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+      "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
       "published": "",
-      "title_zh": "英国前议员因涉嫌在议会内强奸而接受调查",
-      "summary_zh": "尽管没有点名这位名誉扫地的前议员，伦敦警察厅已发表声明，确认一名 63 岁男子正在接受调查。"
+      "title_zh": "毕业生们离开英国，在国外重新开始",
+      "summary_zh": "据报道，由于毕业生很难找到工作，越来越多的年轻人正在考虑移民。"
     },
     {
-      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "title": "Why Elon Musk is considering a mega-merger of SpaceX and Tesla",
       "link": "",
-      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "published": "",
-      "title_zh": "巴基斯坦逮捕因1.26亿美元邮资诈骗案被美国通缉的男子",
-      "summary_zh": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
+      "title_zh": "为什么埃隆·马斯克正在考虑 SpaceX 和特斯拉的大型合并",
+      "summary_zh": "马斯克表示，通过将两家公司合并为历史上最大的合并，“可以获得很多好处”。"
     },
     {
-      "title": "Man Utd humiliation by Como leaves Carrick job in danger",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
       "link": "",
-      "summary": "Manchester United suffer one of the worst European nights in their history against Como to pile the pressure on beleaguered boss Michael Carrick.",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "published": "",
-      "title_zh": "曼联被科莫羞辱让卡里克的工作面临危险",
-      "summary_zh": "曼联在对阵科莫的比赛中遭遇了他们历史上最糟糕的欧洲之夜之一，这给陷入困境的主帅迈克尔·卡里克带来了压力。"
+      "title_zh": "马克龙指责外国领导人利用法国骚乱",
+      "summary_zh": "这一评论显然是对本杰明·内塔尼亚胡和唐纳德·特朗普的抨击，他们都将在未来几周内面临选举。"
     },
     {
-      "title": "California’s billionaire tax faces a mountain of opposition — and not just from the rich",
-      "link": "https://www.nbcnews.com/politics/2026-election/californias-billionaire-tax-faces-mountain-opposition-not-just-rich-rcna604397",
-      "summary": "",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "link": "",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
       "published": "",
-      "title_zh": "California’s billionaire tax faces a mountain of opposition — and not just from the rich"
+      "title_zh": "官员称尼日利亚首例埃博拉患者在乌干达度假",
+      "summary_zh": "驻阿布贾一位外交官的妻子前往坎帕拉度假。"
     },
     {
-      "title": "Vance says Republicans should ‘stop whining’ about Ramaswamy’s attack ad",
-      "link": "https://www.nbcnews.com/politics/2026-election/vance-republicans-stop-whining-vivek-ramaswamy-attack-ad-amy-acton-rcna604817",
-      "summary": "",
+      "title": "Only one female scientist named in UK's GCSE exams, research finds",
+      "link": "",
+      "summary": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications.",
       "published": "",
-      "title_zh": "Vance says Republicans should ‘stop whining’ about Ramaswamy’s attack ad"
+      "title_zh": "研究发现，英国 GCSE 考试中只有一名女科学家",
+      "summary_zh": "一项新研究发现罗莎琳德·富兰克林是第四阶段科学规范中唯一被提名的女性。"
     },
     {
-      "title": "Who is Stephen Hubbard, the retired American teacher freed by Russia?",
-      "link": "https://www.nbcnews.com/world/ukraine/stephen-hubbard-retired-american-teacher-freed-russia-rcna604735",
-      "summary": "",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "link": "",
+      "summary": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
       "published": "",
-      "title_zh": "被俄罗斯释放的美国退休教师斯蒂芬·哈伯德是谁？"
+      "title_zh": "谷歌员工因与军方签订人工智能合同而遭强烈抵制",
+      "summary_zh": "BBC 采访了几位现任和前任 Google DeepMind 员工，表达了他们对人工智能在战场上使用的担忧。"
     },
     {
-      "title": "Pope Leo will not require further treatment after lung surgery, doctors say",
-      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-treatment-lung-cancer-rcna604869",
-      "summary": "",
+      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+      "link": "",
+      "summary": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
       "published": "",
-      "title_zh": "医生称，教皇利奥在肺部手术后不需要进一步治疗"
+      "title_zh": "新墨西哥州起诉爱泼斯坦律师和会计师，指控他们隐瞒他的性犯罪行为",
+      "summary_zh": "两人都否认对爱泼斯坦的罪行有任何了解，他们的律师也驳回了该诉讼，称其“绝对错误”。"
     },
     {
-      "title": "Supreme Court rejects Trump policy restricting treatment for transgender federal inmates",
-      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-transgender-prison-policy-rcna601889",
-      "summary": "",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "link": "",
+      "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
       "published": "",
-      "title_zh": "最高法院驳回特朗普限制变性联邦囚犯待遇的政策"
+      "title_zh": "委员会警告说，英国在北极防御方面的缺陷使其容易受到俄罗斯的攻击",
+      "summary_zh": "国会议员的一份报告敦促英国解决能力差距，包括缺乏皇家海军军舰和潜艇，因为俄罗斯试图主导该地区。"
     },
     {
-      "title": "Experts explain how an AI kill switch could work",
-      "link": "https://www.nbcnews.com/tech/tech-news/ai-kill-switch-rcna604643",
-      "summary": "",
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "link": "",
+      "summary": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
       "published": "",
-      "title_zh": "专家解释人工智能终止开关如何工作"
+      "title_zh": "萨卡的伤势“看起来不太好”——阿森纳将如何应对？",
+      "summary_zh": "米克尔·阿尔特塔表示，阿森纳球员布卡约·萨卡在欧冠对阵拜仁慕尼黑的比赛中四头肌受伤“看起来一点都不好”。"
     },
     {
-      "title": "Who knew a basket could be sexy? How ‘Wicker’ became fall’s surprise must-see",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/wicker-movie-thirsty-fans-basket-man-alexander-skarsgard-rcna603282",
-      "summary": "",
-      "published": "",
-      "title_zh": "谁知道篮子可以很性感？《柳条》如何成为秋季必看的惊喜"
-    },
-    {
-      "title": "Toledo chemical explosion prompts evacuations and shelter-in-place orders",
-      "link": "https://www.nbcnews.com/news/us-news/evacuations-shelter-place-orders-issued-toledo-ohio-chemical-release-rcna604739",
-      "summary": "",
-      "published": "",
-      "title_zh": "托莱多化学爆炸促使疏散和就地避难"
-    },
-    {
-      "title": "Trump supporters confronted with painful gas prices deliver striking response",
+      "title": "El-Sayed plays 'MAGA bingo' all debate long until Rogers flips the script",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "面对痛苦的油价，特朗普的支持者做出了惊人的反应"
+      "title_zh": "埃尔-赛义德玩“MAGA bingo”一直争论不休，直到罗杰斯翻转剧本"
     },
     {
-      "title": "Ilhan Omar emerges after DC raid with video pleading for cash to fight Trump",
+      "title": "Trump halts South Carolina midterm rally after scuffle breaks out in crowd",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊尔汗·奥马尔在华盛顿突袭后现身，视频中恳求现金对抗特朗普"
+      "title_zh": "人群爆发扭打后特朗普叫停南卡罗来纳州中期集会"
     },
     {
-      "title": "Thune makes bold prediction about Senate control as GOP pulls millions from key races",
+      "title": "Ilhan Omar addresses longstanding rumors she married her brother",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着共和党从关键竞选中撤走数百万美元，图恩对参议院控制权做出了大胆预测"
+      "title_zh": "伊尔汗·奥马尔 (Ilhan Omar) 回应了长期以来她与哥哥结婚的谣言"
     },
     {
-      "title": "French woman recounts 'horror movie' as mob of rioters turned on husband in streets of Paris",
+      "title": "Trump orders US staff out of Saudi Arabia as he weighs a fateful next move",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国妇女讲述巴黎街头暴徒袭击丈夫的“恐怖电影”"
+      "title_zh": "特朗普在权衡决定性的下一步行动时命令美国工作人员离开沙特阿拉伯"
     },
     {
-      "title": "Woman behind $6M sham marriage scheme stopped because Trump won: DOJ",
+      "title": "Enes Kanter Freedom swarmed by police officers while trying to enter WNBA Finals",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "600万美元假结婚计划背后的女人因特朗普获胜而停止：司法部"
+      "title_zh": "埃内斯·坎特 (Enes Kanter Freedom) 在试图进入 WNBA 总决赛时遭到警察围攻"
     },
     {
-      "title": "WNBA anthem controversy reaches NBA as league leaves questions unanswered",
+      "title": "Minneapolis restaurant that offered free meals to protest ICE gets harsh reality check",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "WNBA 国歌争议波及 NBA，联盟悬而未决"
+      "title_zh": "明尼阿波利斯一家提供免费餐食以抗议 ICE 的餐厅遭到残酷的现实检验"
     },
     {
-      "title": "Danica Patrick roars back into politics with fiery message about Trump",
+      "title": "California mayor touts $1,000 monthly checks as federal money dries up",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "丹妮卡·帕特里克 (Danica Patrick) 带着有关特朗普的激烈言论重返政坛"
+      "title_zh": "随着联邦资金枯竭，加州市长每月发放 1,000 美元支票"
     },
     {
-      "title": "Democrats infuriated as fraud pollster admits to phony numbers that boosted El-Sayed",
+      "title": "Mass firings vow sparks clash with Klobuchar over Walz fraud legacy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民意调查机构承认欺诈数据提振了埃尔赛义德，民主党人感到愤怒"
+      "title_zh": "大规模解雇誓言引发与克洛布查因沃尔兹欺诈遗留问题发生冲突"
     },
     {
-      "title": "Mom in unsolved NJ murder died of 'sharp force injury': autopsy",
+      "title": "Supreme Court takes up 150-year-old ban that could put Americans in prison",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新泽西州悬而未决的谋杀案中的母亲死于“锐器伤害”：尸检"
+      "title_zh": "最高法院撤销已有 150 年历史的禁令，可能会让美国人入狱"
     },
     {
-      "title": "Tensions flare over city council vote on data centers: 'We can't keep trusting your word'",
+      "title": "Elon Musk warns Democrats against investigations if they win control of House",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Tensions flare over city council vote on data centers: 'We can't keep trusting your word'"
+      "title_zh": "埃隆·马斯克警告民主党人如果赢得众议院控制权就不要接受调查"
     },
     {
-      "title": "Trump shares photo of American teacher heading back to US after release from Russia",
+      "title": "Riots in France spark senator’s fiery warning about what Democrats want for America",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Trump shares photo of American teacher heading back to US after release from Russia"
+      "title_zh": "法国骚乱引发参议员对民主党对美国的期望的强烈警告"
     },
     {
-      "title": "Pope Leo XIV receives encouraging cancer news as doctors reveal final test results",
+      "title": "WNBA Finals anthem absences continue in Atlanta as league leaves questions unanswered",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "医生公布最终检测结果，教皇利奥十四世收到令人鼓舞的癌症消息"
+      "title_zh": "WNBA 总决赛国歌在亚特兰大继续缺席，联盟留下的疑问尚未得到解答"
     },
     {
-      "title": "Viral video shows 'Bama's head coach looking absolutely terrified by Vols fans",
+      "title": "Key voting bloc's reversal could decide who controls Texas Senate seat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "病毒视频显示“巴马主教练看起来被沃尔斯球迷吓坏了”"
+      "title_zh": "关键投票集团的逆转可能决定谁控制德克萨斯州参议院席位"
     },
     {
-      "title": "Texas Democrat who claimed six biological sexes says Republicans forced the topic",
+      "title": "Jeff Dunham reveals the risks behind his comedy and the joke that brought in the FBI",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "声称有六种生理性别的德克萨斯州民主党人称共和党强迫这个话题"
+      "title_zh": "杰夫·邓纳姆（Jeff Dunham）揭示了他的喜剧背后的风险以及引起联邦调查局（FBI）的笑话"
     },
     {
-      "title": "Prince Harry opens up about why his family left US, renews plea to Charles and William",
+      "title": "US travelers warned innocent photos could cause serious trouble in popular destination",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "哈里王子公开了他的家人离开美国的原因，再次向查尔斯和威廉恳求"
+      "title_zh": "美国旅行者警告无辜照片可能会在热门目的地造成严重麻烦"
     },
     {
-      "title": "Zach Bryan ignored warning signs as heavy drinking spiraled into a health crisis",
+      "title": "Hillary Clinton critical of Matthew McConaughey's 'unfortunate' viral video",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "扎克·布莱恩忽视警告信号，酗酒演变成健康危机"
+      "title_zh": "希拉里·克林顿批评马修·麦康纳的“不幸”病毒视频"
     },
     {
-      "title": "College fraternity rocked by secret sex video, 19-year-old arrested: police",
+      "title": "Iran deepens alliance with American adversary as nations take aim at common threat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学兄弟会因秘密性爱视频震惊，19岁男子被捕：警方"
+      "title_zh": "各国瞄准共同威胁，伊朗加深与美国对手的联盟"
     },
     {
-      "title": "Four-time NFL Pro Bowler grins in mugshot after wife accuses him of attack",
+      "title": "Stephen A. defends Trump sit-down on 'The View': 'I'm not apologizing to anybody'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "四届 NFL 职业保龄球手在妻子指控他袭击后在照片中微笑"
+      "title_zh": "斯蒂芬·A·为特朗普在《观点》中的坐下来辩护：“我不会向任何人道歉”"
     },
     {
-      "title": "Titan sub CEO's friend says fatal voyage was no accident, points to possible motive",
-      "link": "",
+      "title": "Abdul El-Sayed and Mike Rogers clash in final Michigan Senate debate",
+      "link": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-mike-rogers-final-debate-clash-sets-final-sprint-michig-rcna604591",
       "summary": "",
       "published": "",
-      "title_zh": "Titan sub CEO's friend says fatal voyage was no accident, points to possible motive"
+      "title_zh": "阿卜杜勒·赛义德和迈克·罗杰斯在密歇根州参议院最后一场辩论中发生冲突"
     },
     {
-      "title": "Former El-Sayed staffer's warning about Democrat's Senate ambitions raises red flags",
-      "link": "",
+      "title": "GOP Senate hopeful Ashley Hinson balances standing by Trump and standing up to him",
+      "link": "https://www.nbcnews.com/politics/2026-election/gop-senate-hopeful-ashley-hinson-balances-standing-trump-standing-iowa-rcna604809",
       "summary": "",
       "published": "",
-      "title_zh": "前埃尔赛义德工作人员对民主党参议院野心的警告引发了危险信号"
+      "title_zh": "共和党参议院候选人阿什利·辛森 (Ashley Hinson) 在支持特朗普和对抗他之间取得平衡"
+    },
+    {
+      "title": "Bogus trans youth brochure rattles Texas voters",
+      "link": "https://www.nbcnews.com/tech/misinformation/bogus-trans-youth-brochure-rattles-texas-voters-rcna604641",
+      "summary": "",
+      "published": "",
+      "title_zh": "伪造的跨性别青年手册让德克萨斯州选民感到不安"
+    },
+    {
+      "title": "DOJ weighs election litigation against more states",
+      "link": "https://www.nbcnews.com/politics/justice-department/doj-weighs-election-litigation-states-rcna604872",
+      "summary": "",
+      "published": "",
+      "title_zh": "司法部考虑针对更多州提起选举诉讼"
+    },
+    {
+      "title": "How candidates are polling in competitive Senate races",
+      "link": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+      "summary": "",
+      "published": "",
+      "title_zh": "候选人如何在竞争激烈的参议院竞选中投票"
+    },
+    {
+      "title": "Trump hopes to flatter Putin into negotiating on Ukraine, experts say",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-hopes-flatter-putin-negotiating-ukraine-experts-say-rcna604770",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家称特朗普希望讨好普京就乌克兰问题进行谈判"
+    },
+    {
+      "title": "U.S. troops and diplomats evacuating Middle East posts, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/us-troops-diplomats-evacuating-middle-east-posts-sources-say-rcna604867",
+      "summary": "",
+      "published": "",
+      "title_zh": "消息人士称，美国军队和外交官撤离中东哨所"
+    },
+    {
+      "title": "Teacher who survived Bend shooting tried to close door, ‘but the shooter was already there’",
+      "link": "https://www.nbcnews.com/news/us-news/teacher-survived-bend-shooting-tried-close-door-shooter-was-already-rcna604904",
+      "summary": "",
+      "published": "",
+      "title_zh": "在本德枪击事件中幸存的老师试图关门，“但枪手已经在那里了”"
     }
   ]
 }
