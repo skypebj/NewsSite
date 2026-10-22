@@ -1,6 +1,6 @@
 {
   "date": "20261022",
-  "total": 38,
+  "total": 30,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,282 +37,226 @@
   },
   "entries": [
     {
-      "title": "Republicans seek inroads with Black voters in Michigan’s tight Senate race",
-      "link": "https://www.nbcnews.com/politics/2026-election/republicans-inroads-black-voters-michigan-senate-race-rcna603752",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党人在密歇根州激烈的参议院竞选中寻求黑人选民的支持"
-    },
-    {
-      "title": "James Talarico digs in with Black voters in pursuit of an elusive Democratic win in Texas",
-      "link": "https://www.nbcnews.com/politics/2026-election/james-talarico-digs-black-voters-pursuit-elusive-democratic-win-texas-rcna604829",
-      "summary": "",
-      "published": "",
-      "title_zh": "詹姆斯·塔拉里科 (James Talarico) 与黑人选民深入合作，争取民主党在德克萨斯州取得难以捉摸的胜利"
-    },
-    {
-      "title": "Blanche won’t rule out DOJ post-election action in a ‘doomsday’ scenario",
-      "link": "https://www.nbcnews.com/politics/justice-department/blanche-wont-rule-doj-post-election-action-doomsday-scenario-rcna605035",
-      "summary": "",
-      "published": "",
-      "title_zh": "布兰奇不排除司法部在“世界末日”情景中采取选举后行动"
-    },
-    {
-      "title": "Judge directs Trump to sit for deposition in his $10 billion lawsuit against the BBC",
-      "link": "https://www.nbcnews.com/politics/donald-trump/trump-sit-deposition-10-billion-defamation-lawsuit-bbc-jan-6-rcna605034",
-      "summary": "",
-      "published": "",
-      "title_zh": "法官指示特朗普在针对 BBC 的 100 亿美元诉讼中出庭作证"
-    },
-    {
-      "title": "Europe’s protests are about more than schools. They are a generational roar.",
-      "link": "https://www.nbcnews.com/world/europe/europes-protests-are-schools-are-generational-roar-rcna604731",
-      "summary": "",
-      "published": "",
-      "title_zh": "欧洲的抗议活动不仅仅涉及学校。他们是一代人的咆哮。"
-    },
-    {
-      "title": "Tom Skerritt, star of ‘Alien’ and ‘Top Gun,’ dies at 93",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/tom-skerritt-star-alien-top-gun-dies-93-rcna605077",
-      "summary": "",
-      "published": "",
-      "title_zh": "《异形》和《壮志凌云》主演汤姆·斯凯里特去世，享年 93 岁"
-    },
-    {
-      "title": "Airbnb hosts can no longer ask guests to clean dishes or make beds",
-      "link": "https://www.nbcnews.com/news/us-news/airbnb-hosts-can-no-longer-ask-guests-clean-dishes-make-beds-rcna604996",
-      "summary": "",
-      "published": "",
-      "title_zh": "Airbnb 房东不能再要求房客洗碗或铺床"
-    },
-    {
-      "title": "Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources",
+      "title": "US actor Tom Skerritt, who starred in Top Gun, Steel Magnolias and Alien, dies aged 93",
       "link": "",
-      "summary": "",
+      "summary": "The moustachioed star of several 20th century hit films died on Wednesday of natural causes, his family said.",
       "published": "",
-      "title_zh": "伊尔汗·奥马尔不是明尼苏达州女议员的“真名”：消息来源"
+      "title_zh": "曾出演《壮志凌云》、《钢木兰》和《异形》的美国演员汤姆·斯凯里特去世，享年 93 岁",
+      "summary_zh": "他的家人称，这位在 20 世纪几部热门电影中留着小胡子的明星于周三因自然原因去世。"
     },
     {
-      "title": "RILEY GAINES:Call Her Daddy's advice is a dangerous recipe for lifelong regret",
+      "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
       "link": "",
-      "summary": "",
+      "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
       "published": "",
-      "title_zh": "赖利·盖恩斯：打电话给她爸爸的建议是导致终生遗憾的危险因素"
+      "title_zh": "出于安全和滥用问题，纽约在 160 年后禁止使用马车",
+      "summary_zh": "当市议会投票废除马车时，中央公园对这一 160 年传统的看法出现了分歧。"
     },
     {
-      "title": "Democrat lawmaker indicted on drug trafficking, money laundering, fraud charges",
+      "title": "Race to update services' computer systems after cyber-security flaw found",
       "link": "",
-      "summary": "",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
       "published": "",
-      "title_zh": "民主党议员因贩毒、洗钱、欺诈指控被起诉"
+      "title_zh": "发现网络安全漏洞后竞相更新服务的计算机系统",
+      "summary_zh": "在编程语言 PHP 的开发人员表示发现“严重漏洞”后，网站被下线。"
     },
     {
-      "title": "Trump demands apology from LeBron James over anthem antics during 76ers debut",
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
       "link": "",
-      "summary": "",
+      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
       "published": "",
-      "title_zh": "特朗普要求勒布朗·詹姆斯就 76 人队首秀期间奏国歌时的滑稽行为道歉"
+      "title_zh": "俄罗斯同意新的和平谈判后乌克兰遭受袭击",
+      "summary_zh": "俄罗斯发射三波导弹是在俄罗斯表示“原则上准备好”恢复与美国和乌克兰的和谈几小时后发射的。"
     },
     {
-      "title": "Trump urged to confront US ally after lawmakers question Christian leader's beliefs",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在立法者质疑基督教领袖的信仰后，特朗普敦促与美国盟友对峙"
-    },
-    {
-      "title": "Steelers quietly cancel Paris event as NFL and Rubio say the game 'will be fine'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "钢人队悄悄取消巴黎赛事，NFL和卢比奥表示比赛“会没事的”"
-    },
-    {
-      "title": "Mamdani expected to face legal trouble over plan to eliminate iconic NYC tourist attraction",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "马姆达尼预计将因取消纽约市标志性旅游景点的计划而面临法律麻烦"
-    },
-    {
-      "title": "Seemingly harmless daily habit may signal increased dementia risk, study suggests",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "研究表明，看似无害的日常习惯可能预示着痴呆风险增加"
-    },
-    {
-      "title": "'Top Gun' star Tom Skerritt dead at 93 after storied career in Hollywood classics",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "《壮志凌云》主演汤姆·斯凯里特去世，享年 93 岁"
-    },
-    {
-      "title": "DeSantis warns rogue AI agents could wipe out Americans' bank accounts",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "德桑蒂斯警告流氓人工智能代理可能会消灭美国人的银行账户"
-    },
-    {
-      "title": "Vance leads crowd in Lord's Prayer during medical emergency at midterm rally",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "万斯在中期集会上的医疗紧急情况下带领人群进行主祷文"
-    },
-    {
-      "title": "Charles Barkley singles out one person in 'Monday Night Football' drama",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "查尔斯·巴克利在《周一橄榄球之夜》这部戏剧中挑出了一个人"
-    },
-    {
-      "title": "Sarah Palin confirms death of boyfriend and former NHL star Ron Duguay at 69",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "萨拉·佩林 (Sarah Palin) 证实男友兼前 NHL 球星罗恩·杜盖 (Ron Duguay) 去世，享年 69 岁"
-    },
-    {
-      "title": "US, Israel reportedly preparing to renew 'major combat operations' against Iran",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "据报道，美国和以色列准备重启针对伊朗的“重大作战行动”"
-    },
-    {
-      "title": "Doctor slams 'out of hand' tipping culture after self-checkout prompt",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "自助结账提示后，医生猛烈抨击小费文化“失控”"
-    },
-    {
-      "title": "Liberal justice says rigged maps driving America toward dangerous extremes",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "自由正义称被操纵的地图将美国推向危险的极端"
-    },
-    {
-      "title": "Ozzy Osbourne ignored doctors' warnings 17 days before death, son Jack says",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "儿子杰克称奥兹·奥斯本在去世前 17 天无视医生的警告"
-    },
-    {
-      "title": "Rehab patients allegedly sedated to stop them leaving as $1.8B scheme unravels",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "据称，随着 $1.8B 计划的瓦解，康复患者被注射镇静剂以阻止他们离开"
-    },
-    {
-      "title": "Warren gets defensive as she's pressed on Democrats accepting billionaire donations",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "沃伦在向民主党接受亿万富翁捐款施压时变得防御性"
-    },
-    {
-      "title": "AI discovered a massive cyber-security flaw - here's what happened",
-      "link": "",
-      "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
-      "published": "",
-      "title_zh": "人工智能发现了一个巨大的网络安全缺陷 - 这就是发生的事情",
-      "summary_zh": "BBC 的技术记者 Joe Tidy 解释了它是如何发生的，以及它对您意味着什么。"
-    },
-    {
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "link": "",
-      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "published": "",
-      "title_zh": "“这是卑鄙的”：艾米·阿克顿回应俄亥俄州袭击广告，广告中她疏远的母亲",
-      "summary_zh": "她的共和党对手维韦克·拉马斯瓦米正在播放以她母亲为主角的广告，她的丈夫在她童年时被指控性虐待。"
-    },
-    {
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "link": "",
-      "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
-      "published": "",
-      "title_zh": "“Looksmaxxing”影响者锁骨对强奸指控不认罪",
-      "summary_zh": "这位网红的真名是 Braden Peters，被指控在 2025 年性侵一名 17 岁女孩。"
-    },
-    {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "link": "",
-      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "published": "",
-      "title_zh": "特朗普被要求在 BBC 诉讼中宣誓回答问题",
-      "summary_zh": "特朗普正在起诉 BBC，原因是《全景》中的一集将他 2021 年演讲的两个不同部分剪辑在一起。"
-    },
-    {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "link": "",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "published": "",
-      "title_zh": "冲突加剧也门饥饿危机，新生双胞胎为生存而战",
-      "summary_zh": "由于亲政府军与胡塞武装之间的战斗，拉加德和拉德的家人不得不步行逃离家园。"
-    },
-    {
-      "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
+      "title": "Trump says NBA star LeBron James 'disrespected' US anthem",
       "link": "",
       "summary": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed.",
       "published": "",
-      "title_zh": "特朗普称NBA球星勒布朗·詹姆斯不尊重美国国歌并要求道歉",
+      "title_zh": "特朗普称NBA球星勒布朗·詹姆斯“不尊重”美国国歌",
       "summary_zh": "这位篮球明星最近似乎在奏国歌时练习高尔夫挥杆和篮球投篮。"
     },
     {
-      "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
       "link": "",
-      "summary": "The actor died on Wednesday of natural causes, his family said.",
+      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
       "published": "",
-      "title_zh": "主演过《栅栏》、《麦什》和《异形》的美国演员汤姆·斯凯里特去世，享年 93 岁",
-      "summary_zh": "他的家人说，这位演员于周三自然死亡。"
+      "title_zh": "欧莱雅表示减肥药物正在影响美容和护肤品的销售",
+      "summary_zh": "这家美容巨头的首席执行官表示，GLP-1 的使用“对我们来说是一个非常重要的现象”。"
     },
     {
-      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
       "link": "",
-      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+      "summary": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
       "published": "",
-      "title_zh": "为什么学生抗议运动挑战武契奇在塞尔维亚 12 年的统治",
-      "summary_zh": "经过两年的学生抗议后，塞尔维亚人于周日举行选举，这可能会推翻执政党。"
+      "title_zh": "雷伊凭借《This Music May Contain Hope》荣获水星奖",
+      "summary_zh": "这位流行歌星击败了 Paul McCartney、Suede 和 Jade Thirlwall 等艺术家，夺得了 25,000 英镑的奖金。"
     },
     {
-      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+      "title": "Florida officer accused of stealing dead man's identity and moving into his home",
       "link": "",
-      "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
+      "summary": "Authorities uncovered the plot when the man's heirs tried to sell the south Florida home",
       "published": "",
-      "title_zh": "Zoe Kleinman：PHP 相当于网络上的未爆炸炸弹",
-      "summary_zh": "这是一个戏剧性的、公开的、全球性的反应，但网络事件还没有发生。"
+      "title_zh": "佛罗里达州警官被指控窃取死者身份并搬进他家",
+      "summary_zh": "当该男子的继承人试图出售佛罗里达州南部的房屋时，当局揭露了这一阴谋"
     },
     {
-      "title": "Damaging hail pelts Phoenix in rare storm",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
       "link": "",
-      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
+      "summary": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
       "published": "",
-      "title_zh": "凤凰城遭遇罕见风暴 破坏性冰雹袭击",
-      "summary_zh": "来自亚利桑那州首府的视频显示，冰雹击碎了挡风玻璃，人们躲在车内，而倾盆大雨则覆盖了街区。"
+      "title_zh": "印度著名金融影响者自杀后 YouTuber 被捕",
+      "summary_zh": "V Harish 是 Instagram 上广受欢迎的账户“Finance with Harish”的运营者，他于周二被发现死亡。"
     },
     {
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
       "link": "",
-      "summary": "The teacher said she could not help children because she was badly injured by the attacker.",
+      "summary": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
       "published": "",
-      "title_zh": "俄勒冈州枪击案老师称她为了生存而假装死亡",
-      "summary_zh": "老师说她无法帮助孩子们，因为她被袭击者伤得很重。"
+      "title_zh": "伊尔汗·奥马尔表示，黎明前对她家的“奇怪”袭击迫使她搬出",
+      "summary_zh": "这位女议员表示，作为联邦调查的一部分，联邦特工查获了十几件物品，包括手机和笔记本电脑。"
     },
     {
-      "title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
       "link": "",
-      "summary": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como.",
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
       "published": "",
-      "title_zh": "鲁尼称曼联球员为婴儿，费尔南德斯将继续担任队长",
-      "summary_zh": "布鲁诺·费尔南德斯将继续担任曼联队长，并且不会因在冠军联赛1-4输给科莫后对迈克尔·卡里克的赛后批评而受到纪律处分。"
+      "title_zh": "扎克伯格赢得 Meta 协议，帮助他支付可能的加州亿万富翁税",
+      "summary_zh": "梅塔老板曾表示，他将因尚未生效的财富税而退出该州。"
+    },
+    {
+      "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+      "link": "",
+      "summary": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+      "published": "",
+      "title_zh": "布鲁克在惨败中凸显了世界最佳全能击球手的地位",
+      "summary_zh": "斯蒂芬·谢米尔特说，一旦失败的失望消散，哈里·布鲁克就可以思考另一个与球棒相关的主角角色，这突显了他作为世界上最好的全能击球手的地位。"
+    },
+    {
+      "title": "Supreme Court says New Hampshire student IDs can’t be used to vote in November",
+      "link": "https://www.nbcnews.com/politics/supreme-court/new-hampshire-student-ids-cannot-used-vote-november-midterm-elections-rcna604570",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院称新罕布什尔州学生证不能用于 11 月投票"
+    },
+    {
+      "title": "Republicans retreat from North Carolina as Trump admits Democrats likely to win Senate seat",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-retreat-north-carolina-senate-race-rcna604771",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普承认民主党可能赢得参议院席位，共和党人从北卡罗来纳州撤退"
+    },
+    {
+      "title": "Iowa GOP Senate candidate calls ad against Acton ‘absolutely terrible’",
+      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-rally-hinson-iowa-vance-nebraska-congress-2026-live-updates-rcna604927",
+      "summary": "",
+      "published": "",
+      "title_zh": "爱荷华州共和党参议院候选人称针对阿克顿的广告“绝对可怕”"
+    },
+    {
+      "title": "NYC passes bill to ban horse-drawn carriages, Central Park’s drivers fear for their future",
+      "link": "https://www.nbcnews.com/news/us-news/nyc-passes-bill-ban-horse-drawn-carriages-central-parks-drivers-fear-f-rcna605105",
+      "summary": "",
+      "published": "",
+      "title_zh": "纽约市通过禁止马车的法案，中央公园的司机担心他们的未来"
+    },
+    {
+      "title": "New revelation about Ilhan Omar's name could put years of records in question",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "关于伊尔汗·奥马尔名字的新披露可能会让多年来的记录受到质疑"
+    },
+    {
+      "title": "Jackson surges among early ballots as Susan Collins fights to hold her base",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "苏珊·柯林斯努力保住自己的基础，杰克逊在早期选票中飙升"
+    },
+    {
+      "title": "$40M Singham money trail sparks House showdown as nonprofits refuse to back down",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于非营利组织拒绝让步，Singham 的 4000 万美元资金轨迹引发众议院摊牌"
+    },
+    {
+      "title": "DOJ opens investigation into Trump ally Corey Lewandowski",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国司法部对特朗普盟友科里·莱万多夫斯基展开调查"
+    },
+    {
+      "title": "Iwo Jima statue left mangled after alleged sledgehammer attack near Quantico",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "匡蒂科附近涉嫌大锤袭击后，硫磺岛雕像被毁"
+    },
+    {
+      "title": "Sarkisian says 'we created this' as Arch supposedly turns edgy before Ole Miss",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "萨尔基相说“我们创造了这个”，据说阿奇在奥莱小姐面前变得急躁"
+    },
+    {
+      "title": "Election ballots caught in crossfire as Baltimore police shoot armed suspect",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "巴尔的摩警方射杀武装嫌疑人，选举选票陷入交火"
+    },
+    {
+      "title": "Death toll rises after attack on major Saudi airport",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "沙特主要机场遇袭后死亡人数上升"
+    },
+    {
+      "title": "Doctor slams 'out-of-hand' tipping culture after self-checkout prompt",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "医生在自助结账提示后猛烈抨击“失控”的小费文化"
+    },
+    {
+      "title": "Hegseth puts weapons makers on notice as Trump demands 'build faster'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Hegseth puts weapons makers on notice as Trump demands 'build faster'"
+    },
+    {
+      "title": "From DUI arrest to Augusta dreams, Tiger Woods' comeback plan is taking shape",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "从酒后驾车被捕到奥古斯塔之梦，泰格·伍兹的复出计划正在成形"
+    },
+    {
+      "title": "Millions of toothpaste tubes recalled over manufacturing deviations: FDA",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "FDA：数百万支牙膏管因制造偏差被召回"
+    },
+    {
+      "title": "Fox News announces star-studded lineup for 2026 midterm election coverage",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "福克斯新闻宣布 2026 年中期选举报道明星阵容"
+    },
+    {
+      "title": "Jeff Garlin planned to take his own life as 'Goldbergs' turmoil reached breaking point",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "当“戈德堡”骚乱达到临界点时，杰夫·格尔林计划结束自己的生命"
     }
   ]
 }
