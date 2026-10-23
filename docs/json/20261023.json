@@ -1,6 +1,6 @@
 {
   "date": "20261023",
-  "total": 21,
+  "total": 37,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,161 +37,279 @@
   },
   "entries": [
     {
-      "title": "Hundreds of flights cancelled across East Asia as Typhoon Champi roars toward Taiwan",
+      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
       "link": "",
-      "summary": "At least one person has died in Taiwan as Japan, China and South Korea also brace for the powerful storm.",
+      "summary": "The Duchess of Sussex issues a statement following reports her estranged father is being investigated over child sex abuse images in the Philippines.",
       "published": "",
-      "title_zh": "台风“占比”席卷台湾，东亚数百个航班取消",
-      "summary_zh": "台湾已造成至少一人死亡，日本、中国和韩国也准备迎接这场强大的风暴。"
+      "title_zh": "梅根表示，她在 2018 年得知了针对她父亲的“令人不安的指控”",
+      "summary_zh": "苏塞克斯公爵夫人发表声明，此前有报道称，她分居的父亲因菲律宾儿童性虐待图片而接受调查。"
     },
     {
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "link": "",
-      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
       "published": "",
-      "title_zh": "巴黎延长宵禁，马赛和里昂在骚乱后禁止抗议",
-      "summary_zh": "只有在工会组织的情况下，一些城镇才允许举行抗议活动，顶级博物馆将于周六关闭。"
+      "title_zh": "乌克兰称星链在特朗普表示解除限制后仍受到限制",
+      "summary_zh": "消息人士称，在多次否认故意放慢速度后，乌克兰军方使用的网络仍然存在问题。"
     },
     {
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
       "link": "",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters destroyed el-Fasher's healthcare system a year ago.",
       "published": "",
-      "title_zh": "特朗普表示马斯克已恢复对乌克兰星链网络的访问",
-      "summary_zh": "乌克兰依靠星链进行一系列军事用途——其所有者埃隆·马斯克一再否认限制访问。"
+      "title_zh": "医生向 BBC 讲述准军事武装分子袭击苏丹医院的情况",
+      "summary_zh": "英国广播公司 (BBC) 的一项调查发现，有证据表明苏丹准军事武装分子一年前摧毁了法希尔的医疗系统。"
     },
     {
-      "title": "Powerful earthquake hits Tibet, killing 16 people, reports say",
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
       "link": "",
-      "summary": "Power has been cut off, 339 homes have collapsed and 54 people have also been injured, authorities say.",
+      "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
       "published": "",
-      "title_zh": "西藏发生强烈地震，已造成16人死亡",
-      "summary_zh": "当局称，电力已被切断，339所房屋倒塌，54人受伤。"
+      "title_zh": "西班牙裔选民帮助特朗普上台 - 在德克萨斯州，潮流可能正在扭转",
+      "summary_zh": "最近的民意调查显示，总统在中期选举前面临着该州的挑战。"
     },
     {
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "title": "Final James Bond screen tests to take place this weekend, reports say",
       "link": "",
-      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "summary": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role.",
       "published": "",
-      "title_zh": "监视和“持续的偏执”：西方外交官向 BBC 讲述战时莫斯科的生活",
-      "summary_zh": "官员们将俄罗斯全面入侵乌克兰以来的工作与冷战时期进行了比较。"
+      "title_zh": "据报道，詹姆斯·邦德最终试镜将于本周末进行",
+      "summary_zh": "卡勒姆·特纳和杰克·劳登“似乎在”为该角色进行试镜的演员中。"
     },
     {
-      "title": "Watch: 'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
       "link": "",
-      "summary": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
+      "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
       "published": "",
-      "title_zh": "观看：“这是文化的一部分”——纽约在 160 多年后禁止马车行驶",
-      "summary_zh": "BBC 的马德琳·哈尔珀特 (Madeline Halpert) 向城市游客、居民和马车工人讲述了该行业以及他们对禁令的看法。"
+      "title_zh": "蓝色星球III：狩猎失败后章鱼逃脱死亡的瞬间",
+      "summary_zh": "该序列是大卫·阿滕伯勒爵士最新的蓝色星球系列的一部分。"
     },
     {
-      "title": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
       "link": "",
-      "summary": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms.",
+      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
       "published": "",
-      "title_zh": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
-      "summary_zh": "霍莉·沙曼 (Hollie Sharman) 分享了她的健康焦虑经历，医生就如何控制症状提供了建议。"
+      "title_zh": "由于美国面临高油价，卢比奥转向印度小镇",
+      "summary_zh": "美国国务卿马可·卢比奥今年第二次访问印度时将商业和能源议程置于外交之上。"
     },
     {
-      "title": "Call of Duty promises a return to form - but can it compete with GTA?",
+      "title": "Weekly quiz: How long did Katie Zacharia last as White House press secretary?",
       "link": "",
-      "summary": "Modern Warfare 4 faces an uphill battle after last year's Call of Duty missed the mark with fans.",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
       "published": "",
-      "title_zh": "《使命召唤》有望回归巅峰——但它能与《GTA》竞争吗？",
-      "summary_zh": "继去年的《使命召唤》未能赢得粉丝青睐之后，《现代战争 4》面临着一场艰苦的战斗。"
+      "title_zh": "每周测验：凯蒂·扎卡里亚担任白宫新闻秘书多久了？",
+      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
     },
     {
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "title": "Raye wins the Mercury Prize with second album This Music May Contain Hope",
       "link": "",
-      "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+      "summary": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
       "published": "",
-      "title_zh": "“我96岁了，有1500万粉丝”：奶奶们接管了TikTok",
-      "summary_zh": "德罗尼亚克奶奶、诺娜·格雷西、维夫·特鲁兰和芭芭拉·科斯特洛晚年都在社交媒体上成名。"
+      "title_zh": "Raye 凭借第二张专辑《This Music May Contain Hope》荣获水星奖",
+      "summary_zh": "这位流行歌星击败了 Paul McCartney、Suede 和 Jade Thirlwall 等艺术家，夺得了 25,000 英镑的奖金。"
     },
     {
-      "title": "'This is despicable': Democratic candidate for governor responds to Ohio attack ad",
+      "title": "The Indian workers filming their work to train AI",
       "link": "",
-      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
       "published": "",
-      "title_zh": "“这是卑鄙的”：民主党州长候选人回应俄亥俄州攻击广告",
-      "summary_zh": "她的共和党对手维韦克·拉马斯瓦米正在播放以她母亲为主角的广告，她的丈夫在她童年时被指控性虐待。"
+      "title_zh": "印度工人拍摄他们的工作来训练人工智能",
+      "summary_zh": "印度工人在工作中拍摄自己的视频，并获得报酬，这些镜头被用来训练人工智能。"
     },
     {
-      "title": "Illegal alien accused of beheading Iwo Jima statue previously had DACA: sources",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "link": "",
+      "summary": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry.",
+      "published": "",
+      "title_zh": "对演员泰格·史洛夫的袭击让人回想起宝莱坞黑帮的过去",
+      "summary_zh": "对 Shroff 的袭击让人们回想起 20 世纪 90 年代，当时黑帮对整个行业施加了影响。"
+    },
+    {
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "link": "",
+      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+      "published": "",
+      "title_zh": "台风强比封锁台湾 数百航班取消",
+      "summary_zh": "当局称，台湾琉球岛有一人被海浪卷走后死亡。"
+    },
+    {
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "link": "",
+      "summary": "This is President Peter Mutharika's fifth visit to South Africa this year.",
+      "published": "",
+      "title_zh": "马拉维反对派要求就总统长期滞留国外问题作出答复",
+      "summary_zh": "这是穆塔里卡总统今年第五次访问南非。"
+    },
+    {
+      "title": "Prominent Virginia senator charged over allegations she ran criminal cannabis scheme",
+      "link": "",
+      "summary": "Democratic Senator L Louise Lucas and six other people, including her family members, are accused of illegally distributing the drug.",
+      "published": "",
+      "title_zh": "弗吉尼亚州著名参议员因涉嫌实施大麻犯罪计划而被指控",
+      "summary_zh": "民主党参议员 L Louise Lucas 和其他六人，包括她的家人，被指控非法分发毒品。"
+    },
+    {
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "link": "",
+      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "published": "",
+      "title_zh": "英国广播公司发现苏丹无国界医生组织战士故意袭击医院",
+      "summary_zh": "联合国人权事务高级专员沃尔克·蒂尔克表示，多起袭击事件可能构成战争罪。"
+    },
+    {
+      "title": "Conte plays down 'unfounded' Man Utd speculation",
+      "link": "",
+      "summary": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
+      "published": "",
+      "title_zh": "孔蒂淡化了“毫无根据”的曼联猜测",
+      "summary_zh": "安东尼奥·孔蒂表示，他没有与任何俱乐部进行深入谈判，以回应有关他已与曼联进行谈判的猜测。"
+    },
+    {
+      "title": "Analysis: Trump promised $2 gas and cheaper groceries. Here’s what voters got.",
+      "link": "https://www.nbcnews.com/business/economy/trump-affordability-promises-gas-grocery-prices-taxes-rcna597789",
+      "summary": "",
+      "published": "",
+      "title_zh": "分析：特朗普承诺提供 2 美元汽油和更便宜的食品杂货。这是选民得到的结果。"
+    },
+    {
+      "title": "Israel orders ‘full lockdown’ of occupied West Bank after military kills 2 accused of attack",
+      "link": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176",
+      "summary": "",
+      "published": "",
+      "title_zh": "以色列军队杀死两名被指控袭击的人后，下令“全面封锁”被占领的约旦河西岸"
+    },
+    {
+      "title": "He’s in the West Wing. He’s at the rally. He’s got Trump’s ear. Bill Pulte is everywhere.",
+      "link": "https://www.nbcnews.com/politics/trump-administration/bill-pulte-everywhere-rcna603760",
+      "summary": "",
+      "published": "",
+      "title_zh": "他在西翼。他在集会上。他听取了特朗普的意见。比尔·普尔特无处不在。"
+    },
+    {
+      "title": "Meghan Markle ‘deeply distressed’ by allegations her dad possessed child sexual abuse images",
+      "link": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181",
+      "summary": "",
+      "published": "",
+      "title_zh": "梅根·马克尔对她父亲拥有儿童性虐待图片的指控“深感痛苦”"
+    },
+    {
+      "title": "Russian diesel tanker heads to the U.S., the first since Trump’s deal with Putin",
+      "link": "https://www.nbcnews.com/business/energy/russian-diesel-tanker-heads-us-trump-deal-putin-ukraine-war-rcna605187",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄罗斯柴油油轮前往美国，这是特朗普与普京达成协议以来的第一艘油轮"
+    },
+    {
+      "title": "New York AG James files opposition to effort to bar her from Cornell investigation",
+      "link": "https://www.nbcnews.com/news/us-news/ny-ag-james-files-opposition-effort-bar-cornell-investigation-rcna605136",
+      "summary": "",
+      "published": "",
+      "title_zh": "纽约总检察长詹姆斯对阻止她参与康奈尔大学调查的努力提出反对"
+    },
+    {
+      "title": "With MLB lockout looming, World Series readies for two small-market teams",
+      "link": "https://www.nbcnews.com/sports/mlb/world-series-mlb-milwaukee-brewers-tampa-bay-rays-preview-rcna605064",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着美国职业棒球大联盟（MLB）停摆迫在眉睫，世界大赛为两支小市场球队做好了准备"
+    },
+    {
+      "title": "Former judge warns of far-reaching legal implications if Omar lived 'entire life under an alias'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被指控斩首硫磺岛雕像的非法外国人此前曾获得DACA：消息来源"
+      "title_zh": "前法官警告说，如果奥马尔“一生都在化名下”，将会产生深远的法律影响"
     },
     {
-      "title": "DOJ opens investigation into longtime Trump adviser after criminal referral",
+      "title": "Communist Beijing's port grab near US shores raises urgent security alarms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "司法部在刑事移交后对特朗普长期顾问展开调查"
+      "title_zh": "Communist Beijing's port grab near US shores raises urgent security alarms"
     },
     {
-      "title": "Erika Kirk rips 'absurd' 2029 trial timeline for Charlie Kirk's alleged assassin",
+      "title": "White House spotlights brutal Florida killing in rebuke of Biden border policies",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "埃里卡·柯克 (Erika Kirk) 撕毁了 2029 年对查理·柯克 (Charlie Kirk) 涉嫌刺杀案的“荒谬”审判时间表"
+      "title_zh": "White House spotlights brutal Florida killing in rebuke of Biden border policies"
     },
     {
-      "title": "NYC votes to end 170-year horse carriage tradition after teen's death",
+      "title": "Supreme Court intervenes in New Hampshire fight over student IDs for voting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "青少年去世后纽约市投票结束170年的马车传统"
+      "title_zh": "Supreme Court intervenes in New Hampshire fight over student IDs for voting"
     },
     {
-      "title": "Rhamondre Stevenson's 48-yard score stuns Soldier Field as clock hits zero",
+      "title": "Unions, socialists and migrant groups unite to storm Le Pen's National Rally",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "当时钟归零时，拉蒙德·史蒂文森 (Rhamondre Stevenson) 的 48 码得分震惊了士兵场"
+      "title_zh": "工会、社会主义者和移民团体联合起来冲击勒庞的全国集会"
     },
     {
-      "title": "NJ mayor threatens resident during chaotic public meeting: 'I'm getting you'",
+      "title": "Enes Kanter Freedom unloads on LeBron James and the NBA following WNBA confrontation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新泽西市长在混乱的公开会议上威胁居民：“我抓住你了”"
+      "title_zh": "埃内斯·坎特 (Enes Kanter Freedom) 在 WNBA 对抗后向勒布朗·詹姆斯和 NBA 发起攻击"
     },
     {
-      "title": "World Series champion catcher retires at 35 after 10 year run in big leagues",
+      "title": "Israel orders closure of West Bank after deadly shooting as Netanyahu warns of bigger threat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "世界大赛冠军捕手在大联盟征战 10 年后于 35 岁退役"
+      "title_zh": "以色列在致命枪击事件后下令关闭约旦河西岸，内塔尼亚胡警告更大的威胁"
     },
     {
-      "title": "Karoline Leavitt reveals offer to help Trump after successor's five-day tenure",
+      "title": "Woman spots shipwreck hiding beneath lake after years of beach visits: 'Wait a minute'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡罗琳·莱维特透露在继任者五天任期后愿意帮助特朗普"
+      "title_zh": "女子在海滩游览多年后发现隐藏在湖下的沉船：“等一下”"
     },
     {
-      "title": "Utah man charged with hate crime after threatening to bomb synagogue: prosecutors",
+      "title": "Reds legend who caught the final out of the 1990 World Series sweep dies at 63",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "犹他州男子威胁炸犹太教堂后被指控仇恨犯罪：检察官"
+      "title_zh": "横扫 1990 年世界职业棒球大赛决赛的红军传奇人物去世，享年 63 岁"
     },
     {
-      "title": "DHS watchdog refers its Corey Lewandowski investigation to Justice Department for review",
-      "link": "https://www.nbcnews.com/politics/trump-administration/dhs-watchdog-corey-lewandowski-investigation-justice-department-rcna605049",
+      "title": "Gabby Petito family's court battle could 'pave the way' for Charlie Kirk lawsuit: lawyer",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "国土安全部监管机构将科里·莱万多夫斯基的调查提交司法部审查"
+      "title_zh": "加比佩蒂托家族的法庭之战可能为查理柯克诉讼“铺平道路”：律师"
     },
     {
-      "title": "Why John Turturro is having the best year of any New Yorker",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/john-turturro-the-only-living-pickpocket-in-new-york-awards-buzz-rcna603283",
+      "title": "'Ruthless' breaks down Ilhan Omar’s return from hiding — and her controversial answer",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "为什么约翰·特托罗度过了所有纽约人中最好的一年"
+      "title_zh": "《无情》剖析了伊尔汗·奥马尔从躲藏中归来的过程——以及她有争议的答案"
+    },
+    {
+      "title": "GREG GUTFELD:Turns out, Europe isn't the utopia anti-Trump expats thought",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "格雷格·古菲尔德：事实证明，欧洲并不是反特朗普侨民想象中的乌托邦"
+    },
+    {
+      "title": "America's biggest buffet chain cracked the code to all-you-can-eat profits",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国最大的自助餐连锁店破解了自助餐利润的密码"
+    },
+    {
+      "title": "MAGA voters send warning to Republicans ahead of high-stakes midterm elections",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "MAGA 选民在高风险中期选举前向共和党人发出警告"
     }
   ]
 }
