@@ -1,6 +1,6 @@
 {
   "date": "20261023",
-  "total": 38,
+  "total": 30,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -14,11 +14,11 @@
       "status": "ok",
       "entries": 0
     },
-    "theguardian": {
+    "bbc": {
       "status": "ok",
       "entries": 0
     },
-    "bbc": {
+    "theguardian": {
       "status": "ok",
       "entries": 0
     },
@@ -37,282 +37,226 @@
   },
   "entries": [
     {
-      "title": "DOJ sues to block Alaska Senate certification if GOP’s Dan Sullivan loses",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-justice-department-lawsuit-alaska-senate-rcna605229",
-      "summary": "",
-      "published": "",
-      "title_zh": "如果共和党的丹·沙利文败诉，司法部将提起诉讼阻止阿拉斯加参议院的认证"
-    },
-    {
-      "title": "Sen. Susan Collins says Trump administration cancels some Canada tariffs",
-      "link": "https://www.nbcnews.com/business/economy/trump-cancels-canada-tariffs-susan-collins-rcna605270",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员苏珊·柯林斯表示特朗普政府取消了加拿大的部分关税"
-    },
-    {
-      "title": "How Starlink slowdown hit Ukraine’s front line soldiers pushing Russia back",
-      "link": "https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732",
-      "summary": "",
-      "published": "",
-      "title_zh": "星链减速如何影响乌克兰前线士兵击退俄罗斯"
-    },
-    {
-      "title": "Why baseball teams are replacing live stadium organists with modern music",
-      "link": "https://www.nbcnews.com/sports/mlb/disappearance-baseball-stadium-organist-rcna603770",
-      "summary": "",
-      "published": "",
-      "title_zh": "为什么棒球队用现代音乐取代现场体育场风琴师"
-    },
-    {
-      "title": "Mississippi police officer who fatally shot 1-year-old Kohen Wiley has resigned",
-      "link": "https://www.nbcnews.com/news/us-news/mississippi-police-officer-fatally-shot-1-year-old-kohen-wiley-resigne-rcna605253",
-      "summary": "",
-      "published": "",
-      "title_zh": "枪杀 1 岁儿童科恩·威利 (Kohen Wiley) 的密西西比州警官已辞职"
-    },
-    {
-      "title": "Six years and more than a thousand artists: Bringing ‘Wildwood’ to life without AI",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/wildwood-movie-magic-laika-oscars-buzz-rcna604910",
-      "summary": "",
-      "published": "",
-      "title_zh": "六年时间和一千多名艺术家：在没有人工智能的情况下将“Wildwood”带入生活"
-    },
-    {
-      "title": "Meghan statement offers answers after years of questions about her relationship with father",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "link": "",
-      "summary": "Today, without exactly using the word, Meghan claimed vindication.",
+      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
       "published": "",
-      "title_zh": "梅根的声明为多年来有关她与父亲关系的问题提供了答案",
-      "summary_zh": "今天，梅根虽然没有确切地使用这个词，但却声称自己是平反的。"
+      "title_zh": "中期选举临近，白宫取消对部分加拿大商品的关税",
+      "summary_zh": "从 10 月 30 日起，某些产品（包括某些机械）的关税将降低，而其他产品（例如地毯）的关税将降低。"
     },
     {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "link": "",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "published": "",
+      "title_zh": "两名以色列士兵被枪杀后，以色列军队开始拆除希伯伦的巴勒斯坦建筑物",
+      "summary_zh": "周五早上，两名巴勒斯坦枪手在约旦河西岸城市外的一个检查站发动袭击，造成这些士兵死亡。"
+    },
+    {
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "link": "",
       "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
       "published": "",
-      "title_zh": "白宫称梅拉尼娅·特朗普斡旋乌克兰城市“处于灾难边缘”停战",
+      "title_zh": "白宫称梅拉尼娅·特朗普斡旋乌克兰城市“处于灾难边缘”停火",
       "summary_zh": "乌克兰和俄罗斯确认在俄罗斯占领的奥列什基停战，那里的居民不得不吃花园里的杂草才能生存。"
     },
     {
-      "title": "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
       "link": "",
-      "summary": "The family lawyer says an allegation of shoplifting \"does not warrant the death\" of a child.",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
       "published": "",
-      "title_zh": "密西西比州一岁儿童被警察枪杀身亡，随身摄像头片段被公布",
-      "summary_zh": "家庭律师表示，商店行窃的指控“并不能保证”孩子的死亡。"
+      "title_zh": "官员称，约旦教堂葬礼上七人被枪手枪杀",
+      "summary_zh": "卡拉克省南部的袭击事件还造成 34 人受伤，目前正在进行搜捕行动。"
     },
     {
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "link": "",
-      "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-      "published": "",
-      "title_zh": "特朗普政府提起诉讼，要求阻止对即将举行的阿拉斯加选举的认证",
-      "summary_zh": "司法部已提起诉讼，称两名名为丹·沙利文的候选人的加入可能会让选民感到困惑。"
-    },
-    {
-      "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
-      "link": "",
-      "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned.",
-      "published": "",
-      "title_zh": "美国最高法院考虑是否最终将私酒合法化，家庭酿酒商欢欣鼓舞",
-      "summary_zh": "最高法院将在新的一年考虑是否应该推翻 1868 年禁止家庭蒸馏的立法。"
-    },
-    {
-      "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+      "title": "Watch: CCTV footage appears to show gunmen at site of Jordan shooting",
       "link": "",
       "summary": "Dozens of people had been inside the church for a funeral when the shooting began, local media report.",
       "published": "",
-      "title_zh": "观看：闭路电视录像似乎显示枪手在约旦教堂附近",
+      "title_zh": "观看：闭路电视录像似乎显示枪手在约旦枪击现场",
       "summary_zh": "据当地媒体报道，枪击事件发生时，已有数十人在教堂内参加葬礼。"
     },
     {
-      "title": "US justice department investigating Corey Lewandowski over DHS role",
+      "title": "Why is John Travolta's old luxury jet in a small Australian town?",
       "link": "",
-      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+      "summary": "The BBC goes on board Travolta’s old Boeing 707 which is being reassembled in a small coastal town.",
       "published": "",
-      "title_zh": "美国司法部就国土安全部角色调查科里·莱万多夫斯基",
-      "summary_zh": "据报道，特朗普的前竞选经理因涉嫌利用其在国土部的职务谋取经济利益而受到调查。"
+      "title_zh": "为什么约翰·特拉沃尔塔的旧豪华飞机会停在澳大利亚的一个小镇上？",
+      "summary_zh": "BBC 登上特拉沃尔塔的旧波音 707，这架飞机正在沿海小镇重新组装。"
     },
     {
-      "title": "Monk on Welsh island gave naked photos of himself to visitors",
+      "title": "Who actually controls Ukraine's access to Starlink?",
       "link": "",
-      "summary": "The monk denies sexually assaulting a visitor, who says he also gave her naked photos of himself.",
+      "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
       "published": "",
-      "title_zh": "威尔士岛上的僧人向游客展示自己的裸照",
-      "summary_zh": "该和尚否认对一名访客进行性侵犯，并称他还给了她自己的裸照。"
+      "title_zh": "谁真正控制着乌克兰对星链的访问？",
+      "summary_zh": "泽伦斯基总统表示，该技术的限制继续影响乌克兰军队，而美国官员和埃隆·马斯克对于谁控制该技术的说法相互矛盾。"
     },
     {
-      "title": "Arsenal fear Saka could be out for two months",
+      "title": "Denmark to ban mink farming in government U-turn",
       "link": "",
-      "summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
+      "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
       "published": "",
-      "title_zh": "阿森纳担心萨卡可能缺席两个月",
-      "summary_zh": "阿森纳前锋布卡约·萨卡因在对阵拜仁慕尼黑的比赛中股四头肌受伤，可能会缺席长达八周的时间。"
+      "title_zh": "丹麦政府大转弯禁止水貂养殖",
+      "summary_zh": "该国曾经是世界上最大的水貂皮生产国，但近年来该国的工业已经衰退。"
     },
     {
-      "title": "Andrew can be called to give evidence in High Court fraud trial",
+      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
       "link": "",
-      "summary": "The High Court trial involves allegations of fraud made by a wealthy Turkish woman against her former adviser.",
+      "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
       "published": "",
-      "title_zh": "安德鲁可能被传唤在高等法院欺诈审判中提供证据",
-      "summary_zh": "高等法院的审判涉及一名富有的土耳其妇女对其前顾问进行欺诈的指控。"
+      "title_zh": "杀害俄勒冈州校园枪击案凶手的父亲描述了他无法拯救孩子的痛苦",
+      "summary_zh": "凯鲁布·贾曼科 (Kaylub Giamanco) 因射杀一名青少年而被誉为英雄，这名青少年枪杀了三名儿童和一名教师。"
     },
     {
-      "title": "Poulter & Hatton leave LIV as exodus continues",
+      "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
       "link": "",
-      "summary": "Englishmen Ian Poulter and Tyrrell Hatton are the latest star names to confirm they are quitting LIV Golf - leaving the breakaway tour's future looking increasingly uncertain.",
+      "summary": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
       "published": "",
-      "title_zh": "随着人员流失继续，保尔特和哈顿离开 LIV",
-      "summary_zh": "英国人伊恩·保尔特 (Ian Poulter) 和泰瑞尔·哈顿 (Tyrrell Hatton) 是最新确认退出 LIV Golf 的明星球员，这使得脱离巡回赛的未来看起来越来越不确定。"
+      "title_zh": "出于道德考虑，格拉斯哥博物馆将木乃伊遗骸从公众视野中移除",
+      "summary_zh": "凯尔文格罗夫博物馆和亨特博物馆表示，出于道德考虑，他们已将人类遗骸移出展览。"
     },
     {
-      "title": "Championship: Bolton pull one back but Boro lead 3-1 at break",
+      "title": "Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says",
       "link": "",
-      "summary": "Follow live text commentary as Middlesbrough travel to Bolton in the Championship with a chance to go top of the table.",
+      "summary": "The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.",
       "published": "",
-      "title_zh": "英冠：博尔顿扳回一球，米堡破门3-1领先",
-      "summary_zh": "跟随实时文字评论，米德尔斯堡将在锦标赛中客场挑战博尔顿，有机会登上积分榜榜首。"
+      "title_zh": "律师称，康奈尔大学强奸案调查中心的一名女子“持续恐惧”",
+      "summary_zh": "这名匿名女子称她在康奈尔大学校园内被几名男子下药并强奸。"
     },
     {
-      "title": "HAPPENING NOW: President Trump celebrates lower drug prices at Florida campaign rally",
+      "title": "Kompany taken to hospital after collapsing at training",
+      "link": "",
+      "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+      "published": "",
+      "title_zh": "Kompany taken to hospital after collapsing at training",
+      "summary_zh": "拜仁慕尼黑主教练文森特·孔帕尼周五在观看俱乐部第二队训练时晕倒，被送往医院。"
+    },
+    {
+      "title": "‘I would have never done that’: Vivek Ramaswamy supporters criticize his controversial ad",
+      "link": "https://www.nbcnews.com/politics/2026-election/vivek-ramaswamy-supporters-criticize-controversial-ad-rcna605227",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我永远不会那样做”：维韦克·拉马斯瓦米的支持者批评他有争议的广告"
+    },
+    {
+      "title": "Trump doubles down on defending attack ad against Amy Acton",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-defends-vivek-ramaswamy-attack-ad-ohio-amy-acton-mother-rcna605242",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普加倍努力为针对艾米·阿克顿的攻击广告辩护"
+    },
+    {
+      "title": "Goldman Sachs CEO David Solomon is optimistic about AI. Most of America disagrees.",
+      "link": "https://www.nbcnews.com/business/ceo-interviews/goldman-sachs-ceo-ai-optimism-rcna604322",
+      "summary": "",
+      "published": "",
+      "title_zh": "高盛首席执行官大卫·所罗门对人工智能持乐观态度。大多数美国人不同意。"
+    },
+    {
+      "title": "‘I didn’t save everybody’: Hero who stopped Bend school shooter is haunted by encounter",
+      "link": "https://www.nbcnews.com/news/us-news/hero-stopped-bend-school-shooter-haunted-encounter-didnt-everybody-rcna605265",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我没有拯救所有人”：阻止本德校园枪击案的英雄遭遇遭遇困扰"
+    },
+    {
+      "title": "Ilhan Omar confirms what she says is her 'real name' amid questions over her identity",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "现在发生的事情：特朗普总统在佛罗里达州竞选集会上庆祝药品价格下降"
+      "title_zh": "伊尔汗·奥马尔在身份受到质疑时证实了她所说的“真名”"
     },
     {
-      "title": "Rep. Ilhan Omar calls Trump a 'creep' as fight over her real name escalates",
+      "title": "Robert De Niro warns what 'they' might pull on Election Day in progressive ad",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "众议员伊尔汗·奥马尔称特朗普为“变态”，因为她的真名之争不断升级"
+      "title_zh": "罗伯特·德尼罗在渐进式广告中警告“他们”在选举日可能会做什么"
     },
     {
-      "title": "Gunmen open fire on Christian funeral leaving 6 dead, 28 wounded",
+      "title": "Jack Nicholson's antics drove Tom Cruise to throw a punch on movie set, co-star says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "枪手向基督徒葬礼开枪造成6人死亡、28人受伤"
+      "title_zh": "联合主演说，杰克·尼科尔森的滑稽动作促使汤姆·克鲁斯在电影片场挥拳"
     },
     {
-      "title": "Ex-FBI officials arrested in Hunter Biden laptop probe as testimony comes under scrutiny",
+      "title": "Trump is handing the next Democratic president a weapon Republicans will regret",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前联邦调查局官员在亨特·拜登笔记本电脑调查中被捕，证词受到审查"
+      "title_zh": "特朗普正在向下一任民主党总统交出一件共和党人会后悔的武器"
     },
     {
-      "title": "AOC says she backs men in women's sports because she is a 'girl's girl'",
+      "title": "Colorado female athletes faced alleged benching threat amid trans athlete dispute",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "AOC表示她支持男性参加女子运动，因为她是“女孩中的女孩”"
+      "title_zh": "科罗拉多州女运动员在跨性别运动员纠纷中面临所谓的替补威胁"
     },
     {
-      "title": "Supreme Court hands GOP voter ID win as Jackson makes another solo public stand",
+      "title": "NFL quarterback charged with possession following Indiana traffic stop",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "最高法院授予共和党选民身份证胜利，杰克逊再次单独公开立场"
+      "title_zh": "NFL 四分卫在印第安纳州交通堵塞后被控控球"
     },
     {
-      "title": "LeBron James doubles down on national anthem antics after Trump's 'total disgrace' jab",
+      "title": "Meghan Markle 'deeply distressed' over allegations against her father",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "勒布朗·詹姆斯在特朗普的“彻底耻辱”刺伤后加倍强调国歌滑稽动作"
+      "title_zh": "梅根·马克尔对父亲的指控“深感痛苦”"
     },
     {
-      "title": "Rogue AI bots accessing bank accounts spark major security warning",
+      "title": "Macron deploys 70,000 police for protests amid suspected terror attack near Paris",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "流氓人工智能机器人访问银行账户引发重大安全警告"
+      "title_zh": "马克龙部署7万名警察应对巴黎附近疑似恐怖袭击事件"
     },
     {
-      "title": "Trump's France warning gets State Department backing after Macron's sharp rebuke",
+      "title": "WNBA star responds to Team USA critics before cutting off anthem follow-up",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在马克龙严厉谴责后，特朗普对法国的警告得到了国务院的支持"
+      "title_zh": "WNBA球星在终止国歌后续节目之前回应了美国队的批评"
     },
     {
-      "title": "Trump calls out 'fake' candidate in Alaska Senate race as campaign responds to ballot controversy",
+      "title": "Linda Perry felt healthy until a procedure she’d put off for years uncovered cancer",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在阿拉斯加参议院竞选中指责“假”候选人，竞选活动回应选票争议"
+      "title_zh": "琳达·佩里 (Linda Perry) 感觉很健康，直到她推迟多年的手术发现了癌症"
     },
     {
-      "title": "Jackson leads in the polls but the ground game reveals a stunning disconnect",
+      "title": "MLB player reportedly fled 'haunted' hotel room without pants after spooky encounter",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杰克逊在民调中领先，但地面比赛却显示出惊人的脱节"
+      "title_zh": "据报道，美国职业棒球大联盟（MLB）球员在遭遇怪异事件后，不穿裤子逃离“闹鬼”的酒店房间"
     },
     {
-      "title": "JK Rowling vows she won't back down despite 'avalanche' of rape and death threats",
+      "title": "Tiny gelatin particles injected into joints may spare millions from replacement surgery",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "JK罗琳发誓，尽管强奸和死亡威胁“雪崩”，她也不会退缩"
+      "title_zh": "注射到关节中的微小明胶颗粒可能使数百万人免于进行置换手术"
     },
     {
-      "title": "Trump's corporate stakes are a gift to the next Democratic president",
+      "title": "Ken Griffin says Paris riots offer stark warning for young Americans",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普的企业股份是送给下一任民主党总统的礼物"
+      "title_zh": "肯·格里芬表示巴黎骚乱给美国年轻人提出了严厉警告"
     },
     {
-      "title": "College football stadium sits nearly empty as fans mocked for turnout",
+      "title": "Kate Hudson shows some skin in red bikini as she soaks up sun beside her fiancé",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学橄榄球场几乎空无一人，球迷嘲笑投票率"
-    },
-    {
-      "title": "Suspected Philadelphia cop killer faces several felony charges",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "费城警察杀手嫌疑人面临多项重罪指控"
-    },
-    {
-      "title": "Thieves posing as charity workers target restaurant, coffee shop customers in major city",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "冒充慈善工作者的盗贼瞄准大城市的餐馆、咖啡店顾客"
-    },
-    {
-      "title": "Four fraternity pledges arrested after police investigate initiation 'tradition'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "警方调查启动“传统”后，四名兄弟会会员被捕"
-    },
-    {
-      "title": "King Abdullah II promises 'harshest retaliation' after gunmen storm church, kill 7",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "枪手冲进教堂杀死7人后，国王阿卜杜拉二世承诺“最严厉的报复”"
-    },
-    {
-      "title": "Toddler and grandparents found dead as cops probe disturbing clue in 911 call",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "警方调查 911 电话中令人不安的线索，幼儿和祖父母被发现死亡"
-    },
-    {
-      "title": "MLB players' chilling stories about 'haunted' hotel swirl ahead of World Series Copy",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国职棒大联盟球员关于“闹鬼”酒店的令人毛骨悚然的故事在世界大赛副本前流传"
+      "title_zh": "凯特·哈德森 (Kate Hudson) 身穿红色比基尼与未婚夫一起沐浴阳光，露出肌肤"
     }
   ]
 }

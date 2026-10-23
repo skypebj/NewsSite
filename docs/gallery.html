@@ -56,7 +56,7 @@
             <h1>📸 监控面板</h1>
             <a class="nav-link" href="./index.html">📄 返回文件列表</a>
         </div>
-        <div class="info">最后更新: 2026-10-23 20:10:23</div>
+        <div class="info">最后更新: 2026-10-23 23:10:31</div>
 
         <!-- 健康状态 -->
         <div class="section">
@@ -82,13 +82,13 @@
                 </div>
         
                 <div class="health-item">
-                    <div><strong>THEGUARDIAN</strong></div>
+                    <div><strong>BBC</strong></div>
                     <div class="status ok">✅ 成功</div>
                     <div>条目: 0</div>
                 </div>
         
                 <div class="health-item">
-                    <div><strong>BBC</strong></div>
+                    <div><strong>THEGUARDIAN</strong></div>
                     <div class="status ok">✅ 成功</div>
                     <div>条目: 0</div>
                 </div>
@@ -190,6 +190,51 @@
             </div>
             <div id="gallery" class="gallery">
 
+                <div class="card" data-date="20261023" data-time="230656" data-site="cnn">
+                    <img src="./screenshots/cnn_20261023_230656.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>CNN</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="fox">
+                    <img src="./screenshots/fox_20261023_230656.png" alt="fox 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>FOX</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="theguardian">
+                    <img src="./screenshots/theguardian_20261023_230656.png" alt="theguardian 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>THEGUARDIAN</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="washingtonpost">
+                    <img src="./screenshots/washingtonpost_20261023_230656.png" alt="washingtonpost 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>WASHINGTONPOST</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="bbc">
+                    <img src="./screenshots/bbc_20261023_230656.png" alt="bbc 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>BBC</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="nytimes">
+                    <img src="./screenshots/nytimes_20261023_230656.png" alt="nytimes 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NYTIMES</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="reuters">
+                    <img src="./screenshots/reuters_20261023_230656.png" alt="reuters 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>REUTERS</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="apnews">
+                    <img src="./screenshots/apnews_20261023_230656.png" alt="apnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>APNEWS</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
+                <div class="card" data-date="20261023" data-time="230656" data-site="nbcnews">
+                    <img src="./screenshots/nbcnews_20261023_230656.png" alt="nbcnews 截图" loading="lazy" onclick="openModal(this.src)">
+                    <div class="info"><strong>NBCNEWS</strong> - 2026-10-23 23:06:56</div>
+                </div>
+            
                 <div class="card" data-date="20261023" data-time="200716" data-site="cnn">
                     <img src="./screenshots/cnn_20261023_200716.png" alt="cnn 截图" loading="lazy" onclick="openModal(this.src)">
                     <div class="info"><strong>CNN</strong> - 2026-10-23 20:07:16</div>
@@ -10170,7 +10215,7 @@
             updateTimeOptions();
 
             // 绘制频率图表
-            const freqData = {"20": 38};
+            const freqData = {"23": 30};
             const ctx = document.getElementById('freqChart').getContext('2d');
             const hours = Object.keys(freqData).sort();
             const counts = hours.map(h => freqData[h] || 0);
@@ -10196,4 +10241,4 @@
 </body>
 </html>
 
-<!-- 生成时间: 2026-10-23T20:10:23.763340 -->
+<!-- 生成时间: 2026-10-23T23:10:31.479748 -->
