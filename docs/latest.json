@@ -1,6 +1,6 @@
 {
   "date": "20261024",
-  "total": 28,
+  "total": 39,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,210 +37,291 @@
   },
   "entries": [
     {
-      "title": "'Be a journalist': El-Sayed clashes over Muslim Brotherhood questions in Senate race",
+      "title": "French police arrest 135 people, says minister, as protests take place across country",
       "link": "",
-      "summary": "",
+      "summary": "Shopfronts are boarded up, some tourist spots are shut and the capital has closed a number of metro stations.",
       "published": "",
-      "title_zh": "“做一名记者”：埃尔·赛义德在参议院竞选中就穆斯林兄弟会问题发生冲突"
+      "title_zh": "部长表示，随着全国各地发生抗议活动，法国警方逮捕了 135 人",
+      "summary_zh": "商店门面被封起来，一些旅游景点被关闭，首都也关闭了一些地铁站。"
     },
     {
-      "title": "Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "",
-      "summary": "",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
       "published": "",
-      "title_zh": "安斯利·埃尔哈特 (Ainsley Earhardt) 和肖恩·汉尼提 (Sean Hannity) 在家人和朋友的陪伴下在海湖庄园庆祝即将举行的婚礼"
+      "title_zh": "乌克兰称星链连接在网络限制后“现已稳定”",
+      "summary_zh": "星链连接速度减慢已经影响了乌克兰的军事和无人机行动一周。"
     },
     {
-      "title": "Wrestling legend Ric Flair, 77, hospitalized after fall outside Tampa bar",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "77 岁的摔跤传奇人物瑞克·弗莱尔 (Ric Flair) 在坦帕酒吧外摔倒住院"
-    },
-    {
-      "title": "Musk confronts Talarico's transgender youth stance in Texas Senate race",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "马斯克在德克萨斯州参议员竞选中直面塔拉里科的跨性别青年立场"
-    },
-    {
-      "title": "Trump suggests sending Marco Rubio to Cuba to negotiate deal with Havana",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普建议派马可·卢比奥前往古巴与哈瓦那谈判协议"
-    },
-    {
-      "title": "Iran could restore military capabilities without new strikes, Israeli veteran says",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "以色列退伍军人表示，伊朗可以在不进行新打击的情况下恢复军事能力"
-    },
-    {
-      "title": "'GUTFELD!':Doubt cast on a 'Tan Mom' ICE tale",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "“GUTFELD！”：对“晒黑妈妈”冰故事的质疑"
-    },
-    {
-      "title": "Vanessa Trump shares uplifting health update after cancer diagnosis in April",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "瓦妮莎·特朗普 (Vanessa Trump) 在四月份诊断出癌症后分享了令人振奋的健康状况"
-    },
-    {
-      "title": "Mavericks star exits game after hard foul that ignites shoving match",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "小牛队球星在严重犯规后退出比赛，引发推搡比赛"
-    },
-    {
-      "title": "Kate Hudson turns heads in red bikini on Hawaiian getaway",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "凯特·哈德森 (Kate Hudson) 身穿红色比基尼夏威夷度假，引人注目"
-    },
-    {
-      "title": "Judge stalls setting trial date for Charlie Kirk's accused killer amid clash over timing",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "由于时间上的冲突，法官搁置了对查理·柯克被指控的凶手的审判日期"
-    },
-    {
-      "title": "Focus groups: Their candidates lost in the Michigan and Texas primaries. Now what?",
-      "link": "https://www.nbcnews.com/politics/2026-election/focus-groups-candidates-lost-michigan-texas-primaries-now-rcna604434",
-      "summary": "",
-      "published": "",
-      "title_zh": "焦点小组：他们的候选人在密歇根州和德克萨斯州初选中失败。现在怎么办？"
-    },
-    {
-      "title": "DOJ’s election lawsuits are on shaky legal ground, experts say",
-      "link": "https://www.nbcnews.com/politics/elections/trump-administrations-election-lawsuits-shaky-legal-ground-experts-rcna605296",
-      "summary": "",
-      "published": "",
-      "title_zh": "专家称，司法部的选举诉讼法律依据不牢靠"
-    },
-    {
-      "title": "Send your questions for Steve Kornacki on the midterm elections",
-      "link": "https://www.nbcnews.com/politics/elections/send-questions-steve-kornacki-midterm-elections-rcna605264",
-      "summary": "",
-      "published": "",
-      "title_zh": "向史蒂夫·科纳基 (Steve Kornacki) 发送有关中期选举的问题"
-    },
-    {
-      "title": "Netflix bets on ‘La Bola Negra’ for best picture: On the Lot",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/netflix-bets-la-bola-negra-best-picture-film-shake-ups-rcna604875",
-      "summary": "",
-      "published": "",
-      "title_zh": "Netflix 将最佳影片押注于《La Bola Negra》：《On the Lot》"
-    },
-    {
-      "title": "Everything was going great — and then he got caught in Lori Vallow Daybell’s crosshairs",
-      "link": "https://www.nbcnews.com/news/us-news/lori-vallow-daybell-brandon-boudreaux-rcna604698",
-      "summary": "",
-      "published": "",
-      "title_zh": "一切都很顺利——然后他陷入了洛里·瓦洛·戴贝尔的十字准线中"
-    },
-    {
-      "title": "Brewers withstand Rays’ comeback attempt to win 3-2 in Game 1 of World Series",
-      "link": "https://www.nbcnews.com/sports/mlb/brewers-rays-game-1-world-series-rcna605355",
-      "summary": "",
-      "published": "",
-      "title_zh": "酿酒人顶住光芒队的反击尝试，在世界大赛第一场比赛中以 3-2 获胜"
-    },
-    {
-      "title": "The FDA says there’s no estrogen patch shortage. Women are struggling to fill prescriptions.",
-      "link": "https://www.nbcnews.com/health/womens-health/fda-says-s-no-estrogen-patch-shortage-women-are-struggling-fill-prescr-rcna605066",
-      "summary": "",
-      "published": "",
-      "title_zh": "FDA 表示，雌激素贴片并不短缺。女性正在努力配药。"
-    },
-    {
-      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-      "link": "",
-      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
-      "published": "",
-      "title_zh": "利摩日市政厅遗址是法国因全国抗议而分裂的象征",
-      "summary_zh": "年轻的利摩日居民将市政厅被毁视为更广泛运动中不幸的附带损害。对于其他人来说，火灾是一场无法接受的悲剧。"
-    },
-    {
-      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
       "link": "",
       "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "published": "",
-      "title_zh": "希特勒鹰巢撤退发生火灾后被捕",
+      "title_zh": "希特勒山顶鹰巢别墅起火后被捕",
       "summary_zh": "大约 200 名急救人员被部署到纳粹独裁者位于德国阿尔卑斯山的住所灭火。"
     },
     {
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
       "link": "",
-      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+      "summary": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
       "published": "",
-      "title_zh": "马克龙称巴黎附近致命枪击事件是“种族主义恐怖袭击”",
-      "summary_zh": "在一系列袭击中，一人死亡，五人受伤。疑似枪手已被逮捕。"
+      "title_zh": "因凡蒂诺告诉BBC体育他得到了世界足坛“绝大多数”的支持",
+      "summary_zh": "国际足联主席詹尼·因凡蒂诺对有关他是否考虑因世界杯抛售惨败而辞职的问题一笑置之。"
     },
     {
-      "title": "The artist dropping her debut album after a billion streams",
-      "link": "",
-      "summary": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
-      "published": "",
-      "title_zh": "这位艺术家在十亿次播放后放弃了她的首张专辑",
-      "summary_zh": "爱尔兰 DJ Jazzy 出现在都柏林俱乐部舞台上，并与卡尔文·哈里斯 (Calvin Harris) 等行业重量级人物合作。"
-    },
-    {
-      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "link": "",
-      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
-      "published": "",
-      "title_zh": "前乌克兰囚犯称获释美国公民在俄罗斯监狱遭受酷刑",
-      "summary_zh": "与这名美国人关押在一起的乌克兰人表示，他们在他被拘留期间目睹了俄罗斯警卫的殴打和性侮辱。"
-    },
-    {
-      "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
       "link": "",
       "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
       "published": "",
-      "title_zh": "加州选民是否即将征收世界上第一个“对亿万富翁征税”？",
+      "title_zh": "加州选民是否打算对亿万富翁征收“世界第一”的税？",
       "summary_zh": "选民即将决定其中的超级富豪是否应该捐出数十亿美元来改善医疗保健。"
     },
     {
-      "title": "Bayern Munich manager Vincent Kompany taken to hospital after collapsing at training ground",
+      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
       "link": "",
-      "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+      "summary": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
       "published": "",
-      "title_zh": "拜仁慕尼黑主教练文森特·孔帕尼在训练场晕倒后被送往医院",
-      "summary_zh": "拜仁慕尼黑主教练文森特·孔帕尼周五在观看俱乐部第二队训练时晕倒，被送往医院。"
+      "title_zh": "在启动恒温器之前，请尝试这些技巧，让您和您的家保持更长时间的温暖",
+      "summary_zh": "用袜子制作防风罩，烹饪后打开烤箱门，并选择许多薄层衣服来保暖。"
     },
     {
-      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "title": "How Brazil's changing working class is reshaping the presidential race",
       "link": "",
-      "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+      "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
       "published": "",
-      "title_zh": "阿根廷放弃对总统米莱加密货币欺诈的调查",
-      "summary_zh": "哈维尔·米雷 (Javier Milei) 删除了有关加密货币的社交媒体帖子后，否认存在欺诈行为。"
+      "title_zh": "巴西不断变化的工人阶级如何重塑总统竞选",
+      "summary_zh": "要求变革的呼声对卢拉总统在周日的第二轮选举中构成了挑战。"
     },
     {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "title": "Between quick wins and big dreams lies the UK PM's biggest test",
       "link": "",
-      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife.",
+      "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
       "published": "",
-      "title_zh": "油轮罢工后漏油被冲上阿联酋海滩",
-      "summary_zh": "卫星图像显示石油沿着海岸线蔓延数英里，威胁着当地的海洋野生动物。"
+      "title_zh": "在快速胜利和远大梦想之间是英国首相面临的最大考验",
+      "summary_zh": "劳拉·昆斯伯格 (Laura Kuenssberg) 写道，首相可能梦想在 2040 年获得金牌，但他必须首先度过这期间的艰难岁月。"
     },
     {
-      "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+      "title": "Australian MP's condition improves after alleged car attack",
       "link": "",
-      "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
+      "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
       "published": "",
-      "title_zh": "卡里克拒绝排除在情感演讲中放弃费尔南德斯的可能性",
-      "summary_zh": "迈克尔·卡里克在媒体吹风会上不间断地发表了五分钟的讲话，概述了曼联对他的意义，然后拒绝排除放弃布鲁诺·费尔南德斯的可能性。"
+      "title_zh": "澳大利亚议员在涉嫌汽车袭击后病情有所好转",
+      "summary_zh": "据墨尔本医院称，这位独立议员目前情况严重但稳定。"
+    },
+    {
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "link": "",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "published": "",
+      "title_zh": "65 岁妇女成为肯尼亚第二名死于埃博拉病毒的患者",
+      "summary_zh": "她是第一位受害者的近亲，受害者是一名来自刚果民主共和国的男子。"
+    },
+    {
+      "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+      "link": "",
+      "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
+      "published": "",
+      "title_zh": "情报负责人警告称，伊朗正加大力度针对中东的美国人员",
+      "summary_zh": "这一警告发出之际，美国国务院正在调整该地区外交机构的人员配置。"
+    },
+    {
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "link": "",
+      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "published": "",
+      "title_zh": "学生运动将塞尔维亚武契奇推向了势均力敌的选举",
+      "summary_zh": "学生名单是近两年反腐败抗议活动中出现的，对武契奇统治构成最大挑战。"
+    },
+    {
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "published": "",
+      "title_zh": "英国将投资 1 亿英镑建设“世界首个”人工智能生物安全实验室",
+      "summary_zh": "英国财政大臣将在周三的预算中公布旨在加强英国国防的人工智能支出。"
+    },
+    {
+      "title": "Premier League: Man City on top but Aston Villa lead through Jackson strike",
+      "link": "",
+      "summary": "Follow live as Aston Villa host Manchester City in the first of four Premier League games on Saturday.",
+      "published": "",
+      "title_zh": "英超联赛：曼城领先，但阿斯顿维拉凭借杰克逊的进球领先",
+      "summary_zh": "关注周六阿斯顿维拉主场迎战曼城的直播，这是四场英超联赛中的第一场比赛。"
+    },
+    {
+      "title": "Iranian plots to kill Americans reach 'advanced stages,' US intelligence memo warns",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国情报备忘录警告称，伊朗杀害美国人的阴谋已达到“高级阶段”"
+    },
+    {
+      "title": "Canada is feeling the pain from Trump's tariffs — but the trade fight didn't start overnight",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "加拿大正感受到特朗普关税带来的痛苦——但贸易战并不是一夜之间开始的"
+    },
+    {
+      "title": "France deploys 70,000 police officers as museums, businesses brace for protests",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "法国部署7万名警察，博物馆、企业应对抗议"
+    },
+    {
+      "title": "Ainsley Earhardt, Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "安斯利·埃尔哈特 (Ainsley Earhardt) 和肖恩·汉尼提 (Sean Hannity) 在海湖庄园 (Mar-a-Lago) 与家人和朋友一起庆祝即将举行的婚礼"
+    },
+    {
+      "title": "City transformed by Somali immigration grapples with gun violence, fraud scandals",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "因索马里移民而改变的城市正努力应对枪支暴力和欺诈丑闻"
+    },
+    {
+      "title": "El-Sayed clashes over Muslim Brotherhood questions in Senate race",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃尔-赛义德在参议院竞选中就穆斯林兄弟会问题发生冲突"
+    },
+    {
+      "title": "Brewers win first World Series game in 44 years after chaotic late-game finish",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "酿酒人队在混乱的比赛结束后赢得了 44 年来的第一场世界大赛比赛"
+    },
+    {
+      "title": "Woman thought she was talking to Jon Bon Jovi for 7 months — then came the truth",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "女人以为她和乔恩·邦·乔维 (Jon Bon Jovi) 聊了 7 个月——后来真相大白"
+    },
+    {
+      "title": "Georgia GOP governor candidate reverses course, will attend Trump rally after planning to skip",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "佐治亚州共和党州长候选人改变路线，计划缺席后将参加特朗普集会"
+    },
+    {
+      "title": "Retired professor, 78, arrested for standing in front of a delivery robot in Philly",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "费城 78 岁退休教授因站在送货机器人前被捕"
+    },
+    {
+      "title": "'National defense': Trump health official warns of troubling trend among US men",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“国防”：特朗普卫生官员警告美国男性出现令人不安的趋势"
+    },
+    {
+      "title": "NJ tabloid sensation alleges agents were 'racist about color' during restaurant stop",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "新泽西州小报轰动一时，指控特工在餐厅停留期间存在“关于肤色的种族主义”"
+    },
+    {
+      "title": "KEN PAXTON:Talarico is trying to deceive the voters of Texas",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "肯·帕克斯顿：塔拉里科试图欺骗德克萨斯州选民"
+    },
+    {
+      "title": "How Congress could address Social Security insolvency – and the hidden cost",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "国会如何解决社会保障破产问题以及隐性成本"
+    },
+    {
+      "title": "Alabama man allegedly decapitates family members with chainsaw hours after 911 warning",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据称，阿拉巴马州男子在收到 911 警报数小时后，用电锯将家人斩首"
+    },
+    {
+      "title": "Walz's anti-fraud law faces scrutiny after 'stress test' raises major red flags",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“压力测试”引发重大危险信号后，沃尔兹的反欺诈法面临审查"
+    },
+    {
+      "title": "AI hasn’t replaced humans. Employers are still betting on college degrees",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "人工智能尚未取代人类。雇主仍然押注于大学学位"
+    },
+    {
+      "title": "How Democrats could win the House, how the GOP could hang on, and where to look for a wave",
+      "link": "https://www.nbcnews.com/politics/2026-election/house-majority-math-democrats-win-republicans-scenarios-rcna604404",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党如何赢得众议院，共和党如何坚持下去，以及在哪里寻找浪潮"
+    },
+    {
+      "title": "DOJ demands California counties help identify noncitizen voters",
+      "link": "https://www.nbcnews.com/politics/2026-election/doj-demands-california-counties-help-identify-noncitizen-voters-rcna605356",
+      "summary": "",
+      "published": "",
+      "title_zh": "司法部要求加州各县帮助识别非公民选民"
+    },
+    {
+      "title": "Democrats see an opening in secretary of state races in red terrain",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-see-opening-secretary-state-races-red-terrain-rcna604594",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人认为红色地带的国务卿竞选有机会"
+    },
+    {
+      "title": "Iranian plots to kill U.S. officials in Middle East have reached ‘advanced stages,’ intel memo warns",
+      "link": "https://www.nbcnews.com/world/middle-east/iranian-plots-kill-us-officials-middle-east-reached-advanced-stages-in-rcna605360",
+      "summary": "",
+      "published": "",
+      "title_zh": "英特尔备忘录警告称，伊朗在中东刺杀美国官员的阴谋已达到“高级阶段”"
+    },
+    {
+      "title": "Records offer a picture of the Oregon school shooter’s tumultuous home life",
+      "link": "https://www.nbcnews.com/news/us-news/oregon-school-shooter-family-violent-records-sho-rcna604977",
+      "summary": "",
+      "published": "",
+      "title_zh": "记录展现了俄勒冈州校园枪击案凶手混乱的家庭生活"
+    },
+    {
+      "title": "The U.S. fertility rate keeps declining, and a legendary journalist prepares to sign off: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/world-series-news-quiz-rcna605040",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国生育率持续下降，一位传奇记者准备结束：新闻测验"
+    },
+    {
+      "title": "AI is helping cyber defenders — and hackers — find vulnerabilities at a dizzying pace",
+      "link": "https://www.nbcnews.com/tech/security/ai-cybersecurity-hackers-php-flaws-rcna605276",
+      "summary": "",
+      "published": "",
+      "title_zh": "人工智能正在帮助网络防御者和黑客以令人眼花缭乱的速度发现漏洞"
+    },
+    {
+      "title": "Ukraine says Starlink is back to normal after limits hobbled its drones",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-says-starlink-back-normal-week-limits-rcna605368",
+      "summary": "",
+      "published": "",
+      "title_zh": "乌克兰称星链在无人机受到限制后已恢复正常"
     }
   ]
 }
