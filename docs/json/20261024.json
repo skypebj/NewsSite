@@ -1,6 +1,6 @@
 {
   "date": "20261024",
-  "total": 29,
+  "total": 21,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,215 +37,157 @@
   },
   "entries": [
     {
-      "title": "James Talarico rallies young voters critical to his Senate hopes",
-      "link": "https://www.nbcnews.com/politics/elections/texas-james-talarico-rallies-young-voters-austin-senate-race-rcna605144",
-      "summary": "",
-      "published": "",
-      "title_zh": "詹姆斯·塔拉里科召集对他的参议院希望至关重要的年轻选民"
-    },
-    {
-      "title": "Mass protests challenge Macron as French police use tear gas and water cannons",
-      "link": "https://www.nbcnews.com/world/france/paris-shuts-louvre-museums-police-deploy-big-numbers-new-protests-fran-rcna605174",
-      "summary": "",
-      "published": "",
-      "title_zh": "法国警方使用催泪瓦斯和高压水枪，大规模抗议活动挑战马克龙"
-    },
-    {
-      "title": "She had five siblings, but only she survived childhood with her father",
-      "link": "https://www.nbcnews.com/news/us-news/five-siblings-only-survived-childhood-father-rcna353387",
-      "summary": "",
-      "published": "",
-      "title_zh": "她有五个兄弟姐妹，但只有她在父亲的陪伴下度过了童年"
-    },
-    {
-      "title": "U.K. police received claims about Meghan’s father in 2019 but didn’t alert other forces",
-      "link": "https://www.nbcnews.com/world/united-kingdom/british-police-received-allegations-meghans-father-2019-didnt-tell-for-rcna605369",
-      "summary": "",
-      "published": "",
-      "title_zh": "U.K. police received claims about Meghan’s father in 2019 but didn’t alert other forces"
-    },
-    {
-      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
       "link": "",
-      "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
       "published": "",
-      "title_zh": "伦敦警察局表示，有关梅根父亲的信并未与其他执法部门分享",
-      "summary_zh": "大都会表示，已将信息传递给公爵夫人，但没有与其他执法机构分享。"
+      "title_zh": "观看：BBC 在巴黎报道警察在骚乱期间冲向抗议者并使用催泪瓦斯",
+      "summary_zh": "欧洲记者尼克·比克从巴黎报道，夜幕降临后，巴黎大部分和平抗议演变成骚乱。"
     },
     {
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "link": "",
-      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "published": "",
-      "title_zh": "瓦妮莎·特朗普 (Vanessa Trump) 在透露诊断结果六个月后表示，她已经没有癌症了",
-      "summary_zh": "小唐纳德·特朗普的前妻与她育有五个孩子，五月宣布她被诊断出患有乳腺癌。"
-    },
-    {
-      "title": "Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "link": "",
-      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-      "published": "",
-      "title_zh": "观看：大火吞没了希特勒山顶鹰巢撤退",
-      "summary_zh": "德国南部巴伐利亚州警方在火灾后拘留了一名 33 岁的德国男子。"
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "link": "",
       "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
       "published": "",
-      "title_zh": "当地官员称，以色列军队拆除希伯伦房屋，巴勒斯坦家庭流离失所",
+      "title_zh": "以色列军队拆除希伯伦房屋，巴勒斯坦家庭流离失所",
       "summary_zh": "此次镇压行动是在周五两名巴勒斯坦枪手杀害两名以色列士兵之后进行的，距离以色列大选仅几天。"
     },
     {
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "title": "Who are the candidates in Brazil's presidential election?",
       "link": "",
-      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
       "published": "",
-      "title_zh": "英国妇女在巴哈马群岛试图营救在海上被冲走的儿子后死亡",
-      "summary_zh": "内森·格雷戈里 (Nathan Gregory) 表示，失去儿时恋人莉安“对我们的家庭来说是难以想象的”。"
+      "title_zh": "巴西总统选举的候选人有哪些？",
+      "summary_zh": "据《美洲》记者艾奥内·威尔斯在里约热内卢报道，周日选举中的选民正在两位截然不同的候选人之间进行选择。"
     },
     {
-      "title": "The rise of AI election ads in US midterms campaign",
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
       "link": "",
-      "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
+      "summary": "\"This election is our last best chance to at least rein in some of the foolishness of this administration,\" Obama said.",
       "published": "",
-      "title_zh": "人工智能选举广告在美国中期选举中的兴起",
-      "summary_zh": "BBC verify 跟踪了数十个人工智能广告，以评估中期选举中的竞选活动如何使用它们。"
+      "title_zh": "奥巴马在中期选举前为民主党竞选时攻击特朗普",
+      "summary_zh": "奥巴马说：“这次选举是我们至少遏制本届政府的一些愚蠢行为的最后最好机会。”"
     },
     {
-      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+      "title": "Plan for Northern Olympics to get £7m in UK chancellor's Budget",
       "link": "",
-      "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+      "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
       "published": "",
-      "title_zh": "英国为迎接最严重的风暴博埃洛做好准备，琥珀色警告即将生效",
-      "summary_zh": "苏格兰、英格兰北部和北爱尔兰的部分地区预计将遭受该国多日来第二次风暴带来的最强风力袭击。"
+      "title_zh": "英国财政大臣预算中为北方奥运会筹措700万英镑的计划",
+      "summary_zh": "完整的可行性研究将详细研究如何在英格兰北部举办奥运会。"
     },
     {
-      "title": "Hamilton fastest in US Grand Prix final practice",
+      "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
       "link": "",
-      "summary": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary of final practice for the US Grand Prix.",
+      "summary": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
       "published": "",
-      "title_zh": "汉密尔顿在美国大奖赛决赛练习中最快",
-      "summary_zh": "关注实时文本更新并收听 BBC Radio 5 Sports Extra 对美国大奖赛最后练习赛的评论。"
+      "title_zh": "这场坦诚的会面“改变”了热刺——他们终于要回归了吗？",
+      "summary_zh": "托特纳姆热刺队在周六的英超联赛中排名第 12，这是他们自 1 月 2 日以来的最高联赛排名。他们终于踏上归途了吗？"
     },
     {
-      "title": "Another Bush breaks ranks in Texas Senate fight — and his reasons pack a punch",
+      "title": "Nearly 1,000 arrested as France deploys 70,000 police amid nationwide unrest",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "另一位布什在德克萨斯州参议院的斗争中脱颖而出——他的理由很有说服力"
+      "title_zh": "法国在全国骚乱中部署7万名警察，近千人被捕"
     },
     {
-      "title": "Soccer game incident prompts response from Trump DOJ after activists clash, get ejected",
+      "title": "Larry the Cable Guy calls foul after Southern humor cost him major ad deals",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "活动人士发生冲突并被驱逐后，足球比赛事件促使特朗普司法部做出反应"
+      "title_zh": "王牌接线员拉里在南方幽默让他失去了大笔广告交易后称犯规"
     },
     {
-      "title": "Omar’s deleted tweet could give clue on alleged brother marriage",
+      "title": "Twin court wins for gun rights fuel momentum ahead of AR-15 Supreme Court battle",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥马尔删除的推文可能提供有关所谓兄弟婚姻的线索"
+      "title_zh": "在 AR-15 最高法院之战之前，枪支权利的双法院胜利推动了势头"
     },
     {
-      "title": "French CEO warns 'purely chaotic' riots prove country has reached 'dead end of socialism'",
+      "title": "Jalen Hurts' lung clots end his season and put a medication in the spotlight",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法国首席执行官警告“纯粹混乱”的骚乱证明该国已走到“社会主义的死胡同”"
+      "title_zh": "杰伦因肺部血栓导致赛季结束，药物成为人们关注的焦点"
     },
     {
-      "title": "Voter confronts Mamdani over alleged line-cutting at ballot box: 'The mayor just cut me'",
+      "title": "Russian diesel tanker heads to United States after Trump-Putin fuel deal",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "选民因涉嫌在投票箱插队而与马姆达尼对峙：“市长刚刚插队了我”"
+      "title_zh": "特朗普与普京达成燃料协议后，俄罗斯柴油油轮驶往美国"
     },
     {
-      "title": "Las Vegas targets notorious tourist trap as new warnings appear along iconic Strip",
+      "title": "Trump explains why his voice is turning raspy as midterm campaign heats up",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拉斯维加斯标志性地带出现新警告，打击臭名昭著的旅游陷阱"
+      "title_zh": "特朗普解释了为什么随着中期竞选的升温他的声音变得沙哑"
     },
     {
-      "title": "Trump health official warns of troubling trend among US men impacting military readiness",
+      "title": "Bahamas getaway turns into Canadian trip for unhappy cruise passengers: 'This is a joke'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普卫生官员警告美国男性的令人不安的趋势影响军事准备"
+      "title_zh": "对于不满的游轮乘客来说，巴哈马度假变成了加拿大之旅：“这是一个笑话”"
     },
     {
-      "title": "Expert says Trump has 'completely valid' point about Canada as trade war escalates",
+      "title": "WATCH LIVE:Barack Obama rallies with Abdul El-Sayed and Jocelyn Benson in Detroit",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家表示，随着贸易战升级，特朗普关于加拿大的观点“完全正确”"
+      "title_zh": "观看直播：巴拉克·奥巴马与阿卜杜勒·赛义德和乔斯林·本森在底特律举行集会"
     },
     {
-      "title": "Great relationships have 3 core ingredients — and one factor that can ruin everything",
+      "title": "Bill Maher rejects criticism of second Trump dinner with two-word reply",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "良好的关系具有 3 个核心要素，而其中一个因素可能会毁掉一切"
+      "title_zh": "比尔·马赫用两个词回应，驳斥了对特朗普第二次晚餐的批评"
     },
     {
-      "title": "WATCH LIVE:Sherrod Brown speaks at Cleveland rally with former President Obama",
+      "title": "How Melania Trump 'single-handedly' brokered a historic frontline Ukraine truce",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：谢罗德·布朗在克利夫兰集会上与前总统奥巴马一起讲话"
+      "title_zh": "梅拉尼娅·特朗普如何“单枪匹马”促成历史性的乌克兰前线休战"
     },
     {
-      "title": "'SNL' star jokes about Kirk killing and unleashes R-word slur at conservatives",
+      "title": "David Spade tells Hollywood to 'stop separating us' by race and gender",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《周六夜现场》明星拿柯克被杀开玩笑，并对保守派发起“R”字诽谤"
+      "title_zh": "大卫·斯佩德告诉好莱坞“停止因种族和性别而分裂我们”"
     },
     {
-      "title": "Stephen A doubles down on Trump meeting, asks critics 'what the f--- are you doing?'",
+      "title": "TUNE IN:President Trump's exclusive interview tomorrow on 'Sunday Morning Futures'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "史蒂芬·A (Stephen A) 在特朗普会面上加倍努力，问批评者“你们到底在做什么？”"
+      "title_zh": "收看：特朗普总统明天在“周日早间期货”节目中的独家专访"
     },
     {
-      "title": "Skilled workers leave traditional Rust Belt towns for new assembly lines",
-      "link": "",
+      "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterms pitch",
+      "link": "https://www.nbcnews.com/politics/2026-election/obama-trump-chaos-cruelty-midterm-election-pitch-acton-ramaswamy-rcna605223",
       "summary": "",
       "published": "",
-      "title_zh": "技术工人离开传统的铁锈地带城镇前往新的装配线"
+      "title_zh": "奥巴马在中期选举中将特朗普描述为“混乱和残酷”的代理人"
     },
     {
-      "title": "Vance leads Nebraska crowd in Lord's prayer during woman's medical emergency",
-      "link": "",
+      "title": "Golden State Valkyries beat Atlanta Dream 67-62 to even the WNBA Finals at 2-2",
+      "link": "https://www.nbcnews.com/sports/wnba/golden-state-valkyries-beat-atlanta-dream-67-62-even-wnba-finals-2-2-rcna605448",
       "summary": "",
       "published": "",
-      "title_zh": "在妇女的医疗紧急情况下，万斯带领内布拉斯加州人群进行主祷文"
+      "title_zh": "金州武神队以67-62击败亚特兰大梦想队，WNBA总决赛2-2平"
     },
     {
-      "title": "Jalen Hurts puts spotlight on blood thinners: 5 mistakes that could put patients at risk",
-      "link": "",
+      "title": "Bulldozers tear down home as Israel cracks down in the West Bank",
+      "link": "https://www.nbcnews.com/world/israel/bulldozers-tear-home-israel-cracks-west-bank-rcna605365",
       "summary": "",
       "published": "",
-      "title_zh": "Jalen Hurts 聚焦血液稀释剂：可能使患者面临危险的 5 个错误"
-    },
-    {
-      "title": "DR KATIE DAVIS:Letting your child feel left out may be the best thing you can do",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "凯蒂·戴维斯博士：让你的孩子感到被忽视可能是你能做的最好的事情"
-    },
-    {
-      "title": "Amy Grant's emotional account of doctors and nurses singing outside Dolly Parton's hospital room",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "艾米·格兰特对医生和护士在多莉·帕顿病房外唱歌的情感描述"
+      "title_zh": "以色列镇压约旦河西岸，推土机推倒家园"
     }
   ]
 }
