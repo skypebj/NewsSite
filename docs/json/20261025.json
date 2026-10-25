@@ -1,0 +1,216 @@
+{
+  "date": "20261025",
+  "total": 24,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Meghan broke contact with father in letter citing abuse claims",
+      "link": "",
+      "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+      "published": "",
+      "title_zh": "梅根在信中以虐待指控为由与父亲断绝联系",
+      "summary_zh": "与公爵夫人关系密切的消息人士称，她去年警告父亲，他永远不会见到自己的孙子。"
+    },
+    {
+      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+      "link": "",
+      "summary": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.",
+      "published": "",
+      "title_zh": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+      "summary_zh": "超过一百万人涌向釜山，一睹雌性暗色真鲨的风采，他们将其称为布康吉 (Bukangi)。"
+    },
+    {
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "link": "",
+      "summary": "Flávio Bolsonaro, the son of Brazil's jailed former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+      "published": "",
+      "title_zh": "巴西选民在卢拉和博尔索纳罗的儿子之间做出选择",
+      "summary_zh": "巴西被监禁的前总统之子弗拉维奥·博尔索纳罗（Flávio Bolsonaro）向 80 岁、正在寻求第四个任期的卢拉提出了强有力的挑战。"
+    },
+    {
+      "title": "The bitter row over military service that could shape Israel's future",
+      "link": "",
+      "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
+      "published": "",
+      "title_zh": "兵役问题的激烈争吵可能会影响以色列的未来",
+      "summary_zh": "极端正统派社区正在抵制被征召入以色列军队。但他们现在会推翻内塔尼亚胡政府吗？"
+    },
+    {
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "link": "",
+      "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+      "published": "",
+      "title_zh": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "summary_zh": "对于布和蒂亚帕来说，从俄罗斯到爱尔兰乡村的五年旅程绝非一帆风顺。"
+    },
+    {
+      "title": "How one man became the unsung hero of the internet during a cyber-security scramble",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "一个人如何在网络安全争夺战中成为互联网的无名英雄"
+    },
+    {
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "link": "",
+      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+      "published": "",
+      "title_zh": "为什么国王的加勒比之旅可能是“他统治期间最大的风险”",
+      "summary_zh": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
+    },
+    {
+      "title": "Six Flags adding seat belts to Goliath rollercoaster following death",
+      "link": "",
+      "summary": "The CEO of the amusement park chain said the company is evaluating its safety procedures at all of its 34 locations, including adding seat belts to some rides.",
+      "published": "",
+      "title_zh": "六旗游乐园在歌利亚过山车死亡后添加安全带",
+      "summary_zh": "这家连锁游乐园的首席执行官表示，该公司正在评估其所有 34 个游乐园的安全程序，包括为一些游乐设施增加安全带。"
+    },
+    {
+      "title": "Antonelli stands on brink of history in Austin",
+      "link": "",
+      "summary": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
+      "published": "",
+      "title_zh": "Antonelli stands on brink of history in Austin",
+      "summary_zh": "周日，基米·安东内利将成为最年轻的 F1 世界冠军，但他丝毫没有感受到压力，表示自己比平时更享受。"
+    },
+    {
+      "title": "Trump announces massive Audi investment in Georgia during critical midterm campaign stop",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在关键的中期竞选期间宣布奥迪在佐治亚州进行大规模投资"
+    },
+    {
+      "title": "Dem senator's diversity push backfires as party strategist sounds alarm",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党参议员的多元化推动适得其反，党派战略家发出警报"
+    },
+    {
+      "title": "Elon Musk says Ukraine ‘violated Starlink terms’ with deadly drone strikes",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃隆·马斯克称乌克兰致命无人机袭击“违反了星链条款”"
+    },
+    {
+      "title": "Ainsley Earhardt and Sean Hannity marry at the same church where they got engaged",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "安斯利·埃尔哈特 (Ainsley Earhardt) 和肖恩·汉尼提 (Sean Hannity) 在他们订婚的同一座教堂结婚"
+    },
+    {
+      "title": "Ina Garten says one Italian ingredient makes scrambled eggs 'a whole other thing'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊娜·加滕 (Ina Garten) 表示，一种意大利原料使炒鸡蛋“完全是另一回事”"
+    },
+    {
+      "title": "Obama likens Trump's White House renovations to Saddam's 'Cheesecake Factory'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "奥巴马将特朗普的白宫翻修工程比作萨达姆的“芝士蛋糕工厂”"
+    },
+    {
+      "title": "Arson suspect nabbed at Hitler's Eagle's Nest on Bavarian mountaintop",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "纵火嫌疑人在巴伐利亚山顶希特勒鹰巢被捕"
+    },
+    {
+      "title": "49ers may have fewer than 48 players available against Falcons, Shanahan says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "沙纳汉表示，49人队可能只有不到48名球员可以对阵猎鹰队"
+    },
+    {
+      "title": "Historian uncovers little-known link between medieval castles and US forts",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "历史学家揭示了中世纪城堡和美国堡垒之间鲜为人知的联系"
+    },
+    {
+      "title": "Team USA star Connor Hellebuyck details differences between US and Canadian hockey",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国队球星康纳·赫勒拜克详细介绍了美国和加拿大曲棍球之间的差异"
+    },
+    {
+      "title": "TUNE IN:President Trump's exclusive interview today on 'Sunday Morning Futures'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "TUNE IN:President Trump's exclusive interview today on 'Sunday Morning Futures'"
+    },
+    {
+      "title": "Records reveal the troubled past of Amy Acton’s estranged mother and stepfather",
+      "link": "https://www.nbcnews.com/politics/2026-election/vivek-ramaswamy-amy-acton-ad-mother-stepfather-troubled-past-rcna605449",
+      "summary": "",
+      "published": "",
+      "title_zh": "记录揭示了艾米·阿克顿疏远的母亲和继父的麻烦过去"
+    },
+    {
+      "title": "Obama seeks to shore up Abdul El-Sayed with Black voters at Michigan rally",
+      "link": "https://www.nbcnews.com/politics/2026-election/obama-seeks-shore-abdul-el-sayed-black-voters-michigan-rally-rcna605457",
+      "summary": "",
+      "published": "",
+      "title_zh": "奥巴马在密歇根州集会上寻求黑人选民支持阿卜杜勒·赛义德"
+    },
+    {
+      "title": "Democrats ask judge to dismiss Trump administration’s challenge to Alaska Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-ask-judge-dismiss-trump-administrations-challenge-alaska-sen-rcna605472",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人要求法官驳回特朗普政府对阿拉斯加州参议员竞选的挑战"
+    },
+    {
+      "title": "‘Practice-changing’ new lung cancer immunotherapy improves survival",
+      "link": "https://www.nbcnews.com/health/cancer/lung-cancer-immunotherapy-tarlatamab-improves-survival-rcna604903",
+      "summary": "",
+      "published": "",
+      "title_zh": "“改变实践”的新型肺癌免疫疗法可提高生存率"
+    }
+  ]
+}
