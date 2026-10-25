@@ -1,6 +1,6 @@
 {
   "date": "20261025",
-  "total": 36,
+  "total": 23,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,269 +37,172 @@
   },
   "entries": [
     {
-      "title": "Rapper set to appear with Trump at rally as GOP faces historic headwinds ahead of midterms",
+      "title": "Guitarist turned firefighter who founded a billion-dollar restaurant empire dead at 65",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于共和党在中期选举前面临历史性阻力，说唱歌手将与特朗普一起出现在集会上"
+      "title_zh": "吉他手转型为消防员，创立了价值十亿美元的餐厅帝国，享年 65 岁"
     },
     {
-      "title": "NBA champ takes issue with Obama's pitch to voters amid hotly contested race",
+      "title": "Trump has message for Rep Ilhan Omar after sharing what 'pisses me off' about her",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NBA champ takes issue with Obama's pitch to voters amid hotly contested race"
+      "title_zh": "特朗普在分享了众议员伊尔汗·奥马尔的“让我生气”的事情后向她传达了信息"
     },
     {
-      "title": "Trump reacts to surprise return of Venezuelan opposition leader Machado",
+      "title": "Trump weighs mass pardons for junior staffers after Dem's 'chilling' warning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普对委内瑞拉反对派领导人马查多意外回归作出反应"
+      "title_zh": "在民主党发出“令人不寒而栗”的警告后，特朗普考虑大规模赦免初级职员"
     },
     {
-      "title": "Trump scores big court win as a 9-2 circuit split heads toward the Supreme Court",
+      "title": "AP Top 25 Poll sends clear message about Big Ten, plus Utah gains major respect",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在法庭上大获全胜，巡回赛以 9-2 的比分走向最高法院"
+      "title_zh": "美联社前 25 名民意调查发出了关于十大的明确信息，加上犹他州赢得了极大的尊重"
     },
     {
-      "title": "Governor faces revolt from unlikely voters as Dems deliver scathing verdict on their party",
+      "title": "Woman accused of jabbing NYC rabbi with syringe linked to second attack hours earlier",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党对本党做出严厉裁决，州长面临不太可能选民的反抗"
+      "title_zh": "一名女子被指控用注射器刺伤纽约拉比，这与数小时前的第二次袭击有关"
     },
     {
-      "title": "Europe’s leaders take sharply different approaches as protests turn violent",
+      "title": "Rogers tells 'Meet the Press' host she let El-Sayed 'lie' on air about radical ties",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着抗议活动演变成暴力活动，欧洲领导人采取了截然不同的做法"
+      "title_zh": "罗杰斯告诉“与媒体见面”主持人，她让埃尔赛义德在节目中就激进关系“撒谎”"
     },
     {
-      "title": "Trump's relentless rally blitz shows which races suddenly got very competitive",
+      "title": "Morning Glory Pool's famous blue hue was wrecked by parkgoers and never came back",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普无情的集会闪电战表明哪些比赛突然变得非常激烈"
+      "title_zh": "牵牛花池著名的蓝色色调被公园游客破坏，再也没有回来"
     },
     {
-      "title": "NFL fans throw flag on Steelers players for fashion faux pas before Paris game",
+      "title": "Police chase down teens with K9s, drone after reportedly stolen car crashes into home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL fans throw flag on Steelers players for fashion faux pas before Paris game"
+      "title_zh": "据报道，被盗汽车撞入家中后，警方用 K9 和无人机追捕青少年"
     },
     {
-      "title": "Omar’s deleted tweet could give clue on alleged marriage to her brother",
+      "title": "GM wants your car to pick up groceries and drop off laundry without you",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥马尔删除的推文可能提供有关与她兄弟涉嫌结婚的线索"
+      "title_zh": "通用汽车希望你的汽车能够在没有你的情况下取货和送洗衣服"
     },
     {
-      "title": "Selena Gomez's vaping admission highlights hidden health risks doctors say millions face daily",
+      "title": "NASCAR star flips upside down at Talladega as carnage rocks the front stretch",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Selena Gomez's vaping admission highlights hidden health risks doctors say millions face daily"
+      "title_zh": "纳斯卡明星在塔拉迪加翻转，前段发生大屠杀"
     },
     {
-      "title": "Country star says getting outdoors offers something money and fame can't buy",
+      "title": "Dolphins dodge historic embarrassment with gutsy first win of the season",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村明星说户外活动提供了金钱和名誉买不到的东西"
+      "title_zh": "海豚队凭借勇敢的本赛季首场胜利避免了历史性的尴尬"
     },
     {
-      "title": "Rob Lowe says he was 'scared' to kiss one co-star but calls it his best",
+      "title": "Trump announces nursing-home plan offering nurses up to $50K in benefits",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗伯·劳表示他“害怕”亲吻一位联合主演，但称这是他最好的"
+      "title_zh": "特朗普宣布疗养院计划为护士提供高达 5 万美元的福利"
     },
     {
-      "title": "Trump demands Ilhan Omar immediately resign from Congress",
-      "link": "",
+      "title": "Alaska Senate candidate Mary Peltola delays campaign events after car crash",
+      "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-delays-campaign-events-minor-injury-car-crash-alaska-rcna605556",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普要求伊尔汗·奥马尔立即辞去国会职务"
+      "title_zh": "阿拉斯加州参议院候选人玛丽·佩尔托拉因车祸推迟竞选活动"
     },
     {
-      "title": "Explosion, fire blast through Iowa Quaker Oats plant",
-      "link": "",
+      "title": "Here’s the biggest news you missed this weekend",
+      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-october-25-rcna605266",
       "summary": "",
       "published": "",
-      "title_zh": "爱荷华州桂格燕麦厂发生爆炸和火灾"
+      "title_zh": "这是您本周末错过的最大新闻"
     },
     {
-      "title": "NFL's most futile team snaps a Super Bowl-era record nobody ever wanted",
-      "link": "",
+      "title": "UChicago fraternities tried self-policing.  A decade later, they’re asking what went wrong.",
+      "link": "https://www.nbcnews.com/news/us-news/uchicagos-fraternities-tried-police-decade-later-re-asking-went-wrong-rcna605092",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 最无用的球队打破了超级碗时代没人想要的记录"
+      "title_zh": "芝加哥大学兄弟会尝试自我监管。十年后，他们问出了什么问题。"
     },
     {
-      "title": "Florida bear strolls through unlocked gate, raids patio fridge and swipes booze",
-      "link": "",
+      "title": "Inside the controversial call that ended Game 2 of the World Series",
+      "link": "https://www.nbcnews.com/sports/baseball/controversial-call-ended-game-2-world-series-rcna605534",
       "summary": "",
       "published": "",
-      "title_zh": "佛罗里达熊漫步穿过未上锁的大门，袭击露台冰箱并偷酒"
+      "title_zh": "结束世界职业棒球大赛第二场比赛的有争议的判罚内部"
     },
     {
-      "title": "WWE Hall of Famer mocks women's champion while in Paris for NFL showdown",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "WWE 名人堂成员在巴黎参加 NFL 对决时嘲笑女子冠军"
-    },
-    {
-      "title": "Hegseth should testify on Starlink slowdown in Ukraine, Sen. Adam Schiff says",
-      "link": "https://www.nbcnews.com/politics/congress/adam-schiff-pete-hegseth-testify-starlink-slowdown-ukraine-war-rcna605508",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员亚当·希夫表示，赫格斯应该就乌克兰星链减速问题作证"
-    },
-    {
-      "title": "Michigan Gov. Gretchen Whitmer says America is ready to elect a woman president",
-      "link": "https://www.nbcnews.com/politics/politics-news/gretchen-whitmer-america-ready-elect-woman-president-acton-rcna605512",
-      "summary": "",
-      "published": "",
-      "title_zh": "密歇根州州长格雷琴·惠特默表示美国已准备好选举一位女总统"
-    },
-    {
-      "title": "Mike Rogers on Trump calling Abdul El-Sayed a terrorist: ‘I've never called him a terrorist’",
-      "link": "https://www.nbcnews.com/meet-the-press/video/mike-rogers-on-trump-calling-abdul-el-sayed-a-terrorist-i-ve-never-called-him-a-terrorist-272191045618",
-      "summary": "",
-      "published": "",
-      "title_zh": "迈克·罗杰斯谈特朗普称阿卜杜勒·赛义德为恐怖分子：“我从未称他为恐怖分子”"
-    },
-    {
-      "title": "Venezuela’s opposition leader María Corina Machado returns after months in exil",
-      "link": "https://www.nbcnews.com/world/south-america/venezuelas-opposition-leader-machado-returns-rcna605540",
-      "summary": "",
-      "published": "",
-      "title_zh": "委内瑞拉反对派领导人玛丽亚·科里纳·马查多在流亡数月后返回"
-    },
-    {
-      "title": "Israeli settler attacks and military lockdown upend Palestinian olive harvest",
-      "link": "https://www.nbcnews.com/world/middle-east/israeli-settler-attacks-military-lockdown-palestinian-olive-harvest-rcna605169",
-      "summary": "",
-      "published": "",
-      "title_zh": "以色列定居者袭击和军事封锁颠覆了巴勒斯坦橄榄收成"
-    },
-    {
-      "title": "Mick Jagger talks to Willie Geist about his career and the legacy of The Rolling Stones",
-      "link": "https://www.nbcnews.com/video/mick-jagger-talks-to-willie-geist-about-his-career-and-the-legacy-of-the-rolling-stones-and-their-new-album-foreign-tongues-265006661831",
-      "summary": "",
-      "published": "",
-      "title_zh": "米克·贾格尔 (Mick Jagger) 与威利·盖斯特 (Willie Geist) 谈论他的职业生涯和滚石乐队的遗产"
-    },
-    {
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "link": "",
-      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "published": "",
-      "title_zh": "早期报告显示塞尔维亚选举投票率创历史新高",
-      "summary_zh": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
-    },
-    {
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "link": "",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "published": "",
-      "title_zh": "巴黎郊区致命枪击案嫌疑人被送往精神观察",
-      "summary_zh": "当局表示，将对他进行观察，以评估他的“精神健康状况是否适合对他进行审讯”。"
-    },
-    {
-      "title": "Couple were celebrating anniversary before Bahamas tragedy",
-      "link": "",
-      "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
-      "published": "",
-      "title_zh": "夫妇在巴哈马悲剧发生前庆祝周年纪念日",
-      "summary_zh": "来自诺丁汉郡斯塔普尔福德的莉安·格雷戈里（Leanne Gregory）在试图拯救被卷入大海的儿子时身亡。"
-    },
-    {
-      "title": "Letter making claims about Meghan's father written by his ex-wife, BBC understands",
-      "link": "",
-      "summary": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-      "published": "",
-      "title_zh": "据英国广播公司了解，梅根前妻写的一封信声称梅根的父亲",
-      "summary_zh": "罗斯林·洛夫莱斯 (Roslyn Loveless) 于 1975 年与梅根的父亲离婚，现已去世。梅根表示，她于 2018 年获悉这些“令人不安的指控”。"
-    },
-    {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "published": "",
-      "title_zh": "委内瑞拉反对派领导人玛丽亚·马查多流亡数月后返回",
-      "summary_zh": "就在美国政府逮捕委内瑞拉总统尼古拉斯·马杜罗的一个月前，马查多离开了该国。"
-    },
-    {
-      "title": "Premier League: Sunderland stay bottom after draw with Leeds - reaction",
-      "link": "",
-      "summary": "Sunderland host Leeds in Premier League after Michael Carrick's Man Utd lose to Bournemouth to leave his position as boss in jeopardy.",
-      "published": "",
-      "title_zh": "英超：桑德兰战平利兹联后垫底 - 反应",
-      "summary_zh": "迈克尔·卡里克率领的曼联输给伯恩茅斯，导致他的主帅位置岌岌可危，桑德兰将在英超联赛中主场迎战利兹联。"
-    },
-    {
-      "title": "Why the charts are full of old songs - and so are your playlists",
-      "link": "",
-      "summary": "The chart is full of old music and classic songs are dominating streaming services. But why?",
-      "published": "",
-      "title_zh": "为什么排行榜上充满了老歌 - 你的播放列表也是如此",
-      "summary_zh": "该排行榜上充满了老音乐，经典歌曲在流媒体服务中占据主导地位。但为什么？"
-    },
-    {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "link": "",
-      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "published": "",
-      "title_zh": "加蓬表示在八个月的禁令后恢复了对社交媒体的访问",
-      "summary_zh": "当局称网络内容助长冲突，以此为禁令辩护，而反对派则谴责这是滥用权力。"
-    },
-    {
-      "title": "UK PM open to 'honest discussion' on EU free movement",
-      "link": "",
-      "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
-      "published": "",
-      "title_zh": "英国首相对欧盟自由流动持开放态度",
-      "summary_zh": "首相表示，他希望就恢复英国和欧洲之间的自由流动问题进行“事实”和“基于证据的辩论”。"
-    },
-    {
-      "title": "Rosebank: Life on the UK oil field at the centre of a political storm",
-      "link": "",
-      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "published": "",
-      "title_zh": "罗斯班克：英国油田的生活处于政治风暴的中心",
-      "summary_zh": "苏格兰编辑詹姆斯·库克了解了一艘在未开发油田等待命运的船上的生活。"
-    },
-    {
-      "title": "Board of Deputies of British Jews declares Greens to be racist party",
-      "link": "",
-      "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-      "published": "",
-      "title_zh": "英国犹太人代表委员会宣布绿党为种族主义政党",
-      "summary_zh": "该犹太机构的投票是对绿党通过“犹太复国主义就是种族主义”政策动议的回应。"
-    },
-    {
-      "title": "Man killed by falling tree as Storm Boelo leaves more than 160,000 properties without power",
-      "link": "",
-      "summary": "Police say the 60-year-old man was hit by a tree near Castle Douglas in Dumfries and Galloway at 10:30 on Sunday morning.",
-      "published": "",
-      "title_zh": "风暴博埃洛导致超过 160,000 处房屋断电，一名男子被倒下的树砸死",
-      "summary_zh": "警方称，周日上午 10 点 30 分，这名 60 岁的男子在邓弗里斯和加洛韦的道格拉斯城堡附近被一棵树撞倒。"
-    },
-    {
-      "title": "Carrick future under major threat - can he survive?",
+      "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
       "link": "",
       "summary": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
       "published": "",
-      "title_zh": "卡里克的未来面临重大威胁——他能生存吗？",
+      "title_zh": "“这不是我的告别”——但恐怖的开始让卡里克濒临崩溃",
       "summary_zh": "周日主场输给伯恩茅斯后，迈克尔·卡里克作为曼联主帅的未来面临重大威胁。"
+    },
+    {
+      "title": "British Columbia's new premier lucks into the job in unexpected political turn",
+      "link": "",
+      "summary": "An electoral gamble by the Canadian province's outgoing premier, David Eby,  backfired as the provincial Conservatives take power for the first time since 1928.",
+      "published": "",
+      "title_zh": "不列颠哥伦比亚省新任总理在意想不到的政治转折中幸运地就任",
+      "summary_zh": "即将卸任的加拿大省省长戴维·伊比 (David Eby) 的选举赌博适得其反，该省保守党自 1928 年以来首次掌权。"
+    },
+    {
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "link": "",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "published": "",
+      "title_zh": "塞尔维亚资深统治者武契奇承认学生领导的抗议运动当选",
+      "summary_zh": "这位执政12年的民粹主义右翼领导人表示，“很明显”他的政党在这场被称为对国家未来的公投中失败了。"
+    },
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "link": "",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "published": "",
+      "title_zh": "分裂严重的以色列准备迎接关键选举",
+      "summary_zh": "露西·威廉姆森写道，经过三年的地区战争，以色列一直都知道这场战斗即将到来。"
+    },
+    {
+      "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+      "link": "",
+      "summary": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+      "published": "",
+      "title_zh": "据英国广播公司了解，梅根第一任妻子写的关于梅根父亲的信",
+      "summary_zh": "罗斯林·洛夫莱斯 (Roslyn Loveless) 于 1975 年与梅根的父亲离婚，现已去世。梅根表示，她于 2018 年获悉这些“令人不安的指控”。"
+    },
+    {
+      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+      "link": "",
+      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+      "published": "",
+      "title_zh": "风暴博埃洛导致 160,000 处房屋停电，两名男子被倒下的树木杀死",
+      "summary_zh": "在恶劣天气席卷英国后，黄色大风警告现已到期。"
+    },
+    {
+      "title": "Antonelli wins in US but has to wait to secure title",
+      "link": "",
+      "summary": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+      "published": "",
+      "title_zh": "安东内利在美国获胜，但必须等待才能获得冠军",
+      "summary_zh": "基米·安东内利在美国大奖赛上取得压倒性胜利后，只需要再拿两分就可以锁定他的第一个世界冠军头衔。"
     }
   ]
 }
