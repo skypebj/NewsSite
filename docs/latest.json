@@ -1,6 +1,6 @@
 {
   "date": "20261026",
-  "total": 33,
+  "total": 39,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,247 +37,292 @@
   },
   "entries": [
     {
-      "title": "Susan Collins won women in 2020. How they break now could decide Maine’s Senate race.",
-      "link": "https://www.nbcnews.com/politics/2026-election/susan-collins-won-women-2020-break-2026-decide-maine-senate-race-rcna603482",
+      "title": "Anthropic reveals $80 billion loss, huge spending spree ahead of IPO",
+      "link": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
       "summary": "",
       "published": "",
-      "title_zh": "苏珊·柯林斯 (Susan Collins) 在 2020 年赢得了女子冠军。她们现在的表现可能会决定缅因州的参议员竞选。"
+      "title_zh": "Anthropic 披露亏损 800 亿美元，IPO 前巨额支出"
     },
     {
-      "title": "Trump leans into Islamophobic rhetoric at Michigan rally",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-leans-islamophobic-rhetoric-michigan-rally-rcna605572",
+      "title": "How to stun the world in 20 days: Lula halts pro-Trump wave with Brazil turnaround",
+      "link": "https://www.nbcnews.com/world/latin-america/lula-brazil-election-result-win-bolsonaro-trump-latin-america-rcna605660",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在密歇根集会上倾向于仇视伊斯兰教的言论"
+      "title_zh": "如何在20天内震惊世界：卢拉因巴西局势好转而停止支持特朗普的浪潮"
     },
     {
-      "title": "U.S. appeals court appears skeptical of DOJ’s lawsuit over California voter rolls",
-      "link": "https://www.nbcnews.com/politics/2026-election/us-appeals-court-appears-skeptical-trump-dojs-lawsuit-california-voter-rcna605625",
+      "title": "What to know about the Israeli elections as Netanyahu faces a battle for survival",
+      "link": "https://www.nbcnews.com/world/israel/israel-election-netanyahu-eisenkot-oct-7-west-bank-likud-trump-rcna604972",
       "summary": "",
       "published": "",
-      "title_zh": "美国上诉法院似乎对司法部就加州选民名册提起的诉讼持怀疑态度"
+      "title_zh": "内塔尼亚胡面临生存之战，关于以色列选举需要了解什么"
     },
     {
-      "title": "Serbia’s strongman leader Vučić concedes defeat to student-led movement in seismic political shift",
-      "link": "https://www.nbcnews.com/world/europe/serbia-votes-students-seek-unseat-aleksandar-vucic-snap-election-rcna605377",
+      "title": "Abortion, taxes and redistricting: The key ballot measures to watch in November",
+      "link": "https://www.nbcnews.com/politics/2026-election/abortion-taxes-redistricting-key-ballot-measures-watch-november-rcna603232",
       "summary": "",
       "published": "",
-      "title_zh": "塞尔维亚强人领导人武契奇承认学生领导的运动在地震性政治转变中失败"
+      "title_zh": "堕胎、税收和选区重新划分：11 月份值得关注的关键投票措施"
     },
     {
-      "title": "Lula, Brazil’s iconic working-class president, wins fourth term over Flávio Bolsonaro",
-      "link": "https://www.nbcnews.com/world/brazil/brazil-heads-polls-pivotal-runoff-lula-bolsonaro-jr-rcna605495",
+      "title": "Ohio’s crackdown on Medicaid fraud cuts off care for some disabled people",
+      "link": "https://www.nbcnews.com/news/us-news/ohio-crackdown-medicaid-fraud-cuts-care-disabled-people-rcna605023",
       "summary": "",
       "published": "",
-      "title_zh": "巴西标志性工人阶级总统卢拉击败弗拉维奥·博尔索纳罗赢得第四个任期"
+      "title_zh": "俄亥俄州打击医疗补助欺诈行为导致部分残疾人无法获得医疗服务"
     },
     {
-      "title": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
-      "link": "https://www.nbcnews.com/world/france/nfl-fans-visiting-paris-high-spirits-saints-vs-steelers-game-undeterre-rcna605520",
+      "title": "Social media influencer offers look into a remote ICE facility where detainees are losing hope",
+      "link": "https://www.nbcnews.com/news/us-news/remote-ice-facility-influencer-working-help-detainees-rcna597944",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 球迷兴高采烈地前往巴黎观看圣徒队与钢人队的比赛，没有被抗议吓倒"
+      "title_zh": "社交媒体影响者对一处偏远的 ICE 设施进行了调查，那里的被拘留者正在失去希望"
     },
     {
-      "title": "Israel launches massive surprise-attack drill as expert warns of 1973 repeat",
+      "title": "Police arrest a 15-year-old in shooting near Florida A&M stadium that injured 12",
+      "link": "https://www.nbcnews.com/news/us-news/police-arrest-teenager-shooting-florida-stadium-rcna605677",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达 A&M 体育场附近发生枪击事件，造成 12 人受伤，警方逮捕了一名 15 岁青少年"
+    },
+    {
+      "title": "What to know about the five phases of women’s and girls’ heart health",
+      "link": "https://www.nbcnews.com/health/heart-health/know-five-phases-womens-girls-heart-health-rcna605069",
+      "summary": "",
+      "published": "",
+      "title_zh": "关于女性和女孩心脏健康的五个阶段需要了解什么"
+    },
+    {
+      "title": "State leads early voting numbers by millions as Trump and top Dems descend on key battlegrounds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家警告1973年重演 以色列发动大规模突然袭击演习"
+      "title_zh": "随着特朗普和民主党高层席卷关键战场，各州提前投票人数领先数百万"
     },
     {
-      "title": "Brazil's Lula wins reelection after crony's controversial last-minute order",
+      "title": "Inside the unprecedented push to monitor midterm elections and prepare for legal fights",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "巴西卢拉因亲信在最后一刻发出有争议的命令而赢得连任"
+      "title_zh": "监测中期选举和准备法律斗争的前所未有的推动力"
     },
     {
-      "title": "Trump weighs whether to 'finish them off' as alarming new intel warns of 'advanced' Iran plot",
+      "title": "Mamdani's viral video to New Yorkers on how to deal with ICE sparks calls of 'treason'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "令人震惊的新情报警告伊朗阴谋“先进”，特朗普权衡是否“消灭他们”"
+      "title_zh": "马姆达尼向纽约民众发布的关于如何应对 I​​CE 的病毒视频引发了“叛国”的呼声"
     },
     {
-      "title": "Guitarist-turned-firefighter who founded a billion-dollar restaurant empire dead at 65",
+      "title": "NASCAR should be furious at embarrassing Talladega race as driver openly mocks the sport",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "吉他手出身的消防员创立了价值 10 亿美元的餐饮帝国，享年 65 岁"
+      "title_zh": "纳斯卡应该对令人尴尬的塔拉迪加比赛感到愤怒，因为车手公开嘲笑这项运动"
     },
     {
-      "title": "Women in small Italian village are living to 100 at stunning rates, expert explains why",
+      "title": "'You're getting ripped off': Man shares viral revelation about popular US restaurant chain",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家解释原因：意大利小村庄的妇女活到 100 岁的速度惊人"
+      "title_zh": "“你被骗了”：男子分享了有关美国受欢迎连锁餐厅的病毒式爆料"
     },
     {
-      "title": "NFL needs binding contracts after performer turns pregame act into activism",
+      "title": "Investigative reporter facing $800-a-day penalty asks Supreme Court to intervene",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在表演者将赛前行为转变为激进主义后，NFL需要有约束力的合同"
+      "title_zh": "面临每天 800 美元罚款的调查记者请求最高法院介入"
     },
     {
-      "title": "Man appears to steal from cafe tip jar before simple act of kindness changes encounter",
+      "title": "Ex-Cowboys star worried for his life after police encounter in front of his daughters",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "男子似乎从咖啡馆的小费罐里偷了，然后简单的善举改变了遭遇"
+      "title_zh": "前牛仔明星在女儿面前遭遇警察后担心自己的生命"
     },
     {
-      "title": "Cam Skattebo flagged for unnecessary roughness after steamrolling defender",
+      "title": "People living past 100 in one tiny village share 3 daily habits, experts say",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡姆·斯卡特博在碾压后卫后因不必要的粗暴而被标记"
+      "title_zh": "专家称，一个小村庄里100岁以上的人有3个日常习惯"
     },
     {
-      "title": "Ilhan Omar controversy sparks war of words between Trump, El-Sayed",
+      "title": "Tech giant aims to cash in on AI ambitions, announces intention to go public on stock market",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊尔汗·奥马尔争议引发特朗普和埃尔-赛义德之间的口水战"
+      "title_zh": "科技巨头旨在利用人工智能雄心壮志，宣布打算在股市上市"
     },
     {
-      "title": "College party turns to chaos as deck collapses, leaving at least 28 people injured",
+      "title": "Prince Harry making 'big mistake' that could destroy royal reconciliation: expert",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学派对因甲板倒塌而陷入混乱，造成至少28人受伤"
+      "title_zh": "哈里王子犯下的“大错误”可能会破坏王室和解：专家"
     },
     {
-      "title": "Blanche confronts CNN over omitted Constitution text in clash over Alaska race",
+      "title": "15-year-old male arrested, faces up to 11 counts after Florida A&M mass shooting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "布兰奇因在阿拉斯加种族冲突中遗漏宪法文本而与CNN对峙"
+      "title_zh": "佛罗里达农工大学大规模枪击事件后，15 岁男子被捕，面临多达 11 项罪名"
     },
     {
-      "title": "Ja'Marr Chase made VP Vance's six-year-old son's year with one small gesture",
+      "title": "JetBlue creditors hire advisors as financial concerns grow: report",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贾马尔·蔡斯 (Ja'Marr Chase) 通过一个小举动为副总统万斯 (Vance) 六岁的儿子送上新年祝福"
+      "title_zh": "随着财务问题的加剧，捷蓝航空债权人聘请顾问：报告"
     },
     {
-      "title": "Brutal leg injury leaves Thunder All-Star stunned as season hangs in balance",
+      "title": "World Series national anthem draws 'top 5 all time' praise for pop singer",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "严重的腿伤让雷霆全明星球员震惊，赛季悬而未决"
+      "title_zh": "世界大赛国歌为流行歌手赢得“历史前五”的赞誉"
     },
     {
-      "title": "Brandi Glanville says something 'alive' is moving under her skin before surgery",
+      "title": "NFL needs binding contracts after French performer turns pregame act into activism",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "布兰迪·格兰维尔说手术前有“活物”在她的皮肤下移动"
+      "title_zh": "法国表演者将赛前行为转变为激进主义后，NFL需要有约束力的合同"
     },
     {
-      "title": "'Knots Landing' star Donna Mills, 85, draws the line at unexpected OnlyFans request",
+      "title": "DAVID MARCUS:The future of the GOP in New England rides on Maine’s Senate vote",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "85 岁的《Knots Landing》明星唐娜·米尔斯 (Donna Mills) 应 OnlyFans 的意外要求退出"
+      "title_zh": "大卫·马库斯：新英格兰共和党的未来取决于缅因州参议院的投票"
     },
     {
-      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "title": "Trump revives a name President George Washington himself would have supported",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普恢复了乔治·华盛顿总统本人会支持的名字"
+    },
+    {
+      "title": "Watch: How Lula turned it around to beat former president's son",
       "link": "",
       "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
       "published": "",
-      "title_zh": "观看：卢拉总统如何扭转局面击败弗拉维奥·博尔索纳罗",
+      "title_zh": "观看：卢拉如何扭转局面击败前总统的儿子",
       "summary_zh": "巴西左翼总统以微弱优势击败右翼总统弗拉维奥·博尔索纳罗，第四次当选总统。"
     },
     {
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "link": "",
-      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "published": "",
-      "title_zh": "说唱歌手尼基·米娜 (Nicki Minaj) 与特朗普一起在密歇根集会上登台",
-      "summary_zh": "这位超级低音歌手是最新一位参加密歇根州竞选活动的知名人士，在 11 月 3 日中期选举之前，密歇根州参议院的竞选正在激烈进行。"
-    },
-    {
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "published": "",
-      "title_zh": "资深统治者武契奇承认学生领导的抗议运动后，塞尔维亚各地欢欣鼓舞",
+      "title_zh": "塞尔维亚老将武契奇在学生领导的抗议运动中落败后举行庆祝活动",
       "summary_zh": "这位执政12年的民粹主义右翼领导人表示，“很明显”他的政党在这场被称为对国家未来的公投中失败了。"
     },
     {
-      "title": "How a movement of students brought down Serbia's Vučić",
+      "title": "'I am here. With you': Machado greeted by crowds as she returns to Venezuela",
       "link": "",
-      "summary": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić.",
+      "summary": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
       "published": "",
-      "title_zh": "学生运动如何打倒塞尔维亚武契奇",
-      "summary_zh": "在不到两年的时间里，学生们成功推翻了亚历山大·武契奇 (Aleksandar Vučić) 领导下 14 年的政治统治。"
+      "title_zh": "'我在这儿。和你在一起”：马查多返回委内瑞拉时受到人群欢迎",
+      "summary_zh": "这位委内瑞拉反对派领导人乘坐快艇逃离该国后度过了十多个月的流亡时光。"
     },
     {
-      "title": "Joy and disbelief on Serbian streets as Student List wins election",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "link": "",
-      "summary": "BBC correspondent Nick Thorpe reports from Belgrade, where there were rapturous celebrations following the victory of the student-led movement.",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "published": "",
-      "title_zh": "学生名单赢得选举，塞尔维亚街头充满喜悦和怀疑",
-      "summary_zh": "BBC 记者尼克·索普从贝尔格莱德报道，学生领导的运动取得胜利后，那里举行了热烈的庆祝活动。"
+      "title_zh": "Anthropic 在重磅股票上市前警告人类面临“灾难性风险”",
+      "summary_zh": "随着科技公司继续大力投资人工智能，该公司将成为第一家真正上市的人工智能公司。"
     },
     {
-      "title": "UK Chancellor's Budget needs to sustain the stronger economy through gathering clouds",
+      "title": "Five ways Trump has changed immigration in the US",
       "link": "",
-      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
       "published": "",
-      "title_zh": "英国财政大臣的预算需要通过阴云密布来维持更强劲的经济",
-      "summary_zh": "目前经济形势乐观，但到一月份，工党政府的情况可能会变得更加棘手"
+      "title_zh": "特朗普改变美国移民的五种方式",
+      "summary_zh": "这就是他在重新掌权后所实施的标志性政策，承诺关闭边境和大规模驱逐出境。"
     },
     {
-      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
       "link": "",
-      "summary": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
+      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
       "published": "",
-      "title_zh": "印度漫画家在网上建立了受众 - 现在他们的帖子受到限制",
-      "summary_zh": "印度漫画家表示，网络限制让讽刺变得更加困难，但他们并没有放弃。"
+      "title_zh": "克里斯·布朗因夜总会袭击事件被判处八个月监禁，缓刑",
+      "summary_zh": "这位 R&B 明星此前因用玻璃瓶袭击一名音乐制作人而承认斗殴罪。"
     },
     {
-      "title": "Lula wins in Brazil but faces hostile Congress and divided country",
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
       "link": "",
-      "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+      "summary": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
       "published": "",
-      "title_zh": "卢拉在巴西获胜，但面临敌对的国会和分裂的国家",
-      "summary_zh": "卢拉总统意外获胜，但他将面临充满敌意的国会和两极分化的国家。"
+      "title_zh": "令人惊叹的照片捕捉到了世界各地十月的猎人月亮",
+      "summary_zh": "十月的满月，绰号“猎人之月”，本周末照亮了夜空。"
     },
     {
-      "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
       "link": "",
-      "summary": "Videos in which people claim to spot the signs of low iron have attracted millions of views online.",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
       "published": "",
-      "title_zh": "“铁蛋白脸”是真的吗？你真的能从外表看出铁含量低吗？",
-      "summary_zh": "人们声称发现了低铁迹象的视频在网上吸引了数百万次观看。"
+      "title_zh": "又大又吵，而且来到你附近的城镇——为什么数据中心的反对声越来越大",
+      "summary_zh": "数据中心是数字世界的命脉，但人们越来越担心它们对环境的影响。BBC 探讨了他们在排行榜上的崛起。"
     },
     {
-      "title": "Why Israel's election is one of the most important in its history",
+      "title": "Lula faces hostile congress and divided country after Brazil election win",
       "link": "",
-      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "summary": "The incumbent president has pulled off a surprise win, but he will face a hostile Congress and a polarised country.",
       "published": "",
-      "title_zh": "为什么以色列的选举是其历史上最重要的选举之一",
-      "summary_zh": "据中东记者露西·威廉姆森报道，安全和民主成为以色列备受期待的大选的核心问题。"
+      "title_zh": "巴西大选胜利后，卢拉面临敌对的国会和分裂的国家",
+      "summary_zh": "现任总统意外获胜，但他将面临充满敌意的国会和两极分化的国家。"
     },
     {
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+      "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
       "link": "",
-      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+      "summary": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
       "published": "",
-      "title_zh": "风暴博埃洛导致 90,000 处房屋停电，两名男子被倒下的树木杀死",
-      "summary_zh": "在恶劣天气席卷英国后，黄色大风警告现已到期。"
+      "title_zh": "莎朗·奥斯本：“我每天都会去奥兹的坟墓”",
+      "summary_zh": "这位电视节目主持人说，她可以从窗户看到奥兹的墓地，并经常与他交谈。"
     },
     {
-      "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
+      "title": "Burnham open to 'honest discussion' on EU free movement",
       "link": "",
-      "summary": "Kimi Antonelli's Austin win was \"the best he has delivered\", according to Mercedes boss Toto Wolff, even if it wasn't quite enough to give him the title.",
+      "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
       "published": "",
-      "title_zh": "安东内利带来了“一场尚未成为冠军的冠军的比赛”",
-      "summary_zh": "梅赛德斯老板托托·沃尔夫表示，基米·安东内利在奥斯汀的胜利是“他所取得的最好成绩”，尽管这还不足以让他获得冠军。"
+      "title_zh": "伯纳姆愿意就欧盟自由流动进行“诚实讨论”",
+      "summary_zh": "首相表示，他希望就恢复英国和欧洲之间的自由流动问题进行“事实”和“基于证据的辩论”。"
+    },
+    {
+      "title": "Spotify uploads Dolly Parton's Welsh version of Jolene - but translates lyrics into Irish",
+      "link": "",
+      "summary": "The single is the second posthumous release from Parton - who was of Welsh descent.",
+      "published": "",
+      "title_zh": "Spotify 上传了 Dolly Parton 的威尔士版 Jolene - 但将歌词翻译成爱尔兰语",
+      "summary_zh": "这首单曲是帕顿（威尔士血统）死后发行的第二张单曲。"
+    },
+    {
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "link": "",
+      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "published": "",
+      "title_zh": "刚果民主共和国护士在响应埃博拉警报时遭遇袭击身亡",
+      "summary_zh": "据报道，当地年轻人指责卫生工作者污染水源并传播埃博拉病毒。"
+    },
+    {
+      "title": "Jordan arrests three men suspected of deadly church attack after shootout",
+      "link": "",
+      "summary": "No group has yet said it was behind Friday's shooting attack in the village of Hmoud, which left nine Christians dead.",
+      "published": "",
+      "title_zh": "约旦在枪战后逮捕了三名涉嫌致命教堂袭击的男子",
+      "summary_zh": "目前还没有任何组织表示是周五哈穆德村枪击事件的幕后黑手，该事件造成九名基督徒死亡。"
+    },
+    {
+      "title": "Racecourse fined after jockey taken to A&E in horsebox",
+      "link": "",
+      "summary": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
+      "published": "",
+      "title_zh": "赛马场因骑师在马箱中被送往急诊室而被罚款",
+      "summary_zh": "塞奇菲尔德赛马场因未能遵守五项“一般安全指示”而被罚款 6,500 英镑。"
     }
   ]
 }
