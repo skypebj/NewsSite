@@ -1,6 +1,6 @@
 {
   "date": "20261027",
-  "total": 33,
+  "total": 41,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,246 +37,307 @@
   },
   "entries": [
     {
-      "title": "Macklemore’s ‘Free Palestine’ tour gets massive welcome in Dublin",
-      "link": "https://www.nbcnews.com/world/ireland/macklemore-free-palestine-tour-ireland-ed-sheeran-gaza-rcna604983",
+      "title": "Israeli voter turnout surges to highest in decades with Netanyahu’s future on the line",
+      "link": "https://www.nbcnews.com/world/israel/live-blog/israel-election-live-updates-netanyahu-eisenkot-voters-war-iran-gaza-rcna604979",
       "summary": "",
       "published": "",
-      "title_zh": "麦克莫尔的“自由巴勒斯坦”之旅在都柏林受到热烈欢迎"
+      "title_zh": "以色列选民投票率飙升至数十年来最高水平，内塔尼亚胡的未来岌岌可危"
     },
     {
-      "title": "Why everyone is talking about neoclouds — the canaries of the AI boom",
-      "link": "https://www.nbcnews.com/business/corporations/neoclouds-ai-boom-coreweave-debt-rcna605778",
+      "title": "Gulf states worry U.S. could pull most troops from region after Iran war",
+      "link": "https://www.nbcnews.com/politics/national-security/gulf-states-worry-us-pull-troops-region-iran-war-rcna604349",
       "summary": "",
       "published": "",
-      "title_zh": "为什么每个人都在谈论 Neoclouds——人工智能热潮中的金丝雀"
+      "title_zh": "海湾国家担心伊朗战争后美国可能从该地区撤出大部分军队"
     },
     {
-      "title": "James Comey charged for a third time by the Trump administration",
-      "link": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+      "title": "The Data Dive: Steve Kornacki on the state that changes the Senate majority math for the GOP",
+      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-state-changes-senate-majority-math-republican-rcna605810",
       "summary": "",
       "published": "",
-      "title_zh": "詹姆斯·科米第三次被特朗普政府指控"
+      "title_zh": "数据潜水：史蒂夫·科尔纳基（Steve Kornacki）谈改变共和党参议院多数席位的州"
     },
     {
-      "title": "Appeals court hands Trump administration setback in push to block California votes by alleged noncitizens",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-administration-loses-push-block-california-votes-alleged-nonciti-rcna605835",
+      "title": "Rubio set to join Trump in Texas a week before Election Day",
+      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-texas-rally-vance-michigan-senate-congress-2026-live-updates-rcna605788",
       "summary": "",
       "published": "",
-      "title_zh": "上诉法院让特朗普政府在阻止所谓非公民在加州投票方面遭遇挫折"
+      "title_zh": "卢比奥将于选举日前一周前往德克萨斯州与特朗普会面"
     },
     {
-      "title": "Jay-Z to headline Super Bowl halftime show",
-      "link": "https://www.nbcnews.com/pop-culture/music/jay-z-headline-super-bowl-halftime-show-rcna605847",
+      "title": "Amid 2028 speculation, Wes Moore urges Marylanders to back him on redistricting",
+      "link": "https://www.nbcnews.com/politics/2026-election/2028-speculation-wes-moore-urges-marylanders-back-redistricting-rcna605085",
       "summary": "",
       "published": "",
-      "title_zh": "Jay-Z 成为超级碗中场秀的主角"
+      "title_zh": "在 2028 年的猜测中，韦斯·摩尔敦促马里兰人支持他重新划分选区"
     },
     {
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "link": "",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "title": "Sarah J. Maas’ newest ‘ACOTAR’ release fuels midnight book party frenzy",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/acotar-a-court-of-splintered-harmony-midnight-book-parties-rcna603285",
+      "summary": "",
       "published": "",
-      "title_zh": "卢拉在巴西复出削弱了特朗普对拉丁美洲的野心",
-      "summary_zh": "特朗普与卢拉的关系可能已经解冻，但有几个问题可能会重新引发两位领导人之间的紧张关系。"
+      "title_zh": "莎拉·J·马斯（Sarah J. Maas）的新书《ACOTAR》的发行引发了午夜读书派对的狂热"
     },
     {
-      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
-      "link": "",
-      "summary": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
+      "title": "Melania Trump-brokered ceasefire goes into effect in Ukrainian town ‘on brink of disaster’",
+      "link": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667",
+      "summary": "",
       "published": "",
-      "title_zh": "凯恩结束英格兰队25年等待男子金球奖",
-      "summary_zh": "哈里·凯恩在伦敦举行的颁奖典礼上被加冕为世界最佳球员，成为继 2001 年迈克尔·欧文之后第一位赢得金球奖的英国球员。"
+      "title_zh": "梅拉尼娅·特朗普斡旋的停火在“处于灾难边缘”的乌克兰小镇生效"
     },
     {
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "link": "",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "title": "Mao, memes and Mbappé: Chinese brands drop soccer star in fury over ‘dictator’ joke",
+      "link": "https://www.nbcnews.com/world/asia/china-kylian-mbappe-mao-zedong-memes-brands-la-liga-rcna605873",
+      "summary": "",
       "published": "",
-      "title_zh": "前联邦调查局局长詹姆斯·科米第三次面临联邦指控",
-      "summary_zh": "科米的律师表示，此案源于 2016 年涉嫌向《纽约时报》泄露机密信息。"
+      "title_zh": "毛泽东、模因和姆巴佩：中国品牌因“独裁者”笑话而愤怒地放弃了足球明星"
     },
     {
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "link": "",
-      "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "title": "How a California prison reform helped free a serial rapist called ‘America’s creepiest heir’",
+      "link": "https://www.nbcnews.com/news/us-news/california-prison-reform-helped-free-serial-rapist-called-americas-cre-rcna604460",
+      "summary": "",
       "published": "",
-      "title_zh": "Jay-Z 将在超级碗半场表演中表演",
-      "summary_zh": "Jay-Z 多年来一直参与该节目，但之前从未在 NFL 冠军赛中表演过。"
+      "title_zh": "加州监狱改革如何帮助释放一名被称为“美国最令人毛骨悚然的继承人”的连环强奸犯"
     },
     {
-      "title": "India's largest share sale could end cheap mobile internet for millions",
-      "link": "",
-      "summary": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
-      "published": "",
-      "title_zh": "印度最大的股票出售可能会结束数百万人的廉价移动互联网",
-      "summary_zh": "Jio 的 IPO 有望为投资者带来意外之财，但也可能标志着数百万人不再享受廉价移动数据服务。"
-    },
-    {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "link": "",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "published": "",
-      "title_zh": "法官裁定特朗普政府非法解雇詹姆斯·科米的女儿",
-      "summary_zh": "莫琳·科米认为，她被解雇联邦检察官的工作是因为她的父亲是前联邦调查局局长。"
-    },
-    {
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "link": "",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "published": "",
-      "title_zh": "天主教主教为“利用”特朗普会议道歉",
-      "summary_zh": "照片中的两名主教与特朗普一起祈祷，他们表示，他们认为这次会议是私人的。"
-    },
-    {
-      "title": "Trump faces backlash after invoking 9/11 in verbal assault on Michigan's Senate candidate",
-      "link": "",
-      "summary": "The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024.",
-      "published": "",
-      "title_zh": "特朗普援引9/11事件对密歇根州参议员候选人进行口头攻击后面临强烈反对",
-      "summary_zh": "民主党人本人以及参议员伯尼·桑德斯和特朗普 2024 年的主要支持者也进行了反击。"
-    },
-    {
-      "title": "Fans praise 'perfect' ending as anime series Bleach officially ends",
-      "link": "",
-      "summary": "Twenty-two years after it first aired, one of the biggest animes of all time is coming to an end.",
-      "published": "",
-      "title_zh": "动漫系列《死神》正式完结，粉丝称赞“完美”结局",
-      "summary_zh": "首播二十二年后，有史以来最伟大的动画之一即将结束。"
-    },
-    {
-      "title": "Spain's Putellas wins record-equalling third Ballon d'Or",
-      "link": "",
-      "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
-      "published": "",
-      "title_zh": "西班牙球员普特拉斯第三次夺得金球奖，追平纪录",
-      "summary_zh": "巴塞罗那和西班牙中场球员亚历克西娅·普特拉斯第三次获得女性金球奖，追平了纪录。"
-    },
-    {
-      "title": "Lancashire consider Anderson farewell amid fan unrest",
-      "link": "",
-      "summary": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
-      "published": "",
-      "title_zh": "兰开夏郡考虑在球迷骚乱中告别安德森",
-      "summary_zh": "兰开夏郡将考虑为投球手詹姆斯·安德森组织一场告别活动，因为球迷因他离开俱乐部而感到不安。"
-    },
-    {
-      "title": "White House responds after Catholic archbishop apologizes over prayer with Trump",
+      "title": "FBI raids Beverly Hills mansion in investigation of disgraced Dem Eric Swalwell",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "天主教大主教就与特朗普一起祈祷道歉后白宫做出回应"
+      "title_zh": "联邦调查局突袭比佛利山庄豪宅，调查名誉扫地的民主党人埃里克·斯瓦尔韦尔"
     },
     {
-      "title": "Super Bowl LXI halftime headliner announced",
+      "title": "Inside the Somali mall where Ilhan Omar resurfaced after DC raid",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "超级碗第六十一届半场头条新闻公布"
+      "title_zh": "在 DC 突袭后伊尔汗·奥马尔重新出现的索马里购物中心内"
     },
     {
-      "title": "'60 Minutes' sob story unravels after deported man's asylum application surfaces",
+      "title": "Trump faces political storm over key issue as Republicans scramble to protect power",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被驱逐男子的庇护申请浮出水面后，“60分钟”的悲惨故事被揭开"
+      "title_zh": "共和党人争先恐后地保护权力，特朗普在关键问题上面临政治风暴"
     },
     {
-      "title": "Democrat breaks with party over alleged bid to siphon votes from Republican senator",
+      "title": "Senator admits nightmare scenario in state GOP hasn't lost in 90 years",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党因涉嫌窃取共和党参议员选票而与党派决裂"
+      "title_zh": "参议员承认该州共和党90年来从未输过一场噩梦"
     },
     {
-      "title": "Trump wants Ilhan Omar booted from Congress, but the Constitution looms",
+      "title": "Tech giant says its latest discoveries could upend math, physics and computer science",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普希望伊尔汗·奥马尔被逐出国会，但宪法迫在眉睫"
+      "title_zh": "科技巨头表示其最新发现可能颠覆数学、物理和计算机科学"
     },
     {
-      "title": "Sister watches as American tourist falls 1,000 feet to death for the perfect photo",
+      "title": "Netanyahu issues ‘emergency call’ as pivotal election puts political future on the line",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "姐姐看着美国游客从1000英尺高处坠落身亡，只为拍出完美照片"
+      "title_zh": "关键选举危及政治未来，内塔尼亚胡发出“紧急呼叫”"
     },
     {
-      "title": "West Virginia couple charged after 3 children allegedly endured years of abuse",
+      "title": "Meghan Markle's 'safety net is gone' after major supporter at Netflix departs: expert",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "西弗吉尼亚州夫妇因 3 名儿童遭受多年虐待而被指控"
+      "title_zh": "专家：Netflix主要支持者离开后，梅根·马克尔的“安全网消失了”"
     },
     {
-      "title": "Americans warned to rethink travel to 13 countries amid deadly attacks",
+      "title": "Woman's Lyft account allegedly deactivated after getting kicked out of vehicle over her apparel",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国人因致命袭击而被警告重新考虑前往 13 个国家的旅行"
+      "title_zh": "女子因着装被赶下车后，Lyft 账户据称被停用"
     },
     {
-      "title": "Controversial ad linking Israel aid to grocery bills roils Michigan Senate race",
+      "title": "Deep ocean's unmapped seafloor may be the ultimate hiding spot for UAPs",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "将以色列援助与食品杂货法案联系起来的有争议广告搅乱了密歇根州参议院竞选"
+      "title_zh": "深海未绘制地图的海底可能是 UAP 的最终藏身之处"
     },
     {
-      "title": "Brooke Hogan rips ‘greedy people’ after Hulk’s Florida home sells: ‘Dirty money’",
+      "title": "Retired Navy rear admiral explains why the ocean is the ultimate hiding spot for UAPs",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "浩克在佛罗里达州的房屋出售后，布鲁克·霍根痛斥“贪婪的人”：“肮脏的钱”"
+      "title_zh": "退役海军少将解释为什么海洋是无人机的终极藏身之处"
     },
     {
-      "title": "James Comey faces new DOJ case over alleged national defense disclosure",
+      "title": "Video shows convicted murderer stealing truck after prison escape",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "詹姆斯·科米因涉嫌国防信息泄露而面临司法部新案件"
+      "title_zh": "视频显示被定罪的凶手越狱后偷窃卡车"
     },
     {
-      "title": "Middle school teacher arrested in alleged prostitution scheme at casino hotel",
+      "title": "Bessent hits back at Obama after ‘Cheesecake Factory’ jab at Trump’s renovations",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中学教师涉嫌在赌场酒店卖淫被捕"
+      "title_zh": "贝森特在“芝士蛋糕工厂”抨击特朗普的翻修工程后回击奥巴马"
     },
     {
-      "title": "Florida mom arrested after Vegas trip left 4 kids without overnight supervision: deputies",
+      "title": "Fed-up residents eye a divorce from Chicago as political divide deepens",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "佛罗里达州妈妈在维加斯之旅后被捕，​​4个孩子没有过夜监管：代表"
+      "title_zh": "随着政治分歧加深，受够了的居民考虑与芝加哥离婚"
     },
     {
-      "title": "Tyrus looks back at the wildest moments from one year of 'Planet Tyrus'",
+      "title": "Florida mom arrested straight off the plane after leaving kids home alone during work trip",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒斯回顾《泰勒斯星球》一年来最疯狂的时刻"
+      "title_zh": "佛罗里达妈妈在出差期间将孩子独自留在家中后立即被捕"
     },
     {
-      "title": "Police called to soccer game after clash over 3-year-old star allegedly being 'too good'",
+      "title": "Both teams leave the floor for the national anthem during Game 5 of the WNBA Finals",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "因三岁球星“表现太好”发生冲突，警方呼吁观看足球比赛"
+      "title_zh": "WNBA 总决赛第 5 场比赛期间，两支球队在奏国歌时离开场地"
     },
     {
-      "title": "Brewers ride record-setting eight-run inning to dominant 3-0 World Series lead over Rays",
+      "title": "GORDON SONDLAND:France is burning, Europe's broke and the revolution it's missing isn't violent",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "酿酒人队在世界大赛中打出创纪录的八分局，以 3-0 领先光芒队"
+      "title_zh": "戈登·桑德兰：法国正在燃烧，欧洲已经破产，它所缺少的革命并不是暴力"
     },
     {
-      "title": "'Stand or hide in the tunnel' for the anthem, WNBA fans show loyalty; ready for Finals Game 6",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
       "link": "",
-      "summary": "",
+      "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
       "published": "",
-      "title_zh": "奏国歌时“站立或躲在隧道里”，WNBA球迷展现忠诚；准备好决赛第六场"
+      "title_zh": "以色列的选举对加沙和更广泛的世界意味着什么？",
+      "summary_zh": "英国广播公司 (BBC) 外交记者詹姆斯·兰代尔 (James Landale) 在耶路撒冷报道投票结果。"
+    },
+    {
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "link": "",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "published": "",
+      "title_zh": "姆巴佩对毛泽东言论在中国遭到强烈反对表示歉意",
+      "summary_zh": "这位法国明星在接受模因采访时将这位中国前领导人称为“独裁者”。"
+    },
+    {
+      "title": "Donald Trump's biggest economic problem looks strangely familiar",
+      "link": "",
+      "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+      "published": "",
+      "title_zh": "唐纳德·特朗普最大的经济问题看起来异常熟悉",
+      "summary_zh": "唐纳德·特朗普即将进入美国中期选举，其问题与他的政治对手乔·拜登类似。"
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "link": "",
+      "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+      "published": "",
+      "title_zh": "挪威和芬兰领导人与普京罕见通话",
+      "summary_zh": "这是一年多来欧洲领导人首次与俄罗斯总统直接沟通。"
+    },
+    {
+      "title": "Trump vs Obama - which president has the star power to get out the vote?",
+      "link": "",
+      "summary": "BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+      "published": "",
+      "title_zh": "特朗普 vs 奥巴马 - 哪位总统拥有获得选票的明星效应？",
+      "summary_zh": "英国广播公司 (BBC) 的莎拉·史密斯 (Sarah Smith) 关注特朗普和奥巴马，因为两党都希望他们的大人物能够提高中期投票率。"
+    },
+    {
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "link": "",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "published": "",
+      "title_zh": "乌克兰城市开始停战，居民以杂草为生",
+      "summary_zh": "白宫表示，奥列什基停火协议是由美国第一夫人梅拉尼娅·特朗普签署的，旨在允许援助进入并允许平民撤离。"
+    },
+    {
+      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+      "link": "",
+      "summary": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "published": "",
+      "title_zh": "小暴龙骨架在纽约拍卖，标价 450 万英镑",
+      "summary_zh": "这具罕见骨架的拍卖正值科学界争论恐龙遗骸最终应该落入私人手中还是公众视野之际。"
+    },
+    {
+      "title": "My husband's death was hard enough - then came the admin",
+      "link": "",
+      "summary": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\".",
+      "published": "",
+      "title_zh": "我丈夫的死已经够痛苦的了——然后行政人员来了",
+      "summary_zh": "路易莎说，丈夫约翰去世后，她处理家庭账单的经历让她感到“沮丧和愤怒”​​。"
+    },
+    {
+      "title": "I'm one of a growing number of Gen Z birdwatchers - it helps my mental health",
+      "link": "",
+      "summary": "Caitlin Andrew hated birdwatching as a child but found a passion for it in her 20s.",
+      "published": "",
+      "title_zh": "我是越来越多的 Z 世代观鸟者之一 - 这有助于我的心理健康",
+      "summary_zh": "凯特琳·安德鲁 (Caitlin Andrew) 小时候讨厌观鸟，但在 20 多岁的时候发现了它的热情。"
+    },
+    {
+      "title": "Kane's rise from childhood keeper to the best in the world",
+      "link": "",
+      "summary": "Harry Kane has been named as the world's best player at the Ballon d'Or awards. BBC Sport charts his remarkable career.",
+      "published": "",
+      "title_zh": "凯恩从童年门将成长为世界最佳门将",
+      "summary_zh": "哈里·凯恩在金球奖评选中被评为世界最佳球员。BBC 体育频道记录了他非凡的职业生涯。"
+    },
+    {
+      "title": "'I love to escape into a fantasyland of fairies': Fans rejoice as latest Sarah J Maas book hits shelves",
+      "link": "",
+      "summary": "About 40 fans of A Court of Thorns and Roses series celebrated at a \"lock-in\" event in Carrickfergus.",
+      "published": "",
+      "title_zh": "“我喜欢逃进仙女的幻想世界”：萨拉·J·马斯最新书上架，粉丝们欢欣鼓舞",
+      "summary_zh": "大约 40 名《荆棘与玫瑰法庭》系列的粉丝在卡里克弗格斯举行的“锁定”活动中庆祝。"
+    },
+    {
+      "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+      "link": "",
+      "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces.",
+      "published": "",
+      "title_zh": "议员和议员被以色列拘留并被禁止进入西岸",
+      "summary_zh": "苏格兰民族党议员拉拉·伯德（Lara Bird）和苏格兰绿党议员凯特·内文斯（Kate Nevens）是被以色列安全部队拒绝的国际代表团成员。"
+    },
+    {
+      "title": "Carrick to stay in charge of Man Utd for Chelsea game",
+      "link": "",
+      "summary": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
+      "published": "",
+      "title_zh": "卡里克将继续执教曼联，备战切尔西比赛",
+      "summary_zh": "迈克尔·卡里克将继续执掌曼联本周末对阵切尔西的比赛。"
+    },
+    {
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "link": "",
+      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "published": "",
+      "title_zh": "梅根将联合主持澳大利亚少年厨艺大师",
+      "summary_zh": "苏塞克斯公爵夫人表示，她“迫不及待”想要参加该节目，该节目将于明年播出。"
+    },
+    {
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "link": "",
+      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "published": "",
+      "title_zh": "荷兰因以色列参赛再次退出欧洲歌唱大赛",
+      "summary_zh": "一家荷兰广播公司以以色列参与的“敏感性”为由，推翻了参加的决定。"
+    },
+    {
+      "title": "Australia roar back into South Africa Test with quick wickets - follow live",
+      "link": "",
+      "summary": "Follow live text updates as South Africa face Australia in the series-deciding third Test at Newlands in Cape Town.",
+      "published": "",
+      "title_zh": "澳大利亚凭借快速三柱门重返南非测试 - 关注直播",
+      "summary_zh": "关注实时文本更新，南非队将在开普敦纽兰兹举行的系列赛第三次测试赛中对阵澳大利亚队。"
     }
   ]
 }
