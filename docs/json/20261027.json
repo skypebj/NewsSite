@@ -1,0 +1,282 @@
+{
+  "date": "20261027",
+  "total": 33,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Macklemore’s ‘Free Palestine’ tour gets massive welcome in Dublin",
+      "link": "https://www.nbcnews.com/world/ireland/macklemore-free-palestine-tour-ireland-ed-sheeran-gaza-rcna604983",
+      "summary": "",
+      "published": "",
+      "title_zh": "麦克莫尔的“自由巴勒斯坦”之旅在都柏林受到热烈欢迎"
+    },
+    {
+      "title": "Why everyone is talking about neoclouds — the canaries of the AI boom",
+      "link": "https://www.nbcnews.com/business/corporations/neoclouds-ai-boom-coreweave-debt-rcna605778",
+      "summary": "",
+      "published": "",
+      "title_zh": "为什么每个人都在谈论 Neoclouds——人工智能热潮中的金丝雀"
+    },
+    {
+      "title": "James Comey charged for a third time by the Trump administration",
+      "link": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+      "summary": "",
+      "published": "",
+      "title_zh": "詹姆斯·科米第三次被特朗普政府指控"
+    },
+    {
+      "title": "Appeals court hands Trump administration setback in push to block California votes by alleged noncitizens",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-administration-loses-push-block-california-votes-alleged-nonciti-rcna605835",
+      "summary": "",
+      "published": "",
+      "title_zh": "上诉法院让特朗普政府在阻止所谓非公民在加州投票方面遭遇挫折"
+    },
+    {
+      "title": "Jay-Z to headline Super Bowl halftime show",
+      "link": "https://www.nbcnews.com/pop-culture/music/jay-z-headline-super-bowl-halftime-show-rcna605847",
+      "summary": "",
+      "published": "",
+      "title_zh": "Jay-Z 成为超级碗中场秀的主角"
+    },
+    {
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "link": "",
+      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "published": "",
+      "title_zh": "卢拉在巴西复出削弱了特朗普对拉丁美洲的野心",
+      "summary_zh": "特朗普与卢拉的关系可能已经解冻，但有几个问题可能会重新引发两位领导人之间的紧张关系。"
+    },
+    {
+      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+      "link": "",
+      "summary": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
+      "published": "",
+      "title_zh": "凯恩结束英格兰队25年等待男子金球奖",
+      "summary_zh": "哈里·凯恩在伦敦举行的颁奖典礼上被加冕为世界最佳球员，成为继 2001 年迈克尔·欧文之后第一位赢得金球奖的英国球员。"
+    },
+    {
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "link": "",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "published": "",
+      "title_zh": "前联邦调查局局长詹姆斯·科米第三次面临联邦指控",
+      "summary_zh": "科米的律师表示，此案源于 2016 年涉嫌向《纽约时报》泄露机密信息。"
+    },
+    {
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "link": "",
+      "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "published": "",
+      "title_zh": "Jay-Z 将在超级碗半场表演中表演",
+      "summary_zh": "Jay-Z 多年来一直参与该节目，但之前从未在 NFL 冠军赛中表演过。"
+    },
+    {
+      "title": "India's largest share sale could end cheap mobile internet for millions",
+      "link": "",
+      "summary": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+      "published": "",
+      "title_zh": "印度最大的股票出售可能会结束数百万人的廉价移动互联网",
+      "summary_zh": "Jio 的 IPO 有望为投资者带来意外之财，但也可能标志着数百万人不再享受廉价移动数据服务。"
+    },
+    {
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "link": "",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "published": "",
+      "title_zh": "法官裁定特朗普政府非法解雇詹姆斯·科米的女儿",
+      "summary_zh": "莫琳·科米认为，她被解雇联邦检察官的工作是因为她的父亲是前联邦调查局局长。"
+    },
+    {
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "link": "",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "published": "",
+      "title_zh": "天主教主教为“利用”特朗普会议道歉",
+      "summary_zh": "照片中的两名主教与特朗普一起祈祷，他们表示，他们认为这次会议是私人的。"
+    },
+    {
+      "title": "Trump faces backlash after invoking 9/11 in verbal assault on Michigan's Senate candidate",
+      "link": "",
+      "summary": "The Democrat himself has hit back, as has Senator Bernie Sanders and a key Trump supporter from 2024.",
+      "published": "",
+      "title_zh": "特朗普援引9/11事件对密歇根州参议员候选人进行口头攻击后面临强烈反对",
+      "summary_zh": "民主党人本人以及参议员伯尼·桑德斯和特朗普 2024 年的主要支持者也进行了反击。"
+    },
+    {
+      "title": "Fans praise 'perfect' ending as anime series Bleach officially ends",
+      "link": "",
+      "summary": "Twenty-two years after it first aired, one of the biggest animes of all time is coming to an end.",
+      "published": "",
+      "title_zh": "动漫系列《死神》正式完结，粉丝称赞“完美”结局",
+      "summary_zh": "首播二十二年后，有史以来最伟大的动画之一即将结束。"
+    },
+    {
+      "title": "Spain's Putellas wins record-equalling third Ballon d'Or",
+      "link": "",
+      "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+      "published": "",
+      "title_zh": "西班牙球员普特拉斯第三次夺得金球奖，追平纪录",
+      "summary_zh": "巴塞罗那和西班牙中场球员亚历克西娅·普特拉斯第三次获得女性金球奖，追平了纪录。"
+    },
+    {
+      "title": "Lancashire consider Anderson farewell amid fan unrest",
+      "link": "",
+      "summary": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+      "published": "",
+      "title_zh": "兰开夏郡考虑在球迷骚乱中告别安德森",
+      "summary_zh": "兰开夏郡将考虑为投球手詹姆斯·安德森组织一场告别活动，因为球迷因他离开俱乐部而感到不安。"
+    },
+    {
+      "title": "White House responds after Catholic archbishop apologizes over prayer with Trump",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "天主教大主教就与特朗普一起祈祷道歉后白宫做出回应"
+    },
+    {
+      "title": "Super Bowl LXI halftime headliner announced",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "超级碗第六十一届半场头条新闻公布"
+    },
+    {
+      "title": "'60 Minutes' sob story unravels after deported man's asylum application surfaces",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "被驱逐男子的庇护申请浮出水面后，“60分钟”的悲惨故事被揭开"
+    },
+    {
+      "title": "Democrat breaks with party over alleged bid to siphon votes from Republican senator",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党因涉嫌窃取共和党参议员选票而与党派决裂"
+    },
+    {
+      "title": "Trump wants Ilhan Omar booted from Congress, but the Constitution looms",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普希望伊尔汗·奥马尔被逐出国会，但宪法迫在眉睫"
+    },
+    {
+      "title": "Sister watches as American tourist falls 1,000 feet to death for the perfect photo",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "姐姐看着美国游客从1000英尺高处坠落身亡，只为拍出完美照片"
+    },
+    {
+      "title": "West Virginia couple charged after 3 children allegedly endured years of abuse",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "西弗吉尼亚州夫妇因 3 名儿童遭受多年虐待而被指控"
+    },
+    {
+      "title": "Americans warned to rethink travel to 13 countries amid deadly attacks",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国人因致命袭击而被警告重新考虑前往 13 个国家的旅行"
+    },
+    {
+      "title": "Controversial ad linking Israel aid to grocery bills roils Michigan Senate race",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "将以色列援助与食品杂货法案联系起来的有争议广告搅乱了密歇根州参议院竞选"
+    },
+    {
+      "title": "Brooke Hogan rips ‘greedy people’ after Hulk’s Florida home sells: ‘Dirty money’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "浩克在佛罗里达州的房屋出售后，布鲁克·霍根痛斥“贪婪的人”：“肮脏的钱”"
+    },
+    {
+      "title": "James Comey faces new DOJ case over alleged national defense disclosure",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "詹姆斯·科米因涉嫌国防信息泄露而面临司法部新案件"
+    },
+    {
+      "title": "Middle school teacher arrested in alleged prostitution scheme at casino hotel",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "中学教师涉嫌在赌场酒店卖淫被捕"
+    },
+    {
+      "title": "Florida mom arrested after Vegas trip left 4 kids without overnight supervision: deputies",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达州妈妈在维加斯之旅后被捕，​​4个孩子没有过夜监管：代表"
+    },
+    {
+      "title": "Tyrus looks back at the wildest moments from one year of 'Planet Tyrus'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒斯回顾《泰勒斯星球》一年来最疯狂的时刻"
+    },
+    {
+      "title": "Police called to soccer game after clash over 3-year-old star allegedly being 'too good'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "因三岁球星“表现太好”发生冲突，警方呼吁观看足球比赛"
+    },
+    {
+      "title": "Brewers ride record-setting eight-run inning to dominant 3-0 World Series lead over Rays",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "酿酒人队在世界大赛中打出创纪录的八分局，以 3-0 领先光芒队"
+    },
+    {
+      "title": "'Stand or hide in the tunnel' for the anthem, WNBA fans show loyalty; ready for Finals Game 6",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "奏国歌时“站立或躲在隧道里”，WNBA球迷展现忠诚；准备好决赛第六场"
+    }
+  ]
+}
