@@ -1,0 +1,313 @@
+{
+  "date": "20261029",
+  "total": 37,
+  "sources": {
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "link": "",
+      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+      "published": "",
+      "title_zh": "在中国强烈反对后，Hello Kitty 制造商与日本间谍剧断绝关系",
+      "summary_zh": "三丽鸥因日本电视剧《Vivant》的商品系列受到批评而道歉。"
+    },
+    {
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "link": "",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "published": "",
+      "title_zh": "数千名美国移民代理的详细信息在重大黑客事件中泄露",
+      "summary_zh": "一个名为和平部的组织公布了超过 41,000 名国土安全部工作人员的信息。"
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "link": "",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "published": "",
+      "title_zh": "弗拉维奥·博尔索纳罗否认在迈阿密登陆后逃离巴西",
+      "summary_zh": "落败的巴西候选人声称自己是政变和政治迫害的受害者，反复提出未经证实的“选举舞弊”指控。"
+    },
+    {
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "link": "",
+      "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+      "published": "",
+      "title_zh": "建筑热潮导致 30 万人陷入喜马拉雅山潜在灾难",
+      "summary_zh": "尼泊尔部分地区和印度北阿坎德邦的旅游设施、住房和基础设施建设激增。"
+    },
+    {
+      "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+      "link": "",
+      "summary": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
+      "published": "",
+      "title_zh": "“就像切割毕加索的作品”：《邻居》的人工智能微剧剪辑让演员和工作人员感到担忧",
+      "summary_zh": "一部微剧将使用人工智能辅助技术来编辑澳大利亚电视肥皂剧的旧剧集，以聚焦玛格特·罗比的角色。"
+    },
+    {
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "link": "",
+      "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "published": "",
+      "title_zh": "“我和鬼魂住在一起”：日本鬼屋吸引廉价买家",
+      "summary_zh": "如果有人在悲惨情况下死亡，房产的价格可能会大幅下降。"
+    },
+    {
+      "title": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+      "link": "",
+      "summary": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results.",
+      "published": "",
+      "title_zh": "“超级无礼”——我们喜欢自己的外表，但人工智能试图“修复”我们明显的差异",
+      "summary_zh": "人工智能工具在一份工作通讯中编辑了莱安农·摩根的照片，她对结果感到震惊。"
+    },
+    {
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "link": "",
+      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "published": "",
+      "title_zh": "以色列选举陷入僵局是该国深刻分歧的一个迹象",
+      "summary_zh": "詹姆斯·兰代尔写道，这次选举在某种程度上是对民主的庆祝，但它让以色列没有明确的组建新政府的道路。"
+    },
+    {
+      "title": "Take our Celebrity Traitors quiz to find out which star you would be in this year's show",
+      "link": "",
+      "summary": "Are you an observant sleuth or a smooth operator? Find out which star you are by answering these questions.",
+      "published": "",
+      "title_zh": "参加我们的名人叛徒测验，看看你会成为今年节目中的哪位明星",
+      "summary_zh": "您是细心的侦探还是圆滑的操作员？通过回答这些问题来找出你是哪一颗星星。"
+    },
+    {
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "link": "",
+      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "published": "",
+      "title_zh": "微软宣布裁员数千人几天后利润飙升",
+      "summary_zh": "本周，这家 Windows 开发商表示将向 6 万名员工提供买断方案，以期控制成本。"
+    },
+    {
+      "title": "King Charles shows off dance moves on second day of Caribbean tour",
+      "link": "",
+      "summary": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+      "published": "",
+      "title_zh": "查尔斯国王在加勒比之旅第二天展示舞蹈动作",
+      "summary_zh": "当天早些时候，国王向岛上阵亡的军人表示敬意。"
+    },
+    {
+      "title": "Demands for post-poll justice as Tanzania accused of weaponising counterterrorism laws",
+      "link": "",
+      "summary": "Families affected tell the BBC they want answers and financial help as Amnesty says a crackdown continues.",
+      "published": "",
+      "title_zh": "坦桑尼亚被指控将反恐法武器化，要求投票后伸张正义",
+      "summary_zh": "受影响的家庭告诉英国广播公司，他们需要答案和经济帮助，国际特赦组织称镇压仍在继续。"
+    },
+    {
+      "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
+      "link": "",
+      "summary": "Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects.",
+      "published": "",
+      "title_zh": "美国卫生部长 RFK Jr 将扩大未经批准的肽的获取范围",
+      "summary_zh": "健康专家警告不要使用这些药物，理由是缺乏人体临床试验以及未知的长期影响。"
+    },
+    {
+      "title": "Leaders Celtic come from behind to draw with in-form Dundee Utd",
+      "link": "",
+      "summary": "Scottish Premiership leaders Celtic are held to a thrilling draw as Dundee United extend their unbeaten run to six games.",
+      "published": "",
+      "title_zh": "领头羊凯尔特人队后来居上，与状态良好的邓迪联队战平",
+      "summary_zh": "苏格兰英超领头羊凯尔特人队以一场激动人心的平局，邓迪联队将不败纪录扩大到六场。"
+    },
+    {
+      "title": "California judge denies Trump DOJ request to segregate alleged noncitizen ballots",
+      "link": "https://www.nbcnews.com/politics/justice-department/judge-rules-california-ballots-alleged-non-citizen-voters-trump-doj-rcna606100",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州法官驳回特朗普司法部要求隔离所谓非公民选票的请求"
+    },
+    {
+      "title": "Trump’s final campaign swing is taking on a darker tone",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trumps-final-campaign-swing-darker-tone-midterm-elections-rcna605080",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普的最后竞选摇摆呈现出更阴暗的基调"
+    },
+    {
+      "title": "Legal experts weigh in on Dan Sullivan ballot dispute in Alaska Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-alaska-democratic-senate-candidate-prosecuted-dan-sullivan-rcna606159",
+      "summary": "",
+      "published": "",
+      "title_zh": "法律专家对阿拉斯加参议员竞选中的丹·沙利文选票纠纷发表评论"
+    },
+    {
+      "title": "The swing county that could determine Texas’ senator",
+      "link": "https://www.nbcnews.com/politics/2026-election/-goes-texas-swing-county-determine-states-senator-rcna606025",
+      "summary": "",
+      "published": "",
+      "title_zh": "可能决定德克萨斯州参议员的摇摆县"
+    },
+    {
+      "title": "Milwaukee Brewers defeat Tampa Bay Rays to claim first World Series title",
+      "link": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-tampa-bay-rays-world-series-game-5-result-rcna605974",
+      "summary": "",
+      "published": "",
+      "title_zh": "密尔沃基酿酒人队击败坦帕湾光芒队首次夺得世界大赛冠军"
+    },
+    {
+      "title": "RFK Jr. takes shortcut to make some unapproved peptides available for use",
+      "link": "https://www.nbcnews.com/health/health-news/rfk-jr-takes-shortcut-make-peptides-widely-available-rcna606133",
+      "summary": "",
+      "published": "",
+      "title_zh": "RFK Jr. 走捷径让一些未经批准的肽可供使用"
+    },
+    {
+      "title": "Brazil’s Flávio Bolsonaro says ‘I am the leader’ after election defeat",
+      "link": "https://www.nbcnews.com/world/brazil/flavio-bolsonaro-arrives-miami-election-defeat-rcna606099",
+      "summary": "",
+      "published": "",
+      "title_zh": "巴西总统弗拉维奥·博尔索纳罗在选举失败后表示“我是领导人”"
+    },
+    {
+      "title": "Florida cop charged with possessing dead man’s house had history of misconduct",
+      "link": "https://www.nbcnews.com/news/us-news/florida-cop-charged-possessing-dead-mans-house-was-disciplined-previou-rcna606095",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达州警察被控占有死者房屋，有不当行为历史"
+    },
+    {
+      "title": "Worker injured in fire at nuclear site as officials give contamination update",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "官员通报污染最新情况，核电站火灾中工人受伤"
+    },
+    {
+      "title": "Obama doubles down on Cheesecake Factory Trump jab, mocks Bessent's lunch",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "奥巴马加倍强调芝士蛋糕工厂特朗普的疫苗接种，嘲笑贝森特的午餐"
+    },
+    {
+      "title": "Dan Sullivan calls alleged Alaska ballot scheme a ‘scandal at the highest order’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "丹·沙利文称所谓的阿拉斯加投票计划是“最高级别的丑闻”"
+    },
+    {
+      "title": "Woman in burka plays Islamic call to prayer at county meeting, gets escorted out",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "身穿罩袍的女子在县会议上演奏伊斯兰祈祷祈祷，被护送出去"
+    },
+    {
+      "title": "Beloved TV show host announces he is stepping away from program after 37 years",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "深受喜爱的电视节目主持人宣布退出节目 37 年后"
+    },
+    {
+      "title": "More than 3 in 4 pilots report cockpit practice as hidden flight risk emerges",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于隐藏的飞行风险的出现，超过四分之三的飞行员报告驾驶舱实践"
+    },
+    {
+      "title": "Jacob Misiorowski throws gem as Brewers close out Rays to win first World Series title",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "雅各布·米西奥罗夫斯基投掷宝石，酿酒人队击败光芒队赢得首个世界大赛冠军"
+    },
+    {
+      "title": "Cruise billed as home for life abruptly ends, leaving over 200 passengers stranded",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "号称一生之家的游轮突然结束，200多名乘客滞留"
+    },
+    {
+      "title": "'Barney Miller' actress Barbara Barrie's death at 95 was medically assisted: report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《巴尼·米勒》女演员芭芭拉·巴里在医疗协助下去世，享年 95 岁：报告"
+    },
+    {
+      "title": "Jillian Michaels calls out Big Tech over kids' safety on Planet Tyrus",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "吉莉安·迈克尔斯 (Jillian Michaels) 呼吁大型科技公司关注泰勒斯星球上儿童的安全问题"
+    },
+    {
+      "title": "Drone footage shows manhunt, capture of escaped Michigan convict",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "无人机镜头显示追捕、抓获密歇根州逃犯"
+    },
+    {
+      "title": "DAVID MARCUS:Why early voting numbers could spell trouble for Paxton",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大卫·马库斯：为什么提前投票数字可能给帕克斯顿带来麻烦"
+    },
+    {
+      "title": "NFL star reportedly wants out as rebuilding franchise blows up its roster",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，随着重建球队阵容的扩大，NFL球星希望退出"
+    },
+    {
+      "title": "TUNE IN:Jesse Watters to host town hall with Vice President JD Vance ahead of midterms",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "收听：杰西·沃特斯 (Jesse Watters) 将在中期选举前与副总统 JD 万斯 (JD Vance) 一起主持市政厅"
+    },
+    {
+      "title": "Tom Brady romance reportedly tears apart Victoria’s Secret models’ 15-year friendship",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，汤姆·布雷迪的恋情导致维多利亚的秘密模特们 15 年的友谊破裂"
+    }
+  ]
+}
