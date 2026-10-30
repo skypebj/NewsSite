@@ -1,6 +1,6 @@
 {
   "date": "20261030",
-  "total": 43,
+  "total": 37,
   "sources": {
     "fox": {
       "status": "ok",
@@ -37,319 +37,274 @@
   },
   "entries": [
     {
-      "title": "Trump revives two red state rallies after earlier cancellations",
-      "link": "https://www.example.com/2026/10/30/politics/live-news/midterm-election-congress",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普在早些时候取消后恢复了两次红色州集会"
-    },
-    {
-      "title": "Tech stocks set to wipe out $1 trillion in value as concerns about the AI boom deepen",
-      "link": "https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着对人工智能热潮的担忧加深，科技股市值将蒸发 1 万亿美元"
-    },
-    {
-      "title": "",
-      "link": "https://www.nbcnews.com/video/watch-live-stock-market-reacts-amid-concerns-about-artificial-intelligence-spending-272535621668",
-      "summary": "",
-      "published": ""
-    },
-    {
-      "title": "Binance pledges to cover billions in stolen assets after hack",
-      "link": "https://www.nbcnews.com/business/markets/binance-pledges-cover-billions-stolen-assets-hack-rcna606517",
-      "summary": "",
-      "published": "",
-      "title_zh": "币安承诺赔偿黑客攻击后数十亿美元被盗资产"
-    },
-    {
-      "title": "Trump uncancels weekend rallies in Iowa and Kansas with Senate control at stake",
-      "link": "https://www.nbcnews.com/politics/2026-election/trump-cancels-weekend-rallies-iowa-kansas-favor-holding-numerous-teler-rcna606487",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普取消周末在爱荷华州和堪萨斯州的集会，参议院控制权受到威胁"
-    },
-    {
-      "title": "Christa Pike says there is ‘pain in my mind and in my soul’ one month after her failed execution",
-      "link": "https://www.nbcnews.com/news/us-news/christa-pike-says-pain-mind-soul-one-month-failed-execution-rcna606457",
-      "summary": "",
-      "published": "",
-      "title_zh": "克里斯塔·派克 (Christa Pike) 表示，在处决失败一个月后，“我的思想和灵魂都感到痛苦”"
-    },
-    {
-      "title": "Patrick Stewart and Ian McKellen: A friendship that surpassed the stage and screen",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/patrick-stewart-ian-mckellen-friendship-surpassed-stage-screen-rcna606446",
-      "summary": "",
-      "published": "",
-      "title_zh": "帕特里克·斯图尔特和伊恩·麦凯伦：超越舞台和银幕的友谊"
-    },
-    {
-      "title": "Ohio legislators alarmed by Medicaid fraud crackdown’s impact on disabled people",
-      "link": "https://www.nbcnews.com/news/us-news/ohio-legislators-slam-gop-medicaid-fraud-crackdown-disabled-care-rcna606359",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄亥俄州立法者对医疗补助欺诈打击对残疾人的影响感到震惊"
-    },
-    {
-      "title": "Evacuations begin in Ukraine under localized ceasefire brokered by Melania Trump",
-      "link": "https://www.nbcnews.com/world/ukraine/melania-ukraine-oleshky-evacuation-russia-ceasefire-leo-rcna606509",
-      "summary": "",
-      "published": "",
-      "title_zh": "在梅拉尼娅·特朗普的斡旋下，乌克兰开始撤离"
-    },
-    {
-      "title": "Omar's support starts to crack as top Minnesota Dem turns on her 'witch hunt' narrative",
+      "title": "Pelosi reverses course on her stance toward controversial Dem Senate nominee",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着明尼苏达州民主党高层开启她的“政治迫害”叙事，奥马尔的支持开始破裂"
+      "title_zh": "佩洛西改变了对有争议的民主党参议院候选人的立场"
     },
     {
-      "title": "Peltola tries to 'clear the air' on alleged Alaska decoy scheme",
+      "title": "Treasury flags $8B in suspicious foreign transfers through US money firms",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "佩尔托拉试图澄清所谓的阿拉斯加诱饵计划"
+      "title_zh": "财政部标记通过美国货币公司进行的 80 亿美元可疑外国转账"
     },
     {
-      "title": "The Senate fight no one saw coming is testing the GOP's grip on a reliably red state",
+      "title": "Liberal Ninth Circuit hands Trump a surprise win, blocks lower court ruling",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "无人预见的参议院斗争正在考验共和党对一个可靠的红色州的控制力"
+      "title_zh": "自由党第九巡回法院让特朗普意外获胜，阻止下级法院的裁决"
     },
     {
-      "title": "Ancient account of Jesus challenges centuries of scholarly doubt",
+      "title": "Top Senate Republican accuses Schumer of plotting bizarre election scheme",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "耶稣的古代记载挑战了几个世纪的学术怀疑"
+      "title_zh": "参议院共和党领袖指责舒默策划奇怪的选举计划"
     },
     {
-      "title": "Judge yanked from docket, but stands by racially charged courtroom tirade",
+      "title": "Iranian lawmaker calls to withdraw from nuclear treaty amid 'heavy' costs suffered",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法官从备审名单中撤出，但仍支持充满种族歧视的法庭长篇大论"
+      "title_zh": "伊朗议员呼吁在遭受“沉重”代价的情况下退出核条约"
     },
     {
-      "title": "Trump reverses course on travel plans in final dash before Election Day",
+      "title": "French trans phenom's performance against top WNBA prospect's team proves a point",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在选举日前最后冲刺时改变了旅行计划"
+      "title_zh": "法国跨性别天才在对阵 WNBA 顶级新秀球队时的表现证明了一点"
     },
     {
-      "title": "Christa Pike describes life after botched execution in first account since survival",
+      "title": "Pope Leo makes US election history with a move no other pontiff has made before",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克里斯塔·派克在生存以来的第一个账户中描述了执行失败后的生活"
+      "title_zh": "教皇利奥以其他教皇从未采取过的举动创造了美国选举历史"
     },
     {
-      "title": "JACKSON THOMPSON:Gronk calls for NFL referees to face punishment amid controversies",
+      "title": "College hockey captain killed on way home from game as DHS details driver's past",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杰克逊·汤普森：格隆克呼吁NFL裁判在争议中面临惩罚"
+      "title_zh": "国土安全部详细介绍了司机的过去，大学曲棍球队队长在比赛回家途中被杀"
     },
     {
-      "title": "Elon Musk raises alarm over AI-driven theft after massive Binance breach",
+      "title": "Top automaker tapped to build self-driving taxis set to roll out in multiple countries overseas",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "币安大规模违规后，埃隆·马斯克对人工智能驱动的盗窃行为发出警报"
+      "title_zh": "顶级汽车制造商打造自动驾驶出租车，将在海外多个国家推出"
     },
     {
-      "title": "Hegseth, top generals reportedly present Trump with options for new Iran strikes",
+      "title": "Four cities score massive payday in Trump's $300M violent crime crackdown",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据报道，赫格斯和高级将领向特朗普提出了新的伊朗袭击选择"
+      "title_zh": "特朗普斥资 3 亿美元打击暴力犯罪，四个城市获得巨额回报"
     },
     {
-      "title": "MIKE DAVIS:He wore a burqa, showed no ID and waltzed right through a Minnesota polling site",
+      "title": "Rock formation collapses at popular tourist destination, killing 3 and injuring 5",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克·戴维斯：他穿着罩袍，没有出示身份证件，轻快地穿过明尼苏达州的一个投票站"
+      "title_zh": "热门旅游胜地岩层崩塌，造成3​​人死亡、5人受伤"
     },
     {
-      "title": "Parkinson's-related disorder risk rises sharply among adults with certain condition",
+      "title": "Nearly 1 in 3 people make common moldy food mistake, new survey finds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "患有某些疾病的成年人患帕金森病相关疾病的风险急剧上升"
+      "title_zh": "新调查发现，近三分之一的人犯了常见的发霉食品错误"
     },
     {
-      "title": "Riley Gaines challenges arguments over Colorado's girls' sports ballot measure",
+      "title": "Christian ministry unveils AI tool with built-in safeguards to protect users",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "莱利·盖恩斯挑战科罗拉多州女子体育投票措施的争论"
+      "title_zh": "基督教事工推出具有内置保护措施的人工智能工具来保护用户"
     },
     {
-      "title": "Popular Halloween candy can cost you big bucks at the dentist",
+      "title": "Travel influencer's deadly river crossing ends in tragedy as 3 women are killed",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "流行的万圣节糖果看牙医可能要花大钱"
+      "title_zh": "旅游网红过河事件以悲剧告终，3名女性丧生"
     },
     {
-      "title": "Kim Kardashian warned her 'career will be over' after presidential pardon meeting",
+      "title": "Panthers become first team to fire coach after two straight troubling losses",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "金·卡戴珊 (Kim Kardashian) 在总统赦免会议后警告她的“职业生涯将结束”"
+      "title_zh": "黑豹队在连续两场令人不安的失利后成为第一支解雇教练的球队"
     },
     {
-      "title": "Retail giant rolls out $200 Thanksgiving dinner deal packed with holiday favorites",
+      "title": "Oil giants post billions in profits as Americans feel pain at the pump",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "零售巨头推出 200 美元感恩节晚餐优惠，包含节日最爱"
+      "title_zh": "石油巨头公布数十亿美元利润，而美国人却感到油泵疼痛"
     },
     {
-      "title": "E. coli outbreak lands 3 in hospital, health officials investigate link to pumpkin patch",
+      "title": "Dem told lawmaker to pursue Omar ethics complaint himself, 2019 letter reveals",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大肠杆菌爆发导致 3 人住院，卫生官员调查与南瓜地的联系"
+      "title_zh": "2019 年信件显示，民主党要求议员亲自提起奥马尔道德投诉"
     },
     {
-      "title": "Netanyahu's bloc loses majority as longtime allies reportedly weigh move that could oust him",
-      "link": "",
+      "title": "U.S. attorney for Alaska gives update on Dan J. Sullivan ballot investigation",
+      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-rally-florida-comey-peltola-2026-congress-live-updates-rcna606478",
       "summary": "",
       "published": "",
-      "title_zh": "内塔尼亚胡的集团失去了多数席位，据报道长期盟友正在权衡可能驱逐他的举动"
+      "title_zh": "阿拉斯加州检察官提供丹·沙利文选票调查的最新情况"
     },
     {
-      "title": "New immunotherapy shows promise in fight against dangerous form of cancer",
-      "link": "",
+      "title": "Appeals court again rejects DOJ’s bid to segregate alleged noncitizen ballots in California",
+      "link": "https://www.nbcnews.com/politics/trump-administration/appeals-court-rejects-justice-department-noncitizen-ballots-rcna606604",
       "summary": "",
       "published": "",
-      "title_zh": "新的免疫疗法有望对抗危险的癌症"
+      "title_zh": "上诉法院再次驳回司法部在加州隔离所谓非公民选票的提议"
     },
     {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "link": "",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "title": "Anti-Muslim rhetoric crescendos at the end of the heated Michigan Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/anti-muslim-rhetoric-crescendos-end-heated-michigan-senate-race-rcna605696",
+      "summary": "",
       "published": "",
-      "title_zh": "美国囚犯克里斯塔·派克 (Christa Pike) 表示，在执行失败后，她醒来时感到“困惑和痛苦”",
-      "summary_zh": "这是派克自 9 月份在注射死刑中幸存以来首次发表公开声明。"
+      "title_zh": "激烈的密歇根州参议院竞选结束时，反穆斯林言论愈演愈烈"
     },
     {
-      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-      "link": "",
-      "summary": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
+      "title": "Alaskans will decide whether to keep ranked choice voting amid Senate race saga",
+      "link": "https://www.nbcnews.com/politics/2026-election/alaskans-will-decide-whether-keep-ranked-choice-voting-senate-race-sag-rcna606341",
+      "summary": "",
       "published": "",
-      "title_zh": "在比赛中弄脏自己的 Hyrox 运动员告诉 BBC：“我做出了错误的决定”",
-      "summary_zh": "在事件发生后的第一次采访中，乔安娜·维茨克 (Joanna Wietrzyk) 告诉 BBC，她对此负有责任，但不应该受到如此严重的抵制。"
+      "title_zh": "阿拉斯加人将决定是否在参议院竞选传奇中保留排名选择投票"
     },
     {
-      "title": "Police in Scotland carrying out 'active inquiries' into Andrew and Epstein visits to royal castle",
-      "link": "",
-      "summary": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
+      "title": "Democrats and Republicans take different paths in closing TV ads for Senate races",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-republicans-take-different-paths-try-win-senate-rcna606473",
+      "summary": "",
       "published": "",
-      "title_zh": "苏格兰警方对安德鲁和爱泼斯坦参观皇家城堡进行“积极调查”",
-      "summary_zh": "警方表示已收到信息，并强调其调查仍处于“早期阶段”。"
+      "title_zh": "民主党和共和党在关闭参议院竞选电视广告方面采取了不同的方式"
     },
     {
-      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-      "link": "",
-      "summary": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+      "title": "As Ossoff builds a Senate race lead, governor candidates vie for his backers",
+      "link": "https://www.nbcnews.com/politics/2026-election/jon-ossoff-builds-senate-race-lead-georgia-governor-candidates-voters-rcna604857",
+      "summary": "",
       "published": "",
-      "title_zh": "伊恩·麦凯伦爵士在“深受喜爱的演员”帕特里克·斯图尔特爵士逝世后悼念他，享年 86 岁",
-      "summary_zh": "这位演员在经历了阿尔茨海默病和路易体痴呆症的“短暂而痛苦的旅程”后在洛杉矶去世。"
+      "title_zh": "随着奥索夫在参议院竞选中取得领先，州长候选人争夺他的支持者"
     },
     {
-      "title": "Watch: Iconic moments from Sir Patrick Stewart's career",
-      "link": "",
-      "summary": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
+      "title": "Why health and sleep experts oppose permanent daylight saving time",
+      "link": "https://www.nbcnews.com/health/health-news/daylight-saving-time-permanent-dark-mornings-health-experts-oppose-rcna606395",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：帕特里克·斯图尔特爵士职业生涯的标志性时刻",
-      "summary_zh": "他的发言人表示，这位著名的英国演员在经历了阿尔茨海默病和路易体痴呆症的“短暂而痛苦的旅程”后去世。"
+      "title_zh": "为什么健康和睡眠专家反对永久夏令时"
     },
     {
-      "title": "Democrats have an identity crisis - it won't be easy to fix",
-      "link": "",
-      "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
+      "title": "A force awakens at LA28 as Kathleen Kennedy steps into new role",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/kathleen-kennedy-new-role-la-2028-olympics-rcna606463",
+      "summary": "",
       "published": "",
-      "title_zh": "民主党面临身份危机——解决起来并不容易",
-      "summary_zh": "无论中期选举结果如何，该党都面临着关于他们的立场和谁应该代表他们的棘手问题。"
+      "title_zh": "凯瑟琳·肯尼迪 (Kathleen Kennedy) 进入新角色后，LA28 的一股力量觉醒了"
     },
     {
-      "title": "What's at stake for Trump in the US midterms?",
-      "link": "",
-      "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "title": "ICE officer is indicted after striking, injuring immigrant with his vehicle in Houston",
+      "link": "https://www.nbcnews.com/news/us-news/ice-agent-indicted-striking-injuring-immigrant-vehicle-houston-rcna606370",
+      "summary": "",
       "published": "",
-      "title_zh": "美国中期选举对特朗普来说有何利害关系？",
-      "summary_zh": "安东尼·祖彻 (Anthony Zurcher) 解释了中期选举的结果将如何重塑特朗普剩余的总统任期。"
+      "title_zh": "ICE 官员在休斯敦驾车袭击并伤害移民后被起诉"
     },
     {
-      "title": "A life in pictures",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "link": "",
-      "summary": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
       "published": "",
-      "title_zh": "图片中的生活",
-      "summary_zh": "他在舞台和银幕上的职业生涯跨越了七十年，但他在历史上一些最受欢迎的科幻系列中的角色定义了他的职业生涯。"
+      "title_zh": "随着人工智能支出接近 1 万亿美元，美国科技股大幅下跌",
+      "summary_zh": "英特尔股价继续下跌，而以科技股为主的纳斯达克指数开盘创下两个多月以来的最低水平。"
     },
     {
-      "title": "From watching Star Trek to knighthood - memorable BBC moments",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "link": "",
-      "summary": "The actor was a familiar face across the BBC over the years, appearing on programmes like The Graham Norton Show and HARDTalk.",
+      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
       "published": "",
-      "title_zh": "从观看《星际迷航》到成为骑士 - 令人难忘的 BBC 时刻",
-      "summary_zh": "多年来，这位演员是 BBC 的一张熟悉面孔，出现在《格雷厄姆·诺顿秀》和《HARDTalk》等节目中。"
+      "title_zh": "教皇利奥十四世成为第一位在美国大选中投票的教皇",
+      "summary_zh": "这位出生于芝加哥的教皇与特朗普关系紧张，他邮寄了一张中期选举选票，该选举将决定美国国会的控制权。"
     },
     {
-      "title": "An actor who moved effortlessly between Star Trek and Shakespeare",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
       "link": "",
-      "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
       "published": "",
-      "title_zh": "一位在《星际迷航》和莎士比亚之间轻松游走的演员",
-      "summary_zh": "这位英国演员的职业生涯始于舞台，后来以企业号航空母舰舰长的身份成名。"
+      "title_zh": "加拿大停止使用“雪崩犬”在落基山脉进行救援，引发愤怒",
+      "summary_zh": "作为政府预算削减的一部分，一项已有 55 年历史的狗救援计划被取消，该计划在加拿大荒野中寻找失踪的徒步旅行者和儿童。"
     },
     {
-      "title": "Who could be behind the Binance hack and what we know so far",
+      "title": "How Kenyans got caught in $130m US ghost student scam",
       "link": "",
-      "summary": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
+      "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
       "published": "",
-      "title_zh": "谁可能是币安黑客事件的幕后黑手以及我们目前所知的情况",
-      "summary_zh": "币安遭受了可能是有史以来最大的加密货币黑客攻击 - 这是我们迄今为止所知道的"
+      "title_zh": "肯尼亚人如何陷入价值 1.3 亿美元的美国幽灵学生骗局",
+      "summary_zh": "据称，该计划利用被盗身份来索取美国学生援助，其中包括肯尼亚人。"
     },
     {
-      "title": "Democrats in the US are united against Trump - but divided on their future",
+      "title": "You could be missing out on some fibre in fruits and vegetables, experts say",
       "link": "",
-      "summary": "Whatever the result of the midterm elections, the party is facing tough questions over what they stand for and who should represent them.",
+      "summary": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
       "published": "",
-      "title_zh": "美国民主党团结一致反对特朗普，但对未来存在分歧",
-      "summary_zh": "无论中期选举结果如何，该党都面临着关于他们的立场和谁应该代表他们的棘手问题。"
+      "title_zh": "专家说，你可能会错过水果和蔬菜中的一些纤维",
+      "summary_zh": "食品科学家说，咀嚼蔬菜皮、种子和茎可以为我们提供重要的纤维。"
     },
     {
-      "title": "What we know about Binance's $6.3bn hack",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "link": "",
-      "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "published": "",
-      "title_zh": "我们对币安 63 亿美元黑客事件的了解",
-      "summary_zh": "网络记者 Joe Tidy 详细解释了疑似历史上最大的黑客攻击事件。"
+      "title_zh": "乌克兰罕见停火期间数百人从俄罗斯占领的奥列什基撤离",
+      "summary_zh": "据了解，尽管存在危险，仍有数百人留在前线城镇。"
     },
     {
-      "title": "'Continue your journey': Key moments in leaked Spain train crash audio",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
       "link": "",
-      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+      "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
       "published": "",
-      "title_zh": "“继续你的旅程”：泄露的西班牙火车事故音频中的关键时刻",
-      "summary_zh": "控制中心和火车司机之间的录音似乎显示，尽管另一列火车已经停在轨道上，但一列火车仍获得了移动许可。"
+      "title_zh": "中国否认针对英伟达首席执行官的间谍活动指控",
+      "summary_zh": "据《纽约时报》报道，美国情报官员认为一名中国女商人正在为北京收集有关这家美国芯片制造巨头的信息。"
     },
     {
-      "title": "'I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle",
+      "title": "Police watchdog to investigate Met over letter about Meghan's father",
       "link": "",
-      "summary": "Chef Gareth Ward defends how he operates in documentary after Ynyshir got a one-star hygiene rating.",
+      "summary": "The police force faces probe over its handling of a letter containing allegations about Meghan's father.",
       "published": "",
-      "title_zh": "米其林星级餐厅主厨在食品卫生问题发生后表示：“我经营的厨房一尘不染”",
-      "summary_zh": "在 Ynyshir 获得一星卫生评级后，主厨加雷斯·沃德 (Gareth Ward) 在纪录片中为自己的烹饪方式进行了辩护。"
+      "title_zh": "警方监管机构将就有关梅根父亲的信件调查大都会博物馆",
+      "summary_zh": "警方因处理一封包含有关梅根父亲指控的信件而面临调查。"
+    },
+    {
+      "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+      "link": "",
+      "summary": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
+      "published": "",
+      "title_zh": "法庭获悉，拉塞尔·布兰德（Russell Brand）指控者多年来因涉嫌犯罪而“困扰”",
+      "summary_zh": "检察官表示，除了“一些结案”之外，涉案女性“没有任何收获”。"
+    },
+    {
+      "title": "Ronaldo closes in on 1,000th goal with hat-trick",
+      "link": "",
+      "summary": "Cristiano Ronaldo scores the 67th hat-trick of his career in Al-Nassr's 5-3 win against Al-Kholood in the Saudi Pro League.",
+      "published": "",
+      "title_zh": "C罗上演帽子戏法，接近第1000个进球",
+      "summary_zh": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在沙特职业联赛中阿尔·纳赛尔 (Al-Nassr) 5-3 战胜阿尔·霍卢德 (Al-Kholood) 的比赛中上演了职业生涯第 67 次帽子戏法。"
+    },
+    {
+      "title": "Leclerc fastest in Mexico City Grand Prix first practice",
+      "link": "",
+      "summary": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+      "published": "",
+      "title_zh": "勒克莱尔在墨西哥城大奖赛首次练习赛中最快",
+      "summary_zh": "法拉利车队的查尔斯·勒克莱尔在墨西哥城大奖赛的第一场练习赛中取得了最快成绩。"
     }
   ]
 }
