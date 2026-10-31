@@ -1,6 +1,6 @@
 {
   "date": "20261031",
-  "total": 39,
+  "total": 27,
   "sources": {
     "fox": {
       "status": "ok",
@@ -37,289 +37,201 @@
   },
   "entries": [
     {
-      "title": "UK PM Burnham 'open' to calls for slavery apology but not reparations",
-      "link": "",
-      "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
-      "published": "",
-      "title_zh": "英国首相伯纳姆“开放”呼吁就奴隶制道歉但不赔偿",
-      "summary_zh": "尽管一些英联邦领导人多次呼吁，但英国政府从未就奴隶制问题正式道歉。"
-    },
-    {
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "link": "",
-      "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "published": "",
-      "title_zh": "观看：献血者在泰国遭遇万圣节惊吓",
-      "summary_zh": "泰国红十字会工作人员盛装打扮，参加该国首都曼谷举行的万圣节主题献血活动。"
-    },
-    {
-      "title": "Riot police deployed during stand-off over control of top Poland court",
-      "link": "",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "published": "",
-      "title_zh": "波兰最高法院控制权对峙期间部署防暴警察",
-      "summary_zh": "事态升级之前，政府暂停了两名高级法官的职务，并对他们提出刑事指控。"
-    },
-    {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "link": "",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "published": "",
-      "title_zh": "拯救受到特朗普关税威胁的加拿大小镇的斗争",
-      "summary_zh": "美国对魁北克省特米斯卡明的一家百年造纸厂的产品征收 50% 的关税后，该厂被无限期关闭，导致数百人失业。"
-    },
-    {
-      "title": "Watch: How US mail-in votes are secured and counted",
-      "link": "",
-      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "published": "",
-      "title_zh": "观看：美国邮寄选票如何获得和计算",
-      "summary_zh": "BBC verify 前往选举中心，深入了解美国中期选举邮寄选票的处理方式。"
-    },
-    {
-      "title": "When a wedding fell apart, 11 strangers helped create something unforgettable",
-      "link": "",
-      "summary": "Bridget Devaney turned to the internet with a proposal that sounded equal parts hopeful and improbable - come to Ireland and celebrate the wedding that never happened.",
-      "published": "",
-      "title_zh": "当一场婚礼破裂时，11 位陌生人帮助打造了令人难忘的婚礼",
-      "summary_zh": "布里吉特·德瓦尼 (Bridget Devaney) 在互联网上提出了一个听起来既充满希望又不太可能的提议——来爱尔兰庆祝从未发生过的婚礼。"
-    },
-    {
-      "title": "A simple guide to the midterms",
-      "link": "",
-      "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
-      "published": "",
-      "title_zh": "期中考试的简单指南",
-      "summary_zh": "美国选民将于 11 月 3 日前往投票站，此次投票可能会对唐纳德·特朗普的总统任期产生重大影响。"
-    },
-    {
-      "title": "Who will win? How the elections will be won and lost",
-      "link": "",
-      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-      "published": "",
-      "title_zh": "谁会赢？选举将如何获胜和失败",
-      "summary_zh": "深入探讨选举前的关键民意调查、竞选和问题，这些将决定特朗普作为总统的最后两年。"
-    },
-    {
-      "title": "What's at stake for Trump?",
-      "link": "",
-      "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-      "published": "",
-      "title_zh": "特朗普的利害关系是什么？",
-      "summary_zh": "安东尼·祖彻 (Anthony Zurcher) 解释了中期选举的结果将如何重塑特朗普剩余的总统任期。"
-    },
-    {
-      "title": "Global nature talks reach deal but money remains an issue",
-      "link": "",
-      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "published": "",
-      "title_zh": "全球自然谈判达成协议，但资金仍然是一个问题",
-      "summary_zh": "各国一直在努力达成一项全球协议，以阻止自然衰退重回正轨。"
-    },
-    {
-      "title": "UK Celebrity Traitors comes to a climax in nail-biting final",
-      "link": "",
-      "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
-      "published": "",
-      "title_zh": "英国名人叛徒在紧张的决赛中达到高潮",
-      "summary_zh": "该剧第二季在吸引了 1500 万观众后于周五达到了高潮。"
-    },
-    {
-      "title": "Judge investigating whether Trump administration lied about golf course renovations",
-      "link": "",
-      "summary": "A judge grilled Trump lawyers about what they knew of plans to close the golf course next month and said .",
-      "published": "",
-      "title_zh": "法官调查特朗普政府是否在高尔夫球场翻修问题上撒谎",
-      "summary_zh": "一名法官盘问了特朗普的律师，询问他们对下个月关闭高尔夫球场的计划的了解，并表示。"
-    },
-    {
-      "title": "Trump to hold telerallies as he questions final campaign push",
-      "link": "https://www.example.com/2026/10/31/politics/live-news/midterm-election-congress",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普将举行电话集会，质疑最终竞选推动力"
-    },
-    {
-      "title": "Iran’s supreme leader issues sweeping threat to US, Israel, vows 'unrestricted' response",
+      "title": "Battleground state shatters midterm early voting record with 3 days until Election Day",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗最高领袖对美国和以色列发出全面威胁，誓言“不受限制”回应"
+      "title_zh": "距选举日还有 3 天，战场州打破了中期提前投票记录"
     },
     {
-      "title": "Landmark ruling may not protect Omar as Trump pushes to oust her from Congress",
+      "title": "Ilhan Omar lawyers up during immigration fraud probe with longtime anti-Trump counsel",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普推动将奥马尔逐出国会，具有里程碑意义的裁决可能无法保护她"
+      "title_zh": "伊尔汗·奥马尔（Ilhan Omar）律师在移民欺诈调查中与长期反特朗普律师合作"
     },
     {
-      "title": "Alaska voters blast Peltola campaign over alleged 'other Dan Sullivan' spoiler scheme",
+      "title": "Rubio says if Trump has 'made a decision' on whether to resume strikes on Iran",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿拉斯加州选民抨击佩尔托拉竞选团队涉嫌“另一个丹·沙利文”扰乱计划"
+      "title_zh": "卢比奥表示特朗普是否已“做出决定”是否恢复对伊朗的打击"
     },
     {
-      "title": "Troubling discovery on state voter rolls sparks action days before midterms",
+      "title": "Jack Smith's Trump indictment now haunts Democrats in 'Decoy Dan' probe",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "州选民名册上令人不安的发现引发了中期选举前几天的行动"
+      "title_zh": "杰克·史密斯对特朗普的起诉现在在“诱饵丹”调查中困扰着民主党人"
     },
     {
-      "title": "Federal judge blocks Trump DOJ threats against election workers ahead of crucial midterms",
+      "title": "ASRA NOMANI:Far-left group adds muscle to well-funded fight to ban restaurant delicacy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦法官阻止特朗普司法部在关键的中期选举之前对选举工作人员发出威胁"
+      "title_zh": "ASRA NOMANI：极左组织为资金充足的禁止餐厅美食的斗争增添了力量"
     },
     {
-      "title": "Towns hit by teen mob violence lock down Halloween with curfews and extra officers",
+      "title": "New York and LA didn't win America's best mega airport title, but one Midwest hub did",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "遭受青少年暴徒暴力袭击的城镇通过宵禁和增派警察来封锁万圣节"
+      "title_zh": "纽约和洛杉矶没有赢得美国最佳大型机场称号，但中西部的一个枢纽机场却赢得了这一称号"
     },
     {
-      "title": "Iranian-born activist says 'insane' ideology drove her to break with leftist allies",
+      "title": "Major US children's hospital opens historic detransition clinic after $10M legal clash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗出生的活动人士表示，“疯狂”的意识形态驱使她与左翼盟友决裂"
+      "title_zh": "美国大型儿童医院在价值 1000 万美元的法律冲突后开设历史性的变性诊所"
     },
     {
-      "title": "Women may have a secret advantage over men when drinking bourbon, experts say",
+      "title": "Workers extracting gravel discover ancient treasure large enough to forge 500 swords",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家称，女性在喝波本威士忌时可能比男性有一个秘密优势"
+      "title_zh": "开采砾石的工人发现了足以锻造 500 把剑的古代宝藏"
     },
     {
-      "title": "Trump admin accuses South African politicians of fueling violence against White farmers",
+      "title": "US Embassy warns of credible 'mass casualty' threat at Moscow tourist attraction",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普政府指责南非政客助长针对白人农民的暴力行为"
+      "title_zh": "美国大使馆警告莫斯科旅游景点存在可信的“大规模伤亡”威胁"
     },
     {
-      "title": "Bill Belichick is a free agent after breakup with 25-year-old girlfriend",
+      "title": "France deploys 70,000 police as Halloween masks raise fears of fresh unrest",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "比尔·贝利切克 (Bill Belichick) 与 25 岁女友分手后成为自由球员"
+      "title_zh": "万圣节面具引发新一轮骚乱 法国部署7万名警察"
     },
     {
-      "title": "Marvel star blew out blood vessels 'wildly overacting' and paid a gruesome price",
+      "title": "Maine school official cites Islamic beliefs about dogs as district considers pet policy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "漫威明星“表现过度”炸断血管并付出了可怕的代价"
+      "title_zh": "缅因州学校官员在学区考虑宠物政策时引用了关于狗的伊斯兰教信仰"
     },
     {
-      "title": "Self-described warlock and his younger girlfriend lured Tinder victim to build a coven",
+      "title": "Pizza delivery worker's heartbreaking reaction to cruel prank sparks nearly $680K in help",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "自称术士和他年轻的女朋友引诱 Tinder 受害者建立一个集会"
+      "title_zh": "披萨外卖工人对残酷恶作剧的令人心碎的反应引发了近 68 万美元的帮助"
     },
     {
-      "title": "Travelers name two Southern airports as the best in North America",
+      "title": "Halloween couples' costumes reach new heights with Heidi Klum and more stars",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "旅行者将两个南方机场评为北美最佳机场"
+      "title_zh": "海蒂·克拉姆等明星演绎万圣节情侣装再创新高"
     },
     {
-      "title": "Real estate CEO and family shot, attacked with hammer in home invasion robbery",
+      "title": "Business owner swipes e-bike takeover as city struggles to rein in chaos",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "房地产首席执行官和家人入室抢劫中被枪杀并被锤子袭击"
+      "title_zh": "随着城市努力控制混乱，企业主接管了电动自行车"
     },
     {
-      "title": "Deadly shooting erupts inside Spirit Halloween store on Halloween eve",
+      "title": "Florida and Georgia fans are fuming over today's venue for multiple reasons, but one sticks out",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "万圣节前夜 Spirit 万圣节商店内爆发致命枪击事件"
+      "title_zh": "佛罗里达州和佐治亚州的球迷因多种原因对今天的场地感到愤怒，但有一个原因很突出"
     },
     {
-      "title": "Ancient cargo found in river may solve 2,000-year-old shipwreck mystery",
+      "title": "'Paper Moon' star Tatum O'Neal seen with family years after near-fatal stroke",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "河中发现的古代货物可能解开2000年前的沉船之谜"
+      "title_zh": "《纸月亮》明星塔图姆·奥尼尔在中风近乎致命数年后与家人见面"
     },
     {
-      "title": "Democrats in key battlegrounds throw Joe Biden under the bus on the border",
-      "link": "https://www.nbcnews.com/politics/2026-election/2026-democratic-candidates-throw-joe-biden-bus-border-security-rcna603228",
+      "title": "Bill Belichick is back on the dating market after reported split with 25-year-old girlfriend",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Democrats in key battlegrounds throw Joe Biden under the bus on the border"
+      "title_zh": "比尔·贝利奇克 (Bill Belichick) 在与 25 岁女友分手后重返约会市场"
     },
     {
-      "title": "Judge orders Trump administration to stop threatening election officials",
-      "link": "https://www.nbcnews.com/politics/politics-news/live-blog/trump-administration-rally-midterm-election-peltola-live-updates-rcna606665",
+      "title": "Can men and women really be just friends? Expert highlights what changes everything",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法官命令特朗普政府停止威胁选举官员"
+      "title_zh": "男人和女人真的可以只是朋友吗？专家强调是什么改变了一切"
     },
     {
-      "title": "In Michigan’s Senate race, everything is on the table — even football",
-      "link": "https://www.nbcnews.com/politics/congress/michigan-midterm-election-abdul-el-sayed-mike-rogers-football-politics-rcna600558",
+      "title": "Virginia and Washington, D.C., sue to stop proposed Trump arch",
+      "link": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
       "summary": "",
       "published": "",
-      "title_zh": "在密歇根州参议员竞选中，一切都摆在桌面上——甚至包括足球"
+      "title_zh": "弗吉尼亚州和华盛顿特区提起诉讼，要求阻止拟议的特朗普拱门"
     },
     {
-      "title": "Manhunt launched after California Spirit Halloween shooting leaves 1 dead, 6 injured",
-      "link": "https://www.nbcnews.com/news/us-news/manhunt-california-spirit-halloween-shooting-dead-injured-police-rcna606673",
-      "summary": "",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "link": "",
+      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
       "published": "",
-      "title_zh": "加州精神万圣节枪击事件造成 1 人死亡、6 人受伤后展开搜捕"
+      "title_zh": "奥列什基撤离者与亲人情感团聚",
+      "summary_zh": "在暂时停火后，奥列什基居民乘坐巴士和救护车抵达乌克兰北部与白俄罗斯边境后，BBC 的丹·约翰逊前往乌克兰北部与白俄罗斯边境。"
     },
     {
-      "title": "So long, pre-8 a.m. sunrise: What the impact of permanent daylight saving time would be",
-      "link": "https://www.nbcnews.com/data-graphics/data-maps-daylight-saving-time-change-six-graphics-rcna606369",
-      "summary": "",
+      "title": "Ethiopian PM puts ministers through military training",
+      "link": "",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
       "published": "",
-      "title_zh": "这么久了，早上 8 点日出之前：永久夏令时会产生什么影响"
+      "title_zh": "埃塞俄比亚总理让部长们接受军事训练",
+      "summary_zh": "总理此前曾强调军事准备是其政府雄心的核心。"
     },
     {
-      "title": "A first-time World Series winner, and a luxury cruise goes horribly wrong: The news quiz",
-      "link": "https://www.nbcnews.com/news/news-quiz/super-bowl-halftime-show-news-quiz-rcna606368",
-      "summary": "",
+      "title": "Clashes erupt between police and protesters in Paris",
+      "link": "",
+      "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
       "published": "",
-      "title_zh": "首次获得世界大赛冠军，豪华游轮却出了严重问题：新闻测验"
+      "title_zh": "巴黎警察与抗议者爆发冲突",
+      "summary_zh": "法国各地有超过 32 万人在第三个周末举行示威活动，抗议生活成本上涨和公共服务不佳。"
     },
     {
-      "title": "The cruise of a lifetime was one thing — getting home after its abrupt end is its own adventure",
-      "link": "https://www.nbcnews.com/news/us-news/cruise-lifetime-was-one-thing-getting-home-abrupt-end-adventure-rcna606272",
-      "summary": "",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
       "published": "",
-      "title_zh": "一生难忘的航行是一回事——在突然结束后回家本身就是一场冒险"
+      "title_zh": "加密货币公司 Binance 承担 63 亿美元黑客攻击后 90% 的损失",
+      "summary_zh": "两家分析公司表示，他们掌握的可靠情报表明，朝鲜国家支持的组织可能是罪魁祸首。"
     },
     {
-      "title": "Europe braces for massive Halloween weekend protests over cost of living",
-      "link": "https://www.nbcnews.com/world/europe/europe-braces-massive-halloween-protests-cost-living-public-services-rcna606671",
-      "summary": "",
+      "title": "The twists and turns that led a former president to become a rebel leader",
+      "link": "",
+      "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
       "published": "",
-      "title_zh": "欧洲准备迎接针对生活成本的大规模万圣节周末抗议活动"
+      "title_zh": "前总统成为叛军领袖的曲折历程",
+      "summary_zh": "约瑟夫·卡比拉发起新的反叛运动对刚果民主共和国意味着什么？"
     },
     {
-      "title": "A beauty queen vanishes, leaving a small town gripped by suspicion",
-      "link": "https://www.nbcnews.com/dateline/video/the-orchard-272525381791",
-      "summary": "",
+      "title": "Starmer tells Dublin event Europe can no longer rely on US to 'bankroll' its defence",
+      "link": "",
+      "summary": "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies.",
       "published": "",
-      "title_zh": "选美皇后失踪，小镇陷入怀疑"
+      "title_zh": "斯塔默告诉都柏林活动，欧洲不能再依赖美国为其防御提供“资金”",
+      "summary_zh": "基尔爵士警告说，“事情不会回到原来的样子”，因为他说美国明确表示将不再“资助”其盟友。"
     },
     {
-      "title": "Anxiety grips Russian men over fears Putin will launch a stealthy draft",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-war-draft-russian-men-fear-new-stealthy-mobilization-putin-rcna605921",
-      "summary": "",
+      "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+      "link": "",
+      "summary": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
       "published": "",
-      "title_zh": "俄罗斯男人因担心普京将发起秘密征兵而感到焦虑"
+      "title_zh": "“这简直要了我的命！”名人叛徒获奖者松了一口气，秘密已经揭晓",
+      "summary_zh": "该热门节目第二季于周五迎来大结局，吸引了多达 1120 万现场观众。"
+    },
+    {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "link": "",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "published": "",
+      "title_zh": "西班牙火车灾难给桑切斯连任的机会蒙上阴影",
+      "summary_zh": "距离提前大选仅几周时间，西班牙首相遭遇一系列危机。"
     }
   ]
 }
