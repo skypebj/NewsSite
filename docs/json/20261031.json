@@ -1,0 +1,335 @@
+{
+  "date": "20261031",
+  "total": 40,
+  "sources": {
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Judge orders Trump administration to stop threatening election officials",
+      "link": "https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659",
+      "summary": "",
+      "published": "",
+      "title_zh": "法官命令特朗普政府停止威胁选举官员"
+    },
+    {
+      "title": "DOJ requests separating Alaska ballots that rank Dan J. Sullivan in Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/doj-requests-separating-alaska-ballots-rank-dan-j-sullivan-senate-race-rcna606646",
+      "summary": "",
+      "published": "",
+      "title_zh": "司法部要求将丹·沙利文 (Dan J. Sullivan) 在参议院竞选中的阿拉斯加选票分开"
+    },
+    {
+      "title": "Haley Stevens and Abdul El-Sayed clash over Israel ad ahead of planned rally together",
+      "link": "https://www.nbcnews.com/politics/2026-election/haley-stevens-abdul-el-sayed-clash-israel-ad-ahead-sunday-rally-rcna606657",
+      "summary": "",
+      "published": "",
+      "title_zh": "海莉·史蒂文斯和阿卜杜勒·赛义德在计划集会前因以色列广告发生冲突"
+    },
+    {
+      "title": "How an explosive ad upended Ohio’s midterm elections",
+      "link": "https://www.nbcnews.com/politics/2026-election/explosive-ad-upended-ohio-midterm-elections-rcna605638",
+      "summary": "",
+      "published": "",
+      "title_zh": "爆炸性广告如何颠覆俄亥俄州中期选举"
+    },
+    {
+      "title": "U.S. set to deport Afghan refugees to Pakistan, despite risk they’ll be returned to Taliban",
+      "link": "https://www.nbcnews.com/news/us-news/trump-administration-set-deport-afghan-refugees-pakistan-rcna606059",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国将把阿富汗难民驱逐到巴基斯坦，尽管他们有被送回塔利班的风险"
+    },
+    {
+      "title": "Couple recalls ‘terrifying’ moment ICE officer punctured their car tire",
+      "link": "https://www.nbcnews.com/news/us-news/video-shows-ice-officer-running-puncturing-couples-tires-said-was-terr-rcna606629",
+      "summary": "",
+      "published": "",
+      "title_zh": "夫妇回忆起 ICE 官员刺破他们汽车轮胎的“可怕”时刻"
+    },
+    {
+      "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
+      "link": "https://www.nbcnews.com/world/italy/italy-strikes-violent-protests-rome-colosseum-meloni-army-rome-milan-rcna606503",
+      "summary": "",
+      "published": "",
+      "title_zh": "意大利面临大范围罢工和港口封锁，总理部署军队"
+    },
+    {
+      "title": "Outcry prompts ‘Call of Duty’ to cut Seoul tragedy footage",
+      "link": "https://www.nbcnews.com/world/asia/outcry-prompts-call-duty-cut-seoul-tragedy-footage-rcna606496",
+      "summary": "",
+      "published": "",
+      "title_zh": "强烈抗议促使《使命召唤》删减首尔悲剧片段"
+    },
+    {
+      "title": "Democrat civil war erupts as El-Sayed tells Stevens to stay away from campaign events in final days",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃尔-赛义德告诉史蒂文斯在最后几天远离竞选活动，民主党内战爆发"
+    },
+    {
+      "title": "Polish president turns plane around after 'coup' at nation’s top court",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "波兰总统在国家最高法院发生“政变”后调转飞机"
+    },
+    {
+      "title": "Fourth oil tanker carrying more than 2 million barrels explodes in the Strait of Hormuz: report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "第四艘载有超过200万桶的油轮在霍尔木兹海峡爆炸：报告"
+    },
+    {
+      "title": "Spanberger administration restores voting rights to dog that died five years ago",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "斯潘伯格政府恢复五年前去世的狗的投票权"
+    },
+    {
+      "title": "Omar's Minnesota firewall is now cracking as Dem operative makes blunt admission",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党特工直言不讳地承认，奥马尔的明尼苏达防火墙现已破裂"
+    },
+    {
+      "title": "BOBBY BURACK:Troy Aikman accused his $108M co-host of sabotage as pair nears its end",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "鲍比·伯拉克（BOBBY BURACK）：特洛伊·艾克曼（Troy Aikman）指责他的价值 1.08 亿美元的联合主持人在两人即将结束时进行破坏活动"
+    },
+    {
+      "title": "Sheriff's department updates on Nancy Guthrie investigation 9 months after kidnapping",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "绑架 9 个月后，治安部门更新了南希·格思里 (Nancy Guthrie) 的调查情况"
+    },
+    {
+      "title": "DAVID MARCUS:California transplants in Texas are voting Democrat, yet they see no irony",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大卫·马库斯：德克萨斯州的加州移民正在投票给民主党，但他们并不觉得讽刺"
+    },
+    {
+      "title": "Oregon teacher who wrestled school gunman breaks silence on loss she'll carry forever",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "与学校枪手摔跤的俄勒冈州老师打破沉默，她将永远承受损失"
+    },
+    {
+      "title": "Coffee lovers put on alert as 6 million products from popular coffee maker recalled in the US",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "流行咖啡机的 600 万件产品在美国被召回，咖啡爱好者保持警惕"
+    },
+    {
+      "title": "Ex-NBA player Jason Williams gives his take on LeBron James' anthem habits",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前 NBA 球员贾森·威廉姆斯对勒布朗·詹姆斯的国歌习惯发表了自己的看法"
+    },
+    {
+      "title": "Fast-food giant allegedly misled customers about meat included in classic sandwich",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "快餐巨头涉嫌在经典三明治中含有肉类方面误导顾客"
+    },
+    {
+      "title": "3 killed after helicopters collide as federal investigators examine wreckage",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦调查人员检查残骸时直升机相撞，造成 3 人死亡"
+    },
+    {
+      "title": "Real estate CEO's family shot, bludgeoned with hammer in home attack",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "房地产首席执行官的家人在家中遭到枪击，并被锤子殴打"
+    },
+    {
+      "title": "Expert bartender breaks down the biggest mistakes people make mixing cocktails",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专业调酒师解析人们调配鸡尾酒时常犯的最大错误"
+    },
+    {
+      "title": "TUNE IN:DHS Secretary Markwayne Mullin joins 'Saturday in America'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "收听：国土安全部部长马克韦恩·穆林 (Markwayne Mullin) 加入“美国星期六”"
+    },
+    {
+      "title": "Report: Hulk Hogan's widow faces claim over alleged incident involving minor",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "报告：绿巨人霍根的遗孀因涉嫌涉及未成年人的事件而面临索赔"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "published": "",
+      "title_zh": "加密货币巨头币安试图追回在与朝鲜有关的黑客攻击中被盗的 63 亿美元",
+      "summary_zh": "该公司称这次网络攻击非常复杂，据信是有史以来规模最大的一次网络攻击。"
+    },
+    {
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "link": "",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "published": "",
+      "title_zh": "俄罗斯报纸创始人称他们勒死了我们 在当局的压力下被关闭",
+      "summary_zh": "过去三十年来，《新报》一直是俄罗斯最引人注目的独立新闻媒体之一。"
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "published": "",
+      "title_zh": "为什么朝鲜“精英”黑客是币安重大黑客攻击的首要嫌疑人",
+      "summary_zh": "如果这些指控属实，这起创纪录的抢劫事件表明，朝鲜黑客嫌疑人的势力有多么强大。"
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "published": "",
+      "title_zh": "波兰最高法院控制权对峙期间部署警察",
+      "summary_zh": "事态升级之前，政府暂停了两名高级法官的职务，并对他们提出刑事指控。"
+    },
+    {
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "link": "",
+      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "published": "",
+      "title_zh": "他打扮成哈利·波特质疑泰国的君主制。现在他已经入狱34年了",
+      "summary_zh": "自 2020 年以来，泰国已根据冒犯君主法起诉了 294 人，刑期最高可达 50 年。"
+    },
+    {
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "link": "",
+      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+      "published": "",
+      "title_zh": "将咖喱带到美国的印度厨师 - 然后消失了",
+      "summary_zh": "印度厨师兰吉·斯迈尔 (Ranji Smile) 于 1901 年在美国开设了第一家印度餐厅，然后成为了一名假王子。"
+    },
+    {
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "link": "",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "published": "",
+      "title_zh": "特朗普的关税可能会关闭这个加拿大小镇 - 其居民正在努力拯救它",
+      "summary_zh": "美国对魁北克省特米斯卡明的一家百年造纸厂的产品征收 50% 的关税后，该厂被无限期关闭，导致数百人失业。"
+    },
+    {
+      "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+      "link": "",
+      "summary": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
+      "published": "",
+      "title_zh": "他 28 年前离开，现在经过 36,000 英里，卡尔·布什比 (Karl Bushby) 快到家了",
+      "summary_zh": "阔别 28 年后，全球步行者卡尔·布什比 (Karl Bushby) 的旅程即将结束。"
+    },
+    {
+      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+      "link": "",
+      "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+      "published": "",
+      "title_zh": "“领带已死”：美国中期候选人如何着装争取选票",
+      "summary_zh": "从阿拉斯加到德克萨斯州，着眼于国会的候选人正在利用自己的个人风格脱颖而出。"
+    },
+    {
+      "title": "Soaring cost of Halloween treats spooks shoppers",
+      "link": "",
+      "summary": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+      "published": "",
+      "title_zh": "万圣节礼物费用飙升让购物者感到不安",
+      "summary_zh": "糖果（尤其是巧克力）的价格上涨，万圣节讨价还价的人正在寻找优惠和削减成本的方法。"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "",
+      "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "published": "",
+      "title_zh": "因俄罗斯部长出席抗议而取消G20“全家福”",
+      "summary_zh": "英国外交大臣埃德·米利班德在会上与俄罗斯外长对质，指责其政府在乌克兰杀害无辜平民。"
+    },
+    {
+      "title": "Manhunt under way after Toronto CEO and family violently attacked in home invasion",
+      "link": "",
+      "summary": "The real estate mogul and his two daughters were shot, while his wife was assaulted with a hammer, in an attack that has shocked the city.",
+      "published": "",
+      "title_zh": "多伦多首席执行官及其家人在入室盗窃中遭到暴力袭击后正在进行搜捕",
+      "summary_zh": "这位房地产大亨和他的两个女儿被枪杀，他的妻子被锤子袭击，这次袭击震惊了整个城市。"
+    },
+    {
+      "title": "Celebrity Traitors comes to a climax in nail-biting final",
+      "link": "",
+      "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+      "published": "",
+      "title_zh": "名人叛徒在紧张的决赛中达到高潮",
+      "summary_zh": "该剧第二季在吸引了 1500 万观众后于周五达到了高潮。"
+    },
+    {
+      "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
+      "link": "",
+      "summary": "The Mexican national, who was living in the US without legal documentation, suffered multiple leg fractures and a hip injury, prosecutors said.",
+      "published": "",
+      "title_zh": "ICE 特工因在追捕过程中驾车撞倒德克萨斯州移民而被指控",
+      "summary_zh": "检察官称，这名墨西哥国民没有合法证件居住在美国，腿部多处骨折，臀部受伤。"
+    },
+    {
+      "title": "Villa to sue Carragher over 'unacceptable insults'",
+      "link": "",
+      "summary": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\".",
+      "published": "",
+      "title_zh": "维拉起诉卡拉格“不可接受的侮辱”",
+      "summary_zh": "阿斯顿维拉表示，他们将对杰米·卡拉格采取法律行动，因为俱乐部称其为“不可接受的侮辱”。"
+    }
+  ]
+}
