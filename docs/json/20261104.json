@@ -1,0 +1,314 @@
+{
+  "date": "20261104",
+  "total": 38,
+  "sources": {
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "",
+      "link": "https://www.nbcnews.com/now/video/texas-michigan-and-maine-voters-speak-out-at-polls-on-key-senate-races-272783429899",
+      "summary": "",
+      "published": ""
+    },
+    {
+      "title": "Exit poll: Voters cast ballots against Trump",
+      "link": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "summary": "",
+      "published": "",
+      "title_zh": "出口民意调查：选民投票反对特朗普"
+    },
+    {
+      "title": "Kornacki Cam: Watch Steve as results roll in",
+      "link": "https://www.nbcnews.com/video/watch-live-steve-kornacki-analyzes-midterm-election-results-live-all-night-long-272551493776",
+      "summary": "",
+      "published": "",
+      "title_zh": "科纳基·卡姆（Kornacki Cam）：观看史蒂夫的比赛结果"
+    },
+    {
+      "title": "Democrats have polling and history on their side in House races",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-republicans-battle-for-house-trump-washington-midterm-rcna605760",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党在众议院竞选中的民意调查和历史记录都站在他们一边"
+    },
+    {
+      "title": "GOP fights to hang on to Senate majority",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-fight-hold-senate-democrats-rcna605762",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党力争保住参议院多数席位"
+    },
+    {
+      "title": "Routine voting issues fuel conspiracy theories and confusion",
+      "link": "https://www.nbcnews.com/tech/misinformation/routine-voting-issues-fuel-conspiracy-theories-confusion-rcna607287",
+      "summary": "",
+      "published": "",
+      "title_zh": "例行投票问题助长阴谋论和混乱"
+    },
+    {
+      "title": "The midterms are over, and Trump is over the midterms",
+      "link": "https://www.nbcnews.com/politics/donald-trump/midterms-are-trump-midterms-rcna607227",
+      "summary": "",
+      "published": "",
+      "title_zh": "中期选举结束了，特朗普也结束了中期选举"
+    },
+    {
+      "title": "Indiana early voting shows substantial lead for Democrats",
+      "link": "https://www.nbcnews.com/video/indiana-early-voting-shows-substantial-lead-for-democrats-272808517557",
+      "summary": "",
+      "published": "",
+      "title_zh": "印第安纳州提前投票显示民主党大幅领先"
+    },
+    {
+      "title": "NBC News exit polls compare voters' thoughts on Trump's economy in 2018 and 2026",
+      "link": "https://www.nbcnews.com/now/video/nbc-news-exit-polls-compare-voters-thoughts-on-trump-s-economy-in-2018-and-2026-272804933545",
+      "summary": "",
+      "published": "",
+      "title_zh": "NBC News 出口民意调查比较了选民对 2018 年和 2026 年特朗普经济的看法"
+    },
+    {
+      "title": "DOJ sending election monitors to all 50 states for the first time in U.S. history",
+      "link": "https://www.nbcnews.com/now/video/doj-sending-election-monitors-to-all-50-states-for-the-first-time-in-u-s-history-272787013728",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国司法部历史上首次向所有 50 个州派遣选举监察员"
+    },
+    {
+      "title": "Democrats push into deep red states to flip Senate",
+      "link": "https://www.nbcnews.com/now/video/democrats-push-into-deep-red-states-to-flip-senate-272779845768",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党进军深红色州以推翻参议院"
+    },
+    {
+      "title": "Highest gas prices for Election Day in U.S. history",
+      "link": "https://www.nbcnews.com/now/video/highest-gas-prices-for-election-day-in-u-s-history-272776773863",
+      "summary": "",
+      "published": "",
+      "title_zh": "选举日汽油价格创下美国历史最高纪录"
+    },
+    {
+      "title": "Critical Learjet piece found miles from crash site in Florida",
+      "link": "https://www.nbcnews.com/news/us-news/important-piece-learjet-found-miles-crash-site-florida-rcna607333",
+      "summary": "",
+      "published": "",
+      "title_zh": "里尔喷气式飞机的关键部件在距离佛罗里达州坠机地点数英里的地方被发现"
+    },
+    {
+      "title": "US voters name economy and state of democracy as top issues, poll says",
+      "link": "",
+      "summary": "A major election day survey suggests voters are the most unhappy with the economy.",
+      "published": "",
+      "title_zh": "民意调查显示，美国选民将经济和民主状况列为首要问题",
+      "summary_zh": "选举日的一项重大调查显示，选民对经济最不满意。"
+    },
+    {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "link": "",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "published": "",
+      "title_zh": "非国大面临扭转南非颓势的压力",
+      "summary_zh": "当南非人在地方选举中投票时，居民告诉英国广播公司，他们对所获得的低质量服务感到厌倦。"
+    },
+    {
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "link": "",
+      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+      "published": "",
+      "title_zh": "金在英联邦讲话中称奴隶贸易是“可耻的一章”",
+      "summary_zh": "此次演讲是在呼吁英国政府就英国在贸易中的历史性作用正式道歉之后发表的。"
+    },
+    {
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "link": "",
+      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "published": "",
+      "title_zh": "美国国家运输安全委员会表示，在距佛罗里达坠机地点三英里的地方发现了重要的飞机部件",
+      "summary_zh": "美国国家运输安全委员会表示，由于这些零件是在距离事故现场很远的地方发现的，因此它们在事故发生前就已经脱落。"
+    },
+    {
+      "title": "Young NYC Marathon runner collapses and dies two miles from finish line",
+      "link": "",
+      "summary": "The city medical examiner's office said it is still investigating Rachel Apa's cause of death.",
+      "published": "",
+      "title_zh": "年轻的纽约马拉松运动员在距终点线两英里处倒地身亡",
+      "summary_zh": "市法医办公室表示，仍在调查雷切尔·阿帕的死因。"
+    },
+    {
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "link": "",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "published": "",
+      "title_zh": "利比亚最高宗教当局规定禁止穿耐克衣服",
+      "summary_zh": "这家美国公司以希腊胜利女神的名字命名，因此达尔伊夫塔表示，展示其标志是不符合伊斯兰教义的。"
+    },
+    {
+      "title": "How 'mogging' went from toxic term to mainstream",
+      "link": "",
+      "summary": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
+      "published": "",
+      "title_zh": "“mogging”如何从有毒术语变成主流",
+      "summary_zh": "Mogging 被评为《柯林斯英语词典》年度词汇，曾经是马诺圈的专有名词，但现在已成为日常话语的一部分。"
+    },
+    {
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "link": "",
+      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "published": "",
+      "title_zh": "Canva 在“我们最艰难的一年”之后宣布大幅裁员",
+      "summary_zh": "首席执行官 Melanie Perkins 表示，超过 1,000 名员工要么失业，要么被要求更换角色。"
+    },
+    {
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "link": "",
+      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "published": "",
+      "title_zh": "欧洲10个国家超市冰柜遭受网络攻击后保持警惕",
+      "summary_zh": "从爱沙尼亚和瑞典到葡萄牙和意大利，超市都报告了问题，许多保留者被迫丢弃食物。"
+    },
+    {
+      "title": "Key races too early to call as polls close in Ohio, North Carolina and West Virginia",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄亥俄州、北卡罗来纳州和西弗吉尼亚州的投票结束，关键竞选还为时过早"
+    },
+    {
+      "title": "Michigan voters break with party in Rogers vs El-Sayed Senate race",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "密歇根州选民在罗杰斯与埃尔-赛义德参议员竞选中与政党决裂"
+    },
+    {
+      "title": "WATCH:Live coverage of FOX News Democracy '26 with Bret Baier and Martha MacCallum",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看：布雷特·拜尔 (Bret Baier) 和玛莎·麦卡勒姆 (Martha MacCallum) 现场直播福克斯新闻民主 '26"
+    },
+    {
+      "title": "Kellyanne Conway credits Trump for changing how Republicans vote in midterms",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "凯莉安·康威称赞特朗普改变了共和党中期选举的投票方式"
+    },
+    {
+      "title": "JOIN THE CONVERSATION:Sound off on midterm elections as voting enters final stretch",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "加入对话：投票进入最后阶段，大声谈论中期选举"
+    },
+    {
+      "title": "Carrier accused of hoarding nearly 400 Republican flyers with zero from rival parties",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "航空公司被指控囤积近 400 份共和党传单，其中来自竞争对手的传单为零"
+    },
+    {
+      "title": "Wall Street keeps close watch as the fate of Congress is up in the air",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "国会的命运悬而未决，华尔街密切关注"
+    },
+    {
+      "title": "Jet's tail piece found miles away as investigators eye mid-air breakup theory",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "当调查人员关注空中解体理论时，喷气式飞机的尾片在数英里之外被发现"
+    },
+    {
+      "title": "Unable to defend herself, botched execution survivor pleads for protection",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "失败的处决幸存者无法自卫，请求保护"
+    },
+    {
+      "title": "Iran warns US, Israel are in the 'crosshairs' as military threatens global response",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗警告美国和以色列成为“瞄准目标”，因为军事威胁全球反应"
+    },
+    {
+      "title": "Joe Rogan argues 'woke' left is trying to change Christianity to fit political beliefs",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乔·罗根认为“觉醒”的左翼正试图改变基督教以适应政治信仰"
+    },
+    {
+      "title": "Victim recites Lord’s Prayer moments before fatal plane crash",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "致命飞机失事前受害者背诵主祷文"
+    },
+    {
+      "title": "Country singer dead at 35 after doctors gave her just three months to live",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乡村歌手去世，享年 35 岁，医生判定她仅剩三个月生命"
+    },
+    {
+      "title": "Popeyes revives beloved '90s side dish, sparking excitement among fans",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大力水手 (Popeyes) 重新推出备受喜爱的 90 年代配菜，引发粉丝兴奋"
+    },
+    {
+      "title": "NYC marathon runner, 24, sent dad two haunting messages before collapsing and dying",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "24 岁纽约马拉松运动员在倒地身亡前给父亲发了两条令人难以忘怀的信息"
+    },
+    {
+      "title": "Angel Reese's offseason plans show double standard with Caitlin Clark's media treatment",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "安吉尔·里斯的休赛期计划与凯特琳·克拉克的媒体待遇显示出双重标准"
+    }
+  ]
+}
