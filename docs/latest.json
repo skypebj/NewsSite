@@ -1,6 +1,6 @@
 {
   "date": "20261104",
-  "total": 38,
+  "total": 56,
   "sources": {
     "fox": {
       "status": "ok",
@@ -37,278 +37,413 @@
   },
   "entries": [
     {
-      "title": "",
-      "link": "https://www.nbcnews.com/now/video/texas-michigan-and-maine-voters-speak-out-at-polls-on-key-senate-races-272783429899",
-      "summary": "",
-      "published": ""
-    },
-    {
-      "title": "Exit poll: Voters cast ballots against Trump",
-      "link": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "title": "Takeaways: The Trump coalition implodes. What’s next?",
+      "link": "https://www.nbcnews.com/politics/2026-election/election-takeaways-trump-coalition-implodes-comes-rcna605758",
       "summary": "",
       "published": "",
-      "title_zh": "出口民意调查：选民投票反对特朗普"
+      "title_zh": "要点：特朗普联盟崩溃。接下来是什么？"
     },
     {
-      "title": "Kornacki Cam: Watch Steve as results roll in",
-      "link": "https://www.nbcnews.com/video/watch-live-steve-kornacki-analyzes-midterm-election-results-live-all-night-long-272551493776",
+      "title": "What Democrats plan to do with House majority: Investigate Trump and tackle affordability",
+      "link": "https://www.nbcnews.com/politics/congress/democrats-control-house-senate-plans-trump-oversight-rcna605714",
       "summary": "",
       "published": "",
-      "title_zh": "科纳基·卡姆（Kornacki Cam）：观看史蒂夫的比赛结果"
+      "title_zh": "民主党计划如何处理众议院多数席位：调查特朗普并解决负担能力问题"
     },
     {
-      "title": "Democrats have polling and history on their side in House races",
-      "link": "https://www.nbcnews.com/politics/2026-election/democrats-republicans-battle-for-house-trump-washington-midterm-rcna605760",
+      "title": "The Data Dive: Steve Kornacki recounts Democrats’ success in Senate races",
+      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-charts-democrats-sliced-gop-strongholds-rcna607379",
       "summary": "",
       "published": "",
-      "title_zh": "民主党在众议院竞选中的民意调查和历史记录都站在他们一边"
+      "title_zh": "数据潜水：史蒂夫·科尔纳基 (Steve Kornacki) 讲述民主党在参议院竞选中的成功"
     },
     {
-      "title": "GOP fights to hang on to Senate majority",
-      "link": "https://www.nbcnews.com/politics/2026-election/republicans-fight-hold-senate-democrats-rcna605762",
+      "title": "Republicans begin grappling with how they lost so badly",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-begin-grappling-lost-badly-trump-midterms-rcna607359",
       "summary": "",
       "published": "",
-      "title_zh": "共和党力争保住参议院多数席位"
+      "title_zh": "共和党人开始思考他们为何输得如此惨重"
     },
     {
-      "title": "Routine voting issues fuel conspiracy theories and confusion",
-      "link": "https://www.nbcnews.com/tech/misinformation/routine-voting-issues-fuel-conspiracy-theories-confusion-rcna607287",
+      "title": "El-Sayed wins Michigan Senate seat, NBC News projects",
+      "link": "https://www.nbcnews.com/video/el-sayed-wins-michigan-senate-seat-nbc-news-projects-272825413790",
       "summary": "",
       "published": "",
-      "title_zh": "例行投票问题助长阴谋论和混乱"
+      "title_zh": "NBC 新闻报道，埃尔-赛义德赢得密歇根州参议院席位"
     },
     {
-      "title": "The midterms are over, and Trump is over the midterms",
-      "link": "https://www.nbcnews.com/politics/donald-trump/midterms-are-trump-midterms-rcna607227",
+      "title": "Troy Jackson wins Maine Senate seat, NBC News projects",
+      "link": "https://www.nbcnews.com/video/troy-jackson-wins-maine-senate-seat-nbc-news-projects-272824389727",
       "summary": "",
       "published": "",
-      "title_zh": "中期选举结束了，特朗普也结束了中期选举"
+      "title_zh": "NBC 新闻报道特洛伊·杰克逊赢得缅因州参议院席位"
     },
     {
-      "title": "Indiana early voting shows substantial lead for Democrats",
-      "link": "https://www.nbcnews.com/video/indiana-early-voting-shows-substantial-lead-for-democrats-272808517557",
+      "title": "President Trump speaks to various media outlets reacting to midterm results",
+      "link": "https://www.nbcnews.com/video/president-trump-speaks-to-various-media-outlets-reacting-to-midterm-results-272822853798",
       "summary": "",
       "published": "",
-      "title_zh": "印第安纳州提前投票显示民主党大幅领先"
+      "title_zh": "特朗普总统向多家媒体发表讲话，对中期结果做出反应"
     },
     {
-      "title": "NBC News exit polls compare voters' thoughts on Trump's economy in 2018 and 2026",
-      "link": "https://www.nbcnews.com/now/video/nbc-news-exit-polls-compare-voters-thoughts-on-trump-s-economy-in-2018-and-2026-272804933545",
+      "title": "Rep. Debbie Dingell: If Democrats don't deliver, voters will send another message in two years",
+      "link": "https://www.nbcnews.com/video/rep-debbie-dingell-if-democrats-don-t-deliver-voters-will-send-another-message-in-two-years-272824389558",
       "summary": "",
       "published": "",
-      "title_zh": "NBC News 出口民意调查比较了选民对 2018 年和 2026 年特朗普经济的看法"
+      "title_zh": "众议员黛比·丁格尔：如果民主党不兑现承诺，选民将在两年内发出另一条信息"
     },
     {
-      "title": "DOJ sending election monitors to all 50 states for the first time in U.S. history",
-      "link": "https://www.nbcnews.com/now/video/doj-sending-election-monitors-to-all-50-states-for-the-first-time-in-u-s-history-272787013728",
+      "title": "Susan Collins concedes in Maine Senate race",
+      "link": "https://www.nbcnews.com/video/susan-collins-concedes-in-maine-senate-race-272823877613",
       "summary": "",
       "published": "",
-      "title_zh": "美国司法部历史上首次向所有 50 个州派遣选举监察员"
+      "title_zh": "苏珊·柯林斯在缅因州参议员竞选中承认"
     },
     {
-      "title": "Democrats push into deep red states to flip Senate",
-      "link": "https://www.nbcnews.com/now/video/democrats-push-into-deep-red-states-to-flip-senate-272779845768",
+      "title": "Pennsylvania Governor Josh Shapiro speaks on the future of the Democratic Party",
+      "link": "https://www.nbcnews.com/video/pennsylvania-governor-josh-shapiro-speaks-on-the-future-of-the-democratic-party-272822853621",
       "summary": "",
       "published": "",
-      "title_zh": "民主党进军深红色州以推翻参议院"
+      "title_zh": "宾夕法尼亚州州长乔什·夏皮罗谈论民主党的未来"
     },
     {
-      "title": "Highest gas prices for Election Day in U.S. history",
-      "link": "https://www.nbcnews.com/now/video/highest-gas-prices-for-election-day-in-u-s-history-272776773863",
+      "title": "Democrats win the Senate, taking full control of Congress, NBC News projects",
+      "link": "https://www.nbcnews.com/video/democrats-win-the-senate-taking-full-control-of-congress-nbc-news-projects-272822341585",
       "summary": "",
       "published": "",
-      "title_zh": "选举日汽油价格创下美国历史最高纪录"
+      "title_zh": "NBC 新闻报道，民主党赢得参议院，完全控制国会"
     },
     {
-      "title": "Critical Learjet piece found miles from crash site in Florida",
-      "link": "https://www.nbcnews.com/news/us-news/important-piece-learjet-found-miles-crash-site-florida-rcna607333",
+      "title": "Democrat Adam Hamilton projected to win Senate race in Kansas",
+      "link": "https://www.nbcnews.com/video/democrat-adam-hamilton-projected-to-win-senate-race-in-kansas-272821317609",
       "summary": "",
       "published": "",
-      "title_zh": "里尔喷气式飞机的关键部件在距离佛罗里达州坠机地点数英里的地方被发现"
+      "title_zh": "民主党人亚当·汉密尔顿预计将赢得堪萨斯州参议员竞选"
     },
     {
-      "title": "US voters name economy and state of democracy as top issues, poll says",
+      "title": "Democrat Sherrod Brown wins the Ohio Senate race, NBC News projects",
+      "link": "https://www.nbcnews.com/video/democrat-sherrod-brown-wins-the-ohio-senate-race-nbc-news-projects-272821317568",
+      "summary": "",
+      "published": "",
+      "title_zh": "Democrat Sherrod Brown wins the Ohio Senate race, NBC News projects"
+    },
+    {
+      "title": "Gina Hinojosa projected to win Texas governor's race",
+      "link": "https://www.nbcnews.com/video/gina-hinojosa-projected-to-win-texas-governor-s-race-272818757955",
+      "summary": "",
+      "published": "",
+      "title_zh": "吉娜·伊诺霍萨有望赢得德克萨斯州州长竞选"
+    },
+    {
+      "title": "Democrat Amy Acton projected to win Ohio governor's race",
+      "link": "https://www.nbcnews.com/video/democrat-amy-acton-projected-to-win-ohio-governor-s-race-272820293834",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人艾米·阿克顿预计将赢得俄亥俄州州长竞选"
+    },
+    {
+      "title": "Talarico wins Texas Senate seat, NBC News projects",
+      "link": "https://www.nbcnews.com/video/talarico-wins-texas-senate-seat-nbc-news-projects-272820293727",
+      "summary": "",
+      "published": "",
+      "title_zh": "NBC 新闻报道塔拉里科赢得德克萨斯州参议院席位"
+    },
+    {
+      "title": "Democrat Abdul El-Sayed wins Michigan’s Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrat-abdul-el-sayed-wins-michigans-high-stakes-senate-race-rcna603315",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人阿卜杜勒·赛义德赢得密歇根州参议员竞选"
+    },
+    {
+      "title": "Democrat James Talarico turns Texas Senate seat blue, defeating Ken Paxton",
+      "link": "https://www.nbcnews.com/politics/2026-election/james-talarico-democrat-wins-texas-senate-race-ken-paxton-rcna603319",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人詹姆斯·塔拉里科将德克萨斯州参议院席位变成蓝色，击败肯·帕克斯顿"
+    },
+    {
+      "title": "Troy Jackson defeats GOP Sen. Susan Collins in Maine",
+      "link": "https://www.nbcnews.com/politics/2026-election/troy-jackson-maine-senator-win-democrat-senate-majority-susan-collins-rcna603312",
+      "summary": "",
+      "published": "",
+      "title_zh": "特洛伊·杰克逊在缅因州击败共和党参议员苏珊·柯林斯"
+    },
+    {
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
       "link": "",
-      "summary": "A major election day survey suggests voters are the most unhappy with the economy.",
+      "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
       "published": "",
-      "title_zh": "民意调查显示，美国选民将经济和民主状况列为首要问题",
-      "summary_zh": "选举日的一项重大调查显示，选民对经济最不满意。"
+      "title_zh": "特朗普瞄准共和党，但称民主党做得“很好”",
+      "summary_zh": "他在《真相社会》上写道，如果他的名字出现在选票上，共和党将“以压倒性优势”获胜。"
     },
     {
-      "title": "ANC under pressure to reverse South Africa decline",
+      "title": "Talarico becomes first Democrat to win Texas Senate seat since 1988",
       "link": "",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
       "published": "",
-      "title_zh": "非国大面临扭转南非颓势的压力",
-      "summary_zh": "当南非人在地方选举中投票时，居民告诉英国广播公司，他们对所获得的低质量服务感到厌倦。"
+      "title_zh": "塔拉里科成为自 1988 年以来第一位赢得德克萨斯州参议院席位的民主党人",
+      "summary_zh": "一位专家在谈到民主党在德克萨斯州的历史性胜利时告诉英国广播公司：“这不仅仅是一场海啸，不仅仅是一场公投，而是一场大屠杀。”"
     },
     {
-      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
       "link": "",
-      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
       "published": "",
-      "title_zh": "金在英联邦讲话中称奴隶贸易是“可耻的一章”",
-      "summary_zh": "此次演讲是在呼吁英国政府就英国在贸易中的历史性作用正式道歉之后发表的。"
+      "title_zh": "佛罗里达州选举第一位黑人州长，共和党人击退民主党人",
+      "summary_zh": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida."
     },
     {
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "title": "Key moments from a night of firsts",
       "link": "",
-      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
       "published": "",
-      "title_zh": "美国国家运输安全委员会表示，在距佛罗里达坠机地点三英里的地方发现了重要的飞机部件",
-      "summary_zh": "美国国家运输安全委员会表示，由于这些零件是在距离事故现场很远的地方发现的，因此它们在事故发生前就已经脱落。"
+      "title_zh": "Key moments from a night of firsts",
+      "summary_zh": "民主党在唐纳德·特朗普剩余的总统任期内控制了国会——这证明了值得庆祝的时刻。"
     },
     {
-      "title": "Young NYC Marathon runner collapses and dies two miles from finish line",
+      "title": "Democrat El-Sayed wins Michigan to become first Muslim senator in US history",
       "link": "",
-      "summary": "The city medical examiner's office said it is still investigating Rachel Apa's cause of death.",
+      "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
       "published": "",
-      "title_zh": "年轻的纽约马拉松运动员在距终点线两英里处倒地身亡",
-      "summary_zh": "市法医办公室表示，仍在调查雷切尔·阿帕的死因。"
+      "title_zh": "民主党人埃尔赛义德赢得密歇根州成为美国历史上第一位穆斯林参议员",
+      "summary_zh": "埃尔-赛义德击败共和党人迈克·罗杰斯，成为美国历史上第一位穆斯林参议员。"
     },
     {
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "title": "Tears, celebrations and selfies: Midterms in pictures",
       "link": "",
-      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "summary": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
       "published": "",
-      "title_zh": "利比亚最高宗教当局规定禁止穿耐克衣服",
-      "summary_zh": "这家美国公司以希腊胜利女神的名字命名，因此达尔伊夫塔表示，展示其标志是不符合伊斯兰教义的。"
+      "title_zh": "Tears, celebrations and selfies: Midterms in pictures",
+      "summary_zh": "民主党人在共和党州取得胜利后欢呼雀跃。当共和党的损失不断增加时，人们流下了眼泪。"
     },
     {
-      "title": "How 'mogging' went from toxic term to mainstream",
+      "title": "Watch: Winners address supporters after midterms victories",
       "link": "",
-      "summary": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
+      "summary": "Democrats have won control of the Senate and House of Representatives, taking control of Congress for the rest of Donald Trump's presidency.",
       "published": "",
-      "title_zh": "“mogging”如何从有毒术语变成主流",
-      "summary_zh": "Mogging 被评为《柯林斯英语词典》年度词汇，曾经是马诺圈的专有名词，但现在已成为日常话语的一部分。"
+      "title_zh": "观看：中期选举获胜后获胜者向支持者发表讲话",
+      "summary_zh": "民主党赢得了参议院和众议院的控制权，在唐纳德·特朗普总统任期的剩余时间内控制了国会。"
     },
     {
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "title": "Code cracked for shipwreck padlock solving 400-year-old mystery",
+      "link": "",
+      "summary": "The brass lock, found in the sand near Port Talbot, forms part of a 1583 shipwreck treasure hoard.",
+      "published": "",
+      "title_zh": "破解沉船挂锁密码解开400年之谜",
+      "summary_zh": "这把黄铜锁是在塔尔伯特港附近的沙滩上发现的，是 1583 年沉船宝库的一部分。"
+    },
+    {
+      "title": "Celebrity hairstylist John Frieda dies aged 75",
+      "link": "",
+      "summary": "He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products.",
+      "published": "",
+      "title_zh": "名人发型师约翰·弗里达去世，享年 75 岁",
+      "summary_zh": "在创造出一系列全球美发产品之前，他是 20 世纪 60 年代和 1970 年代的明星造型师。"
+    },
+    {
+      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+      "link": "",
+      "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+      "published": "",
+      "title_zh": "田纳西州监狱越狱凶手经过一周的搜捕被抓获",
+      "summary_zh": "雅各布·艾伦·莫利 (Jacob Allen Morley) 因谋杀罪被判无期徒刑，随后越狱。"
+    },
+    {
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "link": "",
+      "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+      "published": "",
+      "title_zh": "武器还是酒瓶？中国对巴布亚新几内亚炮弹的报道提出异议",
+      "summary_zh": "巴布亚新几内亚警方早些时候驳回了有关这个 32 公斤重的物体“只是一个假人”的猜测。"
+    },
+    {
+      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "link": "",
+      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "published": "",
+      "title_zh": "NBA表示，卢旺达陆军队在美国制裁后被从非洲联赛中除名",
+      "summary_zh": "美国因其在刚果民主共和国冲突中所扮演的角色而对卢旺达军队实施制裁。"
+    },
+    {
+      "title": "Scammers using AI-generated images of missing pets to demand reward money",
+      "link": "",
+      "summary": "Owners say threats to kill their cats unless they sent money left them angry and terrified.",
+      "published": "",
+      "title_zh": "诈骗者利用人工智能生成的失踪宠物图像来索要奖金",
+      "summary_zh": "Owners say threats to kill their cats unless they sent money left them angry and terrified."
+    },
+    {
+      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job at Man Utd?",
+      "link": "",
+      "summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
+      "published": "",
+      "title_zh": "半场演讲、重新罚进点球——以及一场胜利来保住卡里克在曼联的饭碗？",
+      "summary_zh": "在0-2落后的情况下，卡里克作为曼联主教练的地位看起来已经到了尽头——但是战胜罗马会成为一个转折点吗？"
+    },
+    {
+      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+      "link": "",
+      "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
+      "published": "",
+      "title_zh": "美国承包商向埃塞俄比亚提供秘密以帮助杀死提格雷战士",
+      "summary_zh": "这位出生于埃塞俄比亚的美国公民承认与埃塞俄比亚高级官员分享了数十份机密文件。"
+    },
+    {
+      "title": "Graphic design company Canva announces major job cuts after 'our hardest year yet'",
       "link": "",
       "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
       "published": "",
-      "title_zh": "Canva 在“我们最艰难的一年”之后宣布大幅裁员",
-      "summary_zh": "首席执行官 Melanie Perkins 表示，超过 1,000 名员工要么失业，要么被要求更换角色。"
+      "title_zh": "平面设计公司 Canva 在“我们最艰难的一年”之后宣布大幅裁员",
+      "summary_zh": "首席执行官 Melanie Perkins 表示，超过 1000 名员工要么失业，要么被要求更换角色。"
     },
     {
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "title": "Spanish transport minister resigns days after deadly train crash",
       "link": "",
-      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "published": "",
-      "title_zh": "欧洲10个国家超市冰柜遭受网络攻击后保持警惕",
-      "summary_zh": "从爱沙尼亚和瑞典到葡萄牙和意大利，超市都报告了问题，许多保留者被迫丢弃食物。"
+      "title_zh": "致命火车事故几天后西班牙交通部长辞职",
+      "summary_zh": "首都马德里以南的撞车事故已造成至少 69 人死亡、数十人受伤。"
     },
     {
-      "title": "Key races too early to call as polls close in Ohio, North Carolina and West Virginia",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄亥俄州、北卡罗来纳州和西弗吉尼亚州的投票结束，关键竞选还为时过早"
-    },
-    {
-      "title": "Michigan voters break with party in Rogers vs El-Sayed Senate race",
+      "title": "Democrats storm to control of Congress, but blue wave could grow even bigger",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "密歇根州选民在罗杰斯与埃尔-赛义德参议员竞选中与政党决裂"
+      "title_zh": "民主党猛烈控制国会，但蓝色浪潮可能会变得更大"
     },
     {
-      "title": "WATCH:Live coverage of FOX News Democracy '26 with Bret Baier and Martha MacCallum",
+      "title": "Elon Musk weighs in after Democrats win historic races in Texas and across the country",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看：布雷特·拜尔 (Bret Baier) 和玛莎·麦卡勒姆 (Martha MacCallum) 现场直播福克斯新闻民主 '26"
+      "title_zh": "民主党在德克萨斯州和全国各地赢得历史性选举后，埃隆·马斯克发表了看法"
     },
     {
-      "title": "Kellyanne Conway credits Trump for changing how Republicans vote in midterms",
+      "title": "El-Sayed mocks Trump, Vance in gloating victory speech signaling combative tone",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凯莉安·康威称赞特朗普改变了共和党中期选举的投票方式"
+      "title_zh": "埃尔-赛义德在幸灾乐祸的胜利演讲中嘲笑特朗普和万斯，表现出好斗的语气"
     },
     {
-      "title": "JOIN THE CONVERSATION:Sound off on midterm elections as voting enters final stretch",
+      "title": "LIZ PEEK:There may be a silver lining in Trump's brutal midterm defeat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加入对话：投票进入最后阶段，大声谈论中期选举"
+      "title_zh": "莉兹·皮克：特朗普在中期选举中惨败，或许还有一线希望"
     },
     {
-      "title": "Carrier accused of hoarding nearly 400 Republican flyers with zero from rival parties",
+      "title": "Democrats immediately put Trump on notice amid election results: 'Lawyer up'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "航空公司被指控囤积近 400 份共和党传单，其中来自竞争对手的传单为零"
+      "title_zh": "民主党人在选举结果中立即向特朗普发出警告：“请律师”"
     },
     {
-      "title": "Wall Street keeps close watch as the fate of Congress is up in the air",
+      "title": "Key swing state elects its first Black governor by ousting a Trump-aligned incumbent",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "国会的命运悬而未决，华尔街密切关注"
+      "title_zh": "关键摇摆州通过罢免与特朗普结盟的现任州长选举出第一位黑人州长"
     },
     {
-      "title": "Jet's tail piece found miles away as investigators eye mid-air breakup theory",
+      "title": "Dem flips deep-red state for first time in nearly 100 years in major blow to Trump, GOP",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "当调查人员关注空中解体理论时，喷气式飞机的尾片在数英里之外被发现"
+      "title_zh": "民主党近100年来首次翻转深红色状态，对特朗普和共和党造成重大打击"
     },
     {
-      "title": "Unable to defend herself, botched execution survivor pleads for protection",
+      "title": "GOP senator's 30-year reign ends as fifth-generation logger pulls off historic upset",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "失败的处决幸存者无法自卫，请求保护"
+      "title_zh": "第五代伐木工实现历史性突破，共和党参议员30年统治结束"
     },
     {
-      "title": "Iran warns US, Israel are in the 'crosshairs' as military threatens global response",
+      "title": "US stock futures tumble as Democrats score key midterm election wins",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗警告美国和以色列成为“瞄准目标”，因为军事威胁全球反应"
+      "title_zh": "民主党在中期选举中取得关键胜利，美国股指期货暴跌"
     },
     {
-      "title": "Joe Rogan argues 'woke' left is trying to change Christianity to fit political beliefs",
+      "title": "Trump admits Iran war contributed to GOP midterm losses, insists it was necessary",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔·罗根认为“觉醒”的左翼正试图改变基督教以适应政治信仰"
+      "title_zh": "特朗普承认伊朗战争导致共和党中期选举失败，坚称这是必要的"
     },
     {
-      "title": "Victim recites Lord’s Prayer moments before fatal plane crash",
+      "title": "LAURA INGRAHAM:Declaring MAGA dead has been wrong for a decade, and it’s wrong again",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "致命飞机失事前受害者背诵主祷文"
+      "title_zh": "LAURA INGRAHAM:Declaring MAGA dead has been wrong for a decade, and it’s wrong again"
     },
     {
-      "title": "Country singer dead at 35 after doctors gave her just three months to live",
+      "title": "California voters decide who will succeed Newsom in consequential governor's race",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村歌手去世，享年 35 岁，医生判定她仅剩三个月生命"
+      "title_zh": "加州选民决定谁将在随后的州长竞选中接替纽瑟姆"
     },
     {
-      "title": "Popeyes revives beloved '90s side dish, sparking excitement among fans",
+      "title": "Paul Pelosi hit with driving ban after pleading no contest to misdemeanor hit-and-run",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大力水手 (Popeyes) 重新推出备受喜爱的 90 年代配菜，引发粉丝兴奋"
+      "title_zh": "Paul Pelosi hit with driving ban after pleading no contest to misdemeanor hit-and-run"
     },
     {
-      "title": "NYC marathon runner, 24, sent dad two haunting messages before collapsing and dying",
+      "title": "El-Sayed’s supporters react after Democratic Senate nominee wins Michigan race",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "24 岁纽约马拉松运动员在倒地身亡前给父亲发了两条令人难以忘怀的信息"
+      "title_zh": "民主党参议院候选人赢得密歇根州竞选后，埃尔赛义德的支持者做出反应"
     },
     {
-      "title": "Angel Reese's offseason plans show double standard with Caitlin Clark's media treatment",
+      "title": "Voters in deep blue Minnesota ignore litany of scandals to reelect Ilhan Omar",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "安吉尔·里斯的休赛期计划与凯特琳·克拉克的媒体待遇显示出双重标准"
+      "title_zh": "明尼苏达州的深蓝色选民无视一连串的丑闻，重新选举伊尔汗·奥马尔"
+    },
+    {
+      "title": "GOP governor defies Democratic wave to win re-election in key swing state",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党州长无视民主党浪潮，在关键摇摆州赢得连任"
+    },
+    {
+      "title": "MAGA's top congressional ally wins a race that rewrites the nation's history",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "MAGA 的最高国会盟友赢得了一场改写国家历史的竞选"
+    },
+    {
+      "title": "Trump threatens to veto 'insane' Democratic bills after GOP's midterm losses",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党中期失败后，特朗普威胁要否决“疯狂”的民主党法案"
+    },
+    {
+      "title": "DEMOCRATS RIDE MASSIVE BLUE WAVE TO RETAKE CONGRESS",
+      "link": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党乘着巨大的蓝色浪潮重新夺回国会"
+    },
+    {
+      "title": "Voters deliver stunning rebuke of Trump and his agenda",
+      "link": "https://www.example.com/2026/11/04/politics/live-news/midterm-election-congress",
+      "summary": "",
+      "published": "",
+      "title_zh": "选民对特朗普及其议程提出了令人震惊的谴责"
     }
   ]
 }
