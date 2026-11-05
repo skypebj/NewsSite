@@ -1,12 +1,8 @@
 {
-  "date": "20261104",
-  "total": 52,
+  "date": "20261105",
+  "total": 38,
   "sources": {
-    "fox": {
-      "status": "ok",
-      "entries": 0
-    },
-    "cnn": {
+    "nbcnews": {
       "status": "ok",
       "entries": 0
     },
@@ -22,7 +18,11 @@
       "status": "ok",
       "entries": 0
     },
-    "nbcnews": {
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -37,387 +37,284 @@
   },
   "entries": [
     {
-      "title": "Trump brags about the White House ballroom in his first post-election appearance",
-      "link": "https://www.nbcnews.com/politics/donald-trump/trump-election-white-house-ballroom-iran-rcna607487",
+      "title": "Vance tiptoes out on his own after a midterm wipeout",
+      "link": "https://www.nbcnews.com/politics/jd-vance/vance-midterm-wipeout-republicans-iran-rcna607498",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在大选后首次露面时吹嘘白宫舞厅"
+      "title_zh": "万斯在期中失败后独自踮起脚尖"
     },
     {
-      "title": "Vance says the ‘real reason’ for GOP rout was anger over Iran war",
-      "link": "https://www.nbcnews.com/politics/2026-election/vance-says-ranger-iran-war-caused-gop-midterm-losses-rcna607446",
+      "title": "Mississippi Senate race heads to an extended vote count and possible ballot battle",
+      "link": "https://www.nbcnews.com/politics/2026-election/mississippi-senate-race-heads-extended-vote-count-possible-ballot-batt-rcna607463",
       "summary": "",
       "published": "",
-      "title_zh": "万斯表示共和党溃败的“真正原因”是对伊朗战争的愤怒"
+      "title_zh": "密西西比州参议院竞选将延长计票时间并可能出现投票战"
     },
     {
-      "title": "Mike Johnson will not stay on as Republican leader",
-      "link": "https://www.nbcnews.com/politics/congress/house-speaker-mike-johnson-republican-leader-gop-losses-rcna607434",
+      "title": "Democrats won on affordability. Whether they can deliver it is a different story.",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-affordability-promise-midterms-trump-rcna607409",
       "summary": "",
       "published": "",
-      "title_zh": "迈克·约翰逊将不会继续担任共和党领袖"
+      "title_zh": "民主党凭借负担能力获胜。他们是否能提供它是一个不同的故事。"
     },
     {
-      "title": "Mississippi Democrat leading Senate race by just 43 votes hopeful for victory",
-      "link": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-live-updates-rcna607376",
+      "title": "Republicans bet the House on redistricting, but Democrats swept through the seats they targeted",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-bet-house-redistricting-democrats-swept-seats-targeted-rcna607373",
       "summary": "",
       "published": "",
-      "title_zh": "密西西比州民主党在参议院竞选中仅以 43 票领先，有望获胜"
+      "title_zh": "共和党押注众议院将重新划分选区，但民主党席卷了他们的目标席位"
     },
     {
-      "title": "Hakeem Jeffries’ rapid rise to the cusp of history",
-      "link": "https://www.nbcnews.com/politics/congress/hakeem-jeffries-make-history-first-black-speaker-house-rcna605769",
+      "title": "Trump discussing possible Hegseth replacements, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/trump-discussing-possible-hegseth-replacements-sources-say-rcna607503",
       "summary": "",
       "published": "",
-      "title_zh": "哈基姆·杰弗里斯 (Hakeem Jeffries) 迅速崛起到历史的风口浪尖"
+      "title_zh": "消息人士称，特朗普正在讨论可能的赫格斯替代者"
     },
     {
-      "title": "Celebration and gloom as blue wave sweeps midterms",
-      "link": "https://www.nbcnews.com/politics/elections/photos-celebration-mourning-blue-wave-sweeps-midterms-rcna607385",
+      "title": "Data centers rejected by voters across the country — challenging the AI boom",
+      "link": "https://www.nbcnews.com/tech/tech-news/data-center-rejected-voters-us-challenging-ai-boom-rcna607451",
       "summary": "",
       "published": "",
-      "title_zh": "蓝色浪潮席卷中期选举，欢庆与忧郁"
+      "title_zh": "数据中心遭到全国选民的拒绝——挑战人工智能热潮"
     },
     {
-      "title": "5 key insights from the NBC News Exit Poll about the blue tsunami",
-      "link": "https://www.nbcnews.com/politics/2026-election/nbc-news-exit-poll-democrats-victory-trump-economy-rcna607391",
-      "summary": "",
-      "published": "",
-      "title_zh": "NBC 新闻出口民意调查关于蓝色海啸的 5 个关键见解"
-    },
-    {
-      "title": "Progressive William Lawrence defeats GOP Rep. Tom Barrett in swing Michigan district",
-      "link": "https://www.nbcnews.com/politics/2026-election/william-lawrence-democrat-michigan-house-election-win-tom-barrett-rcna603374",
-      "summary": "",
-      "published": "",
-      "title_zh": "进步威廉·劳伦斯在密歇根州摇摆选区击败共和党众议员汤姆·巴雷特"
-    },
-    {
-      "title": "Democrats gain full control of five state governments, further expanding the party’s power",
-      "link": "https://www.nbcnews.com/politics/2026-election/democrats-gain-full-control-five-state-governments-expand-power-rcna607433",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党完全控制五个州政府，进一步扩大党权"
-    },
-    {
-      "title": "Democrats score key secretary of state wins ahead of the 2028 election",
-      "link": "https://www.nbcnews.com/politics/2026-election/democrats-score-key-secretary-state-wins-ahead-2028-election-rcna607015",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党在 2028 年大选前取得关键国务卿胜利"
-    },
-    {
-      "title": "Tuesday’s elections bring historic first for Black governors",
-      "link": "https://www.nbcnews.com/politics/2026-election/tuesdays-elections-bring-historic-first-black-governors-rcna607008",
-      "summary": "",
-      "published": "",
-      "title_zh": "周二的选举为黑人州长带来了历史性的第一次选举"
-    },
-    {
-      "title": "Record number of female governors elected",
-      "link": "https://www.nbcnews.com/politics/2026-election/record-number-female-governors-elected-rcna607366",
-      "summary": "",
-      "published": "",
-      "title_zh": "当选女性州长人数创历史新高"
-    },
-    {
-      "title": "Former ‘Diddy’ prosecutor to lead investigation into alleged Cornell sexual assault",
-      "link": "https://www.nbcnews.com/news/us-news/letitia-james-taps-diddy-prosecutor-jacqueline-kelly-lead-cornell-7-in-rcna607410",
-      "summary": "",
-      "published": "",
-      "title_zh": "前“吹牛老爹”检察官将领导对康奈尔大学性侵案的调查"
-    },
-    {
-      "title": "Oil prices drop below $100 for the first time in nearly a month",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448",
-      "summary": "",
-      "published": "",
-      "title_zh": "油价近一个月来首次跌破100美元"
-    },
-    {
-      "title": "Trump concedes impact of Iran war on midterms, says he agrees with Vance's statement on GOP losses",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普承认伊朗战争对中期选举的影响，表示他同意万斯关于共和党损失的声明"
-    },
-    {
-      "title": "Trump addresses looming GOP leadership battle after Johnson steps aside",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "约翰逊下台后特朗普谈到迫在眉睫的共和党领导权之争"
-    },
-    {
-      "title": "FOX NEWS VOTER POLL:Dems flip Senate seats across heartland thanks to key voting groups",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "福克斯新闻选民民意调查：由于关键投票团体，民主党在中心地带翻转了参议院席位"
-    },
-    {
-      "title": "Vice President JD Vance names the ‘real reason’ GOP lost midterms",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "副总统 JD 万斯指出了共和党中期选举失败的“真正原因”"
-    },
-    {
-      "title": "WATCH LIVE:AG Blanche, state officials announce major crime grant in Louisiana",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "观看直播：AG Blanche 和州官员宣布路易斯安那州重大犯罪补助金"
-    },
-    {
-      "title": "Far-left streamer gloats after Dem blowout, promises ‘jail’ for conservative enemies",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党大败后，极左流媒体幸灾乐祸，承诺将保守派敌人“监禁”"
-    },
-    {
-      "title": "Amid two federal probes, Ilhan Omar wins big and calls Trump a 'bigot'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在两项联邦调查中，伊尔汗·奥马尔大获全胜，称特朗普为“偏执狂”"
-    },
-    {
-      "title": "Critical plane part found shattered miles away hints at catastrophic midair failure",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "飞机关键部件在数英里外发现破碎，暗示发生了灾难性的空中故障"
-    },
-    {
-      "title": "ASRA NOMANI:Radical socialists exploit key conditions to gain ground in Dem Party",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "ASRA NOMANI：激进社会主义者利用关键条件在民主党中取得进展"
-    },
-    {
-      "title": "Tuesday's wipeout could rob the right of a critical win with generational impact",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "周二的惨败可能会剥夺具有世代影响的关键胜利的权利"
-    },
-    {
-      "title": "Americans sour on socialism even as left-wing candidates notch major victories",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "尽管左翼候选人取得重大胜利，美国人仍对社会主义感到厌烦"
-    },
-    {
-      "title": "Americans warned to avoid crowds as massive strike threatens to bring nation to halt",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国人警告避开人群，因为大规模罢工可能导致国家停摆"
-    },
-    {
-      "title": "DeSantis calls GOP midterm wipeout 'close to an extinction-level event'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "德桑蒂斯称共和党中期选举“接近灭绝级事件”"
-    },
-    {
-      "title": "Minor desperately runs from illegal immigrant accused of attempted murder, kidnapping",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "未成年人绝望地逃离被指控谋杀未遂、绑架的非法移民"
-    },
-    {
-      "title": "Former MLB star defeats Democrat to win US House seat in Texas: 'God Bless America'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "前美国职业棒球大联盟球星击败民主党赢得德克萨斯州美国众议院席位：“上帝保佑美国”"
-    },
-    {
-      "title": "Helicopter plunges into waters off Miami, leaving at least 2 injured",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "直升机坠入迈阿密附近海域 造成至少2人受伤"
-    },
-    {
-      "title": "Super Bowl champ, member of legendary undefeated Dolphins team dead at 79",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "超级碗冠军、传奇不败海豚队成员去世，享年 79 岁"
-    },
-    {
-      "title": "Iran taunts Trump with 'nightmare' threat as Republicans reel from midterm wipeout",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "共和党因中期选举失败而陷入困境，伊朗用“噩梦”威胁嘲笑特朗普"
-    },
-    {
-      "title": "Hasan Piker declares 'woke is back,' fantasizes about Trump in prison",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "哈桑·派克宣称“醒来回来了”，幻想特朗普在监狱里"
-    },
-    {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "link": "",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "published": "",
-      "title_zh": "“这是一场灾难”：愤怒的共和党人将中期选举失败归咎于特朗普",
-      "summary_zh": "一些共和党人告诉英国广播公司，总统对自己遗产的关注和对选民担忧的漠视让他们付出了代价。"
-    },
-    {
-      "title": "The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas",
-      "link": "",
-      "summary": "Adam Hamilton, a pastor, has made history as the first Kansas Democrat to win the Senate in almost 100 years.",
-      "published": "",
-      "title_zh": "上次堪萨斯州民主党进入参议院时，《绿野仙踪》正在电影院上映",
-      "summary_zh": "牧师亚当·汉密尔顿 (Adam Hamilton) 创造了历史，成为近 100 年来第一位赢得参议院席位的堪萨斯州民主党人。"
-    },
-    {
-      "title": "Trump's loss limits powers at home, but it will likely be different abroad",
-      "link": "",
-      "summary": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
-      "published": "",
-      "title_zh": "特朗普的失败限制了国内的权力，但国外的情况可能会有所不同",
-      "summary_zh": "BBC 国际编辑写道，在中期选举结果惨淡之后，特朗普总统将希望证明他仍然可以撼动世界。"
-    },
-    {
-      "title": "Five reasons why Republicans lost so badly",
-      "link": "",
-      "summary": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
-      "published": "",
-      "title_zh": "共和党惨败的五个原因",
-      "summary_zh": "从愤怒的选民到不受欢迎的总统，这就是传统共和党地区的美国人转向民主党的原因。"
-    },
-    {
-      "title": "How America voted in maps and charts",
-      "link": "",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-      "published": "",
-      "title_zh": "美国如何在地图和图表中投票",
-      "summary_zh": "查看显示美国如何在美国中期选举中投票的地图和图表。"
-    },
-    {
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "link": "",
-      "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-      "published": "",
-      "title_zh": "奥列什基停火后泽连斯基授予梅拉尼娅·特朗普乌克兰最高奖",
-      "summary_zh": "俄罗斯和乌克兰代表团将于周四在白宫会见美国第一夫人。"
-    },
-    {
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "link": "",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "published": "",
-      "title_zh": "法国血液储存受到冰箱黑客攻击影响，有关罪魁祸首的理论不断涌现",
-      "summary_zh": "法国血液机构（EFS）表示，储存血液的冷藏室受到了黑客的攻击。"
-    },
-    {
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "link": "",
-      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "published": "",
-      "title_zh": "三个欧洲国家的万圣节糖果中发现尖锐物体",
-      "summary_zh": "奥地利、德国和匈牙利报告了数十起病例，其中包括一名九岁女孩在吃含有别针的巧克力时弄伤了舌头。"
-    },
-    {
-      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-      "link": "",
-      "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-      "published": "",
-      "title_zh": "在美国被杀的加纳男孩的母亲在飞往葬礼时“想要正义”",
-      "summary_zh": "警方尚未逮捕任何人，调查仍在进行中，当局正在寻找三名十几岁的男孩。"
-    },
-    {
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "link": "",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "published": "",
-      "title_zh": "以色列总统在选举陷入僵局后开始与各党派磋商",
-      "summary_zh": "赫尔佐格警告政客们，如果他们想避免另一次选举，“并非所有承诺和诺言都能兑现”。"
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "published": "",
-      "title_zh": "伊朗首席谈判代表称美国人对战争投了“不”票",
-      "summary_zh": "穆罕默德·巴格尔·加利巴夫 (Mohammed Bagher Ghalibaf) 表示：“我们赞同这一信息。”唐纳德·特朗普承认这场冲突对共和党的失败负有责任。"
-    },
-    {
-      "title": "Canada bars Russia & Belarus from junior tournament",
-      "link": "",
-      "summary": "Canada will not ​let ice hockey players from Russia or Belarus take part ‌in the World Junior Championships next month.",
-      "published": "",
-      "title_zh": "加拿大禁止俄罗斯和白俄罗斯参加青少年锦标赛",
-      "summary_zh": "加拿大不会让俄罗斯或白俄罗斯的冰球运动员参加下个月的世界青少年锦标赛。"
-    },
-    {
-      "title": "Everything you need to know from the US midterm elections",
-      "link": "",
-      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "published": "",
-      "title_zh": "关于美国中期选举你需要知道的一切",
-      "summary_zh": "民主党取得了一些重大胜利，并取得了一些历史性的第一，赢得了特朗普总统的祝贺。"
-    },
-    {
-      "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
       "link": "",
       "summary": "Democrats can vote legislation through. But Trump still has veto power.",
       "published": "",
-      "title_zh": "民主党以蓝色浪潮赢得了国会。现在是最困难的部分。",
+      "title_zh": "民主党入主国会后可以利用新权力做什么和不能做什么",
       "summary_zh": "民主党可以投票通过立法。但特朗普仍然拥有否决权。"
     },
     {
-      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "link": "",
-      "summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
       "published": "",
-      "title_zh": "埃隆·马斯克（Elon Musk）的数百万美元未能在激烈的中期选举中为共和党带来德克萨斯州",
-      "summary_zh": "这位亿万富翁的政治行动委员会 (Pac) 为肯·帕克斯顿的竞选活动捐赠了 4700 万美元（3500 万英镑）。"
+      "title_zh": "台风袭击东亚，厄尔尼诺现象让太平洋“发烧”",
+      "summary_zh": "即使对于那些经常遭受台风袭击的国家来说，过去几个月也带来了异常恶劣的天气。"
     },
     {
-      "title": "Democrat leads by dozens of votes in surprisingly tight Mississippi Senate race",
+      "title": "Australia's oldest department store David Jones collapses after 188 years",
       "link": "",
-      "summary": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
+      "summary": "The brand's 38 physical stores and online sites will continue to operate while receivers review its operations.",
       "published": "",
-      "title_zh": "民主党在密西西比州参议员竞选中以数十票领先",
-      "summary_zh": "如果民主党人斯科特·科洛姆赢得竞选，他可能成为自 1875 年以来第一位在密西西比州当选的美国黑人参议员。"
+      "title_zh": "澳大利亚最古老的百货公司 David Jones 在 188 年后倒闭",
+      "summary_zh": "该品牌的 38 家实体店和在线网站将继续运营，同时接收者将审查其运营情况。"
     },
     {
-      "title": "The young politicians with African roots making history in the US midterms",
+      "title": "Anthony Zurcher: Midterm carnage weakens Trump but he still wields power for now",
       "link": "",
-      "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+      "summary": "Trump has given conflicting messages about how he might deal with Democrats in Congress after his party's resounding defeat.",
       "published": "",
-      "title_zh": "非洲裔年轻政治家在美国中期选举中创造历史",
-      "summary_zh": "对于一些年轻的非洲人来说，这些胜利让他们看到了新一代选民可以在国内做什么。"
+      "title_zh": "安东尼·祖彻：中期大屠杀削弱了特朗普，但他目前仍掌握权力",
+      "summary_zh": "在民主党惨败后，特朗普就如何应对国会中的民主党人发出了相互矛盾的信息。"
     },
     {
-      "title": "Graduates are managing AI - but are they learning much else?",
+      "title": "'Hopefully things get done': Americans react to historic political shift",
       "link": "",
-      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
       "published": "",
-      "title_zh": "毕业生正在管理人工智能——但他们还学到了很多其他东西吗？",
-      "summary_zh": "毕业生花更多时间管理人工智能，但他们是否错过了其他工作经验？"
+      "title_zh": "“希望事情能完成”：美国人对历史性政治转变的反应",
+      "summary_zh": "英国广播公司采访了不同州的选民，了解他们对民主党控制参议院和众议院的反应。"
     },
     {
-      "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "link": "",
-      "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "published": "",
-      "title_zh": "为什么金·卡戴珊（Kim Kardashian）重返“有史以来最糟糕的电视剧”",
-      "summary_zh": "这位媒体名人兼女商人表示，她正在为《一切顺利》第二季进行表演。"
+      "title_zh": "乌克兰称随身摄像机视频显示俄罗斯致命的双击爆炸事件",
+      "summary_zh": "基辅称，乌克兰一个村庄周一发生袭击事件，造成至少 40 人死亡，另有 30 人可能仍在废墟下。"
+    },
+    {
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "link": "",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "published": "",
+      "title_zh": "加拿大母女疑似灰熊袭击身亡",
+      "summary_zh": "不列颠哥伦比亚省当局表示，有证据表明，这些妇女的死亡可能与动物有关。"
+    },
+    {
+      "title": "Bowen: Why electoral losses at home could mean Trump takes more action abroad",
+      "link": "",
+      "summary": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+      "published": "",
+      "title_zh": "鲍文：为什么国内选举失败可能意味着特朗普在海外采取更多行动",
+      "summary_zh": "BBC 国际编辑写道，在中期选举结果惨淡之后，特朗普总统将希望证明他仍然可以撼动世界。"
+    },
+    {
+      "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
+      "link": "",
+      "summary": "The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.",
+      "published": "",
+      "title_zh": "德克萨斯州的选民变化如何帮助选举民主党参议员和州长",
+      "summary_zh": "BBC 的罗斯·阿特金斯 (Ros Atkins) 探讨了该州长期以来投票给共和党的记录以及今年选举的不同之处。"
+    },
+    {
+      "title": "Could Hyrox's Olympic ambition spell the end for triathlon?",
+      "link": "",
+      "summary": "BBC Sport speaks to several triathletes about what World Triathlon's Hyrox partnership means for the future of the sport.",
+      "published": "",
+      "title_zh": "Hyrox 的奥运野心会终结铁人三项吗？",
+      "summary_zh": "BBC 体育频道采访了几位铁人三项运动员，探讨了世界铁人三项赛与 Hyrox 的合作伙伴关系对这项运动的未来意味着什么。"
+    },
+    {
+      "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+      "link": "",
+      "summary": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+      "published": "",
+      "title_zh": "NHS 更多地依赖慈善机构——这可能会给患者带来问题",
+      "summary_zh": "这是卫生服务处于崩溃边缘的征兆，还是公众参与的积极方式？"
+    },
+    {
+      "title": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
+      "link": "",
+      "summary": "In the letter, the late French actress says her partner Bernard de Chiara was \"incapable\" of giving \"support, a tenderness, a presence\".",
+      "published": "",
+      "title_zh": "碧姬·芭杜 (Brigitte Bardot) 致合伙人的私人信件泄露后，遗产纠纷进一步加深",
+      "summary_zh": "这位已故法国女演员在信中表示，她的伴侣伯纳德·德基亚拉“无法”给予“支持、温柔和存在”。"
+    },
+    {
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "link": "",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "published": "",
+      "title_zh": "门将奥沃诺“一生中最艰难的日子”",
+      "summary_zh": "安道尔足球俱乐部门将赫苏斯·奥沃诺通过俱乐部发表声明，表达了特内里费前锋赫苏斯·德米格尔去世后的悲伤和痛苦。"
+    },
+    {
+      "title": "British man infected with Ebola in DR Congo to be flown back to UK",
+      "link": "",
+      "summary": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
+      "published": "",
+      "title_zh": "在刚果民主共和国感染埃博拉病毒的英国男子将乘飞机返回英国",
+      "summary_zh": "政府发言人表示，这种致命病毒对英国公众造成的更广泛风险仍然很低。"
+    },
+    {
+      "title": "Hegseth draws 'chopping block' prediction after GOP losses, but Trump stands firm",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党失利后赫格斯做出“砍刀”预测，但特朗普立场坚定"
+    },
+    {
+      "title": "Socialists score sweeping election wins as $350K-per-household agenda draws scrutiny",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "社会主义者在选举中大获全胜，每户 35 万美元的议程受到审查"
+    },
+    {
+      "title": "MICHAEL RUIZ:70-year-old poet busted for backhanding teen at the polls in viral footage",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈克尔·鲁伊斯：​​70 岁诗人因在投票站反手青少年而被捕"
+    },
+    {
+      "title": "'We are not Democrats': UAW boss makes striking declaration after blue wave wins",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我们不是民主党人”：UAW老板在蓝色浪潮获胜后发表引人注目的声明"
+    },
+    {
+      "title": "Vance forging new alliance with disaffected Trump voters after midterm beatdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "万斯在中期失败后与心怀不满的特朗普选民结成新联盟"
+    },
+    {
+      "title": "Mamdani mocks Vance, Musk and invokes Reagan after wins",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马姆达尼嘲笑万斯、马斯克，并在获胜后援引里根的话"
+    },
+    {
+      "title": "Horrors teen endured detailed after her miraculous rescue from Oregon basement",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "从俄勒冈州地下室奇迹般获救后，青少年经历了详细的恐怖经历"
+    },
+    {
+      "title": "LISTEN:Hero dad calls 911 before rushing into Oregon school to stop teenage gunman",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "听着：英雄爸爸在冲进俄勒冈州学校阻止青少年枪手之前拨打了 911"
+    },
+    {
+      "title": "Mother, daughter found dead after suspected grizzly bear attack on hiking trail",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "母女在徒步小径上疑似灰熊袭击后被发现死亡"
+    },
+    {
+      "title": "Rep Byron Donalds makes Florida history, only to face immediate identity attack",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "众议员拜伦·唐纳德（Byron Donalds）创造了佛罗里达州的历史，但却面临立即的身份攻击"
+    },
+    {
+      "title": "Republican who bucked nationwide blue wave reveals where GOP went wrong",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "抵抗全国蓝色浪潮的共和党人揭示了共和党的错误所在"
+    },
+    {
+      "title": "Charlie Kirk’s widow issues defiant call to conservatives after brutal midterm losses",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "查理柯克的遗孀在中期惨败后向保守派发出挑衅性呼吁"
+    },
+    {
+      "title": "Charlamagne Tha God has a warning for Democrats after their election victories",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "查拉曼·塔神在民主党获胜后向他们发出警告"
+    },
+    {
+      "title": "Washington deputy killed, second on life support after deadly ambush at home",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "华盛顿副议员在家遭遇致命伏击后身亡，第二位依靠生命维持系统"
+    },
+    {
+      "title": "NFL reporter planning return to work 'next week' after coach scandal",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "NFL记者计划在教练丑闻后“下周”重返工作岗位"
+    },
+    {
+      "title": "What Democrats' midterm wins mean for Social Security's looming cuts",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党的中期胜利对即将到来的社会保障削减意味着什么"
+    },
+    {
+      "title": "Arizona State’s Molly Miller turns heads in return for second season with Sun Devils",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚利桑那州立大学的莫莉·米勒 (Molly Miller) 在太阳魔鬼队的第二个赛季备受瞩目"
+    },
+    {
+      "title": "DSA-backed billionaire tax faces defeat in California as experts warn of economic fallout",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家警告经济影响，DSA支持的亿万富翁税在加州面临失败"
     }
   ]
 }

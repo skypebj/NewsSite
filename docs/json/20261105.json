@@ -1,0 +1,320 @@
+{
+  "date": "20261105",
+  "total": 38,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Vance tiptoes out on his own after a midterm wipeout",
+      "link": "https://www.nbcnews.com/politics/jd-vance/vance-midterm-wipeout-republicans-iran-rcna607498",
+      "summary": "",
+      "published": "",
+      "title_zh": "万斯在期中失败后独自踮起脚尖"
+    },
+    {
+      "title": "Mississippi Senate race heads to an extended vote count and possible ballot battle",
+      "link": "https://www.nbcnews.com/politics/2026-election/mississippi-senate-race-heads-extended-vote-count-possible-ballot-batt-rcna607463",
+      "summary": "",
+      "published": "",
+      "title_zh": "密西西比州参议院竞选将延长计票时间并可能出现投票战"
+    },
+    {
+      "title": "Democrats won on affordability. Whether they can deliver it is a different story.",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-affordability-promise-midterms-trump-rcna607409",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党凭借负担能力获胜。他们是否能提供它是一个不同的故事。"
+    },
+    {
+      "title": "Republicans bet the House on redistricting, but Democrats swept through the seats they targeted",
+      "link": "https://www.nbcnews.com/politics/2026-election/republicans-bet-house-redistricting-democrats-swept-seats-targeted-rcna607373",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党押注众议院将重新划分选区，但民主党席卷了他们的目标席位"
+    },
+    {
+      "title": "Trump discussing possible Hegseth replacements, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/trump-discussing-possible-hegseth-replacements-sources-say-rcna607503",
+      "summary": "",
+      "published": "",
+      "title_zh": "消息人士称，特朗普正在讨论可能的赫格斯替代者"
+    },
+    {
+      "title": "Data centers rejected by voters across the country — challenging the AI boom",
+      "link": "https://www.nbcnews.com/tech/tech-news/data-center-rejected-voters-us-challenging-ai-boom-rcna607451",
+      "summary": "",
+      "published": "",
+      "title_zh": "数据中心遭到全国选民的拒绝——挑战人工智能热潮"
+    },
+    {
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "link": "",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+      "published": "",
+      "title_zh": "民主党入主国会后可以利用新权力做什么和不能做什么",
+      "summary_zh": "民主党可以投票通过立法。但特朗普仍然拥有否决权。"
+    },
+    {
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "link": "",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "published": "",
+      "title_zh": "台风袭击东亚，厄尔尼诺现象让太平洋“发烧”",
+      "summary_zh": "即使对于那些经常遭受台风袭击的国家来说，过去几个月也带来了异常恶劣的天气。"
+    },
+    {
+      "title": "Australia's oldest department store David Jones collapses after 188 years",
+      "link": "",
+      "summary": "The brand's 38 physical stores and online sites will continue to operate while receivers review its operations.",
+      "published": "",
+      "title_zh": "澳大利亚最古老的百货公司 David Jones 在 188 年后倒闭",
+      "summary_zh": "该品牌的 38 家实体店和在线网站将继续运营，同时接收者将审查其运营情况。"
+    },
+    {
+      "title": "Anthony Zurcher: Midterm carnage weakens Trump but he still wields power for now",
+      "link": "",
+      "summary": "Trump has given conflicting messages about how he might deal with Democrats in Congress after his party's resounding defeat.",
+      "published": "",
+      "title_zh": "安东尼·祖彻：中期大屠杀削弱了特朗普，但他目前仍掌握权力",
+      "summary_zh": "在民主党惨败后，特朗普就如何应对国会中的民主党人发出了相互矛盾的信息。"
+    },
+    {
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "link": "",
+      "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+      "published": "",
+      "title_zh": "“希望事情能完成”：美国人对历史性政治转变的反应",
+      "summary_zh": "英国广播公司采访了不同州的选民，了解他们对民主党控制参议院和众议院的反应。"
+    },
+    {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "link": "",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "published": "",
+      "title_zh": "乌克兰称随身摄像机视频显示俄罗斯致命的双击爆炸事件",
+      "summary_zh": "基辅称，乌克兰一个村庄周一发生袭击事件，造成至少 40 人死亡，另有 30 人可能仍在废墟下。"
+    },
+    {
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "link": "",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "published": "",
+      "title_zh": "加拿大母女疑似灰熊袭击身亡",
+      "summary_zh": "不列颠哥伦比亚省当局表示，有证据表明，这些妇女的死亡可能与动物有关。"
+    },
+    {
+      "title": "Bowen: Why electoral losses at home could mean Trump takes more action abroad",
+      "link": "",
+      "summary": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+      "published": "",
+      "title_zh": "鲍文：为什么国内选举失败可能意味着特朗普在海外采取更多行动",
+      "summary_zh": "BBC 国际编辑写道，在中期选举结果惨淡之后，特朗普总统将希望证明他仍然可以撼动世界。"
+    },
+    {
+      "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
+      "link": "",
+      "summary": "The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.",
+      "published": "",
+      "title_zh": "德克萨斯州的选民变化如何帮助选举民主党参议员和州长",
+      "summary_zh": "BBC 的罗斯·阿特金斯 (Ros Atkins) 探讨了该州长期以来投票给共和党的记录以及今年选举的不同之处。"
+    },
+    {
+      "title": "Could Hyrox's Olympic ambition spell the end for triathlon?",
+      "link": "",
+      "summary": "BBC Sport speaks to several triathletes about what World Triathlon's Hyrox partnership means for the future of the sport.",
+      "published": "",
+      "title_zh": "Hyrox 的奥运野心会终结铁人三项吗？",
+      "summary_zh": "BBC 体育频道采访了几位铁人三项运动员，探讨了世界铁人三项赛与 Hyrox 的合作伙伴关系对这项运动的未来意味着什么。"
+    },
+    {
+      "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+      "link": "",
+      "summary": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+      "published": "",
+      "title_zh": "NHS 更多地依赖慈善机构——这可能会给患者带来问题",
+      "summary_zh": "这是卫生服务处于崩溃边缘的征兆，还是公众参与的积极方式？"
+    },
+    {
+      "title": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
+      "link": "",
+      "summary": "In the letter, the late French actress says her partner Bernard de Chiara was \"incapable\" of giving \"support, a tenderness, a presence\".",
+      "published": "",
+      "title_zh": "碧姬·芭杜 (Brigitte Bardot) 致合伙人的私人信件泄露后，遗产纠纷进一步加深",
+      "summary_zh": "这位已故法国女演员在信中表示，她的伴侣伯纳德·德基亚拉“无法”给予“支持、温柔和存在”。"
+    },
+    {
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "link": "",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "published": "",
+      "title_zh": "门将奥沃诺“一生中最艰难的日子”",
+      "summary_zh": "安道尔足球俱乐部门将赫苏斯·奥沃诺通过俱乐部发表声明，表达了特内里费前锋赫苏斯·德米格尔去世后的悲伤和痛苦。"
+    },
+    {
+      "title": "British man infected with Ebola in DR Congo to be flown back to UK",
+      "link": "",
+      "summary": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
+      "published": "",
+      "title_zh": "在刚果民主共和国感染埃博拉病毒的英国男子将乘飞机返回英国",
+      "summary_zh": "政府发言人表示，这种致命病毒对英国公众造成的更广泛风险仍然很低。"
+    },
+    {
+      "title": "Hegseth draws 'chopping block' prediction after GOP losses, but Trump stands firm",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党失利后赫格斯做出“砍刀”预测，但特朗普立场坚定"
+    },
+    {
+      "title": "Socialists score sweeping election wins as $350K-per-household agenda draws scrutiny",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "社会主义者在选举中大获全胜，每户 35 万美元的议程受到审查"
+    },
+    {
+      "title": "MICHAEL RUIZ:70-year-old poet busted for backhanding teen at the polls in viral footage",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈克尔·鲁伊斯：​​70 岁诗人因在投票站反手青少年而被捕"
+    },
+    {
+      "title": "'We are not Democrats': UAW boss makes striking declaration after blue wave wins",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“我们不是民主党人”：UAW老板在蓝色浪潮获胜后发表引人注目的声明"
+    },
+    {
+      "title": "Vance forging new alliance with disaffected Trump voters after midterm beatdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "万斯在中期失败后与心怀不满的特朗普选民结成新联盟"
+    },
+    {
+      "title": "Mamdani mocks Vance, Musk and invokes Reagan after wins",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马姆达尼嘲笑万斯、马斯克，并在获胜后援引里根的话"
+    },
+    {
+      "title": "Horrors teen endured detailed after her miraculous rescue from Oregon basement",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "从俄勒冈州地下室奇迹般获救后，青少年经历了详细的恐怖经历"
+    },
+    {
+      "title": "LISTEN:Hero dad calls 911 before rushing into Oregon school to stop teenage gunman",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "听着：英雄爸爸在冲进俄勒冈州学校阻止青少年枪手之前拨打了 911"
+    },
+    {
+      "title": "Mother, daughter found dead after suspected grizzly bear attack on hiking trail",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "母女在徒步小径上疑似灰熊袭击后被发现死亡"
+    },
+    {
+      "title": "Rep Byron Donalds makes Florida history, only to face immediate identity attack",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "众议员拜伦·唐纳德（Byron Donalds）创造了佛罗里达州的历史，但却面临立即的身份攻击"
+    },
+    {
+      "title": "Republican who bucked nationwide blue wave reveals where GOP went wrong",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "抵抗全国蓝色浪潮的共和党人揭示了共和党的错误所在"
+    },
+    {
+      "title": "Charlie Kirk’s widow issues defiant call to conservatives after brutal midterm losses",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "查理柯克的遗孀在中期惨败后向保守派发出挑衅性呼吁"
+    },
+    {
+      "title": "Charlamagne Tha God has a warning for Democrats after their election victories",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "查拉曼·塔神在民主党获胜后向他们发出警告"
+    },
+    {
+      "title": "Washington deputy killed, second on life support after deadly ambush at home",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "华盛顿副议员在家遭遇致命伏击后身亡，第二位依靠生命维持系统"
+    },
+    {
+      "title": "NFL reporter planning return to work 'next week' after coach scandal",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "NFL记者计划在教练丑闻后“下周”重返工作岗位"
+    },
+    {
+      "title": "What Democrats' midterm wins mean for Social Security's looming cuts",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党的中期胜利对即将到来的社会保障削减意味着什么"
+    },
+    {
+      "title": "Arizona State’s Molly Miller turns heads in return for second season with Sun Devils",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚利桑那州立大学的莫莉·米勒 (Molly Miller) 在太阳魔鬼队的第二个赛季备受瞩目"
+    },
+    {
+      "title": "DSA-backed billionaire tax faces defeat in California as experts warn of economic fallout",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家警告经济影响，DSA支持的亿万富翁税在加州面临失败"
+    }
+  ]
+}
