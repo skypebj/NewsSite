@@ -1,6 +1,6 @@
 {
   "date": "20261106",
-  "total": 42,
+  "total": 34,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,310 +37,256 @@
   },
   "entries": [
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "published": "",
-      "title_zh": "市值蒸发数万亿美元后，人工智能股票攀升",
-      "summary_zh": "投资者一直在抛售科技股，部分原因是担心民主党选举胜利将意味着人工智能发展放缓。"
-    },
-    {
-      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
-      "link": "",
-      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
-      "published": "",
-      "title_zh": "关于震撼印度尼西亚的总统窃听丑闻，您需要了解什么",
-      "summary_zh": "该丑闻涉及普拉博沃·苏比安托总统政府的高级成员，暗示其精英阶层之间的紧张关系日益加剧。"
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "",
-      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "published": "",
-      "title_zh": "卫星图像显示，伊朗导弹基地附近正在进行重大建设",
-      "summary_zh": "卫星图像显示，在 11 月份拍摄的卫星图像中可以看到挖掘和新建筑的证据。"
-    },
-    {
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "link": "",
-      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-      "published": "",
-      "title_zh": "美国中期选举结果引发以色列对两国关系未来的担忧",
-      "summary_zh": "美国对以色列的坚定支持被认为是共和党表现如此糟糕的原因之一。"
-    },
-    {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "link": "",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "published": "",
-      "title_zh": "埃隆·马斯克似乎预示着赛博卡车之路的终结",
-      "summary_zh": "马斯克表示，这是为了为其生产 Cyber​​cabs（没有司机的自动驾驶出租车）腾出空间。"
-    },
-    {
-      "title": "'We had no idea how ill she was': Bono on recording Dolly Parton's last song",
-      "link": "",
-      "summary": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
-      "published": "",
-      "title_zh": "“我们不知道她病得有多严重”：波诺谈录制多莉·帕顿的最后一首歌",
-      "summary_zh": "摇滚乐队讨论了帕顿去世前的最后一张唱片，以及他们拒绝在舞台上接受审查的原因。"
-    },
-    {
-      "title": "Who's running and what's at stake this New Zealand election",
-      "link": "",
-      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "published": "",
-      "title_zh": "谁参加了这次新西兰选举以及有哪些利害关系",
-      "summary_zh": "新西兰人将于 11 月 7 日投票选举新政府，生活成本上升是选民主要关心的问题。"
-    },
-    {
-      "title": "Olivia Rodrigo's Christmas song sounds familiar... on purpose",
-      "link": "",
-      "summary": "The pop star sought permission from cult 80s band The Waitresses before releasing her festive single.",
-      "published": "",
-      "title_zh": "奥利维亚·罗德里戈的圣诞歌曲听起来很熟悉……故意的",
-      "summary_zh": "这位流行歌星在发行她的节日单曲之前，征求了 80 年代邪教乐队 The Waitresses 的许可。"
-    },
-    {
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "link": "",
-      "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-      "published": "",
-      "title_zh": "一场野火杀死了他们在西班牙的亲人。这些英国家庭想知道原因",
-      "summary_zh": "今年夏天贝达尔村发生火灾，造成 15 人死亡，其中包括 9 名英国公民。"
-    },
-    {
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "link": "",
-      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "published": "",
-      "title_zh": "坦桑尼亚反对派领导人因煽动骚乱被判有罪，但叛国罪被无罪释放",
-      "summary_zh": "这位 58 岁的男子自去年 4 月以来一直被拘留，他表示这些指控是出于政治动机。"
-    },
-    {
-      "title": "Some media firms evacuated after hoax bomb threats",
-      "link": "",
-      "summary": "Gardaí say they are \"aware of a threat made against media organisations here and in Europe\".",
-      "published": "",
-      "title_zh": "一些媒体公司在收到恶作剧炸弹威胁后撤离",
-      "summary_zh": "警察表示，他们“意识到这里和欧洲媒体组织受到的威胁”。"
-    },
-    {
-      "title": "'A beautiful story' as Bellingham brothers called up",
-      "link": "",
-      "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-      "published": "",
-      "title_zh": "贝林厄姆兄弟称其为“一个美丽的故事”",
-      "summary_zh": "这可能会让一些人感到惊讶，但乔布·贝林厄姆征召英格兰国家队已经等了很长时间了。"
-    },
-    {
-      "title": "The U.S. added 165,000 jobs in October, a bright spot for the economy",
-      "link": "https://www.nbcnews.com/business/economy/us-added-jobs-october-risks-stagnation-rcna607812",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国10月新增就业16.5万个 经济亮点"
-    },
-    {
-      "title": "Trump heads to NASA expo as vote counting continues in Alaska and Mississippi",
-      "link": "https://www.nbcnews.com/politics/2026-election/live-blog/trump-congress-midterm-elections-mississippi-alaska-live-updates-rcna607738",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普前往美国宇航局博览会，阿拉斯加和密西西比州计票仍在继续"
-    },
-    {
-      "title": "Hasan Piker draws new viewers as he jokingly ushers in ‘Woke 3.0’ on election night",
-      "link": "https://www.nbcnews.com/tech/tech-news/hasan-piker-election-night-streams-audience-rcna607438",
-      "summary": "",
-      "published": "",
-      "title_zh": "哈桑·派克 (Hasan Piker) 在选举之夜开玩笑地迎来了“Woke 3.0”，吸引了新观众"
-    },
-    {
-      "title": "Israel reels as midterms and Trump’s $4B aid cut point to dramatic shift in U.S. relations",
-      "link": "https://www.nbcnews.com/world/israel/israel-us-relations-midterms-trump-aid-halt-netanyahu-palestinians-rcna607802",
-      "summary": "",
-      "published": "",
-      "title_zh": "中期选举和特朗普削减 40 亿美元援助，以色列举步维艰，预示着美国关系将发生巨大转变"
-    },
-    {
-      "title": "The latest science on delaying or preventing Alzheimer’s disease",
-      "link": "https://www.nbcnews.com/health/aging/are-approaching-new-era-alzheimers-prevention-rcna607501",
-      "summary": "",
-      "published": "",
-      "title_zh": "延缓或预防阿尔茨海默病的最新科学"
-    },
-    {
-      "title": "Bomb threats fuel disruption, anxiety and a mystery in Europe",
-      "link": "https://www.nbcnews.com/world/europe/bomb-threats-europe-flights-newsrooms-russia-rcna607499",
-      "summary": "",
-      "published": "",
-      "title_zh": "炸弹威胁加剧了欧洲的混乱、焦虑和神秘"
-    },
-    {
-      "title": "Martha Stewart sits down with Craig Melvin to address halloween costume controversy",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/martha-stewart-sits-craig-melvin-address-halloween-costume-controversy-rcna607824",
-      "summary": "",
-      "published": "",
-      "title_zh": "玛莎·斯图尔特与克雷格·梅尔文坐下来讨论万圣节服装争议"
-    },
-    {
-      "title": "Could playing Sylvester Stallone put Anthony Ippolito in the Oscar ring?",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/i-play-rocky-sylvester-stallone-actor-anthony-ippolito-awards-buzz-rcna606023",
-      "summary": "",
-      "published": "",
-      "title_zh": "饰演西尔维斯特·史泰龙能否让安东尼·伊波利托跻身奥斯卡之列？"
-    },
-    {
-      "title": "We want to hear your experience with changes to student loan repayment plans",
-      "link": "https://www.nbcnews.com/news/education/changes-student-loan-repayment-plans-share-experience-rcna607624",
-      "summary": "",
-      "published": "",
-      "title_zh": "我们想听听您对学生贷款还款计划变更的体验"
-    },
-    {
-      "title": "How octopuses squeeze through holes that seem impossibly tiny",
-      "link": "https://www.nbcnews.com/science/science-news/how-octopuses-squeeze-through-holes-rcna607835",
-      "summary": "",
-      "published": "",
-      "title_zh": "章鱼如何挤过看似小得不可思议的洞"
-    },
-    {
-      "title": "One industry faces multitrillion-dollar reckoning after historic midterm election reshuffle",
+      "title": "Trump taps Stephen Miller as White House chief of staff, replacing Susie Wiles",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "历史性中期选举改组后，一个行业面临数万亿美元的清算"
+      "title_zh": "特朗普任命斯蒂芬·米勒接替苏西·怀尔斯担任白宫办公厅主任"
     },
     {
-      "title": "Fetterman and El-Sayed's nasty feud heads to Senate as Schumer pushes for unity",
+      "title": "'Important' evidence recovered from Florida plane crash site, pilots had been given warning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "舒默推动团结，费特曼和埃尔-赛义德的不和将进入参议院"
+      "title_zh": "从佛罗里达飞机失事现场找到的“重要”证据，飞行员已收到警告"
     },
     {
-      "title": "NBA singer mocks national anthem with Pride flag stunt during performance",
+      "title": "Democrats who vowed to cut costs immediately pivot to threatening subpoenas",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NBA歌手在表演中用骄傲旗特技嘲笑国歌"
+      "title_zh": "发誓要削减成本的民主党人立即转向威胁传票"
     },
     {
-      "title": "Meghan Markle's father arrested after alleged child pornography discovery",
+      "title": "Trump says US is 'doing very well' with Iran as talks continue amid threat of new strike",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "梅根·马克尔的父亲因涉嫌儿童色情内容被捕"
+      "title_zh": "特朗普表示，在新一轮袭击的威胁下，谈判仍在继续，美国与伊朗“做得很好”"
     },
     {
-      "title": "Progressive blueprint maps out potential Dem investigations into Trump, corporate allies",
+      "title": "'Influenced by no one': Rep Anna Paulina Luna makes bold new pledge",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "进步蓝图描绘了民主党对特朗普和企业盟友的潜在调查"
+      "title_zh": "“不受任何人影响”：众议员安娜·宝琳娜·卢纳做出大胆的新承诺"
     },
     {
-      "title": "Netanyahu responds after Trump announces end of $4B in US military aid to Israel",
+      "title": "Texas blue wave delivers immediate win as city cops told to stop calling feds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普宣布结束美国对以色列 4B 美元军事援助后，内塔尼亚胡做出回应"
+      "title_zh": "德克萨斯州蓝波立即取得胜利，市警察被告知停止致电联邦调查局"
     },
     {
-      "title": "ICE chief rips big city's sanctuary laws as agents tackle criminal migrants on streets",
+      "title": "MICHAEL RUIZ:Prosecutors revolt after Newsom orders worst killers off death row",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "ICE 局长撕毁大城市的庇护法，特工们在街头对付犯罪移民"
+      "title_zh": "迈克尔·鲁伊斯：​​纽瑟姆下令最坏的杀手离开死囚区后，检察官反抗"
     },
     {
-      "title": "NBA legend's retirement plan kicks in at 55 and the monthly figure will stun you",
+      "title": "Chef fired after refusing controversial pizza topping at restaurant",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NBA传奇人物的退休计划从55岁开始，每月的数字让你震惊"
+      "title_zh": "厨师因拒绝在餐厅添加有争议的披萨配料而被解雇"
     },
     {
-      "title": "SEE PIC:Kid Rock shows off insanely epic hunting kill while adding a political joke",
+      "title": "Anti-data center protesters clash with police at Microsoft construction site",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "看图：摇滚小子展示了疯狂的史​​诗般的狩猎杀戮，同时添加了一个政治笑话"
+      "title_zh": "反数据中心抗议者在微软建筑工地与警察发生冲突"
     },
     {
-      "title": "JOIN THE CONVERSATION:Share your thoughts on the new balance of power in Congress",
+      "title": "Bill Paxton's son steps into late dad's abandoned role in emotional twist of fate",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加入对话：分享您对国会新权力平衡的看法"
+      "title_zh": "比尔·帕克斯顿的儿子在命运的情感扭曲中接替了已故父亲放弃的角色"
     },
     {
-      "title": "Sophie Cunningham reacts to backlash over election post with fiery Mike Tyson quote",
+      "title": "Meghan Markle's father Thomas arrested in Florida, law enforcement source says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 用迈克·泰森 (Mike Tyson) 的激烈言论回应了对选举帖子的强烈反对"
+      "title_zh": "执法消息人士称，梅根​​·马克尔的父亲托马斯在佛罗里达州被捕"
     },
     {
-      "title": "Carville warns Dems they'll 'pay for it' if party revives DEI, woke after midterm wins",
+      "title": "Suspected shark spotted swimming through flooded Florida streets",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡维尔警告民主党，如果民主党重振 DEI，他们将“为此付出代价”，在中期选举获胜后醒来"
+      "title_zh": "佛罗里达州被洪水淹没的街道被发现疑似鲨鱼在游动"
     },
     {
-      "title": "EXPLORE THE DATA:Fox News Voter Poll reveals who cast ballots, factors behind choices",
+      "title": "Florida father of 4 dies in flash flood after a haunting final call to his wife",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "探索数据：福克斯新闻选民民意调查揭示了投票者以及选择背后的因素"
+      "title_zh": "佛罗里达州四个孩子的父亲在给妻子打了最后一通令人难以忘怀的电话后在山洪中丧生"
     },
     {
-      "title": "Riley Gaines breaks down what Democrats' election wins mean for the future of women's sports",
+      "title": "Ravens star's wife steals the show in the team's dreadful loss to the Jaguars",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "莱利·盖恩斯剖析了民主党的选举胜利对女子体育的未来意味着什么"
+      "title_zh": "乌鸦队球星的妻子在球队惨败给美洲虎队的比赛中抢尽风头"
     },
     {
-      "title": "Eating a common kitchen staple first may help control blood sugar spikes from meals",
+      "title": "Why the US midterms sparked an AI stock selloff",
       "link": "",
-      "summary": "",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
       "published": "",
-      "title_zh": "首先吃常见的厨房主食可能有助于控制膳食引起的血糖峰值"
+      "title_zh": "为什么美国中期选举引发人工智能股票抛售",
+      "summary_zh": "对更多人工智能监管的担忧似乎引发了投资者的担忧，但一段时间以来对该行业的担忧一直在加剧。"
     },
     {
-      "title": "Florida amendment hands older homeowners enormous win: What to know",
+      "title": "Four midterms takeaways for 2028 White House race",
       "link": "",
-      "summary": "",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
       "published": "",
-      "title_zh": "佛罗里达州修正案为老年房主带来巨大胜利：要知道什么"
+      "title_zh": "2028 年白宫竞选的四个中期要点",
+      "summary_zh": "关于总统选举的热议已经开始——这是我们本周了解到的情况。"
     },
     {
-      "title": "Former MIT professor wins huge payday in #MeToo case as texts split open claims",
+      "title": "Trump names Stephen Miller as new White House chief of staff",
       "link": "",
-      "summary": "",
+      "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
       "published": "",
-      "title_zh": "前麻省理工学院教授在#MeToo案件中赢得巨额发薪日，因为文本分裂了公开索赔"
+      "title_zh": "特朗普任命斯蒂芬·米勒为新任白宫办公厅主任",
+      "summary_zh": "米勒被认为是特朗普强硬移民政策的设计师，将于周一接任这一职务。"
     },
     {
-      "title": "Travelers warned of costly new scam targeting Americans planning vacations to popular spot",
+      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
       "link": "",
-      "summary": "",
+      "summary": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
       "published": "",
-      "title_zh": "旅行者警告称，针对计划去热门景点度假的美国人的代价高昂的新骗局"
+      "title_zh": "凯瑟琳·瑞安 (Katherine Ryan) 表示，拉塞尔·布兰德 (Russell Brand) 被定罪后，她感到“悲伤和宽慰”",
+      "summary_zh": "这位喜剧演员此前曾谈到过娱乐圈中一位不知名的“掠夺者”。"
     },
     {
-      "title": "John Harbaugh's emotional tribute to 24-year-old NYC Marathon athlete stuns media",
+      "title": "Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta",
       "link": "",
-      "summary": "",
+      "summary": "The newest residents of Zoo Atlanta are on loan from China as part of a six-year agreement.",
       "published": "",
-      "title_zh": "约翰·哈博 (John Harbaugh) 对 24 岁纽约马拉松运动员的情感致敬震惊了媒体"
+      "title_zh": "认识付爽和乒乓球：亚特兰大的新大熊猫",
+      "summary_zh": "作为六年协议的一部分，亚特兰大动物园的最新居民是从中国借来的。"
     },
     {
-      "title": "Violence erupt across France after left-wing groups call for mobilization",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
       "link": "",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "published": "",
+      "title_zh": "前奥巴马助手表示，数十名民主党人正在考虑参加 2028 年总统竞选",
+      "summary_zh": "吉姆·梅西纳 (Jim Messina) 告诉英国广播公司 (BBC)，民主党取得中期胜利后，他与“超过二十个竞选团队”进行了交谈，其中一些已经在招聘工作人员。"
+    },
+    {
+      "title": "Excuse my French? The swear words that used to be illegal in Canada",
+      "link": "",
+      "summary": "Quebec has perfected such a vast variety of profanity that it's been called \"the Amazon rainforest of swear words\".",
+      "published": "",
+      "title_zh": "请原谅我的法语？曾经在加拿大违法的脏话",
+      "summary_zh": "魁北克省的脏话种类繁多，被称为“脏话的亚马逊雨林”。"
+    },
+    {
+      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "link": "",
+      "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+      "published": "",
+      "title_zh": "“有人问我是否爱哭”：你最糟糕的工作面试揭秘",
+      "summary_zh": "糟糕的工作面试在当下可能会让人感到可怕，但它们可以教会我们很多关于工作世界的知识"
+    },
+    {
+      "title": "Did a data centre revolt affect the US midterm election results?",
+      "link": "",
+      "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+      "published": "",
+      "title_zh": "数据中心的叛乱影响了美国中期选举结果吗？",
+      "summary_zh": "BBC verify 调查了美国选民是否受到数据中心繁荣的影响，以及反人工智能情绪可能对该行业产生的影响。"
+    },
+    {
+      "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+      "link": "",
+      "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+      "published": "",
+      "title_zh": "2000 年代的小伙子文化如何帮助拉塞尔·布兰德 (Russell Brand) 隐藏在众目睽睽之下",
+      "summary_zh": "BBC 媒体编辑凯蒂·拉扎尔 (Katie Razzall) 写道，导致布兰德被起诉的行为也帮助他提升了地位。"
+    },
+    {
+      "title": "Democrat leads by just over 2,000 votes in surprisingly tight Mississippi Senate race",
+      "link": "",
+      "summary": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
+      "published": "",
+      "title_zh": "密西西比州参议员竞选异常激烈，民主党以略高于 2,000 票的优势领先",
+      "summary_zh": "如果民主党人斯科特·科洛姆赢得竞选，他可能成为自 1875 年以来第一位在密西西比州当选的美国黑人参议员。"
+    },
+    {
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "published": "",
+      "title_zh": "乌尔达铁路灾难后，西班牙铁路当局面临欧洲欺诈调查",
+      "summary_zh": "检察官开始调查欧盟用于升级西班牙铁路线的资金，该铁路线发生火车事故，造成 69 人死亡。"
+    },
+    {
+      "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+      "link": "",
+      "summary": "MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas.",
+      "published": "",
+      "title_zh": "三岁孩子的人工智能泰迪会无意识地说“我忍不住要杀了你”",
+      "summary_zh": "国会议员和同行敦促零售商在黑色星期五和圣诞节之前停止销售人工智能玩具。"
+    },
+    {
+      "title": "Keenan completes hat-trick against Argentina - radio and text",
+      "link": "",
+      "summary": "Follow live text updates as Ireland host Argentina in the Nations Championship at Aviva Stadium, Dublin.",
+      "published": "",
+      "title_zh": "基南在对阵阿根廷的比赛中上演帽子戏法 - 广播和短信",
+      "summary_zh": "关注爱尔兰在都柏林英杰华体育场举行的国家锦标赛中主场迎战阿根廷的实时文字更新。"
+    },
+    {
+      "title": "Trump names Stephen Miller his new chief of staff",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892",
       "summary": "",
       "published": "",
-      "title_zh": "左翼团体呼吁动员，法国各地爆发暴力事件"
+      "title_zh": "特朗普任命斯蒂芬·米勒为新任幕僚长"
+    },
+    {
+      "title": "How Abdul El-Sayed swung young men from Trump by 55 points in Michigan",
+      "link": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-young-men-trump-55-points-michigan-rcna607572",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿卜杜勒·赛义德 (Abdul El-Sayed) 如何在密歇根州以 55 个百分点的优势将年轻人从特朗普手中甩开"
+    },
+    {
+      "title": "South Florida candidate sues election official, alleging bias in a contentious, razor-thin race",
+      "link": "https://www.nbcnews.com/politics/2026-election/south-florida-miami-rodriguez-sues-supervisor-elections-garcia-salazar-rcna607841",
+      "summary": "",
+      "published": "",
+      "title_zh": "南佛罗里达州候选人起诉选举官员，指控在一场有争议的、微弱的竞选中存在偏见"
+    },
+    {
+      "title": "Cornell faculty senate issues no confidence vote on administration’s handling of sexual assault",
+      "link": "https://www.nbcnews.com/news/education/cornell-faculty-senate-issues-no-confidence-vote-administrations-handl-rcna607286",
+      "summary": "",
+      "published": "",
+      "title_zh": "康奈尔大学教师参议院对政府处理性侵犯的方式进行不信任投票"
+    },
+    {
+      "title": "Meghan Markle’s father arrested in Florida over alleged child sexual abuse material",
+      "link": "https://www.nbcnews.com/news/us-news/meghans-father-thomas-markle-arrested-florida-child-sexual-abuse-rcna607836",
+      "summary": "",
+      "published": "",
+      "title_zh": "梅根·马克尔的父亲因涉嫌儿童性虐待内容在佛罗里达州被捕"
+    },
+    {
+      "title": "She’s got a friend in Hollywood: Looking at mayor-elect Nithya Raman’s industry support",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/nithya-raman-hollywood-support-rcna607726",
+      "summary": "",
+      "published": "",
+      "title_zh": "她在好莱坞有一个朋友：看看当选市长 Nithya Raman 的行业支持"
     }
   ]
 }
