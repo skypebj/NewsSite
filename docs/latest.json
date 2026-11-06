@@ -1,6 +1,6 @@
 {
-  "date": "20261105",
-  "total": 45,
+  "date": "20261106",
+  "total": 36,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,335 +37,270 @@
   },
   "entries": [
     {
-      "title": "What can Democrats do with control of Congress? We answer your US midterms questions",
-      "link": "",
-      "summary": "After winning both the Senate and the House from the Republicans, Democrats will control both chambers of Congress for the rest of Trump's term.",
-      "published": "",
-      "title_zh": "民主党可以通过控制国会做什么？我们回答您的美国中期选举问题",
-      "summary_zh": "在从共和党手中赢得参议院和众议院后，民主党将在特朗普剩余任期内控制国会两院。"
-    },
-    {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "link": "",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "published": "",
-      "title_zh": "巴拉圭总统圣地亚哥·佩纳因银行倒闭而辞职",
-      "summary_zh": "此举是在银行倒闭以及国会下议院投票支持对他进行弹劾审判之后做出的。"
-    },
-    {
-      "title": "Boebert, billionaires' tax and other midterms races still to watch",
-      "link": "",
-      "summary": "Democrats have taken control of the House and Senate, and are eyeing some more with several key races still too close to call.",
-      "published": "",
-      "title_zh": "博伯特、亿万富翁的税收和其他中期选举仍有待观察",
-      "summary_zh": "民主党已经控制了众议院和参议院，并且正在考虑更多的控制权，因为几场关键竞选仍势均力敌。"
-    },
-    {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "",
-      "summary": "California has historically had the largest population of people on death row in the US.",
-      "published": "",
-      "title_zh": "加州州长为该州 548 名死囚减刑",
-      "summary_zh": "加州历来是美国死囚人数最多的州。"
-    },
-    {
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "link": "",
-      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "published": "",
-      "title_zh": "骗局炸弹威胁一周内第二次针对欧洲航空公司和机场",
-      "summary_zh": "欧洲各地至少 21 架航班受到英国政府所谓的“恶意骗局威胁”的影响。"
-    },
-    {
-      "title": "Messages reveal how bomb hoax threat was passed on by air traffic control",
-      "link": "",
-      "summary": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-      "published": "",
-      "title_zh": "消息揭示了空中交通管制如何传递炸弹恶作剧威胁",
-      "summary_zh": "BBC verify 一直在分析欧洲航班遭受虚假炸弹威胁后的信息，这是本周发生的第二起此类事件。"
-    },
-    {
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "link": "",
-      "summary": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-      "published": "",
-      "title_zh": "拉塞尔·布兰德被判犯有强奸和性侵犯罪",
-      "summary_zh": "据报道，布兰德被告知预计将被判处“一定期限”的监禁，并面临更多强奸指控。"
-    },
-    {
-      "title": "Inside Mississippi's ballot counting in tight Senate race",
-      "link": "",
-      "summary": "The BBC's Carl Nasman goes inside a county election commission building as votes are counted in the race between Democrat Scott Colom and Republican Cindy Hyde-Smith.",
-      "published": "",
-      "title_zh": "密西西比州在激烈的参议院竞选中计票的内部情况",
-      "summary_zh": "BBC 的卡尔·纳斯曼 (Carl Nasman) 走进县选举委员会大楼，此时民主党人斯科特·科洛姆 (Scott Colom) 与共和党人辛迪·海德·史密斯 (Cindy Hyde-Smith) 的竞选正在计票。"
-    },
-    {
-      "title": "Democrat leads by just over 1,000 votes in surprisingly tight Mississippi Senate race",
-      "link": "",
-      "summary": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
-      "published": "",
-      "title_zh": "密西西比州参议员竞选异常激烈，民主党以略高于 1,000 票的优势领先",
-      "summary_zh": "如果民主党人斯科特·科洛姆赢得竞选，他可能成为自 1875 年以来第一位在密西西比州当选的美国黑人参议员。"
-    },
-    {
-      "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
-      "link": "",
-      "summary": "Their message on cost of living resonated with voters. Now they must show they can deliver.",
-      "published": "",
-      "title_zh": "食品、燃料和税收——民主党真的能让生活变得更便宜吗？",
-      "summary_zh": "他们关于生活成本的信息引起了选民的共鸣。现在他们必须证明他们可以兑现承诺。"
-    },
-    {
-      "title": "The Russell Brand I saw in court was not the flamboyant character most people will know",
-      "link": "",
-      "summary": "Brand stood upright in the dock as the verdicts were read out in court - ending this sometimes surreal trial.",
-      "published": "",
-      "title_zh": "我在法庭上看到的拉塞尔·布兰德并不是大多数人所认识的那种浮夸的性格",
-      "summary_zh": "当法庭宣读判决时，布兰德在被告席上笔直地站着——结束了这场有时超现实的审判。"
-    },
-    {
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
-      "link": "",
-      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-      "published": "",
-      "title_zh": "罗纳尔多的痛苦结局——这位改变葡萄牙的偶像宣布退役",
-      "summary_zh": "随着克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 从国际足坛退役，吉列姆·巴拉格 (Guillem Balague) 探讨了这位葡萄牙传奇人物的退役原因以及下一步行动。"
-    },
-    {
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "link": "",
-      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "published": "",
-      "title_zh": "克里斯 vs 克里斯：谁参加竞选以及这次新西兰选举的利害关系",
-      "summary_zh": "新西兰人将于 11 月 7 日投票选举新政府，生活成本上升是选民主要关心的问题。"
-    },
-    {
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "link": "",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "published": "",
-      "title_zh": "教皇利奥在罗马官邸接待鲍勃·迪伦",
-      "summary_zh": "利奥教皇此前曾在一本警告核重新军备的书的序言中引用过迪伦的著作。"
-    },
-    {
-      "title": "World record 53 red cards shown in Brazilian youth game",
-      "link": "",
-      "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-      "published": "",
-      "title_zh": "巴西青少年比赛共出示53张红牌，创下世界纪录",
-      "summary_zh": "在巴西 Uberlandia 和 Mamore 之间的 20 岁以下青少年锦标赛比赛中，43 名球员、8 名工作人员和 2 名董事会成员被罚下场，创下了世界纪录。"
-    },
-    {
-      "title": "Altar Stone mystery continues as Stonehenge theory overturned",
-      "link": "",
-      "summary": "It was thought the Stonehenge artefact was from north east Scotland but a new study disputes that.",
-      "published": "",
-      "title_zh": "随着巨石阵理论被推翻，祭坛石之谜仍在继续",
-      "summary_zh": "人们认为巨石阵文物来自苏格兰东北部，但一项新的研究对此提出了质疑。"
-    },
-    {
-      "title": "Anticipation, optimism take hold as Mississippi’s Senate race becomes a nail-biter",
-      "link": "https://www.nbcnews.com/politics/2026-election/mississippis-senate-race-colom-hyde-smith-rcna607436",
+      "title": "Why plunging tech stocks might be just what the market needed",
+      "link": "https://www.nbcnews.com/business/markets/tech-sell-stock-market-needed-rcna607724",
       "summary": "",
       "published": "",
-      "title_zh": "密西西比州参议院竞选变得紧张，期待和乐观情绪盛行"
+      "title_zh": "为什么科技股暴跌可能正是市场所需要的"
     },
     {
-      "title": "Scott Colom criticizes Democrats for writing off Mississippi",
-      "link": "https://www.nbcnews.com/politics/2026-election/scott-colom-criticizes-democrats-writing-mississippi-close-senate-vote-rcna607676",
+      "title": "A district-level look at shifts across the House battlefield",
+      "link": "https://www.nbcnews.com/politics/2026-election/district-level-look-huge-shifts-house-battlefield-rcna607668",
       "summary": "",
       "published": "",
-      "title_zh": "斯科特·科洛姆批评民主党取消密西西比州"
+      "title_zh": "从地区层面审视众议院战场的变化"
     },
     {
-      "title": "‘Everyone was mad’: How anger helped fuel Latino voter turnout and Democratic shift in Texas",
-      "link": "https://www.nbcnews.com/politics/2026-election/texas-latino-voter-turnout-historic-democratic-shift-rcna607455",
+      "title": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642",
       "summary": "",
       "published": "",
-      "title_zh": "“每个人都疯了”：愤怒如何推动了德克萨斯州拉丁裔选民的投票率和民主党的转变"
+      "title_zh": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval"
     },
     {
-      "title": "Head of DOJ Civil Rights Division resigns after GOP midterms loss",
-      "link": "https://www.nbcnews.com/politics/justice-department/head-doj-civil-rights-division-resigns-gop-midterms-loss-rcna607697",
+      "title": "Pete Hegseth strikes defiant tone in face of impeachment threat",
+      "link": "https://www.nbcnews.com/politics/trump-administration/secretary-pete-hegseth-defiant-tone-impeachment-threat-thomas-massie-rcna607788",
       "summary": "",
       "published": "",
-      "title_zh": "共和党中期选举失利后，司法部民权部门负责人辞职"
+      "title_zh": "Pete Hegseth strikes defiant tone in face of impeachment threat"
     },
     {
-      "title": "California Gov. Gavin Newsom commutes all death sentences",
-      "link": "https://www.nbcnews.com/news/us-news/california-gov-gavin-newsom-commutes-death-sentences-rcna607727",
+      "title": "Brands lean into human creativity as handcrafted art becomes more of a luxury in the age of AI",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/brands-lean-human-creativity-handcrafted-art-becomes-luxury-age-ai-rcna607134",
       "summary": "",
       "published": "",
-      "title_zh": "加州州长加文·纽瑟姆减刑所有死刑"
+      "title_zh": "随着人工智能时代手工艺术变得更加奢侈，品牌倾向于人类创造力"
     },
     {
-      "title": "Wisconsin reports its first measles death in decades, the third in the U.S. this week",
-      "link": "https://www.nbcnews.com/health/health-news/wisconsin-measles-death-us-third-week-rcna607701",
+      "title": "Bird flu didn’t turn into a pandemic, but it never went away, either",
+      "link": "https://www.nbcnews.com/health/health-news/bird-flu-didnt-turn-pandemic-never-went-away-either-rcna607694",
       "summary": "",
       "published": "",
-      "title_zh": "威斯康星州报告数十年来首例麻疹死亡病例，这是美国本周的第三例死亡病例"
+      "title_zh": "禽流感没有演变成大流行，但也从未消失"
     },
     {
-      "title": "LIV Golf plans to shut down",
-      "link": "https://www.nbcnews.com/business/business-news/liv-golf-headed-bankruptcy-last-minute-rescue-rcna607677",
+      "title": "Russia and Ukraine exchange airstrikes as U.S. envoy describes renewed talks as productive",
+      "link": "https://www.nbcnews.com/world/ukraine/russia-ukraine-exchange-airstrikes-us-envoy-describes-renewed-security-rcna607778",
       "summary": "",
       "published": "",
-      "title_zh": "LIV Golf 计划关闭"
+      "title_zh": "俄罗斯和乌克兰相互空袭，美国特使称新一轮谈判富有成效"
     },
     {
-      "title": "Microplastics are altering the color of the ocean, and the changes can be seen from space",
-      "link": "https://www.nbcnews.com/science/environment/microplastics-changing-color-ocean-study-rcna607070",
+      "title": "Former pro-democracy lawmaker sentenced to 12 1/2 years in Macao’s first national security case",
+      "link": "https://www.nbcnews.com/world/asia/former-democracy-lawmaker-sentenced-12-years-macao-national-security-rcna607796",
       "summary": "",
       "published": "",
-      "title_zh": "微塑料正在改变海洋的颜色，从太空中可以看到这种变化"
+      "title_zh": "前民主派议员在澳门首例国家安全案件中被判12.5年有期徒刑"
     },
     {
-      "title": "Melania Trump calls for ‘enduring’ Russia-Ukraine peace as she hosts top officials",
-      "link": "https://www.nbcnews.com/world/ukraine/melania-trump-host-russia-ukraine-representatives-white-house-rare-mee-rcna607390",
-      "summary": "",
-      "published": "",
-      "title_zh": "梅拉尼娅·特朗普在接待高级官员时呼吁俄罗斯与乌克兰“持久”和平"
-    },
-    {
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "link": "https://www.nbcnews.com/world/united-kingdom/russell-brand-guilty-rape-sexual-assault-rcna606967",
-      "summary": "",
-      "published": "",
-      "title_zh": "拉塞尔·布兰德被判犯有强奸和性侵犯罪"
-    },
-    {
-      "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
+      "title": "El-Sayed's fury toward journalists shows a pattern critics find alarming",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党中期选举引发人工智能监管担忧，股市暴跌"
+      "title_zh": "埃尔·赛义德对记者的愤怒表明批评者认为令人震惊的模式"
     },
     {
-      "title": "Hegseth demands $350B for military, fires back at Dem impeachment push",
+      "title": "Gunman opens fire on Colorado police officers, leaving one dead and 3 wounded",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Hegseth 要求 350B 美元用于军事，回击民主党的弹劾推动"
+      "title_zh": "枪手向科罗拉多州警察开枪，造成1人死亡、3人受伤"
     },
     {
-      "title": "Democratic socialists set to lead America’s two largest cities after Raman ousts Bass",
+      "title": "Chiefs star files for bankruptcy, puts Super Bowl ring up as collateral",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拉曼驱逐巴斯后，民主社会主义者将领导美国最大的两个城市"
+      "title_zh": "酋长球星申请破产，以超级碗戒指作为抵押"
     },
     {
-      "title": "'Decoy Dan' scheme draws FBI, House scrutiny as ex-lawmaker details mystery recruiter",
+      "title": "Trump signs proclamation to prevent changes to certain parts of White House",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“诱饵丹”计划引起联邦调查局和众议院审查，前议员详细介绍了神秘招募人员"
+      "title_zh": "特朗普签署公告，防止白宫某些部分发生变化"
     },
     {
-      "title": "Far-left Democrat who won crucial Senate race gets into heated spat with reporter",
+      "title": "Outrage ensues as Gavin Newsom makes sweeping move on death penalty",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "赢得关键参议院选举的极左民主党人与记者发生激烈争吵"
+      "title_zh": "加文·纽瑟姆对死刑采取全面行动，引发愤怒"
     },
     {
-      "title": "Escaped killer took more than a truck from farm hideout, sheriff says",
+      "title": "Trump meets with national security team as US prepares for possible new strikes on Iran",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "警长称，逃跑的杀手从农场藏身处抢走了超过一辆卡车"
+      "title_zh": "特朗普会见国家安全团队，美国准备对伊朗进行新的打击"
     },
     {
-      "title": "Cops return to home months after husband begged for help on 911 for his dying wife",
+      "title": "Trump points finger at Democrats after brutal day for Wall Street stocks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "丈夫拨打 911 为垂死的妻子求救几个月后，警察返回家中"
+      "title_zh": "在华尔街股市经历残酷的一天后，特朗普将矛头指向民主党"
     },
     {
-      "title": "Russell Brand learns fate in rape, sexual assault trial as jury reaches verdict",
+      "title": "JOIN THE CONVERSATION:What's the 2028 impact in the wake of the midterms?",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "陪审团做出裁决，拉塞尔·布兰德在强奸、性侵犯审判中获知命运"
+      "title_zh": "加入对话：中期选举对 2028 年有何影响？"
     },
     {
-      "title": "Trump ally reveals battle plan to fight back against probe-happy Democrats",
+      "title": "Tyrus talks with wrestling star Trevor Murdoch about the value of trades",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普盟友透露反击乐于调查的民主党人的战斗计划"
+      "title_zh": "泰勒斯与摔跤明星特雷弗·默多克谈论交易的价值"
     },
     {
-      "title": "DeSantis says Vivek ‘shot himself in the foot’ in Ohio governor’s race",
+      "title": "'GUTFELD!':Democrats can take a victory lap, but their ideas don't stand a chance in private",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "德桑蒂斯称维韦克在俄亥俄州州长竞选中“搬起石头砸自己的脚”"
+      "title_zh": "“GUTFELD！”：民主党可以取得胜利，但他们的想法在私下里没有机会"
     },
     {
-      "title": "Matt Damon's wife suffered brain aneurysm days before stunning husband with bold move",
+      "title": "DC councilmember urges governors to pull hundreds of National Guard troops",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "马特·达蒙妻子患脑动脉瘤，几天后大胆举动惊艳丈夫"
+      "title_zh": "华盛顿特区议员敦促州长撤走数百名国民警卫队士兵"
     },
     {
-      "title": "Indiana coach blasts ESPN over CFP rankings and a broadcaster fires back",
+      "title": "Trump's proposed 250-foot triumphal arch receives federal planning approval",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "印第安纳州教练猛烈抨击 ESPN 的 CFP 排名，一家广播公司予以回击"
+      "title_zh": "特朗普提议的 250 英尺凯旋门获得联邦规划批准"
     },
     {
-      "title": "Dramatic video shows hiker sliding hundreds of feet down Utah summit",
+      "title": "Americans turned to Fox News for election night coverage over other cable networks",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "戏剧性的视频显示徒步旅行者从犹他州山顶滑下数百英尺"
+      "title_zh": "美国人通过其他有线电视网络转向福克斯新闻进行选举之夜报道"
     },
     {
-      "title": "Fox News goes inside ICE's Brooklyn operations as agents navigate sanctuary laws",
+      "title": "Winless NFL team makes major coaching adjustment amid dreadful start",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "福克斯新闻深入 ICE 布鲁克林业务，特工们遵守庇护法"
+      "title_zh": "未尝胜绩的 NFL 球队在糟糕的开局中做出重大教练调整"
     },
     {
-      "title": "Democratic governor makes sweeping decision on state's death row inmates",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
       "link": "",
-      "summary": "",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
       "published": "",
-      "title_zh": "民主党州长对该州死囚做出全面决定"
+      "title_zh": "白宫否认赫格斯和卢比奥在共和党选举失败后离职",
+      "summary_zh": "美国媒体报道称，有人呼吁更换皮特·赫格斯(Pete Hegseth)，后者也可能面临弹劾投票，而据传马克·卢比奥(Mark Rubio)正在考虑竞选总统。"
     },
     {
-      "title": "Sophie Cunningham asks her WNBA peers the same brutal question we've all been wondering",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
       "link": "",
-      "summary": "",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
       "published": "",
-      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 向她的 WNBA 同行们提出了我们都想知道的同样残酷的问题"
+      "title_zh": "特朗普签署命令阻止未来总统更换椭圆形办公室",
+      "summary_zh": "该命令是在特朗普对椭圆形办公室的装饰进行一系列重大改变并拆除白宫东翼后发布的。"
     },
     {
-      "title": "Tehran sends US nuclear proposal with seven conditions for renewed negotiations",
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
       "link": "",
-      "summary": "",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
       "published": "",
-      "title_zh": "Tehran sends US nuclear proposal with seven conditions for renewed negotiations"
+      "title_zh": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "summary_zh": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
     },
     {
-      "title": "JACKSON THOMPSON:Colorado gov-elect signals possible changes to girls' sports ballot measure",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
       "link": "",
-      "summary": "",
+      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
       "published": "",
-      "title_zh": "杰克逊·汤普森：科罗拉多州当选政府暗示可能改变女子体育投票措施"
+      "title_zh": "谁可能是针对欧洲航空旅行的恶作剧炸弹威胁的幕后黑手？",
+      "summary_zh": "到目前为止，还没有确凿的证据表明航空炸弹威胁与俄罗斯、伊朗或任何代理组织有关。"
     },
     {
-      "title": "Supreme Court leak that exposed Roe reversal draft now under DOJ criminal probe",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
       "link": "",
-      "summary": "",
+      "summary": "The Trump administration had hoped the building of the 250-foot arch could begin as early as this week.",
       "published": "",
-      "title_zh": "最高法院的泄密事件暴露了罗伊撤销草案目前正在接受司法部刑事调查"
+      "title_zh": "联邦机构批准后，法官阻止建造特朗普的巨型拱门",
+      "summary_zh": "特朗普政府原本希望这座 250 英尺高的拱门最早可以在本周开始建造。"
+    },
+    {
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "link": "",
+      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "published": "",
+      "title_zh": "民主社会主义者在洛杉矶市长竞选中击败现任凯伦·巴斯",
+      "summary_zh": "结果意味着美国人口最多的两个城市——纽约和洛杉矶——将由民主社会主义者领导。"
+    },
+    {
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "link": "",
+      "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+      "published": "",
+      "title_zh": "数据中心叛乱影响了美国中期选举结果吗？",
+      "summary_zh": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry."
+    },
+    {
+      "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
+      "link": "",
+      "summary": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
+      "published": "",
+      "title_zh": "睡前想吃零食吗？这就是原因 - 以及您可以采取的措施",
+      "summary_zh": "您可能会在睡前吃甜食，这是有生物学原因的，但您可以改变这个习惯。"
+    },
+    {
+      "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+      "link": "",
+      "summary": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+      "published": "",
+      "title_zh": "U2 参与 Dolly Parton 的最后一首二重唱；以及他们新专辑背后的“恩怨对决”",
+      "summary_zh": "摇滚乐队讨论了帕顿去世前的最后一张唱片，以及他们拒绝在舞台上接受审查的原因。"
+    },
+    {
+      "title": "Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?",
+      "link": "",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "",
+      "title_zh": "每周测验：脆米花是如何失去脆脆、爆裂声和爆裂声的？",
+      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+    },
+    {
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
+      "link": "",
+      "summary": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
+      "published": "",
+      "title_zh": "王宫助手表示，金喜欢“带有政治色彩”的部署",
+      "summary_zh": "女王在加勒比海之行期间面临有关英国参与奴隶贸易的质疑。"
+    },
+    {
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "link": "",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "published": "",
+      "title_zh": "梅拉尼娅·特朗普在接待俄罗斯和乌克兰官员时呼吁乌克兰持久休战",
+      "summary_zh": "所有人都认为美国第一夫人在停火中发挥了关键但未具体说明的作用。"
+    },
+    {
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "link": "",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "published": "",
+      "title_zh": "法国抗议人数激增，工会因生活成本高而参加罢工",
+      "summary_zh": "内政部估计法国各地有 60 万人参加了抗议活动，而工会则表示这个数字要高得多。"
+    },
+    {
+      "title": "UK doctor infected with Ebola being treated at London hospital",
+      "link": "",
+      "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
+      "published": "",
+      "title_zh": "感染埃博拉病毒的英国医生在伦敦医院接受治疗",
+      "summary_zh": "该医生在疫情爆发的刚果民主共和国检测结果呈阳性。政府表示，公众面临的风险仍然很低。"
     }
   ]
 }
