@@ -1,6 +1,6 @@
 {
   "date": "20261108",
-  "total": 33,
+  "total": 31,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,247 +37,232 @@
   },
   "entries": [
     {
-      "title": "The Democrats’ landslide victory explained in two maps and five charts",
-      "link": "https://www.nbcnews.com/data-graphics/maps-charts-democrats-landslide-2026-election-victory-rcna607049",
-      "summary": "",
-      "published": "",
-      "title_zh": "两张地图和五张图表解释了民主党的压倒性胜利"
-    },
-    {
-      "title": "Sen.-elect Hamilton says he’d be ‘deeply disappointed’ if Democrats spent two years investigating Trump",
-      "link": "https://www.nbcnews.com/politics/congress/sen-adam-hamilton-disappointed-democrats-trump-investigations-schumer-rcna608088",
-      "summary": "",
-      "published": "",
-      "title_zh": "当选参议员汉密尔顿表示，如果民主党花两年时间调查特朗普，他将“深感失望”"
-    },
-    {
-      "title": "Kraków shooting that killed 6 was motivated by far-right views, authorities say",
-      "link": "https://www.nbcnews.com/world/europe/krakow-shooting-killed-6-motivated-far-right-views-rcna608080",
-      "summary": "",
-      "published": "",
-      "title_zh": "当局称，克拉科夫枪击事件造成六人死亡，其动机是极右翼观点"
-    },
-    {
-      "title": "James Talarico kicks off ‘SNL’ days after historic Texas Senate win",
-      "link": "https://www.nbcnews.com/pop-culture/tv/james-talarico-kicks-off-snl-rcna608071",
-      "summary": "",
-      "published": "",
-      "title_zh": "德克萨斯州参议院历史性胜利几天后，詹姆斯·塔拉里科 (James Talarico) 开始了《SNL》"
-    },
-    {
-      "title": "Pope Leo heads to Milei’s Argentina as tensions loom over austerity, Iran",
-      "link": "https://www.nbcnews.com/world/argentina/pope-leo-heads-milei-argentina-tensions-loom-austerity-iran-rcna608083",
-      "summary": "",
-      "published": "",
-      "title_zh": "教皇利奥前往米莱的阿根廷，紧缩政策和伊朗的紧张局势迫在眉睫"
-    },
-    {
-      "title": "Dustin Hoffman talks about his new memoir and how he landed his iconic role in ‘The Graduate’",
-      "link": "https://www.nbcnews.com/video/dustin-hoffman-on-his-new-memoir-and-legendary-career-273033797508",
-      "summary": "",
-      "published": "",
-      "title_zh": "达斯汀·霍夫曼谈论他的新回忆录以及他如何在《毕业生》中获得标志性角色"
-    },
-    {
-      "title": "MAGA voters name their early favorites for 2028 GOP presidential nomination",
+      "title": "Superstar comedian's sick Charlie Kirk 'joke' prompts angry backlash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "MAGA 选民选出了他们最喜欢的 2028 年共和党总统提名人"
+      "title_zh": "超级巨星喜剧演员查理·柯克生病的“笑话”引发愤怒的强烈反对"
     },
     {
-      "title": "Rancher couple vows to fight all the way to SCOTUS after fine that could cost them millions",
+      "title": "White House fires back after Iran's Supreme Leader mocks US 'collapse'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "牧场主夫妇发誓，在罚款可能损失数百万美元后，他们将一路战斗到最高法院"
+      "title_zh": "伊朗最高领袖嘲笑美国“崩溃”后白宫予以回击"
     },
     {
-      "title": "NJ town suffers $26M theft — but residents were kept in the dark about it until after Election Day",
+      "title": "11th-hour power play targets incoming Dem governor after historic GOP defeat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "新泽西州小镇遭受 2600 万美元盗窃——但居民们直到选举日之后才得知此事"
+      "title_zh": "共和党历史性失败后，第 11 小时的权力游戏目标是即将上任的民主党州长"
     },
     {
-      "title": "'Brolly-gate' erupts as aides leave drenched king fuming while Queen Camilla stays dry",
+      "title": "High school athlete cursed out by Seattle Storm owner runs against trans athlete at state championship",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“布罗利门”爆发，助手们让浑身湿透的国王生气，而卡米拉王后却保持干爽"
+      "title_zh": "被西雅图风暴老板咒骂的高中运动员在州冠军赛上与跨性别运动员比赛"
     },
     {
-      "title": "Killer’s discarded trash blows open 40-year-old murders, cop warns there may be more",
+      "title": "California voters deal wealth taxes a one-two punch as billionaires eye the exits",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "凶手丢弃的垃圾揭开了40年前的谋杀案，警察警告可能还有更多"
+      "title_zh": "加州选民以一比二的方式征收财富税，亿万富翁着眼于退出"
     },
     {
-      "title": "House GOP demands answers from CEO of tech giant on reported ties to suspected Chinese spy",
+      "title": "Miami coach doesn't hold back when asked about game-changing call in first loss of season",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "众议院共和党要求科技巨头首席执行官就涉嫌与中国间谍的关系做出答复"
+      "title_zh": "当被问及赛季首场失利中改变比赛的决定时，迈阿密教练毫不犹豫"
     },
     {
-      "title": "Hegseth faces bipartisan impeachment threat amid blame-game for GOP midterm slaughter",
+      "title": "AI giant takes power supply into own hands with massive $3.4B deal",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "赫格斯在共和党中期屠杀的指责游戏中面临两党弹劾威胁"
+      "title_zh": "AI巨头通过$3.4B巨额交易将电力供应掌握在自己手中"
     },
     {
-      "title": "Blue Angels member removed from team, will miss remaining performances",
+      "title": "WATCH LIVE: Congressional Progressive Caucus holds press conference to introduce new members",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "蓝天使队成员被除名，将缺席剩余表演"
+      "title_zh": "观看直播：国会进步核心小组举行新闻发布会介绍新成员"
     },
     {
-      "title": "Federal AI safety office halts research reports amid new White House arrangement",
+      "title": "George W Bush welcomes 27 veterans to his ranch for 16th annual Warrior Ride",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联邦人工智能安全办公室因白宫新安排而暂停研究报告"
+      "title_zh": "乔治·W·布什欢迎 27 名退伍军人来到他的牧场参加第 16 届年度战士骑行活动"
     },
     {
-      "title": "DAVID MARCUS:GOP's biggest midterm winner wasn't on anyone's radar before Tuesday",
+      "title": "Republican Gov Dunleavy admits his own state's uncalled vote drama is 'very confusing'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大卫·马库斯：周二之前，共和党最大的中期赢家并未引起任何人的关注"
+      "title_zh": "共和党州长邓利维承认他所在州的未经投票的戏剧性事件“非常令人困惑”"
     },
     {
-      "title": "Psychiatrist warns about 6 daily lifestyle habits that quietly fuel depression",
+      "title": "DAVID MARCUS:Democrats win big, but John Fetterman faces a new political dilemma",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "精神科医生警告六种日常生活习惯会悄悄助长抑郁症"
+      "title_zh": "大卫·马库斯：民主党大获全胜，但约翰·费特曼面临新的政治困境"
     },
     {
-      "title": "Tesla is pulling the plug on its polarizing pickup after sales cratered 48%",
+      "title": "Ro Khanna pressed on calls to impeach Hegseth, Trump",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "销量暴跌 48% 后，特斯拉将停止生产其两极分化的皮卡"
+      "title_zh": "罗·卡纳 (Ro Khanna) 呼吁弹劾赫格赛斯和特朗普"
     },
     {
-      "title": "MICHAEL GUILLEN:Science's fantastic discoveries are making religion more credible",
+      "title": "Mahomes hurt his throwing arm and somehow trotted back onto the field",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克尔·吉伦：科学的奇妙发现使宗教更加可信"
+      "title_zh": "马霍姆斯的投球手臂受伤，不知何故小跑回到场上"
     },
     {
-      "title": "ELAINE PARKER:Democrat win is a wake-up call for Republicans, not a vote for socialism",
+      "title": "Pierce Brosnan names the 'strong' actor he thinks could be the next James Bond",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊莱恩·帕克：民主党获胜是对共和党人的警钟，而不是对社会主义的投票"
+      "title_zh": "Pierce Brosnan names the 'strong' actor he thinks could be the next James Bond"
     },
     {
-      "title": "NYC Mayor Zohran Mamdani joins Fox News Sunday for an exclusive interview at 2PM ET",
+      "title": "Josh Bishop survives a bloody war to dethrone Killer Kross and seize the belt",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约市市长 Zohran Mamdani 接受福克斯周日新闻 (Fox News Sunday) 于美国东部时间下午 2 点接受独家专访"
+      "title_zh": "乔什·毕肖普 (Josh Bishop) 在一场血腥战争中幸存下来，推翻了杀手克罗斯 (Killer Kross) 并夺取了金腰带"
     },
     {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "link": "",
-      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
       "published": "",
-      "title_zh": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary_zh": "其中一名男子，Michal Pędziwiatr 教授，当他们到达现场时，他们治疗了被指控的枪手和警察。"
+      "title_zh": "埃及火车相撞造成7人死亡、100多人受伤",
+      "summary_zh": "两列同向行驶的火车在吉萨城外相撞，导致多节车厢脱轨。"
     },
     {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "title": "South Africa's ANC records worst-ever results in local elections",
       "link": "",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "summary": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
       "published": "",
-      "title_zh": "一月份抗议活动后，伊朗以“武装骚乱”罪处决了三名男子",
-      "summary_zh": "据称，哈桑·迪奥班德、哈米德·卡泽米和礼萨·赞加内参加了今年早些时候的反政府抗议活动。"
+      "title_zh": "南非非国大在地方选举中创下有史以来最差结果",
+      "summary_zh": "总统西里尔·拉马福萨表示必须尊重判决，而该党秘书长则称这一结果是“灾难性的”。"
     },
     {
-      "title": "'Time is up': UK minister warns media industry to take abuse seriously in wake of Brand case",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "link": "",
-      "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
+      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
       "published": "",
-      "title_zh": "“时间到了”：英国部长警告媒体业在品牌案后认真对待滥用行为",
-      "summary_zh": "丽莎·南迪告诉英国广播公司，媒体行业的“许多人”都向她挺身而出。"
+      "title_zh": "视频显示埃及致命火车相撞后车厢脱轨",
+      "summary_zh": "目前尚不清楚事故原因，但埃及总统阿卜杜勒·法塔赫·塞西表示，调查正在进行中，并将“追究任何证明其疏忽的人的责任”。"
     },
     {
-      "title": "King leads solemn Remembrance service at Cenotaph",
+      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
       "link": "",
       "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
       "published": "",
-      "title_zh": "金在和平纪念碑主持庄严的纪念仪式",
+      "title_zh": "金在和平纪念碑主持庄严的纪念周日仪式",
       "summary_zh": "10,000 名退伍军人（其中 12 名参加过第二次世界大战）在伦敦市中心敬献花圈。"
     },
     {
-      "title": "Watch: Royals and veterans reflect at poignant Remembrance ceremony",
+      "title": "Homes and temples glow across India to mark Diwali",
       "link": "",
-      "summary": "King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "published": "",
-      "title_zh": "观看：皇室成员和退伍军人在令人心酸的纪念仪式上反思",
-      "summary_zh": "查尔斯国王领导了一年一度的阵亡将士纪念日纪念活动，并在和平纪念碑举行的庄严仪式上敬献了花圈。"
+      "title_zh": "印度各地的房屋和寺庙点亮灯光以纪念排灯节",
+      "summary_zh": "数百万印度人用发光的灯、烟花和传统糖果来庆祝排灯节。"
     },
     {
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
       "link": "",
-      "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "summary": "Democrats swept to power after historic midterm election success and are now eyeing the Trump administration for revenge.",
       "published": "",
-      "title_zh": "德国人正在思考如何处理希特勒摧毁的鹰巢撤退",
-      "summary_zh": "虽然有些人认为该遗址应该部分或全部重建，但另一些人则希望将其废弃，并忘记其纳粹过去的所有记忆。"
+      "title_zh": "众议院民主党高层对弹劾赫格赛斯表示“强硬同意”",
+      "summary_zh": "民主党在中期选举取得历史性胜利后大获全胜，现在正瞄准特朗普政府进行报复。"
     },
     {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "title": "No one was thrown under the bus by sandpaper revelations, says cricketer Khawaja",
       "link": "",
-      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "summary": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
       "published": "",
-      "title_zh": "他在 Labubus 上花了 5 万美元，但现在热潮正在消退",
-      "summary_zh": "由于人们对稀奇古怪的收藏怪物的兴趣减弱，母公司泡泡玛特的收入有所下降。"
+      "title_zh": "板球运动员卡瓦贾表示，没有人因砂纸揭露而被扔到公共汽车下",
+      "summary_zh": "乌斯曼·卡瓦贾 (Usman Khawaja) 表示，他“并没有因为 2018 年澳大利亚队陷入砂纸丑闻而让任何人陷入困境”。"
     },
     {
-      "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+      "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
       "link": "",
-      "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+      "summary": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
       "published": "",
-      "title_zh": "南迪否认伊拉斯谟争议后将纪念周日政治化的说法",
-      "summary_zh": "文化大臣表示，英国重新加入欧盟的学习和工作计划将有助于纪念战时牺牲。"
+      "title_zh": "英格兰能源公司支持博思威克，费伊-瓦博索光芒四射",
+      "summary_zh": "伊曼纽尔·费伊-瓦博索上半场的精彩表现让英格兰球迷看到了对主教练史蒂夫·博思威克急需的信心宣言。"
     },
     {
-      "title": "Titanic insurance document could fetch £50,000",
+      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
       "link": "",
-      "summary": "The policy covered the ship's delivery from Belfast to Southampton and its disastrous maiden voyage.",
+      "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
       "published": "",
-      "title_zh": "泰坦尼克号保险文件价值5万英镑",
-      "summary_zh": "该保单涵盖了该船从贝尔法斯特到南安普顿的交付及其灾难性的首航。"
+      "title_zh": "“修补匠”阿隆索的切尔西队仍在寻找身份",
+      "summary_zh": "哈维·阿隆索的挫败感显而易见，切尔西在0-1不敌桑德兰的比赛中继续为自己的身份而苦苦挣扎。"
     },
     {
-      "title": "UK government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
       "link": "",
-      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "summary": "Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.",
       "published": "",
-      "title_zh": "英国政府“认真考虑”禁止 16 岁以下儿童使用 Vinted 和 eBay",
-      "summary_zh": "文化部长证实有报道称它们可能会被列入明年三月被禁止的平台名单中。"
+      "title_zh": "阿尔卡拉兹向谢尔顿复仇，首次夺得巴黎大师赛冠军",
+      "summary_zh": "卡洛斯·阿尔卡拉斯向本·谢尔顿复仇，西班牙人伤愈复出，在巴黎大师赛决赛中取得胜利。"
     },
     {
-      "title": "Nations Championship: Borthwick under scrutiny as England face Australia - radio & text",
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
       "link": "",
-      "summary": "Follow live radio and text commentary as England host Australia in the Nations Championship at Allianz Stadium.",
+      "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
       "published": "",
-      "title_zh": "国家锦标赛：英格兰对阵澳大利亚，博斯威克受到密切关注 - 广播和短信",
-      "summary_zh": "关注英格兰在安联体育场举行的国家锦标赛中迎战澳大利亚的现场广播和文字评论。"
+      "title_zh": "在安东内利和拉塞尔失误后，诺里斯赢得了扣人心弦的比赛",
+      "summary_zh": "迈凯伦车队的兰多·诺里斯 (Lando Norris) 在困难的条件下赢得了一场扣人心弦的圣保罗大奖赛，梅赛德斯也锁定了 2026 年车队冠军。"
     },
     {
-      "title": "FA Cup: Watch as Cray Wanderers 2-0 up on 10-man Stockport",
-      "link": "",
-      "summary": "Watch and follow live text coverage as Cray Wanderers face Stockport County, plus two more matches.",
+      "title": "Byron Donalds dismisses DeSantis’ account of backlash against GOP",
+      "link": "https://www.nbcnews.com/meet-the-press/video/byron-donalds-on-desantis-midterm-explanation-i-actually-don-t-know-what-he-is-talking-about-273095749807",
+      "summary": "",
       "published": "",
-      "title_zh": "足总杯：克雷流浪者队 2-0 战胜 10 人斯托克波特队",
-      "summary_zh": "观看并关注克雷流浪者队对阵斯托克波特县队的现场文字报道，以及另外两场比赛。"
+      "title_zh": "拜伦·唐纳德斯驳斥了德桑蒂斯对共和党的强烈反对的说法"
+    },
+    {
+      "title": "Gov. Josh Shapiro urges Democrats to prioritize healthcare, food assistance",
+      "link": "https://www.nbcnews.com/politics/2026-election/gov-josh-shapiro-urges-democrats-prioritize-healthcare-food-assistance-rcna608060",
+      "summary": "",
+      "published": "",
+      "title_zh": "州长乔什·夏皮罗敦促民主党优先考虑医疗保健和食品援助"
+    },
+    {
+      "title": "Hakeem Jeffries says he is a ‘hard yes’ on impeaching Defense Secretary Pete Hegseth",
+      "link": "https://www.nbcnews.com/politics/congress/house-minority-leader-hakeem-jeffries-hard-yes-impeaching-hegseth-rcna608137",
+      "summary": "",
+      "published": "",
+      "title_zh": "Hakeem Jeffries says he is a ‘hard yes’ on impeaching Defense Secretary Pete Hegseth"
+    },
+    {
+      "title": "Tensions rise in Philadelphia over boycott of Jewish-owned restaurants",
+      "link": "https://www.nbcnews.com/news/us-news/billboards-urge-boycott-boycott-jewish-owned-businesses-rcna608119",
+      "summary": "",
+      "published": "",
+      "title_zh": "费城因抵制犹太人开的餐馆而紧张局势加剧"
+    },
+    {
+      "title": "At least 7 killed, 112 injured in train collision in Egypt",
+      "link": "https://www.nbcnews.com/world/middle-east/train-collision-egypt-cairo-giza-rcna608111",
+      "summary": "",
+      "published": "",
+      "title_zh": "埃及火车相撞 至少7人死亡112人受伤"
     }
   ]
 }
