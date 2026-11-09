@@ -1,6 +1,6 @@
 {
   "date": "20261109",
-  "total": 31,
+  "total": 45,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,229 +37,337 @@
   },
   "entries": [
     {
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "title": "Watch: Moment judge sentences Russell Brand in court",
       "link": "",
-      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "summary": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.",
       "published": "",
-      "title_zh": "治疗克拉科夫枪击嫌疑人的医生说：“我对待所有这些人就像对待受害者一样”",
-      "summary_zh": "当一名枪手开始随意开枪时，两名医生正在波兰城市的主要市场广场附近吃饭。"
+      "title_zh": "观看：法官在法庭上判决拉塞尔·布兰德的时刻",
+      "summary_zh": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday."
     },
     {
-      "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+      "title": "James Bond: What we know so far about the next 007 film",
       "link": "",
-      "summary": "The president tells the CBS programme 60 Minutes he had been politically \"hurt\" by sweeping deportations.",
+      "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
       "published": "",
-      "title_zh": "特朗普称移民打击“太严厉”并导致中期选举失败",
-      "summary_zh": "总统告诉哥伦比亚广播公司的《60 分钟》节目，他因大规模驱逐出境而受到政治“伤害”。"
+      "title_zh": "詹姆斯·邦德：目前我们对下一部 007 电影的了解",
+      "summary_zh": "据报道，乔什·奥康纳、杰克·劳登和卡勒姆·特纳有望接替丹尼尔·克雷格。"
     },
     {
-      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Scottish estate",
+      "title": "Inside the French drug gangs recruiting children to kill",
       "link": "",
-      "summary": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
       "published": "",
-      "title_zh": "女子称阿尔法耶德的兄弟在苏格兰庄园对她下药并性虐待",
-      "summary_zh": "这名女子说，她被空运到法耶德家族的巴尔纳贡庄园，在那里她多次遭到袭击。"
+      "title_zh": "法国贩毒团伙招募儿童杀人",
+      "summary_zh": "BBC 走进马赛危险的黑社会，那里的年轻人被困、遭受虐待和剥削。"
     },
     {
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "title": "France accuses Iran of supermarket fridge hacking",
       "link": "",
-      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
       "published": "",
-      "title_zh": "游轮钢琴家在太平洋九小时后获救",
-      "summary_zh": "两名美国渔民称，他们在距加州海岸约 20 英里（32 公里）处发现该男子在水中行走。"
+      "title_zh": "法国指责伊朗超市冰箱遭黑客攻击",
+      "summary_zh": "上个月的网络攻击导致法国数百家超市的冰箱和冰柜温度升高。"
     },
     {
-      "title": "A glimmer of good news for Britain's sleepy dormouse",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "link": "",
-      "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
       "published": "",
-      "title_zh": "英国困倦睡鼠的一线好消息",
-      "summary_zh": "新数据表明，随着夏季变暖，榛睡鼠在经历了数十年的衰退后可能正在复苏，从而提高了生存率。"
+      "title_zh": "英伟达股价因黄与涉嫌中国间谍的恋情调查而暴跌",
+      "summary_zh": "股价下跌使英伟达的价值蒸发了数千亿美元。"
     },
     {
-      "title": "Maya Jama steps down as host of UK reality TV show Love Island",
+      "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
       "link": "",
-      "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+      "summary": "Lawyers for both campaigns in Mississippi's US Senate race are preparing for a possible legal battle as the close count continues.",
       "published": "",
-      "title_zh": "玛雅·贾玛 (Maya Jama) 辞去英国真人秀节目《爱情岛》主持人的职务",
-      "summary_zh": "在《名人叛徒》最近取得成功之后，主持人告诉粉丝，现在是“让自己投入新事物的时候了”。"
+      "title_zh": "密西西比州参议院竞选激烈，引发选票大战——可能会重新计票吗？",
+      "summary_zh": "随着计票工作继续进行，密西西比州美国参议员竞选的两场竞选律师正在为可能的法律战做准备。"
     },
     {
-      "title": "Norris sparkles in Sao Paulo despite firework mishap",
+      "title": "Drone delivers food to chimpanzee cut off by Florida flooding",
       "link": "",
-      "summary": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+      "summary": "A Florida chimpanzee sanctuary was hit by flooding leaving roads impassable and forcing staff to use a drone to deliver food to one of the animals.",
       "published": "",
-      "title_zh": "尽管发生烟花事故，诺里斯在圣保罗依然闪闪发光",
-      "summary_zh": "除了离烟花太近之外，兰多·诺里斯在圣保罗大奖赛上几乎无可挑剔，挑战了车手的极限。"
+      "title_zh": "无人机向因佛罗里达洪水而中断的黑猩猩运送食物",
+      "summary_zh": "佛罗里达州的一个黑猩猩保护区遭受洪水袭击，道路无法通行，工作人员被迫使用无人机向其中一只动物运送食物。"
     },
     {
-      "title": "Fermin double seals Barcelona's comeback win at Atleti",
+      "title": "'I've got a band now' - British club anthem star Shygirl on why she's switching up her sound",
       "link": "",
-      "summary": "Barcelona come from behind to beat Atletico and move three points clear of Real Madrid at top of La Liga.",
+      "summary": "Fans know her for big electronic bangers, but the singer and DJ has come back with an indie-tinged sound.",
       "published": "",
-      "title_zh": "费尔明双杀巴萨逆转马竞",
-      "summary_zh": "巴塞罗那后来居上击败马竞，领先皇马三分，位居西甲榜首。"
+      "title_zh": "“我现在有一支乐队了”——英国俱乐部歌曲明星 Shygirl 讲述她为何改变声音",
+      "summary_zh": "歌迷们因大型电子音乐而闻名，但这位歌手兼 DJ 带着独立音乐的声音回归。"
     },
     {
-      "title": "Two Army vet deputies killed in hostage rescue attempt leave behind wives and children",
+      "title": "What's your love language - and does it actually mean anything?",
+      "link": "",
+      "summary": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
+      "published": "",
+      "title_zh": "What's your love language - and does it actually mean anything?",
+      "summary_zh": "“爱情语言”理论没有科学依据，但在现代约会中仍然经常被提及。"
+    },
+    {
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "",
+      "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+      "published": "",
+      "title_zh": "特朗普称他对达纳·怀特（Dana White）新闻秘书的提议是“开玩笑”",
+      "summary_zh": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
+    },
+    {
+      "title": "Packers & Bengals win in style - NFL week nine",
+      "link": "",
+      "summary": "The Chicago Bears and Denver Broncos grind out wins while the Cincinnati Bengals and Green Bay Packers put on a show as the NFL season reaches the halfway point.",
+      "published": "",
+      "title_zh": "包装工队和孟加拉虎队以风格取胜 - NFL 第九周",
+      "summary_zh": "NFL 赛季已过半，芝加哥熊队和丹佛野马队艰难取胜，而辛辛那提猛虎队和绿湾包装工队则上演精彩表演。"
+    },
+    {
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "link": "",
+      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "published": "",
+      "title_zh": "前往欧洲的移民船在塞内加尔海域沉没 至少39人死亡",
+      "summary_zh": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life"
+    },
+    {
+      "title": "After knife-edge vote, New Zealand parties put off coalitions talks",
+      "link": "",
+      "summary": "New Zealand has just seen its tightest general election in years, with the two major parties neck-and-neck.",
+      "published": "",
+      "title_zh": "经过激烈投票后，新西兰各党派推迟了联合谈判",
+      "summary_zh": "新西兰刚刚经历了多年来最激烈的大选，两大政党势均力敌。"
+    },
+    {
+      "title": "Man Utd yet to make decision on Carrick's future",
+      "link": "",
+      "summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
+      "published": "",
+      "title_zh": "曼联尚未就卡里克的未来做出决定",
+      "summary_zh": "尽管俱乐部遭遇了 40 年来最糟糕的赛季开局，但曼联董事会尚未就迈克尔·卡里克的未来做出最终决定。"
+    },
+    {
+      "title": "Bronze named in World 11 for record ninth time",
+      "link": "",
+      "summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
+      "published": "",
+      "title_zh": "第九次获得铜牌进入世界11强",
+      "summary_zh": "露西·布朗兹 (Lucy Bronze) 是入选 Fifpro 女子世界 11 强的五名英格兰球员之一。"
+    },
+    {
+      "title": "How Hawkins overcame illness to star for England",
+      "link": "",
+      "summary": "When Rob Hawkins replied to what he thought was an advert to play wheelchair basketball in 2014 he could not have imagined he would be a key part of an England side defending their Rugby League World Cup title.",
+      "published": "",
+      "title_zh": "霍金斯如何克服疾病为英格兰队效力",
+      "summary_zh": "2014 年，当罗布·霍金斯 (Rob Hawkins) 回复一则他认为是打轮椅篮球的广告时，他无法想象自己会成为英格兰队卫冕橄榄球联盟世界杯冠军的关键人物。"
+    },
+    {
+      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+      "link": "",
+      "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+      "published": "",
+      "title_zh": "逐个事件：对于 VAR 来说，这是一个糟糕的周末吗？",
+      "summary_zh": "本周末英超联赛中，几乎每场比赛的VAR判决都存在争议。但有多少可能会因为错误而被记录下来呢？"
+    },
+    {
+      "title": "Khawaja 100% accurate on ball-tampering - Warner",
+      "link": "",
+      "summary": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
+      "published": "",
+      "title_zh": "Khawaja 100% 准确地篡改球 - 华纳",
+      "summary_zh": "大卫·沃纳表示，在前队友乌斯曼·卡瓦贾声称所有澳大利亚球员都知道篡改球的行为后，他“全力支持”他。"
+    },
+    {
+      "title": "Big tasks await as Congress returns after Democratic surge",
+      "link": "https://www.nbcnews.com/politics/congress/congress-returns-to-do-list-shutdown-iran-war-democrats-republicans-rcna607826",
+      "summary": "",
+      "published": "",
+      "title_zh": "Big tasks await as Congress returns after Democratic surge"
+    },
+    {
+      "title": "What happened to those $5,000 checks? Here’s where Trump’s campaign promises stand",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-midterm-election-campaign-promises-5000-checks-rcna607460",
+      "summary": "",
+      "published": "",
+      "title_zh": "那张 5000 美元的支票去哪儿了？这就是特朗普的竞选承诺"
+    },
+    {
+      "title": "Spy plot claims ensnare rock star CEO, a Trump ally who tried to bridge AI divide with China",
+      "link": "https://www.nbcnews.com/world/asia/nvidia-jensen-huang-china-dismisses-spy-plot-allegations-ai-rcna608249",
+      "summary": "",
+      "published": "",
+      "title_zh": "间谍阴谋声称诱捕摇滚明星首席执行官，他是特朗普的盟友，试图弥合与中国的人工智能分歧"
+    },
+    {
+      "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assaults",
+      "link": "https://www.nbcnews.com/world/united-kingdom/russell-brand-sentenced-years-british-jail-rcna607799",
+      "summary": "",
+      "published": "",
+      "title_zh": "拉塞尔·布兰德 (Russell Brand) 因强奸和性侵犯被判处 10 多年监禁"
+    },
+    {
+      "title": "‘Machines against machines’: How Ukraine is using AI to gain an edge against Russia",
+      "link": "https://www.nbcnews.com/tech/security/ai-battle-tech-ukraine-russia-war-drone-military-rcna352657",
+      "summary": "",
+      "published": "",
+      "title_zh": "“机器对抗机器”：乌克兰如何利用人工智能来对抗俄罗斯"
+    },
+    {
+      "title": "Iran defends 2-day proposal for peace talks after U.S. rejects ‘outrageous’ conditions",
+      "link": "https://www.nbcnews.com/world/iran/iran-defends-2-day-proposal-peace-talks-us-rejects-outrageous-conditio-rcna608263",
+      "summary": "",
+      "published": "",
+      "title_zh": "在美国拒绝“无耻”条件后，伊朗捍卫为期两天的和谈提议"
+    },
+    {
+      "title": "AI-fueled hacking is getting so bad that top cyber companies are turning away some victims",
+      "link": "https://www.nbcnews.com/tech/security/ai-hacking-getting-worse-cyber-firms-are-turning-away-victims-rcna607617",
+      "summary": "",
+      "published": "",
+      "title_zh": "人工智能驱动的黑客攻击变得如此严重，以至于顶级网络公司正在拒绝一些受害者"
+    },
+    {
+      "title": "What to know about the mutated strain behind an unusually early flu season",
+      "link": "https://www.nbcnews.com/health/cold-and-flu/early-flu-season-mean-bad-flu-season-rcna607864",
+      "summary": "",
+      "published": "",
+      "title_zh": "What to know about the mutated strain behind an unusually early flu season"
+    },
+    {
+      "title": "Republicans revolt against Senate leadership, demand reckoning after midterm disaster",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "两名陆军兽医代表在人质营救行动中丧生，留下妻子和孩子"
+      "title_zh": "共和党人反抗参议院的领导，中期灾难后的需求清算"
     },
     {
-      "title": "Trump responds to Vance's blunt explanation for Republicans' midterm defeat",
+      "title": "Trump says a UFO flew past an F-22 at a speed that left even fighter pilots stunned",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普回应万斯对共和党中期失败的直言不讳的解释"
+      "title_zh": "特朗普称不明飞行物飞过F-22，速度连战斗机飞行员都惊呆了"
     },
     {
-      "title": "Jewish restaurant boycott triggers huge Philadelphia counterprotest showdown",
+      "title": "Mom of three allegedly killed by husband after blue-state judge sets $1K bail",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "犹太餐厅抵制引发费城大规模反抗议摊牌"
+      "title_zh": "蓝州法官保释1000美元后，三个孩子的母亲据称被丈夫杀害"
     },
     {
-      "title": "ASRA NOMANI:'Grassroots' anti-Musk rally near his Texas estate has a very well-funded secret",
+      "title": "Russell Brand sentenced after rape and sexual assault convictions",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿斯拉·诺曼尼：他德克萨斯州庄园附近的“草根”反马斯克集会有一个资金充足的秘密"
+      "title_zh": "Russell Brand sentenced after rape and sexual assault convictions"
     },
     {
-      "title": "Sanders warns Democrats against making Trump probes their entire agenda",
+      "title": "White House hopefuls may have one more name to consider after Hochul remark",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "桑德斯警告民主党人不要让特朗普调查他们的整个议程"
+      "title_zh": "霍楚尔发表此番言论后，入主白宫的候选人可能又多了一个可以考虑的人选"
     },
     {
-      "title": "Jonathan Taylor's goodbye speech has Colts fans bracing for the worst",
+      "title": "College football axes major tradition with expansion of CFP to 24 teams",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔纳森·泰勒的告别演讲让小马队球迷做好了最坏的打算"
+      "title_zh": "大学橄榄球队将CFP扩大到24支球队，打破了主要传统"
     },
     {
-      "title": "Trump admits immigration enforcement may have been too 'tough' after midterm losses",
+      "title": "Sec Hegseth announces news conference to address impeachment effort",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普承认中期选举失败后移民执法可能过于“严厉”"
+      "title_zh": "Sec Hegseth announces news conference to address impeachment effort"
     },
     {
-      "title": "Screams, panic captured after alligator tears off Florida woman's arm",
+      "title": "TED JENKIN:Europe is burning and people can’t pay their bills. The fire might spread",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "鳄鱼撕下佛罗里达妇女的手臂后，人们尖叫起来，惊慌失措"
+      "title_zh": "TED JENKIN：欧洲正在燃烧，人们无法支付账单。火势可能会蔓延"
     },
     {
-      "title": "Nvidia CEO apologizes as board probes affair with alleged Chinese spy",
+      "title": "Spy scandal rattles Nvidia as CEO Jensen Huang admits affair, shares sink",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "英伟达首席执行官在董事会调查与涉嫌中国间谍的事件时道歉"
+      "title_zh": "间谍丑闻让英伟达感到不安，首席执行官黄仁勋承认有外遇，股价下跌"
     },
     {
-      "title": "White House shakeup continues with new departure from Trump administration",
+      "title": "Bloody relic of history's most beloved saint leaves Italy for first time in 800 years",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普政府新离职，白宫继续改组"
+      "title_zh": "Bloody relic of history's most beloved saint leaves Italy for first time in 800 years"
     },
     {
-      "title": "Trump reveals the joke behind his surprise Dana White job offer",
+      "title": "China denies spy plot targeting Nvidia CEO Jensen Huang, calls allegations ‘smear’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普透露了他令人惊讶的达纳怀特工作机会背后的笑话"
+      "title_zh": "中国否认针对英伟达首席执行官黄仁勋的间谍阴谋，称指控是“诽谤”"
     },
     {
-      "title": "College football has a new No. 1, while another team keeps getting rewarded for nothing",
+      "title": "Diner refuses to tip after spotting mysterious 'Admin Fee' on burger receipt",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学橄榄球队有了新的第一名，而另一支球队却不断获得无缘无故的奖励"
+      "title_zh": "用餐者在汉堡收据上发现神秘的“管理费”后拒绝给小费"
     },
     {
-      "title": "Nutrition scientist shares mistakes people make when trying to eat a healthy diet",
+      "title": "Former GOP governor heads to Capitol Hill before election count is complete: 'Already at work'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "营养科学家分享人们在尝试健康饮食时所犯的错误"
+      "title_zh": "前共和党州长在选举计票完成前前往国会山：“已经在工作了”"
     },
     {
-      "title": "MAGA voters are sizing up Trump's potential successors as 2028 showdown looms",
+      "title": "Father of young murder victim reacts to Newsom's decision to commute California death sentences",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着 2028 年摊牌的临近，MAGA 选民正在评估特朗普的潜在继任者"
+      "title_zh": "年轻谋杀受害者的父亲对纽瑟姆减刑加州死刑的决定做出反应"
     },
     {
-      "title": "Wife found stabbed to death days after Dallas chief investigator filed for divorce",
+      "title": "California police probe 'suspicious circumstances' after nearly 20 hospitalized following half-marathon",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "达拉斯首席调查员提出离婚几天后，妻子被发现被刺死"
+      "title_zh": "半程马拉松比赛后近20人住院，加州警方调查“可疑情况”"
     },
     {
-      "title": "Hollywood legend Ann-Margret seen in wheelchair in Los Angeles months after fall",
+      "title": "Dave Chappelle slammed for Charlie Kirk joke",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "好莱坞传奇人物安-玛格丽特在摔倒几个月后在洛杉矶坐轮椅"
+      "title_zh": "戴夫·查佩尔因查理·柯克的笑话而受到猛烈抨击"
     },
     {
-      "title": "Trump says deportations were ‘too tough’ and hurt him in midterms",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-says-deportations-tough-hurt-midterms-rcna608208",
+      "title": "Top retail CEO: Costly mistake is forcing rivals to shutter doors",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普称驱逐出境“太严厉”并在中期选举中伤害了他"
+      "title_zh": "顶级零售首席执行官：代价高昂的错误迫使竞争对手关门"
     },
     {
-      "title": "Democrats won big on Election Day. But can they agree on AI?",
-      "link": "https://www.nbcnews.com/tech/tech-news/democrats-won-big-election-day-can-agree-ai-rcna607414",
+      "title": "FAA's secret weapon slashing fuel costs and shrinking travel times across busy corridors",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党在选举日大获全胜。但他们能就人工智能达成一致吗？"
+      "title_zh": "FAA's secret weapon slashing fuel costs and shrinking travel times across busy corridors"
     },
     {
-      "title": "Nvidia opens investigation after CEO Jensen Huang was targeted by Chinese intelligence",
-      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+      "title": "MATT CALKINS:Party of 'democracy' moves to crush the people's verdict after defeat",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "首席执行官黄仁勋成为中国情报部门目标后，英伟达展开调查"
-    },
-    {
-      "title": "Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old",
-      "link": "https://www.nbcnews.com/news/us-news/oregon-man-charged-taking-utah-teen-accused-sexually-abusing-child-rcna607784",
-      "summary": "",
-      "published": "",
-      "title_zh": "俄勒冈州男子被控带走犹他州青少年，被指控性虐待 6 岁儿童"
-    },
-    {
-      "title": "They’re last place in their own division — and a legitimate Super Bowl contender",
-      "link": "https://www.nbcnews.com/sports/nfl/green-bay-packers-nfl-jordan-love-nfc-north-results-rcna608209",
-      "summary": "",
-      "published": "",
-      "title_zh": "他们在自己的分区中排名垫底，并且是超级碗的有力竞争者"
-    },
-    {
-      "title": "Bears overcome 5 turnovers to beat Buccaneers 27-24 on ‘Sunday Night Football’",
-      "link": "https://www.nbcnews.com/sports/nfl/chicago-bears-turnovers-tampa-bay-buccaneers-nfl-result-rcna608244",
-      "summary": "",
-      "published": "",
-      "title_zh": "熊队在“周日橄榄球之夜”中克服了 5 次失误，以 27-24 击败海盗队"
-    },
-    {
-      "title": "Bryson DeChambeau offers no regrets for joining LIV Golf",
-      "link": "https://www.nbcnews.com/sports/golf/bryson-dechambeau-offers-no-regrets-joining-liv-rcna608205",
-      "summary": "",
-      "published": "",
-      "title_zh": "布莱森·德尚博 (Bryson DeChambeau) 表示对于加入 LIV Golf 并不后悔"
+      "title_zh": "马特·卡尔金斯：“民主”党在失败后采取行动粉碎人民的裁决"
     }
   ]
 }
