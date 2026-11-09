@@ -1,0 +1,265 @@
+{
+  "date": "20261109",
+  "total": 31,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "link": "",
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "published": "",
+      "title_zh": "治疗克拉科夫枪击嫌疑人的医生说：“我对待所有这些人就像对待受害者一样”",
+      "summary_zh": "当一名枪手开始随意开枪时，两名医生正在波兰城市的主要市场广场附近吃饭。"
+    },
+    {
+      "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+      "link": "",
+      "summary": "The president tells the CBS programme 60 Minutes he had been politically \"hurt\" by sweeping deportations.",
+      "published": "",
+      "title_zh": "特朗普称移民打击“太严厉”并导致中期选举失败",
+      "summary_zh": "总统告诉哥伦比亚广播公司的《60 分钟》节目，他因大规模驱逐出境而受到政治“伤害”。"
+    },
+    {
+      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Scottish estate",
+      "link": "",
+      "summary": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+      "published": "",
+      "title_zh": "女子称阿尔法耶德的兄弟在苏格兰庄园对她下药并性虐待",
+      "summary_zh": "这名女子说，她被空运到法耶德家族的巴尔纳贡庄园，在那里她多次遭到袭击。"
+    },
+    {
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "published": "",
+      "title_zh": "游轮钢琴家在太平洋九小时后获救",
+      "summary_zh": "两名美国渔民称，他们在距加州海岸约 20 英里（32 公里）处发现该男子在水中行走。"
+    },
+    {
+      "title": "A glimmer of good news for Britain's sleepy dormouse",
+      "link": "",
+      "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+      "published": "",
+      "title_zh": "英国困倦睡鼠的一线好消息",
+      "summary_zh": "新数据表明，随着夏季变暖，榛睡鼠在经历了数十年的衰退后可能正在复苏，从而提高了生存率。"
+    },
+    {
+      "title": "Maya Jama steps down as host of UK reality TV show Love Island",
+      "link": "",
+      "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+      "published": "",
+      "title_zh": "玛雅·贾玛 (Maya Jama) 辞去英国真人秀节目《爱情岛》主持人的职务",
+      "summary_zh": "在《名人叛徒》最近取得成功之后，主持人告诉粉丝，现在是“让自己投入新事物的时候了”。"
+    },
+    {
+      "title": "Norris sparkles in Sao Paulo despite firework mishap",
+      "link": "",
+      "summary": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+      "published": "",
+      "title_zh": "尽管发生烟花事故，诺里斯在圣保罗依然闪闪发光",
+      "summary_zh": "除了离烟花太近之外，兰多·诺里斯在圣保罗大奖赛上几乎无可挑剔，挑战了车手的极限。"
+    },
+    {
+      "title": "Fermin double seals Barcelona's comeback win at Atleti",
+      "link": "",
+      "summary": "Barcelona come from behind to beat Atletico and move three points clear of Real Madrid at top of La Liga.",
+      "published": "",
+      "title_zh": "费尔明双杀巴萨逆转马竞",
+      "summary_zh": "巴塞罗那后来居上击败马竞，领先皇马三分，位居西甲榜首。"
+    },
+    {
+      "title": "Two Army vet deputies killed in hostage rescue attempt leave behind wives and children",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "两名陆军兽医代表在人质营救行动中丧生，留下妻子和孩子"
+    },
+    {
+      "title": "Trump responds to Vance's blunt explanation for Republicans' midterm defeat",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普回应万斯对共和党中期失败的直言不讳的解释"
+    },
+    {
+      "title": "Jewish restaurant boycott triggers huge Philadelphia counterprotest showdown",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "犹太餐厅抵制引发费城大规模反抗议摊牌"
+    },
+    {
+      "title": "ASRA NOMANI:'Grassroots' anti-Musk rally near his Texas estate has a very well-funded secret",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿斯拉·诺曼尼：他德克萨斯州庄园附近的“草根”反马斯克集会有一个资金充足的秘密"
+    },
+    {
+      "title": "Sanders warns Democrats against making Trump probes their entire agenda",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "桑德斯警告民主党人不要让特朗普调查他们的整个议程"
+    },
+    {
+      "title": "Jonathan Taylor's goodbye speech has Colts fans bracing for the worst",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乔纳森·泰勒的告别演讲让小马队球迷做好了最坏的打算"
+    },
+    {
+      "title": "Trump admits immigration enforcement may have been too 'tough' after midterm losses",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普承认中期选举失败后移民执法可能过于“严厉”"
+    },
+    {
+      "title": "Screams, panic captured after alligator tears off Florida woman's arm",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "鳄鱼撕下佛罗里达妇女的手臂后，人们尖叫起来，惊慌失措"
+    },
+    {
+      "title": "Nvidia CEO apologizes as board probes affair with alleged Chinese spy",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "英伟达首席执行官在董事会调查与涉嫌中国间谍的事件时道歉"
+    },
+    {
+      "title": "White House shakeup continues with new departure from Trump administration",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普政府新离职，白宫继续改组"
+    },
+    {
+      "title": "Trump reveals the joke behind his surprise Dana White job offer",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普透露了他令人惊讶的达纳怀特工作机会背后的笑话"
+    },
+    {
+      "title": "College football has a new No. 1, while another team keeps getting rewarded for nothing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大学橄榄球队有了新的第一名，而另一支球队却不断获得无缘无故的奖励"
+    },
+    {
+      "title": "Nutrition scientist shares mistakes people make when trying to eat a healthy diet",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "营养科学家分享人们在尝试健康饮食时所犯的错误"
+    },
+    {
+      "title": "MAGA voters are sizing up Trump's potential successors as 2028 showdown looms",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着 2028 年摊牌的临近，MAGA 选民正在评估特朗普的潜在继任者"
+    },
+    {
+      "title": "Wife found stabbed to death days after Dallas chief investigator filed for divorce",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "达拉斯首席调查员提出离婚几天后，妻子被发现被刺死"
+    },
+    {
+      "title": "Hollywood legend Ann-Margret seen in wheelchair in Los Angeles months after fall",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "好莱坞传奇人物安-玛格丽特在摔倒几个月后在洛杉矶坐轮椅"
+    },
+    {
+      "title": "Trump says deportations were ‘too tough’ and hurt him in midterms",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-says-deportations-tough-hurt-midterms-rcna608208",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普称驱逐出境“太严厉”并在中期选举中伤害了他"
+    },
+    {
+      "title": "Democrats won big on Election Day. But can they agree on AI?",
+      "link": "https://www.nbcnews.com/tech/tech-news/democrats-won-big-election-day-can-agree-ai-rcna607414",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党在选举日大获全胜。但他们能就人工智能达成一致吗？"
+    },
+    {
+      "title": "Nvidia opens investigation after CEO Jensen Huang was targeted by Chinese intelligence",
+      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+      "summary": "",
+      "published": "",
+      "title_zh": "首席执行官黄仁勋成为中国情报部门目标后，英伟达展开调查"
+    },
+    {
+      "title": "Oregon man charged with taking Utah teen had been accused of sexually abusing 6-year-old",
+      "link": "https://www.nbcnews.com/news/us-news/oregon-man-charged-taking-utah-teen-accused-sexually-abusing-child-rcna607784",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄勒冈州男子被控带走犹他州青少年，被指控性虐待 6 岁儿童"
+    },
+    {
+      "title": "They’re last place in their own division — and a legitimate Super Bowl contender",
+      "link": "https://www.nbcnews.com/sports/nfl/green-bay-packers-nfl-jordan-love-nfc-north-results-rcna608209",
+      "summary": "",
+      "published": "",
+      "title_zh": "他们在自己的分区中排名垫底，并且是超级碗的有力竞争者"
+    },
+    {
+      "title": "Bears overcome 5 turnovers to beat Buccaneers 27-24 on ‘Sunday Night Football’",
+      "link": "https://www.nbcnews.com/sports/nfl/chicago-bears-turnovers-tampa-bay-buccaneers-nfl-result-rcna608244",
+      "summary": "",
+      "published": "",
+      "title_zh": "熊队在“周日橄榄球之夜”中克服了 5 次失误，以 27-24 击败海盗队"
+    },
+    {
+      "title": "Bryson DeChambeau offers no regrets for joining LIV Golf",
+      "link": "https://www.nbcnews.com/sports/golf/bryson-dechambeau-offers-no-regrets-joining-liv-rcna608205",
+      "summary": "",
+      "published": "",
+      "title_zh": "布莱森·德尚博 (Bryson DeChambeau) 表示对于加入 LIV Golf 并不后悔"
+    }
+  ]
+}
