@@ -1,0 +1,342 @@
+{
+  "date": "20261110",
+  "total": 41,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "link": "",
+      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "published": "",
+      "title_zh": "佐伊·克莱曼：英伟达首席执行官的事件将在美国及其他地区引起涟漪",
+      "summary_zh": "黄仁勋因与一名被指控为中国间谍的女子发生婚外情而受到自己公司的调查。"
+    },
+    {
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "link": "",
+      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "published": "",
+      "title_zh": "法官驳回驳回林赛·克兰西谋杀案的动议",
+      "summary_zh": "该裁决意味着案件可以继续推进，新审判中的指控可能会减少。"
+    },
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "published": "",
+      "title_zh": "共和党国会议员将强制对国防部长赫格塞斯进行弹劾投票",
+      "summary_zh": "这一努力可能会失败，但众议员托马斯·马西希望在民主党明年启动自己的弹劾程序之前推动特朗普解雇赫格塞斯。"
+    },
+    {
+      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+      "link": "",
+      "summary": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+      "published": "",
+      "title_zh": "拉塞尔·布兰德 (Russell Brand) 因强奸和性侵犯被判处 10 年半监禁",
+      "summary_zh": "这位名誉扫地的艺人在南华克刑事法庭经过四个星期的审判后于周一被判刑。"
+    },
+    {
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "link": "",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "published": "",
+      "title_zh": "虐待幸存者说，仍然经营模特经纪公司的爱泼斯坦同事“让我处于危险之中”",
+      "summary_zh": "一名女子说，一名机构老板派她去性犯罪者位于佛罗里达海滩的家中拍摄照片。"
+    },
+    {
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "link": "",
+      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "published": "",
+      "title_zh": "达纳怀特拒绝特朗普担任白宫新闻秘书的邀请",
+      "summary_zh": "在周末的社交媒体帖子中，总统要求 UFC 老板接替这个角色，但后来表示他“玩得很开心”。"
+    },
+    {
+      "title": "I took Vinted to court to get my money back",
+      "link": "",
+      "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+      "published": "",
+      "title_zh": "我将 Vinted 告上法庭以取回我的钱",
+      "summary_zh": "BBC 从 Vinted 卖家那里了解到，他们在获取在线钱包中的资金时遇到了困难。"
+    },
+    {
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "link": "",
+      "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+      "published": "",
+      "title_zh": "一名公务员如何长期兼顾五份工作",
+      "summary_zh": "卡西姆·乔杜里 (Kashim Chowdhury) 在三年内将纳税人的钱挪用 284,000 英镑后，被判犯有欺诈罪。"
+    },
+    {
+      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+      "link": "",
+      "summary": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+      "published": "",
+      "title_zh": "女子称阿尔法耶德的兄弟在高地庄园对她下药并性虐待",
+      "summary_zh": "这名女子说，她被空运到法耶德家族的巴尔纳贡庄园，在那里她多次遭到袭击。"
+    },
+    {
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "link": "",
+      "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+      "published": "",
+      "title_zh": "英伟达调查中心的涉嫌中国间谍是谁？",
+      "summary_zh": "据报道，中国女商人爱丽丝·黄 (Alice Huang) 与英伟达老板黄仁勋 (Jensen Huang) 关系密切。"
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "link": "",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "published": "",
+      "title_zh": "澳洲航空将外包 850 个当地工作岗位，其中大部分岗位将转移到印度",
+      "summary_zh": "这家澳大利亚航空公司表示，此举旨在实现 IT 系统现代化，并注意到人工智能的影响。"
+    },
+    {
+      "title": "Prince William wants more protection from harassment for service women",
+      "link": "",
+      "summary": "The Prince of Wales says he wants to stop sexual harassment against women in the armed forces.",
+      "published": "",
+      "title_zh": "威廉王子希望为女军人提供更多保护，使其免受骚扰",
+      "summary_zh": "威尔士亲王表示，他希望停止对武装部队中女性的性骚扰。"
+    },
+    {
+      "title": "Drone delivers food to chimpanzee cut off by flooding",
+      "link": "",
+      "summary": "Drone video shows the animal retrieving food from a paper bag dropped nearby after flooding blocked access to a Florida chimpanzee sanctuary.",
+      "published": "",
+      "title_zh": "无人机向因洪水中断的黑猩猩运送食物",
+      "summary_zh": "无人机视频显示，洪水堵塞了佛罗里达黑猩猩保护区的通道后，这只动物从附近掉落的纸袋中取出食物。"
+    },
+    {
+      "title": "Brady ends association with Birmingham City",
+      "link": "",
+      "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
+      "published": "",
+      "title_zh": "布雷迪终止与伯明翰城的合作",
+      "summary_zh": "NFL 传奇人物汤姆·布雷迪 (Tom Brady) 在三年后结束了与积分榜榜首的冠军球队伯明翰城的合作。"
+    },
+    {
+      "title": "Kane and Bellingham air strong views in England World Cup review",
+      "link": "",
+      "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+      "published": "",
+      "title_zh": "凯恩和贝林汉姆在英格兰世界杯回顾中表达了强烈的观点",
+      "summary_zh": "据了解，英格兰球员在一次球队会议上对世界杯半决赛输给阿根廷队表达了强烈的看法。"
+    },
+    {
+      "title": "Cockpit voice recorder recovered from Florida Learjet crash that killed 9 people",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "驾驶舱录音机从佛罗里达州里尔喷气式飞机坠毁事故中恢复，该事故造成 9 人死亡"
+    },
+    {
+      "title": "ASRA NOMANI:Democrat rising star connected to network of Islamists, anti-Israel activists",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿斯拉·诺曼尼：民主党后起之秀与伊斯兰主义者、反以色列活动人士网络有联系"
+    },
+    {
+      "title": "White House digs in after Trump floats deal with Dems that has supporters raging",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普与民主党达成一项令支持者愤怒的协议后，白宫介入"
+    },
+    {
+      "title": "Democrat mom says daughter’s secret transition sparked major election victories",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党妈妈说女儿的秘密过渡引发了重大选举胜利"
+    },
+    {
+      "title": "Charlamagne reacts to Dave Chappelle saying he felt 'better' after Charlie Kirk's death",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "查理·柯克去世后，戴夫·查佩尔称查理曼感觉“好多了”，查拉曼对此做出回应"
+    },
+    {
+      "title": "Dana White can’t believe press has questions for him during wild White House briefing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "达纳·怀特不敢相信媒体在疯狂的白宫简报会上向他提出问题"
+    },
+    {
+      "title": "Iran demands US surrender to its conditions, says Washington spreading ‘Fake News’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "华盛顿称伊朗散布“假新闻”，要求美国屈服于其条件"
+    },
+    {
+      "title": "FBI investigating suspected homicide aboard popular cruise ship after sudden return",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦调查局正在调查热门游轮突然返回后涉嫌凶杀案"
+    },
+    {
+      "title": "Trump says FBI getting involved after Nvidia CEO’s alleged affair with Chinese spy",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普称联邦调查局介入英伟达首席执行官涉嫌与中国间谍有染"
+    },
+    {
+      "title": "MICHAEL RUIZ:Judge gives long-awaited trial date ruling in Tyler Robinson case",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈克尔·鲁伊斯：​​法官对泰勒·罗宾逊案给出了期待已久的审判日期裁决"
+    },
+    {
+      "title": "Jordon Hudson files lawsuit seeking damages over shirtless Bill Belichick video leak",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乔丹·哈德森 (Jordon Hudson) 就赤裸上身的比尔·贝利切克 (Bill Belichick) 视频泄露提起诉讼，寻求赔偿"
+    },
+    {
+      "title": "CFP chief admits fans opposed 24-team playoff, but committee expanded it anyway",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "CFP主席承认球迷反对24支球队参加季后赛，但委员会还是扩大了范围"
+    },
+    {
+      "title": "JESSE WATTERS:This is a humiliation tactic",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰西·沃特斯：这是一种羞辱策略"
+    },
+    {
+      "title": "Education advocate predicts parent backlash after Texas Gov.-elect vows to gut vouchers",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "教育倡导者预测，德克萨斯州当选州长发誓要取消代金券后，家长会强烈反对"
+    },
+    {
+      "title": "Swifties, including his girlfriend, go after Tyler Kolek over Taylor Swift comments",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "包括他的女朋友在内的斯威夫特人因泰勒·斯威夫特的评论而追捕泰勒·科勒克"
+    },
+    {
+      "title": "Springsteen fan club founders say political fights, El-Sayed backing led to end: report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "斯普林斯汀粉丝俱乐部创始人称政治斗争和埃尔-赛义德的支持导致了结束：报告"
+    },
+    {
+      "title": "Runaway corgi steals the show during NFL halftime",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "逃跑的柯基犬在 NFL 中场休息时抢尽风头"
+    },
+    {
+      "title": "Trump says FBI is investigating Nvidia CEO’s relationship with alleged Chinese spy",
+      "link": "https://www.nbcnews.com/business/corporations/trump-fbi-probe-nvidia-jensen-huang-spy-rcna608439",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普称联邦调查局正在调查英伟达首席执行官与涉嫌中国间谍的关系"
+    },
+    {
+      "title": "California voters reject new tax on billionaires in a blow to the left",
+      "link": "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州选民拒绝对亿万富翁征收新税，这对左翼构成打击"
+    },
+    {
+      "title": "They fled Democratic-run states to escape liberal policies. Then the blue wave hit.",
+      "link": "https://www.nbcnews.com/news/us-news/blue-wave-election-results-republicans-moved-texas-georgia-weigh-optio-rcna607712",
+      "summary": "",
+      "published": "",
+      "title_zh": "他们逃离民主党管理的州以逃避自由主义政策。然后蓝色的波浪袭来。"
+    },
+    {
+      "title": "Trump defends Pete Hegseth at surprise news briefing with Dana White",
+      "link": "https://www.nbcnews.com/politics/white-house/trump-defends-jensen-huang-pete-hegseth-press-briefing-ufc-dana-white-rcna608446",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在与达纳·怀特的意外新闻发布会上为皮特·赫格斯辩护"
+    },
+    {
+      "title": "Trump casts doubt on election results after saying he was ‘absolutely willing’ to accept them",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-midterm-elections-voting-machines-doubt-rcna607893",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在表示“绝对愿意”接受选举结果后对选举结果表示怀疑"
+    },
+    {
+      "title": "Inflation likely took a breather last month as fuel prices fell",
+      "link": "https://www.nbcnews.com/business/economy/october-cpi-inflation-report-gas-prices-rcna608386",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于燃油价格下跌，上个月通胀可能会有所喘息"
+    },
+    {
+      "title": "Lindsay Clancy loses bids to dismiss murder charges and question ‘holdout juror’",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-loses-bids-dismiss-murder-charges-question-holdout-juro-rcna608432",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西 (Lindsay Clancy) 驳回谋杀指控并质疑“顽固陪审员”的请求失败"
+    },
+    {
+      "title": "Ohio State University investigating fraternity after video appears to show two men on fire",
+      "link": "https://www.nbcnews.com/news/us-news/ohio-state-university-investigating-fraternity-video-appears-show-two-rcna608313",
+      "summary": "",
+      "published": "",
+      "title_zh": "视频显示两名男子着火，俄亥俄州立大学正在调查兄弟会"
+    },
+    {
+      "title": "Supreme Court paves way for Trump to build section of border wall in Big Bend area of Texas",
+      "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院为特朗普在德克萨斯州大本德地区修建部分边境墙铺平道路"
+    }
+  ]
+}
