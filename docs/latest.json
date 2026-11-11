@@ -1,6 +1,6 @@
 {
-  "date": "20261110",
-  "total": 48,
+  "date": "20261111",
+  "total": 40,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,358 +37,300 @@
   },
   "entries": [
     {
-      "title": "Thune survives Senate GOP rebellion as would-be coup fades behind closed doors",
+      "title": "Republican-led House rejects Hegseth impeachment effort",
+      "link": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党领导的众议院拒绝弹劾赫格斯的努力"
+    },
+    {
+      "title": "See the childhood vaccination rates for your community",
+      "link": "https://www.nbcnews.com/health/health-news/maps-measles-herd-immunity-vaccination-rates-school-counties-rcna608387",
+      "summary": "",
+      "published": "",
+      "title_zh": "查看您所在社区的儿童疫苗接种率"
+    },
+    {
+      "title": "Behind the data: How NBC News tracked the decline in childhood vaccinations",
+      "link": "https://www.nbcnews.com/health/health-news/vaccine-data-tracking-rate-vaccination-methodology-rcna608370",
+      "summary": "",
+      "published": "",
+      "title_zh": "数据背后：NBC 新闻如何追踪儿童疫苗接种率的下降"
+    },
+    {
+      "title": "Read more from the data investigation",
+      "link": "https://www.nbcnews.com/specials/vaccine-divide/index.html",
+      "summary": "",
+      "published": "",
+      "title_zh": "从数据调查中了解更多信息"
+    },
+    {
+      "title": "Bernie Sanders says he won’t support Chuck Schumer for Senate majority leader",
+      "link": "https://www.nbcnews.com/politics/congress/bernie-sanders-wont-support-chuck-schumer-senate-democrats-leader-rcna608633",
+      "summary": "",
+      "published": "",
+      "title_zh": "伯尼·桑德斯表示，他不会支持查克·舒默竞选参议院多数党领袖"
+    },
+    {
+      "title": "GOP Rep. María Elvira Salazar wins re-election in Florida after clashing with Trump",
+      "link": "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党众议员玛丽亚·埃尔维拉·萨拉查在与特朗普发生冲突后在佛罗里达州赢得连任"
+    },
+    {
+      "title": "U.S. charges 3 men with plotting multiple terror attacks, including planned attack against U.K. airbase",
+      "link": "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国指控三名男子策划多次恐怖袭击，其中包括计划袭击英国空军基地"
+    },
+    {
+      "title": "Twice-deported illegal alien accused of trying to storm United cockpit",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "图恩在参议院共和党的叛乱中幸存下来，因为潜在的政变在闭门后逐渐消失"
+      "title_zh": "两次被驱逐出境的非法外国人被指控试图袭击美联航驾驶舱"
     },
     {
-      "title": "Trump closing in on new press secretary — and two top candidates could break the mold",
+      "title": "Bessent moved to military base amid Iranian threats, official says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普即将任命新新闻秘书——两位顶级候选人可能会打破常规"
+      "title_zh": "官员称，贝森特在伊朗威胁下转移到军事基地"
     },
     {
-      "title": "Inside Sotomayor's wish for the Supreme Court — and the ruling she wants reversed",
+      "title": "Object hurled at Biden's motorcade as crowd screams 'blood on your hands'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "索托马约尔对最高法院的愿望——以及她希望推翻的裁决"
+      "title_zh": "拜登车队被投掷物体，人群尖叫“你手上有血”"
     },
     {
-      "title": "GOP wipeout goes from bad to worse as Democrats quietly score another win",
+      "title": "Ilhan Omar's meeting after scandal-plagued recess could signal what's ahead",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着民主党悄然取得另一场胜利，共和党的惨败变得越来越糟"
+      "title_zh": "伊尔汗·奥马尔在丑闻缠身的休会后举行的会议可能预示着未来的发展"
     },
     {
-      "title": "Meghan Markle’s estranged father allegedly cut off ankle monitor after arrest",
+      "title": "Trump reacts to the failure of Massie’s effort to impeach War Secretary Hegseth",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "梅根·马克尔分居的父亲据称在被捕后切断了脚踝监视器"
+      "title_zh": "Trump reacts to the failure of Massie’s effort to impeach War Secretary Hegseth"
     },
     {
-      "title": "Cardiologist's weekend bike ride ends with deadly discovery miles from home",
+      "title": "Explosive Epstein report details convicted sex trafficker's political connections",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "心脏病专家的周末自行车骑行以离家数英里的致命发现结束"
+      "title_zh": "爱泼斯坦爆炸性报告详细介绍了被定罪的性贩运者的政治关系"
     },
     {
-      "title": "Jayapal suggests overturning her state’s vote weeks after praising democracy",
+      "title": "Biden shares Trump's unexpected words from 2021 farewell letter in new memoir",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贾亚帕尔在赞扬民主几周后建议推翻该州的投票"
+      "title_zh": "拜登在新回忆录中分享了特朗普2021年告别信中出人意料的话"
     },
     {
-      "title": "CEO’s affair with alleged spy raises questions about his access to the White House",
+      "title": "Mullin doubles down on border security after crushing Republican midterm losses",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "首席执行官与涉嫌间谍的恋情引发了人们对他进入白宫的质疑"
+      "title_zh": "穆林在击败共和党中期选举失败后加大边境安全力度"
     },
     {
-      "title": "Raiders ship out their starter, paving the way for No. 1 overall pick",
+      "title": "Would-be coup fades behind closed doors as Senate GOP decides on leadership",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "突袭者队送出了他们的先发球员，为第一顺位选秀权铺平了道路"
+      "title_zh": "随着参议院共和党决定领导层，潜在的政变在闭门后逐渐消失"
     },
     {
-      "title": "JOIN THE CONVERSATION:Did House Republicans make the right choice in Jim Jordan?",
+      "title": "AOC’s Nvidia criticism draws questions about Swalwell’s suspected spy ties",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加入对话：众议院共和党人对吉姆乔丹做出了正确的选择吗？"
+      "title_zh": "AOC 对 Nvidia 的批评引发了人们对斯瓦尔韦尔涉嫌间谍关系的质疑"
     },
     {
-      "title": "3 alleged Iran-backed operatives indicted as chilling details of US base plot emerge",
+      "title": "Multiple dead after vehicle crashes into food stand near North Hollywood Metro station",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国基地阴谋的令人毛骨悚然的细节浮出水面，三名涉嫌伊朗支持的特工被起诉"
+      "title_zh": "车辆撞上北好莱坞地铁站附近的食品摊，造成多人死亡"
     },
     {
-      "title": "Country singer dead at 22 as heartbreaking details of his last night emerge",
+      "title": "Tyrus discusses the cost of fame and why he almost walked away",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村歌手去世，年仅 22 岁，他昨晚的令人心碎的细节浮出水面"
+      "title_zh": "泰勒斯讨论成名的代价以及他差点走开的原因"
     },
     {
-      "title": "US officials warn Americans after 6 killed in shooting at iconic tourist square",
+      "title": "Ohio State suspends fraternity after video captures two people engulfed in flames",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国官员在标志性旅游广场发生枪击事件造成六人死亡后警告美国人"
+      "title_zh": "视频捕捉到两人被火焰吞没后，俄亥俄州暂停了兄弟会"
     },
     {
-      "title": "Viral 'heightmaxxing' craze has boys experimenting with a powerful prescription drug",
+      "title": "Beloved TV and theater star Stacy Keach passes after lengthy battle with heart failure",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "病毒式的“增高”热潮让男孩们尝试一种强效处方药"
+      "title_zh": "深受喜爱的电视和戏剧明星史黛西·基奇 (Stacy Keach) 在与心力衰竭长期斗争后去世"
     },
     {
-      "title": "‘Freaked out’ Oklahomans ‘pray’ for Texas after blue wave crashes into state",
+      "title": "Brittany Mahomes drops No. 4 pregnancy news on Instagram and fans have one burning question",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "蓝色浪潮席卷德克萨斯州后，俄克拉荷马州人“吓坏了”，为德克萨斯州“祈祷”"
+      "title_zh": "布列塔尼·马霍姆斯 (Brittany Mahomes) 在 Instagram 上发布了第四大怀孕消息，粉丝们有一个迫切的问题"
     },
     {
-      "title": "FBI says cruise ship murder suspect did something unusual after woman was killed",
+      "title": "American girl, 7, shot and killed after family avoids cartel roadblocks in Mexico",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "FBI称游轮谋杀案嫌疑人在妇女被杀后做了一些不寻常的事情"
+      "title_zh": "墨西哥7岁美国女孩家人躲避卡特尔路障后遭枪杀"
     },
     {
-      "title": "Kim Kardashian's Skims hawks $148 holiday box with zero garments and buyers are livid",
+      "title": "World Series champ and beloved member of historic baseball family dead at 78",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "金·卡戴珊 (Kim Kardashian) 的 Skims 兜售 148 美元假日礼盒，零服装，买家怒不可遏"
+      "title_zh": "世界大赛冠军、历史悠久的棒球家族深受爱戴的成员去世，享年 78 岁"
     },
     {
-      "title": "Ring debuts flying indoor security camera to guard homes, businesses",
+      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
       "link": "",
-      "summary": "",
+      "summary": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
       "published": "",
-      "title_zh": "Ring首次推出飞行室内安全摄像头来保护家庭和企业"
+      "title_zh": "乔纳森·罗斯对威廉姆斯的指控和布兰德的定罪感到“震惊”",
+      "summary_zh": "这位电视节目主持人表示，他曾经与大卫·威廉姆斯和拉塞尔·布兰德都“友好”，但“确实不知道他们的行为”。"
     },
     {
-      "title": "‘Yellowstone’ star ditched Hollywood dream for 'freedom' on an Arkansas ranch",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
       "link": "",
-      "summary": "",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
       "published": "",
-      "title_zh": "《黄石》明星放弃好莱坞梦想，在阿肯色州牧场寻求“自由”"
+      "title_zh": "肯尼迪家族起诉封锁特朗普的拱门，称这会给肯尼迪的坟墓投下阴影",
+      "summary_zh": "政治王朝的九名成员表示，这座 250 英尺高的建筑会给墓地投下阴影。"
     },
     {
-      "title": "One idea with universal appeal for Democrats: Get Elon Musk under oath",
-      "link": "https://www.nbcnews.com/tech/elon-musk/elon-musk-election-midterm-democrat-spacex-ai-rcna607928",
-      "summary": "",
-      "published": "",
-      "title_zh": "一个对民主党人具有普遍吸引力的想法：让埃隆·马斯克宣誓就职"
-    },
-    {
-      "title": "Ron DeSantis makes his first move toward a possible presidential run",
-      "link": "https://www.nbcnews.com/politics/2028-election/ron-desantis-think-tank-presidential-buzz-rcna607663",
-      "summary": "",
-      "published": "",
-      "title_zh": "罗恩·德桑蒂斯迈出了他可能竞选总统的第一步"
-    },
-    {
-      "title": "The House districts that remain uncalled after the midterms",
-      "link": "https://www.nbcnews.com/politics/2026-election/house-districts-remain-uncalled-2026-midterms-rcna608426",
-      "summary": "",
-      "published": "",
-      "title_zh": "中期选举后仍未被召集的众议院选区"
-    },
-    {
-      "title": "Pete Hegseth says the impeachment push against him is a ‘farce’ and ‘stunt’",
-      "link": "https://www.nbcnews.com/politics/national-security/defense-secretary-pete-hegseth-massie-impeachment-farce-rcna608421",
-      "summary": "",
-      "published": "",
-      "title_zh": "皮特·赫格斯表示，针对他的弹劾是一场“闹剧”和“噱头”"
-    },
-    {
-      "title": "U.S. Army soldier arrested in U.K. on suspicion of spying for Russia",
-      "link": "https://www.nbcnews.com/world/united-kingdom/us-army-member-arrested-uk-suspicion-working-russian-intelligence-rcna608616",
-      "summary": "",
-      "published": "",
-      "title_zh": "一名美国陆军士兵因涉嫌为俄罗斯从事间谍活动在英国被捕"
-    },
-    {
-      "title": "How the Kremlin turned out the lights at Russia’s top independent newspaper",
-      "link": "https://www.nbcnews.com/world/russia/novaya-gazeta-russia-independent-newspaper-closes-kremlin-pressure-rcna607389",
-      "summary": "",
-      "published": "",
-      "title_zh": "克里姆林宫如何关掉俄罗斯顶级独立报纸的灯光"
-    },
-    {
-      "title": "MAHA rejoices as Stephen Miller takes over as chief of staff",
-      "link": "https://www.nbcnews.com/health/health-news/maha-cheers-stephen-miller-chief-of-staff-rcna608389",
-      "summary": "",
-      "published": "",
-      "title_zh": "斯蒂芬·米勒 (Stephen Miller) 接任幕僚长，马哈 (MAHA) 感到高兴"
-    },
-    {
-      "title": "Inflation still a headache for consumers despite cooling last month",
-      "link": "https://www.nbcnews.com/business/economy/inflation-october-gas-prices-election-rcna608515",
-      "summary": "",
-      "published": "",
-      "title_zh": "尽管上个月通胀降温，但通胀仍令消费者头疼"
-    },
-    {
-      "title": "Nvidia hires former acting U.S. attorney to probe Jensen Huang affair",
-      "link": "https://www.nbcnews.com/business/corporations/ex-prosecutor-probe-jensen-huang-chinese-spy-affair-nvidia-rcna608628",
-      "summary": "",
-      "published": "",
-      "title_zh": "英伟达聘请前代理美国检察官调查黄仁勋事件"
-    },
-    {
-      "title": "Anthropic sets $1 trillion IPO valuation target in test of Wall Street’s AI fervor",
-      "link": "https://www.nbcnews.com/business/corporations/anthropic-sets-modest-1-trillion-ipo-valuation-target-rcna608514",
-      "summary": "",
-      "published": "",
-      "title_zh": "Anthropic设定1万亿美元IPO估值目标以考验华尔街的人工智能热情"
-    },
-    {
-      "title": "We read Sofia Franklyn’s memoir about her falling out with Alex Cooper so you don’t have to",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/sofia-franklyn-memoir-daddy-issues-alex-cooper-fallout-call-her-daddy-rcna608404",
-      "summary": "",
-      "published": "",
-      "title_zh": "我们读了索菲亚·富兰克林 (Sofia Franklyn) 的回忆录，讲述了她与亚历克斯·库珀 (Alex Cooper) 闹翻的经历，所以您不必阅读"
-    },
-    {
-      "title": "Analysis: Hegseth fights for his political life with appeal to Trump",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "link": "",
-      "summary": "The defence secretary may be facing impeachment, writes Gary O'Donoghue, but it is Trump who could determine his fate.",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "published": "",
-      "title_zh": "Analysis: Hegseth fights for his political life with appeal to Trump",
-      "summary_zh": "加里·奥多诺霍写道，国防部长可能面临弹劾，但决定他命运的是特朗普。"
+      "title_zh": "美国众议院暂时阻止弹劾国防部长皮特·赫格塞斯",
+      "summary_zh": "特朗普对这一结果表示欢迎，称赞赫格斯是“伟大的美国爱国者”，但民主党明年可以再次尝试。"
     },
     {
-      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
       "link": "",
-      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
       "published": "",
-      "title_zh": "报告发现，美国联邦当局本可以阻止爱泼斯坦的犯罪",
-      "summary_zh": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case."
+      "title_zh": "来认识一下“浴血黑帮”吧，这是乌克兰的无人机部队，保护着被摧毁的前线城市",
+      "summary_zh": "斯拉维扬斯克继续受到俄罗斯军队的轰炸，几乎无法居住，战前人口仅剩不到 10%。"
     },
     {
-      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-      "link": "",
-      "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-      "published": "",
-      "title_zh": "俄罗斯希望乌克兰放弃的满目疮痍的前线城市",
-      "summary_zh": "英国广播公司罕见地接触到一支专业无人机部队，保卫东部城市斯拉维扬斯克免受俄罗斯猛烈炮火的袭击。"
-    },
-    {
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "link": "",
       "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "published": "",
-      "title_zh": "官员称，梅根的父亲托马斯·马克尔因涉嫌切断脚踝监视器而被拘留",
-      "summary_zh": "这位 82 岁的老人上周在佛罗里达州被指控持有儿童性虐待材料后被软禁。"
+      "title_zh": "梅根的父亲托马斯·马克尔因涉嫌拆除脚踝监视器而重新被联邦拘留",
+      "summary_zh": "这名 82 岁的老人上周因持有儿童性虐待材料被指控在佛罗里达州被软禁。"
     },
     {
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "title": "In Mississippi, voters await cliffhanger Senate result with hope and frustration",
       "link": "",
-      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "summary": "Democratic voters tell the BBC their candidate is on the brink of history, while Republicans vent disappointment.",
       "published": "",
-      "title_zh": "涉嫌为俄罗斯从事间谍活动的美国陆军士兵在英国被捕",
-      "summary_zh": "这名 41 岁的高级士兵被指控犯有国家安全罪，正在伦敦接受讯问。"
+      "title_zh": "在密西西比州，选民们满怀希望和沮丧地等待着悬而未决的参议院结果",
+      "summary_zh": "民主党选民告诉英国广播公司，他们的候选人正处于历史的边缘，而共和党人则表达了失望之情。"
     },
     {
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
       "link": "",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
       "published": "",
-      "title_zh": "英伟达聘请纽约大型律师事务所调查黄仁勋事件",
-      "summary_zh": "这一任命是在黄仁勋与一名据信是中国间谍的女子有染后做出的。"
+      "title_zh": "为什么澳大利亚希望英国人从悉尼转向内陆地区？",
+      "summary_zh": "澳大利亚希望改变英国协议，将背包客赶出邦迪并进入偏远地区。"
     },
     {
-      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
       "link": "",
-      "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
       "published": "",
-      "title_zh": "为什么这些紫色的花朵会封锁悉尼的街道？",
-      "summary_zh": "蓝花楹树通常每年春天开花六周，吸引来自世界各地的游客来到澳大利亚。"
+      "title_zh": "“他们也会杀了你”：索尼娅·甘地在印度政坛的动荡历程",
+      "summary_zh": "索尼娅·甘地的回忆录重新审视了爱情、失去和政治遗产，为她的家庭及其遗产提供了深刻的个人辩护。"
     },
     {
-      "title": "Gary O'Donoghue: Hegseth fights for his political life with appeal to Trump",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
       "link": "",
-      "summary": "The defence secretary may be facing impeachment, writes Gary O'Donoghue, but it is Trump who could determine his fate.",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
       "published": "",
-      "title_zh": "加里·奥多诺霍：赫格斯为自己的政治生活而战，向特朗普求助",
-      "summary_zh": "加里·奥多诺霍写道，国防部长可能面临弹劾，但决定他命运的是特朗普。"
+      "title_zh": "皇家马德里队球员小维尼修斯向在苏丹战争中失去双腿的男孩发出了令人惊讶的信息",
+      "summary_zh": "双截肢者扎赫去年向英国广播公司讲述了他最喜欢的足球运动员和能够再次行走的梦想。"
     },
     {
-      "title": "Meet Stephanie Case - the Canadian first woman to run 100 miles in Antarctica",
+      "title": "Why David Walliams' unprecedented legal battle to stay anonymous failed",
       "link": "",
-      "summary": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica.",
+      "summary": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
       "published": "",
-      "title_zh": "认识斯蒂芬妮·凯斯 (Stephanie Case)——加拿大首位在南极洲跑完 100 英里的女性",
-      "summary_zh": "斯蒂芬妮·凯斯 (Stephanie Case) 创造了历史，成为第一位在南极洲完成 100 英里极限比赛的女性。"
+      "title_zh": "为什么大卫威廉姆斯史无前例的匿名法律斗争失败了",
+      "summary_zh": "这位 55 岁的男子在阻止公开指控的法庭诉讼失败后，于周二被英国独立电视台新闻和卫报报道。"
     },
     {
-      "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
+      "title": "Violence as ousted PM Hasina's supporters protest in Bangladesh",
       "link": "",
-      "summary": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
       "published": "",
-      "title_zh": "'It's a farce': Hegseth's defiant response to impeachment effort",
-      "summary_zh": "英国广播公司 (BBC) 的加里·奥多诺霍 (Gary O’Donoghue) 详细分析了美国国防部长在共和党国会议员试图弹劾他后如何捍卫自己的记录。"
+      "title_zh": "孟加拉国总理哈西娜的支持者抗议发生暴力事件",
+      "summary_zh": "谢赫·哈西娜的支持者希望她从印度流亡归来。"
     },
     {
-      "title": "How did an airbase in a small UK town become crucial to the US Air Force?",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
       "link": "",
-      "summary": "RAF Mildenhall is the main European refuelling tanker base for US forces in Europe.",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
       "published": "",
-      "title_zh": "英国小镇的空军基地如何对美国空军变得至关重要？",
-      "summary_zh": "英国皇家空军米尔登霍尔基地是驻欧洲美军的主要欧洲加油机基地。"
+      "title_zh": "特立尼达和多巴哥的反同性恋法被推翻",
+      "summary_zh": "该裁决结束了双重公民贾森·琼斯长达 11 年的法律诉讼。"
     },
     {
-      "title": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
       "link": "",
-      "summary": "The entertainer shot to fame on Little Britain and also has best-selling series of children's books.",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
       "published": "",
-      "title_zh": "大卫·威廉姆斯的职业生涯和争议，包括《英国达人秀》和《小不列颠》",
-      "summary_zh": "这位艺人因《小不列颠》而声名鹊起，还出版了一系列畅销儿童读物。"
+      "title_zh": "马来西亚前总理因贪污数百万美元而被软禁出狱",
+      "summary_zh": "纳吉布·拉扎克因参与涉及 1MDB 主权财富基金的数十亿美元丑闻而被定罪。"
     },
     {
-      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+      "title": "Prince George's artwork featured in Country Life magazine",
       "link": "",
-      "summary": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+      "summary": "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine.",
       "published": "",
-      "title_zh": "“令人困惑但精彩”的后世界末日小说《一切的终结》荣获布克奖",
-      "summary_zh": "81 岁的约翰·哈里森 (M John Harrison) 成为该著名文学奖有史以来最年长的获奖者。"
+      "title_zh": "乔治王子的艺术作品登上《乡村生活》杂志",
+      "summary_zh": "威尔士亲王在该杂志特别版中展示了他 13 岁儿子画的一只鸟。"
     },
     {
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
       "link": "",
-      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
       "published": "",
-      "title_zh": "Kim Kardashian's Skims 在遭到强烈反对后提供 148 美元的降临节日历退款",
-      "summary_zh": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
+      "title_zh": "法官允许特朗普针对 BBC 的 100 亿美元诽谤案继续审理",
+      "summary_zh": "但法院驳回了特朗普指控 BBC 违反佛罗里达州法律的诉讼的另一部分。"
     },
     {
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "title": "DeChambeau running out of options - McIlroy",
       "link": "",
-      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+      "summary": "Rory McIlroy says the addition of Bryson DeChambeau to the DP World Tour next season would bring more \"eyeballs\" to the tour but feels the American is running out of options.",
       "published": "",
-      "title_zh": "警方称，法国警方在穆罕默德·阿法耶德调查中逮捕了几人",
-      "summary_zh": "巴黎丽兹酒店仍属于阿尔法耶德家族所有，是警方搜查的财产之一。"
-    },
-    {
-      "title": "More than 12 US military aircraft leave second UK base",
-      "link": "",
-      "summary": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
-      "published": "",
-      "title_zh": "超过12架美军飞机离开英国第二基地",
-      "summary_zh": "几周前，美国因涉嫌与伊朗有关的安全事件而从英国皇家空军费尔福德空军基地撤出轰炸机。"
-    },
-    {
-      "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-      "link": "",
-      "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
-      "published": "",
-      "title_zh": "波切蒂诺、豪、埃梅里……还是卡里克？曼联的管理层选择",
-      "summary_zh": "随着人们对曼联主帅迈克尔·卡里克的未来越来越怀疑，俱乐部的管理选择是什么？"
-    },
-    {
-      "title": "McTominay reveals heart treatment at World Cup",
-      "link": "",
-      "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
-      "published": "",
-      "title_zh": "麦克托米奈透露世界杯上的心脏治疗",
-      "summary_zh": "斯科特·麦克托米奈 (Scott McTominay) 透露，在 6 月苏格兰世界杯战胜海地的比赛前两天，他接受了心脏治疗。"
+      "title_zh": "麦克罗伊：德尚博别无选择",
+      "summary_zh": "罗里·麦克罗伊表示，布赖森·德尚博下赛季加入DP世界巡回赛将为巡回赛带来更多“眼球”，但他觉得美国人已经别无选择。"
     }
   ]
 }
