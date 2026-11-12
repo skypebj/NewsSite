@@ -1,6 +1,6 @@
 {
   "date": "20261112",
-  "total": 39,
+  "total": 43,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,294 +37,320 @@
   },
   "entries": [
     {
-      "title": "Nvidia board reportedly weighs ousting CEO Jensen Huang after second affair allegation",
-      "link": "",
-      "summary": "After Huang admitted one affair - with an alleged Chinese spy - the New York Times reports that Huang allegedly had a second affair with an executive at his company.",
+      "title": "Nvidia CEO Jensen Huang resigns",
+      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+      "summary": "",
       "published": "",
-      "title_zh": "据报道，英伟达董事会在第二次婚外情指控后考虑罢免首席执行官黄仁勋",
-      "summary_zh": "在黄承认与一名所谓的中国间谍有染后，《纽约时报》报道说，黄据称与他公司的一名高管发生了第二次婚外情。"
+      "title_zh": "英伟达首席执行官黄仁勋辞职"
     },
     {
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "link": "",
-      "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
+      "title": "Who is Colette Kress, Nvidia’s new interim CEO?",
+      "link": "https://www.nbcnews.com/tech/tech-news/colette-kress-nvidia-new-interim-ceo-jensen-huang-replace-who-is-rcna609039",
+      "summary": "",
       "published": "",
-      "title_zh": "著名的 SS United 号船故意在佛罗里达海岸沉没，成为暗礁",
-      "summary_zh": "活动人士希望将这艘历史悠久的邮轮改造成博物馆，但它最终将成为世界上最大的人工珊瑚礁。"
+      "title_zh": "Nvidia 新任临时首席执行官 Colette Kress 是谁？"
     },
     {
-      "title": "Burnham says climate consensus 'gone' and pledges 'new era of British leadership' in COP31 speech",
-      "link": "",
-      "summary": "The PM also says the UK is committed to its 2050 net zero target, with his Antalya speech coming after he was quizzed in Parliament over the Rosebank oil field.",
+      "title": "The Nvidia loophole: Chinese firms can use its top chips online — Washington has known for years",
+      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-chips-loophole-export-ruleschinese-companies-access-megaspeed-rcna608601",
+      "summary": "",
       "published": "",
-      "title_zh": "伯纳姆在 COP31 演讲中表示气候共识“消失”并承诺“英国领导力的新时代”",
-      "summary_zh": "英国首相还表示，英国致力于实现 2050 年净零排放目标，他在议会就罗斯班克油田问题接受质询后发表了安塔利亚讲话。"
+      "title_zh": "英伟达的漏洞：中国公司可以在线使用其顶级芯片——华盛顿多年来已经知道"
     },
     {
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "link": "",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "title": "1 person dead, 4 injured in Washington, D.C., gym shooting",
+      "link": "https://www.nbcnews.com/news/dc-shooting-rcna608964",
+      "summary": "",
       "published": "",
-      "title_zh": "民主党人斯科特·科洛姆 (Scott Colom) 创造历史，成为 19 世纪以来密西西比州第一位黑人参议员",
-      "summary_zh": "在特朗普两年前以 22 个百分点获胜的州，科罗姆的胜利延续了民主党在参议院的一系列胜利。"
+      "title_zh": "华盛顿特区健身房发生枪击事件 1人死亡4人受伤"
     },
     {
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "link": "",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "title": "2 children among the 8 dead in New York City building collapse, officials say",
+      "link": "https://www.nbcnews.com/news/us-news/2-children-8-dead-new-york-city-building-collapse-officials-say-rcna608974",
+      "summary": "",
       "published": "",
-      "title_zh": "澳大利亚青少年在丛林中失踪六天获救",
-      "summary_zh": "这位 17 岁男孩的妈妈开玩笑说他“终身禁足”并且“永远不会再离开家”。"
+      "title_zh": "官员称，纽约市大楼倒塌事故造成 8 名死者，其中包括 2 名儿童"
     },
     {
-      "title": "New York City building collapse kills several people",
-      "link": "",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "title": "How Amy Acton overcame big money and a vicious attack ad to make history in Ohio",
+      "link": "https://www.nbcnews.com/politics/2026-election/amy-acton-overcame-big-money-vicious-attack-ad-make-history-ohio-rcna608372",
+      "summary": "",
       "published": "",
-      "title_zh": "纽约市大楼倒塌造成多人死亡",
-      "summary_zh": "周三下午，布鲁克林一栋三层建筑倒塌后，对幸存者的危险搜寻仍在继续。"
+      "title_zh": "艾米·阿克顿 (Amy Acton) 如何克服巨额资金和恶意攻击广告，在俄亥俄州创造历史"
     },
     {
-      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-      "link": "",
-      "summary": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+      "title": "Is Outlook down? Widespread outage hits Microsoft apps",
+      "link": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047",
+      "summary": "",
       "published": "",
-      "title_zh": "五角大楼支持谴责赫格塞斯团体的战争纪念卫队",
-      "summary_zh": "警卫告诉国防部长和他的同伴在退伍军人节访问期间保持“沉默和尊重”的气氛。"
+      "title_zh": "展望低落了吗？微软应用程序大范围停电"
     },
     {
-      "title": "Was Delhi pollution data during Diwali misleading?",
-      "link": "",
-      "summary": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be.",
+      "title": "Wave of Iran-linked plots raise security questions about American bases in Britain",
+      "link": "https://www.nbcnews.com/world/united-kingdom/iran-linked-plots-us-bases-britain-raise-security-questions-rcna608716",
+      "summary": "",
       "published": "",
-      "title_zh": "排灯节期间德里的污染数据是否具有误导性？",
-      "summary_zh": "BBC 验证分析表明，数据缺失导致排灯节官方污染数据低于应有水平。"
+      "title_zh": "与伊朗有关的阴谋浪潮引发了美国驻英国基地的安全问题"
     },
     {
-      "title": "Office buildings emptied out but are filling up again - as homes",
-      "link": "",
-      "summary": "Office buildings with low occupancy rates are being transformed into flats.",
-      "published": "",
-      "title_zh": "办公楼空了，但又重新填满——作为住宅",
-      "summary_zh": "入住率低的办公楼正在改建为公寓。"
-    },
-    {
-      "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
-      "link": "",
-      "summary": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
-      "published": "",
-      "title_zh": "为什么民主党人斯科特·科洛姆在密西西比州参议院竞选中的胜利如此重要",
-      "summary_zh": "科罗姆的胜利使他成为 140 多年来第一位当选美国参议员的该州黑人。"
-    },
-    {
-      "title": "'You're triggering me': How to understand your therapy-speak teen",
-      "link": "",
-      "summary": "Words most often heard in the therapist's chair have made their way into day-to-day conversation - here's a parents' guide to understanding it.",
-      "published": "",
-      "title_zh": "“你触发了我”：如何理解你的治疗语言青少年",
-      "summary_zh": "在治疗师的椅子上最常听到的话语已经进入了日常对话——这是一份家长理解指南。"
-    },
-    {
-      "title": "Watch: Moment Hegseth's group reprimanded at Tomb of the Unknown Soldier",
-      "link": "",
-      "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "published": "",
-      "title_zh": "观看：赫格斯团队在无名烈士墓受到训斥的时刻",
-      "summary_zh": "在纪念退伍军人节的仪式结束后，包括国防部长皮特·赫格斯在内的一群人被大声要求保持安静。"
-    },
-    {
-      "title": "King Charles appears on Sir Elton John's radio show",
-      "link": "",
-      "summary": "The latest episode of Rocket Hour will air on the monarch's 78th birthday on Saturday.",
-      "published": "",
-      "title_zh": "查尔斯国王出现在埃尔顿·约翰爵士的广播节目中",
-      "summary_zh": "最新一集的《火箭时刻》将于周六女王 78 岁生日那天播出。"
-    },
-    {
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "link": "",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "published": "",
-      "title_zh": "印度尼西亚副总统因执政联盟破裂迹象而辞职",
-      "summary_zh": "这一消息发布之际，普拉博沃总统正处于动荡时期，他与前任佐科·维多多的分歧日益扩大。"
-    },
-    {
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "link": "",
-      "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-      "published": "",
-      "title_zh": "乐高市场 BrickLink 在检测到“异常活动”后离线",
-      "summary_zh": "被称为“乐高中的 eBay”的该公司已经关闭三天，目前尚未透露关闭原因。"
-    },
-    {
-      "title": "UK economy grows at fastest rate for more than two years",
-      "link": "",
-      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-      "published": "",
-      "title_zh": "英国经济以两年多来最快速度增长",
-      "summary_zh": "﻿根据官方数据，截至 9 月份的三个月里，英国经济增长了 0.7%。"
-    },
-    {
-      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "link": "",
-      "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
-      "published": "",
-      "title_zh": "混乱导致卡里克在15场比赛内从两年合同中被解雇",
-      "summary_zh": "迈克尔·卡里克成为三个赛季中第三位被解雇的曼联主帅——到底哪里出了问题？"
-    },
-    {
-      "title": "Death toll rising as rescuers dig through rubble after massive building collapse in New York City",
+      "title": "Canada and Australia break ranks as United Nations backs Iranian regime’s global legitimacy grab",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约市大规模建筑倒塌后，救援人员在废墟中挖掘，死亡人数上升"
+      "title_zh": "联合国支持伊朗政权夺取全球合法性，加拿大和澳大利亚分道扬镳"
     },
     {
-      "title": "Jim Jordan predicts who Dems will quickly go after in Trump admin once they take power",
+      "title": "Hegseth honors soldier who called out his entourage at Arlington in striking turn",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "吉姆·乔丹预测一旦民主党掌权，他们将在特朗普政府中迅速追捕谁"
+      "title_zh": "赫格斯向在阿灵顿号召随行人员的士兵致敬"
     },
     {
-      "title": "LUKE BALL:The midterm warning signs for Democrats no one is talking about",
+      "title": "Doctor in deadly gym shooting had waged bitter battle with HOA over mold",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卢克·鲍尔：没有人谈论民主党的中期警告信号"
+      "title_zh": "健身房枪击案中的医生与HOA就霉菌问题展开了激烈的斗争"
     },
     {
-      "title": "Brewers star pulls off rare feat not seen since Randy Johnson in 2001",
+      "title": "Microsoft users hit by widespread outage amid elevated infrastructure load",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "酿酒人明星完成了自 2001 年兰迪·约翰逊以来从未见过的罕见壮举"
+      "title_zh": "基础设施负载增加导致微软用户遭遇大范围停电"
     },
     {
-      "title": "United cockpit suspect claimed transgender persecution, won asylum, DHS says",
+      "title": "Former Nvidia CEO Jensen Huang reportedly had third mistress",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "国土安全部称，美联航驾驶舱嫌疑人声称遭受变性迫害并获得庇护"
+      "title_zh": "据报道，英伟达前首席执行官黄仁勋有第三个情妇"
     },
     {
-      "title": "Taking olive oil shots every morning? Here's what you should know",
+      "title": "ASRA NOMANI:Far-left activists swarm Congress — and melt down when cameras turn on them",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "每天早上喝橄榄油吗？这是你应该知道的"
+      "title_zh": "ASRA NOMANI：极左活动人士涌入国会——当摄像机对准他们时，他们就崩溃了"
     },
     {
-      "title": "Hakeem Jeffries faces progressive holdouts as House speaker race takes shape",
+      "title": "Democrats put top Trump officials on notice for impeachment in new Congress",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着众议院议长竞选的形成，哈基姆·杰弗里斯面临着渐进的抵制"
+      "title_zh": "民主党人向新国会发出弹劾特朗普高级官员的通知"
     },
     {
-      "title": "Nvidia scandal takes new turn as senators demand answers from Trump officials",
+      "title": "Chick-fil-A fans mourn cult-favorite menu item's exit: 'I ordered it every time'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "参议员要求特朗普官员给出答案，英伟达丑闻出现新的转折"
+      "title_zh": "福来鸡粉丝哀悼最受喜爱的菜单项的退出：“我每次都点它”"
     },
     {
-      "title": "Peltola campaign loses in court on rejected absentee ballots as she maintains narrow lead",
+      "title": "Scientists question what is pushing strange object through space as new theory grows",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "佩尔托拉竞选团队因缺席选票被拒绝而在法庭上失败，她保持微弱领先优势"
+      "title_zh": "随着新理论的发展，科学家们质疑是什么推动着奇怪的物体穿过太空"
     },
     {
-      "title": "Jeffries backs return of deported Dreamers, sparks backlash over possible payouts",
+      "title": "Skateboard-swinging woman accused of attacking workers she branded animal abusers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杰弗里斯支持被驱逐的梦想家回归，引发对可能的赔偿的强烈反对"
+      "title_zh": "玩滑板的女子被指控袭击工人，她称其为虐待动物者"
     },
     {
-      "title": "Angel Reese and Caitlin Clark handle their roles in the culture wars very differently",
+      "title": "Colette Kress takes Nvidia helm as Jensen Huang exit rattles investors",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "安吉尔·里斯和凯特琳·克拉克在文化战争中处理各自角色的方式截然不同"
+      "title_zh": "黄仁勋退出令投资者不安，科莱特·克雷斯 (Colette Kress) 接掌英伟达 (Nvidia)"
     },
     {
-      "title": "'Ruthless' takes on the election victory lap, as Dem operatives take credit for the blue wave",
+      "title": "Mamdani’s NYPD promise nears reality as mayor targets protest-control unit",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“无情”赢得选举胜利，民主党特工将蓝色浪潮归功于自己"
+      "title_zh": "随着市长瞄准抗议控制部门，马姆达尼对纽约警察局的承诺接近现实"
     },
     {
-      "title": "JESSE WATTERS:Democrats are getting ready for a ‘maximum pressure campaign’",
+      "title": "Death toll rises as rescuers dig through rubble after building collapse in New York City",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杰西·沃特斯：民主党人正在为“极限施压运动”做好准备"
+      "title_zh": "纽约市建筑物倒塌后，救援人员在废墟中挖掘，死亡人数上升"
     },
     {
-      "title": "Ancient burial site packed with treasures and 38 bodies discovered after centuries",
+      "title": "Another Trump heavyweight confirmed living on military base as more officials relocate",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "几个世纪后发现的古代墓地充满了宝藏和 38 具尸体"
+      "title_zh": "随着更多官员搬迁，另一位特朗普重量级人物证实住在军事基地"
     },
     {
-      "title": "Ro Khanna has defiant response to fears Dems' Trump revenge tour could backfire",
+      "title": "SOUND OFF:Chinese spy threat and extramarital affairs cause CEO to resign from tech giant",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗卡纳对民主党的特朗普报复之旅可能适得其反的担忧做出了挑衅回应"
+      "title_zh": "声音不对：中国间谍威胁和婚外情导致科技巨头首席执行官辞职"
     },
     {
-      "title": "Fires erupt, storefronts smashed as massive strike sparks riots across Spain",
+      "title": "Joe Biden says 2024 presidential debate was not ‘consequential’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大规模罢工引发西班牙各地骚乱，火灾爆发，店面被毁"
+      "title_zh": "乔·拜登表示 2024 年总统辩论并不“重要”"
     },
     {
-      "title": "Republicans tiptoe around Trump as they process defeat in the 2026 elections",
-      "link": "https://www.nbcnews.com/politics/congress/republicans-hesitate-blame-trump-defeat-2026-elections-rcna608554",
+      "title": "Five found alive months after Coast Guard suspended search for missing 20-foot boat",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党人在 2026 年大选中小心翼翼地避开特朗普"
+      "title_zh": "海岸警卫队暂停搜寻失踪的 20 英尺船几个月后，五人被发现还活着"
     },
     {
-      "title": "Alaska judge rules request by Peltola campaign for ballot data in Senate race is ‘not reasonable’",
-      "link": "https://www.nbcnews.com/politics/2026-election/alaska-judge-rules-request-peltola-campaign-ballot-data-senate-race-no-rcna608923",
+      "title": "'Terminator' icon says he is 'absolutely' still a Republican — and Kimmel loses it",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿拉斯加州法官裁定佩尔托拉竞选团队要求提供参议院竞选选票数据的要求“不合理”"
+      "title_zh": "“终结者”偶像说他“绝对”仍然是共和党人 - 而金梅尔失去了它"
     },
     {
-      "title": "Ukraine faces new Starshield disruptions as Trump envoys meet Putin",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938",
+      "title": "Sitcom star Anthony Clark dies at 62 as Hollywood friends remember his humor",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普特使会见普京，乌克兰面临新的星盾中断"
+      "title_zh": "情景喜剧明星安东尼·克拉克去世，享年 62 岁，好莱坞朋友们记得他的幽默"
     },
     {
-      "title": "Israeli strike on Gaza hospital kills at least six people, officials say",
-      "link": "https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932",
+      "title": "Bill Cosby's $59 million legal nightmare takes new turn as arrest threat looms: expert",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "官员称，以色列对加沙医院的袭击造成至少六人死亡"
+      "title_zh": "专家称，逮捕威胁迫在眉睫，比尔·科斯比 (Bill Cosby) 的 5900 万美元法律噩梦迎来了新的转机"
     },
     {
-      "title": "Massive crowd greets Pope Leo as he calls Peru his homeland in emotional visit",
-      "link": "https://www.nbcnews.com/world/pope-leo-xiv/record-crowd-greets-pope-leo-calls-peru-homeland-emotional-visit-rcna608930",
-      "summary": "",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "link": "",
+      "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
       "published": "",
-      "title_zh": "教皇利奥在一次激动人心的访问中称秘鲁为他的祖国，大批人群向他致意"
+      "title_zh": "黄仁勋辞职了，英伟达的下一步是什么？",
+      "summary_zh": "英国广播公司 (BBC) 的萨米拉·侯赛因 (Samira Hussain) 从华尔街报道这位科技巨星的陨落对公司和人工智能意味着什么。"
     },
     {
-      "title": "24-hour escape plan",
-      "link": "https://www.nbcnews.com/news/us-news/concerned-mother-says-helped-rescue-missing-utah-teen-held-captive-ore-rcna608682",
-      "summary": "",
+      "title": "Police identify gunman in Washington DC shooting that left one dead and four injured",
+      "link": "",
+      "summary": "One victim is in a critical condition and three others have non life-threatening injuries, officials say.",
       "published": "",
-      "title_zh": "24小时逃亡计划"
+      "title_zh": "华盛顿特区枪击事件造成一死四伤 警方确认枪手身份",
+      "summary_zh": "官员称，一名受害者情况危急，另外三人没有生命危险。"
+    },
+    {
+      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+      "link": "",
+      "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+      "published": "",
+      "title_zh": "波切蒂诺是如何进入曼联的视线的——以及卡里克在什么时候被告知的",
+      "summary_zh": "曼联如何任命毛里西奥·波切蒂诺为新任主教练，以及迈克尔·卡里克等待的那周发生了什么。"
+    },
+    {
+      "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+      "link": "",
+      "summary": "The accident rattled the usually calm immigrant neighbourhood of Flatbush, New York. At least eight residents, including two children, died in the rubble.",
+      "published": "",
+      "title_zh": "“建筑物怎么会倒塌？”布鲁克林大楼倒塌致死 邻居们悲痛万分",
+      "summary_zh": "这起事故震惊了纽约弗拉特布什一向平静的移民社区。至少八名居民在废墟中丧生，其中包括两名儿童。"
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "link": "",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "published": "",
+      "title_zh": "俄罗斯军舰在芬兰湾被乌克兰无人机击中",
+      "summary_zh": "此次袭击被认为是乌克兰无人机首次在波罗的海开阔海域袭击俄罗斯船只。"
+    },
+    {
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "link": "",
+      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "published": "",
+      "title_zh": "赫格斯向斥责他和团体的战争纪念卫兵颁发奖章",
+      "summary_zh": "在听到赫格斯一行人在无名烈士墓前谈笑风生后，专家托马斯·伊格莱西亚斯向他们大声喊叫，要求他们保持安静。"
+    },
+    {
+      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+      "link": "",
+      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+      "published": "",
+      "title_zh": "人工智能梦想家黄仁勋如何因自己的错误决定而被毁掉",
+      "summary_zh": "佐伊·克莱曼 (Zoe Kleinman) 解释了这位从头开始创建 Nvidia 的人是如何在几天之内失去一切的。"
+    },
+    {
+      "title": "Why the UK economy is surprisingly resilient and has grown so fast recently",
+      "link": "",
+      "summary": "The UK is seeing impressive growth - but will it last, asks the BBC's Faisal Islam.",
+      "published": "",
+      "title_zh": "为什么英国经济具有惊人的弹性并且最近增长如此之快",
+      "summary_zh": "英国广播公司 (BBC) 的费萨尔·伊斯兰 (Faisal Islam) 问道，英国的经济增长令人印象深刻，但这种增长能否持续下去。"
+    },
+    {
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "link": "",
+      "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "published": "",
+      "title_zh": "在斯科特·科洛姆之前，这两个人是密西西比州最后一位美国黑人参议员",
+      "summary_zh": "这位民主党候选人在南部州获胜，该州自 1874 年以来就没有黑人参议员任职。"
+    },
+    {
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "link": "",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "published": "",
+      "title_zh": "“没有光、没有水、没有暖气”：俄罗斯电网瘫痪，乌克兰人与停电作斗争",
+      "summary_zh": "对于乌克兰部分地区的父母来说，试图每天仅用几个小时的电力过上正常的家庭生活正在付出代价。"
+    },
+    {
+      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
+      "link": "",
+      "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+      "published": "",
+      "title_zh": "伯纳姆表示气候共识已“消失”，但在 COP31 演讲中承诺“领导力的新时代”",
+      "summary_zh": "安迪·伯纳姆总理在土耳其安塔利亚举行的 COP31 联合国气候峰会上向代表们发表讲话。"
+    },
+    {
+      "title": "Russell Brand's social media accounts disabled by Meta",
+      "link": "",
+      "summary": "It comes after the 51-year-old disgraced entertainer was sentenced to 10-and-a-half-years in prison.",
+      "published": "",
+      "title_zh": "拉塞尔·布兰德 (Russell Brand) 的社交媒体帐户被 Meta 禁用",
+      "summary_zh": "此前，这位 51 岁的名誉扫地的艺人被判处 10 年半监禁。"
+    },
+    {
+      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+      "link": "",
+      "summary": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
+      "published": "",
+      "title_zh": "微软用户报告科技巨头“连接问题”导致服务中断",
+      "summary_zh": "科技巨头表示其基础设施受到“负载升高”的打击后，全球用户报告了问题"
+    },
+    {
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "link": "",
+      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "published": "",
+      "title_zh": "喜马拉雅山脉东部发现了五种新的微型青蛙物种",
+      "summary_zh": "科学家表示，青蛙是随着喜马拉雅山的上升和亚洲季风的形成而进化的。"
+    },
+    {
+      "title": "Kane scores winner but who else made an impression? England player ratings",
+      "link": "",
+      "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
+      "published": "",
+      "title_zh": "凯恩打入制胜球，但还有谁给人留下了深刻的印象呢？英格兰球员评分",
+      "summary_zh": "英格兰球员在国联对阵克罗地亚的比赛中表现如何？资深足球记者萨米·莫克贝尔给出了他的结论。"
     }
   ]
 }
