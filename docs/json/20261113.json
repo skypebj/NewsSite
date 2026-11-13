@@ -1,0 +1,372 @@
+{
+  "date": "20261113",
+  "total": 45,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "link": "",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "published": "",
+      "title_zh": "英伟达前首席执行官黄仁勋被传唤到国会就与涉嫌中国间谍的事件作证",
+      "summary_zh": "在涉嫌婚外情被曝光后，黄周四突然辞去了全球最有价值公司之一的负责人职务。"
+    },
+    {
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "published": "",
+      "title_zh": "泽连斯基欢迎美国将欧洲带入俄乌和谈",
+      "summary_zh": "乌克兰总统表示，欧洲领导人的参与是有意义的，因为乌克兰希望最终加入欧盟。"
+    },
+    {
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "link": "",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "published": "",
+      "title_zh": "FBI 称朝鲜黑客利用虚假视频通话实施价值 4 亿美元的加密货币黑客攻击",
+      "summary_zh": "据信，过去 18 个月内有超过 900 名受害者成为 FaceStealer 计划的受害者。"
+    },
+    {
+      "title": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
+      "link": "",
+      "summary": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+      "published": "",
+      "title_zh": "英国广播公司发现，公司帮助移民冒充艺术家和技术专家以获得“全球人才”签证",
+      "summary_zh": "卧底揭露一场精心策划的欺诈行为，旨在为富有的移民获得快速安置。"
+    },
+    {
+      "title": "Cricket sandpaper scandal claims '100% wrong', Australia captain says",
+      "link": "",
+      "summary": "Pat Cummins says claims by his former team-mate Usman Khawaja that the whole team knew about the ball tampering plot are \"utter nonsense\".",
+      "published": "",
+      "title_zh": "澳大利亚队长称板球砂纸丑闻“100%错误”",
+      "summary_zh": "帕特·康明斯表示，他的前队友乌斯曼·卡瓦贾声称整个球队都知道篡改球的阴谋，这“完全是无稽之谈”。"
+    },
+    {
+      "title": "Brand will face 'hell on earth' in London prison, says former inmate",
+      "link": "",
+      "summary": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault.",
+      "published": "",
+      "title_zh": "前囚犯称布兰德将在伦敦监狱面临“人间地狱”",
+      "summary_zh": "这位名誉扫地的艺人因强奸和性侵犯被判处10年零6个月的徒刑。"
+    },
+    {
+      "title": "Can the Eurovision Song Contest succeed in Asia?",
+      "link": "",
+      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "published": "",
+      "title_zh": "欧洲歌唱大赛能否在亚洲取得成功？",
+      "summary_zh": "世界上规模最大、历史最悠久的歌曲比赛即将来到亚洲，十一个国家将于周六在泰国曼谷展开角逐。"
+    },
+    {
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "link": "",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "published": "",
+      "title_zh": "“家庭钓鱼”的兴起——人工智能的使用何时从增强变为误导？",
+      "summary_zh": "专家警告说，使用人工智能来增强房地产图像可能会走得太远，并误导潜在买家。"
+    },
+    {
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "link": "",
+      "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+      "published": "",
+      "title_zh": "为什么美国最大的州中期计票要花这么长时间",
+      "summary_zh": "阿拉斯加人仍在等待全部结果，包括共和党人丹·沙利文和民主党人玛丽·佩尔托拉之间势均力敌的参议院竞选结果。"
+    },
+    {
+      "title": "What we know about Brooklyn building collapse that killed eight people",
+      "link": "",
+      "summary": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
+      "published": "",
+      "title_zh": "我们对布鲁克林大楼倒塌导致八人死亡的了解",
+      "summary_zh": "周三，一栋住宅楼落入邻近的建筑工地，两名建筑工人和两名儿童丧生。"
+    },
+    {
+      "title": "Ankle injuries are more common than you think - here's how to protect yours",
+      "link": "",
+      "summary": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after your ankles.",
+      "published": "",
+      "title_zh": "脚踝受伤比您想象的更常见 - 以下是如何保护您的脚踝",
+      "summary_zh": "表演物理治疗师 Genevieve Taiwah 分享了她照顾脚踝的重要秘诀。"
+    },
+    {
+      "title": "What did Donald Trump do to the Oval Office?",
+      "link": "",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "",
+      "title_zh": "唐纳德·特朗普对椭圆形办公室做了什么？",
+      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+    },
+    {
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "published": "",
+      "title_zh": "疑似炸弹恶作剧威胁迫使意大利学校重新疏散",
+      "summary_zh": "意大利各地的学校连续第二天收到炸弹威胁，引发新的恐慌和疏散。"
+    },
+    {
+      "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
+      "link": "",
+      "summary": "The BBC exposed how the security service had lied to three courts concerning Agent X.",
+      "published": "",
+      "title_zh": "莱维森在 BBC 调查后表示，军情五处未来需要证据才能让人相信",
+      "summary_zh": "BBC 揭露了安全部门如何就 X 特工问题向三个法院撒谎。"
+    },
+    {
+      "title": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+      "link": "",
+      "summary": "Authorities say the driver lost control and collided with 23 vehicles including five trucks in the traffic.",
+      "published": "",
+      "title_zh": "阿联酋23车相撞卡车失控造成14人死亡",
+      "summary_zh": "当局表示，司机失去控制，与交通中的 23 辆车相撞，其中包括 5 辆卡车。"
+    },
+    {
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "link": "",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "published": "",
+      "title_zh": "警方称，酒店事件后，澳大利亚足球运动员不会受到指控",
+      "summary_zh": "四名悉尼天鹅队球员因涉嫌在墨尔本比赛后遭受性侵犯而接受调查。"
+    },
+    {
+      "title": "Duran Duran drummer quits band due to tinnitus",
+      "link": "",
+      "summary": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
+      "published": "",
+      "title_zh": "杜兰杜兰鼓手因耳鸣退出乐队",
+      "summary_zh": "罗杰·泰勒说，他的病情一直在恶化，他现在必须“听从我的身体和医生的意见”。"
+    },
+    {
+      "title": "Grealish apologises for absence after breach of discipline",
+      "link": "",
+      "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
+      "published": "",
+      "title_zh": "格拉利什为违反纪律后缺席道歉",
+      "summary_zh": "杰克·格里利什就最近因纪律问题缺席向埃弗顿球迷道歉。"
+    },
+    {
+      "title": "Nvidia is at the center of the AI economy. What happens now?",
+      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-center-ai-economy-happens-now-rcna608959",
+      "summary": "",
+      "published": "",
+      "title_zh": "英伟达处于人工智能经济的中心。现在会发生什么？"
+    },
+    {
+      "title": "Howard Lutnick agrees to testify as bipartisan pressure grows over Nvidia scandal",
+      "link": "https://www.nbcnews.com/politics/congress/commerce-secretary-howard-lutnick-testify-pressure-nvidia-scandal-rcna609093",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着两党对英伟达丑闻的压力越来越大，霍华德·卢特尼克同意作证"
+    },
+    {
+      "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+      "link": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100",
+      "summary": "",
+      "published": "",
+      "title_zh": "参议员克里斯·范·霍伦 (Chris Van Hollen) 表示，他将挑战参议员查克·舒默 (Chuck Schumer) 争夺多数党领袖席位"
+    },
+    {
+      "title": "",
+      "link": "https://www.nbcnews.com/video/extended-cut-steve-kornacki-breaks-down-3-states-where-senate-seats-turned-blue-273352261647",
+      "summary": "",
+      "published": ""
+    },
+    {
+      "title": "Democrats can’t wait until after Trump to produce results, James Talarico says",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-cant-wait-trump-produce-results-james-talarico-says-rcna609096",
+      "summary": "",
+      "published": "",
+      "title_zh": "詹姆斯·塔拉里科表示，民主党不能等到特朗普当选后才能拿出结果"
+    },
+    {
+      "title": "Cindy Holscher defeats Republican Ty Masterson in Kansas governor’s race",
+      "link": "https://www.nbcnews.com/politics/2026-election/kansas-governor-cindy-holscher-democrat-election-win-masterson-rcna603370",
+      "summary": "",
+      "published": "",
+      "title_zh": "辛迪·霍尔舍尔 (Cindy Holscher) 在堪萨斯州州长竞选中击败共和党人泰·马斯特森 (Ty Masterson)"
+    },
+    {
+      "title": "‘It can’t be true’: Families devastated by deadly New York City building collapse",
+      "link": "https://www.nbcnews.com/news/us-news/-cant-true-families-devastated-deadly-new-york-city-building-collapse-rcna609025",
+      "summary": "",
+      "published": "",
+      "title_zh": "“这不可能是真的”：纽约市致命的建筑倒塌事件摧毁了许多家庭"
+    },
+    {
+      "title": "Suspect in D.C. gym shooting was doctor in legal feud with condo management",
+      "link": "https://www.nbcnews.com/news/us-news/suspect-washington-dc-gym-shooting-was-doctor-legal-feud-condo-board-rcna609089",
+      "summary": "",
+      "published": "",
+      "title_zh": "华盛顿健身房枪击案嫌疑人是与公寓管理层发生法律纠纷的医生"
+    },
+    {
+      "title": "New prostate cancer screening guidelines include regular PSA testing for most older men",
+      "link": "https://www.nbcnews.com/health/cancer/new-prostate-cancer-screening-guidelines-regular-psa-test-rcna608629",
+      "summary": "",
+      "published": "",
+      "title_zh": "新的前列腺癌筛查指南包括对大多数老年男性进行定期 PSA 检测"
+    },
+    {
+      "title": "Why measles is on the rise",
+      "link": "https://www.nbcnews.com/health/health-news/us-measles-cases-resurgence-data-charts-vaccination-rcna607113",
+      "summary": "",
+      "published": "",
+      "title_zh": "麻疹为何呈上升趋势"
+    },
+    {
+      "title": "Rosalía wins album of the year for ‘Lux’ at an electrifying Latin Grammy Awards",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/rosali-wins-album-year-lux-electrifying-latin-grammy-awards-rcna609115",
+      "summary": "",
+      "published": "",
+      "title_zh": "罗莎莉娅 (Rosalía) 凭借《Lux》在激动人心的拉丁格莱美奖中荣获年度专辑奖"
+    },
+    {
+      "title": "Indonesia’s vice president resigns as his eligibility and academic credentials are questioned",
+      "link": "https://www.nbcnews.com/world/indonesia/indonesias-president-resigns-eligibility-academic-credentials-are-ques-rcna609103",
+      "summary": "",
+      "published": "",
+      "title_zh": "印尼副总统因资格和学历受到质疑而辞职"
+    },
+    {
+      "title": "Closely watched governor’s race in traditionally red state finally has a winner",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "传统红州备受关注的州长竞选终于有了赢家"
+    },
+    {
+      "title": "Stephen A Smith breaks down interview with Trump, warns Dems face steep challenge",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "斯蒂芬·A·史密斯（Stephen A Smith）分解对特朗普的采访，警告民主党面临严峻挑战"
+    },
+    {
+      "title": "Seattle mayor responds after Washington voters support initiative to protect girls' sports",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "西雅图市长在华盛顿选民支持保护女童运动的倡议后做出回应"
+    },
+    {
+      "title": "The bitter HOA battle that led a doctor to kill his building manager and himself",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "一场激烈的 HOA 之争导致一名医生杀死了他的大楼经理和他自己"
+    },
+    {
+      "title": "Microsoft outage drags on as tech giant admits fixes have failed to restore services",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "科技巨头承认修复未能恢复服务，微软服务中断仍在继续"
+    },
+    {
+      "title": "Governor-elect has a message for Democrats gearing up to fight Trump",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "当选州长向准备对抗特朗普的民主党人传达了一条信息"
+    },
+    {
+      "title": "Soldier scolds Hegseth’s entourage at Arlington — but the story has a surprising end",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "士兵在阿灵顿责骂赫格斯的随从——但故事的结局令人惊讶"
+    },
+    {
+      "title": "Trump shares what Huang told him in private call as affair scandal escalates",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着婚外情丑闻升级，特朗普分享了黄在私人电话中告诉他的话"
+    },
+    {
+      "title": "Rookie stuns NFL world by refusing cash for a veteran's old jersey digit",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "新秀拒绝用现金购买老将的旧球衣号码，震惊了 NFL 世界"
+    },
+    {
+      "title": "Brooklyn collapse witness recalls children screaming for help as building came crashing down",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "布鲁克林倒塌目击者回忆起建筑物倒塌时孩子们尖叫着求救"
+    },
+    {
+      "title": "Texas man executed for beheading 3 children delivers final message to family",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "德克萨斯州男子因斩首 3 名儿童而被处决，向家人传达了最后的信息"
+    },
+    {
+      "title": "Schumer gets serious challenge as Senate Dems prepare to take power",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "参议院民主党准备掌权，舒默面临严峻挑战"
+    },
+    {
+      "title": "Martha MacCallum tells Tyrus the untold stories of sacrifice that shaped America",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "玛莎·麦卡勒姆向泰勒斯讲述塑造美国的不为人知的牺牲故事"
+    },
+    {
+      "title": "Mamdani reportedly moves to gut NYPD unit he ran on disbanding",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，马姆达尼将解散他所管理的纽约警察局"
+    },
+    {
+      "title": "Two American allies blast UN over organization’s latest decision on Iran",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "两个美国盟友抨击联合国对伊朗的最新决定"
+    }
+  ]
+}
