@@ -1,6 +1,6 @@
 {
-  "date": "20261113",
-  "total": 45,
+  "date": "20261114",
+  "total": 52,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,336 +37,388 @@
   },
   "entries": [
     {
-      "title": "Why is the Microsoft outage lasting so long?",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "link": "",
-      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
       "published": "",
-      "title_zh": "为什么微软的服务中断会持续这么长时间？",
-      "summary_zh": "微软表示，在全球服务中断后，它看到了“改善”，但全面恢复服务的努力仍在继续。"
+      "title_zh": "“密西西比奇迹”——新奥尔良游轮相撞后所有乘客均获救",
+      "summary_zh": "此次碰撞导致 32 人受伤入院，但无人下落不明。"
     },
     {
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "link": "",
-      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
       "published": "",
-      "title_zh": "由于美国签证限制，非洲环球小姐选美皇后陷入困境",
-      "summary_zh": "霍尔一直在南非寻求美国签证，因为其他非洲选美皇后也面临着类似的障碍。"
+      "title_zh": "微软宕机“鲜明地提醒”我们对科技的依赖程度",
+      "summary_zh": "微软已就该问题道歉，称这是由于技术故障造成的。"
     },
     {
-      "title": "More women make allegations against Russell Brand",
+      "title": "Lauren Boebert, once a MAGA star, loses her Colorado seat",
       "link": "",
-      "summary": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
+      "summary": "Boebert, who rose to fame as one of Donald Trump's biggest cheerleaders, will not serve a fourth term in Congress.",
       "published": "",
-      "title_zh": "更多女性指控拉塞尔·布兰德",
-      "summary_zh": "在布兰德最近因强奸罪被定罪后，《泰晤士报》和 Netflix 的一部纪录片发表了新的指控。"
+      "title_zh": "劳伦·博伯特 (Lauren Boebert) 曾经是 MAGA 明星，失去了科罗拉多州席位",
+      "summary_zh": "作为唐纳德·特朗普最大的啦啦队员之一而声名鹊起的博伯特将不会在国会担任第四个任期。"
     },
     {
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
       "link": "",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
       "published": "",
-      "title_zh": "观看：服务器中断如何导致 Microsoft Teams 和 Outlook 瘫痪",
-      "summary_zh": "Microsoft 的故障影响了 Teams、Outlook 和 AI 软件 Copilot 等服务。"
+      "title_zh": "观看：游轮在新奥尔良与货船相撞后沉没",
+      "summary_zh": "一艘货船与一艘停靠的游轮相撞后，所有乘客均已下落不明。"
     },
     {
-      "title": "Russia hit by second car bomb in as many days as peace talks continue",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "link": "",
-      "summary": "A former adviser to Ukraine's pro-Putin ex-prime minister Mykola Azarov was seriously hurt, Russia says.",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
       "published": "",
-      "title_zh": "和平谈判继续进行之际，俄罗斯遭遇第二起汽车炸弹袭击",
-      "summary_zh": "俄罗斯称，亲普京的乌克兰前总理米科拉·阿扎罗夫的一名前顾问受重伤。"
+      "title_zh": "罗森伯格：毫不妥协的普京提出与乌克兰和平的要求",
+      "summary_zh": "英国广播公司俄罗斯版编辑史蒂夫·罗森伯格表示，莫斯科将欧洲安全问题纳入讨论的事实视为一种胜利。"
     },
     {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "link": "",
-      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
       "published": "",
-      "title_zh": "英伟达的性丑闻如何给白宫带来压力",
-      "summary_zh": "黄仁勋的个人生活可能引发了这场危机，但问题现在已经触及白宫本身。"
+      "title_zh": "黄仁勋丑闻如何让商业友好型的新加坡头疼不已",
+      "summary_zh": "这一丑闻让人们关注新加坡作为芯片中心和涉嫌非法贸易地点的成功。"
     },
     {
-      "title": "Divers explore recently scuttled SS United States in new video",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
       "link": "",
-      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
       "published": "",
-      "title_zh": "潜水员在新视频中探索最近沉没的美国号船",
-      "summary_zh": "这艘船是故意在佛罗里达州海岸沉没的，目的是为了建造世界上最大的人工珊瑚礁。"
+      "title_zh": "SpaceX 星舰火箭双捕获测试受挫",
+      "summary_zh": "埃隆·马斯克的公司放弃了捕获火箭助推器的尝试，结果它落入了海洋。"
     },
     {
-      "title": "'I feel it's a sign of what's to come': Office workers on Microsoft outage",
+      "title": "Black Mississippians celebrate a victory almost no one saw coming",
       "link": "",
-      "summary": "Insurance brokers tell Nicky Campbell how their jobs are completely disrupted by the Microsoft outage.",
+      "summary": "Scott Colom is the first black man to sit in the Senate for Mississippi in 145 years.",
       "published": "",
-      "title_zh": "“我觉得这是未来的征兆”：办公室工作人员谈微软停电",
-      "summary_zh": "保险经纪人告诉尼基·坎贝尔，他们的工作如何因微软的宕机而完全中断。"
+      "title_zh": "密西西比黑人庆祝一场几乎没人预见到的胜利",
+      "summary_zh": "斯科特·科洛姆 (Scott Colom) 是 145 年来第一位担任密西西比州参议员的黑人。"
     },
     {
-      "title": "Governments, courts, trains and hospitals hit by Microsoft outage in North America",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
       "link": "",
-      "summary": "Some hospitals urged patients to call rather than email, bail bonds had to paid in person one sheriff's department warned, and some governments had to suspend certain operations.",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
       "published": "",
-      "title_zh": "北美地区的政府、法院、火车和医院都受到微软服务中断的影响",
-      "summary_zh": "一些医院敦促患者打电话而不是发电子邮件，一位治安部门警告说，保释金必须亲自支付，一些政府不得不暂停某些业务。"
+      "title_zh": "被捕的将军和受到威胁的副总统：总统的儿子助长了乌干达的继任热潮",
+      "summary_zh": "这位 52 岁将军的挑衅性帖子和军事威胁助长了有关王朝继承的谣言。"
     },
     {
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "title": "What we know about the Microsoft outage",
       "link": "",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "published": "",
-      "title_zh": "法院、间谍和国会议员：世界各地对微软宕机事件的感受如何",
-      "summary_zh": "从美国的市政府到澳大利亚的间谍机构，世界各地都感受到了微软的宕机。"
+      "title_zh": "我们对微软宕机的了解",
+      "summary_zh": "微软表示，在全球服务中断后，它将继续恢复包括 Outlook 和 Teams 在内的服务。"
     },
     {
-      "title": "How the Microsoft global outage unfolded",
+      "title": "Watch: How the Microsoft outage affected North America",
       "link": "",
-      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "summary": "The BBC's Nadine Yousif's reports that Microsoft services like Outlook are slowly coming back online, but the company noted users \"may still experience intermittent access issues\".",
       "published": "",
-      "title_zh": "微软全球宕机事件是如何展开的",
-      "summary_zh": "微软正在努力解决全球中断问题，Teams、Outlook 和人工智能软件 Copilot 等服务受到“连接问题”的影响。"
+      "title_zh": "观看：微软宕机如何影响北美",
+      "summary_zh": "BBC 的 Nadine Yousif 报道称，Outlook 等微软服务正在慢慢恢复上线，但该公司指出，用户“可能仍会遇到间歇性访问问题”。"
     },
     {
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
       "link": "",
-      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
       "published": "",
-      "title_zh": "英伟达临时首席执行官科莱特·克雷斯 (Colette Kress) 是谁？谁可以永久接任？",
-      "summary_zh": "首席财务官科莱特·克雷斯(Colette Kress)目前负责英伟达，但其他几位也有可能成为潜在的继任者。"
+      "title_zh": "大猩猩乔乔孤独地度过了一生。他最终能找到同伴吗？",
+      "summary_zh": "乔乔在婴儿时期就被偷猎，并在圈养中长大。他的饲养员想给他找一个朋友——但这并不容易。"
     },
     {
-      "title": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
       "link": "",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "summary": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
       "published": "",
-      "title_zh": "每周测验：谁将加入韦恩·鲁尼的“我是名人”丛林？",
-      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+      "title_zh": "Brand、Walliams 和 MAFS：这是对娱乐业的清算吗？",
+      "summary_zh": "这些故事代表了多年前开始的变化的后果，而不是突然的文化转变。"
     },
     {
-      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "title": "Family's two-year fight to bring killer driver back from Latvia",
       "link": "",
-      "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+      "summary": "How the parents of Keaton Slater, 12, battled to bring the man who killed him to justice.",
       "published": "",
-      "title_zh": "澳大利亚板球的砂纸门又回来了——它深深地伤害了这个“优秀体育之国”",
-      "summary_zh": "声称整个澳大利亚队都知道 2018 年砂纸作弊阴谋的说法正在板球界产生分歧。"
+      "title_zh": "一家人历时两年奋力将凶手司机从拉脱维亚抓回来",
+      "summary_zh": "12 岁的基顿·斯莱特 (Keaton Slater) 的父母如何努力将杀害他的凶手绳之以法。"
     },
     {
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "title": "New campaign against EU membership launches ahead of UK-EU summit",
       "link": "",
-      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "summary": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
       "published": "",
-      "title_zh": "罗莎莉亚 (Rosalía) 在拉丁格莱美奖上历史性地荣获第三届最佳专辑奖",
-      "summary_zh": "这位西班牙歌手因其去年发行的第四张专辑《Lux》而广受好评。"
+      "title_zh": "英国-欧盟峰会前发起反对加入欧盟的新运动",
+      "summary_zh": "“Stay Out”计划的推出正值安迪·伯纳姆 (Andy Burnham) 准备下周与欧洲领导人举行会谈之际。"
     },
     {
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "link": "",
-      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "published": "",
-      "title_zh": "欧洲歌唱大赛在亚洲能否取得成功？",
-      "summary_zh": "世界上规模最大、历史最悠久的歌曲比赛即将来到亚洲，十一个国家将于周六在泰国曼谷展开角逐。"
+      "title_zh": "民主党参议院领袖舒默将面临领导力挑战",
+      "summary_zh": "马里兰州参议员范霍伦表示，在民主党最近取得中期成功后，该党需要“新的领导”。"
     },
     {
-      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for BBC's Children in Need",
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
       "link": "",
-      "summary": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+      "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
       "published": "",
-      "title_zh": "蒂莫西·柴勒梅德和赞达亚为 BBC 贫困儿童节目恶作剧瑞兰·克拉克",
-      "summary_zh": "一年一度的电视慈善活动的观众将看到这位演员对瑞兰进行恶作剧。"
+      "title_zh": "联合国监督机构“越来越关注”未经检查的伊朗核设施",
+      "summary_zh": "它表示，它从未能够参观伊朗一年多前宣布的位于伊斯法罕的铀浓缩工厂。"
     },
     {
-      "title": "Rising Dem stars break with party on Trump investigations and urge cooperation instead",
+      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+      "link": "",
+      "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+      "published": "",
+      "title_zh": "美国空军表示已对英国皇家空军拉肯希思上空的“可疑无人机”做出反应",
+      "summary_zh": "美国军方表示，今晚“疑似未经授权的无人机活动”没有造成人员伤亡或财产损失。"
+    },
+    {
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "link": "",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "published": "",
+      "title_zh": "德国间谍授予新权力应对来自国外的“混合威胁”",
+      "summary_zh": "德国的改革意味着国内外情报部门将拥有更大的权力来打击间谍活动、恐怖主义和破坏活动。"
+    },
+    {
+      "title": "Watch: Firm offers to provide artworks and fake awards for migrants applying for UK 'talent' visas",
+      "link": "",
+      "summary": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found.",
+      "published": "",
+      "title_zh": "观看：公司为申请英国“人才”签证的移民提供艺术品和虚假奖项",
+      "summary_zh": "英国广播公司发现，一些公司正在帮助移民冒充才华横溢的艺术家进行欺诈性的英国签证申请。"
+    },
+    {
+      "title": "Officials have no timeline for resolving nationwide ground stop as flight cancellations climb",
+      "link": "https://www.example.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着航班取消数量的增加，官员们没有解决全国范围内停飞问题的时间表"
+    },
+    {
+      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
+      "link": "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275",
+      "summary": "",
+      "published": "",
+      "title_zh": "官员称，特朗普、习近平和普京计划在亚太经合组织会议期间举行史无前例的联席会议"
+    },
+    {
+      "title": "Everyone accounted for after tanker collides with a New Orleans riverboat",
+      "link": "https://www.nbcnews.com/news/us-news/rescue-underway-oil-tanker-collides-new-orleans-river-boat-rcna609235",
+      "summary": "",
+      "published": "",
+      "title_zh": "油轮与新奥尔良河船相撞后，所有人都被救了"
+    },
+    {
+      "title": "SpaceX launches 15th Starship flight; aborts booster recovery maneuver",
+      "link": "https://www.nbcnews.com/science/space/spacex-launches-15th-starship-flight-aborts-booster-recovery-maneuver-rcna609274",
+      "summary": "",
+      "published": "",
+      "title_zh": "SpaceX 发射第 15 次 Starship 飞行；中止助推器恢复操作"
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia. At the Denny’s where it all began, the plaque is gone, too.",
+      "link": "https://www.nbcnews.com/tech/tech-news/dennys-nvidia-jensen-huang-california-rcna609154",
+      "summary": "",
+      "published": "",
+      "title_zh": "黄仁勋 (Jensen Huang) 已离开 Nvidia。在这一切开始的丹尼家，牌匾也不见了。"
+    },
+    {
+      "title": "An ancient spy tactic may have ensnared the most powerful man in AI",
+      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-scandal-silicon-valley-talking-honey-traps-affair-jensen-huang-rcna608600",
+      "summary": "",
+      "published": "",
+      "title_zh": "一种古老的间谍策略可能已经诱捕了人工智能中最有权势的人"
+    },
+    {
+      "title": "Trump administration delays Medicaid work requirements by six months",
+      "link": "https://www.nbcnews.com/politics/politics-news/trump-administration-delays-medicaid-work-requirements-six-months-rcna609256",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普政府将医疗补助工作要求推迟六个月"
+    },
+    {
+      "title": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin",
+      "link": "https://www.nbcnews.com/health/health-news/us-measles-deaths-rise-10-new-reports-pennsylvania-wisconsin-rcna609245",
+      "summary": "",
+      "published": "",
+      "title_zh": "宾夕法尼亚州和威斯康星州发布新报告后，美国麻疹死亡人数上升至 10 人"
+    },
+    {
+      "title": "Rep. Lauren Boebert, conservative firebrand from Colorado, loses her race",
+      "link": "https://www.nbcnews.com/politics/2026-election/rep-lauren-boebert-conservative-firebrand-colorado-loses-race-re-elect-rcna607652",
+      "summary": "",
+      "published": "",
+      "title_zh": "来自科罗拉多州的保守派煽动者劳伦·博伯特 (Lauren Boebert) 众议员输掉了竞选"
+    },
+    {
+      "title": "Blue wave ignites a wild, wide-open 2028 presidential race",
+      "link": "https://www.nbcnews.com/politics/2028-election/blue-wave-ignites-wild-wide-open-2028-race-rcna608556",
+      "summary": "",
+      "published": "",
+      "title_zh": "蓝色浪潮点燃2028年总统竞选的狂野、开放"
+    },
+    {
+      "title": "Why Microsoft took so long to recover from its massive outage",
+      "link": "https://www.nbcnews.com/tech/tech-news/microsoft-took-long-recover-massive-outage-outlook-down-rcna609264",
+      "summary": "",
+      "published": "",
+      "title_zh": "为什么微软花了这么长时间才从大规模宕机中恢复过来"
+    },
+    {
+      "title": "As AI looms over Hollywood, Oscar hopefuls make the case for human craft",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/hollywood-oscar-campaigns-the-odyssey-lean-into-human-craftsmanship-rcna608419",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着人工智能笼罩好莱坞，奥斯卡候选人为人类工艺辩护"
+    },
+    {
+      "title": "HAPPENING NOW: Nationwide FAA ground stop raises urgent questions about cause",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党新星就特朗普调查与党派决裂，并敦促合作"
+      "title_zh": "正在发生的事情：美国联邦航空局 (FAA) 全国范围内的地面停车引发了有关原因的紧急问题"
     },
     {
-      "title": "Iran puts region on notice with new claim about tanker going through crucial waterway",
+      "title": "New Orleans boat crash called ‘miracle on the Mississippi’ as all passengers accounted for",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗就油轮通过重要水道提出新的索赔，引起该地区的注意"
+      "title_zh": "新奥尔良沉船事故被称为“密西西比河奇迹”，所有乘客均已遇难"
     },
     {
-      "title": "Back-to-back blunders by House Dems raise questions about majority stability",
+      "title": "Sophie Cunningham reacts to Stephen A Smith’s belittling claim about White NBA players",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "众议院民主党连续犯下的错误引发了对多数稳定性的质疑"
+      "title_zh": "索菲·坎宁安 (Sophie Cunningham) 对斯蒂芬·A·史密斯 (Stephen A Smith) 对 NBA 白人球员的贬低言论做出了回应"
     },
     {
-      "title": "Skyscraper climbers left in tears as couple locks horns with DA over viral stunt",
+      "title": "Shouting erupts at post-election gathering as crowd turns on Hakeem Jeffries",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "夫妇因病毒特技与地方检察官发生争执，摩天大楼攀登者泪流满面"
+      "title_zh": "选举后集会爆发尖叫声，人群转向哈基姆·杰弗里斯"
     },
     {
-      "title": "Alito issues warning that 'Congress can turn off the lights at the Supreme Court'",
+      "title": "Christians in Nigeria pleading for help get rallying cry from prominent American celebrities",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿利托警告说“国会可以关掉最高法院的灯”"
+      "title_zh": "尼日利亚的基督徒恳求帮助，美国名人发出了战斗口号"
     },
     {
-      "title": "NASCAR star delivers a brutal reality check after fans turned off the championship race",
+      "title": "Mom who plowed into soccer field and killed 2 will not face charges, DA says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在球迷取消冠军赛后，纳斯卡明星进行了残酷的现实检验"
+      "title_zh": "冲进足球场并杀死两人的妈妈不会面临指控，地方检察官称"
     },
     {
-      "title": "Former presidential candidate teases potential 2028 bid with warning about GOP's future",
+      "title": "Teacher who refused to remove crucifix from her classroom takes case to federal court",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前总统候选人戏弄潜在的 2028 年竞选，并对共和党的未来发出警告"
+      "title_zh": "拒绝将十字架从教室移走的老师向联邦法院提起诉讼"
     },
     {
-      "title": "Healthy runner suffers sudden stroke at 27 as doctors discover possible cause",
+      "title": "Schumer's leadership rival outlines major Senate rule change he'd pursue if elected",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "健康跑步者27岁突然中风，医生发现可能原因"
+      "title_zh": "舒默的领导对手概述了如果当选他将追求的重大参议院规则变革"
     },
     {
-      "title": "DOUGLAS H NAPIER:Dem rep vows to punish businesses for rejecting left's demands",
+      "title": "Common diabetes medication linked to unexpected health benefit in new study",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "道格拉斯·H·内皮尔：民主党代表发誓要惩罚拒绝左翼要求的企业"
+      "title_zh": "新研究中常见的糖尿病药物与意想不到的健康益处有关"
     },
     {
-      "title": "Bessent says who is to blame for preventing Megaspeed from exporting chips in Nvidia fallout",
+      "title": "High school girl is mercilessly beaten by boy on school bus, viral video shows",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Bessent 表示谁应该为阻止 Megaspeed 出口芯片而造成 Nvidia 的影响负责"
+      "title_zh": "视频显示，高中女孩在校车上被男孩无情殴打"
     },
     {
-      "title": "WATCH LIVE: Alex Murdaugh in court seeking dismissal of murder charges",
+      "title": "'Saved by the Bell' star Tiffani Thiessen faces major surgery after painful diagnosis",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：亚历克斯·默多在法庭上寻求驳回谋杀指控"
+      "title_zh": "《钟声拯救》明星蒂芙尼·蒂森在痛苦的诊断后面临大手术"
     },
     {
-      "title": "Archaeologists access secret tunnels beneath historic religious site after excavation",
+      "title": "Americans urged to avoid crowds in major city amid unprecedented police operation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "考古学家在挖掘后进入历史宗教遗址下方的秘密隧道"
+      "title_zh": "在史无前例的警察行动中，美国人被敦促避开大城市的人群"
     },
     {
-      "title": "Microsoft Outlook returns for some users as company reports ‘progress’ with outage",
+      "title": "Rep Lauren Boebert projected to lose House seat in another Democratic flip",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Microsoft Outlook 已恢复部分用户服务，公司报告中断情况“取得进展”"
+      "title_zh": "众议员劳伦·博伯特预计将在另一次民主党翻转中失去众议院席位"
     },
     {
-      "title": "Rookie stuns NFL world with answer after returning veteran asks for his jersey number",
+      "title": "Pop star's 'Free Palestine' post backfires as fans tell him to 'do some research'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在回归的老将询问他的球衣号码后，新秀的回答震惊了 NFL 世界"
+      "title_zh": "流行歌星的“自由巴勒斯坦”帖子适得其反，粉丝告诉他“做一些研究”"
     },
     {
-      "title": "SOUND OFF:What's Chuck Schumer's future with Senate Dems?",
+      "title": "SOUND OFF:Will Democrats and Republicans come together for the good of the country?",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "声音关闭：查克·舒默与参议院民主党的未来是什么？"
+      "title_zh": "声音关闭：民主党和共和党会为了国家的利益而走到一起吗？"
     },
     {
-      "title": "Republicans in Texas' neighboring state vow ‘mass exodus’ if Democrats take over",
+      "title": "DHS chief delivers blunt message to Americans after nationwide FAA ground stop",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "得克萨斯州邻州的共和党人发誓，如果民主党接管，将出现“大规模外流”"
+      "title_zh": "国土安全部负责人在联邦航空局全国地面停留后向美国人发出直言不讳的信息"
     },
     {
-      "title": "ER doc gunman invoked CEO killer Luigi Mangione before deadly rampage",
+      "title": "New candidate emerges to replace Jensen Huang as Nvidia CEO",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "急诊室医生枪手在致命横冲直撞之前援引了首席执行官杀手路易吉·曼吉奥尼 (Luigi Mangione) 的名字"
+      "title_zh": "新候选人接替黄仁勋出任英伟达首席执行官"
     },
     {
-      "title": "Star golfer gains massive respect for SI models after realizing bikini shoots are work",
+      "title": "Giants quarterback  leaves broadcasters floored with absurd snap count: 'What is he doing?'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "明星高尔夫球手意识到比基尼拍摄是一项工作后，对 SI 模特赢得了极大的尊重"
+      "title_zh": "巨人队四分卫让广播公司对荒谬的快照计数感到困惑：“他在做什么？”"
     },
     {
-      "title": "WATCH LIVE: Mayor Mamdani speaks on street safety in NYC",
+      "title": "Texas political shift has Louisiana voters talking about an unthinkable move",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看直播：市长马姆达尼就纽约市街道安全发表讲话"
+      "title_zh": "德克萨斯州的政治转变让路易斯安那州选民谈论了一个不可思议的举动"
     },
     {
-      "title": "‘Force him to veto it’: Democrats plot their push to reverse Trump’s safety net cuts",
-      "link": "https://www.nbcnews.com/politics/2026-election/democrats-promised-reverse-cuts-medicaid-food-stamps-trump-stands-way-rcna608411",
+      "title": "Malin Akerman ditches LA lifestyle for ‘dream’ of raising son like it’s the 1950s",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“迫使他否决”：民主党密谋推动扭转特朗普的安全网削减计划"
-    },
-    {
-      "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
-      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-peru-emotional-return-diocese-chiclayo-rcna608940",
-      "summary": "",
-      "published": "",
-      "title_zh": "教皇利奥感性地回到他“心爱的奇克拉约教区”"
-    },
-    {
-      "title": "I tested Apple’s $299 HomeView with my family. The hardware is ready. Siri isn’t.",
-      "link": "https://www.nbcnews.com/tech/gadgets/apple-homeview-review-hardware-ready-siri-isnt-rcna609145",
-      "summary": "",
-      "published": "",
-      "title_zh": "我和家人一起测试了苹果售价 299 美元的 HomeView。硬件已经准备好了。Siri 不是。"
-    },
-    {
-      "title": "Mauricio Pochettino’s USMNT successor could inherit a ‘one-of-one’ job",
-      "link": "https://www.nbcnews.com/sports/soccer/mauricio-pochettinos-successor-inherit-one-one-job-rcna608862",
-      "summary": "",
-      "published": "",
-      "title_zh": "毛里西奥·波切蒂诺的美国国家队继任者可能会继承“独一无二”的工作"
-    },
-    {
-      "title": "After a deluge of rain, Lake Powell is only a quarter full. Water cuts begin in January.",
-      "link": "https://www.nbcnews.com/science/environment/southwest-storms-el-nino-colorado-river-rcna607921",
-      "summary": "",
-      "published": "",
-      "title_zh": "一场大雨过后，鲍威尔湖的水位只有四分之一。停水从一月份开始。"
-    },
-    {
-      "title": "Chipping away",
-      "link": "https://www.nbcnews.com/world/china/alice-huang-nvidia-chief-alleged-lover-suspected-chinese-spy-rcna608329",
-      "summary": "",
-      "published": "",
-      "title_zh": "削掉"
-    },
-    {
-      "title": "Alex Murdaugh wants murder indictments dismissed, saying agent lied to grand jury",
-      "link": "https://www.nbcnews.com/news/us-news/alex-murdaugh-wants-murder-indictments-dismissed-saying-agent-lied-gra-rcna609161",
-      "summary": "",
-      "published": "",
-      "title_zh": "亚历克斯·默多希望驳回谋杀指控，称特工对大陪审团撒了谎"
-    },
-    {
-      "title": "FOR SUBSCRIBERSNvidia’s board is still investigating Jensen Huang despite his resignation, sources say",
-      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-investigation-jensen-huang-continue-departure-sources-say-rcna609136",
-      "summary": "",
-      "published": "",
-      "title_zh": "消息人士称，尽管黄仁勋已经辞职，但英伟达董事会仍在调查他"
-    },
-    {
-      "title": "Charity-run kitchens in Havana feed a growing number of Cubans as crisis deepens",
-      "link": "https://www.nbcnews.com/world/cuba/charity-run-kitchens-havana-feed-growing-number-cubans-crisis-deepens-rcna609157",
-      "summary": "",
-      "published": "",
-      "title_zh": "随着危机加深，哈瓦那的慈善厨房为越来越多的古巴人提供食物"
+      "title_zh": "玛琳·阿克曼 (Malin Akerman) 放弃洛杉矶的生活方式，只为了像 20 世纪 50 年代那样养育儿子的“梦想”"
     }
   ]
 }
