@@ -1,6 +1,6 @@
 {
   "date": "20261114",
-  "total": 32,
+  "total": 33,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,238 +37,242 @@
   },
   "entries": [
     {
-      "title": "Thousands of travelers stranded as some flights resume after hours-long ground stop",
-      "link": "https://www.example.com/2026/11/14/us/live-news/us-ground-stop-flights",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "link": "",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "published": "",
+      "title_zh": "美国运输部长称铜线升级导致全国航班停飞",
+      "summary_zh": "美国政府正试图查明这场混乱是由“无能”还是设备故障造成的。"
+    },
+    {
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "link": "",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday.",
+      "published": "",
+      "title_zh": "观看：游轮在新奥尔良与油轮相撞后倾覆",
+      "summary_zh": "周五，一艘停靠在路易斯安那州新奥尔良的游轮被一艘油轮撞倒，大约 130 人被救出。"
+    },
+    {
+      "title": "Philippines crowned first ever Eurovision Asia winner",
+      "link": "",
+      "summary": "The 19-year-old winner, Carmelle, is the youngest of the 11 contestants in the final and her song Sobra-Sobra secured her the win.",
+      "published": "",
+      "title_zh": "菲律宾夺得首位欧洲歌唱大赛亚洲冠军",
+      "summary_zh": "19岁的冠军卡梅尔是决赛11名参赛者中最年轻的，她的歌曲《Sobra-Sobra》帮助她赢得了胜利。"
+    },
+    {
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "link": "",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "published": "",
+      "title_zh": "SpaceX 星舰火箭的第二次捕获尝试",
+      "summary_zh": "这次尝试是在试图抓住火箭助推器的尝试失败后，助推器落入海洋中的。"
+    },
+    {
+      "title": "Magnificent Wales beat All Blacks for first time since 1953",
+      "link": "",
+      "summary": "Wales celebrate a first victory against New Zealand since 1953 with a brilliant 35-28 win to spark astonishing scenes in Cardiff.",
+      "published": "",
+      "title_zh": "伟大的威尔士队自 1953 年以来首次击败全黑队",
+      "summary_zh": "威尔士队以 35-28 的精彩胜利庆祝自 1953 年以来首次战胜新西兰队，在卡迪夫引发了惊人的场面。"
+    },
+    {
+      "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "link": "",
+      "summary": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.",
+      "published": "",
+      "title_zh": "数千人聚集在爱丁堡抗议人工智能数据中心",
+      "summary_zh": "手持标语牌的示威者（其中一些还穿着戏服）聚集在皇家大道顶部，然后向苏格兰议会进军。"
+    },
+    {
+      "title": "Body found on French beach after attempted Channel crossing",
+      "link": "",
+      "summary": "The man was found after authorities stopped and overloaded dinghy leaving the beach overnight.",
+      "published": "",
+      "title_zh": "试图穿越英吉利海峡后在法国海滩发现尸体",
+      "summary_zh": "当局拦截并超载了连夜离开海滩的小艇后，这名男子被发现。"
+    },
+    {
+      "title": "Magnificent Wales beat New Zealand for first time since 1953",
+      "link": "",
+      "summary": "Wales celebrate a first victory against New Zealand since 1953 with a brilliant 35-28 win to spark astonishing scenes in Cardiff.",
+      "published": "",
+      "title_zh": "伟大的威尔士自 1953 年以来首次击败新西兰",
+      "summary_zh": "威尔士队以 35-28 的精彩胜利庆祝自 1953 年以来首次战胜新西兰队，在卡迪夫引发了惊人的场面。"
+    },
+    {
+      "title": "",
+      "link": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-faa-lifts-ground-stops-airports-rcna609302",
+      "summary": "",
+      "published": ""
+    },
+    {
+      "title": "Ground stop fallout throws college football into chaos, but NFL is safe",
+      "link": "https://www.nbcnews.com/sports/college-football/faa-ground-stop-college-football-nfl-nba-nhl-rcna609309",
       "summary": "",
       "published": "",
-      "title_zh": "部分航班在地面停留数小时后恢复，导致数千名旅客滞留"
+      "title_zh": "停地事件让大学橄榄球陷入混乱，但 NFL 很安全"
     },
     {
-      "title": "What we know about the US ground stop and what to do if your flight is affected",
-      "link": "",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "published": "",
-      "title_zh": "我们对美国地面停留的了解以及如果您的航班受到影响该怎么办",
-      "summary_zh": "美国官员表示，此次中断是由旧设备超载造成的，而不是网络攻击。"
-    },
-    {
-      "title": "King Charles jokes with Elton John as he marks 78th birthday with radio show",
-      "link": "",
-      "summary": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
-      "published": "",
-      "title_zh": "查尔斯国王在广播节目中庆祝埃尔顿·约翰 78 岁生日时与他开玩笑",
-      "summary_zh": "周六，国王出现在一个特别节目中，以纪念他的 78 岁生日。"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "published": "",
-      "title_zh": "泽伦斯基表示，美国已提议乌克兰放弃顿巴斯以加入北约",
-      "summary_zh": "乌克兰总统表示，美国特使将此次交流视为结束与俄罗斯战争努力的一部分。"
-    },
-    {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "link": "",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "published": "",
-      "title_zh": "白宫表示，特朗普、普京和习近平计划下周在中国举行历史性联席会议",
-      "summary_zh": "一位发言人表示，特朗普将在史无前例的会谈中讨论“削减核武器”问题。"
-    },
-    {
-      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "link": "",
-      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
-      "published": "",
-      "title_zh": "欧洲歌唱大赛终于来到亚洲 - 与准备登台的明星们见面",
-      "summary_zh": "周六，规模最大、历史最悠久的国际歌曲大赛将进入未知领域。"
-    },
-    {
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "link": "",
-      "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-      "published": "",
-      "title_zh": "“我们有一天会回家”——受到全国地面停留影响的美国游客",
-      "summary_zh": "全国各地的乘客都受到了美国联邦航空管理局 (FAA) 所说的“安全和通信问题”的影响。"
-    },
-    {
-      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "link": "",
-      "summary": "The next title in the series is expected to be the biggest video game release ever.",
-      "published": "",
-      "title_zh": "就连 Grand Theft Auto 的原创者也没有玩过 GTA 6",
-      "summary_zh": "该系列的下一款游戏预计将成为有史以来最大的视频游戏。"
-    },
-    {
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "link": "",
-      "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "published": "",
-      "title_zh": "在夏季胜利之后，印度 Z 世代抗议者面临着一个充满不确定性的冬季",
-      "summary_zh": "今年夏天，在沮丧和不敬的网络讽刺的推动下，新一波的青年异议浪潮席卷了印度。"
-    },
-    {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "link": "",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "published": "",
-      "title_zh": "微软表示全球停电一天后服务已完全恢复",
-      "summary_zh": "该科技公司表示，解决 Outlook、Teams 和 Copilot 根本问题的工作已经完成。"
-    },
-    {
-      "title": "Sooryavanshi becomes youngest captain in men's T20s at 15",
-      "link": "",
-      "summary": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
-      "published": "",
-      "title_zh": "15 岁的 Sooryavanshi 成为男子 T20 组最年轻队长",
-      "summary_zh": "印度少年瓦伊巴夫·苏里亚万希 (Vaibhav Sooryavanshi) 打破了克罗地亚选手扎克·武库西奇 (Zach Vukusic) 保持的纪录，成为顶级男子 Twenty20 板球比赛中最年轻的队长。"
-    },
-    {
-      "title": "FAA lifts ground stop hours after stranding thousands of flights across the U.S.",
-      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "title": "What does the blue wave mean for trans rights? It’s complicated.",
+      "link": "https://www.nbcnews.com/politics/2026-election/blue-wave-midterm-election-trans-rights-complicated-rcna607825",
       "summary": "",
       "published": "",
-      "title_zh": "美国联邦航空局在全美数千架航班滞留数小时后取消了地面停车"
+      "title_zh": "蓝色浪潮对变性人权利意味着什么？情况很复杂。"
     },
     {
-      "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race",
-      "link": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558",
+      "title": "Democrats say Trump family businesses top upcoming investigations",
+      "link": "https://www.nbcnews.com/politics/white-house/democrats-say-trump-family-businesses-top-upcoming-investigations-rcna605987",
       "summary": "",
       "published": "",
-      "title_zh": "民主党人乔纳森·克莱斯·汤姆金斯赢得阿拉斯加州州长竞选"
+      "title_zh": "民主党人称特朗普家族企业是即将进行的调查的首要任务"
     },
     {
-      "title": "Democratic Rep.-elect Brian Poindexter faces investigation over sexual harassment allegation",
-      "link": "https://www.nbcnews.com/politics/2026-election/democratic-rep-elect-brian-poindexter-faces-investigation-sexual-haras-rcna609228",
+      "title": "The rise and fall of Russell Brand: From controversial comedian to convicted rapist",
+      "link": "https://www.nbcnews.com/news/crime-courts/rise-fall-russell-brand-controversial-comedian-convicted-rapist-rcna608495",
       "summary": "",
       "published": "",
-      "title_zh": "当选民主党众议员布莱恩·波因德克斯特因性骚扰指控面临调查"
+      "title_zh": "拉塞尔·布兰德的兴衰：从有争议的喜剧演员到被定罪的强奸犯"
     },
     {
-      "title": "Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois",
-      "link": "https://www.nbcnews.com/news/us-news/evacuation-order-ethanol-plant-peoria-illinois-suspicious-device-rcna609287",
+      "title": "‘Yalta 2.0’: Why some are wary of a Trump-Putin-Xi summit",
+      "link": "https://www.nbcnews.com/world/russia/yalta-wary-trump-putin-xi-summit-rcna609291",
       "summary": "",
       "published": "",
-      "title_zh": "伊利诺伊州皮奥里亚乙醇工厂周围被视为“可信威胁”的设备引发疏散"
+      "title_zh": "“雅尔塔2.0”：为什么有些人对特朗普-普京-习近平峰会持谨慎态度"
     },
     {
-      "title": "Trump’s treasury and commerce secretaries feud as Nvidia scandal roils Washington",
-      "link": "https://www.nbcnews.com/politics/white-house/nvidia-trump-administration-feud-bessent-lutnick-china-chips-rcna609048",
+      "title": "He was drafted as an NFL team’s future. It arrives now.",
+      "link": "https://www.nbcnews.com/sports/nfl/fernando-mendoza-las-vegas-raiders-seattle-seahawks-kirk-cousins-rcna608889",
       "summary": "",
       "published": "",
-      "title_zh": "英伟达丑闻扰乱华盛顿，特朗普财政部长和商务部长不和"
+      "title_zh": "他被选为 NFL 球队的未来。现在到了。"
     },
     {
-      "title": "How Nvidia ‘honeypot’ spy scandal could backfire on China",
-      "link": "https://www.nbcnews.com/politics/national-security/nvidia-honeypot-spy-scandal-backfire-china-rcna609005",
-      "summary": "",
-      "published": "",
-      "title_zh": "英伟达“蜜罐”间谍丑闻如何对中国产生适得其反的影响"
-    },
-    {
-      "title": "A seismic shakeup at Nvidia, and a Senate flip for the ages: The news quiz",
-      "link": "https://www.nbcnews.com/news/news-quiz/nvidia-news-quiz-rcna609023",
-      "summary": "",
-      "published": "",
-      "title_zh": "英伟达的巨变和参议院的长期翻转：新闻测验"
-    },
-    {
-      "title": "A mother’s murder exposes a dark secret and leads police to an unlikely suspect",
-      "link": "https://www.nbcnews.com/dateline/video/hunted-273439301850",
-      "summary": "",
-      "published": "",
-      "title_zh": "母亲的谋杀案暴露了一个黑暗的秘密，并导致警方找到了一个不太可能的嫌疑人"
-    },
-    {
-      "title": "For Victoria’s Secret, inclusivity has become sexy — and a solid business strategy",
-      "link": "https://www.nbcnews.com/business/ceo-interviews/victorias-secret-strategy-sales-rcna608826",
-      "summary": "",
-      "published": "",
-      "title_zh": "对于维多利亚的秘密来说，包容性已经变得性感——并且是可靠的商业战略"
-    },
-    {
-      "title": "Flights resume at major US airports as Trump admin points the blame after FAA shutdown ends",
+      "title": "Trump admin points to likely cause of historic FAA ground stop",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普政府在美国联邦航空局关闭结束后指责美国主要机场恢复航班"
+      "title_zh": "特朗普政府指出美国联邦航空局历史性地面停留的可能原因"
     },
     {
-      "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check",
+      "title": "SEE IT:Ex-Pentagon UFO chief offers theory on bizarre object filmed near US base",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "社会党洛杉矶市长在 2028 年奥运会前大胆做出的无家可归者承诺遭遇现实检验"
+      "title_zh": "看一下：前五角大楼不明飞行物负责人提供了有关在美国基地附近拍摄的奇异物体的理论"
     },
     {
-      "title": "Dems' minimum wage push gains steam after midterms as economists sound alarm",
+      "title": "Flight chaos upends major college football showdown, sparking outrage from team",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中期选举后民主党推动最低工资的势头增强，经济学家敲响了警钟"
+      "title_zh": "航班混乱颠覆了大学橄榄球大战，引发了球队的愤怒"
     },
     {
-      "title": "College football coach trashes the CFP committee and then gets a harsh reality check",
+      "title": "Woman digging in farmer's field makes gold discovery that could be worth a fortune",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学橄榄球教练抨击CFP委员会，然后遭到残酷的现实检验"
+      "title_zh": "妇女在农田里挖掘发现了价值不菲的金矿"
     },
     {
-      "title": "All passengers accounted for after horrific boat crash dubbed a 'miracle on the Mississippi'",
+      "title": "Expert turns tables on LA's new socialist mayor after she makes big homelessness claim",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被称为“密西西比河奇迹”的可怕沉船事故后，所有乘客均已找到"
+      "title_zh": "在洛杉矶新任社会主义市长提出无家可归者大案后，专家扭转了局面"
     },
     {
-      "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+      "title": "Fellow comics aren't laughing over Dave Chappelle's controversial Charlie Kirk joke",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在特朗普支持的共和党内讧后，民主党人推翻了阿拉斯加州州长官邸"
+      "title_zh": "喜剧演员们并没有因为戴夫·查佩尔有争议的查理·柯克笑话而笑"
     },
     {
-      "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+      "title": "Florida's unstoppable high school football dynasty stunned in playoff opener",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普不断发出结束伊朗战争的信号，但专家警告说，他的战略中缺少一个关键部分"
+      "title_zh": "佛罗里达州势不可挡的高中橄榄球王朝在季后赛揭幕战中大吃一惊"
     },
     {
-      "title": "Popular restaurant chain may rethink controversial service charge after customer backlash",
+      "title": "MICHAEL RUIZ:Yacht owner seeks legal escape hatch after bikini designer dies on boat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在顾客强烈反对后，受欢迎的连锁餐厅可能会重新考虑有争议的服务费"
+      "title_zh": "迈克尔·鲁伊斯：​​比基尼设计师在船上去世后，游艇所有者寻求合法的逃生舱口"
     },
     {
-      "title": "NYC woman allegedly struck by LGBTQ+ activist after questioning trans youth treatments",
+      "title": "New details emerge about possible cause of 'miracle on the Mississippi' crash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约女子据称在质疑跨性别青年待遇后遭到 LGBTQ+ 活动人士袭击"
+      "title_zh": "关于“密西西比河奇迹”事故可能原因的新细节浮出水面"
     },
     {
-      "title": "Massie’s Hegseth impeachment push exposes surprising divide back home",
+      "title": "Bill Maher tells happy Democrats not to 'go back to bad ideas' after big wins",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "马西的赫格斯弹劾行动暴露了国内令人惊讶的分歧"
+      "title_zh": "比尔·马赫告诉快乐的民主党人在大获全胜后不要“回到糟糕的想法”"
     },
     {
-      "title": "Why everything your spouse says irritates you — and how to break the cycle",
+      "title": "‘Below Deck’ star arrested after brawl leaves 17-year-old dead",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "为什么你配偶所说的一切都会激怒你——以及如何打破这个循环"
+      "title_zh": "《Below Deck》明星因斗殴导致 17 岁女孩死亡而被捕"
     },
     {
-      "title": "JACKSON THOMPSON:Washington trans sports battle gets big twist as new player steps in",
+      "title": "Social Security’s biggest boost in years: Why it matters as retirees age",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杰克逊·汤普森：随着新球员的加入，华盛顿的跨性别运动之战出现了重大转折"
+      "title_zh": "社会保障多年来最大的增长：为什么随着退休人员年龄的增长它很重要"
+    },
+    {
+      "title": "Democrats open door to Senate power play that could come back to haunt them",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人为参议院的权力斗争敞开了大门，这可能会反过来困扰他们"
+    },
+    {
+      "title": "Bomb found at Peoria ethanol plant prompts evacuations",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "皮奥里亚乙醇工厂发现炸弹促使疏散"
+    },
+    {
+      "title": "Another major tech outage hits software giant serving thousands of US companies",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "另一场重大技术中断袭击了为数千家美国公司提供服务的软件巨头"
+    },
+    {
+      "title": "Sacrifice remote start or hand over private details — the uncomfortable tradeoff",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "牺牲远程启动或移交私人详细信息——令人不安的权衡"
+    },
+    {
+      "title": "Arab official issues stark warning over protests in Europe: 'Not freedom of speech'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿拉伯官员对欧洲抗议活动发出严厉警告：“这不是言论自由”"
+    },
+    {
+      "title": "Trump defector courts more Republicans to break with Trump over Iran war",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普叛逃者寻求更多共和党人在伊朗战争问题上与特朗普决裂"
     }
   ]
 }
