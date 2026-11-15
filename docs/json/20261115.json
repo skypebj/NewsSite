@@ -1,0 +1,249 @@
+{
+  "date": "20261115",
+  "total": 28,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Major Texas airport closed until Sunday morning in wake of ground stop, FAA notice shows",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国联邦航空局通知显示，德克萨斯州主要机场在地面停止后关闭至周日早上"
+    },
+    {
+      "title": "Judge halts Trump's DC golf course renovations just hours before scheduled closure",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "法官在预定关闭前几小时叫停了特朗普华盛顿高尔夫球场的翻修工程"
+    },
+    {
+      "title": "Texas Roadhouse goes beyond steak with new menu addition that has some fans questioning the move",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Texas Roadhouse 不仅推出了牛排，还添加了新菜单，此举引起了一些粉丝的质疑"
+    },
+    {
+      "title": "Rifle-armed robotic dogs deployed to reclaim Haiti stadium from violent gangs",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "配备步枪的机器狗被部署从暴力团伙手中夺回海地体育场"
+    },
+    {
+      "title": "Marijuana fans who smoke to sleep are 'kidding themselves,' says psychiatrist",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "精神病学家说，吸食大麻入睡的大麻迷是在“自欺欺人”"
+    },
+    {
+      "title": "Georgia football commit Marcellus Young Casario, 18, dies following medical emergency",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "格鲁吉亚足球运动员 Marcellus Young Casario，18 岁，因医疗紧急情况去世"
+    },
+    {
+      "title": "Musk’s Starship makes historic first: ‘Bigger deal for humanity than most people can imagine’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马斯克的星际飞船创造了历史性的第一：“对人类来说比大多数人想象的更重要”"
+    },
+    {
+      "title": "Masked dirt bike mob swarms innocent driver as police issue chilling warning",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "警方发出令人不寒而栗的警告，蒙面越野车暴徒蜂拥而至无辜司机"
+    },
+    {
+      "title": "Arch Manning throws three picks then engineers an incredible comeback win",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿奇·曼宁投出三个选秀权，然后创造了令人难以置信的复出胜利"
+    },
+    {
+      "title": "Kenneth Walker III out vs Falcons, Patrick Mahomes off Chiefs' injury report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "肯尼思·沃克三世缺席对阵猎鹰队的比赛，帕特里克·马霍姆斯缺席酋长队的伤病报告"
+    },
+    {
+      "title": "John Travolta needed coaxing before iconic White House dance with Princess Diana",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "约翰·特拉沃尔塔在与戴安娜王妃的标志性白宫舞蹈之前需要哄骗"
+    },
+    {
+      "title": "American workers can get a retirement savings boost starting next year",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "从明年开始，美国工人的退休储蓄将增加"
+    },
+    {
+      "title": "Judge temporarily blocks Trump’s plan to redevelop East Potomac golf course in D.C.",
+      "link": "https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-plan-redevelop-east-potomac-golf-cours-rcna609366",
+      "summary": "",
+      "published": "",
+      "title_zh": "法官暂时阻止特朗普重建华盛顿东波托马克高尔夫球场的计划"
+    },
+    {
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "link": "https://www.nbcnews.com/news/us-news/new-orleans-port-sues-get-control-tanker-crashed-cruise-ship-mississip-rcna609362",
+      "summary": "",
+      "published": "",
+      "title_zh": "新奥尔良港口提起诉讼，要求控制在密西西比河上撞上游轮的油轮"
+    },
+    {
+      "title": "Fifth Canadian soldier dies of injuries from military training fire",
+      "link": "https://www.nbcnews.com/world/canada/fifth-canadian-soldier-dies-injuries-military-training-fire-rcna609367",
+      "summary": "",
+      "published": "",
+      "title_zh": "第五名加拿大士兵在军事训练火灾中受伤"
+    },
+    {
+      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+      "link": "",
+      "summary": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+      "published": "",
+      "title_zh": "涉嫌强奸的拉塞尔·布兰德受害者希望改变同意年龄法",
+      "summary_zh": "米娅·拉特 (Mia Latter) 称，她遇见这名被定罪的强奸犯时才 16 岁，她希望错开同意年龄。"
+    },
+    {
+      "title": "Philippines takes the crown in first Eurovision Song Contest Asia",
+      "link": "",
+      "summary": "BBC's Jonathan Head reports from the first ever Eurovision Song Contest Asia in Bangkok.",
+      "published": "",
+      "title_zh": "菲律宾夺得首届欧洲歌唱大赛亚洲冠军",
+      "summary_zh": "BBC 的乔纳森·海德 (Jonathan Head) 报道了在曼谷举行的首届亚洲欧洲歌唱大赛。"
+    },
+    {
+      "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+      "link": "",
+      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "published": "",
+      "title_zh": "柔道冠军出人意料地参选法国总统竞选",
+      "summary_zh": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him."
+    },
+    {
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "link": "",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "published": "",
+      "title_zh": "教皇利奥在访问安第斯山脉偏远小镇时谈到社区“苦难”",
+      "summary_zh": "圣克鲁斯德苏恰班巴是奇克拉约教区的一部分，教皇于 2015 年至 2023 年间担任该教区的主教。"
+    },
+    {
+      "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+      "link": "",
+      "summary": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+      "published": "",
+      "title_zh": "霍莉·亨伯斯通：人们无法与“过于优雅”的流行歌星建立联系",
+      "summary_zh": "这位歌手感到被迫与女性同龄人竞争，直到她意识到长寿的力量。"
+    },
+    {
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "link": "",
+      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "published": "",
+      "title_zh": "我母亲告诉我，如果我寻求埃博拉病毒治疗，我就会死——我证明你能活下来",
+      "summary_zh": "刚果民主共和国爆发的埃博拉疫情引发了恐惧和错误信息——卡姆万加博士的母亲也未能幸免。"
+    },
+    {
+      "title": "How to shake hands and make eye contact - the lessons preparing UK pupils for the world of work",
+      "link": "",
+      "summary": "Year 10 pupils are learning employability skills to reduce the number of young people who end up \"Neet\".",
+      "published": "",
+      "title_zh": "如何握手和眼神交流——帮助英国学生为职场做好准备的课程",
+      "summary_zh": "十年级的学生正在学习就业技能，以减少最终成为“啃老族”的年轻人数量。"
+    },
+    {
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "link": "",
+      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "published": "",
+      "title_zh": "美容降临节日历可能要花费数百美元 - 但它们物有所值吗？",
+      "summary_zh": "美容日历已成为圣诞节的必需品，并且特别受到女性购物者的欢迎。"
+    },
+    {
+      "title": "TV presenter Noel Fielding 'appalled' by jokes he made with Russell Brand",
+      "link": "",
+      "summary": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
+      "published": "",
+      "title_zh": "电视节目主持人诺埃尔·菲尔丁对他与拉塞尔·布兰德开的玩笑感到“震惊”",
+      "summary_zh": "这位伟大的英国烘焙大赛主持人表示，他“已经很多年”没有与被定罪的强奸犯联系了。"
+    },
+    {
+      "title": "Two horses briefly board public bus in Detroit",
+      "link": "",
+      "summary": "The city said it will provide additional training for bus drivers after CCTV footage revealed the moment the horses and their riders walk onto the bus.",
+      "published": "",
+      "title_zh": "两匹马短暂登上底特律的公共汽车",
+      "summary_zh": "在闭路电视录像显示马匹及其骑手走上巴士的那一刻后，该市表示将为巴士司机提供额外的培训。"
+    },
+    {
+      "title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+      "link": "",
+      "summary": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
+      "published": "",
+      "title_zh": "“最伟大的胜利之一”——威尔士击败全黑队，从无望者变成英雄",
+      "summary_zh": "威尔士以一场被誉为他们历史上最伟大的胜利结束了对新西兰73年的不祥之兆。"
+    },
+    {
+      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+      "link": "",
+      "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+      "published": "",
+      "title_zh": "西班牙测试将揭示图赫尔和英格兰是否吸取了世界杯的教训",
+      "summary_zh": "首席足球作家菲尔·麦克纳尔蒂表示，英格兰队与世界冠军西班牙队的比赛将揭示主教练托马斯·图赫尔是否从夏季的失望中吸取了教训。"
+    },
+    {
+      "title": "Portugal humbled in first game since Ronaldo retirement",
+      "link": "",
+      "summary": "Portugal suffer a heavy loss in their first game since Cristiano Ronaldo announced his international retirement as ex-Manchester United striker Rasmus Hojlund scores twice to help Denmark gain a superb victory.",
+      "published": "",
+      "title_zh": "葡萄牙队在罗纳尔多退役后的第一场比赛中惨遭淘汰",
+      "summary_zh": "葡萄牙队在克里斯蒂亚诺·罗纳尔多宣布退役后的第一场比赛中遭遇惨重损失，前曼联前锋拉斯穆斯·霍伊伦德梅开二度帮助丹麦队取得了一场精彩的胜利。"
+    }
+  ]
+}
