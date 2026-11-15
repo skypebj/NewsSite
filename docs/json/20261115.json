@@ -1,6 +1,6 @@
 {
   "date": "20261115",
-  "total": 36,
+  "total": 27,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,269 +37,201 @@
   },
   "entries": [
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "link": "",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "published": "",
-      "title_zh": "伊朗无人机袭击巴林美军基地",
-      "summary_zh": "这是三天内该国遭受的第二次袭击，发生之际美国和伊朗仍在霍尔木兹海峡陷入对峙。"
-    },
-    {
-      "title": "Former UK police inspector lied about wife's death in Barbados hotel room, BBC learns",
-      "link": "",
-      "summary": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
-      "published": "",
-      "title_zh": "BBC获悉，前英国警察督察对妻子在巴巴多斯酒店房间死亡一事撒了谎",
-      "summary_zh": "沃伦·阿特面临性剥削犯罪受害者的指控——他的妻子被发现在一间血迹斑斑的房间里。"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
-      "link": "",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "published": "",
-      "title_zh": "该公司表示，与英伟达前老板有联系的疑似中国间谍将于 2025 年离开 Megaspeed",
-      "summary_zh": "英伟达丑闻引发了人们的疑问：尽管美国有限制，先进的人工智能芯片是否最终会进入中国。"
-    },
-    {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "published": "",
-      "title_zh": "韩国税务会计考试最高分承认作弊",
-      "summary_zh": "34 岁的韩元锡 (Han Won-seok) 承认，他使用隐藏摄像头和人工智能在这项重要测试中获得了近乎完美的分数。"
-    },
-    {
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "link": "",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "published": "",
-      "title_zh": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary_zh": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
-    },
-    {
-      "title": "How Mississippi's new senator won in Trump's heartland - and what he will do next",
-      "link": "",
-      "summary": "Scott Colom tells the BBC that Democrats can build on his historic election win - and appeal to frustrated Republicans - by focusing on policies to help all Americans.",
-      "published": "",
-      "title_zh": "密西西比州的新参议员如何在特朗普的中心地带获胜 - 以及他下一步将做什么",
-      "summary_zh": "斯科特·科洛姆告诉英国广播公司，民主党可以在他历史性的选举胜利的基础上，通过专注于帮助所有美国人的政策来吸引沮丧的共和党人。"
-    },
-    {
-      "title": "Mathematician and presenter Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-      "link": "",
-      "summary": "The broadcaster says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
-      "published": "",
-      "title_zh": "数学家兼主持人汉娜·弗莱在宫颈癌治疗后感到“难以置信的幸运”",
-      "summary_zh": "该广播公司表示，她在三十多岁时接受了子宫切除术，并获得了“五年无病期”。"
-    },
-    {
-      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-      "link": "",
-      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-      "published": "",
-      "title_zh": "美容降临节日历可能要花费数百美元，但它们物有所值吗？",
-      "summary_zh": "美容日历已成为圣诞节的必备品，并且特别受到女性购物者的欢迎。"
-    },
-    {
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "link": "",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "published": "",
-      "title_zh": "电信升级工作如何引发美国航班混乱",
-      "summary_zh": "美国官员表示，此次中断是由旧设备超载造成的，而不是网络攻击。"
-    },
-    {
-      "title": "Dominant Australia defeat New Zealand in Men's World Cup final",
-      "link": "",
-      "summary": "Australia win a fourth successive Men's Rugby League World Cup, beating New Zealand comfortably in the final in Brisbane.",
-      "published": "",
-      "title_zh": "男子世界杯决赛澳大利亚队击败新西兰队",
-      "summary_zh": "澳大利亚队在布里斯班决赛中轻松击败新西兰队，连续第四次夺得男子橄榄球联盟世界杯冠军。"
-    },
-    {
-      "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
-      "link": "",
-      "summary": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
-      "published": "",
-      "title_zh": "澳大利亚塞耶斯“从现场拿走了砂纸”并拒绝康明斯的说法",
-      "summary_zh": "澳大利亚保龄球手查德·塞耶斯表示，他在开普敦测试之前的比赛中帮助从场上取走了砂纸，并支持乌斯曼·卡瓦贾的回忆，而不是帕特·卡明斯的回忆。"
-    },
-    {
-      "title": "Banton pushes case and bowlers sparkle for inconsistent England",
-      "link": "",
-      "summary": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
-      "published": "",
-      "title_zh": "班顿推动案件，保龄球手为不稳定的英格兰队闪闪发光",
-      "summary_zh": "汤姆·班顿 (Tom Banton) 打进一球，桑尼·贝克 (Sonny Baker) 和格斯·阿特金森 (Gus Atkinson) 的进球令人印象深刻，英格兰队在一天的比赛中以极不稳定的状态重击澳大利亚队。"
-    },
-    {
-      "title": "'We got disrespected' - Walsh and Australia make World Cup point",
-      "link": "",
-      "summary": "Reece Walsh gave a powerful response to Australia's critics as they secured a fourth successive World Cup triumph, saying that: \"I feel we got disrespected.\"",
-      "published": "",
-      "title_zh": "“我们受到了不尊重”——沃尔什和澳大利亚队在世界杯上取得了胜利",
-      "summary_zh": "在澳大利亚队连续第四次夺得世界杯冠军后，里斯·沃尔什对澳大利亚队的批评做出了强有力的回应，他说：“我觉得我们没有受到尊重。”"
-    },
-    {
-      "title": "Transportation secretary says he doesn’t apologize for FAA’s nationwide ground stop",
-      "link": "https://www.nbcnews.com/politics/trump-administration/transportation-secretary-apologize-nationwide-ground-stop-airports-rcna609397",
-      "summary": "",
-      "published": "",
-      "title_zh": "交通部长表示他不会为美国联邦航空管理局在全国范围内的地面停车道歉"
-    },
-    {
-      "title": "Iran-backed Houthis tighten siege on strategic Yemen city, sparking famine fears",
-      "link": "https://www.nbcnews.com/world/yemen/iran-backed-houthis-tighten-siege-strategic-yemen-city-sparking-famine-rcna605173",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗支持的胡塞武装加强对也门战略城市的围困，引发饥荒担忧"
-    },
-    {
-      "title": "Women with autoimmune diseases often misdiagnosed for 4 years or more",
-      "link": "https://www.nbcnews.com/health/womens-health/autoimmune-diseases-women-lupus-arthritis-misdiagnosed-study-rcna609176",
-      "summary": "",
-      "published": "",
-      "title_zh": "Women with autoimmune diseases often misdiagnosed for 4 years or more"
-    },
-    {
-      "title": "A dead homeless man was known as ‘Box Mike’ — until a global search revealed his true identity",
-      "link": "https://www.nbcnews.com/news/us-news/dead-homeless-man-was-known-box-mike-global-search-revealed-true-ident-rcna607341",
-      "summary": "",
-      "published": "",
-      "title_zh": "一名死去的无家可归者被称为“盒子迈克”——直到全球搜索揭示了他的真实身份"
-    },
-    {
-      "title": "Bowen Yang returns to ‘SNL’ to spoof Jensen Huang amid Nvidia spy scandal",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/bowen-yang-returns-snl-ex-nvidia-ceo-jensen-huang-mary-todd-lincoln-rcna609381",
-      "summary": "",
-      "published": "",
-      "title_zh": "杨博文重返《周六夜现场》恶搞黄仁勋，应对英伟达间谍丑闻"
-    },
-    {
-      "title": "Trump officials relocate to military bases as former agents reveal what the move may signal",
+      "title": "Duffy points to possible culprit behind historic ground stop that left thousands stranded",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普官员搬迁至军事基地，前特工透露此举可能意味着什么"
+      "title_zh": "达菲指出历史性地面停留导致数千人滞留的可能罪魁祸首"
     },
     {
-      "title": "Small town residents cry for help as 'devastating' immigrant influx wreaks havoc",
+      "title": "Trump officials move to military bases as ex-FBI deputy points to what's fueling threats",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“毁灭性”的移民涌入造成严重破坏，小镇居民大声呼救"
+      "title_zh": "前联邦调查局副手指出是什么加剧了威胁，特朗普官员转移到军事基地"
     },
     {
-      "title": "Country stars revolt after CMA red carpet snub ignites battle over forgotten legends",
+      "title": "Congress’ wealthiest incoming member vows crackdown on politicians getting rich in office",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "CMA红毯冷落引发乡村明星们对被遗忘传奇的争论"
+      "title_zh": "国会最富有的新任议员誓言打击政客在办公室致富"
     },
     {
-      "title": "College student gunned down at Halloween party — suspect turned in by family",
+      "title": "DR. QANTA A. AHMED:America's first Muslim senator exposes a political blind spot",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大学生在万圣节派对上被枪杀 嫌疑人被家人举报"
+      "title_zh": "博士。澳航 A. 艾哈迈德：美国第一位穆斯林参议员暴露了政治盲点"
     },
     {
-      "title": "CHUCK DEVORE:Hinojosa's past raises alarms over what she might do to Musk, SpaceX",
+      "title": "Johnny Depp trades life in US for private refuge where nobody points cameras at him",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "查克·德沃尔：伊诺霍萨的过去引发了人们对她可能对马斯克和 SpaceX 做出的事情的警惕"
+      "title_zh": "约翰尼·德普用在美国的生活换取私人避难所，那里没有人用相机对着他"
     },
     {
-      "title": "Fireworks, alleged underage drinking turn teen party into parents' nightmare",
+      "title": "Cruise buffet controversy puts passengers who cut the line in the hot seat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "烟花爆竹、涉嫌未成年人饮酒让青少年派对变成父母的噩梦"
+      "title_zh": "游轮自助餐争议让插队的乘客陷入困境"
     },
     {
-      "title": "Singer who went from backing Elvis to country stardom dead at 83",
+      "title": "NFL star sacks quarterback — then injures himself celebrating the play",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "从埃尔维斯的支持者到乡村明星的歌手去世，享年 83 岁"
+      "title_zh": "NFL 球星解雇四分卫，然后在庆祝比赛时受伤"
     },
     {
-      "title": "Putin's war machine tied to troubling recruitment of young women as new deals emerge",
+      "title": "'The Odyssey' actor John Leguizamo demands Democrats 'abolish ICE,' shut down detention centers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "随着新交易的出现，普京的战争机器与招募年轻女性的问题息息相关"
+      "title_zh": "《奥德赛》演员约翰·雷吉扎莫要求民主党“废除 ICE”并关闭拘留中心"
     },
     {
-      "title": "Doctor reveals the breakfast habit he swears transforms your health",
+      "title": "Taylor Swift's husband hits milestone then limps off with ankle injury",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "医生透露他发誓早餐习惯会改变你的健康"
+      "title_zh": "泰勒·斯威夫特的丈夫达到了里程碑，但因脚踝受伤而跛行"
     },
     {
-      "title": "FAA announces when air travel should return to normal as flight disruptions linger",
+      "title": "Soap star refused to ignore 'red flags,' pushed for answers before cancer diagnosis",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于航班中断持续存在，美国联邦航空局宣布航空旅行何时恢复正常"
+      "title_zh": "肥皂剧明星拒绝忽视“危险信号”，在癌症诊断前寻求答案"
     },
     {
-      "title": "Harvard scientist says NASA chief has it wrong about object racing through space",
+      "title": "Bessent blasts WSJ editor for publishing geo-tagged photo of his DC home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "哈佛大学科学家表示，美国宇航局局长对于物体在太空中快速运动的看法是错误的"
+      "title_zh": "贝森特抨击《华尔街日报》编辑发布了他在华盛顿的家的带有地理标签的照片"
     },
     {
-      "title": "Banks are penalizing responsible Americans who refuse to live in debt",
+      "title": "Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "银行正在惩罚那些拒绝负债累累的负责任的美国人"
+      "title_zh": "外部首席执行官敦促英伟达在中国芯片丑闻中进行领导层改组"
     },
     {
-      "title": "Johnny Depp fled Hollywood spotlight for quiet Bahamas life where 'nobody’s pointing a camera at me'",
+      "title": "Arch Manning drops ice-cold quote about ending LSU’s playoff chances",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Johnny Depp fled Hollywood spotlight for quiet Bahamas life where 'nobody’s pointing a camera at me'"
+      "title_zh": "阿奇·曼宁 (Arch Manning) 发表了关于终结路易斯安那州立大学季后赛机会的冰冷言论"
     },
     {
-      "title": "Loch Ness Monster researcher explains what witnesses might actually be seeing",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
       "link": "",
-      "summary": "",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
       "published": "",
-      "title_zh": "尼斯湖水怪研究人员解释了目击者实际上可能看到的情况"
+      "title_zh": "全国飞机停飞两天后，数千架美国航班仍被取消或延误",
+      "summary_zh": "美国交通部长表示，正常的空中交通运营可能要到周一才能恢复。"
     },
     {
-      "title": "Crime wave crashes in US cities as Americans take back streets from bad guys",
+      "title": "UK to discuss staggered age of consent after Brand case",
       "link": "",
-      "summary": "",
+      "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
       "published": "",
-      "title_zh": "随着美国人从坏人手中夺回街道，犯罪浪潮席卷美国城市"
+      "title_zh": "英国将在品牌案后讨论错开同意年龄",
+      "summary_zh": "一名女子声称自己在 16 岁时被入狱的喜剧演员强奸，她正在发起运动，要求将 16 至 17 岁的青少年与成年人之间的关系定为非法。"
     },
     {
-      "title": "UPS cargo plane collides with passenger jet at busy US airport, leaving 2 injured",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
       "link": "",
-      "summary": "",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
       "published": "",
-      "title_zh": "UPS货机在繁忙的美国机场与客机相撞，造成2人受伤"
+      "title_zh": "教皇利奥在秘鲁之旅期间乘坐直升机驾驶舱",
+      "summary_zh": "教皇在拉丁美洲之行的倒数第二天抵达库斯科之前飞上了天空。"
     },
     {
-      "title": "Israel keeps pressing Trump admin to launch new strikes on Iran, US officials say",
+      "title": "Czechs rally against plan to switch funding of public media",
       "link": "",
-      "summary": "",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "published": "",
-      "title_zh": "美国官员称，以色列不断敦促特朗普政府对伊朗发动新的打击"
+      "title_zh": "捷克人集会反对改变公共媒体资助计划",
+      "summary_zh": "抗议者表示此举将扼杀媒体自由，而政府则坚称广播公司需要削减成本。"
     },
     {
-      "title": "OnlyFans model Courtney Clenney moved to new prison, listed as minimum custody inmate: records",
+      "title": "Triumph or flop? The Rugby League World Cup that split opinion",
       "link": "",
+      "summary": "Has the Rugby League World Cup set a new benchmark for the international game? BBC Sport discovers the answer to that question differs in the northern and southern hemispheres.",
+      "published": "",
+      "title_zh": "胜利还是失败？橄榄球联盟世界杯引发了分歧",
+      "summary_zh": "橄榄球联盟世界杯是否为国际比赛树立了新的标杆？英国广播公司体育频道发现这个问题的答案在北半球和南半球是不同的。"
+    },
+    {
+      "title": "Wine-drinking driver among shocking images caught in AI camera trial",
+      "link": "",
+      "summary": "The technology could be widely rolled out after nearly 19,000 offences were spotted in two weeks.",
+      "published": "",
+      "title_zh": "人工智能摄像头试验中捕捉到的令人震惊的图像中的饮酒司机",
+      "summary_zh": "两周内发现近 19,000 起违规行为后，该技术可能会得到广泛推广。"
+    },
+    {
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "link": "",
+      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "published": "",
+      "title_zh": "第五名加拿大士兵在军事基地大火中受伤身亡",
+      "summary_zh": "威廉·道格拉斯·达尔·比安科 (William Douglas Dal Bianco) 上尉于周五因伤重不治身亡，一个月前，温赖特 CFB 发生火灾。"
+    },
+    {
+      "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
+      "link": "",
+      "summary": "Rory McIlroy wipes away tears as he dedicates his record-equalling eighth Race to Dubai title to his ill father, Gerry.",
+      "published": "",
+      "title_zh": "泪流满面的麦克罗伊将追平纪录的胜利献给生病的父亲",
+      "summary_zh": "罗里·麦克罗伊 (Rory McIlroy) 擦干眼泪，将自己追平纪录的第八个迪拜大赛冠军头衔献给生病的父亲格里 (Gerry)。"
+    },
+    {
+      "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+      "link": "https://www.nbcnews.com/business/business-news/alice-huang-megaspeed-jensen-huang-nvidia-rcna609406",
       "summary": "",
       "published": "",
-      "title_zh": "OnlyFans 模特考特尼·克莱尼 (Courtney Clenney) 搬到新监狱，被列为最低拘留囚犯：记录"
+      "title_zh": "Megaspeed 表示 Alice Huang 已于 2025 年离职，公司正在对 Nvidia 的影响进行内部调查"
+    },
+    {
+      "title": "Sen.-elect Scott Colom says investing in the South can help Dems win ‘a durable majority’",
+      "link": "https://www.nbcnews.com/politics/2026-election/scott-colom-investing-south-democrats-majority-policy-senate-rcna609402",
+      "summary": "",
+      "published": "",
+      "title_zh": "当选参议员斯科特·科洛姆表示，投资南方可以帮助民主党赢得“持久多数”"
+    },
+    {
+      "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
+      "link": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
+      "summary": "",
+      "published": "",
+      "title_zh": "人工智能仍在 Twitch 年度最大活动中给主播带来压力"
+    },
+    {
+      "title": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/johnny-depp-film-ebenezer-first-no-1-opening-8-years-rcna609436",
+      "summary": "",
+      "published": "",
+      "title_zh": "约翰尼·德普主演的电影《埃比尼泽》8年来首次获得男演员首映票房第一"
+    },
+    {
+      "title": "2 injured after taxiing planes collide at Miami International Airport",
+      "link": "https://www.nbcnews.com/news/us-news/two-injured-taxiing-planes-collide-miami-airport-rcna608962",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈阿密国际机场滑行飞机相撞 2人受伤"
+    },
+    {
+      "title": "Harvesting data",
+      "link": "https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934",
+      "summary": "",
+      "published": "",
+      "title_zh": "收获数据"
     }
   ]
 }
