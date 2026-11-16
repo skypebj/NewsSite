@@ -1,12 +1,8 @@
 {
   "date": "20261116",
-  "total": 32,
+  "total": 45,
   "sources": {
-    "nbcnews": {
-      "status": "ok",
-      "entries": 0
-    },
-    "theguardian": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -14,15 +10,7 @@
       "status": "ok",
       "entries": 0
     },
-    "nytimes": {
-      "status": "ok",
-      "entries": 0
-    },
     "fox": {
-      "status": "ok",
-      "entries": 0
-    },
-    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -30,245 +18,355 @@
       "status": "ok",
       "entries": 0
     },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
     "reuters": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
       "link": "",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "published": "",
-      "title_zh": "也门军队撤退，胡塞武装控制红海关键航道",
-      "summary_zh": "沙特支持的部队表示，他们正在从曼德海峡调动部队保卫临时首都亚丁。"
+      "title_zh": "“让詹森回来”运动发起后，特朗普支持前英伟达老板回归",
+      "summary_zh": "一些科技人士希望这家人工智能芯片巨头的董事会让黄仁勋恢复工作。"
     },
     {
-      "title": "Watch: New York teen reunites with cat missing after building collapse",
+      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
       "link": "",
-      "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+      "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
       "published": "",
-      "title_zh": "观看：纽约青少年与建筑物倒塌后失踪的猫团聚",
-      "summary_zh": "四天后，救援人员在扎莉亚公寓的废墟中找到了这只宠物猫。"
+      "title_zh": "雷伊 (Raye)、罗莎莉亚 (Rosalía) 和多莉·帕顿 (Dolly Parton) 获得格莱美提名",
+      "summary_zh": "英国歌手雷伊 (Raye) 获得 11 项提名，而多莉·帕顿 (Dolly Parton) 在她去世两个月后获得认可。"
     },
     {
-      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "title": "Russell Brand prison message 'appalling' and being investigated, UK PM's office says",
       "link": "",
-      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "summary": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
       "published": "",
-      "title_zh": "俄罗斯的超级富豪已经在想象普京之后的未来",
-      "summary_zh": "一些俄罗斯大亨渴望回到 20 世纪 90 年代的寡头政治体系，当时商人享有权力"
+      "title_zh": "英国首相办公室称拉塞尔·布兰德监狱信息“令人震惊”并正在接受调查",
+      "summary_zh": "布兰德的妻子在他们的播客上宣读了这位喜剧演员的评论，其中被定罪的强奸犯表示，他“对我入狱的罪行不负有罪”。"
     },
     {
-      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+      "title": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime'",
       "link": "",
-      "summary": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+      "summary": "The 40-year-old British actor succeeds Daniel Craig and becomes only the seventh person to play the secret agent in the official film series.",
       "published": "",
-      "title_zh": "威尔士王子和王妃在与莫迪会面之前抵达印度",
-      "summary_zh": "这对皇室夫妇将参加的大部分活动都与威廉王子创立的“地球射击奖”有关。"
+      "title_zh": "罗伯特·帕丁森表示，出演新詹姆斯·邦德是“一生的荣幸”",
+      "summary_zh": "这位 40 岁的英国演员接替丹尼尔·克雷格，成为第七位在官方电影系列中饰演特工的人。"
     },
     {
-      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "title": "As new Bond, Pattinson takes on one of film's most high-profile roles",
       "link": "",
-      "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
       "published": "",
-      "title_zh": "印度是否正在重新考虑其短期征兵计划？",
-      "summary_zh": "印度软化了征兵计划，给予年轻士兵更长的服役期限，并有机会获得长期服役。"
+      "title_zh": "作为新邦德，帕丁森扮演了电影中最引人注目的角色之一",
+      "summary_zh": "罗伯特·帕丁森被宣布为下一任詹姆斯·邦德，成为第七位接过 007 衣钵的演员。"
     },
     {
-      "title": "Canada bars Russia from Junior World Championships",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
       "link": "",
-      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
       "published": "",
-      "title_zh": "加拿大禁止俄罗斯参加青少年世锦赛",
-      "summary_zh": "加拿大表示，由于乌克兰战争，将不允许俄罗斯运动员参加青少年冰球世界锦标赛。"
+      "title_zh": "五个欧盟国家宣布在卢旺达设立移民驱逐中心",
+      "summary_zh": "德国、丹麦、奥地利、希腊和荷兰宣布为失败的寻求庇护者设立“返回中心”。"
     },
     {
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
       "link": "",
-      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
       "published": "",
-      "title_zh": "孟加拉国服装厂因工人工资罢工而关闭",
-      "summary_zh": "工人们因要求每月 30,000 塔卡（182 英镑）的最低工资而举行罢工。"
+      "title_zh": "威廉和凯特开始印度之行，体验街头板球传奇，然后乘坐地铁",
+      "summary_zh": "威尔士王子和王妃本周将前往孟买参加 Earthshot 奖，但他们的旅行以一些有趣的郊游开始。"
     },
     {
-      "title": "How did England cling on against Spain and what did Tuchel do differently?",
+      "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
       "link": "",
-      "summary": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+      "summary": "As a landmark report about youth unemployment is about to be published, the BBC speaks to school avoiders and those trying to fix the issue.",
       "published": "",
-      "title_zh": "英格兰队是如何在对阵西班牙队的比赛中坚持下来的？图赫尔做了什么不同的事情？",
-      "summary_zh": "为了在最后阶段保住领先优势，英格兰以前曾来过这里——那么他们是如何在对阵西班牙的比赛中保持住领先优势的呢？"
+      "title_zh": "“我会在停车场呕吐”：学校焦虑如何损害孩子的未来",
+      "summary_zh": "随着有关青年失业问题的里程碑式报告即将发布，英国广播公司 (BBC) 采访了逃避学校的人和试图解决这一问题的人。"
     },
     {
-      "title": "Townsend hails Scotland's defence in Australia 'arm wrestle'",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
       "link": "",
-      "summary": "Scotland's Nations Championship win over Australia was far from a classic, but head coach Gregor Townsend says it was one of his side's best defensive performances in recent years.",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
       "published": "",
-      "title_zh": "汤森赞扬苏格兰在澳大利亚“扳手腕”中的防守",
-      "summary_zh": "苏格兰在国家锦标赛上战胜澳大利亚的比赛远非经典，但主教练格雷戈尔​​·汤森德表示，这是他的球队近年来最好的防守表现之一。"
+      "title_zh": "Faisal Islam：英国脱欧重置食品协议中有哪些内容以及是否需要权衡？",
+      "summary_zh": "欧盟部长哈米什·福尔科纳坚称，作为新协议的一部分，英国将对政策产生一定影响。"
     },
     {
-      "title": "Ronaldinho, 46, makes comeback for Ravenna",
+      "title": "Formula 1's one-race wonders",
       "link": "",
-      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "summary": "Making it to Formula 1 is the undoubted pinnacle of any racing driver’s career – but what became of some of those who only had one shot?",
       "published": "",
-      "title_zh": "46岁的罗纳尔迪尼奥为拉文纳复出",
-      "summary_zh": "46 岁的巴西传奇人物罗纳尔迪尼奥在拉文纳复出，并在意大利三级联赛对阵弗利的上半场比赛中上场。"
+      "title_zh": "一级方程式赛车的单场比赛奇迹",
+      "summary_zh": "进入一级方程式赛车无疑是任何赛车手职业生涯的巅峰——但那些只获得过一次机会的人后来怎么样了呢？"
     },
     {
-      "title": "Monday travel faces critical test as airlines recover from historic FAA ground stop, possible culprit identified",
+      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
+      "link": "",
+      "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+      "published": "",
+      "title_zh": "毁灭性洪水后重建的城镇成为利比亚强人统治的展示",
+      "summary_zh": "哈利法·哈夫塔尔和他的儿子们正在利用德尔纳的非凡重建作为利比亚其他地区的展示。"
+    },
+    {
+      "title": "49ers stun Cowboys, Chiefs and Bengals impress - NFL week 10",
+      "link": "",
+      "summary": "The NFL's brightest stars lit up week 10 of the 2026 season with some astonishing plays as the San Francisco 49ers, Kansas City Chiefs and Cincinnati Bengals all won on Sunday.",
+      "published": "",
+      "title_zh": "49 人队击败牛仔队、酋长队和猛虎队给人留下深刻印象 - NFL 第 10 周",
+      "summary_zh": "NFL 最耀眼的明星们在 2026 赛季第 10 周上演了一些令人惊叹的比赛，旧金山 49 人队、堪萨斯城酋长队和辛辛那提猛虎队均在周日获胜。"
+    },
+    {
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "link": "",
+      "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+      "published": "",
+      "title_zh": "南非发生两起大规模枪击事件 造成17人死亡",
+      "summary_zh": "夸祖鲁-纳塔尔省和豪登省的枪击事件凸显了南非遏制暴力犯罪的努力。"
+    },
+    {
+      "title": "Klopp says Infantino worse than Blatter",
+      "link": "",
+      "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
+      "published": "",
+      "title_zh": "克洛普称因凡蒂诺比布拉特差",
+      "summary_zh": "德国队主教练尤尔根·克洛普表示，他“不认为塞普·布拉特之后事情会变得更糟，但有人成功做到了这一点”，他呼吁国际足联主席詹尼·因凡蒂诺被替换。"
+    },
+    {
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "link": "",
+      "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+      "published": "",
+      "title_zh": "无人机工厂纵火未遂后，爱沙尼亚将关闭俄罗斯过境点",
+      "summary_zh": "爱沙尼亚政府称俄罗斯是此次破坏活动的幕后黑手，克里姆林宫对此予以否认。"
+    },
+    {
+      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+      "link": "",
+      "summary": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
+      "published": "",
+      "title_zh": "流亡的诺贝尔奖获得者米格尔·安赫尔·阿斯图里亚斯的骨灰返回危地马拉",
+      "summary_zh": "这位诗人、作家和外交家于 1974 年被迫离开祖国，在欧洲去世。"
+    },
+    {
+      "title": "How Frank can restore reputation and save Crystal Palace",
+      "link": "",
+      "summary": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?",
+      "published": "",
+      "title_zh": "弗兰克如何恢复声誉并拯救水晶宫",
+      "summary_zh": "托马斯·弗兰克——现在被确认为水晶宫的新任主教练——在托特纳姆热刺队经历了一段痛苦的时光后，他会在塞尔赫斯特公园重建自己的声誉吗？"
+    },
+    {
+      "title": "U.S.-China talks face major test after Jensen Huang scandal",
+      "link": "https://www.nbcnews.com/world/asia/us-china-talks-face-apec-test-nvidia-ceo-scandal-jensen-huang-spy-rcna609536",
+      "summary": "",
+      "published": "",
+      "title_zh": "黄仁勋丑闻后中美谈判面临重大考验"
+    },
+    {
+      "title": "Flight delays and cancellations return to normal levels after weekend of travel chaos",
+      "link": "https://www.nbcnews.com/news/us-news/flights-air-traffic-delays-groundstop-faa-duffy-rcna609545",
+      "summary": "",
+      "published": "",
+      "title_zh": "周末旅行混乱后，航班延误和取消恢复正常水平"
+    },
+    {
+      "title": "Robert Pattinson named as the newest James Bond",
+      "link": "https://www.nbcnews.com/pop-culture/movies/robert-pattinson-named-newest-james-bond-rcna607085",
+      "summary": "",
+      "published": "",
+      "title_zh": "罗伯特·帕丁森被评为最新的詹姆斯·邦德"
+    },
+    {
+      "title": "How a surge in Black turnout propelled Democrats in key Southern states",
+      "link": "https://www.nbcnews.com/politics/2026-election/surge-black-turnout-propelled-democrats-key-southern-states-rcna609134",
+      "summary": "",
+      "published": "",
+      "title_zh": "黑人投票率激增如何推动南方主要州的民主党"
+    },
+    {
+      "title": "Lindsay Clancy will face retrial in March for the deaths of her three children",
+      "link": "https://www.nbcnews.com/news/us-news/lindsay-clancy-will-face-retrial-march-deaths-three-children-rcna609608",
+      "summary": "",
+      "published": "",
+      "title_zh": "林赛·克兰西 (Lindsay Clancy) 将于三月因三个孩子的死亡而面临重审"
+    },
+    {
+      "title": "Grammys 2027 nominees: Raye, Rosalía and women artists dominate major categories",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/grammys-2027-nominees-female-artists-dominate-rcna608451",
+      "summary": "",
+      "published": "",
+      "title_zh": "2027 年格莱美提名者：Raye、Rosalía 和女性艺术家在主要类别中占据主导地位"
+    },
+    {
+      "title": "She trusted a detective. After his conviction in her death, the feds say others also failed her.",
+      "link": "https://www.nbcnews.com/news/us-news/sandra-birchmore-matthew-farwell-rcna609063",
+      "summary": "",
+      "published": "",
+      "title_zh": "她信任一名侦探。联邦调查局称，在他对她的死亡定罪后，其他人也辜负了她的期望。"
+    },
+    {
+      "title": "Elizabeth Holmes’ partner says he gets threats after ‘You Can See Everything’",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/billy-evans-elizabeth-holmes-partner-says-gets-threats-can-see-everyth-rcna609630",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊丽莎白·霍姆斯的伴侣表示，在《你可以看到一切》之后，他受到了威胁"
+    },
+    {
+      "title": "Seattle mayor moves to change park honoring former president to better fit ‘values of our city’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "周一，随着航空公司从历史性的美国联邦航空局地面停靠站恢复过来，旅行面临严峻考验，可能的罪魁祸首已确定"
+      "title_zh": "西雅图市长提议改变纪念前总统的公园，以更好地适应“我们城市的价值观”"
     },
     {
-      "title": "Iran vows ‘we will find you’ to 2 US Navy officers as warship returns from Middle East",
+      "title": "New Texas governor pledges to fire top education official on day one",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "当军舰从中东返回时，伊朗向两名美国海军军官发誓“我们会找到你”"
+      "title_zh": "德克萨斯州新州长承诺在第一天就解雇高级教育官员"
     },
     {
-      "title": "Russell Brand's wife reads his note from prison after his rape conviction",
+      "title": "Actor named as next James Bond after years of speculation over who would take iconic role",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拉塞尔·布兰德的妻子在强奸定罪后在监狱里读了他的字条"
+      "title_zh": "经过多年对谁将扮演这一标志性角色的猜测，演员被任命为下一任詹姆斯·邦德"
     },
     {
-      "title": "Mysterious object approaching Earth sparks questions over what it could be",
+      "title": "Judge rules on whether Lindsay Clancy will be retried for murders of her children",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "神秘物体接近地球引发人们对其可能是什么的疑问"
+      "title_zh": "法官裁定林赛·克兰西是否会因谋杀孩子而受到重审"
     },
     {
-      "title": "A mom battling MS watched her son score his first NFL TD thanks to crowd's selfless act",
+      "title": "State ranked dead last for religious freedom as governor faces heat over faith rules",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一位与多发性硬化症作斗争的妈妈看着她的儿子在观众的无私行为下获得了他的第一个 NFL 达阵"
+      "title_zh": "由于州长面临信仰规则的激烈争论，该州在宗教自由方面排名垫底"
     },
     {
-      "title": "Thick black smoke pours over empty seats at MetLife Stadium after mysterious fire erupts",
+      "title": "Chicago CFO resigns after 3 months amid clash with Johnson over $882M deficit",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "神秘火灾爆发后，大都会人寿体育场空荡荡的座位上冒出浓浓黑烟"
+      "title_zh": "芝加哥首席财务官因 8.82 亿美元赤字与约翰逊发生冲突，三个月后辞职"
     },
     {
-      "title": "Jensen Huang eyes Nvidia CEO return with Silicon Valley backing",
+      "title": "NEWT GINGRICH:GOP forgot Lincoln's golden rule and voters made them pay dearly for it",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "黄仁勋希望在硅谷的支持下回归 Nvidia 首席执行官"
+      "title_zh": "纽特·金格里奇：共和党忘记了林肯的金科玉律，选民让他们为此付出了高昂的代价"
     },
     {
-      "title": "Teen’s fatal mauling during TikTok shoot leads to arrests, alleged cover-up probe",
+      "title": "Titans placekicker delivers a hit so crushing fans could hear it through the broadcast",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "青少年在 TikTok 拍摄过程中遭受致命伤害导致被捕，涉嫌掩盖调查"
+      "title_zh": "泰坦队的抢位者带来了一场热门表演，让狂热的球迷可以通过广播听到它"
     },
     {
-      "title": "Ashley Judd says Naomi threatened her college tuition over a lesbian professor",
+      "title": "Once-popular American dining habit plunges to record low, new poll finds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿什莉·贾德 (Ashley Judd) 表示，内奥米 (Naomi) 因一名女同性恋教授而威胁她的大学学费"
+      "title_zh": "新民意调查发现，曾经流行的美国人饮食习惯跌至历史新低"
     },
     {
-      "title": "Estonia plans to close border after attempted Russian attack",
+      "title": "Nvidia board not considering bringing back Jensen Huang as CEO, source says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "俄罗斯未遂袭击后爱沙尼亚计划关闭边境"
+      "title_zh": "消息人士称，英伟达董事会不考虑让黄仁勋重新担任首席执行官"
     },
     {
-      "title": "49ers fans involved in second consecutive week of fighting after Cowboys game",
+      "title": "Trump heads to China as behind-the-scenes Cabinet dispute spills into public view",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "牛仔队比赛后，49人队球迷连续第二周参与斗殴"
+      "title_zh": "特朗普启程访华，幕后内阁纠纷进入公众视野"
     },
     {
-      "title": "Young paraglider’s flight ends in tragedy after reported midair emergency",
+      "title": "Trump tangles with reporter on beautifying White House before heading to Asia",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "报道空中紧急情况后，年轻滑翔伞运动员的飞行以悲剧告终"
+      "title_zh": "特朗普前往亚洲前与记者就美化白宫问题发生争执"
     },
     {
-      "title": "Kiffin throws $40M roster under the bus after LSU's latest gut-punch defeat",
+      "title": "A third US aircraft carrier has reportedly arrived in region overseen by CENTCOM",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在路易斯安那州立大学最近一次惨败后，基芬将价值 4000 万美元的阵容扔到了巴士底下"
+      "title_zh": "据报道，第三艘美国航空母舰已抵达中央司令部管辖的地区"
     },
     {
-      "title": "Pete Buttigieg breaks with Democratic Party on how to handle student loans",
+      "title": "Fetterman says his new Senate primary challenger 'really loves Hamas'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "皮特·布蒂吉格在如何处理学生贷款问题上与民主党决裂"
+      "title_zh": "费特曼表示，他的新参议院初选挑战者“真的很喜欢哈马斯”"
     },
     {
-      "title": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates",
-      "link": "https://www.nbcnews.com/politics/congress/us-attorney-warns-sen-elizabeth-warren-investigating-trump-associates-rcna609532",
+      "title": "WHAT DO YOU THINK?New James Bond is Robert Pattinson",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国检察官警告参议员伊丽莎白·沃伦不要调查特朗普的同伙"
+      "title_zh": "你觉得怎么样？新詹姆斯·邦德是罗伯特·帕丁森"
     },
     {
-      "title": "Two games, one day: Ground stop means unprecedented double duty for NFL refs",
-      "link": "https://www.nbcnews.com/sports/nfl/two-games-one-day-ground-stop-means-unprecedented-double-duty-nfl-refs-rcna609524",
+      "title": "SpaceX pulls off historic first as launch tower catches returning Starship",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "一天两场比赛：停地意味着 NFL 裁判史无前例的双重职责"
+      "title_zh": "SpaceX 实现历史性首次发射塔捕获返回的星际飞船"
     },
     {
-      "title": "Russell Brand says ‘I am not guilty’ in statement from prison read by his wife",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/russell-brand-says-not-guilty-statement-prison-read-wife-rcna609472",
+      "title": "Kim Jong Un may join Trump's China summit with Xi and Putin, president says",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "拉塞尔·布兰德在妻子宣读的狱中声明中称“我无罪”"
+      "title_zh": "总统称金正恩可能会参加特朗普与习近平和普京的中国峰会"
     },
     {
-      "title": "Officials say a tanker’s steering failed before it crashed into a cruise ship in New Orleans",
-      "link": "https://www.nbcnews.com/news/us-news/officials-say-tankers-steering-failed-crashed-cruise-ship-new-orleans-rcna609539",
+      "title": "Mamdani guts critical NYPD unit as city pursues new approach to protests",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "官员称，一艘油轮在新奥尔良撞上一艘游轮之前转向失灵"
+      "title_zh": "随着纽约市采取新的抗议方式，马姆达尼拆除了纽约市警察局的关键部门"
     },
     {
-      "title": "Isaac, a cat missing since Brooklyn building collapsed, is reunited with owner",
-      "link": "https://www.nbcnews.com/news/animal-news/isaac-cat-missing-brooklyn-building-collapsed-reunited-owner-rcna609534",
+      "title": "Joe Burrow pulls off a 'Scorigami' with a final score never seen in NFL history",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "布鲁克林大楼倒塌后失踪的猫艾萨克与主人团聚"
+      "title_zh": "乔·伯罗 (Joe Burrow) 以 NFL 历史上从未有过的最终得分完成了“Scorigami”"
     },
     {
-      "title": "Fans cheer as popular fanfiction site AO3 nears full return after security incident",
-      "link": "https://www.nbcnews.com/pop-culture/lifestyle/fans-cheer-ao3-nears-full-return-security-incident-rcna609533",
+      "title": "TUNE IN:VP JD Vance joins ‘The Ingraham Angle’ for an exclusive interview at 7 PM ET",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "安全事件后，人气同人网站 AO3 即将全面回归，粉丝们欢呼雀跃"
-    },
-    {
-      "title": "Here’s the biggest news you missed this weekend",
-      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-15-rcna609191",
-      "summary": "",
-      "published": "",
-      "title_zh": "这是您本周末错过的最大新闻"
-    },
-    {
-      "title": "Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普计划乘坐卡塔尔飞机飞往亚洲，但尚不清楚它是否已“超载”"
+      "title_zh": "收看：VP JD Vance 于东部时间晚上 7 点接受“The Ingraham Angle”独家采访"
     }
   ]
 }
