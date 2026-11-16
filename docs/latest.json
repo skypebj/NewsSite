@@ -1,6 +1,6 @@
 {
-  "date": "20261115",
-  "total": 27,
+  "date": "20261116",
+  "total": 32,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,201 +37,238 @@
   },
   "entries": [
     {
-      "title": "Duffy points to possible culprit behind historic ground stop that left thousands stranded",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "link": "",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "published": "",
+      "title_zh": "也门军队撤退，胡塞武装控制红海关键航道",
+      "summary_zh": "沙特支持的部队表示，他们正在从曼德海峡调动部队保卫临时首都亚丁。"
+    },
+    {
+      "title": "Watch: New York teen reunites with cat missing after building collapse",
+      "link": "",
+      "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+      "published": "",
+      "title_zh": "观看：纽约青少年与建筑物倒塌后失踪的猫团聚",
+      "summary_zh": "四天后，救援人员在扎莉亚公寓的废墟中找到了这只宠物猫。"
+    },
+    {
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "link": "",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "published": "",
+      "title_zh": "俄罗斯的超级富豪已经在想象普京之后的未来",
+      "summary_zh": "一些俄罗斯大亨渴望回到 20 世纪 90 年代的寡头政治体系，当时商人享有权力"
+    },
+    {
+      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+      "link": "",
+      "summary": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+      "published": "",
+      "title_zh": "威尔士王子和王妃在与莫迪会面之前抵达印度",
+      "summary_zh": "这对皇室夫妇将参加的大部分活动都与威廉王子创立的“地球射击奖”有关。"
+    },
+    {
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "link": "",
+      "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+      "published": "",
+      "title_zh": "印度是否正在重新考虑其短期征兵计划？",
+      "summary_zh": "印度软化了征兵计划，给予年轻士兵更长的服役期限，并有机会获得长期服役。"
+    },
+    {
+      "title": "Canada bars Russia from Junior World Championships",
+      "link": "",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "published": "",
+      "title_zh": "加拿大禁止俄罗斯参加青少年世锦赛",
+      "summary_zh": "加拿大表示，由于乌克兰战争，将不允许俄罗斯运动员参加青少年冰球世界锦标赛。"
+    },
+    {
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "link": "",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "published": "",
+      "title_zh": "孟加拉国服装厂因工人工资罢工而关闭",
+      "summary_zh": "工人们因要求每月 30,000 塔卡（182 英镑）的最低工资而举行罢工。"
+    },
+    {
+      "title": "How did England cling on against Spain and what did Tuchel do differently?",
+      "link": "",
+      "summary": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
+      "published": "",
+      "title_zh": "英格兰队是如何在对阵西班牙队的比赛中坚持下来的？图赫尔做了什么不同的事情？",
+      "summary_zh": "为了在最后阶段保住领先优势，英格兰以前曾来过这里——那么他们是如何在对阵西班牙的比赛中保持住领先优势的呢？"
+    },
+    {
+      "title": "Townsend hails Scotland's defence in Australia 'arm wrestle'",
+      "link": "",
+      "summary": "Scotland's Nations Championship win over Australia was far from a classic, but head coach Gregor Townsend says it was one of his side's best defensive performances in recent years.",
+      "published": "",
+      "title_zh": "汤森赞扬苏格兰在澳大利亚“扳手腕”中的防守",
+      "summary_zh": "苏格兰在国家锦标赛上战胜澳大利亚的比赛远非经典，但主教练格雷戈尔​​·汤森德表示，这是他的球队近年来最好的防守表现之一。"
+    },
+    {
+      "title": "Ronaldinho, 46, makes comeback for Ravenna",
+      "link": "",
+      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "published": "",
+      "title_zh": "46岁的罗纳尔迪尼奥为拉文纳复出",
+      "summary_zh": "46 岁的巴西传奇人物罗纳尔迪尼奥在拉文纳复出，并在意大利三级联赛对阵弗利的上半场比赛中上场。"
+    },
+    {
+      "title": "Monday travel faces critical test as airlines recover from historic FAA ground stop, possible culprit identified",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "达菲指出历史性地面停留导致数千人滞留的可能罪魁祸首"
+      "title_zh": "周一，随着航空公司从历史性的美国联邦航空局地面停靠站恢复过来，旅行面临严峻考验，可能的罪魁祸首已确定"
     },
     {
-      "title": "Trump officials move to military bases as ex-FBI deputy points to what's fueling threats",
+      "title": "Iran vows ‘we will find you’ to 2 US Navy officers as warship returns from Middle East",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前联邦调查局副手指出是什么加剧了威胁，特朗普官员转移到军事基地"
+      "title_zh": "当军舰从中东返回时，伊朗向两名美国海军军官发誓“我们会找到你”"
     },
     {
-      "title": "Congress’ wealthiest incoming member vows crackdown on politicians getting rich in office",
+      "title": "Russell Brand's wife reads his note from prison after his rape conviction",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "国会最富有的新任议员誓言打击政客在办公室致富"
+      "title_zh": "拉塞尔·布兰德的妻子在强奸定罪后在监狱里读了他的字条"
     },
     {
-      "title": "DR. QANTA A. AHMED:America's first Muslim senator exposes a political blind spot",
+      "title": "Mysterious object approaching Earth sparks questions over what it could be",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "博士。澳航 A. 艾哈迈德：美国第一位穆斯林参议员暴露了政治盲点"
+      "title_zh": "神秘物体接近地球引发人们对其可能是什么的疑问"
     },
     {
-      "title": "Johnny Depp trades life in US for private refuge where nobody points cameras at him",
+      "title": "A mom battling MS watched her son score his first NFL TD thanks to crowd's selfless act",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "约翰尼·德普用在美国的生活换取私人避难所，那里没有人用相机对着他"
+      "title_zh": "一位与多发性硬化症作斗争的妈妈看着她的儿子在观众的无私行为下获得了他的第一个 NFL 达阵"
     },
     {
-      "title": "Cruise buffet controversy puts passengers who cut the line in the hot seat",
+      "title": "Thick black smoke pours over empty seats at MetLife Stadium after mysterious fire erupts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "游轮自助餐争议让插队的乘客陷入困境"
+      "title_zh": "神秘火灾爆发后，大都会人寿体育场空荡荡的座位上冒出浓浓黑烟"
     },
     {
-      "title": "NFL star sacks quarterback — then injures himself celebrating the play",
+      "title": "Jensen Huang eyes Nvidia CEO return with Silicon Valley backing",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "NFL 球星解雇四分卫，然后在庆祝比赛时受伤"
+      "title_zh": "黄仁勋希望在硅谷的支持下回归 Nvidia 首席执行官"
     },
     {
-      "title": "'The Odyssey' actor John Leguizamo demands Democrats 'abolish ICE,' shut down detention centers",
+      "title": "Teen’s fatal mauling during TikTok shoot leads to arrests, alleged cover-up probe",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《奥德赛》演员约翰·雷吉扎莫要求民主党“废除 ICE”并关闭拘留中心"
+      "title_zh": "青少年在 TikTok 拍摄过程中遭受致命伤害导致被捕，涉嫌掩盖调查"
     },
     {
-      "title": "Taylor Swift's husband hits milestone then limps off with ankle injury",
+      "title": "Ashley Judd says Naomi threatened her college tuition over a lesbian professor",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒·斯威夫特的丈夫达到了里程碑，但因脚踝受伤而跛行"
+      "title_zh": "阿什莉·贾德 (Ashley Judd) 表示，内奥米 (Naomi) 因一名女同性恋教授而威胁她的大学学费"
     },
     {
-      "title": "Soap star refused to ignore 'red flags,' pushed for answers before cancer diagnosis",
+      "title": "Estonia plans to close border after attempted Russian attack",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肥皂剧明星拒绝忽视“危险信号”，在癌症诊断前寻求答案"
+      "title_zh": "俄罗斯未遂袭击后爱沙尼亚计划关闭边境"
     },
     {
-      "title": "Bessent blasts WSJ editor for publishing geo-tagged photo of his DC home",
+      "title": "49ers fans involved in second consecutive week of fighting after Cowboys game",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贝森特抨击《华尔街日报》编辑发布了他在华盛顿的家的带有地理标签的照片"
+      "title_zh": "牛仔队比赛后，49人队球迷连续第二周参与斗殴"
     },
     {
-      "title": "Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO",
+      "title": "Young paraglider’s flight ends in tragedy after reported midair emergency",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "外部首席执行官敦促英伟达在中国芯片丑闻中进行领导层改组"
+      "title_zh": "报道空中紧急情况后，年轻滑翔伞运动员的飞行以悲剧告终"
     },
     {
-      "title": "Arch Manning drops ice-cold quote about ending LSU’s playoff chances",
+      "title": "Kiffin throws $40M roster under the bus after LSU's latest gut-punch defeat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿奇·曼宁 (Arch Manning) 发表了关于终结路易斯安那州立大学季后赛机会的冰冷言论"
+      "title_zh": "在路易斯安那州立大学最近一次惨败后，基芬将价值 4000 万美元的阵容扔到了巴士底下"
     },
     {
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "title": "Pete Buttigieg breaks with Democratic Party on how to handle student loans",
       "link": "",
-      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "published": "",
-      "title_zh": "全国飞机停飞两天后，数千架美国航班仍被取消或延误",
-      "summary_zh": "美国交通部长表示，正常的空中交通运营可能要到周一才能恢复。"
-    },
-    {
-      "title": "UK to discuss staggered age of consent after Brand case",
-      "link": "",
-      "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
-      "published": "",
-      "title_zh": "英国将在品牌案后讨论错开同意年龄",
-      "summary_zh": "一名女子声称自己在 16 岁时被入狱的喜剧演员强奸，她正在发起运动，要求将 16 至 17 岁的青少年与成年人之间的关系定为非法。"
-    },
-    {
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "link": "",
-      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "published": "",
-      "title_zh": "教皇利奥在秘鲁之旅期间乘坐直升机驾驶舱",
-      "summary_zh": "教皇在拉丁美洲之行的倒数第二天抵达库斯科之前飞上了天空。"
-    },
-    {
-      "title": "Czechs rally against plan to switch funding of public media",
-      "link": "",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "published": "",
-      "title_zh": "捷克人集会反对改变公共媒体资助计划",
-      "summary_zh": "抗议者表示此举将扼杀媒体自由，而政府则坚称广播公司需要削减成本。"
-    },
-    {
-      "title": "Triumph or flop? The Rugby League World Cup that split opinion",
-      "link": "",
-      "summary": "Has the Rugby League World Cup set a new benchmark for the international game? BBC Sport discovers the answer to that question differs in the northern and southern hemispheres.",
-      "published": "",
-      "title_zh": "胜利还是失败？橄榄球联盟世界杯引发了分歧",
-      "summary_zh": "橄榄球联盟世界杯是否为国际比赛树立了新的标杆？英国广播公司体育频道发现这个问题的答案在北半球和南半球是不同的。"
-    },
-    {
-      "title": "Wine-drinking driver among shocking images caught in AI camera trial",
-      "link": "",
-      "summary": "The technology could be widely rolled out after nearly 19,000 offences were spotted in two weeks.",
-      "published": "",
-      "title_zh": "人工智能摄像头试验中捕捉到的令人震惊的图像中的饮酒司机",
-      "summary_zh": "两周内发现近 19,000 起违规行为后，该技术可能会得到广泛推广。"
-    },
-    {
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "link": "",
-      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "published": "",
-      "title_zh": "第五名加拿大士兵在军事基地大火中受伤身亡",
-      "summary_zh": "威廉·道格拉斯·达尔·比安科 (William Douglas Dal Bianco) 上尉于周五因伤重不治身亡，一个月前，温赖特 CFB 发生火灾。"
-    },
-    {
-      "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
-      "link": "",
-      "summary": "Rory McIlroy wipes away tears as he dedicates his record-equalling eighth Race to Dubai title to his ill father, Gerry.",
-      "published": "",
-      "title_zh": "泪流满面的麦克罗伊将追平纪录的胜利献给生病的父亲",
-      "summary_zh": "罗里·麦克罗伊 (Rory McIlroy) 擦干眼泪，将自己追平纪录的第八个迪拜大赛冠军头衔献给生病的父亲格里 (Gerry)。"
-    },
-    {
-      "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
-      "link": "https://www.nbcnews.com/business/business-news/alice-huang-megaspeed-jensen-huang-nvidia-rcna609406",
       "summary": "",
       "published": "",
-      "title_zh": "Megaspeed 表示 Alice Huang 已于 2025 年离职，公司正在对 Nvidia 的影响进行内部调查"
+      "title_zh": "皮特·布蒂吉格在如何处理学生贷款问题上与民主党决裂"
     },
     {
-      "title": "Sen.-elect Scott Colom says investing in the South can help Dems win ‘a durable majority’",
-      "link": "https://www.nbcnews.com/politics/2026-election/scott-colom-investing-south-democrats-majority-policy-senate-rcna609402",
+      "title": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates",
+      "link": "https://www.nbcnews.com/politics/congress/us-attorney-warns-sen-elizabeth-warren-investigating-trump-associates-rcna609532",
       "summary": "",
       "published": "",
-      "title_zh": "当选参议员斯科特·科洛姆表示，投资南方可以帮助民主党赢得“持久多数”"
+      "title_zh": "美国检察官警告参议员伊丽莎白·沃伦不要调查特朗普的同伙"
     },
     {
-      "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
-      "link": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
+      "title": "Two games, one day: Ground stop means unprecedented double duty for NFL refs",
+      "link": "https://www.nbcnews.com/sports/nfl/two-games-one-day-ground-stop-means-unprecedented-double-duty-nfl-refs-rcna609524",
       "summary": "",
       "published": "",
-      "title_zh": "人工智能仍在 Twitch 年度最大活动中给主播带来压力"
+      "title_zh": "一天两场比赛：停地意味着 NFL 裁判史无前例的双重职责"
     },
     {
-      "title": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/johnny-depp-film-ebenezer-first-no-1-opening-8-years-rcna609436",
+      "title": "Russell Brand says ‘I am not guilty’ in statement from prison read by his wife",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/russell-brand-says-not-guilty-statement-prison-read-wife-rcna609472",
       "summary": "",
       "published": "",
-      "title_zh": "约翰尼·德普主演的电影《埃比尼泽》8年来首次获得男演员首映票房第一"
+      "title_zh": "拉塞尔·布兰德在妻子宣读的狱中声明中称“我无罪”"
     },
     {
-      "title": "2 injured after taxiing planes collide at Miami International Airport",
-      "link": "https://www.nbcnews.com/news/us-news/two-injured-taxiing-planes-collide-miami-airport-rcna608962",
+      "title": "Officials say a tanker’s steering failed before it crashed into a cruise ship in New Orleans",
+      "link": "https://www.nbcnews.com/news/us-news/officials-say-tankers-steering-failed-crashed-cruise-ship-new-orleans-rcna609539",
       "summary": "",
       "published": "",
-      "title_zh": "迈阿密国际机场滑行飞机相撞 2人受伤"
+      "title_zh": "官员称，一艘油轮在新奥尔良撞上一艘游轮之前转向失灵"
     },
     {
-      "title": "Harvesting data",
-      "link": "https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934",
+      "title": "Isaac, a cat missing since Brooklyn building collapsed, is reunited with owner",
+      "link": "https://www.nbcnews.com/news/animal-news/isaac-cat-missing-brooklyn-building-collapsed-reunited-owner-rcna609534",
       "summary": "",
       "published": "",
-      "title_zh": "收获数据"
+      "title_zh": "布鲁克林大楼倒塌后失踪的猫艾萨克与主人团聚"
+    },
+    {
+      "title": "Fans cheer as popular fanfiction site AO3 nears full return after security incident",
+      "link": "https://www.nbcnews.com/pop-culture/lifestyle/fans-cheer-ao3-nears-full-return-security-incident-rcna609533",
+      "summary": "",
+      "published": "",
+      "title_zh": "安全事件后，人气同人网站 AO3 即将全面回归，粉丝们欢呼雀跃"
+    },
+    {
+      "title": "Here’s the biggest news you missed this weekend",
+      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-15-rcna609191",
+      "summary": "",
+      "published": "",
+      "title_zh": "这是您本周末错过的最大新闻"
+    },
+    {
+      "title": "Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普计划乘坐卡塔尔飞机飞往亚洲，但尚不清楚它是否已“超载”"
     }
   ]
 }
