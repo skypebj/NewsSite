@@ -1,0 +1,337 @@
+{
+  "date": "20261117",
+  "total": 40,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "U.S. loses measles-elimination status, erasing decades of progress",
+      "link": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国失去麻疹消除地位，抹去了数十年的进展"
+    },
+    {
+      "title": "Chase says transactions back to normal after outage online and at some branches",
+      "link": "https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673",
+      "summary": "",
+      "published": "",
+      "title_zh": "大通银行表示，网上和部分分行停电后交易已恢复正常"
+    },
+    {
+      "title": "United Airlines says it has resolved a ‘widespread system outage’",
+      "link": "https://www.nbcnews.com/news/us-news/united-airlines-system-outage-rcna609712",
+      "summary": "",
+      "published": "",
+      "title_zh": "联合航空表示已解决“广泛的系统中断”问题"
+    },
+    {
+      "title": "The FAA ground stop left them stranded, so they bought a car and drove it home",
+      "link": "https://www.nbcnews.com/news/us-news/women-stranded-faa-ground-stop-buy-ford-bronco-27-hour-road-trip-rcna609629",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国联邦航空局的地面停车让他们陷入困境，所以他们买了一辆车并开回家"
+    },
+    {
+      "title": "Travelers brace for costly Thanksgiving rush after ground stop chaos",
+      "link": "https://www.nbcnews.com/news/us-news/aaa-forecasts-another-busy-thanksgiving-travel-week-rcna609543",
+      "summary": "",
+      "published": "",
+      "title_zh": "地面站混乱后，旅客准备迎接昂贵的感恩节高峰"
+    },
+    {
+      "title": "Pope Leo thrives on South American tour as ill journalists joke about ‘Squid Game’",
+      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-south-america-tour-squid-game-sick-journalists-cancer-surgery-rcna609643",
+      "summary": "",
+      "published": "",
+      "title_zh": "教皇利奥在南美之旅中蓬勃发展，生病的记者开玩笑说“鱿鱼游戏”"
+    },
+    {
+      "title": "On Twitch, a small audience could be enough to make a living",
+      "link": "https://www.nbcnews.com/tech/tech-news/twitch-middle-tier-streamers-making-living-platform-rcna608808",
+      "summary": "",
+      "published": "",
+      "title_zh": "在 Twitch 上，少量观众就足以谋生"
+    },
+    {
+      "title": "Somali Uber driver left with life-threatening injuries as police investigate possible hate crime",
+      "link": "https://www.nbcnews.com/news/us-news/uber-driver-left-life-threatening-injuries-police-investigate-possible-rcna609664",
+      "summary": "",
+      "published": "",
+      "title_zh": "索马里 Uber 司机受伤，危及生命，警方调查可能存在的仇恨犯罪"
+    },
+    {
+      "title": "Outages hammer US as Microsoft crashes, flights halt and banking problems mount",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "微软崩溃、航班停飞和银行问题加剧，美国停电重创"
+    },
+    {
+      "title": "A third US aircraft carrier has reportedly arrived in CENTCOM's region",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，第三艘美国航空母舰已抵达中央司令部地区"
+    },
+    {
+      "title": "Kentucky’s top congressional figure makes leap into state’s governor race",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "肯塔基州国会最高人物跃入该州州长竞选"
+    },
+    {
+      "title": "Thomas warns court ruling could turn private citizens into government mouthpieces",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "托马斯警告法院裁决可能会将普通公民变成政府喉舌"
+    },
+    {
+      "title": "There's no loyalty left in college football, and it was on full display this weekend",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "大学橄榄球中已经没有忠诚了，这个周末它得到了充分展示"
+    },
+    {
+      "title": "Musician’s tour bus reportedly involved in fatal car crash in Florida",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道音乐家的旅游巴士在佛罗里达州发生致命车祸"
+    },
+    {
+      "title": "Elderly homeowner locked out of home as state squatter laws come under fire",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于州占屋法受到批评，老年房主被锁在门外"
+    },
+    {
+      "title": "Influencer Brittany Renner reacts to 'inappropriate' outfit going viral at Clippers game",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "影响者布列塔尼·雷纳对快船队比赛中“不合适”的服装疯传的反应"
+    },
+    {
+      "title": "Trump leaves door open to Kim Jong Un joining high-stakes talks with Xi, Putin",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普为金正恩与习近平、普京参加高风险会谈敞开大门"
+    },
+    {
+      "title": "Hillary Clinton tells Rachel Maddow who she believes is 'leader of the free world'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "希拉里·克林顿 (Hillary Clinton) 告诉雷切尔·玛多 (Rachel Maddow)，她认为谁是“自由世界的领袖”"
+    },
+    {
+      "title": "'Harry Potter' TV series loses 'Bridgerton' star over transgender politics",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《哈利·波特》电视剧因跨性别政治而失去“布里奇顿”明星"
+    },
+    {
+      "title": "Tyrus names his top GOP picks for 2028, issues warning to VP Vance",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒斯 (Tyrus) 提名 2028 年共和党最佳人选，并向副总统万斯 (Vance) 发出警告"
+    },
+    {
+      "title": "JESSE WATTERS:This is a little eerie",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰西·沃特斯：这有点奇怪"
+    },
+    {
+      "title": "Customer blasts restaurant's $6 fee for leftovers: 'God forbid a girl gets full'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "顾客怒斥餐厅6美元剩菜收费：“上帝禁止女孩吃饱”"
+    },
+    {
+      "title": "Widely used antidepressant outperformed by 3 other drugs in major study of 30,000 people",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在 30,000 人参与的主要研究中，广泛使用的抗抑郁药的效果优于其他 3 种药物"
+    },
+    {
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "link": "",
+      "summary": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "published": "",
+      "title_zh": "罗伯特·帕丁森将取代丹尼尔·克雷格饰演詹姆斯·邦德",
+      "summary_zh": "这位 40 岁的演员因出演《暮光之城》、《蝙蝠侠》和《奥德赛》等电影而闻名。"
+    },
+    {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "link": "",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "published": "",
+      "title_zh": "由于特朗普支持恢复前首席执行官的努力，英伟达驳回了“让詹森回来”的活动",
+      "summary_zh": "许多科技人士支持要求这家人工智能芯片巨头让黄仁勋恢复工作的努力。"
+    },
+    {
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "link": "",
+      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "published": "",
+      "title_zh": "林赛·克兰西因三个孩子的死亡将于明年面临重审",
+      "summary_zh": "这位 36 岁的男子今年的第一次审判因 12 人陪审团未能达成裁决而失败。"
+    },
+    {
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "link": "",
+      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "published": "",
+      "title_zh": "我们什么时候才能在电影院看到罗伯特·帕丁森饰演邦德？",
+      "summary_zh": "罗伯特·帕丁森被宣布为下一任詹姆斯·邦德，成为第七位接过 007 衣钵的演员。"
+    },
+    {
+      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+      "link": "",
+      "summary": "Drive away from Shenzhen's tech-flecked skyline and you will run into the challenges confronting Xi's China.",
+      "published": "",
+      "title_zh": "中国正在其人工智能仙境中接待世界领导人。这是他们看不到的",
+      "summary_zh": "远离深圳充满科技的天际线，你将遇到习近平领导下的中国所面临的挑战。"
+    },
+    {
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "link": "",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "published": "",
+      "title_zh": "伊姆兰·汗因担心“可能无法活着回来”而寻求紧急医疗护理",
+      "summary_zh": "自 2023 年 8 月以来一直入狱的巴基斯坦前总理表示，他没有得到正义的对待。"
+    },
+    {
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "link": "",
+      "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+      "published": "",
+      "title_zh": "秘鲁教皇利奥向人群挥手时被飞出的念珠击中",
+      "summary_zh": "教皇在乘坐教皇专车进行告别弥撒时，被认为是念珠的东西击中了脸。"
+    },
+    {
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "link": "",
+      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "published": "",
+      "title_zh": "新西兰技巧和年假——粉丝们为 GTA 6 准备的时间",
+      "summary_zh": "Sensor Tower 估计该游戏在 PlayStation 和 Xbox 上的预购收入已达 11.8 亿美元"
+    },
+    {
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "published": "",
+      "title_zh": "人工智能初创公司修复了印度破损的道路和混乱的土地记录",
+      "summary_zh": "从法律技术到医疗保健，数十家印度人工智能初创企业正在解决印度特有的挑战。"
+    },
+    {
+      "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+      "link": "",
+      "summary": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+      "published": "",
+      "title_zh": "绑架、童婚和贫困：为何数百万尼日利亚儿童无法上学",
+      "summary_zh": "BBC 国际频道为西非失学儿童推出豪萨语节目。"
+    },
+    {
+      "title": "From Batman to Bond - how Robert Pattinson landed the role of 007",
+      "link": "",
+      "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+      "published": "",
+      "title_zh": "从蝙蝠侠到邦德——罗伯特·帕丁森如何获得 007 的角色",
+      "summary_zh": "当这位《暮光之城》、《蝙蝠侠》和《奥德赛》明星扮演詹姆斯·邦德时，他的形象将更加辉煌。"
+    },
+    {
+      "title": "Hollywood reacts to Robert Pattinson being cast as new James Bond",
+      "link": "",
+      "summary": "The 40-year-old British actor will take over from Daniel Craig in the next 007 film as fans and enthusiasts react to the news.",
+      "published": "",
+      "title_zh": "好莱坞对罗伯特·帕丁森被选为新詹姆斯·邦德的反应",
+      "summary_zh": "这位 40 岁的英国演员将在下一部 007 电影中接替丹尼尔·克雷格，粉丝和爱好者对此消息反应热烈。"
+    },
+    {
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "link": "",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "published": "",
+      "title_zh": "我们一个人买不起房子，所以我们和陌生人一起买了一套",
+      "summary_zh": "无力登上住房阶梯的人们正在与不认识的人一起购买房屋。"
+    },
+    {
+      "title": "UK lost more than it gained from Brexit, Burnham says ahead of EU summit",
+      "link": "",
+      "summary": "The prime minister tells an audience at the Lord Mayor's Banquet that the \"Brexit we were given has not worked\".",
+      "published": "",
+      "title_zh": "伯纳姆在欧盟峰会前表示，英国脱欧带来的损失大于收益",
+      "summary_zh": "首相在市长宴会上告诉观众，“我们的脱欧计划没有奏效”。"
+    },
+    {
+      "title": "Neighbours' shock after WW2 mortar found in garage",
+      "link": "",
+      "summary": "Army bomb disposal experts were called to the street in Doncaster on Friday 13 November.",
+      "published": "",
+      "title_zh": "车库里发现二战迫击炮后邻居们感到震惊",
+      "summary_zh": "11 月 13 日星期五，陆军拆弹专家被召集到唐卡斯特街头。"
+    },
+    {
+      "title": "Customers report service outages at major US banks",
+      "link": "",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "published": "",
+      "title_zh": "客户报告美国主要银行服务中断",
+      "summary_zh": "美国最大的银行大通银行表示，该问题可能是软件错误造成的，但它与“系统性”或“网络相关”无关。"
+    },
+    {
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "link": "",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "published": "",
+      "title_zh": "也门胡塞武装的推进可能进一步破坏全球经济的稳定",
+      "summary_zh": "英国广播公司的安全记者写道，伊朗支持的胡塞武装正在取得进展，他们的进展可能会产生危险的后果。"
+    }
+  ]
+}
