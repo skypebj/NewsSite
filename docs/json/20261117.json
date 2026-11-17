@@ -1,6 +1,6 @@
 {
   "date": "20261117",
-  "total": 37,
+  "total": 47,
   "sources": {
     "nbcnews": {
       "status": "ok",
@@ -37,277 +37,351 @@
   },
   "entries": [
     {
-      "title": "Trump attends ASEAN summit in the Philippines ahead of Xi-Putin meeting",
-      "link": "https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普在习近平与普京会晤之前出席在菲律宾举行的东盟峰会"
-    },
-    {
-      "title": "Putin’s prized bridge is partially destroyed in Ukrainian strike",
-      "link": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756",
-      "summary": "",
-      "published": "",
-      "title_zh": "普京珍贵的桥梁在乌克兰的袭击中被部分摧毁"
-    },
-    {
-      "title": "Higher rates, AI and hiring: How FedEx navigates a tricky economy",
-      "link": "https://www.nbcnews.com/business/ceo-interviews/fedex-ceo-fuel-tariffs-consumers-rcna608343",
-      "summary": "",
-      "published": "",
-      "title_zh": "更高的费率、人工智能和招聘：联邦快递如何应对棘手的经济"
-    },
-    {
-      "title": "The succession of tech glitches rattling everyday life",
-      "link": "https://www.nbcnews.com/news/us-news/microsoft-faa-chase-succession-tech-glitches-rattling-everyday-life-rcna609692",
-      "summary": "",
-      "published": "",
-      "title_zh": "一系列的技术故障扰乱了日常生活"
-    },
-    {
-      "title": "The Data Dive: Steve Kornacki on how Josh Turek flipped a Senate seat in Trump’s Iowa",
-      "link": "https://www.nbcnews.com/politics/2026-election/data-dive-steve-kornacki-josh-turek-flipped-senate-seat-trumps-iowa-rcna609719",
-      "summary": "",
-      "published": "",
-      "title_zh": "数据潜水：史蒂夫·科纳基 (Steve Kornacki) 讲述乔什·图雷克 (Josh Turek) 如何翻转特朗普爱荷华州的参议院席位"
-    },
-    {
-      "title": "Vance says there’s ‘no daylight’ between him and Trump on the Iran war",
-      "link": "https://www.nbcnews.com/politics/jd-vance/vance-says-no-daylight-trump-iran-war-rcna609681",
-      "summary": "",
-      "published": "",
-      "title_zh": "万斯表示他和特朗普在伊朗战争问题上“没有光明”"
-    },
-    {
-      "title": "Zohran Mamdani disbands NYPD unit accused of being too violent",
-      "link": "https://www.nbcnews.com/news/us-news/new-york-mayor-mamdani-disbands-divisive-nypd-unit-rcna609760",
-      "summary": "",
-      "published": "",
-      "title_zh": "佐兰·马姆达尼因过于暴力而解散纽约警察局"
-    },
-    {
-      "title": "Running used to pay this pro athlete’s bills. Now, it’s OnlyFans.",
-      "link": "https://www.nbcnews.com/sports/olympics/running-pay-bills-only-fans-ultramarathon-camille-herron-sports-rcna607090",
-      "summary": "",
-      "published": "",
-      "title_zh": "跑步曾经用来支付这位职业运动员的账单。现在，它是OnlyFans。"
-    },
-    {
-      "title": "HAPPENING NOW: President Trump delivers remarks at the ASEAN-US dinner",
+      "title": "FAA chief addresses fears AI led to ground stop as Duffy admits key failure in response",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "现在发生的事情：特朗普总统在东盟-美国晚宴上发表讲话"
+      "title_zh": "美国联邦航空局局长担心人工智能会导致地面停止，达菲承认回应中出现重大失败"
     },
     {
-      "title": "American basketball player arrested after suspicious luggage discovery in Nigeria",
+      "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国篮球运动员在尼日利亚发现可疑行李后被捕"
+      "title_zh": "美国对格什姆岛伊斯兰革命卫队导弹发射场进行自卫打击"
     },
     {
-      "title": "DHS chief Mullin sends message to American people amid string of tech meltdowns",
+      "title": "Judge opens door to releasing warrant for Ilhan Omar home raid",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "DHS chief Mullin sends message to American people amid string of tech meltdowns"
+      "title_zh": "法官打开了释放伊尔汗·奥马尔入室搜查令的大门"
     },
     {
-      "title": "Khanna says Democrats should approve $1,700 Iran war refunds in January",
+      "title": "Russell Brand's words from behind bars trigger 'urgent' investigation by authorities",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡纳表示民主党应该在一月份批准 1,700 美元的伊朗战争退款"
+      "title_zh": "拉塞尔·布兰德在狱中的言论引发当局“紧急”调查"
     },
     {
-      "title": "Robert Pattinson's 007 casting 'a slap in the face' to James Bond: expert",
+      "title": "Judge torches Fani Willis' office with 'due process doesn't apply to you' rebuke",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "罗伯特·帕丁森的007选角给了詹姆斯·邦德“一记耳光”：专家"
+      "title_zh": "法官斥责“正当程序不适用于你”，烧毁了法尼·威利斯的办公室"
     },
     {
-      "title": "Christian convert could face execution in Egypt as State Department monitors trial",
+      "title": "Ukraine releases footage showing devastating aftermath of drone strike on Crimea bridge",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "由于国务院监督审判，基督徒皈依者可能在埃及面临处决"
+      "title_zh": "乌克兰发布的视频显示无人机袭击克里米亚大桥造成的毁灭性后果"
     },
     {
-      "title": "MICHAEL RUIZ:Police union chief invokes failed bomb plot in warning to mayor",
+      "title": "'Squad' member introduces progressive agenda, challenges Trump to veto",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克尔·鲁伊斯：​​警察工会主席援引失败的炸弹阴谋向市长发出警告"
+      "title_zh": "“小队”成员提出进步议程，挑战特朗普否决"
     },
     {
-      "title": "MATT CALKINS:Seattle Times demands retractions from others but won't issue one itself",
+      "title": "'Kindergarten Cop' star dead at 43 after family concern leads to welfare check",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "MATT CALKINS:Seattle Times demands retractions from others but won't issue one itself"
+      "title_zh": "因家庭担忧导致福利检查，《幼儿园警察》明星去世，享年 43 岁"
     },
     {
-      "title": "Weeks post-lung surgery, pontiff shrugs off getting struck at massive sendoff",
+      "title": "He lived as a woman after moving to the US. Here’s what made him turn back",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肺部手术几周后，教宗对大规模送别活动中受到的打击不以为然"
+      "title_zh": "移居美国后，他以女性身份生活。这就是让他回头的原因"
     },
     {
-      "title": "LIZ PEEK:Buttigieg blasts Duffy on ground stop — but his own FAA record ends ’28 hopes",
+      "title": "ASRA Q NOMANI:American communist groups caught sabotaging US plan to rival China's tech dominance",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "莉兹·皮克：布蒂吉格在地面停车时猛烈抨击达菲——但他自己的联邦航空局记录终结了 28 年的希望"
+      "title_zh": "ASRA Q NOMANI：美国共产主义团体被发现破坏美国对抗中国科技主导地位的计划"
     },
     {
-      "title": "Details emerge about source of United Airlines 90-minute departure delay",
+      "title": "Jensen Huang addresses calls for Nvidia comeback in first remarks since resignation",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "联合航空 90 分钟起飞延误原因的详细信息浮出水面"
+      "title_zh": "黄仁勋辞职后首次发表讲话，呼吁英伟达卷土重来"
     },
     {
-      "title": "Vance shares what he may say to El-Sayed when he swears him in on 'The Ingraham Angle'",
+      "title": "Paris Hilton reveals lasting trauma of leaked sex tape, fights AI deepfake abuse",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "万斯分享了当埃尔-赛义德在《英格拉汉姆角》中宣誓就职时他可能会对他说的话"
+      "title_zh": "帕丽斯·希尔顿 (Paris Hilton) 揭露性爱录像泄露带来的持久创伤，与人工智能深度伪造滥用作斗争"
     },
     {
-      "title": "JESSE WATTERS:Whoever controls Nvidia controls all",
+      "title": "White House torches Dem's 'Trumpcare for All' pitch as 'Medicare for None'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "JESSE WATTERS：谁控制了Nvidia，谁就控制了一切"
+      "title_zh": "白宫将民主党的“特朗普为所有人提供医疗保险”宣传口号改为“为所有人提供医疗保险”"
     },
     {
-      "title": "Texas going blue 'freaked out' red neighbors who fear they could be next",
+      "title": "Europe assassination scheme emerges as Iran denies plot amid Trump warning",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "德克萨斯州的蓝色“吓坏了”红色邻居，他们担心自己可能是下一个"
+      "title_zh": "欧洲暗杀计划浮现，伊朗在特朗普警告下否认阴谋"
     },
     {
-      "title": "White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting",
+      "title": "SPEAK UP:What message should Trump give to China?",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "19 岁枪手因枪击案获缓刑后，白宫称华盛顿政策“疯狂”"
+      "title_zh": "大声说出来：特朗普应该向中国传达什么信息？"
     },
     {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "title": "Tourists brace for impact as downdraft sends hot air balloon drifting toward power lines",
       "link": "",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "summary": "",
       "published": "",
-      "title_zh": "乌克兰指责俄罗斯在“双击”袭击造成72人死亡后将救援行动作为目标",
-      "summary_zh": "官员称，乌克兰南部遭受“双击”袭击后打捞尸体的工作因俄罗斯持续袭击而受到阻碍。"
+      "title_zh": "下沉气流使热气球飘向电线，游客做好迎接撞击的准备"
     },
     {
-      "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
+      "title": "Death certificate reveals what killed beloved golf broadcaster Dan Hicks at 64: report",
       "link": "",
-      "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+      "summary": "",
       "published": "",
-      "title_zh": "古吉拉特邦骚乱轮奸幸存者在两名罪犯保释后“心碎”",
-      "summary_zh": "比尔基斯·巴诺（Bilkis Bano）谈到了她对最高法院命令的“痛苦、震惊和难以置信”，并发誓要予以反击。"
+      "title_zh": "死亡证明揭示了 64 岁高尔夫播音员丹·希克斯 (Dan Hicks) 的死因：报告"
     },
     {
-      "title": "How police in London failed to stop rape-unit detective who abused women",
+      "title": "Joe Biden admits 'we beat Medicare' gaffe became 'Exhibit A' for his age",
       "link": "",
-      "summary": "Warren Arter used his position - running a team investigating sexual assaults - to target women.",
+      "summary": "",
       "published": "",
-      "title_zh": "伦敦警察如何未能阻止虐待妇女的强奸组侦探",
-      "summary_zh": "沃伦·阿特（Warren Arter）利用他的职位——领导一个调查性侵犯的团队——来针对女性。"
+      "title_zh": "乔·拜登承认“我们击败了医疗保险”失态已成为他这个年龄的“证据”"
     },
     {
-      "title": "Trump meets Modi and other world leaders in Philippines on first leg of Asia trip",
+      "title": "Substitute teacher’s alleged relationship with teen student leads to arrest",
       "link": "",
-      "summary": "The US president is making a stop in the Philippine capital, Manila, before heading to China where he will meet Xi Jinping and Vladimir Putin.",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普亚洲之行第一站在菲律宾会见莫迪和其他世界领导人",
-      "summary_zh": "美国总统将在菲律宾首都马尼拉停留，然后前往中国，与习近平和普京会面。"
+      "title_zh": "代课教师涉嫌与青少年学生发生关系导致被捕"
     },
     {
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "title": "5-second conversation with ICE lands California sheriff's employees on leave",
       "link": "",
-      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "summary": "",
       "published": "",
-      "title_zh": "假装在新西兰，预订假期并购买游戏机——粉丝们为 GTA 6 所做的一切",
-      "summary_zh": "Sensor Tower 估计该游戏在 PlayStation 和 Xbox 上的预购收入已达 11.8 亿美元"
+      "title_zh": "与 ICE 的 5 秒对话导致加州警长员工休假"
     },
     {
-      "title": "Taking Korea's toughest exam from behind bars",
-      "link": "",
-      "summary": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+      "title": "Nvidia doesn’t plan to reinstate Jensen Huang as CEO, chairman says",
+      "link": "https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804",
+      "summary": "",
       "published": "",
-      "title_zh": "在监狱里参加韩国最艰难的考试",
-      "summary_zh": "曼德拉男子学校的 11 名囚犯将成为数千名韩国年轻人中的一员，参加该国最难的考试——Suneung。"
+      "title_zh": "英伟达董事长表示不打算恢复黄仁勋担任首席执行官"
     },
     {
-      "title": "The young people caught up in Britain's Neets crisis",
-      "link": "",
-      "summary": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
+      "title": "Apple reports outages after an internal update, says it is working to get systems back online",
+      "link": "https://www.nbcnews.com/business/corporations/apple-outages-working-get-systems-back-online-rcna609861",
+      "summary": "",
       "published": "",
-      "title_zh": "陷入英国尼特危机的年轻人",
-      "summary_zh": "BBC 新闻采访了 16 至 24 岁未工作、未接受教育或培训的 100 万年轻人中的 4 人。"
+      "title_zh": "苹果报告内部更新后出现故障，并表示正在努力让系统恢复在线状态"
     },
     {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "link": "",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "title": "A Kremlin trap? Europe sees danger in Vladimir Putin’s new demand in U.S. talks",
+      "link": "https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558",
+      "summary": "",
       "published": "",
-      "title_zh": "美国对东南亚的新芯片限制将如何影响中国",
-      "summary_zh": "新规定限制了芯片出口以及中国严重依赖的计算能力的获取。"
+      "title_zh": "克里姆林宫陷阱？欧洲认为弗拉基米尔·普京在美国谈判中的新要求存在危险"
     },
     {
-      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-      "link": "",
-      "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+      "title": "The U.S. lost its measles elimination status. Here’s how to keep your family safe.",
+      "link": "https://www.nbcnews.com/health/health-news/measles-elimination-status-lost-what-to-know-rcna607919",
+      "summary": "",
       "published": "",
-      "title_zh": "随着国际足联挑战者的揭晓，因凡蒂诺会觉得自己已经赢了吗？",
-      "summary_zh": "欧足联终于确定了明年国际足联主席选举的候选人，但谁能阻止詹尼·因凡蒂诺获胜呢？"
+      "title_zh": "美国失去了消灭麻疹的地位。以下是如何确保您家人的安全。"
     },
     {
-      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-      "link": "",
-      "summary": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+      "title": "Newest ‘Hunger Games’ hits big screen as dystopian YA sees comeback",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/hunger-games-sunrise-on-the-reaping-release-dystopian-popularity-rcna608823",
+      "summary": "",
       "published": "",
-      "title_zh": "价值 450 万美元的加拿大豪华车盗窃团伙逮捕 12 名尼日利亚人",
-      "summary_zh": "加拿大当局表示，他们已追回 96 辆运往西非的豪华汽车。"
+      "title_zh": "反乌托邦青年卷土重来，最新《饥饿游戏》登陆大银幕"
     },
     {
-      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-      "link": "",
-      "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+      "title": "An AI toy for 3-year-olds described gang rape. Three major retailers are pulling it.",
+      "link": "https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588",
+      "summary": "",
       "published": "",
-      "title_zh": "万斯表示，他将在“明年某个时候”就 2028 年美国总统竞选做出决定",
-      "summary_zh": "这位美国副总统告诉福克斯新闻，当他决定参选或其他决定时，他将“全力支持该决定”。"
+      "title_zh": "一款针对 3 岁儿童的人工智能玩具描述了轮奸事件。三大零售商正在拉动它。"
     },
     {
-      "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
-      "link": "",
-      "summary": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
+      "title": "Pope’s ‘homecoming’ tour",
+      "link": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
+      "summary": "",
       "published": "",
-      "title_zh": "指控拉塞尔·布兰德强奸的女子称监狱信息“令人不安”",
-      "summary_zh": "这位被监禁的喜剧演员在定罪后在播客上发表评论，声称自己对其他四名女性的罪行是无辜的，米亚·拉特接受了英国广播公司(BBC)的采访。"
+      "title_zh": "教宗的“归来”之旅"
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "link": "",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "title": "Waymo robotaxis banned from California freeways",
+      "link": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
+      "summary": "",
       "published": "",
-      "title_zh": "由于特朗普支持恢复前老板的努力，英伟达驳回了“让詹森回来”的活动",
-      "summary_zh": "许多科技人士支持要求这家人工智能芯片巨头让黄仁勋恢复工作的努力。"
+      "title_zh": "Waymo 机器人出租车禁止在加州高速公路行驶"
     },
     {
-      "title": "London City's Goodwin gets first England call-up",
-      "link": "",
-      "summary": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
+      "title": "Pakistani man gets more than 27 years in U.S. prison for assassination plot that he said was steered from Iran",
+      "link": "https://www.nbcnews.com/politics/justice-department/pakistani-man-asif-merchant-27-years-prison-assassination-plot-trump-rcna609922",
+      "summary": "",
       "published": "",
-      "title_zh": "伦敦城的古德温首次入选英格兰队",
-      "summary_zh": "伦敦城狮队前锋伊兹·古德温首次入选英格兰队参加世界杯预选赛对阵乌克兰的比赛。"
+      "title_zh": "巴基斯坦男子因暗杀阴谋在美国被判 27 年以上监禁，他称这是伊朗策划的"
+    },
+    {
+      "title": "How the attack on Crimean Bridge unfolded",
+      "link": "",
+      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "published": "",
+      "title_zh": "克里米亚大桥袭击事件是如何展开的",
+      "summary_zh": "俄罗斯占领乌克兰的关键标志之一在基辅发动七阶段袭击后遭受重大破坏。"
+    },
+    {
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "link": "",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "published": "",
+      "title_zh": "美国士兵因涉嫌从事间谍活动被英国警方逮捕并被美军拘留",
+      "summary_zh": "大都会警察局表示，他因涉嫌国家安全和间谍指控而被美国军方拘留。"
+    },
+    {
+      "title": "US National Security Agency's classified internal network reportedly goes offline",
+      "link": "",
+      "summary": "The National Security Agency says a \"temporary degradation\" affected some internal systems but that \"mission-critical capabilities\" were not affected.",
+      "published": "",
+      "title_zh": "据报道美国国家安全局机密内部网络离线",
+      "summary_zh": "国家安全局表示，“暂时降级”影响了一些内部系统，但“关键任务能力”并未受到影响。"
+    },
+    {
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "link": "",
+      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "published": "",
+      "title_zh": "英伟达公布丰硕业绩，公司表示不会恢复黄仁勋的职位",
+      "summary_zh": "由于前首席执行官黄仁勋大幅退出，英伟达周二公布了强劲的季度收益。"
+    },
+    {
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "link": "",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "published": "",
+      "title_zh": "由于病例数量创纪录，美国在26年后失去了消除麻疹的地位",
+      "summary_zh": "自 20 世纪 90 年代初以来，各州首次报告了 5,400 多例麻疹病例和 10 例与麻疹相关的死亡。"
+    },
+    {
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "link": "",
+      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "published": "",
+      "title_zh": "威廉和凯特在孟买庆祝 Earthshot 奖获得者",
+      "summary_zh": "威尔士王子和王妃与体育和演艺明星一起参加了年度环境颁奖典礼。"
+    },
+    {
+      "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+      "link": "",
+      "summary": "Gamers can hardly contain their excitement as the release of Grand Theft Auto 6 approaches, ending a 13-year wait and fuelling extraordinary anticipation.",
+      "published": "",
+      "title_zh": "“每个人都在谈论它”——GTA 6 在发布前引起了巨大的炒作",
+      "summary_zh": "随着《侠盗猎车手 6》发布的临近​​，玩家们难以抑制自己的兴奋之情，结束了 13 年的等待，并引发了非凡的期待。"
+    },
+    {
+      "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+      "link": "",
+      "summary": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+      "published": "",
+      "title_zh": "蝙蝠侠对詹姆斯·邦德：罗伯特·帕丁森的 007 的线索",
+      "summary_zh": "罗伯特·帕丁森过去的电影角色可以告诉我们他扮演的詹姆斯·邦德会是什么样子？"
+    },
+    {
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "link": "",
+      "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "published": "",
+      "title_zh": "BBC报道基辅大桥遭到俄罗斯袭击",
+      "summary_zh": "英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 对夜间罢工现场附近的居民进行了采访。"
+    },
+    {
+      "title": "GTA 6: My wife and daughter have signed a 'do not disturb' contract",
+      "link": "",
+      "summary": "Painter and decorator Sean Little has booked the week off work to play the new Grand Theft Auto game.",
+      "published": "",
+      "title_zh": "GTA 6：我的妻子和女儿签署了“请勿打扰”合同",
+      "summary_zh": "画家兼装潢师肖恩·利特尔 (Sean Little) 已经安排了一周的休假来玩新的侠盗猎车手游戏。"
+    },
+    {
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+      "link": "",
+      "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+      "published": "",
+      "title_zh": "特朗普表示阿拉斯加选民选择了错误的丹·沙利文。数据显示什么？",
+      "summary_zh": "阿拉斯加参议员竞选仍在计票，民主党人玛丽·佩尔托拉领先于共和党现任参议员丹·S·沙利文。"
+    },
+    {
+      "title": "Will President Trump meet Kim Jong Un?",
+      "link": "",
+      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "published": "",
+      "title_zh": "特朗普总统会见金正恩吗？",
+      "summary_zh": "特朗普总统表示，他渴望在中国会见朝鲜领导人。"
+    },
+    {
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "link": "",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "published": "",
+      "title_zh": "特朗普在与俄罗斯和中国总统会谈之前访问亚洲",
+      "summary_zh": "美国总统表示，“如果有可能”，他愿意与俄罗斯总统弗拉基米尔·普京进行一对一的会面。"
+    },
+    {
+      "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+      "link": "",
+      "summary": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+      "published": "",
+      "title_zh": "布拉德·皮特和弗洛伦斯·皮尤力挺詹姆斯·邦德反派角色",
+      "summary_zh": "两位一线明星齐聚擂台，扮演罗伯特·帕丁森饰演的 007 中的反派。"
+    },
+    {
+      "title": "Key proposals of major review to get 440,000 young Britons into work",
+      "link": "",
+      "summary": "A major review proposes widespread changes to help get young people into work across the UK.",
+      "published": "",
+      "title_zh": "让 44 万英国年轻人就业的重大审查的主要建议",
+      "summary_zh": "一项重大审查提出了广泛的改革，以帮助英国各地的年轻人就业。"
+    },
+    {
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "link": "",
+      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "published": "",
+      "title_zh": "鲁尼表示他考虑过在曼联结束自己的生命",
+      "summary_zh": "韦恩·鲁尼表示，他在曼联踢球期间曾考虑过自杀，并“正在与治疗师交谈，试图弄清楚到底发生了什么”。"
+    },
+    {
+      "title": "Haaland's last-second penalty sends Norway through",
+      "link": "",
+      "summary": "Erling Haaland scores a last-second penalty as Norway come back from two goals down to beat Denmark and reach the Nations League quarter-finals.",
+      "published": "",
+      "title_zh": "哈兰德最后一秒点球帮助挪威晋级",
+      "summary_zh": "埃尔林·哈兰德在最后一秒罚入点球，帮助挪威在两球落后的情况下逆转击败丹麦，进入欧国联四分之一决赛。"
+    },
+    {
+      "title": "Portugal hold off bold Wales in five-goal thriller",
+      "link": "",
+      "summary": "Wales fall just short of ending their Nations League group stage with a marquee win as holders Portugal edge a five-goal thriller in Cardiff.",
+      "published": "",
+      "title_zh": "葡萄牙在五球惊悚比赛中击败勇敢的威尔士",
+      "summary_zh": "威尔士队距离以一场大胜结束国联小组赛还差一点，卫冕冠军葡萄牙队在卡迪夫以五球惊心动魄的比分险胜。"
     }
   ]
 }
