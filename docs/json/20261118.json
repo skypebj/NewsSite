@@ -1,0 +1,306 @@
+{
+  "date": "20261118",
+  "total": 36,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "",
+      "summary": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+      "published": "",
+      "title_zh": "特朗普和习近平会面，中国的人工智能梦想面临意想不到的障碍：英伟达间谍丑闻",
+      "summary_zh": "中国担心这一丑闻可能会加大美国进一步限制先进芯片销售的压力。"
+    },
+    {
+      "title": "Cricket Australia sets up 'safe space' for players to share sandpapergate experiences",
+      "link": "",
+      "summary": "The 2018 scandal has resurfaced this month after Usman Khawaja claimed the entire team knew about the cheating plot.",
+      "published": "",
+      "title_zh": "澳大利亚板球协会为球员分享沙纸门体验设立“安全空间”",
+      "summary_zh": "在乌斯曼·卡瓦贾 (Usman Khawaja) 声称整个团队都知道作弊阴谋后，2018 年的丑闻本月再次浮出水面。"
+    },
+    {
+      "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+      "link": "",
+      "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+      "published": "",
+      "title_zh": "美国支持的矿产高速公路能为刚果民主共和国带来和平与繁荣吗？",
+      "summary_zh": "洛比托走廊是美国支持的确保获取非洲关键矿产的努力的中心。"
+    },
+    {
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "link": "",
+      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "published": "",
+      "title_zh": "卢比奥表示，在一系列技术中断之后，美国并未“受到系统性攻击”",
+      "summary_zh": "美国国务卿马可·卢比奥表示，“零证据”支持网上的理论，即最近影响微软、银行和航班的中断是有关联的。"
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "link": "",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "published": "",
+      "title_zh": "英伟达表示，由于销售额飙升，不会恢复黄仁勋的职位",
+      "summary_zh": "在黄仁勋大幅退出后，这家人工智能芯片巨头周二公布了强劲的季度收益。"
+    },
+    {
+      "title": "Democrat Mary Peltola unseats Republican in Alaska Senate race",
+      "link": "",
+      "summary": "For two weeks, the race remained too close to call but the win allows Democrats an even greater majority in the US Senate.",
+      "published": "",
+      "title_zh": "民主党人玛丽·佩尔托拉在阿拉斯加州参议员竞选中击败共和党人",
+      "summary_zh": "两周来，竞选一直势均力敌，但民主党的胜利让他们在美国参议院获得了更大的多数席位。"
+    },
+    {
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "link": "",
+      "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "published": "",
+      "title_zh": "杰夫·贝索斯表示，他“大力参与”了罗伯特·帕丁森饰演新 007 的工作",
+      "summary_zh": "这位亚马逊首席执行官表示，他最初“对”帕丁森“有偏见”，“因为他已经太出名了”。"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "link": "",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "published": "",
+      "title_zh": "英伟达和黄仁勋对美国经济有多重要？",
+      "summary_zh": "这位英伟达前首席执行官一直处于人工智能热潮的中心。"
+    },
+    {
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "link": "",
+      "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+      "published": "",
+      "title_zh": "我想知道有毒泻湖火灾是否导致我丈夫患上了罕见的致命癌症",
+      "summary_zh": "史蒂夫·威廉姆斯 (Steve Williams) 在一次有毒废料场火灾中掉入泻湖后，于 14 年后死于肺癌。"
+    },
+    {
+      "title": "Europe plans to catch the next computer chip wave",
+      "link": "",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "published": "",
+      "title_zh": "欧洲计划赶上下一波计算机芯片浪潮",
+      "summary_zh": "欧洲希望成为利用光处理数据的新一代计算机芯片的领导者。"
+    },
+    {
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "published": "",
+      "title_zh": "Waymo 从美国所有高速公路上撤出无人驾驶出租车",
+      "summary_zh": "这一决定是在发生一系列交通事故后，加州禁止 Waymo 的无人驾驶汽车在该州高速公路上运营的。"
+    },
+    {
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "link": "",
+      "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "published": "",
+      "title_zh": "观看：马可·卢比奥表示最近的技术中断彼此“完全无关”",
+      "summary_zh": "最近几天，微软、美国主要银行、苹果和空中交通管理局都受到了技术故障的打击。"
+    },
+    {
+      "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
+      "link": "",
+      "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+      "published": "",
+      "title_zh": "在特朗普表示选民选择了错误的丹·沙利文后，民主党赢得了阿拉斯加。投票数据显示什么？",
+      "summary_zh": "阿拉斯加州参议员竞选仍在计票，民主党人玛丽·佩尔托拉领先于共和党现任参议员丹·S·沙利文。"
+    },
+    {
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "link": "",
+      "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+      "published": "",
+      "title_zh": "爱尔兰人被控用斧头摧毁美军飞机",
+      "summary_zh": "据联邦调查局称，这架价值 6000 万美元（4500 万英镑）的飞机在一名反战抗议者长达数小时的突袭中被摧毁。"
+    },
+    {
+      "title": "Rubio reveals what federal officials have found after wave of technology outages",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "卢比奥透露联邦官员在技术中断浪潮后发现了什么"
+    },
+    {
+      "title": "Philippine president surprises Trump delegation with beloved local fast-food chain",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "菲律宾总统用深受喜爱的当地快餐连锁店给特朗普代表团带来惊喜"
+    },
+    {
+      "title": "Mamdani’s luxury home tax delivers $500M figure despite fewer bills",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "尽管账单减少，马姆达尼的豪宅税仍达 5 亿美元"
+    },
+    {
+      "title": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿拉斯加州德姆·佩尔托拉击败沙利文，在“诱饵丹”骚动后翻转第九个共和党参议院席位"
+    },
+    {
+      "title": "World Series champ turned congressman lands Capitol Hill’s worst available room",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "世界大赛冠军变身国会议员入住国会山最差的可用房间"
+    },
+    {
+      "title": "Senator-elect who mocked Trump as a 'fool' now calls him 'habibi' in bizarre appeal",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "曾嘲笑特朗普为“傻瓜”的当选参议员现在以奇怪的吸引力称他为“哈比比”"
+    },
+    {
+      "title": "North Korea's heir apparent carves up the mountain as succession chatter grows",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着继任者的争论不断增加，朝鲜的法定继承人正在上山"
+    },
+    {
+      "title": "Trump administration pulls $150M funding lifeline from scandal-plagued LA agency",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普政府从丑闻缠身的洛杉矶机构撤回 1.5 亿美元的资金生命线"
+    },
+    {
+      "title": "Jensen Huang to testify publicly as Nvidia national security probe widens",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着英伟达国家安全调查扩大，黄仁勋将公开作证"
+    },
+    {
+      "title": "RFK Jr under fire after US loses measles-free status amid historic outbreak",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国在历史性的麻疹疫情中失去无麻疹状态后，小罗伯特·肯尼迪受到批评"
+    },
+    {
+      "title": "Medal of Honor hero opens up about the Afghanistan ambush that changed his life",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《荣誉勋章》英雄讲述了改变他一生的阿富汗伏击事件"
+    },
+    {
+      "title": "Youngest member ever elected to Congress vows to fight for issues plaguing young Americans",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "有史以来最年轻的国会议员誓言为困扰美国年轻人的问题而奋斗"
+    },
+    {
+      "title": "Transgender actress floated by Variety to 'make history' as next Bond girl",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《综艺》杂志提名跨性别女演员“创造历史”成为下一任邦德女郎"
+    },
+    {
+      "title": "Patriots-Chargers bumped from Sunday night as NFL makes first primetime flex of 2026",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "爱国者队对阵闪电队的比赛从周日晚上开始，NFL 迎来 2026 年首次黄金时段比赛"
+    },
+    {
+      "title": "Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "经过多年的追捕，主要毒枭“海妖”在加州被抓获"
+    },
+    {
+      "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+      "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党人玛丽·佩尔托拉 (Mary Peltola) 推翻了阿拉斯加参议院席位，击败了共和党参议员丹·沙利文 (Dan Sullivan)"
+    },
+    {
+      "title": "Trump heads to China for high-stakes talks with Xi and Putin",
+      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-summit-asia-trip-asean-live-updates-rcna609690",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普前往中国与习近平和普京进行高风险会谈"
+    },
+    {
+      "title": "Sean Duffy’s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress",
+      "link": "https://www.nbcnews.com/politics/congress/sean-duffys-50-billion-demand-groundstop-fixes-congress-skepitcal-rcna609844",
+      "summary": "",
+      "published": "",
+      "title_zh": "肖恩·达菲 (Sean Duffy) 提出的 500 亿美元航空旅行修复需求遭到了国会的叫喊和怀疑"
+    },
+    {
+      "title": "Why so many major computer systems went down in a week, according to experts",
+      "link": "https://www.nbcnews.com/tech/security/microsoft-faa-chase-nsa-week-major-outages-tech-plan-conspiracy-down-rcna609876",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家称，为什么这么多主要计算机系统在一周内宕机"
+    },
+    {
+      "title": "Nvidia enters the post-Jensen Huang era with a bang",
+      "link": "https://www.nbcnews.com/business/corporations/nvidia-post-jensen-huang-kress-earnings-rcna609782",
+      "summary": "",
+      "published": "",
+      "title_zh": "英伟达轰然进入后黄仁勋时代"
+    },
+    {
+      "title": "White House drops Heidi Overton’s FDA nomination after Republicans raise concerns",
+      "link": "https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883",
+      "summary": "",
+      "published": "",
+      "title_zh": "在共和党人提出担忧后，白宫放弃了海蒂·奥弗顿的 FDA 提名"
+    },
+    {
+      "title": "U.S. and Iran trade attacks almost daily that the Pentagon doesn’t always acknowledge",
+      "link": "https://www.nbcnews.com/politics/national-security/us-iran-trade-attacks-almost-daily-pentagon-doesnt-always-acknowledge-rcna609685",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国和伊朗几乎每天都会发生贸易袭击，但五角大楼并不总是承认"
+    }
+  ]
+}
