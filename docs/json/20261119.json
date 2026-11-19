@@ -1,12 +1,8 @@
 {
   "date": "20261119",
-  "total": 42,
+  "total": 43,
   "sources": {
-    "nbcnews": {
-      "status": "ok",
-      "entries": 0
-    },
-    "theguardian": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -14,15 +10,7 @@
       "status": "ok",
       "entries": 0
     },
-    "nytimes": {
-      "status": "ok",
-      "entries": 0
-    },
     "fox": {
-      "status": "ok",
-      "entries": 0
-    },
-    "cnn": {
       "status": "ok",
       "entries": 0
     },
@@ -30,321 +18,341 @@
       "status": "ok",
       "entries": 0
     },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
     "reuters": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "title": "Trump’s historic summit with Xi, Putin marks unprecedented moment in global diplomacy",
       "link": "",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "summary": "",
       "published": "",
-      "title_zh": "在旧天然气管道内，乌克兰正在与俄罗斯进行地下战争",
-      "summary_zh": "观看：BBC 的乔纳森·比尔 (Jonathan Beale) 与乌克兰军队一起在地下、俄罗斯无人机看不见的地方进行战斗。"
+      "title_zh": "特朗普与习近平、普京的历史性峰会标志着全球外交前所未有的时刻"
     },
     {
-      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "title": "Angry resident issues warning to mayor before council meeting abruptly halts",
       "link": "",
-      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "summary": "",
       "published": "",
-      "title_zh": "俄罗斯人因对美国国防公司 Palantir 提供乌克兰支持而进行间谍活动而被捕",
-      "summary_zh": "检察官称，嫌疑人跟踪员工，被发现持有假美国身份证和两本俄罗斯护照。"
+      "title_zh": "愤怒的居民在议会会议突然停止前向市长发出警告"
     },
     {
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "title": "Democrats fire off dire new threat as Republicans scramble in lame duck Congress",
       "link": "",
-      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "summary": "",
       "published": "",
-      "title_zh": "梵高画作因其纳粹历史引发争议，成交价创纪录的 1.904 亿美元",
-      "summary_zh": "《Châtaigniers en fleurs》创作于 1890 年，当时是文森特·梵高生命的最后两个月。"
+      "title_zh": "当共和党人在跛脚鸭国会中争先恐后时，民主党人发出了可怕的新威胁"
     },
     {
-      "title": "Grand Theft Auto 6 gets UK release after 13-year wait for gamers around the world",
+      "title": "Taylor Swift cheers Ella Langley as she wins single of the year over her",
       "link": "",
-      "summary": "The game has already been released across Australia, New Zealand, and Asia, with many critics sharing positive reviews.",
+      "summary": "",
       "published": "",
-      "title_zh": "全球游戏玩家等待 13 年之后，《侠盗猎车手 6》在英国上映",
-      "summary_zh": "该游戏已在澳大利亚、新西兰和亚洲发行，并获得了许多评论家的积极评价。"
+      "title_zh": "泰勒·斯威夫特为艾拉·兰利赢得年度单曲奖而欢呼"
     },
     {
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "title": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
       "link": "",
-      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "summary": "",
       "published": "",
-      "title_zh": "缅甸因罗兴亚人大屠杀面临联合国法庭历史性种族灭绝判决",
-      "summary_zh": "国际法庭从未判定任何国家犯有种族灭绝罪。"
+      "title_zh": "以色列牧羊人报告疑似针对牲畜的“农业恐怖”"
     },
     {
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "title": "Cowboys star repeats six-word answer 12 times in presser after major coaching change",
       "link": "",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "summary": "",
       "published": "",
-      "title_zh": "Claude-maker Anthropic 首次上市股价将超过 1.4 兆美元",
-      "summary_zh": "Anthropic 成立于五年前，现已成为人工智能领域最知名的公司之一。"
+      "title_zh": "重大教练变动后，牛仔球星在新闻发布会上重复六个字答案12次"
     },
     {
-      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "title": "Killer mom Susan Smith wants out of prison as prosecutor warns about her true motives",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杀手妈妈苏珊·史密斯希望出狱，检察官警告她的真实动机"
+    },
+    {
+      "title": "Somali daycare owner elected in Minnesota now facing heat from ICE over his wife's past",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "明尼苏达州当选的索马里日托所老板现在因妻子的过去而面临 ICE 的严厉制裁"
+    },
+    {
+      "title": "Before you order that pricey steak, experts say you should know key differences",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家表示，在订购昂贵的牛排之前，您应该了解主要区别"
+    },
+    {
+      "title": "BETH A WILLIAMS:No evidence, no problem — US censored speech anyway",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "贝丝·威廉姆斯：没有证据，没问题——美国无论如何都会审查言论"
+    },
+    {
+      "title": "Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普淡化了对科技中断的恐慌：“没有人会和我们玩游戏”"
+    },
+    {
+      "title": "AI giant reportedly blows past its target range for IPO price ahead of historic market debut",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，人工智能巨头在历史性的上市之前突破了 IPO 价格的目标范围"
+    },
+    {
+      "title": "'Ruthless' dives into wave of tech outages hitting major companies",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“无情”深入探讨打击大公司的技术中断浪潮"
+    },
+    {
+      "title": "WHAT DO YOU THINK?Weigh in here on President Trump’s meetings with Xi and Putin",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "您怎么看？在这里谈谈特朗普总统与习近平和普京的会面"
+    },
+    {
+      "title": "JESSE WATTERS:Even if this was a cyberattack, would they tell us?",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "JESSE WATTERS：即使这是一次网络攻击，他们会告诉我们吗？"
+    },
+    {
+      "title": "Supreme Court pressed to blunt congressional ‘criminal trap’ ahead of Dem takeover",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "最高法院被迫在民主党接管之前削弱国会的“犯罪陷阱”"
+    },
+    {
+      "title": "'Grand Theft Auto VI' mania comes with serious health risks, doctors warn",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "医生警告称，“侠盗猎车手VI”狂热会带来严重的健康风险"
+    },
+    {
+      "title": "China bars Bloomberg reporter from Trump-Xi-Putin meeting over Jensen Huang question",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "中国因黄仁勋问题禁止彭博记者参加特习普京会晤"
+    },
+    {
+      "title": "Democratic group’s prescription for 2028: Win over ‘working people’",
+      "link": "https://www.nbcnews.com/politics/2028-election/democratic-groups-prescription-2028-win-working-people-rcna610061",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党团体2028年的处方：赢得“劳动人民”的支持"
+    },
+    {
+      "title": "California’s billionaire tax failed, but Democrats see a bigger fight ahead",
+      "link": "https://www.nbcnews.com/politics/2026-election/californias-billionaire-tax-failed-democrats-see-bigger-fight-ahead-rcna608614",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州亿万富翁税失败，但民主党人认为未来还有更大的斗争"
+    },
+    {
+      "title": "Republican Nick Begich wins re-election to Alaska’s U.S. House seat, a rare bright spot for the GOP",
+      "link": "https://www.nbcnews.com/politics/2026-election/republican-nick-begich-wins-re-election-alaskas-us-house-seat-rare-bri-rcna610153",
+      "summary": "",
+      "published": "",
+      "title_zh": "共和党人尼克·贝吉奇连任阿拉斯加美国众议院席位，这是共和党罕见的亮点"
+    },
+    {
+      "title": "‘Grand Theft Auto VI’ goes on sale: Gamers skip work to play after 13-year wait",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/gta-6-release-grand-theft-reviews-live-updates-rcna610118",
+      "summary": "",
+      "published": "",
+      "title_zh": "《侠盗猎车手VI》发售：玩家翘首以待13年"
+    },
+    {
+      "title": "As many employers stop covering GLP-1s for weight loss, workers are left scrambling",
+      "link": "https://www.nbcnews.com/health/health-care/many-employers-stop-covering-glp1s-weight-loss-workers-rcna608355",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于许多雇主停止承保 GLP-1 减肥药物，工人们只能手忙脚乱"
+    },
+    {
+      "title": "‘Blessing in disguise’: Lobbyists shrug off Stephen Miller’s crackdown on their business",
+      "link": "https://www.nbcnews.com/politics/trump-administration/lobbyists-shrug-stephen-miller-crackdown-business-rcna609834",
+      "summary": "",
+      "published": "",
+      "title_zh": "“因祸得福”：游说者对斯蒂芬·米勒对其业务的打压不以为然"
+    },
+    {
+      "title": "Ella Langley sweeps 2026 CMA Awards, wins entertainer of the year",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/ella-langley-sweeps-2026-cma-awards-wins-entertainer-year-rcna610164",
+      "summary": "",
+      "published": "",
+      "title_zh": "Ella Langley sweeps 2026 CMA Awards, wins entertainer of the year"
+    },
+    {
+      "title": "Takeaways from the Trump-Xi-Putin summit and ‘GTA VI’ launches to rave reviews: Morning Rundown",
+      "link": "https://www.nbcnews.com/news/us-news/trilateral-meeting-trump-xi-putin-gta-vice-city-morning-rundown-rcna610168",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普-习近平-普京峰会的要点和《GTA VI》的发布广受好评：早间总结"
+    },
+    {
+      "title": "Trump, Putin, and Xi issue 'joint declaration on peace' after 90-minute talks in China",
+      "link": "",
+      "summary": "In footage released by the Kremlin, Putin says to Xi on leaving the venue: \"I don't think anyone even expected everything to go so well.\"",
+      "published": "",
+      "title_zh": "特朗普、普京和习近平在中国举行 90 分钟会谈后发表“联合和平宣言”",
+      "summary_zh": "在克里姆林宫发布的视频中，普京在离开会场时对习近平说：“我认为没有人预料到一切会如此顺利。”"
+    },
+    {
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "link": "",
+      "summary": "Some local media report that at least four bodies have been recovered.",
+      "published": "",
+      "title_zh": "载有100名移民的船只在塞内加尔海岸沉没 数十人失踪",
+      "summary_zh": "一些当地媒体报道称，至少已找到四具尸体。"
+    },
+    {
+      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+      "link": "",
+      "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+      "published": "",
+      "title_zh": "调查人员称，迈克·林奇的贝叶斯游艇沉没前，船员们并未意识到风险",
+      "summary_zh": "这艘船在西西里岛北部海岸沉没，造成包括英国科技大亨迈克·林奇在内的七人死亡。"
+    },
+    {
+      "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+      "link": "",
+      "summary": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+      "published": "",
+      "title_zh": "观看：特朗普在握手时向“我的朋友”普京致意",
+      "summary_zh": "两人在随后与中国领导人习近平举行三边会议之前会面。"
+    },
+    {
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "link": "",
       "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
       "published": "",
-      "title_zh": "Anthropic 破纪录的 IPO 能否阻止人工智能泡沫破裂？",
+      "title_zh": "Simon Jack：Anthropic 破纪录的 IPO 能否阻止人工智能泡沫破裂？",
       "summary_zh": "Anthropic备受期待的IPO有望跻身美国最有价值公司前10名，但未来充满不确定性。"
     },
     {
-      "title": "Test cricket's sandpaper plot - who was there, who said what?",
+      "title": "Schools encourage pupils not to skip class after GTA 6 global release",
       "link": "",
-      "summary": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
+      "summary": "Grand Theft Auto 6 has been released at midnight around the world, ending the 13-year wait for a new instalment of the game.",
       "published": "",
-      "title_zh": "测试板球的砂纸图 - 谁在那里，谁说什么？",
-      "summary_zh": "随着卡梅伦·班克罗夫特的爆炸性指控引发了有关砂纸丑闻的更多疑问，英国广播公司体育频道调查了当时的人物以及他们此后所说的话。"
+      "title_zh": "GTA 6 全球发布后学校鼓励学生不要逃课",
+      "summary_zh": "《侠盗猎车手 6》已于午夜在全球发布，结束了该游戏新作 13 年的等待。"
     },
     {
-      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
       "link": "",
-      "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+      "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
       "published": "",
-      "title_zh": "新视频显示克里米亚大桥部分倒塌前不久发生爆炸",
-      "summary_zh": "BBC verify 分析了显示桥梁部分倒塌前最后时刻的镜头以及显示破坏规模的视频。"
+      "title_zh": "“沮丧”——尽管在中期选举中大获全胜，民主党仍然是一个分裂的政党",
+      "summary_zh": "在国会赢得权力后，丹佛举行的民主党会议热烈讨论最佳前进道路。"
     },
     {
-      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
       "link": "",
-      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
       "published": "",
-      "title_zh": "印度的宗教构成——皮尤研究中心关于印度教徒和穆斯林的一项新研究",
-      "summary_zh": "根据一项新的调查，印度仍将以印度教徒为主，尽管其穆斯林人口预计增长更快。"
+      "title_zh": "对于中国习近平来说，这是一个非凡的外交时刻——但它也伴随着陷阱",
+      "summary_zh": "这次会议也面临着挑战，因为习近平似乎并不热衷于与普京和特朗普讨论一些事情。"
     },
     {
-      "title": "Is your child lying to you? That might not be a bad thing",
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
       "link": "",
-      "summary": "Parents may be annoyed when their kids lie but experts explain why it is part of their development.",
+      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
       "published": "",
-      "title_zh": "你的孩子对你撒谎吗？这也许不是一件坏事",
-      "summary_zh": "当孩子说谎时，父母可能会感到恼火，但专家解释了为什么这是孩子成长的一部分。"
+      "title_zh": "麦当劳性虐待：“他们在等待年轻女孩年满 18 岁”",
+      "summary_zh": "一名前麦当劳员工呼吁该公司“改变对待年轻员工的方式”，因为法官裁定针对该连锁店的法律诉讼可以继续进行。"
     },
     {
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "title": "Deception can begin aged one - why experts say children lying can be a good thing",
       "link": "",
-      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+      "summary": "Parents may be annoyed when their kids fib but a psychologist says it is part of their development.",
       "published": "",
-      "title_zh": "加纳价值6000万美元的新型总统专机引发公众愤怒",
-      "summary_zh": "由于许多加纳人正在努力应对不断上涨的生活成本，此次购买引发了对其成本的愤怒。"
+      "title_zh": "欺骗从一岁就开始了——为什么专家说孩子撒谎可能是一件好事",
+      "summary_zh": "当孩子撒谎时，父母可能会感到恼火，但心理学家表示，这是孩子成长的一部分。"
     },
     {
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "link": "",
-      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "published": "",
-      "title_zh": "胡里奥·伊格莱西亚斯因涉嫌性犯罪面临法庭调查",
-      "summary_zh": "这位 83 岁的歌手被指控于 2021 年在加勒比住宅虐待两名前雇员。"
+      "title_zh": "Anthropic 在创纪录的股市首次亮相中筹集了 810 亿美元",
+      "summary_zh": "克劳德聊天机器人背后的公司将成为世界上最有价值的公司之一。"
     },
     {
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "title": "UK to provide Ukraine with 1,000 long-range strike drones",
       "link": "",
-      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "summary": "The prime minister is set to make the announcement at a meeting of the Coalition of the Willing in Berlin.",
       "published": "",
-      "title_zh": "威廉和凯特在结束印度之行时会见了莫迪总理",
-      "summary_zh": "这次在新德里举行的会面是这对王室夫妇访问印度的最后一次访问，他们还出席了一年一度的 Earthshot 奖"
+      "title_zh": "英国将向乌克兰提供1000架远程攻击无人机",
+      "summary_zh": "总理将在柏林举行的意愿联盟会议上宣布这一消息。"
     },
     {
-      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
       "link": "",
-      "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
       "published": "",
-      "title_zh": "辛辛那提动物园吞下帽子后正在接受护理的河马菲奥娜",
-      "summary_zh": "动物园管理员表示她无法接受手术，但正在为她提供液体和支持性护理，以帮助她顺利通过手术。"
+      "title_zh": "乌干达致命山体滑坡的幸存者向联合国寻求正义",
+      "summary_zh": "幸存者拒绝搬迁计划，称这忽视了他们的安全、土地权利和生计"
     },
     {
-      "title": "Chelsea score late to beat PSG and close on last eight",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "link": "",
-      "summary": "Veerle Buurman scored late on to secure victory for Chelsea against Paris St-Germain in the Women's Champions League.",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "published": "",
-      "title_zh": "切尔西迟到击败巴黎圣日尔曼并进入八强",
-      "summary_zh": "维尔勒·布尔曼 (Veerle Buurman) 在最后时刻进球，帮助切尔西在女子冠军联赛中战胜巴黎圣日耳曼队。"
+      "title_zh": "埃隆·马斯克表示，美国中期选举创纪录的 4.46 亿美元支出“非常愚蠢”",
+      "summary_zh": "这位亿万富翁还表示，他“不是马加”，与与特朗普有关的政治运动保持距离。"
     },
     {
-      "title": "Trump, Xi could pressure Putin into ending Ukraine war if they wanted, Zelenskyy says",
-      "link": "https://www.nbcnews.com/world/ukraine/trump-xi-pressure-putin-ending-ukraine-war-want-zelenskyy-rcna609960",
-      "summary": "",
-      "published": "",
-      "title_zh": "泽伦斯基表示，如果特朗普和习近平愿意，他们可以向普京施压，要求其结束乌克兰战争"
-    },
-    {
-      "title": "World waits as Trump, Xi and Putin prepare for high-stakes meeting",
-      "link": "https://www.nbcnews.com/world/asia/world-waits-trump-xi-putin-prepare-high-stakes-meeting-rcna609776",
-      "summary": "",
-      "published": "",
-      "title_zh": "全世界都在等待特朗普、习近平和普京为高风险会议做准备"
-    },
-    {
-      "title": "Sen. Elissa Slotkin fires back at DOJ official over investigation of her political speech",
-      "link": "https://www.nbcnews.com/politics/congress/elissa-slotkin-fires-back-aaron-reitz-investigation-political-speech-rcna610133",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员埃丽莎·斯洛特金 (Elissa Slotkin) 就其政治演讲调查向司法部官员进行回击"
-    },
-    {
-      "title": "High school valedictorians to get Nike shoes after request from Mississippi’s incoming senator",
-      "link": "https://www.nbcnews.com/politics/2026-election/high-school-valedictorians-get-nike-shoes-request-mississippis-incomin-rcna610116",
-      "summary": "",
-      "published": "",
-      "title_zh": "应密西西比州即将上任的参议员的要求，高中告别演说者将获得耐克鞋"
-    },
-    {
-      "title": "Anthropic is about to be worth more than $1 trillion. What that means for the rest of us.",
-      "link": "https://www.nbcnews.com/business/markets/anthropic-ipo-valuation-ai-boom-rcna610069",
-      "summary": "",
-      "published": "",
-      "title_zh": "Anthropic 的价值即将超过 1 万亿美元。这对我们其他人意味着什么。"
-    },
-    {
-      "title": "Big school districts warn they may ditch Google Search over AI requirement",
-      "link": "https://www.nbcnews.com/news/education/google-faces-reckoning-ai-tools-classrooms-schools-rcna609572",
-      "summary": "",
-      "published": "",
-      "title_zh": "大型学区警告称，由于人工智能要求，他们可能会放弃谷歌搜索"
-    },
-    {
-      "title": "Man accused of attacking Northwestern student followed others from train to dorms",
-      "link": "https://www.nbcnews.com/news/us-news/man-accused-attacking-northwestern-student-followed-others-train-dorms-rcna610091",
-      "summary": "",
-      "published": "",
-      "title_zh": "被指控袭击西北大学学生的男子跟随其他人从火车到宿舍"
-    },
-    {
-      "title": "Iran widens Gulf attacks by targeting a U.S. air base in Kuwait and sites in Bahrain",
-      "link": "https://www.nbcnews.com/world/iran/iran-widens-gulf-attacks-targeting-us-air-base-kuwait-sites-bahrain-rcna610128",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗瞄准美国驻科威特空军基地和巴林基地，扩大海湾袭击范围"
-    },
-    {
-      "title": "President Trump gives a message to anxious Americans amid tech outages, cyberattack fears",
+      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
       "link": "",
-      "summary": "",
+      "summary": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to have music featured on Grand Theft Auto 6.",
       "published": "",
-      "title_zh": "特朗普总统向因技术中断和网络攻击担忧而焦虑的美国人传达了一个信息"
+      "title_zh": "“梦想成真”——南非 DJ 庆祝出演 GTA 6",
+      "summary_zh": "DJ lag 是南非最著名的电子音乐制作人之一，也是在《侠盗猎车手 6》中创作音乐的几位非洲明星之一。"
     },
     {
-      "title": "Trump drops candid admission about spying on China ahead of Xi, Putin summit",
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
       "link": "",
-      "summary": "",
+      "summary": "Move comes after Brand's wife shared a message from him in which he claimed his innocence.",
       "published": "",
-      "title_zh": "特朗普在习近平和普京峰会前放弃坦白承认对中国进行间谍活动"
+      "title_zh": "消息人士称，谷歌拒绝了英国删除 Russell Brand YouTube 视频的请求",
+      "summary_zh": "布兰德的妻子分享了他的一条信息，其中布兰德声称自己是清白的，随后采取了这一行动。"
     },
     {
-      "title": "Judge makes 'relatively rare' move in Ilhan Omar probe, legal expert says",
+      "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
       "link": "",
-      "summary": "",
+      "summary": "A BBC Sport investigation has found bills to UK companies were already overdue when LIV Golf made its final payments to players and executives before filing for bankruptcy.",
       "published": "",
-      "title_zh": "法律专家称，法官在伊尔汗·奥马尔调查中采取了“相对罕见”的举动"
-    },
-    {
-      "title": "Trump’s ex-border chief heckled off campus stage after Dem governor condemns event",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在民主党州长谴责这一事件后，特朗普前边境局长在校园讲台上质问"
-    },
-    {
-      "title": "US indicts Irish activist after $60M military plane damaged beyond repair",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "价值 6000 万美元的军用飞机受损无法修复，美国起诉爱尔兰活动家"
-    },
-    {
-      "title": "Christians projected to fall below half of US adults within four decades",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "预计四十年内基督徒人数将低于美国成年人的一半"
-    },
-    {
-      "title": "Bucket-list vacation hot spot just got a lot tougher for Americans to reach",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国人的愿望清单上的度假热点变得越来越难到达"
-    },
-    {
-      "title": "Flu season 'taking off' in US, with one state already in very high danger",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国流感季节“爆发”，一个州已处于极高危险之中"
-    },
-    {
-      "title": "DNA breakthrough in grisly cold case leads to arrests of mother and daughter",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "可怕悬案中的 DNA 突破导致母女被捕"
-    },
-    {
-      "title": "Taylor Swift, Ella Langley kick off 2026 CMAs red carpet — vote for your favorite look",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "泰勒·斯威夫特 (Taylor Swift) 和艾拉·兰利 (Ella Langley) 亮相 2026 年 CMA 红毯 — 投票选出你最喜欢的造型"
-    },
-    {
-      "title": "Alaska's 'Decoy Dan' scandal escalates as details of vast DOJ probe emerge after Dem win",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党获胜后，随着司法部大规模调查的细节浮出水面，阿拉斯加州的“诱饵丹”丑闻升级"
-    },
-    {
-      "title": "Nvidia’s new leader delivers bold message after Jensen Huang’s scandalous exit",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "黄仁勋丑闻退出后，英伟达新任领导人发出大胆信息"
-    },
-    {
-      "title": "SOUND OFF:What's the impact of President Trump's meeting with Vladimir Putin?",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "声音关闭：特朗普总统与弗拉基米尔·普京的会晤有何影响？"
-    },
-    {
-      "title": "Costco's discontinued $4.99 food court sandwich has shoppers begging for its return",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "Costco 停产的 4.99 美元美食广场三明治吸引消费者乞求退货"
-    },
-    {
-      "title": "Iran hammers US radar installation in Bahrain for the third time in under a week",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "伊朗在一周内第三次袭击美国在巴林安装的雷达"
-    },
-    {
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as Bond",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杰夫·贝佐斯表示，他“积极参与”了罗伯特·帕丁森饰演邦德的过程"
-    },
-    {
-      "title": "Ex-husband of mom who drowned two sons makes demand before parole hearing",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "淹死两个儿子的母亲的前夫在假释听证会前提出要求"
-    },
-    {
-      "title": "Student at $90K-a-year college allegedly followed into dorm, grabbed by throat",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "年薪9万美元的大学学生据称被尾随进入宿舍并被掐住喉咙"
+      "title_zh": "沙特支持的 LIV 向高尔夫球手支付数百万美元，英国公司欠下数千美元",
+      "summary_zh": "BBC 体育频道的一项调查发现，当 LIV Golf 在申请破产之前向球员和高管支付最后一笔款项时，向英国公司支付的账单已经逾期。"
     }
   ]
 }
