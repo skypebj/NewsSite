@@ -1,0 +1,350 @@
+{
+  "date": "20261119",
+  "total": 42,
+  "sources": {
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "link": "",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "published": "",
+      "title_zh": "在旧天然气管道内，乌克兰正在与俄罗斯进行地下战争",
+      "summary_zh": "观看：BBC 的乔纳森·比尔 (Jonathan Beale) 与乌克兰军队一起在地下、俄罗斯无人机看不见的地方进行战斗。"
+    },
+    {
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "link": "",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "published": "",
+      "title_zh": "俄罗斯人因对美国国防公司 Palantir 提供乌克兰支持而进行间谍活动而被捕",
+      "summary_zh": "检察官称，嫌疑人跟踪员工，被发现持有假美国身份证和两本俄罗斯护照。"
+    },
+    {
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "link": "",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "published": "",
+      "title_zh": "梵高画作因其纳粹历史引发争议，成交价创纪录的 1.904 亿美元",
+      "summary_zh": "《Châtaigniers en fleurs》创作于 1890 年，当时是文森特·梵高生命的最后两个月。"
+    },
+    {
+      "title": "Grand Theft Auto 6 gets UK release after 13-year wait for gamers around the world",
+      "link": "",
+      "summary": "The game has already been released across Australia, New Zealand, and Asia, with many critics sharing positive reviews.",
+      "published": "",
+      "title_zh": "全球游戏玩家等待 13 年之后，《侠盗猎车手 6》在英国上映",
+      "summary_zh": "该游戏已在澳大利亚、新西兰和亚洲发行，并获得了许多评论家的积极评价。"
+    },
+    {
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "link": "",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "published": "",
+      "title_zh": "缅甸因罗兴亚人大屠杀面临联合国法庭历史性种族灭绝判决",
+      "summary_zh": "国际法庭从未判定任何国家犯有种族灭绝罪。"
+    },
+    {
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "link": "",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "published": "",
+      "title_zh": "Claude-maker Anthropic 首次上市股价将超过 1.4 兆美元",
+      "summary_zh": "Anthropic 成立于五年前，现已成为人工智能领域最知名的公司之一。"
+    },
+    {
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "link": "",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "published": "",
+      "title_zh": "Anthropic 破纪录的 IPO 能否阻止人工智能泡沫破裂？",
+      "summary_zh": "Anthropic备受期待的IPO有望跻身美国最有价值公司前10名，但未来充满不确定性。"
+    },
+    {
+      "title": "Test cricket's sandpaper plot - who was there, who said what?",
+      "link": "",
+      "summary": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
+      "published": "",
+      "title_zh": "测试板球的砂纸图 - 谁在那里，谁说什么？",
+      "summary_zh": "随着卡梅伦·班克罗夫特的爆炸性指控引发了有关砂纸丑闻的更多疑问，英国广播公司体育频道调查了当时的人物以及他们此后所说的话。"
+    },
+    {
+      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+      "link": "",
+      "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+      "published": "",
+      "title_zh": "新视频显示克里米亚大桥部分倒塌前不久发生爆炸",
+      "summary_zh": "BBC verify 分析了显示桥梁部分倒塌前最后时刻的镜头以及显示破坏规模的视频。"
+    },
+    {
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "link": "",
+      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "published": "",
+      "title_zh": "印度的宗教构成——皮尤研究中心关于印度教徒和穆斯林的一项新研究",
+      "summary_zh": "根据一项新的调查，印度仍将以印度教徒为主，尽管其穆斯林人口预计增长更快。"
+    },
+    {
+      "title": "Is your child lying to you? That might not be a bad thing",
+      "link": "",
+      "summary": "Parents may be annoyed when their kids lie but experts explain why it is part of their development.",
+      "published": "",
+      "title_zh": "你的孩子对你撒谎吗？这也许不是一件坏事",
+      "summary_zh": "当孩子说谎时，父母可能会感到恼火，但专家解释了为什么这是孩子成长的一部分。"
+    },
+    {
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "link": "",
+      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+      "published": "",
+      "title_zh": "加纳价值6000万美元的新型总统专机引发公众愤怒",
+      "summary_zh": "由于许多加纳人正在努力应对不断上涨的生活成本，此次购买引发了对其成本的愤怒。"
+    },
+    {
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "link": "",
+      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "published": "",
+      "title_zh": "胡里奥·伊格莱西亚斯因涉嫌性犯罪面临法庭调查",
+      "summary_zh": "这位 83 岁的歌手被指控于 2021 年在加勒比住宅虐待两名前雇员。"
+    },
+    {
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "link": "",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "published": "",
+      "title_zh": "威廉和凯特在结束印度之行时会见了莫迪总理",
+      "summary_zh": "这次在新德里举行的会面是这对王室夫妇访问印度的最后一次访问，他们还出席了一年一度的 Earthshot 奖"
+    },
+    {
+      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+      "link": "",
+      "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+      "published": "",
+      "title_zh": "辛辛那提动物园吞下帽子后正在接受护理的河马菲奥娜",
+      "summary_zh": "动物园管理员表示她无法接受手术，但正在为她提供液体和支持性护理，以帮助她顺利通过手术。"
+    },
+    {
+      "title": "Chelsea score late to beat PSG and close on last eight",
+      "link": "",
+      "summary": "Veerle Buurman scored late on to secure victory for Chelsea against Paris St-Germain in the Women's Champions League.",
+      "published": "",
+      "title_zh": "切尔西迟到击败巴黎圣日尔曼并进入八强",
+      "summary_zh": "维尔勒·布尔曼 (Veerle Buurman) 在最后时刻进球，帮助切尔西在女子冠军联赛中战胜巴黎圣日耳曼队。"
+    },
+    {
+      "title": "Trump, Xi could pressure Putin into ending Ukraine war if they wanted, Zelenskyy says",
+      "link": "https://www.nbcnews.com/world/ukraine/trump-xi-pressure-putin-ending-ukraine-war-want-zelenskyy-rcna609960",
+      "summary": "",
+      "published": "",
+      "title_zh": "泽伦斯基表示，如果特朗普和习近平愿意，他们可以向普京施压，要求其结束乌克兰战争"
+    },
+    {
+      "title": "World waits as Trump, Xi and Putin prepare for high-stakes meeting",
+      "link": "https://www.nbcnews.com/world/asia/world-waits-trump-xi-putin-prepare-high-stakes-meeting-rcna609776",
+      "summary": "",
+      "published": "",
+      "title_zh": "全世界都在等待特朗普、习近平和普京为高风险会议做准备"
+    },
+    {
+      "title": "Sen. Elissa Slotkin fires back at DOJ official over investigation of her political speech",
+      "link": "https://www.nbcnews.com/politics/congress/elissa-slotkin-fires-back-aaron-reitz-investigation-political-speech-rcna610133",
+      "summary": "",
+      "published": "",
+      "title_zh": "参议员埃丽莎·斯洛特金 (Elissa Slotkin) 就其政治演讲调查向司法部官员进行回击"
+    },
+    {
+      "title": "High school valedictorians to get Nike shoes after request from Mississippi’s incoming senator",
+      "link": "https://www.nbcnews.com/politics/2026-election/high-school-valedictorians-get-nike-shoes-request-mississippis-incomin-rcna610116",
+      "summary": "",
+      "published": "",
+      "title_zh": "应密西西比州即将上任的参议员的要求，高中告别演说者将获得耐克鞋"
+    },
+    {
+      "title": "Anthropic is about to be worth more than $1 trillion. What that means for the rest of us.",
+      "link": "https://www.nbcnews.com/business/markets/anthropic-ipo-valuation-ai-boom-rcna610069",
+      "summary": "",
+      "published": "",
+      "title_zh": "Anthropic 的价值即将超过 1 万亿美元。这对我们其他人意味着什么。"
+    },
+    {
+      "title": "Big school districts warn they may ditch Google Search over AI requirement",
+      "link": "https://www.nbcnews.com/news/education/google-faces-reckoning-ai-tools-classrooms-schools-rcna609572",
+      "summary": "",
+      "published": "",
+      "title_zh": "大型学区警告称，由于人工智能要求，他们可能会放弃谷歌搜索"
+    },
+    {
+      "title": "Man accused of attacking Northwestern student followed others from train to dorms",
+      "link": "https://www.nbcnews.com/news/us-news/man-accused-attacking-northwestern-student-followed-others-train-dorms-rcna610091",
+      "summary": "",
+      "published": "",
+      "title_zh": "被指控袭击西北大学学生的男子跟随其他人从火车到宿舍"
+    },
+    {
+      "title": "Iran widens Gulf attacks by targeting a U.S. air base in Kuwait and sites in Bahrain",
+      "link": "https://www.nbcnews.com/world/iran/iran-widens-gulf-attacks-targeting-us-air-base-kuwait-sites-bahrain-rcna610128",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗瞄准美国驻科威特空军基地和巴林基地，扩大海湾袭击范围"
+    },
+    {
+      "title": "President Trump gives a message to anxious Americans amid tech outages, cyberattack fears",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普总统向因技术中断和网络攻击担忧而焦虑的美国人传达了一个信息"
+    },
+    {
+      "title": "Trump drops candid admission about spying on China ahead of Xi, Putin summit",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在习近平和普京峰会前放弃坦白承认对中国进行间谍活动"
+    },
+    {
+      "title": "Judge makes 'relatively rare' move in Ilhan Omar probe, legal expert says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "法律专家称，法官在伊尔汗·奥马尔调查中采取了“相对罕见”的举动"
+    },
+    {
+      "title": "Trump’s ex-border chief heckled off campus stage after Dem governor condemns event",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在民主党州长谴责这一事件后，特朗普前边境局长在校园讲台上质问"
+    },
+    {
+      "title": "US indicts Irish activist after $60M military plane damaged beyond repair",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "价值 6000 万美元的军用飞机受损无法修复，美国起诉爱尔兰活动家"
+    },
+    {
+      "title": "Christians projected to fall below half of US adults within four decades",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "预计四十年内基督徒人数将低于美国成年人的一半"
+    },
+    {
+      "title": "Bucket-list vacation hot spot just got a lot tougher for Americans to reach",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国人的愿望清单上的度假热点变得越来越难到达"
+    },
+    {
+      "title": "Flu season 'taking off' in US, with one state already in very high danger",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "美国流感季节“爆发”，一个州已处于极高危险之中"
+    },
+    {
+      "title": "DNA breakthrough in grisly cold case leads to arrests of mother and daughter",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "可怕悬案中的 DNA 突破导致母女被捕"
+    },
+    {
+      "title": "Taylor Swift, Ella Langley kick off 2026 CMAs red carpet — vote for your favorite look",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒·斯威夫特 (Taylor Swift) 和艾拉·兰利 (Ella Langley) 亮相 2026 年 CMA 红毯 — 投票选出你最喜欢的造型"
+    },
+    {
+      "title": "Alaska's 'Decoy Dan' scandal escalates as details of vast DOJ probe emerge after Dem win",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党获胜后，随着司法部大规模调查的细节浮出水面，阿拉斯加州的“诱饵丹”丑闻升级"
+    },
+    {
+      "title": "Nvidia’s new leader delivers bold message after Jensen Huang’s scandalous exit",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "黄仁勋丑闻退出后，英伟达新任领导人发出大胆信息"
+    },
+    {
+      "title": "SOUND OFF:What's the impact of President Trump's meeting with Vladimir Putin?",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "声音关闭：特朗普总统与弗拉基米尔·普京的会晤有何影响？"
+    },
+    {
+      "title": "Costco's discontinued $4.99 food court sandwich has shoppers begging for its return",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Costco 停产的 4.99 美元美食广场三明治吸引消费者乞求退货"
+    },
+    {
+      "title": "Iran hammers US radar installation in Bahrain for the third time in under a week",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗在一周内第三次袭击美国在巴林安装的雷达"
+    },
+    {
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as Bond",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰夫·贝佐斯表示，他“积极参与”了罗伯特·帕丁森饰演邦德的过程"
+    },
+    {
+      "title": "Ex-husband of mom who drowned two sons makes demand before parole hearing",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "淹死两个儿子的母亲的前夫在假释听证会前提出要求"
+    },
+    {
+      "title": "Student at $90K-a-year college allegedly followed into dorm, grabbed by throat",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "年薪9万美元的大学学生据称被尾随进入宿舍并被掐住喉咙"
+    }
+  ]
+}
