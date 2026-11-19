@@ -1,20 +1,12 @@
 {
   "date": "20261119",
-  "total": 43,
+  "total": 48,
   "sources": {
-    "cnn": {
+    "theguardian": {
       "status": "ok",
       "entries": 0
     },
     "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
-    "fox": {
-      "status": "ok",
-      "entries": 0
-    },
-    "apnews": {
       "status": "ok",
       "entries": 0
     },
@@ -26,333 +18,377 @@
       "status": "ok",
       "entries": 0
     },
-    "reuters": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
-    "theguardian": {
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Trump’s historic summit with Xi, Putin marks unprecedented moment in global diplomacy",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "link": "",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "published": "",
+      "title_zh": "特朗普、普京和习近平在历史性会晤后发表“和平宣言”",
+      "summary_zh": "虽然两国总统此前曾进行过一对一会议，但这是他们的首次三边讨论。"
+    },
+    {
+      "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+      "link": "",
+      "summary": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+      "published": "",
+      "title_zh": "鲍文：缅甸种族灭绝判决具有历史意义，可能产生深远影响",
+      "summary_zh": "英国广播公司国际编辑写道，律师们将研究冈比亚如何证明缅甸意图实施种族灭绝的关键点。"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "link": "",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "published": "",
+      "title_zh": "领导人称欧洲已准备好与俄罗斯就结束乌克兰战争进行谈判",
+      "summary_zh": "乌克兰的欧洲盟友表示，他们在柏林峰会上拥有“统一”的谈判立场。"
+    },
+    {
+      "title": "Analysis: Trilateral summit high on spectacle, short on substance",
+      "link": "",
+      "summary": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
+      "published": "",
+      "title_zh": "分析：三边峰会注重场面，缺乏实质内容",
+      "summary_zh": "历史性的三边会议的视觉效果可能是峰会留下的唯一持久印象。"
+    },
+    {
+      "title": "Men guilty of assaulting woman drugged and advertised for sex by husband in England",
+      "link": "",
+      "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
+      "published": "",
+      "title_zh": "英国男子殴打被丈夫下药并发布性广告的妇女",
+      "summary_zh": "乔安妮·杨 (Joanne Young) 表示，她丈夫 13 年来的行为“让我付出了生命的代价”。"
+    },
+    {
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "link": "",
+      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "published": "",
+      "title_zh": "苏珊·史密斯 (Susan Smith) 溺水两个儿子 32 年后再次被拒绝假释",
+      "summary_zh": "在关于假释可能性的听证会上，史密斯表示，她希望能够改变过去，她的两个孩子“不应该死”。"
+    },
+    {
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "link": "",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "published": "",
+      "title_zh": "辛辛那提动物园河马菲奥娜吞下帽子后死亡",
+      "summary_zh": "动物园称，菲奥娜在 2017 年早产后成为网络明星，“她一直在战斗，直到无法再坚持”。"
+    },
+    {
+      "title": "Rohingya genocide: What was said in court and what happens now?",
+      "link": "",
+      "summary": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+      "published": "",
+      "title_zh": "罗辛亚种族灭绝：法庭上说了些什么，现在又发生了什么？",
+      "summary_zh": "该判决标志着国际法庭首次判定一个国家犯有种族灭绝罪。"
+    },
+    {
+      "title": "Did two Dan Sullivans running in Alaska's election confuse voters?",
+      "link": "",
+      "summary": "Democratic candidate Mary Peltola has won the US Senate race in Alaska which has drawn scrutiny after two Dan Sullivans entered the contest - but did that confuse voters?",
+      "published": "",
+      "title_zh": "两位丹·沙利文参加阿拉斯加选举是否让选民感到困惑？",
+      "summary_zh": "民主党候选人玛丽·佩尔托拉 (Mary Peltola) 赢得了阿拉斯加州的美国参议院竞选，两名丹·沙利文 (Dan Sullivan) 参加竞选后，这场竞选受到了密切关注 - 但这是否让选民感到困惑？"
+    },
+    {
+      "title": "Why fibbing about stolen snacks is an important part of childhood",
+      "link": "",
+      "summary": "Research shows fibs and tricks can start \"surprisingly young\" and that these skills are practised.",
+      "published": "",
+      "title_zh": "为什么对偷来的零食撒谎是童年的重要组成部分",
+      "summary_zh": "研究表明，谎言和诡计可以在“令人惊讶的年轻”时开始，并且这些技能是经过练习的。"
+    },
+    {
+      "title": "Watch: Why McDonald's staff took legal action over sexual abuse claims?",
+      "link": "",
+      "summary": "McDonald's has said that \"ensuring a safe, respectful and inclusive working environment across our restaurants and offices remains a fundamental priority\".",
+      "published": "",
+      "title_zh": "观看：麦当劳员工为何对性虐待指控采取法律行动？",
+      "summary_zh": "麦当劳表示，“确保我们的餐厅和办公室有一个安全、尊重和包容的工作环境仍然是首要任务”。"
+    },
+    {
+      "title": "EU-UK talks going down to the wire, says No 10",
+      "link": "",
+      "summary": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
+      "published": "",
+      "title_zh": "10 号人士表示，欧盟与英国的谈判即将进入最后阶段",
+      "summary_zh": "预计欧盟和英国将在周五的峰会上就食品贸易和年轻人签证达成新协议。"
+    },
+    {
+      "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
+      "link": "",
+      "summary": "Langley won six awards, weeks after her hit Choosin' Texas broke a Billboard chart record in the US.",
+      "published": "",
+      "title_zh": "泰勒·斯威夫特 (Taylor Swift) 表演艾拉·兰利 (Ella Langley) 横扫乡村音乐奖",
+      "summary_zh": "兰利在她的热门单曲《Choosin' Texas》打破美国告示牌排行榜几周后，赢得了六项大奖。"
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "link": "",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "published": "",
+      "title_zh": "以色列军队完成黄线以外加沙地面行动",
+      "summary_zh": "哈马斯谴责这次入侵，以色列军方称这次入侵是为了拆除“恐怖隧道”，这是“公然”违反停火协议。"
+    },
+    {
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "link": "",
+      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+      "published": "",
+      "title_zh": "佛罗里达州牧师因参与刺杀海地总统而被判有罪",
+      "summary_zh": "克里斯蒂安·伊曼纽尔·萨农因参与导致若弗内尔·莫伊兹被杀的阴谋而被定罪。"
+    },
+    {
+      "title": "UK Covid inquiry report: Key findings on testing, tracing and 'the pingdemic'",
+      "link": "",
+      "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+      "published": "",
+      "title_zh": "英国新冠调查报告：有关检测、追踪和“流行病”的主要发现",
+      "summary_zh": "公众调查发现，早期遏制冠状病毒的努力“注定要失败”。这是您需要了解的内容。"
+    },
+    {
+      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "link": "",
+      "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
+      "published": "",
+      "title_zh": "印度车手赢得改变人生的 130 万美元彩票大奖",
+      "summary_zh": "印度北部旁遮普邦一名卡车司机中了排灯节彩票后，他的命运一夜之间发生了变化。"
+    },
+    {
+      "title": "Cummins' Australia captaincy at a crossroads - Agnew",
+      "link": "",
+      "summary": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
+      "published": "",
+      "title_zh": "康明斯的澳大利亚队长正处于十字路口——阿格纽",
+      "summary_zh": "乔纳森·阿格纽表示，在砂纸门丑闻的最新进展之后，他很难看出帕特·康明斯如何带领澳大利亚队参加明年夏天在英格兰举行的灰烬杯系列赛。"
+    },
+    {
+      "title": "Trump’s national cyber director Sean Cairncross to step down amid string of critical outages",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普与习近平、普京的历史性峰会标志着全球外交前所未有的时刻"
+      "title_zh": "特朗普国家网络主管肖恩·凯恩克罗斯 (Sean Cairncross) 将因一系列严重网络中断而辞职"
     },
     {
-      "title": "Angry resident issues warning to mayor before council meeting abruptly halts",
+      "title": "Trump announces ‘complete and total pardon’ for late MLB legend Pete Rose",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "愤怒的居民在议会会议突然停止前向市长发出警告"
+      "title_zh": "特朗普宣布“完全彻底赦免”已故美国职业棒球大联盟传奇人物皮特·罗斯"
     },
     {
-      "title": "Democrats fire off dire new threat as Republicans scramble in lame duck Congress",
+      "title": "Two attorneys have already quit the Mar-a-Lago probe, and now a third steps in",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "当共和党人在跛脚鸭国会中争先恐后时，民主党人发出了可怕的新威胁"
+      "title_zh": "两名律师已经退出海湖庄园调查，现在第三名律师介入"
     },
     {
-      "title": "Taylor Swift cheers Ella Langley as she wins single of the year over her",
+      "title": "Christians rebel against Imam’s prayer opening at city meeting with a message of their own",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒·斯威夫特为艾拉·兰利赢得年度单曲奖而欢呼"
+      "title_zh": "基督徒用他们自己的信息反抗伊玛目在城市会议上的祈祷开场"
     },
     {
-      "title": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
+      "title": "Beloved hippo Fiona dies at Cincinnati Zoo after swallowing visitor's hat",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "以色列牧羊人报告疑似针对牲畜的“农业恐怖”"
+      "title_zh": "心爱的河马菲奥娜在辛辛那提动物园吞下游客的帽子后死亡"
     },
     {
-      "title": "Cowboys star repeats six-word answer 12 times in presser after major coaching change",
+      "title": "Trump says historic sit-down with Putin and Xi shattered his own rating scale",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "重大教练变动后，牛仔球星在新闻发布会上重复六个字答案12次"
+      "title_zh": "特朗普称与普京和习近平的历史性会晤打破了他自己的评价标准"
     },
     {
-      "title": "Killer mom Susan Smith wants out of prison as prosecutor warns about her true motives",
+      "title": "Iran regime's execution spree continues as tortured twin faces death penalty",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杀手妈妈苏珊·史密斯希望出狱，检察官警告她的真实动机"
+      "title_zh": "伊朗政权的处决狂潮仍在继续，遭受酷刑的双胞胎面临死刑"
     },
     {
-      "title": "Somali daycare owner elected in Minnesota now facing heat from ICE over his wife's past",
+      "title": "Popular alcoholic drinks linked to sudden kidney damage in 14-year study",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "明尼苏达州当选的索马里日托所老板现在因妻子的过去而面临 ICE 的严厉制裁"
+      "title_zh": "14 年研究显示流行酒精饮料与突然肾损伤有关"
     },
     {
-      "title": "Before you order that pricey steak, experts say you should know key differences",
+      "title": "NYC building collapses in seconds in chilling new video from passing MTA bus",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "专家表示，在订购昂贵的牛排之前，您应该了解主要区别"
+      "title_zh": "纽约市大楼在几秒钟内倒塌，新视频显示经过 MTA 巴士的令人不寒而栗"
     },
     {
-      "title": "BETH A WILLIAMS:No evidence, no problem — US censored speech anyway",
+      "title": "ASRA NOMANI:Leftists want new leadership — and one top Dem is their biggest target",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "贝丝·威廉姆斯：没有证据，没问题——美国无论如何都会审查言论"
+      "title_zh": "ASRA NOMANI：左翼分子想要新的领导层——民主党高层是他们最大的目标"
     },
     {
-      "title": "Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’",
+      "title": "Road rage 'stand your ground' shooting leads to murder charges after recording unearthed",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普淡化了对科技中断的恐慌：“没有人会和我们玩游戏”"
+      "title_zh": "录音曝光后，路怒症“坚守阵地”枪击事件导致谋杀指控"
     },
     {
-      "title": "AI giant reportedly blows past its target range for IPO price ahead of historic market debut",
+      "title": "Michigan WR accused of flashing delivery driver, then asking her to come back",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "据报道，人工智能巨头在历史性的上市之前突破了 IPO 价格的目标范围"
+      "title_zh": "密歇根WR被指控闪现送货司机，然后要求她回来"
     },
     {
-      "title": "'Ruthless' dives into wave of tech outages hitting major companies",
+      "title": "Popular tourist attraction suspended after 5 deaths, including US tourist",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "“无情”深入探讨打击大公司的技术中断浪潮"
+      "title_zh": "热门旅游景点因包括美国游客在内的 5 人死亡而暂停运营"
     },
     {
-      "title": "WHAT DO YOU THINK?Weigh in here on President Trump’s meetings with Xi and Putin",
+      "title": "Florida cheerleaders bust out the ABCs as a free throw distraction and it worked",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "您怎么看？在这里谈谈特朗普总统与习近平和普京的会面"
+      "title_zh": "佛罗里达啦啦队用罚球来分散注意力，并且成功了"
     },
     {
-      "title": "JESSE WATTERS:Even if this was a cyberattack, would they tell us?",
+      "title": "WEIGH IN:What do you think of the GTA VI phenomenon sweeping the nation?",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "JESSE WATTERS：即使这是一次网络攻击，他们会告诉我们吗？"
+      "title_zh": "权衡：你对席卷全国的 GTA VI 现象有何看法？"
     },
     {
-      "title": "Supreme Court pressed to blunt congressional ‘criminal trap’ ahead of Dem takeover",
+      "title": "Dancing robots take over city square as robotic arms serve ice cream to crowds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "最高法院被迫在民主党接管之前削弱国会的“犯罪陷阱”"
+      "title_zh": "跳舞机器人占领城市广场，机械臂为人群提供冰淇淋"
     },
     {
-      "title": "'Grand Theft Auto VI' mania comes with serious health risks, doctors warn",
+      "title": "Hayden Panettiere's mom admits skipping daughter's funeral was 'probably for the best'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "医生警告称，“侠盗猎车手VI”狂热会带来严重的健康风险"
+      "title_zh": "海顿·潘妮蒂尔的妈妈承认不参加女儿的葬礼“可能是最好的”"
     },
     {
-      "title": "China bars Bloomberg reporter from Trump-Xi-Putin meeting over Jensen Huang question",
+      "title": "Puka Nacua's NFL suspension might be the most toothless in recent memory",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "中国因黄仁勋问题禁止彭博记者参加特习普京会晤"
+      "title_zh": "普卡纳夸 (Puka Nacua) 的 NFL 停赛可能是近年来最无牙的停赛"
     },
     {
-      "title": "Democratic group’s prescription for 2028: Win over ‘working people’",
-      "link": "https://www.nbcnews.com/politics/2028-election/democratic-groups-prescription-2028-win-working-people-rcna610061",
+      "title": "Parole board decides on killer mom Susan Smith’s bid for release",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党团体2028年的处方：赢得“劳动人民”的支持"
+      "title_zh": "假释委员会决定杀手妈妈苏珊史密斯的释放申请"
     },
     {
-      "title": "California’s billionaire tax failed, but Democrats see a bigger fight ahead",
-      "link": "https://www.nbcnews.com/politics/2026-election/californias-billionaire-tax-failed-democrats-see-bigger-fight-ahead-rcna608614",
+      "title": "Trump appears to help Xi onto escalator in moment caught on camera",
+      "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州亿万富翁税失败，但民主党人认为未来还有更大的斗争"
+      "title_zh": "镜头捕捉到特朗普似乎帮助习近平登上自动扶梯的瞬间"
     },
     {
-      "title": "Republican Nick Begich wins re-election to Alaska’s U.S. House seat, a rare bright spot for the GOP",
-      "link": "https://www.nbcnews.com/politics/2026-election/republican-nick-begich-wins-re-election-alaskas-us-house-seat-rare-bri-rcna610153",
+      "title": "Trump touts ‘unbelievable’ talks with Putin and Xi, though peace deals remain elusive",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-touts-unbelievable-summit-putin-xi-though-peace-deals-remain-elu-rcna610014",
       "summary": "",
       "published": "",
-      "title_zh": "共和党人尼克·贝吉奇连任阿拉斯加美国众议院席位，这是共和党罕见的亮点"
+      "title_zh": "特朗普称赞与普京和习近平的会谈“令人难以置信”，但和平协议仍难以达成"
     },
     {
-      "title": "‘Grand Theft Auto VI’ goes on sale: Gamers skip work to play after 13-year wait",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/gta-6-release-grand-theft-reviews-live-updates-rcna610118",
+      "title": "Anthropic goes public with a bang — and a market whimper",
+      "link": "https://www.nbcnews.com/business/markets/anthropic-ipo-nasadq-ai-concerns-rcna610273",
       "summary": "",
       "published": "",
-      "title_zh": "《侠盗猎车手VI》发售：玩家翘首以待13年"
+      "title_zh": "Anthropic 上市轰动一时，但市场却一片哀叹"
     },
     {
-      "title": "As many employers stop covering GLP-1s for weight loss, workers are left scrambling",
-      "link": "https://www.nbcnews.com/health/health-care/many-employers-stop-covering-glp1s-weight-loss-workers-rcna608355",
+      "title": "Tech billionaires who embraced Trump distance themselves after midterm rout",
+      "link": "https://www.nbcnews.com/tech/elon-musk/musk-maga-pivot-billionaires-tech-trump-rcna610197",
       "summary": "",
       "published": "",
-      "title_zh": "由于许多雇主停止承保 GLP-1 减肥药物，工人们只能手忙脚乱"
+      "title_zh": "拥抱特朗普的科技亿万富翁在中期选举失败后疏远了他们"
     },
     {
-      "title": "‘Blessing in disguise’: Lobbyists shrug off Stephen Miller’s crackdown on their business",
-      "link": "https://www.nbcnews.com/politics/trump-administration/lobbyists-shrug-stephen-miller-crackdown-business-rcna609834",
+      "title": "Trump’s pick for agency providing election security says Jan. 6 was not an attack",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trumps-pick-agency-providing-election-security-says-jan-6-was-not-atta-rcna610298",
       "summary": "",
       "published": "",
-      "title_zh": "“因祸得福”：游说者对斯蒂芬·米勒对其业务的打压不以为然"
+      "title_zh": "特朗普选择的选举安全机构表示 1 月 6 日不是一次袭击"
     },
     {
-      "title": "Ella Langley sweeps 2026 CMA Awards, wins entertainer of the year",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/ella-langley-sweeps-2026-cma-awards-wins-entertainer-year-rcna610164",
+      "title": "Classified NSA network is still down, leaving some staff working from home",
+      "link": "https://www.nbcnews.com/politics/national-security/classified-nsa-network-still-leaving-staff-working-home-rcna610261",
       "summary": "",
       "published": "",
-      "title_zh": "Ella Langley sweeps 2026 CMA Awards, wins entertainer of the year"
+      "title_zh": "美国国家安全局机密网络仍然处于关闭状态，导致一些工作人员在家工作"
     },
     {
-      "title": "Takeaways from the Trump-Xi-Putin summit and ‘GTA VI’ launches to rave reviews: Morning Rundown",
-      "link": "https://www.nbcnews.com/news/us-news/trilateral-meeting-trump-xi-putin-gta-vice-city-morning-rundown-rcna610168",
+      "title": "My boss canceled our 1:1 so I could keep playing ‘GTA’",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/gta-6-play-by-play-work-first-three-hours-rcna610208",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普-习近平-普京峰会的要点和《GTA VI》的发布广受好评：早间总结"
+      "title_zh": "我的老板取消了我们的 1:1，这样我就可以继续玩《GTA》"
     },
     {
-      "title": "Trump, Putin, and Xi issue 'joint declaration on peace' after 90-minute talks in China",
-      "link": "",
-      "summary": "In footage released by the Kremlin, Putin says to Xi on leaving the venue: \"I don't think anyone even expected everything to go so well.\"",
+      "title": "Palestinians flee as Israeli tanks cross Gaza ceasefire’s ‘yellow line’",
+      "link": "https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169",
+      "summary": "",
       "published": "",
-      "title_zh": "特朗普、普京和习近平在中国举行 90 分钟会谈后发表“联合和平宣言”",
-      "summary_zh": "在克里姆林宫发布的视频中，普京在离开会场时对习近平说：“我认为没有人预料到一切会如此顺利。”"
+      "title_zh": "以色列坦克越过加沙停火“黄线”，巴勒斯坦人逃离"
     },
     {
-      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-      "link": "",
-      "summary": "Some local media report that at least four bodies have been recovered.",
+      "title": "Fiona the hippo dies after eating a hat that ended up in her habitat, Cincinnati Zoo says",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/fiona-hippo-dies-cincinnati-zoo-rcna610297",
+      "summary": "",
       "published": "",
-      "title_zh": "载有100名移民的船只在塞内加尔海岸沉没 数十人失踪",
-      "summary_zh": "一些当地媒体报道称，至少已找到四具尸体。"
+      "title_zh": "辛辛那提动物园称，河马菲奥娜吃了一顶落在她栖息地的帽子后死亡"
     },
     {
-      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-      "link": "",
-      "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+      "title": "Former rocket scientist becomes NFL defensive coach",
+      "link": "https://www.nbcnews.com/sports/nfl/rocket-scientist-fueling-nfls-best-defense-rcna610015",
+      "summary": "",
       "published": "",
-      "title_zh": "调查人员称，迈克·林奇的贝叶斯游艇沉没前，船员们并未意识到风险",
-      "summary_zh": "这艘船在西西里岛北部海岸沉没，造成包括英国科技大亨迈克·林奇在内的七人死亡。"
+      "title_zh": "前火箭科学家成为 NFL 防守教练"
     },
     {
-      "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
-      "link": "",
-      "summary": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+      "title": "Save the salmon, kill the sea lions? Why an unlikely coalition wants to try it",
+      "link": "https://www.nbcnews.com/science/environment/kill-sea-lions-save-salmon-debate-study-bill-rcna609878",
+      "summary": "",
       "published": "",
-      "title_zh": "观看：特朗普在握手时向“我的朋友”普京致意",
-      "summary_zh": "两人在随后与中国领导人习近平举行三边会议之前会面。"
-    },
-    {
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "link": "",
-      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "published": "",
-      "title_zh": "Simon Jack：Anthropic 破纪录的 IPO 能否阻止人工智能泡沫破裂？",
-      "summary_zh": "Anthropic备受期待的IPO有望跻身美国最有价值公司前10名，但未来充满不确定性。"
-    },
-    {
-      "title": "Schools encourage pupils not to skip class after GTA 6 global release",
-      "link": "",
-      "summary": "Grand Theft Auto 6 has been released at midnight around the world, ending the 13-year wait for a new instalment of the game.",
-      "published": "",
-      "title_zh": "GTA 6 全球发布后学校鼓励学生不要逃课",
-      "summary_zh": "《侠盗猎车手 6》已于午夜在全球发布，结束了该游戏新作 13 年的等待。"
-    },
-    {
-      "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-      "link": "",
-      "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-      "published": "",
-      "title_zh": "“沮丧”——尽管在中期选举中大获全胜，民主党仍然是一个分裂的政党",
-      "summary_zh": "在国会赢得权力后，丹佛举行的民主党会议热烈讨论最佳前进道路。"
-    },
-    {
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "link": "",
-      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-      "published": "",
-      "title_zh": "对于中国习近平来说，这是一个非凡的外交时刻——但它也伴随着陷阱",
-      "summary_zh": "这次会议也面临着挑战，因为习近平似乎并不热衷于与普京和特朗普讨论一些事情。"
-    },
-    {
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "link": "",
-      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-      "published": "",
-      "title_zh": "麦当劳性虐待：“他们在等待年轻女孩年满 18 岁”",
-      "summary_zh": "一名前麦当劳员工呼吁该公司“改变对待年轻员工的方式”，因为法官裁定针对该连锁店的法律诉讼可以继续进行。"
-    },
-    {
-      "title": "Deception can begin aged one - why experts say children lying can be a good thing",
-      "link": "",
-      "summary": "Parents may be annoyed when their kids fib but a psychologist says it is part of their development.",
-      "published": "",
-      "title_zh": "欺骗从一岁就开始了——为什么专家说孩子撒谎可能是一件好事",
-      "summary_zh": "当孩子撒谎时，父母可能会感到恼火，但心理学家表示，这是孩子成长的一部分。"
-    },
-    {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "link": "",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "published": "",
-      "title_zh": "Anthropic 在创纪录的股市首次亮相中筹集了 810 亿美元",
-      "summary_zh": "克劳德聊天机器人背后的公司将成为世界上最有价值的公司之一。"
-    },
-    {
-      "title": "UK to provide Ukraine with 1,000 long-range strike drones",
-      "link": "",
-      "summary": "The prime minister is set to make the announcement at a meeting of the Coalition of the Willing in Berlin.",
-      "published": "",
-      "title_zh": "英国将向乌克兰提供1000架远程攻击无人机",
-      "summary_zh": "总理将在柏林举行的意愿联盟会议上宣布这一消息。"
-    },
-    {
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "link": "",
-      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
-      "published": "",
-      "title_zh": "乌干达致命山体滑坡的幸存者向联合国寻求正义",
-      "summary_zh": "幸存者拒绝搬迁计划，称这忽视了他们的安全、土地权利和生计"
-    },
-    {
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "link": "",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-      "published": "",
-      "title_zh": "埃隆·马斯克表示，美国中期选举创纪录的 4.46 亿美元支出“非常愚蠢”",
-      "summary_zh": "这位亿万富翁还表示，他“不是马加”，与与特朗普有关的政治运动保持距离。"
-    },
-    {
-      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-      "link": "",
-      "summary": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to have music featured on Grand Theft Auto 6.",
-      "published": "",
-      "title_zh": "“梦想成真”——南非 DJ 庆祝出演 GTA 6",
-      "summary_zh": "DJ lag 是南非最著名的电子音乐制作人之一，也是在《侠盗猎车手 6》中创作音乐的几位非洲明星之一。"
-    },
-    {
-      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-      "link": "",
-      "summary": "Move comes after Brand's wife shared a message from him in which he claimed his innocence.",
-      "published": "",
-      "title_zh": "消息人士称，谷歌拒绝了英国删除 Russell Brand YouTube 视频的请求",
-      "summary_zh": "布兰德的妻子分享了他的一条信息，其中布兰德声称自己是清白的，随后采取了这一行动。"
-    },
-    {
-      "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
-      "link": "",
-      "summary": "A BBC Sport investigation has found bills to UK companies were already overdue when LIV Golf made its final payments to players and executives before filing for bankruptcy.",
-      "published": "",
-      "title_zh": "沙特支持的 LIV 向高尔夫球手支付数百万美元，英国公司欠下数千美元",
-      "summary_zh": "BBC 体育频道的一项调查发现，当 LIV Golf 在申请破产之前向球员和高管支付最后一笔款项时，向英国公司支付的账单已经逾期。"
+      "title_zh": "拯救鲑鱼，杀死海狮？为什么一个不太可能的联盟想要尝试一下"
     }
   ]
 }
