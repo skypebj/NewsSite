@@ -1,0 +1,330 @@
+{
+  "date": "20261120",
+  "total": 39,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "link": "",
+      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+      "published": "",
+      "title_zh": "“我告诉我儿子这只是烟花”：被胡塞武装围困的也门城市内的生活",
+      "summary_zh": "奥拉·格林与七名被困在主要城市塔伊兹的人交谈，他们与外界隔绝了数周。"
+    },
+    {
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+      "link": "",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "published": "",
+      "title_zh": "GTA 6 打破纪录，预计销售额突破 23 亿美元",
+      "summary_zh": "Rockstar Games 结束了 13 年的等待，预计将推出有史以来最大规模的娱乐游戏。"
+    },
+    {
+      "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "link": "",
+      "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "published": "",
+      "title_zh": "经过八年的史诗般的航行后，神秘的水星即将迎来一位访客",
+      "summary_zh": "这次任务将为我们提供迄今为止对水星（距离太阳最近的行星）最好的观察。"
+    },
+    {
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "link": "",
+      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "published": "",
+      "title_zh": "英国数万台冰箱在全国范围内进行秘密行动，免受黑客攻击",
+      "summary_zh": "超市、仓库、餐馆和体育场馆一直在努力确保其设备的安全。"
+    },
+    {
+      "title": "How did Anthropic's stock market debut unfold?",
+      "link": "",
+      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "published": "",
+      "title_zh": "Anthropic 的股市首秀是如何展开的？",
+      "summary_zh": "BBC 的萨米拉·侯赛因 (Samira Hussain) 详细介绍了这家人工智能公司上市的第一天，该公司股价收盘上涨 17%。"
+    },
+    {
+      "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+      "link": "",
+      "summary": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+      "published": "",
+      "title_zh": "《饥饿游戏》新演员表示加入该系列“令人伤脑筋”",
+      "summary_zh": "这部前传的故事背景设定在原版《饥饿游戏》电影 24 年前，今天上映。"
+    },
+    {
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "link": "",
+      "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "published": "",
+      "title_zh": "为什么加拿大正在拥抱人工智能数据中心而美国却在抵制",
+      "summary_zh": "Shark Tank 的凯文·奥利里 (Kevin O'Leary) 是将加拿大作为数据中心开发目的地的大型投资者之一，而他的美国项目却面临当地的反对。"
+    },
+    {
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "link": "",
+      "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "published": "",
+      "title_zh": "加孜然的碳酸汽水在印度给可乐巨头带来了一场艰苦的战斗",
+      "summary_zh": "随着对本土口味需求的增加，添加孜然的苏打水在印度占据了更大的市场份额。"
+    },
+    {
+      "title": "Anthony Zurcher: Trilateral summit high on spectacle, short on substance",
+      "link": "",
+      "summary": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
+      "published": "",
+      "title_zh": "安东尼·祖彻：三边峰会充满奇观，但缺乏实质内容",
+      "summary_zh": "历史性的三边会议的视觉效果可能是峰会留下的唯一持久印象。"
+    },
+    {
+      "title": "Weekly quiz: Which star played cricket with Catherine in India?",
+      "link": "",
+      "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+      "published": "",
+      "title_zh": "每周测验：哪位明星在印度与凯瑟琳一起打板球？",
+      "summary_zh": "过去7天里，你对世界上发生的事情有多少关注？"
+    },
+    {
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "link": "",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "published": "",
+      "title_zh": "特朗普追授美国棒球传奇人物皮特·罗斯",
+      "summary_zh": "罗斯于 2024 年去世，因投注比赛而被终身禁止参加这项运动，但去年又被恢复。"
+    },
+    {
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "link": "",
+      "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+      "published": "",
+      "title_zh": "从早产儿到社交媒体明星——著名河马菲奥娜去世",
+      "summary_zh": "这只心爱的河马在吞下一顶不小心掉进辛辛那提动物园围栏的针织帽几天后死亡。"
+    },
+    {
+      "title": "Indonesian daycare principal jailed for five years over child abuse case",
+      "link": "",
+      "summary": "Toddlers were found with their hands and feet tied with rags when police raided the centre in April.",
+      "published": "",
+      "title_zh": "印度尼西亚日托中心校长因虐待儿童案被判入狱五年",
+      "summary_zh": "四月份警方突袭该中心时，发现幼儿的手脚被破布绑着。"
+    },
+    {
+      "title": "California targets Nvidia in China AI chip probe",
+      "link": "",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "published": "",
+      "title_zh": "加州在中国人工智能芯片调查中针对英伟达",
+      "summary_zh": "这家人工智能芯片制造商的全球总部位于加利福尼亚州，该公司在前首席执行官黄仁勋离职后展开了调查。"
+    },
+    {
+      "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+      "link": "",
+      "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+      "published": "",
+      "title_zh": "观看：特朗普、习近平和普京从历史性会晤中得到了什么？",
+      "summary_zh": "特朗普、普京和习近平在历史性的三边会谈后发表了“联合和平宣言”，但他们从会晤中得到了什么？"
+    },
+    {
+      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "link": "",
+      "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+      "published": "",
+      "title_zh": "中国发出富士山警告 失踪登山者家属悬赏",
+      "summary_zh": "陈杰家人悬赏75,000美元，引发了人们对更多鲁莽攀登尝试的担忧。"
+    },
+    {
+      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+      "link": "",
+      "summary": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
+      "published": "",
+      "title_zh": "文化、防守、费尔南德斯——波切蒂诺在曼联的首要任务",
+      "summary_zh": "文化、防守和布鲁诺·费尔南德斯——毛里西奥·波切蒂诺接任曼联主帅后面临的关键问题。"
+    },
+    {
+      "title": "Justice Department seeks dismissal of its lawsuit in Alaska Senate race",
+      "link": "https://www.nbcnews.com/politics/2026-election/doj-seeks-dismissal-lawsuit-alaska-senate-dan-sullivan-mary-peltola-rcna610343",
+      "summary": "",
+      "published": "",
+      "title_zh": "司法部寻求驳回其在阿拉斯加参议院竞选中的诉讼"
+    },
+    {
+      "title": "White House national cyber director is leaving the administration",
+      "link": "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329",
+      "summary": "",
+      "published": "",
+      "title_zh": "White House national cyber director is leaving the administration"
+    },
+    {
+      "title": "‘GTA VI’ goes beyond crime and chaos: Key takeaways after day one of game play",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-release-key-takeaways-game-play-rcna610286",
+      "summary": "",
+      "published": "",
+      "title_zh": "《GTA VI》超越了犯罪和混乱：第一天游戏后的要点"
+    },
+    {
+      "title": "Rainfall supercharged by El Niño floods roads in south Florida",
+      "link": "https://www.nbcnews.com/weather/floods/rainfall-supercharged-el-nino-floods-roads-south-florida-rcna610163",
+      "summary": "",
+      "published": "",
+      "title_zh": "厄尔尼诺现象加剧降雨，导致佛罗里达州南部道路洪水泛滥"
+    },
+    {
+      "title": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+      "link": "https://www.nbcnews.com/world/saudi-arabia/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq-rcna610352",
+      "summary": "",
+      "published": "",
+      "title_zh": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ"
+    },
+    {
+      "title": "Senate passes bill simplifying permitting rules to build in America, sending it to House",
+      "link": "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-bill-simplifying-permitting-rules-build-america-rcna610196",
+      "summary": "",
+      "published": "",
+      "title_zh": "参议院通过简化美国建筑许可规则的法案，并将其提交众议院"
+    },
+    {
+      "title": "Trump’s Air Force One on spy alert after China visit, reporters ordered to seal phones",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普空军一号访华后处于间谍戒备状态，记者被勒令封存手机"
+    },
+    {
+      "title": "MICHAEL RUIZ:Road rage ‘stand your ground’ shooting leads to murder charges",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈克尔·鲁伊斯：​​路怒症“坚守阵地”枪击导致谋杀指控"
+    },
+    {
+      "title": "Trump scores key legal victory in $15 billion lawsuit against New York Times",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Trump scores key legal victory in $15 billion lawsuit against New York Times"
+    },
+    {
+      "title": "Michigan locals sound off on whether town is becoming the next Muslim majority city",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "密歇根当地人质疑该镇是否会成为下一个穆斯林占多数的城市"
+    },
+    {
+      "title": "Trump fires national cyber director as tech outages rattle the country",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Trump fires national cyber director as tech outages rattle the country"
+    },
+    {
+      "title": "Texans linebacker carted off after trainers race to save circulation in his leg",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Texans linebacker carted off after trainers race to save circulation in his leg"
+    },
+    {
+      "title": "Quinnipiac University on lockdown as officials investigate reported threat",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "昆尼皮亚克大学因官员调查报告的威胁而被封锁"
+    },
+    {
+      "title": "ASRA NOMANI:Four activists cuffed outside Nasdaq delivered rehearsed perp-walk lines",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "ASRA NOMANI:Four activists cuffed outside Nasdaq delivered rehearsed perp-walk lines"
+    },
+    {
+      "title": "'Don't let me suffer': Texas inmate's execution lasts over an hour amid IV difficulties",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "“别让我受苦”：得克萨斯州囚犯在静脉注射困难的情况下被处决一个多小时"
+    },
+    {
+      "title": "Valerie Bertinelli sends fans into a frenzy with outfit post: 'Aging backwards'",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "瓦莱丽·贝尔蒂内利 (Valerie Bertinelli) 的着装帖子让粉丝们陷入疯狂：“向后衰老”"
+    },
+    {
+      "title": "State lawmaker’s fresh election victory upended as feds uncover alleged yearlong scheme",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于联邦调查局发现了所谓的为期一年的计划，州立法者的新选举胜利被颠覆"
+    },
+    {
+      "title": "Mike Rowe reveals untold story behind ‘Dirty Jobs’ and ‘Deadliest Catch’ success",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "迈克·罗揭示了《肮脏的工作》和《致命的捕获》成功背后不为人知的故事"
+    },
+    {
+      "title": "JESSE WATTERS:America is having a prepper boom",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰西·沃特斯：美国正在迎来末日准备者热潮"
+    },
+    {
+      "title": "Pro-life group says abortion drug concerns doomed support for Overton FDA bid",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "反堕胎组织表示，堕胎药物问题注定不会支持奥弗顿 FDA 投标"
+    },
+    {
+      "title": "Legendary Las Vegas buffet will shut down for months after rumors swirled of its demise",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "拉斯维加斯传奇自助餐因传言四起而将关闭数月"
+    },
+    {
+      "title": "TUNE IN:First lady Melania Trump joins ‘Fox & Friends’ today at 8AM ET",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "收看：美国东部时间今天上午 8 点，第一夫人梅拉尼娅·特朗普 (Melania Trump) 加入“福克斯与朋友”节目"
+    }
+  ]
+}
