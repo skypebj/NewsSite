@@ -1,20 +1,12 @@
 {
   "date": "20261121",
-  "total": 46,
+  "total": 36,
   "sources": {
-    "cnn": {
+    "theguardian": {
       "status": "ok",
       "entries": 0
     },
     "bbc": {
-      "status": "ok",
-      "entries": 0
-    },
-    "fox": {
-      "status": "ok",
-      "entries": 0
-    },
-    "apnews": {
       "status": "ok",
       "entries": 0
     },
@@ -26,353 +18,291 @@
       "status": "ok",
       "entries": 0
     },
-    "reuters": {
+    "cnn": {
       "status": "ok",
       "entries": 0
     },
-    "theguardian": {
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
       "status": "ok",
       "entries": 0
     }
   },
   "entries": [
     {
-      "title": "Trump threatens ‘tremendous’ penalties on companies that build data centers overseas",
-      "link": "https://www.nbcnews.com/business/corporations/trump-data-centers-overseas-penalties-rcna610445",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普威胁对在海外建设数据中心的公司实施“巨额”处罚"
-    },
-    {
-      "title": "Jensen Huang is out at Nvidia. His children still have prominent roles.",
-      "link": "https://www.nbcnews.com/tech/tech-news/jensen-huang-nvidia-children-madison-spencer-roles-family-wife-rcna610144",
-      "summary": "",
-      "published": "",
-      "title_zh": "黄仁勋 (Jensen Huang) 已离开 Nvidia。他的孩子们仍然扮演着重要的角色。"
-    },
-    {
-      "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
-      "link": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
-      "summary": "",
-      "published": "",
-      "title_zh": "一名男子因在洛杉矶引发致命的帕利塞兹火灾而被判有罪"
-    },
-    {
-      "title": "Senate 2028 presidential prospects divide over energy bill easing rules to build",
-      "link": "https://www.nbcnews.com/politics/2028-election/senate-2028-presidential-prospects-divide-energy-bill-rcna610478",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议院2028年总统前景因能源法案放松规则而存在分歧"
-    },
-    {
-      "title": "Vance sidesteps question on the Iran war, saying, ‘My job is to support the president’",
-      "link": "https://www.nbcnews.com/politics/jd-vance/vance-sidesteps-question-iran-war-saying-job-support-president-rcna610466",
-      "summary": "",
-      "published": "",
-      "title_zh": "万斯回避了有关伊朗战争的问题，称“我的工作是支持总统”"
-    },
-    {
-      "title": "Trump calling Putin ‘my friend’ at APEC summit sparks backlash",
-      "link": "https://www.nbcnews.com/world/europe/trump-friend-greeting-putin-causes-alarm-europe-ukraine-rcna610373",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普在亚太经合组织峰会上称普京为“我的朋友”引发强烈反对"
-    },
-    {
-      "title": "Rikers has a long and sordid history. Mamdani says he’ll close it, but some are skeptical.",
-      "link": "https://www.nbcnews.com/news/us-news/mamdanis-vow-close-rikers-island-jail-rekindles-hope-skepticism-rcna610397",
-      "summary": "",
-      "published": "",
-      "title_zh": "Rikers有着悠久而肮脏的历史。马姆达尼表示他会关闭它，但有些人对此表示怀疑。"
-    },
-    {
-      "title": "New cervical cancer guidance to favor HPV screening over traditional Pap tests",
-      "link": "https://www.nbcnews.com/health/womens-health/cervical-cancer-screening-federal-guidance-hpv-tests-pap-smear-rcna610282",
-      "summary": "",
-      "published": "",
-      "title_zh": "新的宫颈癌指南倾向于 HPV 筛查而不是传统的巴氏涂片检查"
-    },
-    {
-      "title": "Anatomy of a tragedy: Why swallowing a hat proved fatal for Fiona the hippo",
-      "link": "https://www.nbcnews.com/news/us-news/fiona-hippo-death-surgery-rcna610395",
-      "summary": "",
-      "published": "",
-      "title_zh": "悲剧剖析：为什么河马菲奥娜吞下帽子会致命"
-    },
-    {
-      "title": "Sportscasting legend Ernie Johnson on his career, health and life after ‘Inside the NBA’",
-      "link": "https://www.nbcnews.com/video/a-conversation-with-sportscasting-legend-ernie-johnson-273836101731",
-      "summary": "",
-      "published": "",
-      "title_zh": "体育广播传奇人物厄尼·约翰逊在《Inside the NBA》之后谈论他的职业、健康和生活"
-    },
-    {
-      "title": "Vice City is back with ‘GTA VI,’ but some Miami locals have mixed feelings",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/city-back-gta-vi-miami-locals-mixed-feelings-rcna610432",
-      "summary": "",
-      "published": "",
-      "title_zh": "《罪恶都市》带着《GTA VI》回归，但一些迈阿密当地人心情复杂"
-    },
-    {
-      "title": "Verdict reached in retrial of former Uber driver accused in deadly 2025 wildfire",
+      "title": "Lawmakers fear something bigger is brewing after wave of US tech outages: 'Not normal'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被指控在 2025 年致命野火中被控的前 Uber 司机重审判决"
+      "title_zh": "立法者担心美国科技中断浪潮后正在酝酿更大的事情：“不正常”"
     },
     {
-      "title": "Hunters described ‘chills running up and down our backs’ in new federal disclosures",
+      "title": "Millions could face Social Security cuts after Congress ignored decades of warnings: experts",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "猎人在新的联邦披露中描述了“我们背脊发冷”"
+      "title_zh": "专家：国会无视数十年的警告后，数百万人可能面临社会保障削减"
     },
     {
-      "title": "American hero returns home to embrace family at All-American Christmas Tree Lighting",
+      "title": "2028 Dem hopeful’s ‘troubling’ response to auditor’s findings raises red flags",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国英雄回家与家人拥抱全美圣诞树亮灯"
+      "title_zh": "2028 年民主党希望者对审计结果的“令人不安”的反应引发了危险信号"
     },
     {
-      "title": "Trump floats unexpected name as possible presidential candidate in candid moment",
+      "title": "Nick Saban ranks three teams ahead of Alabama as true national title contenders",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在坦诚时刻提出了一个意想不到的总统候选人名字"
+      "title_zh": "尼克·萨班（Nick Saban）将三支球队排在阿拉巴马州之前，成为真正的全国冠军争夺者"
     },
     {
-      "title": "Stock market craters amid AI sell-off, tech outages: 'Wiping out this year's gains'",
+      "title": "Ex-NYPD chief details what could happen if protests turn violent under Mamdani's plan",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "人工智能抛售和技术中断导致股市暴跌：“抹去了今年的涨幅”"
+      "title_zh": "前纽约警察局局长详细介绍了如果抗议活动根据马姆达尼的计划演变为暴力可能会发生什么"
     },
     {
-      "title": "Cincinnati Zoo shares heartbreaking answers after Fiona the hippo’s autopsy",
+      "title": "Nationwide recall hits over 50,000 units of toothpaste and mouthwash",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "辛辛那提动物园在河马菲奥娜尸检后分享了令人心碎的答案"
+      "title_zh": "全国召回超过 50,000 支牙膏和漱口水"
     },
     {
-      "title": "Ravens deactivate NFL star for noticing crime, after woman murdered near home stadium",
+      "title": "Meghan Markle has a ‘credibility problem’ no celebrity blessing can fix, experts say",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "女子在主场附近被谋杀后，乌鸦因发现犯罪而解雇了 NFL 球星"
+      "title_zh": "专家称梅根·马克尔存在“信誉问题”，名人的祝福无法解决"
     },
     {
-      "title": "Charlie Sheen learns famous actor had been praying for him for years",
+      "title": "Utah mommy blogger Ruby Franke's daughter begs parole board not to let her out of prison: 'she is a monster'",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "查理·辛得知著名演员多年来一直在为他祈祷"
+      "title_zh": "犹他州妈妈博主鲁比·弗兰克的女儿请求假释委员会不要让她出狱：“她是一个怪物”"
     },
     {
-      "title": "Carville says Jayapal remark illustrates how far-left misunderstands Dem voters",
+      "title": "Johnson battles ballot challenge as Chicago council votes 45-5 for finance audit",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "卡维尔表示贾亚帕尔的言论说明了极左派如何误解民主党选民"
+      "title_zh": "芝加哥议会以 45 比 5 投票支持财务审计，约翰逊面临投票挑战"
     },
     {
-      "title": "Cruz turns tables on Democrats crying foul over GOP's 11th-hour judicial confirmation blitz",
+      "title": "Kerch crossing strike 'severely' cripples Russia's Crimea resupply,  ex-general warns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "克鲁兹扭转了民主党对共和党第 11 小时司法确认闪电战的不满"
+      "title_zh": "前将军警告说，刻赤渡口罢工“严重”削弱了俄罗斯克里米亚的补给"
     },
     {
-      "title": "JACKSON THOMPSON:SJSU volleyball team collapses following trans scandal",
+      "title": "JESSE WATTERS:Voters already sense the bait and switch",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杰克逊·汤普森：SJSU排球队因跨性别丑闻而崩溃"
+      "title_zh": "杰西·沃特斯：选民已经察觉到了诱饵并开始转变"
     },
     {
-      "title": "Judge decides fate of Alex Murdaugh murder indictment over disputed blood evidence",
+      "title": "Flooding threatens parts of Florida coast as torrential storms begin to ease",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法官就有争议的血迹证据决定亚历克斯·默多谋杀案的命运"
+      "title_zh": "随着暴风雨开始减弱，洪水威胁着佛罗里达州部分海岸"
     },
     {
-      "title": "Trump cuts off reporter mid-question, says she belongs in 'back row' at White House",
+      "title": "LET IT GLOW:All-American Christmas Tree brings holiday cheer to FOX Square",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普在记者提问中打断记者，称她属于白宫“后排”"
+      "title_zh": "让它发光：全美圣诞树为福克斯广场带来节日欢乐"
     },
     {
-      "title": "Jackson 5 icon goes public with stage 4 cancer battle months after onstage fall",
+      "title": "Fitness trainer reveals the simple daily habit Jennifer Aniston swears by",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "杰克逊五世偶像在舞台摔倒几个月后公开与第四阶段癌症斗争"
+      "title_zh": "健身教练揭示了詹妮弗·安妮斯顿发誓的简单日常习惯"
     },
     {
-      "title": "LAURA INGRAHAM:Trump is open to talking to just about anyone",
+      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
       "link": "",
-      "summary": "",
+      "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
       "published": "",
-      "title_zh": "劳拉·英格拉汉姆：特朗普愿意与任何人交谈"
+      "title_zh": "凯瑟琳在 BBC 纪录片中公开谈论癌症如何改变她",
+      "summary_zh": "凯瑟琳在纪录片中说道：“癌症诊断会给你带来更深层次的改变。”"
     },
     {
-      "title": "Sheriff reveals arrested suspects keep returning to ‘gang life’ despite 100 busts",
+      "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
       "link": "",
-      "summary": "",
+      "summary": "The location of the hat and the 2,400-pound animal's anatomy made removal unfeasible, the zoo said.",
       "published": "",
-      "title_zh": "治安官透露，尽管抓获了 100 名犯罪嫌疑人，但被捕嫌疑人仍不断回归“帮派生活”"
+      "title_zh": "辛辛那提动物园表示，摘掉河马菲奥娜体内的帽子是“不可能的”",
+      "summary_zh": "动物园表示，帽子的位置和这只重 2,400 磅的动物的解剖结构使得移除不可行。"
     },
     {
-      "title": "Anthropic co-founder to make large Trump Accounts donation after record IPO, Bessent says",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
       "link": "",
-      "summary": "",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
       "published": "",
-      "title_zh": "Bessent 表示，Anthrotic 联合创始人将在创纪录的 IPO 后向特朗普账户捐款"
+      "title_zh": "洛杉矶帕利塞兹纵火案男子被判有罪",
+      "summary_zh": "这名 30 岁的洛杉矶居民被判犯有导致山火纵火罪，这场山火导致 12 人死亡并摧毁了 6,800 多座建筑物。"
     },
     {
-      "title": "TUNE IN:President Trump joins ‘Saturday in America’ for an exclusive interview",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "link": "",
-      "summary": "",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "published": "",
-      "title_zh": "收看：特朗普总统接受“美国星期六”独家采访"
+      "title_zh": "化石燃料之争使COP31气候谈判陷入僵局",
+      "summary_zh": "来自近 200 个国家的国家在试图达成新的全球气候协议方面陷入僵局。"
     },
     {
-      "title": "Locals cheer Michigan's newest senator who celebrated victory with 'Alhamdulillah'",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "当地人为密歇根州新任参议员欢呼，他用“Alhamdulillah”庆祝胜利"
-    },
-    {
-      "title": "Russian missile hits Poland as allies hold military exercise, says Tusk",
-      "link": "",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "published": "",
-      "title_zh": "图斯克表示，盟友举行军事演习时，俄罗斯导弹袭击了波兰",
-      "summary_zh": "没有人受伤，也没有损失报告，但华沙称这一事件是来自莫斯科的“挑衅”。"
-    },
-    {
-      "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
-      "link": "",
-      "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
-      "published": "",
-      "title_zh": "纽约市长马姆达尼表示，在美国被杀的加纳男孩“应该得到更好的待遇”",
-      "summary_zh": "在上个月被枪杀的 15 岁男孩的葬礼上，马姆达尼与男孩的父亲和民权领袖一起发表了讲话。"
-    },
-    {
-      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "link": "",
       "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
       "published": "",
-      "title_zh": "死去的宠物本来应该被火化，然后他们的尸体出现在直播中",
+      "title_zh": "这些死去的宠物本应被火化，然后他们的尸体出现在直播中",
       "summary_zh": "悲痛的菲律宾人面临着一个令人痛苦的现实：他们的狗和猫可能没有得到他们花钱买的送别礼物。"
     },
     {
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "link": "",
-      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "published": "",
-      "title_zh": "他们因欺骗被拘留的移民而被罚款 8.11 亿美元，但诈骗并没有停止",
-      "summary_zh": "被定罪的欺诈者如何从被拘留的移民中赚取数百万美元，逃避关闭保释业务的努力，并将移民关进监狱。"
-    },
-    {
-      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-      "link": "",
-      "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
-      "published": "",
-      "title_zh": "迈阿密还是罪恶都市？探索 GTA 6 的现实世界灵感",
-      "summary_zh": "BBC News Mundo 的拉斐尔·罗哈斯 (Rafael Rojas) 探访了现实生活中的迈阿密地点，这些地点为《侠盗猎车手 6》的虚构场景《罪恶都市》提供了灵感。"
-    },
-    {
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "link": "",
       "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "published": "",
-      "title_zh": "在人工智能解决数学问题的一年中，人类可能刚刚解决了最大的问题",
+      "title_zh": "在人工智能解决数学问题的一年中，一位人类工作者表示他可能已经破解了最大的数学问题",
       "summary_zh": "Anthropic 的一位数学家表示，他使用人工智能来证明著名的黎曼假设，尽管验证需要一些时间。"
     },
     {
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
       "link": "",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
       "published": "",
-      "title_zh": "凯瑟琳·泽塔-琼斯女儿称父母曾警告过她“nepobaby”标签",
-      "summary_zh": "23 岁的卡丽丝·道格拉斯 (Carys Douglas) 今年在美国首次登台演出，出演安东·契诃夫 (Anton Chekhov) 的戏剧《海鸥》(The Seagull)。"
+      "title_zh": "新的英国与欧盟协议对未来脱欧后关系意味着什么",
+      "summary_zh": "BBC 政治和欧洲编辑分析了英国和欧盟之间的新协议。"
     },
     {
-      "title": "Percy Jackson returns as teen stars adapt to life in the limelight",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
       "link": "",
-      "summary": "Percy Jackson's lead Walker Scobell admits there are ups and downs to fame as the series returns.",
+      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
       "published": "",
-      "title_zh": "波西·杰克逊回归，青少年明星适应聚光灯下的生活",
-      "summary_zh": "波西·杰克逊的主演沃克·斯科贝尔承认，随着该剧的回归，他的名气也经历了起起落落。"
+      "title_zh": "人工智能真的能帮助发现黑色星期五促销吗？我们对其进行了测试",
+      "summary_zh": "我们对四种人工智能模型进行了测试，看看它们是否可以为我们节省购买新电视的费用。"
     },
     {
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "link": "",
-      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-      "published": "",
-      "title_zh": "选举受挫后，非国大努力保持对南非主要城市的控制",
-      "summary_zh": "非国大似乎不愿意在地方层面复制其与亲商DA的国家权力共享协议。"
-    },
-    {
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
       "link": "",
       "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
       "published": "",
-      "title_zh": "新尼泊尔，老邻居——巴伦德拉·沙阿的印度考验",
+      "title_zh": "新尼泊尔，老邻居——巴伦德拉·沙阿首次访问印度进行考验",
       "summary_zh": "当尼泊尔总理会见印度总理时，贸易、互联互通和区域合作将成为首要议题。"
     },
     {
-      "title": "Cost of living protests sweep across Europe",
+      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
       "link": "",
-      "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+      "summary": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
       "published": "",
-      "title_zh": "生活成本抗议席卷欧洲",
-      "summary_zh": "周五，数千人在欧洲城市游行，抗议生活成本和其他问题。"
+      "title_zh": "谁将成为罗伯特·帕丁森的“邦德女郎”——这个角色需要改变吗？",
+      "summary_zh": "帕丁森宣布饰演 007 彻底提升了游戏的档次，评论人士表示，他的女主角需要一个“非常强大的身份”。"
     },
     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "title": "'I was exhausted': Two days in the shoes of a tradwife",
       "link": "",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "summary": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
       "published": "",
-      "title_zh": "特朗普威胁禁止美国公司在海外建设人工智能数据中心",
-      "summary_zh": "美国总统没有提供有关潜在政策的细节，称他的团队中的其他人是第一次听说它。"
+      "title_zh": "“我累坏了”：扮演传统妻子的两天",
+      "summary_zh": "作家兼广播员波比·杰伊 (Poppy Jay) 在一部纪录片中尝试以英国传统妻子的身份生活，并接受了 BBC 新闻采访。"
     },
     {
-      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
       "link": "",
-      "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+      "summary": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
       "published": "",
-      "title_zh": "美国最大的鹅肝农场之一的鸟类在火灾中丧生",
-      "summary_zh": "数百只幼鸟也从火灾中被救出，此时鹅肝因动物福利问题而受到重新审查。"
+      "title_zh": "法官批准农达除草剂癌症索赔 72.5 亿美元和解",
+      "summary_zh": "拜耳将向已经患有非霍奇金淋巴瘤和未来患病的用户支付和解金。"
     },
     {
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "title": "Man guilty of murdering woman he groomed on fetish site",
       "link": "",
-      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
       "published": "",
-      "title_zh": "印度男子因密谋刺杀美国锡克教分裂主义领袖被判19年有期徒刑",
-      "summary_zh": "尼基尔·古普塔 (Nikhil Gupta) 在二月份承认了雇佣谋杀、共谋雇佣谋杀和共谋洗钱罪名。"
+      "title_zh": "男子谋杀了他在恋物癖网站上诱骗的女子",
+      "summary_zh": "德温·霍尔 (Dwain Hall) 被判犯有绑架索尼娅·埃克塞尔比 (Sonia Exelby) 和一级谋杀罪。"
     },
     {
-      "title": "Guests no longer asked to wash up as new Airbnb rules come into force",
+      "title": "Premier League: Man City host Fulham in first of seven games on Saturday",
       "link": "",
-      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "summary": "Follow live as Manchester host Fulham in the first of seven Premier League games on Saturday.",
       "published": "",
-      "title_zh": "爱彼迎新规生效后，房客不再被要求洗手",
-      "summary_zh": "关于 Airbnb 房东可以合理要求房客做什么的新规定可能意味着更少的家务活，但会给顾客带来更高的成本。"
+      "title_zh": "英超联赛：周六七场比赛中的第一场曼城主场迎战富勒姆",
+      "summary_zh": "关注周六曼彻斯特主场迎战富勒姆的英超联赛七场比赛中的第一场比赛的直播。"
     },
     {
-      "title": "Las Vegas Grand Prix final practice before qualifying",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
       "link": "",
-      "summary": "Follow live text updates and listen to BBC Radio 5 Sports Extra commentary of final practice for the Las Vegas Grand Prix.",
+      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
       "published": "",
-      "title_zh": "拉斯维加斯大奖赛排位赛前的最后练习",
-      "summary_zh": "关注实时文本更新并收听 BBC Radio 5 Sports Extra 对拉斯维加斯大奖赛最后练习的评论。"
+      "title_zh": "美国解密更多在中东拍摄的不明飞行物镜头",
+      "summary_zh": "五角大楼发布了第八批 UFO 记录，其中包括 2020 年、2023 年和 2026 年录制的三个视频片段。"
+    },
+    {
+      "title": "Australia's Chaudhary downs England in tetchy first T20",
+      "link": "",
+      "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+      "published": "",
+      "title_zh": "澳大利亚选手乔杜里 (Chaudhary) 在首个 T20 比赛中击败英格兰队",
+      "summary_zh": "不可思议的澳大利亚国脚尼基尔·乔杜里 (Nikhil Chaudhary) 让英格兰队感到不安，并在首个 T20 比赛中取得了紧张而暴躁的最终胜利。"
+    },
+    {
+      "title": "The 2028 Democratic presidential field awaits AOC and Kamala Harris",
+      "link": "https://www.nbcnews.com/politics/2028-election/2028-democratic-field-aoc-kamala-harris-rcna610272",
+      "summary": "",
+      "published": "",
+      "title_zh": "The 2028 Democratic presidential field awaits AOC and Kamala Harris"
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
+      "link": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542",
+      "summary": "",
+      "published": "",
+      "title_zh": "丹麦指责俄罗斯密谋在其领土上杀害乌克兰美国说唱歌手"
+    },
+    {
+      "title": "FBI investigating potential breach of its crime database",
+      "link": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+      "summary": "",
+      "published": "",
+      "title_zh": "联邦调查局正在调查其犯罪数据库可能遭到破坏的情况"
+    },
+    {
+      "title": "An OnlyFans model and her boyfriend had a glamorous life. Now he’s dead — and she’s in prison.",
+      "link": "https://www.nbcnews.com/news/us-news/onlyfans-courtney-clenney-christian-obumseli-death-rcna610149",
+      "summary": "",
+      "published": "",
+      "title_zh": "一位OnlyFans模特和她的男友过着光鲜亮丽的生活。现在他死了——而她进了监狱。"
+    },
+    {
+      "title": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
+      "link": "https://www.nbcnews.com/news/news-quiz/trump-xi-putin-gta-news-quiz-rcna610276",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普称习近平和普京是一个值得注意的词，我们终于得到了《GTA VI》：新闻测验"
+    },
+    {
+      "title": "Giant landscapes simulating the moon and Mars debut in Texas — look inside",
+      "link": "https://www.nbcnews.com/science/space/moon-mars-landscapes-texas-space-institute-nasa-rcna609897",
+      "summary": "",
+      "published": "",
+      "title_zh": "模拟月球和火星的巨型景观在德克萨斯州首次亮相——看看里面"
     }
   ]
 }
