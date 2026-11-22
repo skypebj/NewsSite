@@ -1,0 +1,240 @@
+{
+  "date": "20261122",
+  "total": 27,
+  "sources": {
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Abdul El-Sayed catches president’s attention with pitch for ‘Trumpcare’",
+      "link": "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿卜杜勒·赛义德因宣传“特朗普医改”而引起总统的注意"
+    },
+    {
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-orders-federal-contractors-check-white-house-responding-congress-rcna610622",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普命令联邦承包商在回应国会之前先与白宫核实"
+    },
+    {
+      "title": "Kansas City Current win first NWSL championship, defeating Washington Spirit 2-1",
+      "link": "https://www.nbcnews.com/sports/soccer/kansas-city-current-win-2026-nwsl-championship-beat-washington-spirit-rcna610643",
+      "summary": "",
+      "published": "",
+      "title_zh": "堪萨斯城队以 2-1 击败华盛顿精神队，首次夺得 NWSL 冠军"
+    },
+    {
+      "title": "Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit",
+      "link": "https://www.nbcnews.com/world/europe/facing-economic-pain-russia-threats-uks-burnham-looks-rewrite-brexit-n-rcna610544",
+      "summary": "",
+      "published": "",
+      "title_zh": "面对经济痛苦和俄罗斯威胁，英国伯纳姆寻求改写脱欧方案"
+    },
+    {
+      "title": "Russian strike on Zelenskyy’s hometown kills 2, injures dozens",
+      "link": "https://www.nbcnews.com/world/ukraine/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-2-w-rcna610630",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄罗斯对泽伦斯基家乡的袭击造成2人死亡、数十人受伤"
+    },
+    {
+      "title": "Winning at home in the NFL hasn’t been this difficult in decades",
+      "link": "https://www.nbcnews.com/sports/nfl/winning-home-nfl-hasnt-difficult-decades-rcna610304",
+      "summary": "",
+      "published": "",
+      "title_zh": "几十年来，在 NFL 主场获胜从未如此困难"
+    },
+    {
+      "title": "Immigration officers make arrests at Seattle airport",
+      "link": "https://www.nbcnews.com/news/us-news/immigration-officers-make-arrests-seattle-airport-rcna610647",
+      "summary": "",
+      "published": "",
+      "title_zh": "移民官员在西雅图机场逮捕"
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "published": "",
+      "title_zh": "泽伦斯基表示克里米亚大桥在会见英国议员斯特里廷时得到了“公平的回应”",
+      "summary_zh": "乌克兰总统表示，基辅在俄罗斯对乌克兰桥梁进行 109 次空袭后采取了行动。"
+    },
+    {
+      "title": "Dozens missing after fire at Indonesian factory",
+      "link": "",
+      "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "published": "",
+      "title_zh": "印尼工厂发生火灾 数十人失踪",
+      "summary_zh": "周末一家糖果厂发生火灾，造成至少三人死亡、四人受伤。"
+    },
+    {
+      "title": "Las Vegas GP: Verstappen wins thrilling race after Ferraris collide - reaction",
+      "link": "",
+      "summary": "Follow live text updates and listen to BBC Radio 5 Live commentary of the Las Vegas Grand Prix.",
+      "published": "",
+      "title_zh": "拉斯维加斯大奖赛：法拉利相撞后维斯塔潘赢得激动人心的比赛 - 反应",
+      "summary_zh": "关注实时文本更新并收听 BBC 广播电台 5 拉斯维加斯大奖赛的现场评论。"
+    },
+    {
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "link": "",
+      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "published": "",
+      "title_zh": "尼日利亚年轻人过去已经展现了他们的力量 - 为什么他们没有影响这次选举？",
+      "summary_zh": "登记参加明年选举投票的年轻人比 2023 年要少——年轻人是否对民主失去了信心？"
+    },
+    {
+      "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
+      "link": "",
+      "summary": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
+      "published": "",
+      "title_zh": "菲比·布里杰斯 (Phoebe Bridgers) 在她的演出中禁止使用手机，因此歌迷们用艺术来纪念他们",
+      "summary_zh": "这位美国歌手为演出引入了无电话政策，鼓励歌迷探索他们的艺术才华。"
+    },
+    {
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "link": "",
+      "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "published": "",
+      "title_zh": "雇主被要求提供面试反馈——这就是申请人想要的",
+      "summary_zh": "人们说，他们在申请工作后经常没有任何回复。但雇主是否会被迫对每一位申请人做出回应？"
+    },
+    {
+      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+      "link": "",
+      "summary": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+      "published": "",
+      "title_zh": "BBC 对严格噪音干扰造成的“任何冒犯”表示歉意",
+      "summary_zh": "兰开夏郡警方表示，一部手机已被没收，正在评估是否可能发生任何刑事犯罪。"
+    },
+    {
+      "title": "Verstappen wins extraordinary race as Ferraris collide",
+      "link": "",
+      "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that saw a non-stop battle for the lead for the entire race.",
+      "published": "",
+      "title_zh": "法拉利相撞，维斯塔潘赢得非凡比赛",
+      "summary_zh": "红牛车队的马克斯·维斯塔潘 (Max Verstappen) 赢得了一场非凡的拉斯维加斯大奖赛，整场比赛的领先优势都在激烈的争夺中。"
+    },
+    {
+      "title": "Ireland remind themselves that the best are beatable",
+      "link": "",
+      "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+      "published": "",
+      "title_zh": "爱尔兰提醒自己，最好的人是可以打败的",
+      "summary_zh": "爱尔兰队在都柏林以 20-17 苦战战胜南非队，结束了对世界强队的一系列惨败。"
+    },
+    {
+      "title": "France secure Nations Championship final with Springboks",
+      "link": "",
+      "summary": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+      "published": "",
+      "title_zh": "法国队凭借跳羚队晋级国锦赛决赛",
+      "summary_zh": "法国队将在巴黎对阵阿根廷队，争取下周日在安联体育场对阵南非队的国锦赛决赛席位。"
+    },
+    {
+      "title": "Australia hold on for narrow win against Wales",
+      "link": "",
+      "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+      "published": "",
+      "title_zh": "澳大利亚险胜威尔士",
+      "summary_zh": "威尔士无法效仿他们对阵新西兰的著名胜利，澳大利亚在卡迪夫夺得了国家锦标赛的战利品。"
+    },
+    {
+      "title": "Ty Pennington calls out 'excessive' home renovation trend people do in kitchens",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰·彭宁顿 (Ty Pennington) 指出人们在厨房中进行的“过度”家居装修趋势"
+    },
+    {
+      "title": "Lawmakers fear something bigger is brewing after wave of US tech outages",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "立法者担心美国科技中断浪潮之后正在酝酿更大的事情"
+    },
+    {
+      "title": "Tragedy strikes Ohio baby shower as 3 killed, including expectant father",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄亥俄州迎婴派对发生悲剧，造成 3 人死亡，其中包括准爸爸"
+    },
+    {
+      "title": "Suspect charged in NYC Chinatown fatal beating was arrested 3 times in November",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "纽约唐人街殴打致死案嫌疑人11月被捕3次"
+    },
+    {
+      "title": "Georgia has top CFP seed in sight with dominating road win over No 21 South Carolina",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "乔治亚州客场战胜排名第21的南卡罗来纳州，有望成为CFP头号种子"
+    },
+    {
+      "title": "Judge sentences ex-surgeon to death for 'cold, calculated' murder of Florida lawyer",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前外科医生因“冷酷、有计划”谋杀佛罗里达州律师而被法官判处死刑"
+    },
+    {
+      "title": "Trump opens door to bipartisan deal targeting major cost for Americans",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普为两党达成协议打开了大门，目标是让美国人付出重大代价"
+    },
+    {
+      "title": "Jennifer Aniston’s secret to staying fit at 57 starts with one simple workout routine",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "詹妮弗·安妮斯顿 (Jennifer Aniston) 57 岁保持健康的秘诀从一项简单的日常锻炼开始"
+    },
+    {
+      "title": "'Laverne & Shirley' star Ronny Hallin dead at 88 after decades in TV: report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "报道称，《拉弗恩与雪莉》主演罗尼·哈林去世，享年 88 岁"
+    }
+  ]
+}
