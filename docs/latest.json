@@ -1,6 +1,6 @@
 {
   "date": "20261122",
-  "total": 27,
+  "total": 45,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -37,204 +37,336 @@
   },
   "entries": [
     {
-      "title": "Abdul El-Sayed catches president’s attention with pitch for ‘Trumpcare’",
-      "link": "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
+      "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+      "link": "",
+      "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+      "published": "",
+      "title_zh": "官员称利比亚港口俄罗斯船只爆炸可能由无人机袭击引起",
+      "summary_zh": "利比亚东部竞争对手政府表示正在与俄罗斯合作调查这一事件。"
+    },
+    {
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "link": "",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "published": "",
+      "title_zh": "芬兰湾袭击后开往俄罗斯的船只仍着火",
+      "summary_zh": "芬兰国防军表示，乌克兰很可能是无人机袭击该船的幕后黑手。"
+    },
+    {
+      "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+      "link": "",
+      "summary": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
+      "published": "",
+      "title_zh": "法拉利老板表示汉密尔顿与勒克莱尔的碰撞完全不可接受",
+      "summary_zh": "法拉利车手刘易斯·汉密尔顿（Lewis Hamilton）和查尔斯·勒克莱尔（Charles Leclerc）在拉斯维加斯相撞后，又面临着一场关于他们能否在赛道上干净利落地比赛的激烈讨论。"
+    },
+    {
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "link": "",
+      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "published": "",
+      "title_zh": "美国陆军不顾法院命令在爱荷华州引爆数吨不稳定爆炸物",
+      "summary_zh": "陆军表示，有必要采取“迅速行动”来保护爱荷华州弹药厂周围的人员和附近社区。"
+    },
+    {
+      "title": "Former UK PM May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "link": "",
+      "summary": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+      "published": "",
+      "title_zh": "英国前首相梅对伯纳姆的欧盟计划感到“震惊”并表示“英国脱欧已经完成”",
+      "summary_zh": "这位前首相告诉英国广播公司的劳拉·昆斯伯格：“接受英国脱欧并继续前进。”"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "link": "",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "published": "",
+      "title_zh": "意大利珠宝商兼商人保罗·宝格丽 (Paolo Bulgari) 去世，享年 89 岁",
+      "summary_zh": "在给意大利媒体的一份声明中，他的家人将他视为“我们这个时代最伟大的珠宝商”。"
+    },
+    {
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "link": "",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "published": "",
+      "title_zh": "麦莉·赛勒斯 (Miley Cyrus) 在加州举行婚礼，与 Maxx Morando 结婚",
+      "summary_zh": "这对夫妇已经在一起四年了，并于 2025 年订婚。"
+    },
+    {
+      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+      "link": "",
+      "summary": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+      "published": "",
+      "title_zh": "为什么尼古拉·考夫兰的新剧可能会让观众感到不舒服",
+      "summary_zh": "评论家认为《我是海伦》是必看之作，但演员们不希望观众坐得舒服。"
+    },
+    {
+      "title": "Former UK PMs pile in with advice for Andy Burnham on EU plans, but will he listen?",
+      "link": "",
+      "summary": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
+      "published": "",
+      "title_zh": "英国前首相纷纷就欧盟计划向安迪·伯纳姆提出建议，但他会听吗？",
+      "summary_zh": "特蕾莎·梅、戴维·卡梅伦和托尼·布莱尔都对伯纳姆向欧盟靠拢的计划发表了意见，但首相的信息本身并不十分准确。"
+    },
+    {
+      "title": "The real people finding their work copied and stolen by AI characters",
+      "link": "",
+      "summary": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
+      "published": "",
+      "title_zh": "真实的人们发现他们的作品被人工智能角色复制和窃取",
+      "summary_zh": "音乐家、喜剧演员和舞者都发现他们的视频被人工智能生成的角色克隆了。"
+    },
+    {
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "link": "",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "published": "",
+      "title_zh": "美国前总统乔治·华盛顿的一缕头发售价4000美元",
+      "summary_zh": "据这头头发前主人的后裔称，这头头发是在 1799 年华盛顿去世前不久赠送的，作为友谊的象征。"
+    },
+    {
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "link": "",
+      "summary": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+      "published": "",
+      "title_zh": "阿根廷中场帕雷德斯在电视采访中倒地",
+      "summary_zh": "世界杯冠军中场球员莱安德罗·帕雷德斯在随博卡青年队赢得奖杯后几分钟接受赛后采访时晕倒。"
+    },
+    {
+      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "link": "",
+      "summary": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
+      "published": "",
+      "title_zh": "“他会看到曼联的实力”——普利斯谈波切蒂诺的第一场比赛",
+      "summary_zh": "BBC 体育专栏作家托尼·普利斯解释了曼联新任主帅毛里西奥·波切蒂诺在与球队呆了几天后将如何准备周日对阵利物浦的比赛。"
+    },
+    {
+      "title": "Watch WSL: Arsenal hit post against West Ham, Charlton get first point of season",
+      "link": "",
+      "summary": "Watch BBC Two coverage of Arsenal against West Ham, plus live text updates from two games in the Women's Super League.",
+      "published": "",
+      "title_zh": "观看 WSL：阿森纳对阵西汉姆联的比赛中击中门柱，查尔顿获得赛季首分",
+      "summary_zh": "观看 BBC 二台对阿森纳对阵西汉姆联的报道，以及女子超级联赛两场比赛的实时文字更新。"
+    },
+    {
+      "title": "Grand Slam of Darts: Van Veen beats Van Gerwen to set up Price final",
+      "link": "",
+      "summary": "Follow live text updates as Michael van Gerwen plays Gian van Veen, with Gerwyn Price waiting in the Grand Slam of Darts final.",
+      "published": "",
+      "title_zh": "飞镖大满贯：范维恩击败范格文进入普赖斯决赛",
+      "summary_zh": "关注迈克尔·范·格文 (Michael van Gerwen) 对阵吉安·范·维恩 (Gian van Veen) 的实时文字更新，格温·普莱斯 (Gerwyn Price) 在飞镖大满贯决赛中等待。"
+    },
+    {
+      "title": "Premier League: McBurnie scores stoppage-time double as Hull stun Brighton",
+      "link": "",
+      "summary": "Reaction as Oli McBurnie scores twice in stoppage time as Hull beat high-flying Brighton in the Premier League.",
+      "published": "",
+      "title_zh": "英超联赛：赫尔城击败布莱顿，麦克伯尼补时梅开二度",
+      "summary_zh": "奥利·麦克伯尼 (Oli McBurnie) 在补时阶段梅开二度，帮助赫尔城 (Hull) 在英超联赛中击败了雄心勃勃的布莱顿 (Brighton)。"
+    },
+    {
+      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+      "link": "",
+      "summary": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
+      "published": "",
+      "title_zh": "维斯塔潘在混乱中保持稳定，他说拉塞尔“远远低于我的水平”",
+      "summary_zh": "马克斯·维斯塔潘 (Max Verstappen) 是拉斯维加斯大奖赛中的明星人物，这场比赛不同于 70 岁以下年轻人所见过的任何 F1 比赛。"
+    },
+    {
+      "title": "Sen.-elect Abdul El-Sayed says he’s open to working with the Trump administration",
+      "link": "https://www.nbcnews.com/politics/congress/abdul-el-sayed-open-working-trump-administration-healthcare-medicare-rcna610664",
       "summary": "",
       "published": "",
-      "title_zh": "阿卜杜勒·赛义德因宣传“特朗普医改”而引起总统的注意"
+      "title_zh": "当选参议员阿卜杜勒·赛义德表示他愿意与特朗普政府合作"
     },
     {
-      "title": "Trump orders federal contractors to check with White House before responding to Congress",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-orders-federal-contractors-check-white-house-responding-congress-rcna610622",
+      "title": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for Senate majority leader",
+      "link": "https://www.nbcnews.com/meet-the-press/video/chris-van-hollen-says-democrats-won-t-gain-americans-trust-by-going-back-to-business-as-usual-273979461990",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普命令联邦承包商在回应国会之前先与白宫核实"
+      "title_zh": "参议员克里斯·范·霍伦 (Chris Van Hollen) 表示，在参议院多数党领袖的争夺中，“势头正朝着我们的方向发展”"
     },
     {
-      "title": "Kansas City Current win first NWSL championship, defeating Washington Spirit 2-1",
-      "link": "https://www.nbcnews.com/sports/soccer/kansas-city-current-win-2026-nwsl-championship-beat-washington-spirit-rcna610643",
+      "title": "From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over",
+      "link": "https://www.nbcnews.com/world/europe/ship-strikes-assassination-plots-war-ukraine-increasingly-spilling-rcna610655",
       "summary": "",
       "published": "",
-      "title_zh": "堪萨斯城队以 2-1 击败华盛顿精神队，首次夺得 NWSL 冠军"
+      "title_zh": "从船只袭击到暗杀阴谋，乌克兰战争日益蔓延"
     },
     {
-      "title": "Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit",
-      "link": "https://www.nbcnews.com/world/europe/facing-economic-pain-russia-threats-uks-burnham-looks-rewrite-brexit-n-rcna610544",
+      "title": "Palestinians in Gaza brace for brutal winter amid Israeli aid restrictions, funding shortfalls",
+      "link": "https://www.nbcnews.com/world/middle-east/displaced-palestinians-brace-brutal-winter-israels-aid-restrictions-fu-rcna609559",
       "summary": "",
       "published": "",
-      "title_zh": "面对经济痛苦和俄罗斯威胁，英国伯纳姆寻求改写脱欧方案"
+      "title_zh": "由于以色列的援助限制和资金短缺，加沙的巴勒斯坦人准备迎接残酷的冬天"
     },
     {
-      "title": "Russian strike on Zelenskyy’s hometown kills 2, injures dozens",
-      "link": "https://www.nbcnews.com/world/ukraine/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-2-w-rcna610630",
+      "title": "COP31 climate talks break down after angry dispute over fossil fuels",
+      "link": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
       "summary": "",
       "published": "",
-      "title_zh": "俄罗斯对泽伦斯基家乡的袭击造成2人死亡、数十人受伤"
+      "title_zh": "COP31气候谈判因化石燃料引发激烈争论而破裂"
     },
     {
-      "title": "Winning at home in the NFL hasn’t been this difficult in decades",
-      "link": "https://www.nbcnews.com/sports/nfl/winning-home-nfl-hasnt-difficult-decades-rcna610304",
+      "title": "When outages hit, consumers have rights. Here’s how to get reimbursed.",
+      "link": "https://www.nbcnews.com/business/consumer/outages-consumers-rights-need-know-rcna610475",
       "summary": "",
       "published": "",
-      "title_zh": "几十年来，在 NFL 主场获胜从未如此困难"
+      "title_zh": "当停电发生时，消费者有权利。以下是如何获得报销。"
     },
     {
-      "title": "Immigration officers make arrests at Seattle airport",
-      "link": "https://www.nbcnews.com/news/us-news/immigration-officers-make-arrests-seattle-airport-rcna610647",
+      "title": "Jennifer Garner on her time in Hollywood and building a baby food empire",
+      "link": "https://www.nbcnews.com/video/jennifer-garner-on-her-time-in-hollywood-and-becoming-co-founder-of-once-upon-a-farm-273864261971",
       "summary": "",
       "published": "",
-      "title_zh": "移民官员在西雅图机场逮捕"
+      "title_zh": "詹妮弗·加纳 (Jennifer Garner) 讲述她在好莱坞的时光和建立婴儿食品帝国的经历"
     },
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "link": "",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "title": "A tale of two cities: How Shenzhen and Hong Kong reflect China’s future",
+      "link": "https://www.nbcnews.com/world/asia/hong-kong-shenzhen-chinas-silicon-valley-beijings-grip-are-reshaping-r-rcna608954",
+      "summary": "",
       "published": "",
-      "title_zh": "泽伦斯基表示克里米亚大桥在会见英国议员斯特里廷时得到了“公平的回应”",
-      "summary_zh": "乌克兰总统表示，基辅在俄罗斯对乌克兰桥梁进行 109 次空袭后采取了行动。"
+      "title_zh": "两个城市的故事：深圳和香港如何反映中国的未来"
     },
     {
-      "title": "Dozens missing after fire at Indonesian factory",
-      "link": "",
-      "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+      "link": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+      "summary": "",
       "published": "",
-      "title_zh": "印尼工厂发生火灾 数十人失踪",
-      "summary_zh": "周末一家糖果厂发生火灾，造成至少三人死亡、四人受伤。"
+      "title_zh": "普林斯顿大学神经科学家离开会议后在华盛顿机场被 ICE 拘留"
     },
     {
-      "title": "Las Vegas GP: Verstappen wins thrilling race after Ferraris collide - reaction",
-      "link": "",
-      "summary": "Follow live text updates and listen to BBC Radio 5 Live commentary of the Las Vegas Grand Prix.",
-      "published": "",
-      "title_zh": "拉斯维加斯大奖赛：法拉利相撞后维斯塔潘赢得激动人心的比赛 - 反应",
-      "summary_zh": "关注实时文本更新并收听 BBC 广播电台 5 拉斯维加斯大奖赛的现场评论。"
-    },
-    {
-      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-      "link": "",
-      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
-      "published": "",
-      "title_zh": "尼日利亚年轻人过去已经展现了他们的力量 - 为什么他们没有影响这次选举？",
-      "summary_zh": "登记参加明年选举投票的年轻人比 2023 年要少——年轻人是否对民主失去了信心？"
-    },
-    {
-      "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
-      "link": "",
-      "summary": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
-      "published": "",
-      "title_zh": "菲比·布里杰斯 (Phoebe Bridgers) 在她的演出中禁止使用手机，因此歌迷们用艺术来纪念他们",
-      "summary_zh": "这位美国歌手为演出引入了无电话政策，鼓励歌迷探索他们的艺术才华。"
-    },
-    {
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "link": "",
-      "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-      "published": "",
-      "title_zh": "雇主被要求提供面试反馈——这就是申请人想要的",
-      "summary_zh": "人们说，他们在申请工作后经常没有任何回复。但雇主是否会被迫对每一位申请人做出回应？"
-    },
-    {
-      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-      "link": "",
-      "summary": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-      "published": "",
-      "title_zh": "BBC 对严格噪音干扰造成的“任何冒犯”表示歉意",
-      "summary_zh": "兰开夏郡警方表示，一部手机已被没收，正在评估是否可能发生任何刑事犯罪。"
-    },
-    {
-      "title": "Verstappen wins extraordinary race as Ferraris collide",
-      "link": "",
-      "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that saw a non-stop battle for the lead for the entire race.",
-      "published": "",
-      "title_zh": "法拉利相撞，维斯塔潘赢得非凡比赛",
-      "summary_zh": "红牛车队的马克斯·维斯塔潘 (Max Verstappen) 赢得了一场非凡的拉斯维加斯大奖赛，整场比赛的领先优势都在激烈的争夺中。"
-    },
-    {
-      "title": "Ireland remind themselves that the best are beatable",
-      "link": "",
-      "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
-      "published": "",
-      "title_zh": "爱尔兰提醒自己，最好的人是可以打败的",
-      "summary_zh": "爱尔兰队在都柏林以 20-17 苦战战胜南非队，结束了对世界强队的一系列惨败。"
-    },
-    {
-      "title": "France secure Nations Championship final with Springboks",
-      "link": "",
-      "summary": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
-      "published": "",
-      "title_zh": "法国队凭借跳羚队晋级国锦赛决赛",
-      "summary_zh": "法国队将在巴黎对阵阿根廷队，争取下周日在安联体育场对阵南非队的国锦赛决赛席位。"
-    },
-    {
-      "title": "Australia hold on for narrow win against Wales",
-      "link": "",
-      "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
-      "published": "",
-      "title_zh": "澳大利亚险胜威尔士",
-      "summary_zh": "威尔士无法效仿他们对阵新西兰的著名胜利，澳大利亚在卡迪夫夺得了国家锦标赛的战利品。"
-    },
-    {
-      "title": "Ty Pennington calls out 'excessive' home renovation trend people do in kitchens",
+      "title": "Dem governor slams ICE after plane passenger allegedly chucks hot coffee at agents on jetway",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰·彭宁顿 (Ty Pennington) 指出人们在厨房中进行的“过度”家居装修趋势"
+      "title_zh": "据称，飞机乘客向登机道上的特工扔热咖啡，民主党州长猛烈抨击 ICE"
     },
     {
-      "title": "Lawmakers fear something bigger is brewing after wave of US tech outages",
+      "title": "Illegal immigrant avoids charges after grandma killed outside store, enraging family",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "立法者担心美国科技中断浪潮之后正在酝酿更大的事情"
+      "title_zh": "奶奶在商店外被杀，激怒了家人，非法移民避免了指控"
     },
     {
-      "title": "Tragedy strikes Ohio baby shower as 3 killed, including expectant father",
+      "title": "Farmer watches apex predator slaughter his animals, says law leaves him helpless to end it",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "俄亥俄州迎婴派对发生悲剧，造成 3 人死亡，其中包括准爸爸"
+      "title_zh": "农民眼睁睁地看着顶级掠食者屠杀他的动物，称法律让他无能为力结束这一切"
     },
     {
-      "title": "Suspect charged in NYC Chinatown fatal beating was arrested 3 times in November",
+      "title": "College football turns into a Big Ten disaster with brutal CFP consequences",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "纽约唐人街殴打致死案嫌疑人11月被捕3次"
+      "title_zh": "大学橄榄球变成了十大灾难，带来了残酷的 CFP 后果"
     },
     {
-      "title": "Georgia has top CFP seed in sight with dominating road win over No 21 South Carolina",
+      "title": "Linda Evans was 'devastated' after husband John Derek left her for 16-year-old actress",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乔治亚州客场战胜排名第21的南卡罗来纳州，有望成为CFP头号种子"
+      "title_zh": "琳达·埃文斯 (Linda Evans) 因丈夫约翰·德里克 (John Derek) 为了 16 岁的女演员而离开她后感到“震惊”"
     },
     {
-      "title": "Judge sentences ex-surgeon to death for 'cold, calculated' murder of Florida lawyer",
+      "title": "Tom Jackson, Broncos’ Orange Crush linebacker and ESPN legend, dead at 75",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前外科医生因“冷酷、有计划”谋杀佛罗里达州律师而被法官判处死刑"
+      "title_zh": "野马队 Orange Crush 线卫、ESPN 传奇人物汤姆·杰克逊 (Tom Jackson) 去世，享年 75 岁"
     },
     {
-      "title": "Trump opens door to bipartisan deal targeting major cost for Americans",
+      "title": "Math’s most famous unsolved problem may have just been solved",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普为两党达成协议打开了大门，目标是让美国人付出重大代价"
+      "title_zh": "数学最著名的未解决问题可能刚刚被解决"
     },
     {
-      "title": "Jennifer Aniston’s secret to staying fit at 57 starts with one simple workout routine",
+      "title": "Obama-era solar scandal could net taxpayers $1 billion — even as Trump's DOJ fights to stop it",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "詹妮弗·安妮斯顿 (Jennifer Aniston) 57 岁保持健康的秘诀从一项简单的日常锻炼开始"
+      "title_zh": "奥巴马时代的太阳能丑闻可能让纳税人净损失 10 亿美元——尽管特朗普的司法部极力阻止它"
     },
     {
-      "title": "'Laverne & Shirley' star Ronny Hallin dead at 88 after decades in TV: report",
+      "title": "Iconic MTV star turns 60, shares her no-guilt approach to fitness, food and aging well",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "报道称，《拉弗恩与雪莉》主演罗尼·哈林去世，享年 88 岁"
+      "title_zh": "MTV 标志性明星 60 岁生日，分享她对健身、饮食和衰老的无愧态度"
+    },
+    {
+      "title": "Rep calls leftist push to abolish ICE, establish reparations 'crazy' as caucus fractures",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "党团分裂，众议员称左派推动废除 ICE、建立赔偿“疯狂”"
+    },
+    {
+      "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "弗拉维奥·博尔索纳罗声称巴西大选失败后仅 7 分钟法官就下令扣押护照"
+    },
+    {
+      "title": "Happy Valley rocked as massive underdog walks out of Beaver Stadium victorious",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "欢乐谷震撼，大量失败者走出海狸体育场胜利"
+    },
+    {
+      "title": "Bargain hunters just propelled sales for one retailer — and now it’s opening 115 new stores",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "讨价还价者刚刚推动了一家零售商的销售——现在该公司新开了 115 家商店"
+    },
+    {
+      "title": "SPEAK UP:How has the recent ground stop changed your Thanksgiving travel plans?",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "说出来：最近的地面停留如何改变了您的感恩节旅行计划？"
+    },
+    {
+      "title": "See Fiona the hippo grow from a fragile baby into a Cincinnati Zoo superstar",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "观看河马菲奥娜从脆弱的婴儿成长为辛辛那提动物园的超级明星"
+    },
+    {
+      "title": "Daniel Jones blindsided by release after being assured he was staying, source says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "消息人士称，丹尼尔·琼斯在确信自己会留下来后突然被释放"
+    },
+    {
+      "title": "6 retro Thanksgiving dishes now disappearing as American tastes change",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着美国人口味的变化，6 种复古感恩节菜肴现已消失"
+    },
+    {
+      "title": "MATT CALKINS:Clowning on Caucasians has become so routine that nobody bats an eye",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马特·卡尔金斯：对白人进行小丑表演已经变得司空见惯，没人会眨眼睛"
+    },
+    {
+      "title": "Shane Beamer nixes LaNorris Sellers' recognition on senior night with unusual reasoning",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "肖恩·比默 (Shane Beamer) 在高年级之夜以不寻常的理由拒绝了拉诺里斯·塞勒斯 (LaNorris Sellers) 的认可"
     }
   ]
 }
