@@ -1,6 +1,6 @@
 {
   "date": "20261123",
-  "total": 36,
+  "total": 43,
   "sources": {
     "cnn": {
       "status": "ok",
@@ -37,265 +37,323 @@
   },
   "entries": [
     {
-      "title": "Democrats win the largest House majority since 1992",
-      "link": "https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "link": "",
+      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "published": "",
+      "title_zh": "泽连斯基称俄罗斯军舰在利比亚被乌克兰无人机击中",
+      "summary_zh": "克里姆林宫警告“该地区紧张局势升级”，但拒绝直接评论利比亚的袭击事件。"
+    },
+    {
+      "title": "Police investigate unknown substance that caused chaos at US rapper's UK concert",
+      "link": "",
+      "summary": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig.",
+      "published": "",
+      "title_zh": "警方调查导致美国说唱歌手英国演唱会混乱的不明物质",
+      "summary_zh": "人们描述说，当他们从唐·托利弗的演出现场撤离时，听到了“可怕的气味”并听到了尖叫声。"
+    },
+    {
+      "title": "Seattle airport operator 'outraged' over ICE arrest of two passengers",
+      "link": "",
+      "summary": "ICE said a man and a woman, who are said to be father and daughter and both Mexican nationals, were arrested for allegedly overstaying their visas.",
+      "published": "",
+      "title_zh": "西雅图机场运营商对 ICE 逮捕两名乘客感到“愤怒”",
+      "summary_zh": "ICE 表示，一男一女据称是父女，均为墨西哥国民，因涉嫌签证逾期而被捕。"
+    },
+    {
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "link": "",
+      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "published": "",
+      "title_zh": "乌克兰分享袭击利比亚附近俄罗斯船只的视频",
+      "summary_zh": "泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也被击沉。"
+    },
+    {
+      "title": "Five takeaways from the failed climate talks COP31",
+      "link": "",
+      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "published": "",
+      "title_zh": "COP31 气候谈判失败的五个要点",
+      "summary_zh": "在安塔利亚举行的 COP31 峰会是联合国历史上持续时间最长的气候谈判。"
+    },
+    {
+      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "link": "",
+      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+      "published": "",
+      "title_zh": "“我想摧毁资本主义，而不是法国”：法国极左分子走上街头",
+      "summary_zh": "BBC 会见了极左抗议者，法国总统埃马纽埃尔·马克龙称他们试图推翻共和国。"
+    },
+    {
+      "title": "British heavyweight boxer Tyson Fury reveals schizophrenia diagnosis",
+      "link": "",
+      "summary": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
+      "published": "",
+      "title_zh": "英国重量级拳击手泰森·弗瑞确诊患有精神分裂症",
+      "summary_zh": "泰森·弗瑞 (Tyson Fury) 描述说，2015 年他精神崩溃时，他听到了脑海中的声音，同时他还被诊断出患有双相情感障碍。"
+    },
+    {
+      "title": "Tips on how to get along with your ex's previous and new partners",
+      "link": "",
+      "summary": "Expert tips on how to get along with the mums and dads of your child's half-siblings.",
+      "published": "",
+      "title_zh": "关于如何与前任和新伴侣相处的技巧",
+      "summary_zh": "关于如何与孩子同父异母兄弟姐妹的父母相处的专家建议。"
+    },
+    {
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "link": "",
+      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "published": "",
+      "title_zh": "一名青少年游戏玩家和他的母亲如何帮助营救失踪的女孩",
+      "summary_zh": "当 16 岁的兰登·特雷普 (Landon Tresp) 在一款网络游戏中遇到一名十几岁的女孩时，他和他的母亲帮助联邦调查局 (FBI) 将她从绑架中解救出来。"
+    },
+    {
+      "title": "Who is taking part in France's recent street protests?",
+      "link": "",
+      "summary": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
+      "published": "",
+      "title_zh": "谁参加了法国最近的街头抗议活动？",
+      "summary_zh": "马克龙总统将骚乱归咎于激进左派，但抗议者是谁？他们为何而战？"
+    },
+    {
+      "title": "What six grazing horses tell us about England's housing crisis",
+      "link": "",
+      "summary": "⁠In Middlesbrough, York and Kent, the BBC sees why successive governments have failed to build enough homes.",
+      "published": "",
+      "title_zh": "六匹放牧的马告诉我们什么关于英格兰的住房危机",
+      "summary_zh": "在米德尔斯堡、约克和肯特，英国广播公司了解了为什么历届政府未能建造足够的住房。"
+    },
+    {
+      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "link": "",
+      "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "published": "",
+      "title_zh": "餐饮巨头将主要股票转移到美国上市，进一步打击英国",
+      "summary_zh": "近年来，越来越多的公司离开英国前往美国上市。"
+    },
+    {
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "link": "",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "published": "",
+      "title_zh": "GTA 6 黑客获得许可并警告“不要让这种情况再次发生”",
+      "summary_zh": "21 岁的 Arion Kurtaj 承认了他青少年时期实施的 Rockstar Games 黑客攻击和其他行为。"
+    },
+    {
+      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "link": "",
+      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "published": "",
+      "title_zh": "尼日利亚领导人称总统别墅停水停电",
+      "summary_zh": "博拉·蒂努布说，上周他正在刮胡子，突然停水——这种经历对许多尼日利亚人来说都很熟悉。"
+    },
+    {
+      "title": "Arteta news conference: Raya injury 'doesn't look too serious' despite missing training",
+      "link": "",
+      "summary": "All the latest from Champions League news conferences as Unai Emery, Mikel Arteta and Enzo Maresca speak to the media.",
+      "published": "",
+      "title_zh": "阿尔特塔新闻发布会：尽管缺席训练，拉亚伤势“看起来并不太严重”",
+      "summary_zh": "乌奈·埃梅里、米克尔·阿尔特塔和恩佐·马雷斯卡向媒体发表了欧冠新闻发布会的所有最新消息。"
+    },
+    {
+      "title": "Fury reveals schizophrenia diagnosis",
+      "link": "",
+      "summary": "Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.",
+      "published": "",
+      "title_zh": "愤怒揭示了精神分裂症的诊断",
+      "summary_zh": "泰森·弗瑞 (Tyson Fury) 描述说，2015 年他精神崩溃时，他听到了脑海中的声音，同时他还被诊断出患有双相情感障碍。"
+    },
+    {
+      "title": "Morocco and Senegal await Afcon final verdict after court case",
+      "link": "",
+      "summary": "The Court of Arbitration for Sport is set to rule on the decision to strip Senegal of the Afcon 2025 title.",
+      "published": "",
+      "title_zh": "摩洛哥和塞内加尔等待法庭案件后非洲杯的最终裁决",
+      "summary_zh": "体育仲裁法院将对剥夺塞内加尔 2025 年非洲杯冠军头衔的决定做出裁决。"
+    },
+    {
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "link": "",
+      "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+      "published": "",
+      "title_zh": "混乱的一周、噩梦般的开始以及对波切蒂诺的巨大现实检验",
+      "summary_zh": "西蒙·斯通写道，毛里西奥·波切蒂诺作为曼联主帅的统治几乎没有比这更严厉的开端了。"
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO",
+      "link": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
       "summary": "",
       "published": "",
-      "title_zh": "民主党赢得自1992年以来最大的众议院多数席位"
+      "title_zh": "Nvidia 恢复黄仁勋担任首席执行官"
     },
     {
-      "title": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in majority leader battle",
-      "link": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
+      "title": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel",
+      "link": "https://www.nbcnews.com/news/us-news/rough-weather-expected-hit-both-coasts-may-disrupt-thanksgiving-travel-rcna610778",
       "summary": "",
       "published": "",
-      "title_zh": "参议员克里斯·范·霍伦 (Chris Van Hollen) 表示，多数党领袖之战“势头向我们的方向发展”"
+      "title_zh": "恶劣天气预计将袭击两岸，可能会扰乱感恩节旅行"
     },
     {
-      "title": "Sen. John Kennedy: If Lutnick is giving AI chips away to China, ‘he needs to stop’",
-      "link": "https://www.nbcnews.com/meet-the-press/video/john-kennedy-if-howard-lutnick-is-giving-ai-chips-away-to-china-he-needs-to-stop-273979973777",
+      "title": "Democrats look to 2027 races for governor to build on gains in the South",
+      "link": "https://www.nbcnews.com/politics/elections/democrats-look-2027-races-governor-build-gains-south-rcna610220",
       "summary": "",
       "published": "",
-      "title_zh": "参议员约翰·肯尼迪：如果卢特尼克向中国赠送人工智能芯片，“他需要停止”"
+      "title_zh": "民主党期待 2027 年州长竞选能够在南方取得进展的基础上再接再厉"
     },
     {
-      "title": "Delta restores system after nationwide flight delays as Thanksgiving travel begins",
-      "link": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+      "title": "Democratic National Committee sets broad rules for the party’s 2028 presidential debates",
+      "link": "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439",
       "summary": "",
       "published": "",
-      "title_zh": "感恩节旅行开始之际，达美航空在全国航班延误后恢复了系统"
+      "title_zh": "民主党全国委员会为该党 2028 年总统辩论制定广泛规则"
     },
     {
-      "title": "California prepares for flooding as king tides and storms threaten Thanksgiving week",
-      "link": "https://www.nbcnews.com/news/us-news/california-prepares-flooding-rain-wind-thanksgiving-approaches-rcna610537",
+      "title": "Ukraine sinks Russian warship off Libya in latest expansion of the war",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-sinks-russian-warship-merkury-libya-naval-drones-war-rcna610822",
       "summary": "",
       "published": "",
-      "title_zh": "由于大潮和风暴威胁感恩节周，加州准备应对洪水"
+      "title_zh": "乌克兰在利比亚附近击沉俄罗斯军舰，这是战争的最新扩展"
     },
     {
-      "title": "Trump hosts exclusive dinner for investors in his declining meme coin",
-      "link": "https://www.nbcnews.com/politics/donald-trump/trump-hosts-exclusive-dinner-investors-declining-meme-coin-rcna610757",
+      "title": "Father and daughter detained by ICE at airport were traveling to family baptism, lawyer says",
+      "link": "https://www.nbcnews.com/news/us-news/father-daughter-detained-ice-seattle-airport-traveling-family-baptism-rcna610824",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普用他不断下滑的模因币为投资者举办独家晚宴"
+      "title_zh": "律师称，被 ICE 在机场拘留的父女当时正在前往家庭洗礼"
     },
     {
-      "title": "Here’s the biggest news you missed this weekend",
-      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-22-rcna610436",
+      "title": "Amazon and eBay urged to stop selling AI toys as some are pulled from sale",
+      "link": "https://www.nbcnews.com/tech/tech-news/ai-toy-amazon-ebay-buy-rcna610812",
       "summary": "",
       "published": "",
-      "title_zh": "这是您本周末错过的最大新闻"
+      "title_zh": "亚马逊和 eBay 敦促停止销售人工智能玩具，部分产品已下架"
     },
     {
-      "title": "Tarik Skubal agrees to record $450 million, 9-year contract with Mets, per reports",
-      "link": "https://www.nbcnews.com/sports/mlb/tarik-skubal-agrees-record-450-million-9-year-contract-new-york-mets-rcna610770",
+      "title": "Crowd evacuated from U.S. rapper Don Toliver’s concert after ‘unknown substance’ released",
+      "link": "https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820",
       "summary": "",
       "published": "",
-      "title_zh": "据报道，塔里克·斯库巴尔（Tarik Skubal）同意与大都会队签订创纪录的 4.5 亿美元、为期 9 年的合同"
+      "title_zh": "美国说唱歌手唐·托利弗 (Don Toliver) 演唱会释放“不明物质”后，人群撤离"
     },
     {
-      "title": "Iran's reported 14-tanker convoy could spark a wider Gulf war, analyst cautions",
-      "link": "",
+      "title": "Inside the Karen Read murder trials and her acquittal",
+      "link": "https://www.nbcnews.com/news/us-news/karen-read-retrial-john-okeefe-explained-rcna610411",
       "summary": "",
       "published": "",
-      "title_zh": "分析师警告称，伊朗报道的 14 艘油轮护航可能引发更广泛的海湾战争"
+      "title_zh": "凯伦·里德谋杀案审判和她无罪释放的内幕"
     },
     {
-      "title": "Dems put exclamation point on overwhelming midterm victory by ousting GOP heavyweight",
-      "link": "",
+      "title": "NFL Week 11: A Travis Kelce game years in the making, and Dak Prescott keeps dealing",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-week-11-travis-kelce-chiefs-dak-prescott-cowboys-rcna610773",
       "summary": "",
       "published": "",
-      "title_zh": "民主党通过驱逐共和党重量级人物，为中期选举的压倒性胜利打上感叹号"
+      "title_zh": "NFL 第 11 周：特拉维斯·凯尔斯 (Travis Kelce) 的比赛酝酿多年，达克·普雷斯科特 (Dak Prescott) 不断发牌"
     },
     {
-      "title": "Common sleep habit linked to 50% higher death risk in heart patients, recent study finds",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "最近的研究发现，常见的睡眠习惯会使心脏病患者的死亡风险增加 50%"
-    },
-    {
-      "title": "Judge’s ruling could lead to major Ilhan Omar revelations—here’s what to expect",
+      "title": "Nvidia reinstates Jensen Huang as CEO following national security review",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "法官的裁决可能会导致伊尔汗·奥马尔的重大泄密——以下是我们所期待的"
+      "title_zh": "国家安全审查后，英伟达恢复黄仁勋首席执行官职务"
     },
     {
-      "title": "Barbara Eden says iconic TV couple should never have married",
+      "title": "Convicted murderer in college freshman's killing quietly walks free",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "芭芭拉·伊登 (Barbara Eden) 表示标志性的电视情侣永远不应该结婚"
+      "title_zh": "杀害大学新生的凶手悄然无罪释放"
     },
     {
-      "title": "Jim Beam sunsets its iconic Kentucky distillery with no return date in sight",
+      "title": "Zelenskyy sends message to Putin with strikes on Russian weapons ships",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "Jim Beam 关​​闭了其标志性的肯塔基州酿酒厂，且看不到返回日期"
+      "title_zh": "泽伦斯基向普京发出袭击俄罗斯武器船的信息"
     },
     {
-      "title": "Trans doc who fled US over Trump gets banned in Canada after alleged misconduct",
+      "title": "Purdue professor, daughters killed in apparent murder-suicide at Indiana home",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "因特朗普逃离美国的变性医生因涉嫌不当行为而被加拿大禁止"
+      "title_zh": "普渡大学教授和女儿在印第安纳州家中明显谋杀自杀身亡"
     },
     {
-      "title": "WNBA star throws her hat in the ring to be the next Bond girl alongside Robert Pattinson",
+      "title": "Deadly virus experiment halted after troubling discovery at US-funded lab",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "WNBA 球星将与罗伯特·帕丁森一起成为下一位邦女郎"
+      "title_zh": "美国资助的实验室发现令人不安的致命病毒实验后停止"
     },
     {
-      "title": "Famous bald eagle went rogue at an NFL game and nobody could stop him",
+      "title": "Trump to confront Dem gov over plan to spare hundreds of convicted killers, including child murderers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "著名的秃鹰在 NFL 比赛中失控，无人能阻止他"
+      "title_zh": "特朗普将与民主党政府就宽恕数百名被定罪杀人犯（包括儿童杀人犯）的计划进行对质"
     },
     {
-      "title": "Newest AP Top 25 Poll still features Big Ten punishment and a total mess on the backend",
+      "title": "Amazon warns that Mamdani-backed delivery bill could add $5 to every order in NYC",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "最新的美联社前 25 名民意调查仍然具有十大惩罚和后端一团糟的特点"
+      "title_zh": "亚马逊警告称，Mamdani 支持的送货账单可能会给纽约市的每个订单增加 5 美元"
     },
     {
-      "title": "Former OpenAI board member’s disconcerting warning about an AI ‘kill switch’",
+      "title": "Actor admits losing his entire fortune to Bernie Madoff's notorious Ponzi scheme",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "前 OpenAI 董事会成员关于人工智能“终止开关”的令人不安的警告"
+      "title_zh": "演员承认因伯尼·麦道夫臭名昭著的庞氏骗局失去了全部财产"
     },
     {
-      "title": "Urgent warning issued to cruise passengers about strict new law in Mexico",
+      "title": "Breakout performance overshadowed by NFL player's Arabic phrase that stirs outrage",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "向游轮乘客发出关于墨西哥严格新法律的紧急警告"
+      "title_zh": "NFL 球员的阿拉伯语短语激起了愤怒，突破性的表现黯然失色"
     },
     {
-      "title": "'Yes, Dear' comedian Anthony Clark's official cause of death revealed: report",
+      "title": "New York Dem addresses bizarre 'lizard people' rumors after Mamdani presser",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《是的，亲爱的》喜剧演员安东尼·克拉克的官方死因揭晓：报告"
+      "title_zh": "纽约民主党在马姆达尼新闻发布会后回应了奇怪的“蜥蜴人”谣言"
     },
     {
-      "title": "Mark Ruffalo sparks backlash for invoking Schumer's faith to push him out of Senate",
+      "title": "US Navy readies for potential battle against Iranian tanker convoy",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "马克·鲁法洛因援引舒默的信仰将他赶出参议院而引发强烈反对"
+      "title_zh": "美国海军准备与伊朗油轮船队进行潜在战斗"
     },
     {
-      "title": "GOP rep in Dem stronghold details why he was reelected in his ‘socialist failed state’",
+      "title": "150-year-old Westminster Abbey skeleton mystery may finally be solved, expert says",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "民主党据点的共和党代表详细说明了他为何在“社会主义失败国家”中再次当选"
+      "title_zh": "专家称，150年之久的威斯敏斯特教堂骨架之谜可能终于解开"
     },
     {
-      "title": "Abdul El-Sayed suggests Israel should not be a Jewish state, says he opposes ‘ethno-states’",
+      "title": "Trail camera captures rare mountain lion roaming through Wisconsin wilderness",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿卜杜勒·赛义德建议以色列不应该成为犹太国家，并表示他反对“民族国家”"
+      "title_zh": "步道相机捕捉到稀有的山狮在威斯康星州荒野中漫游"
     },
     {
-      "title": "Buck launches bobcat through the air while defending a doe in wild trail cam footage",
+      "title": "Doctor breaks down the biggest misconception about over-the-counter sex supplements",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在野外越野摄像机镜头中，巴克一边保护一只母鹿，一边将山猫发射到空中"
+      "title_zh": "医生打破了对非处方性补充剂的最大误解"
     },
     {
-      "title": "Scientists descend 1,700 feet underwater and come face-to-face with a prehistoric giant",
+      "title": "California surfer's brush with massive great white leaves behind jaw-dropping photos",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "科学家潜入水下 1,700 英尺，与史前巨人面对面"
-    },
-    {
-      "title": "Jennifer Lopez roasted over racial discrimination claim despite $400M net worth",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "尽管净资产达 4 亿美元，詹妮弗·洛佩兹 (Jennifer Lopez) 仍因种族歧视指控而备受争议"
-    },
-    {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "link": "",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "published": "",
-      "title_zh": "COP31 气候谈判未达成协议后下一步将何去何从？",
-      "summary_zh": "这次会谈是峰会历史上持续时间最长的一次，谈判在原定结束两天后就破裂了。"
-    },
-    {
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "link": "",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "published": "",
-      "title_zh": "伯纳姆告诉国会议员“具有里程碑意义的”欧盟协议可能会让下一个十年“变得更好”",
-      "summary_zh": "总理将告诉国会议员，周五达成的协议是“打破现状或改变之间的选择”。"
-    },
-    {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "",
-      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "published": "",
-      "title_zh": "旧金山正在享受人工智能的繁荣，但对崩溃的担忧也在增加",
-      "summary_zh": "该行业中心旧金山的人工智能员工担心该行业过热。"
-    },
-    {
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "link": "",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "published": "",
-      "title_zh": "民主党在推翻北卡罗来纳州席位后赢得了自 1992 年以来最大的众议院多数席位",
-      "summary_zh": "民主党目前在中期选举中赢得了至少 258 个席位，而共和党至少拥有 173 个席位。"
-    },
-    {
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "link": "",
-      "summary": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-      "published": "",
-      "title_zh": "救援人员称，俄罗斯空袭乌克兰后数小时，7 岁男孩从废墟中被救出",
-      "summary_zh": "袭击造成六人死亡，救援工作仍在寻找住宅楼中失踪的人员。"
-    },
-    {
-      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
-      "link": "",
-      "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-      "published": "",
-      "title_zh": "阿尔卡拉兹击败兹维列夫首次夺得 ATP 总决赛冠军",
-      "summary_zh": "卡洛斯·阿尔卡拉斯在都灵击败了世界排名第一的亚历山大·兹维列夫，结束了他对第一个 ATP 总决赛冠军的等待。"
-    },
-    {
-      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
-      "link": "",
-      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
-      "published": "",
-      "title_zh": "一位“令人惊叹”的球员——为什么恩古莫哈已经成为利物浦比赛规则的改变者",
-      "summary_zh": "每日比赛评论员丹尼·墨菲解释了里奥·恩古莫哈如何在利物浦 4-0 战胜曼联的比赛中向所有人展示了他的能力。"
-    },
-    {
-      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-      "link": "",
-      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-      "published": "",
-      "title_zh": "国际足联确认英国为2035年女足世界杯主办国",
-      "summary_zh": "国际足联将于周一确认自 1966 年以来首届世界杯足球赛将在英国举办。"
-    },
-    {
-      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-      "link": "",
-      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-      "published": "",
-      "title_zh": "“世界上最好的球队可能会以 4-0 落败”——但曼联应该在安菲尔德做得更多吗？",
-      "summary_zh": "毛里西奥·波切蒂诺相信，在曼联的情况下，即使是世界上最好的球队也可能在利物浦队丢四个球——但红魔是否应该在失败中做得更多呢？"
+      "title_zh": "加州冲浪者的刷子上留下了巨大的白色叶子，背后留下了令人瞠目结舌的照片"
     }
   ]
 }
