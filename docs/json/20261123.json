@@ -1,0 +1,301 @@
+{
+  "date": "20261123",
+  "total": 36,
+  "sources": {
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    },
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Democrats win the largest House majority since 1992",
+      "link": "https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党赢得自1992年以来最大的众议院多数席位"
+    },
+    {
+      "title": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in majority leader battle",
+      "link": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
+      "summary": "",
+      "published": "",
+      "title_zh": "参议员克里斯·范·霍伦 (Chris Van Hollen) 表示，多数党领袖之战“势头向我们的方向发展”"
+    },
+    {
+      "title": "Sen. John Kennedy: If Lutnick is giving AI chips away to China, ‘he needs to stop’",
+      "link": "https://www.nbcnews.com/meet-the-press/video/john-kennedy-if-howard-lutnick-is-giving-ai-chips-away-to-china-he-needs-to-stop-273979973777",
+      "summary": "",
+      "published": "",
+      "title_zh": "参议员约翰·肯尼迪：如果卢特尼克向中国赠送人工智能芯片，“他需要停止”"
+    },
+    {
+      "title": "Delta restores system after nationwide flight delays as Thanksgiving travel begins",
+      "link": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+      "summary": "",
+      "published": "",
+      "title_zh": "感恩节旅行开始之际，达美航空在全国航班延误后恢复了系统"
+    },
+    {
+      "title": "California prepares for flooding as king tides and storms threaten Thanksgiving week",
+      "link": "https://www.nbcnews.com/news/us-news/california-prepares-flooding-rain-wind-thanksgiving-approaches-rcna610537",
+      "summary": "",
+      "published": "",
+      "title_zh": "由于大潮和风暴威胁感恩节周，加州准备应对洪水"
+    },
+    {
+      "title": "Trump hosts exclusive dinner for investors in his declining meme coin",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-hosts-exclusive-dinner-investors-declining-meme-coin-rcna610757",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普用他不断下滑的模因币为投资者举办独家晚宴"
+    },
+    {
+      "title": "Here’s the biggest news you missed this weekend",
+      "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-22-rcna610436",
+      "summary": "",
+      "published": "",
+      "title_zh": "这是您本周末错过的最大新闻"
+    },
+    {
+      "title": "Tarik Skubal agrees to record $450 million, 9-year contract with Mets, per reports",
+      "link": "https://www.nbcnews.com/sports/mlb/tarik-skubal-agrees-record-450-million-9-year-contract-new-york-mets-rcna610770",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，塔里克·斯库巴尔（Tarik Skubal）同意与大都会队签订创纪录的 4.5 亿美元、为期 9 年的合同"
+    },
+    {
+      "title": "Iran's reported 14-tanker convoy could spark a wider Gulf war, analyst cautions",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "分析师警告称，伊朗报道的 14 艘油轮护航可能引发更广泛的海湾战争"
+    },
+    {
+      "title": "Dems put exclamation point on overwhelming midterm victory by ousting GOP heavyweight",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党通过驱逐共和党重量级人物，为中期选举的压倒性胜利打上感叹号"
+    },
+    {
+      "title": "Common sleep habit linked to 50% higher death risk in heart patients, recent study finds",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "最近的研究发现，常见的睡眠习惯会使心脏病患者的死亡风险增加 50%"
+    },
+    {
+      "title": "Judge’s ruling could lead to major Ilhan Omar revelations—here’s what to expect",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "法官的裁决可能会导致伊尔汗·奥马尔的重大泄密——以下是我们所期待的"
+    },
+    {
+      "title": "Barbara Eden says iconic TV couple should never have married",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "芭芭拉·伊登 (Barbara Eden) 表示标志性的电视情侣永远不应该结婚"
+    },
+    {
+      "title": "Jim Beam sunsets its iconic Kentucky distillery with no return date in sight",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Jim Beam 关​​闭了其标志性的肯塔基州酿酒厂，且看不到返回日期"
+    },
+    {
+      "title": "Trans doc who fled US over Trump gets banned in Canada after alleged misconduct",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "因特朗普逃离美国的变性医生因涉嫌不当行为而被加拿大禁止"
+    },
+    {
+      "title": "WNBA star throws her hat in the ring to be the next Bond girl alongside Robert Pattinson",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "WNBA 球星将与罗伯特·帕丁森一起成为下一位邦女郎"
+    },
+    {
+      "title": "Famous bald eagle went rogue at an NFL game and nobody could stop him",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "著名的秃鹰在 NFL 比赛中失控，无人能阻止他"
+    },
+    {
+      "title": "Newest AP Top 25 Poll still features Big Ten punishment and a total mess on the backend",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "最新的美联社前 25 名民意调查仍然具有十大惩罚和后端一团糟的特点"
+    },
+    {
+      "title": "Former OpenAI board member’s disconcerting warning about an AI ‘kill switch’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前 OpenAI 董事会成员关于人工智能“终止开关”的令人不安的警告"
+    },
+    {
+      "title": "Urgent warning issued to cruise passengers about strict new law in Mexico",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "向游轮乘客发出关于墨西哥严格新法律的紧急警告"
+    },
+    {
+      "title": "'Yes, Dear' comedian Anthony Clark's official cause of death revealed: report",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "《是的，亲爱的》喜剧演员安东尼·克拉克的官方死因揭晓：报告"
+    },
+    {
+      "title": "Mark Ruffalo sparks backlash for invoking Schumer's faith to push him out of Senate",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "马克·鲁法洛因援引舒默的信仰将他赶出参议院而引发强烈反对"
+    },
+    {
+      "title": "GOP rep in Dem stronghold details why he was reelected in his ‘socialist failed state’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党据点的共和党代表详细说明了他为何在“社会主义失败国家”中再次当选"
+    },
+    {
+      "title": "Abdul El-Sayed suggests Israel should not be a Jewish state, says he opposes ‘ethno-states’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "阿卜杜勒·赛义德建议以色列不应该成为犹太国家，并表示他反对“民族国家”"
+    },
+    {
+      "title": "Buck launches bobcat through the air while defending a doe in wild trail cam footage",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在野外越野摄像机镜头中，巴克一边保护一只母鹿，一边将山猫发射到空中"
+    },
+    {
+      "title": "Scientists descend 1,700 feet underwater and come face-to-face with a prehistoric giant",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "科学家潜入水下 1,700 英尺，与史前巨人面对面"
+    },
+    {
+      "title": "Jennifer Lopez roasted over racial discrimination claim despite $400M net worth",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "尽管净资产达 4 亿美元，詹妮弗·洛佩兹 (Jennifer Lopez) 仍因种族歧视指控而备受争议"
+    },
+    {
+      "title": "What's next after no deal at COP31 climate talks?",
+      "link": "",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "published": "",
+      "title_zh": "COP31 气候谈判未达成协议后下一步将何去何从？",
+      "summary_zh": "这次会谈是峰会历史上持续时间最长的一次，谈判在原定结束两天后就破裂了。"
+    },
+    {
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "link": "",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "published": "",
+      "title_zh": "伯纳姆告诉国会议员“具有里程碑意义的”欧盟协议可能会让下一个十年“变得更好”",
+      "summary_zh": "总理将告诉国会议员，周五达成的协议是“打破现状或改变之间的选择”。"
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "published": "",
+      "title_zh": "旧金山正在享受人工智能的繁荣，但对崩溃的担忧也在增加",
+      "summary_zh": "该行业中心旧金山的人工智能员工担心该行业过热。"
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "published": "",
+      "title_zh": "民主党在推翻北卡罗来纳州席位后赢得了自 1992 年以来最大的众议院多数席位",
+      "summary_zh": "民主党目前在中期选举中赢得了至少 258 个席位，而共和党至少拥有 173 个席位。"
+    },
+    {
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "",
+      "summary": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "published": "",
+      "title_zh": "救援人员称，俄罗斯空袭乌克兰后数小时，7 岁男孩从废墟中被救出",
+      "summary_zh": "袭击造成六人死亡，救援工作仍在寻找住宅楼中失踪的人员。"
+    },
+    {
+      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+      "link": "",
+      "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+      "published": "",
+      "title_zh": "阿尔卡拉兹击败兹维列夫首次夺得 ATP 总决赛冠军",
+      "summary_zh": "卡洛斯·阿尔卡拉斯在都灵击败了世界排名第一的亚历山大·兹维列夫，结束了他对第一个 ATP 总决赛冠军的等待。"
+    },
+    {
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "link": "",
+      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "published": "",
+      "title_zh": "一位“令人惊叹”的球员——为什么恩古莫哈已经成为利物浦比赛规则的改变者",
+      "summary_zh": "每日比赛评论员丹尼·墨菲解释了里奥·恩古莫哈如何在利物浦 4-0 战胜曼联的比赛中向所有人展示了他的能力。"
+    },
+    {
+      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+      "link": "",
+      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+      "published": "",
+      "title_zh": "国际足联确认英国为2035年女足世界杯主办国",
+      "summary_zh": "国际足联将于周一确认自 1966 年以来首届世界杯足球赛将在英国举办。"
+    },
+    {
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "link": "",
+      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+      "published": "",
+      "title_zh": "“世界上最好的球队可能会以 4-0 落败”——但曼联应该在安菲尔德做得更多吗？",
+      "summary_zh": "毛里西奥·波切蒂诺相信，在曼联的情况下，即使是世界上最好的球队也可能在利物浦队丢四个球——但红魔是否应该在失败中做得更多呢？"
+    }
+  ]
+}
