@@ -1,6 +1,6 @@
 {
   "date": "20261124",
-  "total": 44,
+  "total": 41,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -37,329 +37,307 @@
   },
   "entries": [
     {
-      "title": "How Trump and Vance came to Jensen Huang’s rescue",
-      "link": "https://www.nbcnews.com/politics/donald-trump/trump-vance-came-jensen-huangs-rescue-rcna610877",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普和万斯如何拯救黄仁勋"
-    },
-    {
-      "title": "",
-      "link": "https://www.nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
-      "summary": "",
-      "published": ""
-    },
-    {
-      "title": "What Jensen Huang’s return to Nvidia means for AI chip sales to China",
-      "link": "https://www.nbcnews.com/tech/tech-news/jensen-huang-return-nvidia-means-ai-chip-sales-china-rcna610964",
-      "summary": "",
-      "published": "",
-      "title_zh": "黄仁勋回归英伟达对中国人工智能芯片销售意味着什么"
-    },
-    {
-      "title": "Congress reacts with anger and skepticism about Jensen Huang reinstatement",
-      "link": "https://www.nbcnews.com/politics/congress/congress-criticism-jensen-huang-nvidia-reinstated-ceo-trump-rcna610926",
-      "summary": "",
-      "published": "",
-      "title_zh": "国会对黄仁勋复职表示愤怒和怀疑"
-    },
-    {
-      "title": "Court allows Army to go forward with planned detonation of toxic drums in Iowa",
-      "link": "https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945",
-      "summary": "",
-      "published": "",
-      "title_zh": "法院允许陆军继续计划在爱荷华州引爆有毒桶"
-    },
-    {
-      "title": "Democratic Rep. Jimmy Gomez to resign after Ethics Committee finds he engaged in sexual misconduct",
-      "link": "https://www.nbcnews.com/politics/congress/rep-jimmy-gomez-resign-ethics-report-sexual-misconduct-rcna610895",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党众议员吉米·戈麦斯在道德委员会发现他从事不当性行为后辞职"
-    },
-    {
-      "title": "ICE arrests at airports are ‘huge risk’ for some immigrants traveling, attorneys warn",
-      "link": "https://www.nbcnews.com/news/us-news/ice-arrests-airports-mean-huge-risk-immigrants-traveling-attorneys-war-rcna610851",
-      "summary": "",
-      "published": "",
-      "title_zh": "律师警告说，ICE 在机场逮捕对于一些旅行的移民来说是“巨大风险”"
-    },
-    {
-      "title": "Unsealed Ilhan Omar warrant docs expose decades-long scope of probe into Democrat rep",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
       "link": "",
+      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "published": "",
+      "title_zh": "黄仁勋的回归让中国习近平对特朗普有了哪些认识",
+      "summary_zh": "黄仁勋重新执掌英伟达并不能保证北京方面能松一口气。"
+    },
+    {
+      "title": "Will bad weather disrupt Thanksgiving travel?",
+      "link": "",
+      "summary": "BBC Weather's Elizabeth Rizzini looks at the weather that will impact travel over US Thanksgiving.",
+      "published": "",
+      "title_zh": "恶劣天气会影响感恩节旅行吗？",
+      "summary_zh": "BBC Weather 伊丽莎白·里齐尼 (Elizabeth Rizzini) 探讨了影响美国感恩节旅行的天气情况。"
+    },
+    {
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "link": "",
+      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "published": "",
+      "title_zh": "吉赛尔·佩利科特在向媒体发送裸照宣传新书后“受到羞辱”",
+      "summary_zh": "一篇关于强制控制的文章的出版商为“一次不幸且不恰当的沟通”道歉。"
+    },
+    {
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "link": "",
+      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "published": "",
+      "title_zh": "教皇方济各的日记透露他曾三次见过魔鬼",
+      "summary_zh": "已发表的已故教宗日记摘录声称，其中一个异象发生在弥撒期间的“唱诗班阁楼”。"
+    },
+    {
+      "title": "Afghan women with UK university offers 'heartbroken' after visas stopped",
+      "link": "",
+      "summary": "In March this year, the UK Home Office announced an \"emergency visa brake\" on study visas for applicants from Afghanistan.",
+      "published": "",
+      "title_zh": "签证停止后，英国大学向阿富汗女性提供“心碎”的机会",
+      "summary_zh": "今年3月，英国内政部宣布对阿富汗申请人的学习签证实行“紧急签证制动”。"
+    },
+    {
+      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "link": "",
+      "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+      "published": "",
+      "title_zh": "两人因涉嫌入室盗窃威尔士王子和王妃诺福克的家而被捕",
+      "summary_zh": "入室盗窃案发生在诺福克郡桑德林汉姆庄园的家族乡村别墅内。"
+    },
+    {
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "link": "",
+      "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+      "published": "",
+      "title_zh": "有用但尴尬：在 Meta 的 Muse 在英国推出之前我与它度过的一周",
+      "summary_zh": "Meta 希望 Muse 为 AI 做的事情就像 WhatsApp 在消息传递方面所做的那样 - 这是 BBC 技术编辑在使用它时发现的结果。"
+    },
+    {
+      "title": "The shake-up facing renters as a new kind of landlord emerges",
+      "link": "",
+      "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
+      "published": "",
+      "title_zh": "随着新型房东的出现，租房者面临着变革",
+      "summary_zh": "公司建造公寓然后出租可能会给租房者带来巨大的变化。"
+    },
+    {
+      "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+      "link": "",
+      "summary": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
+      "published": "",
+      "title_zh": "从在地铁上跳舞到被分割：萨布丽娜·巴松 (Sabrina Bahsoon) 讲述她的精神病误诊",
+      "summary_zh": "这位内容创作者在伦敦地铁上跳舞的自拍视频于 2023 年在网上爆红。"
+    },
+    {
+      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+      "link": "",
+      "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
+      "published": "",
+      "title_zh": "115天，39次私人飞机飞行，一次选举——因凡蒂诺的环球旅行",
+      "summary_zh": "国际足联主席詹尼·因凡蒂诺(Gianni Infantino)自从计划出售世界杯股份后乘坐私人飞机环游世界的举动受到了密切关注。"
+    },
+    {
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "link": "",
+      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "published": "",
+      "title_zh": "汽车炸弹炸毁哥伦比亚城市 造成20多人受伤",
+      "summary_zh": "这次爆炸是针对安全部队和政府办公室大楼的一系列袭击中的最新一起。"
+    },
+    {
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "link": "",
+      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "published": "",
+      "title_zh": "律师称伊朗当局鞭打未戴头巾表演的歌手",
+      "summary_zh": "据报道，帕拉斯托·艾哈迈迪 (Parastoo Ahmadi)、三名音乐家和一名制作人在库姆被鞭打 74 下。"
+    },
+    {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "link": "",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "published": "",
+      "title_zh": "刚果民主共和国称军用飞机失踪，叛军声称击落飞机",
+      "summary_zh": "据报道，被击落飞机上有一名南非战斗机飞行员和一名乌干达军官。"
+    },
+    {
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "link": "",
+      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "published": "",
+      "title_zh": "BBC秘密拍摄显示养狗者以每只2千英镑的价格出售生病的小狗",
+      "summary_zh": "调查发现，该饲养员的评级被下调，但他继续宣传为五星级。"
+    },
+    {
+      "title": "'The rest of the world noticed' - Welshman Donald demolishes Aussies",
+      "link": "",
+      "summary": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
+      "published": "",
+      "title_zh": "“世界其他地方都注意到了”——威尔士人唐纳德摧毁了澳大利亚人",
+      "summary_zh": "阿纽林·唐纳德 (Aneurin Donald) 和菲尔·索尔特 (Phil Salt) 在 10 轮比赛中打出 150 分的出色开场搭档，帮助英格兰队在对阵澳大利亚队的比赛中追平了 184 分，在 T20 系列赛中扳平了比分。"
+    },
+    {
+      "title": "Dead hippo to be honoured on football club tifo",
+      "link": "",
+      "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
+      "published": "",
+      "title_zh": "Tifo足球俱乐部将纪念死去的河马",
+      "summary_zh": "美国职业足球大联盟球队辛辛那提足球俱乐部将在周六与纳什维尔 SC 的比赛中展示 tifo，以纪念最近在该市动物园去世的一只河马菲奥娜 (Fiona)。"
+    },
+    {
+      "title": "Pacific Coast king tides could break records and flood communities",
+      "link": "https://www.nbcnews.com/weather/floods/pacific-coast-king-tides-break-records-flood-communities-rcna611051",
       "summary": "",
       "published": "",
-      "title_zh": "未密封的伊尔汗·奥马尔逮捕令文件揭露了对民主党代表长达数十年的调查范围"
+      "title_zh": "太平洋海岸大潮可能会打破记录并淹没社区"
     },
     {
-      "title": "Russia warns of 'preventive nuclear attack' as Medvedev says Ukraine, NATO crossed line",
-      "link": "",
+      "title": "Severe Thanksgiving storms threaten millions of travelers and Macy’s parade",
+      "link": "https://www.nbcnews.com/weather/storms/severe-thanksgiving-storms-threaten-millions-travelers-macys-parade-rcna611071",
       "summary": "",
       "published": "",
-      "title_zh": "梅德韦杰夫称乌克兰和北约越界，俄罗斯警告“预防性核攻击”"
+      "title_zh": "严重的感恩节风暴威胁着数百万游客和梅西百货游行"
     },
     {
-      "title": "New Jersey bill could scare Americans into silence on Islam, former Navy SEAL warns",
-      "link": "",
+      "title": "2 arrested over suspected burglary at royal family’s Sandringham estate",
+      "link": "https://www.nbcnews.com/world/united-kingdom/prince-william-princess-kate-home-break-in-sandringham-arrests-police-rcna611060",
       "summary": "",
       "published": "",
-      "title_zh": "前海豹突击队警告说，新泽西州的法案可能会吓到美国人对伊斯兰教保持沉默"
+      "title_zh": "两人因涉嫌入室盗窃王室桑德灵厄姆庄园而被捕"
     },
     {
-      "title": "ADAM KRAUT:Justices set to decide soon whether millions of rifle owners lose their rights",
-      "link": "",
+      "title": "New York governor to sign AI toy ban into law",
+      "link": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962",
       "summary": "",
       "published": "",
-      "title_zh": "亚当·克劳特：法官将很快决定数百万步枪拥有者是否失去权利"
+      "title_zh": "纽约州长签署人工智能玩具禁令成为法律"
     },
     {
-      "title": "Armed intruders hit Hollywood celebrity homes as holiday break-in wave terrifies stars",
-      "link": "",
+      "title": "Where the redistricting battle could go after the midterms",
+      "link": "https://www.nbcnews.com/politics/elections/redistricting-battle-go-next-midterm-elections-democrats-republicans-rcna609983",
       "summary": "",
       "published": "",
-      "title_zh": "武装入侵者袭击了好莱坞名人的住宅，假期闯入浪潮吓坏了明星"
+      "title_zh": "中期选举后选区重新划分之战可能走向何方"
     },
     {
-      "title": "SEC threatening to 'terminate' LSU from the conference after latest legal stunt",
-      "link": "",
+      "title": "Democrats grumble about the DNC’s plan for the 2028 primary debates",
+      "link": "https://www.nbcnews.com/politics/2028-election/democrats-grumble-dnc-plan-2028-primary-debates-rcna610979",
       "summary": "",
       "published": "",
-      "title_zh": "在最新的法律噱头之后，美国证券交易委员会威胁要“终止”路易斯安那州立大学参加会议"
+      "title_zh": "民主党人对 DNC 2028 年初选辩论计划颇有微词"
     },
     {
-      "title": "Four illegal immigrants charged as Florida AG details disturbing slaughterhouse video",
-      "link": "",
+      "title": "Democrats probing ‘serendipitous timing’ of investments by firm linked to Donald Trump Jr.",
+      "link": "https://www.nbcnews.com/politics/congress/democrat-jamie-raskin-probing-venture-capital-donald-trump-jr-rcna610897",
       "summary": "",
       "published": "",
-      "title_zh": "佛罗里达州总检察长详细介绍令人不安的屠宰场视频，四名非法移民被指控"
+      "title_zh": "民主党人正在调查与小唐纳德·特朗普有关的公司投资的“偶然时机”。"
     },
     {
-      "title": "Veteran actor rips Hollywood as 'boring' and 'tedious,' says he prefers the South",
-      "link": "",
+      "title": "Too young to be vaccinated for measles? Babies face growing threats from outbreaks",
+      "link": "https://www.nbcnews.com/health/health-news/measles-babies-vaccine-dose-protect-outbreaks-rcna610383",
       "summary": "",
       "published": "",
-      "title_zh": "资深演员斥好莱坞“无聊”和“乏味”，说他更喜欢南方"
+      "title_zh": "年龄太小不能接种麻疹疫苗吗？婴儿面临着日益严重的疫情威胁"
     },
     {
-      "title": "Reinstated Nvidia CEO Jensen Huang makes bold promise to cheering crowd at HQ",
-      "link": "",
+      "title": "Judge unseals documents related to search of Rep. Ilhan Omar’s home",
+      "link": "https://www.nbcnews.com/politics/congress/judge-unseals-court-documents-related-search-ilhan-omar-home-washingto-rcna611027",
       "summary": "",
       "published": "",
-      "title_zh": "重新上任的英伟达首席执行官黄仁勋向总部欢呼的人群做出大胆承诺"
+      "title_zh": "法官启封与搜查众议员伊尔汗·奥马尔 (Ilhan Omar) 住宅有关的文件"
     },
     {
-      "title": "He dropped the doe cleanly, then looked left and couldn't believe what he saw",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "他干净利落地扔下了母鹿，然后向左看去，简直不敢相信自己所看到的一切"
-    },
-    {
-      "title": "Jeffries asked point blank if Dems will shut down government — his answer has internet fuming",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杰弗里斯直截了当地问民主党是否会关闭政府——他的回答引起了网络的愤怒"
-    },
-    {
-      "title": "James Carville flags 'biggest thing' standing in the way of a Newsom 2028 run",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "詹姆斯·卡维尔 (James Carville) 指出阻碍纽瑟姆 2028 年竞选的“最大的事情”"
-    },
-    {
-      "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "特朗普政府宣布采取全面措施，切断伊朗“最后的金融生命线”"
-    },
-    {
-      "title": "Tyrus plays ‘News or Noise’ on Kamala Harris’ 2028 poll crash and weird headlines",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "泰勒斯 (Tyrus) 在卡玛拉·哈里斯 (Kamala Harris) 2028 年民意调查崩溃和奇怪的头条新闻中播放“新闻或噪音”"
-    },
-    {
-      "title": "JESSE WATTERS:Losing Jensen Huang was creating intergalactic consequences",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "杰西·沃特斯：失去黄仁勋正在造成星际后果"
-    },
-    {
-      "title": "UCLA's first loss hasn't taken the spotlight away from viral Miss California cheerleader",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "加州大学洛杉矶分校的首场失利并没有让人们对加州小姐啦啦队的关注度下降"
-    },
-    {
-      "title": "US issues security alert for Americans in historic region after 'grave' missile breach",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "在“严重”导弹破坏后，美国向历史地区的美国人发出安全警报"
-    },
-    {
-      "title": "Ruhle warns guest 'the door's right there' as Jensen Huang debate erupts on air",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "当黄仁勋辩论在直播中爆发时，鲁尔警告客人“门就在那里”"
-    },
-    {
-      "title": "Asia markets jump as Nvidia boss Jensen Huang reinstated after spy scandal",
-      "link": "",
-      "summary": "Shares in the company have soared since Huang's return, which the company says was made with \"input from senior levels of the United States government\".",
-      "published": "",
-      "title_zh": "英伟达老板黄仁勋在间谍丑闻后复职，亚洲股市上涨",
-      "summary_zh": "自黄回国以来，该公司股价飙升，该公司称黄回国是在“美国政府高层的投入”下做出的。"
-    },
-    {
-      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
-      "link": "",
-      "summary": "Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member.",
-      "published": "",
-      "title_zh": "加州民主党因性行为不当证据而辞去国会职务",
-      "summary_zh": "吉米·戈麦斯本月在选举中落败，只在众议院任职到年底，他被指控与一名工作人员有不当性行为。"
-    },
-    {
-      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-      "link": "",
-      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
-      "published": "",
-      "title_zh": "在Facebook上发现女儿被谋杀的父亲感觉被南非警方忽视",
-      "summary_zh": "南非社区向英国广播公司讲述了在发生一波可怕的杀戮事件后他们为保护妇女安全而采取的措施。"
-    },
-    {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
-      "link": "",
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "published": "",
-      "title_zh": "Nvidia 对黄仁勋重新担任首席执行官有何反应",
-      "summary_zh": "BBC 的莉莉·贾玛利 (Lily Jamali) 在英伟达总部进行报道，她评估了在特朗普表示黄仁勋促成了一项交易后，人们对黄仁勋回归的反应。"
-    },
-    {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "title": "Bank of America CEO reveals what’s really behind recent banking glitches",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "俄罗斯核卫星报告后北约主席誓言防御太空威胁"
+      "title_zh": "美国银行首席执行官揭示了近期银行业故障背后的真正原因"
     },
     {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "title": "Mom coached her son to three straight girls state titles and the backlash is fierce",
       "link": "",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "summary": "",
       "published": "",
-      "title_zh": "俄罗斯船只在利比亚遭到袭击说明乌克兰战争蔓延",
-      "summary_zh": "弗兰克·加德纳写道，乌克兰在利比亚港口击沉一艘俄罗斯战舰，使战争的风险上升了一个档次。"
+      "title_zh": "妈妈指导她的儿子连续获得三个女孩州冠军，但强烈反对"
     },
     {
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "title": "Airport security screening spots moving pillowcase as TSA officers snap into action",
       "link": "",
-      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "summary": "",
       "published": "",
-      "title_zh": "第一夫人梅拉尼娅·特朗普欢迎今年的白宫圣诞树",
-      "summary_zh": "2026 年白宫官方圣诞树是一棵 18 英尺高的冷杉，来自威斯康星州 Endeavour 的 Silent Night Evergreens 农场。"
+      "title_zh": "机场安检发现枕套正在移动，运输安全管理局 (TSA) 官员立即采取行动"
     },
     {
-      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "title": "Newly elected Florida commissioner's son shot dead in tent while camping",
       "link": "",
-      "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "summary": "",
       "published": "",
-      "title_zh": "费萨尔·伊斯兰 (Faisal Islam)：为什么黄仁勋规模太大而不能被解雇",
-      "summary_zh": "事实证明，黄仁勋在公司成为人工智能关键人物的过程中发挥的核心作用至关重要。"
+      "title_zh": "新当选的佛罗里达州专员的儿子在露营时在帐篷里被枪杀"
     },
     {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "title": "Unsealed docs say feds believe Ilhan Omar committed crimes 'long before she was ever in Congress'",
       "link": "",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "summary": "",
       "published": "",
-      "title_zh": "因英伟达丑闻，美国将亚洲人工智能公司 Megaspeed 列入黑名单",
-      "summary_zh": "在前高管与黄仁勋的恋情曝光后，Megaspeed 被指控向中国输送人工智能芯片。"
+      "title_zh": "未密封的文件称，联邦调查局相信伊尔汗·奥马尔“早在她进入国会之前”就犯下了罪行"
     },
     {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "title": "Arrests made in late-night break-in at Prince William and Kate's country home",
       "link": "",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "summary": "",
       "published": "",
-      "title_zh": "黄仁勋回归后，英伟达股价上涨近 1 万亿美元，科技股上涨",
-      "summary_zh": "Nvidia 股价的上涨也提振了股市，以科技股为主的纳斯达克指数上涨了 6.5%。"
+      "title_zh": "威廉王子和凯特深夜闯入乡间别墅被捕"
     },
     {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "title": "Alzheimer’s risk jumps 53% for millions living with common blood sugar condition",
       "link": "",
-      "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+      "summary": "",
       "published": "",
-      "title_zh": "千载难逢的回归：特朗普对黄仁勋重返英伟达的影响",
-      "summary_zh": "BBC 商业记者米歇尔·弗勒里 (Michelle Fleury) 解释了特朗普的支持在黄的复出中发挥了什么作用。"
+      "title_zh": "数百万患有常见血糖疾病的人患阿尔茨海默病的风险增加了 53%"
     },
     {
-      "title": "The rise and fall and rise again of Jensen Huang",
+      "title": "Coast Guard boards vessels in Gulf of America after foreign cyber breach detected",
       "link": "",
-      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "summary": "",
       "published": "",
-      "title_zh": "黄仁勋的兴衰与再崛起",
-      "summary_zh": "因陷入婚外情丑闻而辞职几天后，英伟达公司的黄仁勋正在以惊人的方式回归。"
+      "title_zh": "发现外国网络漏洞后，海岸警卫队登上了美国湾的船只"
     },
     {
-      "title": "What failure of COP31 reveals about a divided world",
+      "title": "Monster storm to batter 20+ states with heavy rain, strong winds through Thanksgiving",
       "link": "",
-      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "summary": "",
       "published": "",
-      "title_zh": "COP31 的失败揭示了一个分裂的世界",
-      "summary_zh": "产油国的利益、美国的抵制以及金融争端可能破坏了气候谈判。"
+      "title_zh": "感恩节期间，怪物风暴将袭击 20 多个州，带来大雨和强风"
     },
     {
-      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "title": "Working bomb at fuel plant could have killed people as feds recover hard drive, map",
       "link": "",
-      "summary": "Increasing numbers of corporate landlords could usher in big changes for renters",
+      "summary": "",
       "published": "",
-      "title_zh": "英国的地主规模越来越大。两级租赁市场可能随之而来",
-      "summary_zh": "越来越多的企业房东可能会给租房者带来巨大的变化"
+      "title_zh": "当联邦调查局恢复硬盘、地图时，燃料厂的炸弹可能会导致人员死亡"
     },
     {
-      "title": "Why I don't always tell potential employers I'm dyslexic",
+      "title": "Russia warns of 'preventive nuclear attack' as Medvedev says NATO crossed line",
       "link": "",
-      "summary": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+      "summary": "",
       "published": "",
-      "title_zh": "为什么我不总是告诉潜在的雇主我患有阅读障碍",
-      "summary_zh": "一份有关工作场所经历的报告显示，许多诵读困难者表示这损害了他们的自信心。"
+      "title_zh": "梅德韦杰夫称北约越界，俄罗斯警告“预防性核攻击”"
     },
     {
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "title": "GREG GUTFELD:What is it about Stephen Miller that make people hate him so much?",
       "link": "",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "summary": "",
       "published": "",
-      "title_zh": "查尔斯国王和埃尔顿·约翰向澳大利亚音乐传奇人物莫莉·梅尔德鲁姆致敬",
-      "summary_zh": "几十年来，发起人和广播公司帮助定义了澳大利亚人的音乐品味。"
+      "title_zh": "格雷格·古菲尔德：史蒂芬·米勒是什么让人们如此讨厌他？"
     },
     {
-      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+      "title": "Pearl Jam decries ICE's 'systemic abuse' after 'heartbreaking' Seattle airport arrest",
       "link": "",
-      "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+      "summary": "",
       "published": "",
-      "title_zh": "津巴布韦著名传教士因性侵犯指控被捕",
-      "summary_zh": "尤伯特·安杰尔 (Uebert Angel) 是一位英籍津巴布韦人，领导着一个在多个国家设有分会的魅力教会。"
+      "title_zh": "西雅图机场逮捕“令人心碎”后，Pearl Jam 谴责 ICE 的“系统性虐待”"
     },
     {
-      "title": "How Ukraine drone attacks on Russian ships unfolded",
+      "title": "Passport, boarding passes, shell casing found in ex-cop’s home before $1M bond revoked",
       "link": "",
-      "summary": "Verified videos show huge fireballs, smoke plumes and sea drones attacking the two Russian vessels.",
+      "summary": "",
       "published": "",
-      "title_zh": "乌克兰无人机袭击俄罗斯船只是如何展开的",
-      "summary_zh": "经核实的视频显示，巨大的火球、烟雾和海上无人机袭击了两艘俄罗斯船只。"
+      "title_zh": "100万美元保释金被撤销前，在前警察家中发现护照、登机牌、弹壳"
     },
     {
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "title": "Ana Navarro says it 'p----s' her off hearing Democrats push for a White male nominee",
       "link": "",
-      "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "summary": "",
       "published": "",
-      "title_zh": "喜剧演员模仿特朗普的舞蹈动作，嘲笑加拿大新闻晚宴上的贸易谈判",
-      "summary_zh": "模仿者是加拿大喜剧演员马克·克里奇，他对美国总统寻找新新闻秘书和美加贸易谈判进行了取笑。"
+      "title_zh": "安娜·纳瓦罗 (Ana Navarro) 表示，听到民主党推动白人男性提名人，她感到很“恶心”"
+    },
+    {
+      "title": "How you can hand off your grocery lists to AI — and have bags at your door in minutes",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "如何将购物清单交给人工智能，并在几分钟内将行李送到家门口"
     }
   ]
 }
