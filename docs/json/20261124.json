@@ -1,0 +1,365 @@
+{
+  "date": "20261124",
+  "total": 44,
+  "sources": {
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "How Trump and Vance came to Jensen Huang’s rescue",
+      "link": "https://www.nbcnews.com/politics/donald-trump/trump-vance-came-jensen-huangs-rescue-rcna610877",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普和万斯如何拯救黄仁勋"
+    },
+    {
+      "title": "",
+      "link": "https://www.nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
+      "summary": "",
+      "published": ""
+    },
+    {
+      "title": "What Jensen Huang’s return to Nvidia means for AI chip sales to China",
+      "link": "https://www.nbcnews.com/tech/tech-news/jensen-huang-return-nvidia-means-ai-chip-sales-china-rcna610964",
+      "summary": "",
+      "published": "",
+      "title_zh": "黄仁勋回归英伟达对中国人工智能芯片销售意味着什么"
+    },
+    {
+      "title": "Congress reacts with anger and skepticism about Jensen Huang reinstatement",
+      "link": "https://www.nbcnews.com/politics/congress/congress-criticism-jensen-huang-nvidia-reinstated-ceo-trump-rcna610926",
+      "summary": "",
+      "published": "",
+      "title_zh": "国会对黄仁勋复职表示愤怒和怀疑"
+    },
+    {
+      "title": "Court allows Army to go forward with planned detonation of toxic drums in Iowa",
+      "link": "https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945",
+      "summary": "",
+      "published": "",
+      "title_zh": "法院允许陆军继续计划在爱荷华州引爆有毒桶"
+    },
+    {
+      "title": "Democratic Rep. Jimmy Gomez to resign after Ethics Committee finds he engaged in sexual misconduct",
+      "link": "https://www.nbcnews.com/politics/congress/rep-jimmy-gomez-resign-ethics-report-sexual-misconduct-rcna610895",
+      "summary": "",
+      "published": "",
+      "title_zh": "民主党众议员吉米·戈麦斯在道德委员会发现他从事不当性行为后辞职"
+    },
+    {
+      "title": "ICE arrests at airports are ‘huge risk’ for some immigrants traveling, attorneys warn",
+      "link": "https://www.nbcnews.com/news/us-news/ice-arrests-airports-mean-huge-risk-immigrants-traveling-attorneys-war-rcna610851",
+      "summary": "",
+      "published": "",
+      "title_zh": "律师警告说，ICE 在机场逮捕对于一些旅行的移民来说是“巨大风险”"
+    },
+    {
+      "title": "Unsealed Ilhan Omar warrant docs expose decades-long scope of probe into Democrat rep",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "未密封的伊尔汗·奥马尔逮捕令文件揭露了对民主党代表长达数十年的调查范围"
+    },
+    {
+      "title": "Russia warns of 'preventive nuclear attack' as Medvedev says Ukraine, NATO crossed line",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "梅德韦杰夫称乌克兰和北约越界，俄罗斯警告“预防性核攻击”"
+    },
+    {
+      "title": "New Jersey bill could scare Americans into silence on Islam, former Navy SEAL warns",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "前海豹突击队警告说，新泽西州的法案可能会吓到美国人对伊斯兰教保持沉默"
+    },
+    {
+      "title": "ADAM KRAUT:Justices set to decide soon whether millions of rifle owners lose their rights",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "亚当·克劳特：法官将很快决定数百万步枪拥有者是否失去权利"
+    },
+    {
+      "title": "Armed intruders hit Hollywood celebrity homes as holiday break-in wave terrifies stars",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "武装入侵者袭击了好莱坞名人的住宅，假期闯入浪潮吓坏了明星"
+    },
+    {
+      "title": "SEC threatening to 'terminate' LSU from the conference after latest legal stunt",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在最新的法律噱头之后，美国证券交易委员会威胁要“终止”路易斯安那州立大学参加会议"
+    },
+    {
+      "title": "Four illegal immigrants charged as Florida AG details disturbing slaughterhouse video",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "佛罗里达州总检察长详细介绍令人不安的屠宰场视频，四名非法移民被指控"
+    },
+    {
+      "title": "Veteran actor rips Hollywood as 'boring' and 'tedious,' says he prefers the South",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "资深演员斥好莱坞“无聊”和“乏味”，说他更喜欢南方"
+    },
+    {
+      "title": "Reinstated Nvidia CEO Jensen Huang makes bold promise to cheering crowd at HQ",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "重新上任的英伟达首席执行官黄仁勋向总部欢呼的人群做出大胆承诺"
+    },
+    {
+      "title": "He dropped the doe cleanly, then looked left and couldn't believe what he saw",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "他干净利落地扔下了母鹿，然后向左看去，简直不敢相信自己所看到的一切"
+    },
+    {
+      "title": "Jeffries asked point blank if Dems will shut down government — his answer has internet fuming",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰弗里斯直截了当地问民主党是否会关闭政府——他的回答引起了网络的愤怒"
+    },
+    {
+      "title": "James Carville flags 'biggest thing' standing in the way of a Newsom 2028 run",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "詹姆斯·卡维尔 (James Carville) 指出阻碍纽瑟姆 2028 年竞选的“最大的事情”"
+    },
+    {
+      "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普政府宣布采取全面措施，切断伊朗“最后的金融生命线”"
+    },
+    {
+      "title": "Tyrus plays ‘News or Noise’ on Kamala Harris’ 2028 poll crash and weird headlines",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泰勒斯 (Tyrus) 在卡玛拉·哈里斯 (Kamala Harris) 2028 年民意调查崩溃和奇怪的头条新闻中播放“新闻或噪音”"
+    },
+    {
+      "title": "JESSE WATTERS:Losing Jensen Huang was creating intergalactic consequences",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰西·沃特斯：失去黄仁勋正在造成星际后果"
+    },
+    {
+      "title": "UCLA's first loss hasn't taken the spotlight away from viral Miss California cheerleader",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "加州大学洛杉矶分校的首场失利并没有让人们对加州小姐啦啦队的关注度下降"
+    },
+    {
+      "title": "US issues security alert for Americans in historic region after 'grave' missile breach",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "在“严重”导弹破坏后，美国向历史地区的美国人发出安全警报"
+    },
+    {
+      "title": "Ruhle warns guest 'the door's right there' as Jensen Huang debate erupts on air",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "当黄仁勋辩论在直播中爆发时，鲁尔警告客人“门就在那里”"
+    },
+    {
+      "title": "Asia markets jump as Nvidia boss Jensen Huang reinstated after spy scandal",
+      "link": "",
+      "summary": "Shares in the company have soared since Huang's return, which the company says was made with \"input from senior levels of the United States government\".",
+      "published": "",
+      "title_zh": "英伟达老板黄仁勋在间谍丑闻后复职，亚洲股市上涨",
+      "summary_zh": "自黄回国以来，该公司股价飙升，该公司称黄回国是在“美国政府高层的投入”下做出的。"
+    },
+    {
+      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+      "link": "",
+      "summary": "Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member.",
+      "published": "",
+      "title_zh": "加州民主党因性行为不当证据而辞去国会职务",
+      "summary_zh": "吉米·戈麦斯本月在选举中落败，只在众议院任职到年底，他被指控与一名工作人员有不当性行为。"
+    },
+    {
+      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+      "link": "",
+      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
+      "published": "",
+      "title_zh": "在Facebook上发现女儿被谋杀的父亲感觉被南非警方忽视",
+      "summary_zh": "南非社区向英国广播公司讲述了在发生一波可怕的杀戮事件后他们为保护妇女安全而采取的措施。"
+    },
+    {
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "link": "",
+      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "published": "",
+      "title_zh": "Nvidia 对黄仁勋重新担任首席执行官有何反应",
+      "summary_zh": "BBC 的莉莉·贾玛利 (Lily Jamali) 在英伟达总部进行报道，她评估了在特朗普表示黄仁勋促成了一项交易后，人们对黄仁勋回归的反应。"
+    },
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "俄罗斯核卫星报告后北约主席誓言防御太空威胁"
+    },
+    {
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "link": "",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "published": "",
+      "title_zh": "俄罗斯船只在利比亚遭到袭击说明乌克兰战争蔓延",
+      "summary_zh": "弗兰克·加德纳写道，乌克兰在利比亚港口击沉一艘俄罗斯战舰，使战争的风险上升了一个档次。"
+    },
+    {
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "link": "",
+      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "published": "",
+      "title_zh": "第一夫人梅拉尼娅·特朗普欢迎今年的白宫圣诞树",
+      "summary_zh": "2026 年白宫官方圣诞树是一棵 18 英尺高的冷杉，来自威斯康星州 Endeavour 的 Silent Night Evergreens 农场。"
+    },
+    {
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "link": "",
+      "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "published": "",
+      "title_zh": "费萨尔·伊斯兰 (Faisal Islam)：为什么黄仁勋规模太大而不能被解雇",
+      "summary_zh": "事实证明，黄仁勋在公司成为人工智能关键人物的过程中发挥的核心作用至关重要。"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "published": "",
+      "title_zh": "因英伟达丑闻，美国将亚洲人工智能公司 Megaspeed 列入黑名单",
+      "summary_zh": "在前高管与黄仁勋的恋情曝光后，Megaspeed 被指控向中国输送人工智能芯片。"
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "link": "",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "published": "",
+      "title_zh": "黄仁勋回归后，英伟达股价上涨近 1 万亿美元，科技股上涨",
+      "summary_zh": "Nvidia 股价的上涨也提振了股市，以科技股为主的纳斯达克指数上涨了 6.5%。"
+    },
+    {
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "link": "",
+      "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+      "published": "",
+      "title_zh": "千载难逢的回归：特朗普对黄仁勋重返英伟达的影响",
+      "summary_zh": "BBC 商业记者米歇尔·弗勒里 (Michelle Fleury) 解释了特朗普的支持在黄的复出中发挥了什么作用。"
+    },
+    {
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "link": "",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "published": "",
+      "title_zh": "黄仁勋的兴衰与再崛起",
+      "summary_zh": "因陷入婚外情丑闻而辞职几天后，英伟达公司的黄仁勋正在以惊人的方式回归。"
+    },
+    {
+      "title": "What failure of COP31 reveals about a divided world",
+      "link": "",
+      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "published": "",
+      "title_zh": "COP31 的失败揭示了一个分裂的世界",
+      "summary_zh": "产油国的利益、美国的抵制以及金融争端可能破坏了气候谈判。"
+    },
+    {
+      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "link": "",
+      "summary": "Increasing numbers of corporate landlords could usher in big changes for renters",
+      "published": "",
+      "title_zh": "英国的地主规模越来越大。两级租赁市场可能随之而来",
+      "summary_zh": "越来越多的企业房东可能会给租房者带来巨大的变化"
+    },
+    {
+      "title": "Why I don't always tell potential employers I'm dyslexic",
+      "link": "",
+      "summary": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+      "published": "",
+      "title_zh": "为什么我不总是告诉潜在的雇主我患有阅读障碍",
+      "summary_zh": "一份有关工作场所经历的报告显示，许多诵读困难者表示这损害了他们的自信心。"
+    },
+    {
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "link": "",
+      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "published": "",
+      "title_zh": "查尔斯国王和埃尔顿·约翰向澳大利亚音乐传奇人物莫莉·梅尔德鲁姆致敬",
+      "summary_zh": "几十年来，发起人和广播公司帮助定义了澳大利亚人的音乐品味。"
+    },
+    {
+      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+      "link": "",
+      "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
+      "published": "",
+      "title_zh": "津巴布韦著名传教士因性侵犯指控被捕",
+      "summary_zh": "尤伯特·安杰尔 (Uebert Angel) 是一位英籍津巴布韦人，领导着一个在多个国家设有分会的魅力教会。"
+    },
+    {
+      "title": "How Ukraine drone attacks on Russian ships unfolded",
+      "link": "",
+      "summary": "Verified videos show huge fireballs, smoke plumes and sea drones attacking the two Russian vessels.",
+      "published": "",
+      "title_zh": "乌克兰无人机袭击俄罗斯船只是如何展开的",
+      "summary_zh": "经核实的视频显示，巨大的火球、烟雾和海上无人机袭击了两艘俄罗斯船只。"
+    },
+    {
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "link": "",
+      "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "published": "",
+      "title_zh": "喜剧演员模仿特朗普的舞蹈动作，嘲笑加拿大新闻晚宴上的贸易谈判",
+      "summary_zh": "模仿者是加拿大喜剧演员马克·克里奇，他对美国总统寻找新新闻秘书和美加贸易谈判进行了取笑。"
+    }
+  ]
+}
