@@ -1,6 +1,6 @@
 {
   "date": "20261125",
-  "total": 44,
+  "total": 47,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -37,325 +37,351 @@
   },
   "entries": [
     {
-      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "link": "",
-      "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+      "title": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa",
+      "link": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182",
+      "summary": "",
       "published": "",
-      "title_zh": "Faisal Islam：对人工智能繁荣的担忧尚未消失",
-      "summary_zh": "在黄突然退出英伟达之前，人们曾有过合理的担忧，但他的回归并不能解决这个问题"
+      "title_zh": "陆军准备引爆一批铅炸药，有毒烟雾飞过爱荷华州"
     },
     {
-      "title": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
-      "link": "",
-      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners",
+      "link": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087",
+      "summary": "",
       "published": "",
-      "title_zh": "托马斯·马克尔因持有儿童性虐待图片而被美国联邦大陪审团起诉",
-      "summary_zh": "联邦调查局 (FBI) 于 11 月 6 日逮捕了马克尔，原因是在搜查马克尔据称在洛杉矶租用的一个储藏室时，发现了这些虐待材料。"
+      "title_zh": "特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴"
     },
     {
-      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-      "link": "",
-      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "title": "Jensen Huang apologizes to Nvidia staff, saying he went ‘too far’ and is in therapy",
+      "link": "https://www.nbcnews.com/business/business-news/jensen-huang-says-s-thankful-second-chance-nvidia-employee-meeting-rcna611235",
+      "summary": "",
       "published": "",
-      "title_zh": "这些朝鲜人说，他们因为是基督徒而遭到监视、殴打和监禁",
-      "summary_zh": "一份新的报告有数百名叛逃者的证词，他们说他们因为信仰而受到迫害。"
+      "title_zh": "黄仁勋向英伟达员工道歉，称自己“太过分”，正在接受治疗"
     },
     {
-      "title": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "title": "Trump says pardon is always an option for Huang, and that invoking the Fifth isn’t necessary",
+      "link": "https://www.nbcnews.com/politics/donald-trump/pardon-always-option-nvidia-jensen-huang-pleading-fifth-not-necessary-rcna611219",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普表示，赦免黄始终是一个选择，没有必要援引第五条"
+    },
+    {
+      "title": "Storms and strong winds threaten Thanksgiving travel and Macy’s parade",
+      "link": "https://www.nbcnews.com/weather/storms/live-blog/thanksgiving-travel-weather-storms-forecast-wednesday-rcna611082",
+      "summary": "",
+      "published": "",
+      "title_zh": "暴风雨和强风威胁感恩节旅行和梅西百货游行"
+    },
+    {
+      "title": "2 men charged with burglary after break-in at Prince William and Princess Kate’s country home",
+      "link": "https://www.nbcnews.com/world/united-kingdom/prince-william-princess-kate-break-in-sandringham-estate-charges-rcna611159",
+      "summary": "",
+      "published": "",
+      "title_zh": "两名男子闯入威廉王子和凯特王妃的乡间别墅后被控入室盗窃"
+    },
+    {
+      "title": "Trump administration officials debating targeting Iran’s leaders, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/trump-administration-officials-debating-targeting-irans-leaders-source-rcna610889",
+      "summary": "",
+      "published": "",
+      "title_zh": "消息人士称，特朗普政府官员正在辩论针对伊朗领导人"
+    },
+    {
+      "title": "Steelers bench Aaron Rodgers, a shocking move in veteran QB’s final season",
+      "link": "https://www.nbcnews.com/sports/nfl/steelers-bench-aaron-rodgers-rcna611247",
+      "summary": "",
+      "published": "",
+      "title_zh": "钢人队让亚伦·罗杰斯坐在替补席上，这是老将四分卫最后一个赛季的令人震惊的举动"
+    },
+    {
+      "title": "Hosting a tiny Thanksgiving? Make this juicy roasted turkey breast",
+      "link": "https://www.nbcnews.com/recipes/roasted-turkey-breast-t352902",
+      "summary": "",
+      "published": "",
+      "title_zh": "举办一个小型的感恩节？制作这个多汁的烤火鸡胸肉"
+    },
+    {
+      "title": "Black Friday deals are already here. These are the best from Walmart, Apple, PlayStation and more.",
+      "link": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-25-2026-rcna610836",
+      "summary": "",
+      "published": "",
+      "title_zh": "黑色星期五优惠已经到来。这些是来自沃尔玛、苹果、PlayStation 等的最佳产品。"
+    },
+    {
+      "title": "How are you affording the holidays?",
+      "link": "https://www.nbcnews.com/news/us-news/holidays-affording-presents-spending-rcna610963",
+      "summary": "",
+      "published": "",
+      "title_zh": "你如何负担假期？"
+    },
+    {
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "",
+      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "published": "",
+      "title_zh": "我的家人在乌克兰被杀。我妈妈指责泽连斯基的军队——事实很复杂",
+      "summary_zh": "BBC 记者阿纳斯塔西娅·格里巴诺娃 (Anastasiya Gribanova) 调查谁在战争中杀害了她的父亲和祖父母。"
+    },
+    {
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "link": "",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "published": "",
+      "title_zh": "故意撞击小行星的特写图像将被揭露，以测试保护地球的能力",
+      "summary_zh": "该任务正在研究一颗因航天器相撞而故意偏离轨道的小行星。"
+    },
+    {
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "link": "",
+      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+      "published": "",
+      "title_zh": "Zoe Kleinman：没有人是不可替代的——除非你是黄仁勋",
+      "summary_zh": "BBC 技术和人工智能编辑讲述 Nvidia 老板如何让自己不可能被解雇。"
+    },
+    {
+      "title": "US announces new tariff proposals on EU, China, and other trade partners",
+      "link": "",
+      "summary": "Different tariffs will apply to different countries and products. China is facing the highest rate of \"up to 40%\" - although the effective rate could be lower.",
+      "published": "",
+      "title_zh": "美国宣布对欧盟、中国和其他贸易伙伴征收新关税",
+      "summary_zh": "不同的国家和产品将适用不同的关税。中国面临着“高达40%”的最高比率——尽管有效比率可能会更低。"
+    },
+    {
+      "title": "'This could be apocalyptic' - a community hunkers down for US Army's controlled explosion",
+      "link": "",
+      "summary": "Some residents tell the BBC that Wednesday's detonation could be life-changing, while others just want it to be over.",
+      "published": "",
+      "title_zh": "“这可能是世界末日”——社区等待美军控制爆炸",
+      "summary_zh": "一些居民告诉英国广播公司，周三的爆炸可能会改变他们的生活，而其他人只是希望它结束​​。"
+    },
+    {
+      "title": "She spent decades as an FBI agent and this is the case she could not let go",
+      "link": "",
+      "summary": "Jane Collins had all but given up on seeing Michael Donovan and Richard Moore face justice. Then they were charged with stealing from a mass-shooter’s brother.",
+      "published": "",
+      "title_zh": "她当了几十年的FBI探员，这就是她无法释怀的案子",
+      "summary_zh": "简·柯林斯几乎放弃了看到迈克尔·多诺万和理查德·摩尔接受正义审判的希望。然后他们被指控从一名大规模枪击案凶手的兄弟那里偷窃。"
+    },
+    {
+      "title": "The CCTV that helped convict a Sydney policeman of double murder",
+      "link": "",
+      "summary": "More than 14,000 hours of CCTV evidence helped convict former police officer Beau Lamarre of killing his ex-partner and the man's new boyfriend in 2024.",
+      "published": "",
+      "title_zh": "帮助悉尼一名警察犯有双重谋杀罪的闭路电视",
+      "summary_zh": "超过 14,000 小时的闭路电视证据帮助前警官 Beau Lamarre 在 2024 年杀害了他的前伴侣和该男子的新男友。"
+    },
+    {
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "link": "",
+      "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "published": "",
+      "title_zh": "中国航天任务升空，首位巴基斯坦宇航员登上太空",
+      "summary_zh": "中国发射了神舟二十四号航天飞行任务，将三名宇航员送往天宫空间站。"
+    },
+    {
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "link": "",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "published": "",
+      "title_zh": "针对台湾的人工智能假视频浪潮是否是中国幕后黑手？",
+      "summary_zh": "该网络攻击了执政的民进党的关键人物，包括赖主席和市长候选人沉。"
+    },
+    {
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "link": "",
+      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "published": "",
+      "title_zh": "政治愿景的冲突反映出西班牙大选前的分裂",
+      "summary_zh": "周日的选举可能会导致极右翼政党首次进入西班牙政府。"
+    },
+    {
+      "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+      "link": "",
+      "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+      "published": "",
+      "title_zh": "三分之一的英国年轻人从未发生过性行为，但许多人正在发送色情短信和观看色情片",
+      "summary_zh": "英国越来越多的年轻人从未发生过性行为，但许多人正在发送色情短信和观看色情片。"
+    },
+    {
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "link": "",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "published": "",
+      "title_zh": "南非拉马福萨赢得弹劾威胁法庭诉讼",
+      "summary_zh": "这起入室盗窃事件发生在 2020 年，据称窃贼偷走了藏在农场沙发内的成捆美元钞票。"
+    },
+    {
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "link": "",
+      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+      "published": "",
+      "title_zh": "所罗门群岛终止与中国签署的有争议的澳大利亚条约安全协议",
+      "summary_zh": "所罗门群岛领导人马修·韦尔表示，所罗门群岛将不再成为地区不确定性的焦点。"
+    },
+    {
+      "title": "Watch: Trump pardons turkeys Freedom and Feathers",
+      "link": "",
+      "summary": "Donald Trump continued a long-standing White House holiday tradition, pardoning two turkeys named Freedom and Feathers.",
+      "published": "",
+      "title_zh": "观看：特朗普赦免火鸡自由和羽毛",
+      "summary_zh": "唐纳德·特朗普延续了白宫长期以来的节日传统，赦免了两只名为“自由”和“羽毛”的火鸡。"
+    },
+    {
+      "title": "UK sent sex offender refugee to Eswatini in undisclosed deal",
+      "link": "",
+      "summary": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.",
+      "published": "",
+      "title_zh": "英国以未公开的协议将性犯罪者难民送往斯威士兰",
+      "summary_zh": "据称，该交易是英国政府强制将难民永久安置在海外的第一起已知案例。"
+    },
+    {
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
       "link": "",
       "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
       "published": "",
-      "title_zh": "观看：马萨诸塞州人行道上一群火鸡追赶女人",
+      "title_zh": "观看：一群火鸡在马萨诸塞州人行道上追逐女人",
       "summary_zh": "这名女子说，她不得不跳进陌生人的车，才能躲避一群在人行道上追赶她的火鸡。"
     },
     {
-      "title": "China launches space mission with Pakistani astronaut on historic journey",
+      "title": "Dottin out to 'free ball' after historic WBBL decision",
       "link": "",
-      "summary": "Pakistan's Muhammad Zeeshan Ali will be the first foreign national to board China's Tiangong space station.",
+      "summary": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery.",
       "published": "",
-      "title_zh": "中国与巴基斯坦宇航员一起启动太空任务，踏上历史性旅程",
-      "summary_zh": "巴基斯坦的穆罕默德·泽山·阿里将成为第一位登上中国天宫空间站的外国人。"
+      "title_zh": "WBBL历史性决定后多丁出局“自由球”",
+      "summary_zh": "布里斯班的莎拉·格伦（Sarah Glenn）向空的树桩上投球，以解雇墨尔本叛徒队的迪安德拉·多丁（Deandra Dottin），因为她被认为太慢，无法到达折痕并面对她的第一次投球。"
     },
     {
-      "title": "'I'm proud of it': Man confesses after murdering child-killer Ian Huntley",
+      "title": "Khawaja 'disappointed' by Cummins' personal attack",
       "link": "",
-      "summary": "Triple murderer Anthony Russell said he planned to kill Ian Huntley and that he had \"nothing to lose\".",
+      "summary": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
       "published": "",
-      "title_zh": "“我为此感到自豪”：男子在谋杀儿童杀手伊恩·亨特利后承认",
-      "summary_zh": "三重凶手安东尼·拉塞尔表示，他计划杀死伊恩·亨特利，并且他“没有什么可失去的”。"
+      "title_zh": "卡瓦贾对康明斯的人身攻击感到“失望”",
+      "summary_zh": "前澳大利亚击球手乌斯曼·卡瓦贾 (Usman Khawaja) 表示，随着 2018 年沙纸门丑闻的不断发酵，这“从来不是我与帕特的对决”。"
     },
     {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "link": "",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "published": "",
-      "title_zh": "印度政府“失去了阴谋”，“蟑螂”领导人被禁止乘坐英国航班",
-      "summary_zh": "绍拉夫·达斯说，德里机场的移民当局告诉他，他的护照已被标记。"
-    },
-    {
-      "title": "UK businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-      "link": "",
-      "summary": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
-      "published": "",
-      "title_zh": "支持乌克兰的英国企业被告知“立即行动”以防止俄罗斯的破坏",
-      "summary_zh": "周二发布的警报警告称，纵火和威胁员工等破坏袭击的风险增加。"
-    },
-    {
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "link": "",
-      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "published": "",
-      "title_zh": "法国前总统萨科齐和妻子卡拉·布吕尼将面临审判",
-      "summary_zh": "这是涉及尼古拉·萨科齐的最新案件，他去年成为第一位入狱的法国前总统。"
-    },
-    {
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "link": "",
-      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "published": "",
-      "title_zh": "92岁尼日利亚君主因性侵指控被停职",
-      "summary_zh": "达乌拉埃米尔是尼日利亚最著名的君主之一，政客们经常试图获得他的支持。"
-    },
-    {
-      "title": "Bellingham plays down Zidane comparison after wonder goal",
-      "link": "",
-      "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
-      "published": "",
-      "title_zh": "贝林汉姆在精彩进球后淡化了与齐达内的比较",
-      "summary_zh": "穆里尼奥表示裘德·贝林厄姆是世界上最好的中场球员，但这位皇马球星淡化了与齐达内的比较。"
-    },
-    {
-      "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
-      "link": "",
-      "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-      "published": "",
-      "title_zh": "赛后 10 个月，塞内加尔重新成为 2025 年非洲杯冠军",
-      "summary_zh": "2025 年非洲国家杯决赛十个月后，塞内加尔根据体育仲裁法院的裁决恢复冠军头衔。"
-    },
-    {
-      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
-      "link": "",
-      "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
-      "published": "",
-      "title_zh": "足协主席签署保密协议以查看国际足联抛售阴谋文件",
-      "summary_zh": "黛比·休伊特是查看国际足联提供的文件的几位足球主管之一，但无法谈论这些文件。"
-    },
-    {
-      "title": "Unsealing Omar docs exposes Obama-appointed judge's clear pivot from prior Trump ruling",
+      "title": "Nation’s largest grocery chain under fire for cutting thousands of US jobs while hiring overseas",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "奥马尔文件的解封暴露了奥巴马任命的法官对特朗普先前裁决的明确立场"
+      "title_zh": "美国最大的杂货连锁店因在美国裁员数千人同时在海外招聘而受到批评"
     },
     {
-      "title": "NATO pilot was cleared to shoot down Russian missile but held fire anyway",
+      "title": "Army to detonate 5 tons of explosives in Iowa as maps show projected dust plume",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "北约飞行员获准击落俄罗斯导弹但仍开火"
+      "title_zh": "地图显示预计尘埃羽流 陆军将在爱荷华州引爆 5 吨炸药"
     },
     {
-      "title": "Kilmar Abrego Garcia to leave US voluntarily for Europe, avoiding forced deportation",
+      "title": "PAUL MAURO:Mamdani's NYC is America's socialist laboratory and results are already grim",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "基尔马·阿布雷戈·加西亚自愿离开美国前往欧洲，避免被强制驱逐出境"
+      "title_zh": "保罗·毛罗：马姆达尼的纽约是美国的社会主义实验室，结果已经很严峻"
     },
     {
-      "title": "Major city cracks down on tourists as it proposes sky-high tax increases",
+      "title": "Four-time MVP benched for the first time ever as Pittsburgh makes astonishing QB swap",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "大城市严厉打击游客，提议大幅增税"
+      "title_zh": "四届 MVP 首次坐上替补席，匹兹堡队进行了惊人的四分卫互换"
     },
     {
-      "title": "Sudden animal emergency on Delta flight has people citing 'worst nightmare'",
+      "title": "Ábrego García lands in Spain after self-deporting, hints at US return after Trump leaves office",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "达美航空航班上突然出现动物紧急情况，人们称这是“最糟糕的噩梦”"
+      "title_zh": "阿布雷戈·加西亚在自我驱逐后抵达西班牙，暗示特朗普卸任后将返回美国"
     },
     {
-      "title": "Republican senator's husband dead: 'Our family is heartbroken'",
+      "title": "400-year-old shipwreck lock finally opened after researchers crack secret code",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党参议员的丈夫去世：“我们的家人心碎”"
+      "title_zh": "研究人员破解密码后，拥有 400 年历史的沉船锁终于打开"
     },
     {
-      "title": "Microsoft declares 'Code Red' after most damaging outage in its history",
+      "title": "Slain student's mom regrets sanctuary city move ahead of first Thanksgiving",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "微软在其历史上最具破坏性的中断后宣布“红色代码”"
+      "title_zh": "被杀学生的妈妈对庇护城在第一个感恩节之前搬迁表示遗憾"
     },
     {
-      "title": "Trump addresses whether he'd be willing to pardon Jensen Huang amid scandals",
+      "title": "GOP lawmakers rally behind Trump official as possible 2028 presidential contender",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普谈到他是否愿意在丑闻中赦免黄仁勋"
+      "title_zh": "共和党议员集会支持特朗普，称其为 2028 年总统候选人"
     },
     {
-      "title": "Payton suspends $16M back as a rookie hijacks Denver's starting job on short week",
+      "title": "Legendary sports broadcaster returns to call plays three years after his death",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "佩顿暂停了 1600 万美元的退款，因为一名新秀在短短一周内劫持了丹佛的首发位置"
+      "title_zh": "传奇体育广播员去世三年后重返电视节目"
     },
     {
-      "title": "Kennedy vows 'trust the science' era is dead with sweeping records release",
+      "title": "Monster Thanksgiving storms target millions with intense winds, heavy rain, flooding",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "肯尼迪发誓“相信科学”时代已经结束，大量记录被发布"
+      "title_zh": "感恩节怪物风暴袭击数百万人，带来强风、暴雨和洪水"
     },
     {
-      "title": "Iran's 'hanging judge' set to execute two men acquitted of murder at dawn",
+      "title": "Remains of all passengers aboard downed Cessna found off Gulf Coast",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "伊朗“绞刑法官”将于黎明处决两名被判无罪释放谋杀罪的男子"
+      "title_zh": "被击落的塞斯纳飞机上所有乘客的遗骸在墨西哥湾沿岸被发现"
     },
     {
-      "title": "‘Star Trek’ actor says bladder cancer discovery followed one strange bathroom symptom",
+      "title": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "《星际迷航》演员称膀胱癌是在浴室出现奇怪症状后发现的"
+      "title_zh": "在美联储下个月加息预期之前，美联储青睐的通胀指标在 10 月份上升"
     },
     {
-      "title": "Timeline reveals when monster East Coast Thanksgiving storm could impact your area",
+      "title": "Two men busted after breaching Anmer Hall despite its £1.5M security overhaul",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "时间表揭示了东海岸感恩节风暴何时会影响您所在的地区"
+      "title_zh": "尽管安默厅进行了 150 万英镑的安全大修，但仍有两名男子在闯入安默厅后被捕"
     },
     {
-      "title": "Evacuations underway as Army prepares to detonate unstable explosive in Iowa",
+      "title": "Influencer pulled in $100K weeks in his parents' house and gave millions to strangers",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "陆军准备在爱荷华州引爆不稳定爆炸物，疏散工作正在进行中"
+      "title_zh": "有影响力的人在父母家里每周赚了 10 万美元，并向陌生人捐赠了数百万美元"
     },
     {
-      "title": "LET US KNOW!What’s your favorite Thanksgiving dessert — and do you make it or buy it?",
+      "title": "LIVE CHAT:Big Ten faces disaster. Will the conference only get one CFP bid in 2026?",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "让我们知道！你最喜欢的感恩节甜点是什么——你自己做还是买的？"
+      "title_zh": "实时聊天：十大面临灾难。2026 年会议是否只会获得 1 个 CFP 投标？"
     },
     {
-      "title": "Profile on Taylor Swift paints pop singer as ‘controlling’ and ‘manipulative’",
+      "title": "GREG GUTFELD:Masks still work in this respect…",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "泰勒·斯威夫特 (Taylor Swift) 的简介将流行歌手描绘为“控制欲强”和“操纵欲强”"
+      "title_zh": "GREG GUTFELD：口罩在这方面仍然有效......"
     },
     {
-      "title": "FDA approves first new breast cancer hormone therapy in over two decades",
+      "title": "Black country star admits Black critics 'crushes your soul' worse than White racism",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "FDA 批准二十多年来首个新的乳腺癌激素疗法"
+      "title_zh": "黑人乡村明星承认黑人批评者“粉碎你的灵魂”比白人种族主义更严重"
     },
     {
-      "title": "Pope Francis recounted seeing 'the entrance to Hell' in private diary: 'It terrified me'",
+      "title": "MICHAEL RUIZ:911 mic missed a crucial sound in fatal 'stand your ground' shooting",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "教皇方济各在私人日记中讲述了看到“地狱入口”的经历：“这让我感到害怕”"
-    },
-    {
-      "title": "Kidnapping survivor tells Hannity what captor's religion was really covering up",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "绑架幸存者告诉汉尼蒂绑架者的宗教信仰到底掩盖了什么"
-    },
-    {
-      "title": "Bill Maher declares late-night 'dead' after years of hosts pushing politics",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "多年来主持人推动政治后，比尔·马赫宣布深夜节目“死亡”"
-    },
-    {
-      "title": "Todd Blanche calls Nvidia a ‘good corporate citizen’ while dodging questions on probe",
-      "link": "https://www.nbcnews.com/politics/trump-administration/todd-blanche-nvidia-investigation-ceo-jensen-huang-trump-rcna611132",
-      "summary": "",
-      "published": "",
-      "title_zh": "托德·布兰奇 (Todd Blanche) 称英伟达是“优秀的企业公民”，同时回避调查问题"
-    },
-    {
-      "title": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains",
-      "link": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211",
-      "summary": "",
-      "published": "",
-      "title_zh": "纳斯达克指数和标准普尔 500 指数收低，放弃了英伟达推动的部分涨幅"
-    },
-    {
-      "title": "China cheers Jensen Huang’s dramatic return, even as political fallout deepens",
-      "link": "https://www.nbcnews.com/world/asia/jensen-huang-china-responds-nvidia-return-scandal-taiwan-markets-rcna611053",
-      "summary": "",
-      "published": "",
-      "title_zh": "尽管政治影响加深，中国仍欢呼黄仁勋的戏剧性回归"
-    },
-    {
-      "title": "Kilmar Abrego Garcia is leaving the U.S. a ‘free man,’ Sen. Chris Van Hollen says",
-      "link": "https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-rcna611215",
-      "summary": "",
-      "published": "",
-      "title_zh": "参议员克里斯·范霍伦 (Chris Van Hollen) 表示，基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 将以“自由人”的身份离开美国"
-    },
-    {
-      "title": "Fort Hood mass shooter makes legal move to stop Pentagon’s firing squad execution",
-      "link": "https://www.nbcnews.com/news/us-news/fort-hood-nidal-hasan-firing-squad-execution-rcna611217",
-      "summary": "",
-      "published": "",
-      "title_zh": "胡德堡大规模枪击案凶手采取法律行动阻止五角大楼行刑队处决"
-    },
-    {
-      "title": "Chinese tech giant Huawei convicted of federal charges, including fraud",
-      "link": "https://www.nbcnews.com/news/us-news/chinese-tech-company-huawei-convicted-federal-charges-rcna611189",
-      "summary": "",
-      "published": "",
-      "title_zh": "中国科技巨头华为被判犯有欺诈等联邦指控"
-    },
-    {
-      "title": "Army to detonate lead explosives in Iowa on Wednesday morning as officials insist plan is necessary",
-      "link": "https://www.nbcnews.com/news/us-news/army-detonate-lead-explosives-iowa-rcna611086",
-      "summary": "",
-      "published": "",
-      "title_zh": "周三上午，军队将在爱荷华州引爆铅炸药，官员坚称计划是必要的"
-    },
-    {
-      "title": "‘Shocking’ decline seen in hep B vaccination, including babies with infected mothers",
-      "link": "https://www.nbcnews.com/health/health-news/hepatitis-b-vaccination-decline-newborns-liver-disease-study-rcna611070",
-      "summary": "",
-      "published": "",
-      "title_zh": "乙型肝炎疫苗接种率出现“令人震惊”的下降，其中包括母亲受感染的婴儿"
-    },
-    {
-      "title": "‘Definitely possible’ for Democrats to win 60 Senate seats in 2028, campaign chief says",
-      "link": "https://www.nbcnews.com/politics/2028-election/democrats-60-senate-seats-possible-2028-elections-gillibrand-rcna610980",
-      "summary": "",
-      "published": "",
-      "title_zh": "竞选负责人表示，民主党“绝对有可能”在 2028 年赢得 60 个参议院席位"
-    },
-    {
-      "title": "Democrats flip Tennessee district Trump won by 24 points in 2024",
-      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-white-house-congress-2026-live-updates-rcna611009",
-      "summary": "",
-      "published": "",
-      "title_zh": "民主党翻转田纳西选区 特朗普在 2024 年以 24 个百分点获胜"
-    },
-    {
-      "title": "‘I clearly heard the voice of the devil’: Pope Francis’ private diary reveals spiritual crisis",
-      "link": "https://www.nbcnews.com/world/the-vatican/pope-francis-private-diary-devil-visions-spiritual-crisis-rcna611050",
-      "summary": "",
-      "published": "",
-      "title_zh": "“我清楚地听到了魔鬼的声音”：教皇方济各的私人日记揭示了精神危机"
+      "title_zh": "迈克尔·鲁兹：911 麦克风在致命的“坚守阵地”射击中错过了关键声音"
     }
   ]
 }
