@@ -1,6 +1,6 @@
 {
-  "date": "20261125",
-  "total": 47,
+  "date": "20261126",
+  "total": 48,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -37,351 +37,358 @@
   },
   "entries": [
     {
-      "title": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa",
-      "link": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "link": "",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "published": "",
+      "title_zh": "以色列法官建议撤销对内塔尼亚胡最严重的指控",
+      "summary_zh": "以色列总理表示，法官表示三起案件中的一起几乎没有定罪的机会，因此他的审判应该结束。"
+    },
+    {
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "link": "",
+      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "published": "",
+      "title_zh": "杜兰·杜兰 (Duran Duran) 吉他手安迪·泰勒 (Andy Taylor) 去世，享年 65 岁",
+      "summary_zh": "这位音乐家曾与他人共同创作了乐队一些最热门的歌曲，他曾接受过前列腺癌治疗。"
+    },
+    {
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "link": "",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "published": "",
+      "title_zh": "油罐车在开罗高速公路坠毁，大火造成31人死亡",
+      "summary_zh": "据报道，这艘油轮在埃及首都一条繁忙的环路上翻车，另有 21 人受伤。"
+    },
+    {
+      "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
+      "link": "",
+      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "published": "",
+      "title_zh": "香港这些房屋的升级改造以一场大火告终，造成 168 人死亡",
+      "summary_zh": "香港最严重的火灾发生一年后，留下的家庭仍在等待正义。"
+    },
+    {
+      "title": "Macy's postpones Thanksgiving parade due to weather",
+      "link": "",
+      "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+      "published": "",
+      "title_zh": "梅西百货因天气原因推迟感恩节游行",
+      "summary_zh": "这是有史以来第一次，这一标志性的庆祝活动——以漂浮在城市摩天大楼上的巨大气球而闻名——因为暴风​​雨而被推迟。"
+    },
+    {
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "link": "",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "published": "",
+      "title_zh": "记录显示，特朗普的账户今年交易了 Nvidia 股票 44 次",
+      "summary_zh": "对美国总统财务披露的审查显示，唐纳德·特朗普的投资组合经常交易这家科技巨头的股票。"
+    },
+    {
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "link": "",
+      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "published": "",
+      "title_zh": "用于测试地球防御能力的小行星图像揭示了体育场大小的陨石坑",
+      "summary_zh": "四年前，一艘航天器被故意撞向这颗小行星，其表面发生了变化"
+    },
+    {
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "link": "",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "published": "",
+      "title_zh": "我们对特朗普感恩节关税的了解",
+      "summary_zh": "唐纳德·特朗普在新一轮关税中针对中国、欧盟和其他 12 个司法管辖区。"
+    },
+    {
+      "title": "Why has China sent the first Pakistani astronaut to space?",
+      "link": "",
+      "summary": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.",
+      "published": "",
+      "title_zh": "中国为何将第一位巴基斯坦宇航员送上太空？",
+      "summary_zh": "巴基斯坦的穆罕默德·泽山·阿里成为第一位登上中国天宫空间站的外国人。"
+    },
+    {
+      "title": "What's driving up the cost of your Thanksgiving turkey?",
+      "link": "",
+      "summary": "BBC Verify has looked into how prices compare with previous years as Democrats blame President Trump for recent rises.",
+      "published": "",
+      "title_zh": "是什么推高了感恩节火鸡的价格？",
+      "summary_zh": "随着民主党指责特朗普总统应为最近的上涨负责，BBC verify 调查了价格与前几年的比较情况。"
+    },
+    {
+      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
+      "link": "",
+      "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+      "published": "",
+      "title_zh": "谎言、伪装和冲浪板包：一位嫉妒的悉尼警察如何试图掩盖双重谋杀案",
+      "summary_zh": "周三，博·拉马尔被判谋杀前任杰西·贝尔德和贝尔德的新搭档卢克·戴维斯。"
+    },
+    {
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "",
+      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "published": "",
+      "title_zh": "乌克兰称五架俄罗斯军用飞机在机场袭击中被击中",
+      "summary_zh": "萨瓦斯利卡机场停有俄罗斯用来向乌克兰发射高超音速导弹和滑翔炸弹的飞机。"
+    },
+    {
+      "title": "Five Mexicans arrested in Nigeria over $227m meth lab",
+      "link": "",
+      "summary": "This is the fourth industrial-scale meth laboratory with alleged links to Mexican drug cartels to have been discovered in Nigeria in recent months.",
+      "published": "",
+      "title_zh": "五名墨西哥人因价值 2.27 亿美元的冰毒实验室在尼日利亚被捕",
+      "summary_zh": "这是近几个月来尼日利亚发现的第四个据称与墨西哥贩毒集团有联系的工业规模冰毒实验室。"
+    },
+    {
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "link": "",
+      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+      "published": "",
+      "title_zh": "哥伦比亚警方冲进超市解救76名被扣押17小时的人质",
+      "summary_zh": "该国总统称，一辆装满现金的装甲车发生故障，遭到抢劫，一名枪手被杀。"
+    },
+    {
+      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+      "link": "",
+      "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+      "published": "",
+      "title_zh": "戈登·拉姆齐 (Gordon Ramsay) 将主持《Top Gear》，节目在弗林托夫事故后恢复播出",
+      "summary_zh": "当该剧明年开拍时，拉姆齐将与尚未透露姓名的联合主持人一起主持。"
+    },
+    {
+      "title": "Canadian astronaut welcomes baby girl  from space station",
+      "link": "",
+      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "published": "",
+      "title_zh": "加拿大宇航员从空间站迎接女婴",
+      "summary_zh": "约书亚·库特里克目前正在执行他的首次太空任务，他是历史上第四位在国际空间站上错过孩子出生的宇航员。"
+    },
+    {
+      "title": "BBC appeals against decision to allow Trump's $10bn lawsuit to go ahead",
+      "link": "",
+      "summary": "The US president is suing the BBC over the way Panorama edited a speech he gave in 2021.",
+      "published": "",
+      "title_zh": "BBC 对允许特朗普 100 亿美元诉讼继续进行的决定提出上诉",
+      "summary_zh": "美国总统正在就《全景》编辑他 2021 年演讲的方式起诉 BBC。"
+    },
+    {
+      "title": "Four goals, chaos and controversy - Man Utd held in Lisbon",
+      "link": "",
+      "summary": "Follow live text commentary, score updates and match stats from Sporting CP vs Manchester United in the UEFA Champions League",
+      "published": "",
+      "title_zh": "四个进球、混乱和争议——曼联在里斯本举行",
+      "summary_zh": "关注葡萄牙体育队 (Sporting CP) 对阵曼联 (Manchester United) 欧冠联赛的实时文字评论、比分更新和比赛统计数据"
+    },
+    {
+      "title": "Macy’s Thanksgiving Day Parade pushed back to Saturday due to weather",
+      "link": "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355",
       "summary": "",
       "published": "",
-      "title_zh": "陆军准备引爆一批铅炸药，有毒烟雾飞过爱荷华州"
+      "title_zh": "梅西百货感恩节游行因天气原因推迟至周六"
     },
     {
-      "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners",
-      "link": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087",
+      "title": "100 years of a holiday spectacle as American as pumpkin pie",
+      "link": "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-100-look-back-history-new-york-city-rcna610087",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普提议对中国和欧盟征收新一轮关税和其他贸易伙伴"
+      "title_zh": "100 年来美国节日奇观如南瓜派"
     },
     {
-      "title": "Jensen Huang apologizes to Nvidia staff, saying he went ‘too far’ and is in therapy",
-      "link": "https://www.nbcnews.com/business/business-news/jensen-huang-says-s-thankful-second-chance-nvidia-employee-meeting-rcna611235",
+      "title": "Bobby Flay’s herb butter-roasted turkey has a bold twist",
+      "link": "https://www.nbcnews.com/recipes/bobby-flay-roasted-turkey-herb-white-wine-dijon-pan-gravy-t352925",
       "summary": "",
       "published": "",
-      "title_zh": "黄仁勋向英伟达员工道歉，称自己“太过分”，正在接受治疗"
+      "title_zh": "鲍比·弗莱 (Bobby Flay) 的香草黄油烤火鸡大胆创新"
     },
     {
-      "title": "Trump says pardon is always an option for Huang, and that invoking the Fifth isn’t necessary",
-      "link": "https://www.nbcnews.com/politics/donald-trump/pardon-always-option-nvidia-jensen-huang-pleading-fifth-not-necessary-rcna611219",
+      "title": "How to add crunch to your roasted green beans",
+      "link": "https://www.nbcnews.com/recipes/crispy-green-beans-shallot-breadcrumbs-t352904",
       "summary": "",
       "published": "",
-      "title_zh": "特朗普表示，赦免黄始终是一个选择，没有必要援引第五条"
+      "title_zh": "如何增加烤青豆的脆度"
     },
     {
-      "title": "Storms and strong winds threaten Thanksgiving travel and Macy’s parade",
-      "link": "https://www.nbcnews.com/weather/storms/live-blog/thanksgiving-travel-weather-storms-forecast-wednesday-rcna611082",
+      "title": "Apple cider blondies bursting with fall flavor",
+      "link": "https://www.nbcnews.com/recipes/apple-cider-blondies-t302214",
       "summary": "",
       "published": "",
-      "title_zh": "暴风雨和强风威胁感恩节旅行和梅西百货游行"
+      "title_zh": "苹果酒金发女郎充满秋天的味道"
     },
     {
-      "title": "2 men charged with burglary after break-in at Prince William and Princess Kate’s country home",
-      "link": "https://www.nbcnews.com/world/united-kingdom/prince-william-princess-kate-break-in-sandringham-estate-charges-rcna611159",
+      "title": "Steelers cut Aaron Rodgers after he blasts coach Mike McCarthy in fiery exit interview",
+      "link": "https://www.nbcnews.com/sports/nfl/aaron-rodgers-blasts-steelers-coach-mike-mccarthy-benching-re-unhealth-rcna611340",
       "summary": "",
       "published": "",
-      "title_zh": "两名男子闯入威廉王子和凯特王妃的乡间别墅后被控入室盗窃"
+      "title_zh": "亚伦·罗杰斯在退出采访中猛烈抨击教练迈克·麦卡锡后，钢人队裁掉了他"
     },
     {
-      "title": "Trump administration officials debating targeting Iran’s leaders, sources say",
-      "link": "https://www.nbcnews.com/politics/national-security/trump-administration-officials-debating-targeting-irans-leaders-source-rcna610889",
+      "title": "Vance says Nvidia CEO Jensen Huang ‘doesn’t need a pardon’",
+      "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/live-updates-white-house-tariffs-china-european-union-rcna611183",
       "summary": "",
       "published": "",
-      "title_zh": "消息人士称，特朗普政府官员正在辩论针对伊朗领导人"
+      "title_zh": "万斯称英伟达首席执行官黄仁勋“不需要赦免”"
     },
     {
-      "title": "Steelers bench Aaron Rodgers, a shocking move in veteran QB’s final season",
-      "link": "https://www.nbcnews.com/sports/nfl/steelers-bench-aaron-rodgers-rcna611247",
+      "title": "Problems with the military’s healthcare system stretch nationwide, infuriating patients",
+      "link": "https://www.nbcnews.com/health/health-care/tricare-military-healthcare-system-problems-stretch-nationwide-rcna607060",
       "summary": "",
       "published": "",
-      "title_zh": "钢人队让亚伦·罗杰斯坐在替补席上，这是老将四分卫最后一个赛季的令人震惊的举动"
+      "title_zh": "军队医疗保健系统的问题遍及全国，激怒了患者"
     },
     {
-      "title": "Hosting a tiny Thanksgiving? Make this juicy roasted turkey breast",
-      "link": "https://www.nbcnews.com/recipes/roasted-turkey-breast-t352902",
+      "title": "More than 700,000 Russian soldiers have died in Ukraine war, new estimate suggests",
+      "link": "https://www.nbcnews.com/world/ukraine/russia-soldiers-killed-ukraine-war-new-estimate-suggests-700000-rcna611048",
       "summary": "",
       "published": "",
-      "title_zh": "举办一个小型的感恩节？制作这个多汁的烤火鸡胸肉"
+      "title_zh": "新估计显示超过70万名俄罗斯士兵在乌克兰战争中丧生"
     },
     {
-      "title": "Black Friday deals are already here. These are the best from Walmart, Apple, PlayStation and more.",
-      "link": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-25-2026-rcna610836",
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/andy-taylor-guitarist-new-wave-icons-duran-duran-dies-65-rcna611367",
       "summary": "",
       "published": "",
-      "title_zh": "黑色星期五优惠已经到来。这些是来自沃尔玛、苹果、PlayStation 等的最佳产品。"
+      "title_zh": "新浪潮偶像杜兰·杜兰 (Duran Duran) 吉他手安迪·泰勒 (Andy Taylor) 去世，享年 65 岁"
     },
     {
-      "title": "How are you affording the holidays?",
-      "link": "https://www.nbcnews.com/news/us-news/holidays-affording-presents-spending-rcna610963",
+      "title": "Mississippi plane crash victims were Florida family returning from a fishing trip",
+      "link": "https://www.nbcnews.com/news/us-news/mississippi-plane-crash-victims-members-prominent-florida-family-rcna611318",
       "summary": "",
       "published": "",
-      "title_zh": "你如何负担假期？"
+      "title_zh": "密西西比州空难的遇难者是佛罗里达州钓鱼归来的一家人"
     },
     {
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "link": "",
-      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-      "published": "",
-      "title_zh": "我的家人在乌克兰被杀。我妈妈指责泽连斯基的军队——事实很复杂",
-      "summary_zh": "BBC 记者阿纳斯塔西娅·格里巴诺娃 (Anastasiya Gribanova) 调查谁在战争中杀害了她的父亲和祖父母。"
-    },
-    {
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "link": "",
-      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-      "published": "",
-      "title_zh": "故意撞击小行星的特写图像将被揭露，以测试保护地球的能力",
-      "summary_zh": "该任务正在研究一颗因航天器相撞而故意偏离轨道的小行星。"
-    },
-    {
-      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-      "link": "",
-      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-      "published": "",
-      "title_zh": "Zoe Kleinman：没有人是不可替代的——除非你是黄仁勋",
-      "summary_zh": "BBC 技术和人工智能编辑讲述 Nvidia 老板如何让自己不可能被解雇。"
-    },
-    {
-      "title": "US announces new tariff proposals on EU, China, and other trade partners",
-      "link": "",
-      "summary": "Different tariffs will apply to different countries and products. China is facing the highest rate of \"up to 40%\" - although the effective rate could be lower.",
-      "published": "",
-      "title_zh": "美国宣布对欧盟、中国和其他贸易伙伴征收新关税",
-      "summary_zh": "不同的国家和产品将适用不同的关税。中国面临着“高达40%”的最高比率——尽管有效比率可能会更低。"
-    },
-    {
-      "title": "'This could be apocalyptic' - a community hunkers down for US Army's controlled explosion",
-      "link": "",
-      "summary": "Some residents tell the BBC that Wednesday's detonation could be life-changing, while others just want it to be over.",
-      "published": "",
-      "title_zh": "“这可能是世界末日”——社区等待美军控制爆炸",
-      "summary_zh": "一些居民告诉英国广播公司，周三的爆炸可能会改变他们的生活，而其他人只是希望它结束​​。"
-    },
-    {
-      "title": "She spent decades as an FBI agent and this is the case she could not let go",
-      "link": "",
-      "summary": "Jane Collins had all but given up on seeing Michael Donovan and Richard Moore face justice. Then they were charged with stealing from a mass-shooter’s brother.",
-      "published": "",
-      "title_zh": "她当了几十年的FBI探员，这就是她无法释怀的案子",
-      "summary_zh": "简·柯林斯几乎放弃了看到迈克尔·多诺万和理查德·摩尔接受正义审判的希望。然后他们被指控从一名大规模枪击案凶手的兄弟那里偷窃。"
-    },
-    {
-      "title": "The CCTV that helped convict a Sydney policeman of double murder",
-      "link": "",
-      "summary": "More than 14,000 hours of CCTV evidence helped convict former police officer Beau Lamarre of killing his ex-partner and the man's new boyfriend in 2024.",
-      "published": "",
-      "title_zh": "帮助悉尼一名警察犯有双重谋杀罪的闭路电视",
-      "summary_zh": "超过 14,000 小时的闭路电视证据帮助前警官 Beau Lamarre 在 2024 年杀害了他的前伴侣和该男子的新男友。"
-    },
-    {
-      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-      "link": "",
-      "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
-      "published": "",
-      "title_zh": "中国航天任务升空，首位巴基斯坦宇航员登上太空",
-      "summary_zh": "中国发射了神舟二十四号航天飞行任务，将三名宇航员送往天宫空间站。"
-    },
-    {
-      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-      "link": "",
-      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-      "published": "",
-      "title_zh": "针对台湾的人工智能假视频浪潮是否是中国幕后黑手？",
-      "summary_zh": "该网络攻击了执政的民进党的关键人物，包括赖主席和市长候选人沉。"
-    },
-    {
-      "title": "Clashing political visions reflect a divided Spain ahead of election",
-      "link": "",
-      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-      "published": "",
-      "title_zh": "政治愿景的冲突反映出西班牙大选前的分裂",
-      "summary_zh": "周日的选举可能会导致极右翼政党首次进入西班牙政府。"
-    },
-    {
-      "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
-      "link": "",
-      "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
-      "published": "",
-      "title_zh": "三分之一的英国年轻人从未发生过性行为，但许多人正在发送色情短信和观看色情片",
-      "summary_zh": "英国越来越多的年轻人从未发生过性行为，但许多人正在发送色情短信和观看色情片。"
-    },
-    {
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "link": "",
-      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "published": "",
-      "title_zh": "南非拉马福萨赢得弹劾威胁法庭诉讼",
-      "summary_zh": "这起入室盗窃事件发生在 2020 年，据称窃贼偷走了藏在农场沙发内的成捆美元钞票。"
-    },
-    {
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "link": "",
-      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
-      "published": "",
-      "title_zh": "所罗门群岛终止与中国签署的有争议的澳大利亚条约安全协议",
-      "summary_zh": "所罗门群岛领导人马修·韦尔表示，所罗门群岛将不再成为地区不确定性的焦点。"
-    },
-    {
-      "title": "Watch: Trump pardons turkeys Freedom and Feathers",
-      "link": "",
-      "summary": "Donald Trump continued a long-standing White House holiday tradition, pardoning two turkeys named Freedom and Feathers.",
-      "published": "",
-      "title_zh": "观看：特朗普赦免火鸡自由和羽毛",
-      "summary_zh": "唐纳德·特朗普延续了白宫长期以来的节日传统，赦免了两只名为“自由”和“羽毛”的火鸡。"
-    },
-    {
-      "title": "UK sent sex offender refugee to Eswatini in undisclosed deal",
-      "link": "",
-      "summary": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.",
-      "published": "",
-      "title_zh": "英国以未公开的协议将性犯罪者难民送往斯威士兰",
-      "summary_zh": "据称，该交易是英国政府强制将难民永久安置在海外的第一起已知案例。"
-    },
-    {
-      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
-      "link": "",
-      "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
-      "published": "",
-      "title_zh": "观看：一群火鸡在马萨诸塞州人行道上追逐女人",
-      "summary_zh": "这名女子说，她不得不跳进陌生人的车，才能躲避一群在人行道上追赶她的火鸡。"
-    },
-    {
-      "title": "Dottin out to 'free ball' after historic WBBL decision",
-      "link": "",
-      "summary": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery.",
-      "published": "",
-      "title_zh": "WBBL历史性决定后多丁出局“自由球”",
-      "summary_zh": "布里斯班的莎拉·格伦（Sarah Glenn）向空的树桩上投球，以解雇墨尔本叛徒队的迪安德拉·多丁（Deandra Dottin），因为她被认为太慢，无法到达折痕并面对她的第一次投球。"
-    },
-    {
-      "title": "Khawaja 'disappointed' by Cummins' personal attack",
-      "link": "",
-      "summary": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
-      "published": "",
-      "title_zh": "卡瓦贾对康明斯的人身攻击感到“失望”",
-      "summary_zh": "前澳大利亚击球手乌斯曼·卡瓦贾 (Usman Khawaja) 表示，随着 2018 年沙纸门丑闻的不断发酵，这“从来不是我与帕特的对决”。"
-    },
-    {
-      "title": "Nation’s largest grocery chain under fire for cutting thousands of US jobs while hiring overseas",
-      "link": "",
-      "summary": "",
-      "published": "",
-      "title_zh": "美国最大的杂货连锁店因在美国裁员数千人同时在海外招聘而受到批评"
-    },
-    {
-      "title": "Army to detonate 5 tons of explosives in Iowa as maps show projected dust plume",
+      "title": "White House accuses South Korea of breaking a promise to President Trump",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "地图显示预计尘埃羽流 陆军将在爱荷华州引爆 5 吨炸药"
+      "title_zh": "白宫指责韩国违背对特朗普总统的承诺"
     },
     {
-      "title": "PAUL MAURO:Mamdani's NYC is America's socialist laboratory and results are already grim",
+      "title": "Macy’s Thanksgiving Day parade postponed for first time in history due to weather",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "保罗·毛罗：马姆达尼的纽约是美国的社会主义实验室，结果已经很严峻"
+      "title_zh": "梅西百货感恩节大游行因天气原因历史首次推迟"
     },
     {
-      "title": "Four-time MVP benched for the first time ever as Pittsburgh makes astonishing QB swap",
+      "title": "Steelers officially release Rodgers, keep coach McCarthy despite embarrassing claims",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "四届 MVP 首次坐上替补席，匹兹堡队进行了惊人的四分卫互换"
+      "title_zh": "钢人队正式释放罗杰斯，保留教练麦卡锡，尽管说法令人尴尬"
     },
     {
-      "title": "Ábrego García lands in Spain after self-deporting, hints at US return after Trump leaves office",
+      "title": "Ilhan Omar investigation reaches grand jury as court records reveal multiple names",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "阿布雷戈·加西亚在自我驱逐后抵达西班牙，暗示特朗普卸任后将返回美国"
+      "title_zh": "法庭记录显示多个名字，伊尔汗·奥马尔的调查已提交大陪审团"
     },
     {
-      "title": "400-year-old shipwreck lock finally opened after researchers crack secret code",
+      "title": "Duran Duran guitarist Andy Taylor dies at 65, bandmates pay emotional tribute",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "研究人员破解密码后，拥有 400 年历史的沉船锁终于打开"
+      "title_zh": "杜兰·杜兰 (Duran Duran) 吉他手安迪·泰勒 (Andy Taylor) 去世，享年 65 岁，乐队成员深表哀悼"
     },
     {
-      "title": "Slain student's mom regrets sanctuary city move ahead of first Thanksgiving",
+      "title": "CBS News seeks to settle $20M defamation lawsuit filed by Maryland teenager",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被杀学生的妈妈对庇护城在第一个感恩节之前搬迁表示遗憾"
+      "title_zh": "哥伦比亚广播公司新闻寻求和解马里兰州青少年提起的 2000 万美元诽谤诉讼"
     },
     {
-      "title": "GOP lawmakers rally behind Trump official as possible 2028 presidential contender",
+      "title": "Actress admits on-screen mom Cher never forgave her for what she did as a teenager",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "共和党议员集会支持特朗普，称其为 2028 年总统候选人"
+      "title_zh": "女演员承认银幕妈妈雪儿从未原谅她十几岁时的所作所为"
     },
     {
-      "title": "Legendary sports broadcaster returns to call plays three years after his death",
+      "title": "Ted Kennedy issued strict order after JFK Jr.’s body was found: retired captain",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "传奇体育广播员去世三年后重返电视节目"
+      "title_zh": "小肯尼迪尸体被发现后特德·肯尼迪发布严格命令：退休队长"
     },
     {
-      "title": "Monster Thanksgiving storms target millions with intense winds, heavy rain, flooding",
+      "title": "‘Anti-Trump hater’ judge strikes again, axing birthright order a second time",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "感恩节怪物风暴袭击数百万人，带来强风、暴雨和洪水"
+      "title_zh": "“反特朗普仇恨者”法官再次出击，第二次废除出生权令"
     },
     {
-      "title": "Remains of all passengers aboard downed Cessna found off Gulf Coast",
+      "title": "Shane Gillis wishes ex 'the best' after essay claiming he 'doesn't like' women",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "被击落的塞斯纳飞机上所有乘客的遗骸在墨西哥湾沿岸被发现"
+      "title_zh": "肖恩·吉利斯在文章声称他“不喜欢”女性后祝愿他“一切顺利”"
     },
     {
-      "title": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
+      "title": "EPA reports zero airborne lead detected following controlled Army detonation in Iowa",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "在美联储下个月加息预期之前，美联储青睐的通胀指标在 10 月份上升"
+      "title_zh": "美国环保署报告称，在爱荷华州受控军队爆炸后，检测到空气中的铅为零"
     },
     {
-      "title": "Two men busted after breaching Anmer Hall despite its £1.5M security overhaul",
+      "title": "3 Dem governors backed new Trump program — Pritzker's reason for saying no sparks fury",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "尽管安默厅进行了 150 万英镑的安全大修，但仍有两名男子在闯入安默厅后被捕"
+      "title_zh": "三位民主党州长支持特朗普的新计划——普利兹克拒绝的理由引发愤怒"
     },
     {
-      "title": "Influencer pulled in $100K weeks in his parents' house and gave millions to strangers",
+      "title": "Hackers gaining extraordinary cyberattack capabilities through AI, expert warns",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "有影响力的人在父母家里每周赚了 10 万美元，并向陌生人捐赠了数百万美元"
+      "title_zh": "专家警告称，黑客通过人工智能获得非凡的网络攻击能力"
     },
     {
-      "title": "LIVE CHAT:Big Ten faces disaster. Will the conference only get one CFP bid in 2026?",
+      "title": "Children's Youtube star Ms. Rachel says she's started swearing over Gaza conflict",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "实时聊天：十大面临灾难。2026 年会议是否只会获得 1 个 CFP 投标？"
+      "title_zh": "YouTube 儿童频道明星雷切尔女士表示，她开始因加沙冲突而咒骂"
     },
     {
-      "title": "GREG GUTFELD:Masks still work in this respect…",
+      "title": "American teen could become first Gen Z saint as Catholic bishops vote to advance",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "GREG GUTFELD：口罩在这方面仍然有效......"
+      "title_zh": "天主教主教投票赞成晋级，美国青少年可能成为第一位 Z 世代圣人"
     },
     {
-      "title": "Black country star admits Black critics 'crushes your soul' worse than White racism",
+      "title": "Pizza becomes unexpected go-to at Thanksgiving time, new report finds",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "黑人乡村明星承认黑人批评者“粉碎你的灵魂”比白人种族主义更严重"
+      "title_zh": "新报告发现，披萨成为感恩节期间意想不到的首选"
     },
     {
-      "title": "MICHAEL RUIZ:911 mic missed a crucial sound in fatal 'stand your ground' shooting",
+      "title": "Tony Romo ditches the broadcast booth for Jake Paul's betting empire",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "迈克尔·鲁兹：911 麦克风在致命的“坚守阵地”射击中错过了关键声音"
+      "title_zh": "托尼·罗莫 (Tony Romo) 为杰克·保罗 (Jake Paul) 的博彩帝国抛弃了广播亭"
+    },
+    {
+      "title": "Parents of slain Oregon kindergartner take legal aim at school shooter’s mother",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "被杀的俄勒冈州幼儿园学生的父母对校园枪击案凶手的母亲采取法律行动"
+    },
+    {
+      "title": "BOBBY BURACK:Explosive Aaron Rodgers interview is why ESPN pays Pat McAfee $60 million",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "鲍比·伯拉克：亚伦·罗杰斯的爆炸性采访是 ESPN 向帕特·迈克菲支付 6000 万美元的原因"
     }
   ]
 }
