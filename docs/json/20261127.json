@@ -1,0 +1,314 @@
+{
+  "date": "20261127",
+  "total": 37,
+  "sources": {
+    "theguardian": {
+      "status": "ok",
+      "entries": 0
+    },
+    "bbc": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nbcnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "nytimes": {
+      "status": "ok",
+      "entries": 0
+    },
+    "cnn": {
+      "status": "ok",
+      "entries": 0
+    },
+    "fox": {
+      "status": "ok",
+      "entries": 0
+    },
+    "apnews": {
+      "status": "ok",
+      "entries": 0
+    },
+    "reuters": {
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "entries": [
+    {
+      "title": "Trump draws line on Somali welfare in Thanksgiving post: ‘Thrown out, immediately’",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "特朗普在感恩节帖子中对索马里福利划清界限：“立即抛弃”"
+    },
+    {
+      "title": "UK calls up reservists at Cold War-scale as threat environment worsens",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "随着威胁环境恶化，英国征召冷战规模的预备役军人"
+    },
+    {
+      "title": "Driver suspected of causing fuel tanker crash that killed dozens taken into custody",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "涉嫌造成数十人死亡的油罐车事故的司机被拘留"
+    },
+    {
+      "title": "Extreme weather disrupts Amtrak service on both coasts",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "极端天气扰乱了美铁两岸的服务"
+    },
+    {
+      "title": "Iconic 1960s supermodel, who appeared in 'Blow-Up' and 'Casino Royale,' dead at 87",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "曾出演《放大》和《皇家赌场》的 20 世纪 60 年代标志性超模去世，享年 87 岁"
+    },
+    {
+      "title": "North Korea reportedly freezes missile deliveries to Russia after allies clash over Seoul",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "据报道，在盟友因首尔问题发生冲突后，朝鲜冻结了向俄罗斯运送导弹"
+    },
+    {
+      "title": "One alcohol question should never be asked at holiday parties, expert says",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "专家表示，在节日聚会上永远不应该问一个关于酒精的问题"
+    },
+    {
+      "title": "Jennifer Lawrence ranks five former costars from worst to best on-screen kiss",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "詹妮弗·劳伦斯对五位前搭档的银幕接吻从最差到最佳进行了排名"
+    },
+    {
+      "title": "Rodgers, McCarthy draft drama, sideline blowups exposed after explosive breakup",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "罗杰斯、麦卡锡选秀戏剧，爆炸性分手后场外爆发曝光"
+    },
+    {
+      "title": "Gobble up the savings with Amazon's Black Friday sale — up to 70% off Apple, Ninja, Hanes and more",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "通过 Amazon 黑色星期五促销尽情享受省钱 — Apple、Ninja、Hanes 等产品最高可享受 70% 的折扣"
+    },
+    {
+      "title": "Iran adviser accuses Ukraine of staging deadly drone strike to impress Trump",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "伊朗顾问指责乌克兰发动致命无人机袭击以取悦特朗普"
+    },
+    {
+      "title": "Sylvester Stallone hit Hollywood with $500 left and nobody to call except Henry Winkler",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "西尔维斯特·史泰龙 (Sylvester Stallone) 带着 500 美元闯进好莱坞，除了亨利·温克勒 (Henry Winkler) 之外无人可打电话"
+    },
+    {
+      "title": "'One Job Away' exposes how badly Hollywood's production drought has hit performers",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "'One Job Away' exposes how badly Hollywood's production drought has hit performers"
+    },
+    {
+      "title": "Jack Nicholson's son Ray confesses they 'can't talk about a lot' in rare update",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "杰克·尼科尔森的儿子雷在罕见的更新中承认他们“不能谈论太多”"
+    },
+    {
+      "title": "Zelenskyy warns Russia is planning a ‘massive’ strike against Ukraine",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "泽连斯基警告俄罗斯正计划对乌克兰发动“大规模”打击"
+    },
+    {
+      "title": "Wayfair early Black Friday deals: Save up to 87% on furniture, bedding and decor",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "Wayfair 黑色星期五早期优惠：家具、床上用品和装饰品最高可节省 87%"
+    },
+    {
+      "title": "Charlie Brown voice actor says he didn’t receive ‘a single residual’ for nearly 50 years",
+      "link": "",
+      "summary": "",
+      "published": "",
+      "title_zh": "查理·布朗配音演员表示，近 50 年来他没有收到“任何残留物”"
+    },
+    {
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "link": "",
+      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "published": "",
+      "title_zh": "泽伦斯基在 BBC 采访中质疑特朗普与普京的“奇怪”友谊",
+      "summary_zh": "乌克兰总统告诉英国广播公司，俄罗斯总统弗拉基米尔·普京不应被视为朋友。"
+    },
+    {
+      "title": "'Think twice': Banff officials issue warning over thin ice after skater's death",
+      "link": "",
+      "summary": "After three separate incidents, one fatal, at Lake Louise, Parks Canada is warning visitors to be cautious after a warmer than average November.",
+      "published": "",
+      "title_zh": "“三思而后行”：班夫官员在滑冰者死亡后对薄冰发出警告",
+      "summary_zh": "路易斯湖发生三起独立事件（其中一起造成死亡）后，加拿大公园管理局警告游客在十一月气温高于平均水平后要保持谨慎。"
+    },
+    {
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "link": "",
+      "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
+      "published": "",
+      "title_zh": "感恩节大风暴给美国带来洪水和航班延误",
+      "summary_zh": "大规模风暴正在美国两岸肆虐，带来阵风、暴雨、树木倒塌以及数十万客户停电。"
+    },
+    {
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "link": "",
+      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "published": "",
+      "title_zh": "观看：恶劣天气袭击美国，屋顶被掀翻，街道被水淹没",
+      "summary_zh": "随着感恩节假期周末开始，该国数十万人受到风暴影响。"
+    },
+    {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "link": "",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "published": "",
+      "title_zh": "亚洲在 Nvidia 的人工智能领域下了很大的赌注。现在会发生什么？",
+      "summary_zh": "在黄仁勋出任英伟达首席执行官后，亚洲股市经历了过山车般的波动。"
+    },
+    {
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "link": "",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "published": "",
+      "title_zh": "我父亲的手表在他去世的那一刻就停止了——我在香港塔火灾的灰烬中发现了它",
+      "summary_zh": "这座城市正值一场大火烧毁七座公寓楼、造成 168 人死亡的一周年。"
+    },
+    {
+      "title": "Spanish elections: What you need to know and what's at stake",
+      "link": "",
+      "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+      "published": "",
+      "title_zh": "西班牙选举：您需要了解什么以及利害攸关的事情",
+      "summary_zh": "经过社会党领导的八年统治后，周日将举行提前选举，保守派的阿尔贝托·努涅斯·费乔将争夺总统职位。"
+    },
+    {
+      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+      "link": "",
+      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "published": "",
+      "title_zh": "一项旨在改善这些香港房屋的翻修工程最终导致一场火灾，导致 168 人死亡",
+      "summary_zh": "香港最严重的火灾发生一年后，留下的家庭仍在等待正义。"
+    },
+    {
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "link": "",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "published": "",
+      "title_zh": "BBC 发现德国船舶经销商涉嫌向海峡走私团伙供货",
+      "summary_zh": "据称，2026 年初，近三分之一的过境事件涉及德国男子公司的船只或发动机。"
+    },
+    {
+      "title": "Watch: Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+      "link": "",
+      "summary": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
+      "published": "",
+      "title_zh": "观看：参议员带孩子上班时澳大利亚议会的政治和躲猫猫",
+      "summary_zh": "参议员莉迪亚·索普 (Lidia Thorpe) 让 6 个月大的艾丽雅 (Aaliyah) 开心不已，而她的妈妈参议员法蒂玛·佩曼 (Fatima Payman) 则参加了在线安全法案辩论。"
+    },
+    {
+      "title": "Two runners win award for fair play after helping man finish Boston Marathon",
+      "link": "",
+      "summary": "Northern Ireland's Aaron Beggs is one of two runners awarded the International Fair Play award after they stepped in to help a fellow competitor cross the finish line at the Boston Marathon.",
+      "published": "",
+      "title_zh": "两名跑步者帮助男子完成波士顿马拉松比赛后荣获公平竞赛奖",
+      "summary_zh": "北爱尔兰的亚伦·贝格斯 (Aaron Beggs) 是两名获得国际公平竞赛奖的跑步者之一，他们在波士顿马拉松比赛中帮助另一位参赛者冲过终点线。"
+    },
+    {
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "link": "",
+      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+      "published": "",
+      "title_zh": "曼谷炼油厂发生爆炸，九人受伤，三人伤势严重",
+      "summary_zh": "爆炸发生后，曼谷天际线上可见黑烟，官员敦促居民离开该地区。"
+    },
+    {
+      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "link": "",
+      "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+      "published": "",
+      "title_zh": "杜兰·杜兰 (Duran Duran) 吉他手安迪·泰勒 (Andy Taylor) 去世，享年 65 岁，向他致敬",
+      "summary_zh": "西蒙·勒邦和他的其他乐队成员说泰勒“给我们的音乐带来了不可磨灭的热情和自信”。"
+    },
+    {
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "link": "",
+      "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+      "published": "",
+      "title_zh": "缅甸拒绝遵守国际法院种族灭绝裁决的部分内容",
+      "summary_zh": "国际法院（ICJ）做出了一项具有里程碑意义的裁决，判定缅甸对罗辛亚少数民族犯有种族灭绝罪。"
+    },
+    {
+      "title": "Fury 'never received' schizophrenia diagnosis",
+      "link": "",
+      "summary": "Paris Fury, the wife of Tyson Fury, says the boxer has never received a diagnosis of schizophrenia.",
+      "published": "",
+      "title_zh": "弗瑞“从未接受过”精神分裂症诊断",
+      "summary_zh": "泰森·弗瑞的妻子帕丽斯·弗瑞表示，泰森·弗瑞从未被诊断出患有精神分裂症。"
+    },
+    {
+      "title": "Iowa residents mark Thanksgiving with lingering fears after chemical detonation",
+      "link": "https://www.nbcnews.com/news/us-news/army-says-detonation-bomb-chemicals-iowa-success-rcna611434",
+      "summary": "",
+      "published": "",
+      "title_zh": "化学爆炸后，爱荷华州居民带着挥之不去的恐惧来庆祝感恩节"
+    },
+    {
+      "title": "How comedian Joey Cllft uses humor to spotlight Native American history",
+      "link": "https://podcasts.apple.com/us/podcast/heres-the-scoop/id1820996352?i=1000804208293",
+      "summary": "",
+      "published": "",
+      "title_zh": "喜剧演员乔伊·克利夫特如何用幽默来聚焦美洲原住民的历史"
+    },
+    {
+      "title": "US troops in Poland get a taste of Thanksgiving",
+      "link": "https://www.today.com/video/how-us-troops-stationed-in-poland-celebrate-thanksgiving-274222149700",
+      "summary": "",
+      "published": "",
+      "title_zh": "驻波兰美军尝尝感恩节滋味"
+    },
+    {
+      "title": "Bears stun Lions on late Rome Odunze touchdown to win 39-35",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-stun-lions-on-late-rome-odunze-td?cid=nbcnews",
+      "summary": "",
+      "published": "",
+      "title_zh": "熊队在罗马奥敦泽末段触地得分中击败雄狮队，以 39-35 获胜"
+    },
+    {
+      "title": "French film star Gerard Depardieu to stand trial for rape, lawyer says",
+      "link": "https://www.nbcnews.com/world/france/french-film-star-gerard-depardieu-stand-trial-rape-lawyer-says-rcna611428",
+      "summary": "",
+      "published": "",
+      "title_zh": "律师称，法国电影明星杰拉尔·德帕迪约因强奸罪将受审"
+    }
+  ]
+}
