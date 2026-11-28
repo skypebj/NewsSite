@@ -1,6 +1,6 @@
 {
   "date": "20261128",
-  "total": 39,
+  "total": 28,
   "sources": {
     "theguardian": {
       "status": "ok",
@@ -37,292 +37,214 @@
   },
   "entries": [
     {
-      "title": "Lines, shortages and chaos greet the city-run grocery pilot at its launch",
+      "title": "Everything to know about the 100th Macy’s Thanksgiving Day Parade",
+      "link": "https://www.nbcnews.com/news/us-news/macys-parade-2026-where-watch-time-thanksgiving-day-streaming-channel-rcna609932",
+      "summary": "",
+      "published": "",
+      "title_zh": "关于第 100 届梅西百货感恩节游行的所有信息"
+    },
+    {
+      "title": "Black Friday shoppers head to brick-and-mortar stores across the U.S.",
+      "link": "https://www.nbcnews.com/news/us-news/black-friday-shoppers-head-brick-mortar-stores-us-rcna611564",
+      "summary": "",
+      "published": "",
+      "title_zh": "黑色星期五购物者前往美国各地的实体店"
+    },
+    {
+      "title": "Luka Dončić is a scoring machine. The NBA has rarely seen anything like it.",
+      "link": "https://www.nbcnews.com/sports/nba/luka-doncc-scoring-machine-nba-rarely-seen-anything-rcna610109",
+      "summary": "",
+      "published": "",
+      "title_zh": "卢卡·东契奇是得分机器。NBA 很少有这样的事情发生。"
+    },
+    {
+      "title": "Pakistan and Turkey pledge to support Saudi Arabia against Houthi attacks under defense pact",
+      "link": "https://www.nbcnews.com/world/pakistan/pakistan-turkey-pledge-support-saudi-arabia-houthi-attacks-defense-pac-rcna611628",
+      "summary": "",
+      "published": "",
+      "title_zh": "巴基斯坦和土耳其承诺根据防务协议支持沙特阿拉伯抵御胡塞武装袭击"
+    },
+    {
+      "title": "Zohran Mamdani has successful surgery for torn Achilles and will make full recovery, staff says",
+      "link": "https://www.nbcnews.com/news/us-news/zohran-mamdani-surgery-torn-achilles-successful-ll-make-full-recovery-rcna611501",
+      "summary": "",
+      "published": "",
+      "title_zh": "工作人员表示，佐兰·马姆达尼 (Zohran Mamdani) 的跟腱撕裂手术成功，将完全康复"
+    },
+    {
+      "title": "US strikes commercial vessel as Trump singles out underground Iranian complex",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "城市经营的杂货试点项目启动后，排队、短缺和混乱迎接了他们"
+      "title_zh": "特朗普点名伊朗地下设施，美国袭击商船"
     },
     {
-      "title": "WATCH:Cop delivers tense message to surrounded ICE agents before walking away",
+      "title": "Macy’s Thanksgiving Day Parade cleared for Saturday morning after historic postponement",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "观看：警察在离开前向被包围的 ICE 特工传递了紧张的信息"
+      "title_zh": "梅西百货感恩节游行在历史性推迟后于周六上午举行"
     },
     {
-      "title": "US combat pilot tells Trump what he’s observed about Iran’s military after months of war",
+      "title": "Older adults low in key vitamin stay awake longer during the night, data shows",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国战斗飞行员告诉特朗普他在几个月的战争后对伊朗军队的观察"
+      "title_zh": "数据显示，关键维生素含量低的老年人在夜间保持清醒的时间更长"
     },
     {
-      "title": "Steelers and Broncos players send messages to Aaron Rodgers with TD celebrations",
+      "title": "Former SEC head coach resigns from Group of 5 job after five-year stint",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "钢人队和野马队球员向亚伦·罗杰斯发送达阵庆祝信息"
+      "title_zh": "前 SEC 主教练在任职五年后辞去五国集团职务"
     },
     {
-      "title": "New California law could keep teens in booster seats until age 16 unless they pass test",
+      "title": "Bronson Reed, one of WWE's rising stars in the ring, has died at the age of 38",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "加州新法律规定青少年 16 岁之前必须使用加高座椅，除非他们通过测试"
+      "title_zh": "WWE 擂台上冉冉升起的新星之一布朗森·里德 (Bronson Reed) 去世，享年 38 岁"
     },
     {
-      "title": "Mexico files formal complaint over new DEA tip line targeting cartel operatives",
+      "title": "Arch Manning, Longhorns hold off Texas A&M to punch ticket to SEC Championship Game",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "墨西哥对 DEA 针对贩毒集团成员的新举报线提出正式投诉"
+      "title_zh": "阿奇·曼宁 (Arch Manning) 和长角牛队 (Longhorns) 击败德州农工大学 (Texas A&M) 获得 SEC 冠军赛门票"
     },
     {
-      "title": "Country music star escapes to Alaska wilderness,  7 miles from nearest neighbor",
+      "title": "Trump's anonymous narco-reporting tool sends Mexican president into diplomatic protest",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "乡村音乐明星逃到距离最近邻居 7 英里的阿拉斯加荒野"
+      "title_zh": "特朗普的匿名毒品举报工具引发墨西哥总统的外交抗议"
     },
     {
-      "title": "Americans refuse to change one classic Thanksgiving side dish invented 71 years ago",
+      "title": "JOE MACHI:Marlon Humphrey controversy illustrates the ‘many problems of wokeness’",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "美国人拒绝改变 71 年前发明的一道经典感恩节配菜"
+      "title_zh": "乔·马奇：马龙·汉弗莱的争议说明了“觉醒的许多问题”"
     },
     {
-      "title": "Three former presidents with three wildly different first-week book sales",
+      "title": "Former NFL star who blocked for Walter Payton, helped disadvantaged youth, dead at 73",
       "link": "",
       "summary": "",
       "published": "",
-      "title_zh": "三位前总统的首周图书销量截然不同"
+      "title_zh": "为沃尔特·佩顿 (Walter Payton) 盖帽、帮助弱势青少年的前 NFL 球星去世，享年 73 岁"
     },
     {
-      "title": "The Black Friday deals you can still grab tonight: AirPods, robovacs and Ninja appliances",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "link": "",
-      "summary": "",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "published": "",
-      "title_zh": "今晚您仍然可以享受黑色星期五优惠：AirPods、robovacs 和 Ninja 电器"
+      "title_zh": "西班牙首相和竞争对手在最后投票中集结支持者",
+      "summary_zh": "总理佩德罗·桑切斯想要反抗民意调查，他的主要竞争对手指责他不说实话并“背叛”。"
     },
     {
-      "title": "Popular bucket-list destination comes with serious warning for American travelers",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
       "link": "",
-      "summary": "",
+      "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
       "published": "",
-      "title_zh": "热门目的地清单对美国游客提出严重警告"
+      "title_zh": "WWE称澳大利亚摔跤手布朗森·里德去世，享年38岁",
+      "summary_zh": "人们纷纷向这位 38 岁的澳大利亚人表示哀悼，他身后留下了怀孕的妻子、他们的女儿佩奇。"
     },
     {
-      "title": "Jerry Jones addresses Cowboys coach's future after humiliating Thanksgiving loss",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
       "link": "",
-      "summary": "",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
       "published": "",
-      "title_zh": "杰里·琼斯在感恩节失利后谈到了牛仔队教练的未来"
+      "title_zh": "业主告诉英国广播公司，土耳其官员“摧毁”了亲反对派电视频道",
+      "summary_zh": "Halk TV 总部上个月遭到突击搜查，这是针对批评政府的新闻来源的一系列镇压行动中的最新一起。"
     },
     {
-      "title": "NBC pulls anti-Israel ad that aired during 'SNL' Thanksgiving special",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
       "link": "",
-      "summary": "",
+      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
       "published": "",
-      "title_zh": "NBC 撤下在“SNL”感恩节特别节目期间播出的反以色列广告"
+      "title_zh": "中国惊人崛起的背后，那些反抗的声音说他们正在被淹没",
+      "summary_zh": "中国巨大的影响力现在也体现在软实力上。批评者和持不同政见者表示，他们的声音被淹没了。"
     },
     {
-      "title": "Former White House official exposes hidden AI threat behind recent tech outages",
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
       "link": "",
-      "summary": "",
+      "summary": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
       "published": "",
-      "title_zh": "前白宫官员揭露了最近技术中断背后隐藏的人工智能威胁"
+      "title_zh": "凯瑟琳的情感癌症纪录片剥去了僵硬的上唇",
+      "summary_zh": "威尔士王妃制作了一部纪录片《Heal》，用她自己的话描述了她的癌症经历。"
     },
     {
-      "title": "Slain student’s parents blast accused killer’s jail request: ‘Haven’t slept one night’",
+      "title": "Two American Airlines planes clip wings before takeoff at Reagan airport in 'tense' moment",
       "link": "",
-      "summary": "",
+      "summary": "No injuries were reported, and the FAA plans to investigate the incident, which occurred during taxiing.",
       "published": "",
-      "title_zh": "被害学生家长强烈谴责凶手入狱请求：“一晚没睡”"
+      "title_zh": "两架美国航空飞机在里根机场起飞前“紧张”时刻折断机翼",
+      "summary_zh": "目前没有人员受伤的报告，美国联邦航空局计划调查这起滑行期间发生的事件。"
     },
     {
-      "title": "Wayne Newton says Ronald Reagan had one quality today's politicians are missing",
+      "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
       "link": "",
-      "summary": "",
+      "summary": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
       "published": "",
-      "title_zh": "韦恩·牛顿说罗纳德·里根拥有当今政治家所缺少的一种品质"
+      "title_zh": "卡莉·雷·杰普森 (Carly Rae Jepsen) 的病毒式传播证明了粉丝们一直以来都知道的事实",
+      "summary_zh": "这位《Call Me Maybe》明星重返英国前 40 名，她的单曲《Run Away With Me》在《GTA VI》中得到提升。"
     },
     {
-      "title": "Black Friday ends tonight: The Amazon deals worth grabbing before midnight",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
       "link": "",
-      "summary": "",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
       "published": "",
-      "title_zh": "黑色星期五今晚结束：午夜前值得抢购的亚马逊优惠"
+      "title_zh": "尼日利亚“终极硬汉”成为网络迷因",
+      "summary_zh": "在成为尼日利亚电影界家喻户晓的人物之前，Edochie 曾从事广播事业。"
     },
     {
-      "title": "Historic Thanksgiving storms leave lingering major threats for millions into the weekend",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
       "link": "",
-      "summary": "",
+      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
       "published": "",
-      "title_zh": "历史性的感恩节风暴给数百万人带来的重大威胁持续到周末"
+      "title_zh": "印度“塔玛莎女王”的粉丝为一场从未发生过的演出付费",
+      "summary_zh": "一部新的宝莱坞电影聚焦了舞者兼歌手维塔拜·纳拉扬冈卡 (Vithabai Narayangaonkar) 的非凡生活。"
     },
     {
-      "title": "Eagles kicker missed ex-NFLer's warning about eating postgame Thanksgiving food",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
       "link": "",
-      "summary": "",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
       "published": "",
-      "title_zh": "老鹰队踢球手错过了前美国国家橄榄球联盟球员关于赛后感恩节食物的警告"
+      "title_zh": "游戏玩家如何利用 AI 和泄露的文件来克隆《侠盗猎车手 6》",
+      "summary_zh": "由于正式的 PC 版本可能还需要几个月的时间，粉丝们已经变得不耐烦了。"
     },
     {
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
       "link": "",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
       "published": "",
-      "title_zh": "“我们不能轻易放弃”：感恩节游行重新安排后，游行乐队争先恐后地支付费用",
-      "summary_zh": "纽约市的暴风雨天气促使组织者将梅西百货游行推迟两天，导致一些音乐家陷入困境。"
+      "title_zh": "阿姆斯特丹机场行李内发现稀有海龟",
+      "summary_zh": "官员称，这些濒临灭绝的爬行动物被胶带绑住，以防止它们移动。"
     },
     {
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "title": "New satellite data shows how fast some African cities are sinking",
       "link": "",
-      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
       "published": "",
-      "title_zh": "巴西反驳马克龙称其肉类“掺杂”",
-      "summary_zh": "在欧盟禁止巴西牛肉和家禽产品几个月后，法国总统在与法国农业代表交谈时发表了上述言论。"
+      "title_zh": "新的卫星数据显示一些非洲城市下沉的速度有多快",
+      "summary_zh": "一项新的研究显示，拉各斯和亚历山大等城市的下沉速度比之前想象的要快。"
     },
     {
-      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "title": "Cricket Australia may not like sandpaper forum findings, says former England captain",
       "link": "",
-      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "summary": "Cricket Australia will not like what it finds from a forum into the sandpaper scandal, according to former England captain Michael Vaughan.",
       "published": "",
-      "title_zh": "检察官寻求对“毒贩”肯尼思·罗判处25年监禁",
-      "summary_zh": "这名加拿大男子今年早些时候承认了 14 项协助和教唆自杀罪名，将在晚些时候被判刑。"
+      "title_zh": "前英格兰队长表示，澳大利亚板球协会可能不喜欢砂纸论坛的调查结果",
+      "summary_zh": "前英格兰队队长迈克尔·沃恩表示，澳大利亚板球协会不会喜欢砂纸丑闻论坛所发现的情况。"
     },
     {
-      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "title": "How a football team rebuilt after 19 players died in plane crash",
       "link": "",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
       "published": "",
-      "title_zh": "美国遭受感恩节风暴袭击后一天仍有数十万人断电",
-      "summary_zh": "周五，宾夕法尼亚州和邻近各州的海岸都遭受了风雨袭击，仍然受到严重影响。"
-    },
-    {
-      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
-      "link": "",
-      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
-      "published": "",
-      "title_zh": "感恩节严重暴风雨导致道路被淹、树木倒塌",
-      "summary_zh": "感恩节假期期间，美国两岸遭遇恶劣天气，导致数十万人断电。"
-    },
-    {
-      "title": "'A lonely road': Catherine joins cancer support group in new documentary",
-      "link": "",
-      "summary": "The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.",
-      "published": "",
-      "title_zh": "“一条孤独的路”：凯瑟琳在新纪录片中加入癌症支持小组",
-      "summary_zh": "这部纪录片讲述了她在癌症诊断后对自己的疾病和康复的个人想法。"
-    },
-    {
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "link": "",
-      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
-      "published": "",
-      "title_zh": "加拿大最高法院基本维持魁北克禁止公务员使用宗教标志的禁令",
-      "summary_zh": "该法律面临来自一系列群体的法律挑战，其中包括穆斯林女教师、锡克教女教师和天主教女教师，她们认为该法律侵犯了她们的基本权利。"
-    },
-    {
-      "title": "GTA 6 crashes into top end of music chart after its record launch",
-      "link": "",
-      "summary": "Several songs on the game's soundtrack have climbed the UK's singles chart.",
-      "published": "",
-      "title_zh": "GTA 6 发行唱片后跻身音乐排行榜榜首",
-      "summary_zh": "游戏原声带中的多首歌曲已登上英国单曲排行榜。"
-    },
-    {
-      "title": "Why snooker could be the most mentally challenging sport",
-      "link": "",
-      "summary": "With Mark Allen the latest snooker player to talk about his mental health struggles, BBC Sport looks at why the sport is so mentally challenging - and what is being done to help.",
-      "published": "",
-      "title_zh": "为什么斯诺克可能是最具智力挑战的运动",
-      "summary_zh": "最新一位斯诺克选手马克·艾伦谈论了他的心理健康问题，BBC 体育频道探讨了为什么这项运动对心理如此具有挑战性，以及正在采取哪些措施来提供帮助。"
-    },
-    {
-      "title": "What to know about the Supreme Court decision on Quebec's secularism bill",
-      "link": "",
-      "summary": "Canada's Supreme Court largely upheld Quebec's secularism law in one of the most closely watched decisions in its history.",
-      "published": "",
-      "title_zh": "关于最高法院对魁北克世俗主义法案的裁决的了解",
-      "summary_zh": "加拿大最高法院在很大程度上维持了魁北克省的世俗主义法，这是其历史上最受关注的决定之一。"
-    },
-    {
-      "title": "10 of the most popular Gen-Z and Alpha words of 2026 - and what they mean",
-      "link": "",
-      "summary": "From whimsy and aura farming to sludge and slop, here are some of the phrases that have grabbed the zeitgeist.",
-      "published": "",
-      "title_zh": "2026 年 Z 世代和 Alpha 时代最流行的 10 个单词及其含义",
-      "summary_zh": "从异想天开和光环农业到污泥和污水，以下是一些抓住时代精神的短语。"
-    },
-    {
-      "title": "Millions in UK lose access to benefits and pensions services after 'cyber incident'",
-      "link": "",
-      "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
-      "published": "",
-      "title_zh": "“网络事件”后，数百万人失去英国福利和养老金服务",
-      "summary_zh": "工作和养老金部表示，作为预防措施，其部分服务已被关闭。"
-    },
-    {
-      "title": "Specialist 'quad squad' called in to deliver shocked couple's four babies",
-      "link": "",
-      "summary": "A team of 30 clinicians helped deliver the quadruplets, following a one in 700,000 pregnancy.",
-      "published": "",
-      "title_zh": "专家“四人组”前来接生震惊夫妇的四个婴儿",
-      "summary_zh": "一个由 30 名临床医生组成的团队帮助分娩了四胞胎，怀孕率为 70 万分之一。"
-    },
-    {
-      "title": "Hero dog given bravery honour for saving owner",
-      "link": "",
-      "summary": "Holly the Jack Russell repeatedly ran for help and led rescuers to where her owner lay after a fall.",
-      "published": "",
-      "title_zh": "英雄狗因拯救主人而获得勇敢荣誉",
-      "summary_zh": "杰克罗素霍莉多次跑去寻求帮助，并带领救援人员到她主人摔倒后躺着的地方。"
-    },
-    {
-      "title": "Five-try Ireland beat Australia in autumn finale",
-      "link": "",
-      "summary": "Ireland secure a fifth-place finish in the inaugural Nations Championship thanks to a 38-14 victory over Australia in London.",
-      "published": "",
-      "title_zh": "五次尝试爱尔兰在秋季决赛中击败澳大利亚",
-      "summary_zh": "爱尔兰在伦敦以 38-14 战胜澳大利亚，获得首届国家锦标赛第五名。"
-    },
-    {
-      "title": "Hackers attack and penetrate Air Force’s computing platform",
-      "link": "https://www.nbcnews.com/news/us-news/hackers-attack-penetrate-air-forces-computing-platform-rcna611559",
-      "summary": "",
-      "published": "",
-      "title_zh": "黑客攻击并渗透空军的计算平台"
-    },
-    {
-      "title": "Princess Kate wants people to learn from her cancer journey in vulnerable new documentary",
-      "link": "https://www.nbcnews.com/world/united-kingdom/princess-kate-wants-people-learn-cancer-journey-vulnerable-new-documen-rcna611259",
-      "summary": "",
-      "published": "",
-      "title_zh": "凯特王妃希望人们在脆弱的新纪录片中从她的癌症之旅中学习"
-    },
-    {
-      "title": "No Aaron Rodgers? No problem. Steelers crush Broncos 27-5 with dominant defense",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/no-aaron-rodgers-no-problem-steelers-crush-broncos-with-dominant-defense?cid=nbcnews",
-      "summary": "",
-      "published": "",
-      "title_zh": "没有亚伦罗杰斯吗？没问题。钢人队凭借防守优势以27-5击败野马队"
-    },
-    {
-      "title": "An influencer, two law firms and competing allegations of scamming vulnerable immigrants",
-      "link": "https://www.nbcnews.com/news/us-news/influencer-accused-lawyers-running-immigration-scam-issue-complicated-rcna609833",
-      "summary": "",
-      "published": "",
-      "title_zh": "一位影响者、两家律师事务所以及诈骗弱势移民的相互指控"
-    },
-    {
-      "title": "Dangerous precedent",
-      "link": "https://www.nbcnews.com/tech/tech-news/trump-nvidia-jensen-huang-ceo-board-intervention-tech-oligarchy-rcna611088",
-      "summary": "",
-      "published": "",
-      "title_zh": "危险的先例"
+      "title_zh": "19名球员在空难中丧生后，一支足球队如何重建",
+      "summary_zh": "巴西足球队在一场飞机失事导致大部分球员和工作人员丧生后，如何在前往本应是他们一生中最重要的比赛的途中再次崛起。"
     }
   ]
 }
